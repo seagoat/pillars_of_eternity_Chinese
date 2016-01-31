@@ -24,3 +24,7 @@ Pillars of Eternity Chinese translation pack | 永恒之柱中文汉化包
 
 ## 参考
 * 官方汉化工具说明页:http://forums.obsidian.net/topic/83837-update-104-last-chance/
+
+## 关于版权
+*感谢游侠和 3DM 的汉化。*
+*我只是搬运工*
