@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>66</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Oh! Oh, it's working! Yes! I can't believe it, it's really - Oh." The dwarven woman looks at you, a disappointed expression on her face. In her hands is a large, rectangular box, covered in strange dials and symbols.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I hope you've had some luck! And do take care with that device. It has a few rather delicate components."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Do you think I should include an account of the ogre raid in my report? I find the research exciting enough, but kith do enjoy a good drama."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Oh, leave me be. It'll be hard enough to salvage this expedition without your gloating."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Still can't believe it. I was sure it would work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"This is going to be fantastic! Just wait until they hear about this back home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"My ore-locating divination tool! Well, that's what it will be. I have to calibrate it. Right now it seems to think you're a copper deposit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I didn't find any ore deposits - but I did find this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"What? So it works! What a day! But why these gems? I didn't think the device would be able to pick up inert adra. Fascinating!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"What's working?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I get that reaction a lot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Expecting someone else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"My animancer contacts did suggest that a particular strong soul essence might interfere." She studies you. "I'm more interested in minerals, in any case."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I'm sorry. I didn't mean to be so rude - I'm Ista. I heard we have you to thank for clearing out the ogres. I'm glad Stalwart survived. It would have been a disappointing trip up here, otherwise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Maybe I do have a strong soul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"What are you looking for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"How does that device work?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"What's that device you're holding?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>She smiles. "I suppose that's possible. It's not exactly what I'm looking for, unfortunately."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I'm trying to recreate the instruments that first led the Pargrun dwarves to this mountain. This... " She holds up the metallic box. "...is my latest prototype."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Centuries ago, dwarves carrying tools just like this one followed their readings to what is now the Battery. If I can recreate their work, then I may be able to find ore deposits elsewhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I was hoping to test it, but my arrival was delayed by word of the ogre attack. I haven't been able to find anyone to venture up the mountain since."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I could go up the mountain for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I'll do it - if you'll pay me for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Leave] "Good luck with that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"It's actually quite sophisticated, if you'll forgive me a little professional pride. A mix of alchemical processes and scrying enchantments. And some very expensive crystals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Ista sighs. "I'll have to hope there's something in the village, at this rate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Really? That'd be wonderful! I just have to adjust the device, you see..." Her hands move swiftly over the box, adjusting knobs and dials.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"It should point you toward metal deposits. We already know the Battery rests on some rich veins, but I was hoping to get a reading of the surrounding mountainside."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"If you can follow the readings to ore and bring back a sample, I can use it to refine the device."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>She hands you the box. "Thanks ever so much for this!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Oh, of course! A real field test is worth the investment. I just have to adjust the device..." Her hands move swiftly over the box, adjusting knobs and dials.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Lie] "I'm afraid I didn't find anything. I walked all over the mountain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"What? But that's- I was sure you would find something! I suppose the mountain could have been picked bare by now, but..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I have to study this further - But all the same, it worked! At last, a breakthrough! With that adra to work from, I can refine the enchantments - we'll be digging up iron, gold, adra, all of it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Give her the gems.] "Here you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Give her the gems.] "Happy to help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I'm keeping the gems."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I'm sorry, I was just distracted. I've heard about you. From some of the villagers." She watches you anxiously.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Well, you've certainly left your mark on Stalwart." She looks away, making a minute adjustment to the device she's holding.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I won't forget all you've done for me. They'll hear about this back home, I promise you. Who knows - perhaps they'll name the next Battery after you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"What? But that's - that's all the evidence I have. It'll take months to re-attune the device. Longer, if I have nothing to go off of!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"It was really no trouble at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Well, I won't do it again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"No, it's more likely that the device doesn't work. I must have made a mistake somewhere. I'll have to start from the beginning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Here - I'm sorry to have put you through all that trouble for nothing. To think you risked your life to help me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"You're a sweet fellow. I hope you have better luck with whatever you're after, up here. I think I'll head back down the mountain soon as I get word that the road is clear."</DefaultText>
+      <FemaleText>"You're sweet. I hope you have better luck with whatever you're after, up here. I think I'll head back down the mountain soon as I get word that the road is clear."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"I don't blame you." She sighs again. "I think I'll head back down the mountain soon as I get word that the road is clear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"This is going to change everything! Oh - and I won't leave you empty-handed, of course. Here - I had this set aside for supplies, but I don't think I'll be staying in Stalwart much longer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"These gems look pretty valuable..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Hm? Oh, I see. But they're far more important as evidence than as trinkets! I can't possibly offer you what Yduran can, but I can give you what coin I do have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"You'd better get to work, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Fine. Here you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Oh, thank you - and here, I won't leave you empty-handed, after all that." She hands you a heavy coinpurse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Oh, you-!" Ista presses her lips into a thin line. "Fine, keep your crystals. I should have known better than to leave field research to an amateur!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Not my problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Don't point that thing at me." She glances from the box to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>The Devil of Caroc makes a grating, garbled noise. Like clearing her throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"My word - it's you! You're the one who opened the Battery!" 
+
+This dwarven woman looks up at you with an awed expression. In her hands is a large, rectangular box, covered in strange dials and symbols.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"You can't imagine what this means to those of us studying the Battery dwarves. I'll have to organize a second expedition!
+
+"Well... assuming I find something to show for the first one." She frowns down at the device in her hands, which is emitting a high-pitched noise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"You really did it! The White Forge is open to us at last!" 
+
+She sighs happily. "What secrets we can uncover..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"I'll do it - for the sake of discovery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"At last, a kindred spirit! I'll be sure to mention you in my account! Here - I just have to adjust the device..."
+
+Her hands move swiftly over the box, adjusting knobs and dials.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Perhaps if I adjust this like so..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

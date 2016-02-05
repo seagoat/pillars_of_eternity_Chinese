@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>断桥的剩余部分通向深谷。桥的另一端通向深谷尽头的迷雾之中，颤巍巍地悬挂在陡峭的悬崖上面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[查看这片区域。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[将你的绳索与抓钩抛到峡谷另一边。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[离开。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>断桥的碎石经年累月未经修补，散落在深谷的两侧。下面飘来薄薄的雾气。石头上长满了光滑的绿苔，根本没法紧紧抓住。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>不过桥两侧的石头上担着的木棍似乎足以承受你的重量。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>你瞄准桥另一端的木棍将钩锁射过深谷。砰地一声刺入了桥面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>你拉了拉试试，钩子牢牢嵌进木头。绳子紧绷着，很安全。你将绳子的这一端系在木棍靠近你的一端。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>过桥的过程非常惊险，特别是绳子抖动的时候。你听到周围都是重重的喘息声，因为每个人都累了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[越过深谷。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>过桥的过程非常惊险，特别是绳子抖动的时候。[SkillCheck 0]的呼吸变得沉重了，[SkillCheck 1]，[SkillCheck 2] 和[SkillCheck 3]减慢了速度。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>过桥的过程非常惊险，特别是绳子抖动的时候。你听到周围都是重重的喘息声。只有[SkillCheck 0]能跟上他们的脚步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>最后你终于来到了土地上，你到达了另一端。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>你前进的时候绳子在绷紧抖动。声音在地下洞穴中回响，木棍的噼啪声记录着你每一步的前进。
+
+你缓慢地稳稳推进。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>断桥的剩余部分通向深谷。桥的另一端通向深谷尽头的迷雾之中，颤巍巍地悬挂在陡峭的悬崖上面。
+
+你的绳子越过了裂隙。
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>过桥的过程非常惊险，特别是绳子抖动越来越厉害的时候。[SkillCheck 0]的呼吸声渐渐沉重，[SkillCheck 1]和[SkillCheck 2]减缓了脚步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>你安然地过去了。桥另一边的绳结依然结实，你的通过并未给木棍带来多少损伤。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>过桥的过程非常惊险，特别是绳子抖动越来越厉害的时候。[SkillCheck 0]的呼吸声渐渐沉重，[SkillCheck 1] 减缓了脚步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>过桥的过程非常惊险，特别是绳子抖动越来越厉害的时候。[SkillCheck 0]的呼吸声渐渐沉重。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

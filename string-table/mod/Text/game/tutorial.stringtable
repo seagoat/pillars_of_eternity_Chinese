@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>49</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>欢迎来到《永恒之柱》！如果这是你初次拜访伊欧拉大陆，也许这些窗口能帮你熟悉工具和游戏界面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你的队伍永远包含你和最多5名同伴或冒险家。现在车队驻扎在格兰方瑟废墟外，奥德玛派卡利沙帮助你。卡利沙是一名战士，这个职业擅长近战防御。利用她的能力补偿自己的缺点。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>单击队友脚下的圆圈或者头像选择队友，或者按下与之对应的数字键。要选择多个队友，单击并拖拽方框，直到包含所有你想选择的队友。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>移动已选择角色，在指针为四个楔形时单击屏幕任意地点。所有已选中角色将排好队形前往相应地点。如果你看到红色圆圈图案，表明该地点无法到达。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>你遇到的多数人非友即中立。可以单击他们脚下的选择圈进行互动。许多角色仅仅和你打个招呼就各行其道了，但有些拥有大型对话供你探索。商人西奥丹的对话选项中包含出售装备的商店。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>你可以在商店购买或者售出物品。商人会以极低的价格向你购买物品。如果你要出售物品，可以在商店查看是否购买价格远远高于出售价格。商店会定期更新物品。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你可以同其他角色交谈，有时旁观者或同伴等其他人会加入对话。你在交谈中做出的选择将会影响故事的展开，也会逐渐为你的角色筑建不同的声望。伊欧拉的人们也将了解到你的名声——不管好坏——也会相应地对你做出反应。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>角色属性、技能、职业、种族、文化背景和性别可能为你提供新的对话选项。这些选项并不一定比其他选项更有优势，但给你更广阔的选择范围。人们对你选择的恢复基于其个性和态度。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>探索是《永恒之柱》的关键元素。当你穿越东部地区，打开区域地图查看已到达的地区，以及未探索的地区。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>接受任务时，任务日志会自动更新相关信息。如果任务卡住，可以打开日志查看记录。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>《永恒之柱》采用暂停式实时战斗系统。因为你时常要操作多个角色，暂停游戏、下达指令。恢复实时游戏查看指令执行情况是个不错的主意。选项菜单还包含多种自动暂停的条件（例如战斗开始）。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>游戏中所有角色，无论敌我都有四种基础防御：格挡、坚韧豁免、反射豁免和意志豁免。这些防御基于角色属性、等级、装备和其他效果。做攻击检定时，命中率与相应防御作出对比。若命中率低于目标防御，攻击检定将获得惩罚，更有可能打出未命中。如果命中率高于目标防御，攻击更有可能打出暴击。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>所有攻击都需要先通过目标伤害减免（DR）判定。敌人的DR将减少部分受到的伤害，下限为一定的百分比。如果攻击敌人有难度，尝试切换武器类型。多数敌人对某一两种伤害类型抗性高，而对其他类型则十分虚弱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>有时武器和法术就是无法穿透敌人的伤害减免。攻击命中时，DR减免大部分即将到来的伤害。此时你可以听到角色对此大发牢骚。请留意，记住被格挡的伤害类型，切换其他伤害类型的法术或者武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>你打出一次暴击！暴击是比命中更好的结果，当攻击者命中率高于目标防御时更容易打出。攻击的伤害将在暴击时增多，攻击造成的状态效果将在暴击时延长持续时间。击偏是逊于命中的攻击，造成伤害减少，效果持续时间缩短。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>与你缠斗的敌人至少有一项防御（格挡、坚韧豁免、反射豁免、意志豁免）远远高于角色的命中。当防御远高于命中时，极难击中目标，更几乎不可能打出暴击。尝试提高角色命中，或使用对抗敌人其他防御类型的法术和技能。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>队员受伤时会损失耐力和生命值，他们头像会变红，生命值会缓慢下降。当头像完全变红，角色将被击晕。药剂和法术可用于恢复耐力，使角色持续战斗，但生命值只有通过休息来回复。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>啊！当队员耐力降低为0时将被击晕。这表明他们已脱离战斗，但是只要我方胜利，他们会在战斗结束时恢复耐力。虽然战后可以恢复耐力，但生命值不会。注意角色左边的血条，防止其进入重伤状态或者死亡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>永恒之柱中许多咒语和能力都有使用数量的限制。每次交战时一种能力只能使用一定的次数，直到战斗结束才会复原。每次休息时使用的能力次数，只有当你在旅馆休息或者使用露营用品时才会回复次数。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>你已经搜集到了一些露营用品。你能使用这些东西在荒野或地牢中休息，完全的回复你的人物们的能力和生命。简单难度允许你携带更多的露营用品，但困难难度对此进行了严格的限制。如果你完全用光了露营用品，尽早找到一间旅馆为上。大多数都提供廉价的房间。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>旅馆允许人物们在没有露营用品的情况下休息。通常廉价的房间已经够用，但假如你充裕的经费，你也许可以考虑更贵的选项。他们提供的奖励是长持续时间的团队效果增益。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>噢，不。当一个人物的血条开始闪红光，这意味着他马上就要重伤或者死亡。在旅馆中或使用露营用品休息能完全的回复生命。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>假如生命值归0，人物会立刻掉队。人物是重伤还是直接死亡取决于你选择的难度。重伤的人物会受到严格的攻击惩罚，并且如果他们受到任何额外的伤害都会死亡。在永恒之柱中，被杀的人物会彻底死亡，不会再复活。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>东部地区是一个到处潜藏着敌人和宝藏的危险地带。能够使用侦查模式悄悄的移动，调查像陷阱，暗门之类的隐藏对象。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>侦查模式被用来悄悄潜入和找到像陷阱，暗门之类的隐藏对象。
+
+
+在侦查时，当一个人物正开始探查，你的人物们的选择圈会被黄色填满。一旦圈成黄色，人物会变得多疑，当圈变成红色，人物会开始调查。如果圈完全变红，你的人物们会被发现。
+
+
+一个人物的发现隐藏对象的能力的强弱是与他本身的机械学技能相关。较高的机械学技能的能让他们在更远的地方发现目标。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>朝一个人物移动会使他们更快的发现你。如果你恰好接触到了一个人物的选择圈，你会立刻被探测到。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>你已经掌握了一个新的魔法咒语！记住要先将新的咒语添加到魔导书里，咒语才能使用。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>你发现了一本新的魔导书！魔导书通常写有你的魔法师不知道的咒语。用很小的代价，你能从说明面板中学到那些咒语。你也可以把不同的咒语添加到额外的魔法书中。把它们放在你的魔法师的快速物品插槽里随时切换，但要注意：切换魔导书会暂时禁止魔法师施法几秒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>魔法师具有学习惊人数量的咒语的能力，但他们总是被他们的魔导书的数量制约。在任何时间允许的情况下，一本魔导书在每一级中只能包含4个咒语。在右边面板里点击一个咒语，把它移出魔导书。在左边面板通过点击咒语把咒语添加到空的插槽里。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>行吟者在战斗中会花大量的时间吟唱乐章。乐章由很多串充满魔力的短语组成，会产生不同的效果。当一条短语结束时，它的效果会留下，直到被吓一跳短语的效果所覆盖。当乐章吟唱完最后一段时，它又会从头开始。仔细的安排短语能产生一系列威力强大的效果。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>点击选择乐章。点击左边面板的语句会添加到所选乐章中。如果你想去掉某个短语，在乐章中点击它即可。
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>通过从人物的行动条上选择武器图标切换新的武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>当选中复数的队伍成员，行动条会隐藏。想要看到某个人物的选项，只能单选那个人物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>一旦一个人物离队，他们会根据你的要求回到在镀金溪谷的黑色猎狗酒吧旅店或者你的要塞。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>你的人物在获得足够的经验后会升级。点击他们头像上的图标来升级。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>在升级一个人物后，你也许想看看他们的资料。打开他们的人物表来详细查看他们的属性，技能，能力还有天赋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>你的要塞的几乎所有的管理都能在通过这个屏幕完成。作为一名新的凯德-努阿的守望者，你和管家的精神连在一起，他们轮流不间断的监视着你的领地。她能察觉到你的愿望，并且甚至能在非常远的距离执行命令。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>有两个指标，以此管理你的要塞发生的各种事情：声望和治安。声望代表着在迪伍德你的要塞整体的名望。更高的声望意味着凯德-努阿得到普遍好评，引发出更多有利的事件。治安反映凯德-努阿和它的土地被很好的保护着。良好的治安会改善税收流失的情况，能在要塞里阻止抢劫和袭击的发生。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>升级你的要塞需要花费金钱和时间来完成。每一次升级能加强要塞治安或声望，或者添加另外的功能像一些奖励，定期的免费材料或新增加的东西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>随着时间流逝，一些事件会在要塞发生。你的要塞的声望越高，更多有利的事件便会出现。无论如何，良好的治安也是极为重要的，它能帮助防止偷窃和抢劫。对你的伙伴和冒险者来说，当他们不在团队里的时候，冒险是获得经验的机会。当游客出现时，他们会影响要塞的治安和声望。在限定的一段时间内，一些事件甚至能提供稀有道具的售卖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>在袭击的突发事件发生时，雇佣兵会帮助防卫你的要塞免收严重的伤害。他们需要花费钱来维持，但他们的花费通常能抵消那些潜在的伤害。雇佣兵也能一定程度的影响要塞的治安和声望-有时也会有负面的影响。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>从团队的管理界面，你能看到那些不在团队里的盟友现在正在做什么。如果你派他们去冒险，你能看到他们多久能完成委托。在任务完成之前召回一名同伴或者冒险者会没收这次委托的所有潜在奖励。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>你拥有一个声望倾向的等级。这些名声代表世界里的人们如何看待你的个性。甚至是表面看起来极差的名声也会有人欣赏，同时仁慈的名声通常会在某一群人中引出一些人渣。在永恒之柱中没有倾向并没有根本上的好处或坏处，但如果你的主角是一名祭司或者圣骑，你必须小心不要偏离他们的倾向，要尊重他们敬爱的神明和遵守的教条。对于主角而言（仅仅），他们的倾向会改变圣光普照的效果（对祭司而言）以及坚定信仰的效果（对圣骑士而言）。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>你获得了声望！声望能通过在交谈或者在东方地区的派系那里获得，会影响队伍中的成员对你的回应。在一些情形下，朋友或者那些队伍中的敌人也会对你的背景做出反应。帮助一个队伍会提升你在这个队伍中的声望。伤害一个队伍会提升你的声望负面评价。如果你以相当的程度帮助和伤害同一个队伍，同时在一队伍拥有积极的和负面的声望是可能的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>你的一个角色参与了近战。当角色接触的时候，他们会马上停止移动。如果他们再次移动，他们会引发对手的脱离接触攻击。当你的角色被近战攻击的时候，他们会自动接触敌人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>你的一个人物疲劳了。疲劳代表人物身体和精神的劳损，无法完成要求的行动。随着人物旅行，探索，特别是进行战斗时，疲劳会逐渐积累。如果他们极度的疲惫，一些精神上的相互作用也会造成疲劳。运动力的技能会自动的减缓任何来源疲劳的上升。
+
+
+疲劳是有很多等级的，初始的只会受到轻微的惩罚，但随着时间推移会变得越来越严重。
+
+
+虽然一些消耗品也能降低人物的疲劳，但休息是消除疲劳效果的最简单的方法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>你的坚守点可用！你在任何时候都可以通过城堡图标来管理你的坚守点。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>按Tab键高亮环境中的交互对象。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>The White Forge is now available for your use. It has the unique ability to refine Durgan iron ingots. Multiple iron ingots are required to create a single refined ingot. 
+
+After refinement, these ingots can be used at any time in enchanting recipes to augment weapons, shields, and armor with Durgan steel.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>洞壁的缝隙中爬出了许许多多有毒的荆棘和粗重的藤蔓。在这些植物尚未将空间完全堵上，你可以透过植物间的空隙看到前方的房间——不过要想毫发无伤地穿过它们非常困难。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[穿过墙体。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[用武器砍去这些植物。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[离开。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>虽然你竭尽所能躲避它们，[SkillCheck 0]还是被一根藤蔓狠狠击中了头部。植物们好像知道自己打中了似的，发动起更加凶猛的攻势。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>你用力砍向了最近的藤蔓……但收效甚微。这些藤蔓不合常理，好像非常耐砍。无论是劈斩，猛砸还是削砍都不见效。要完全砍掉它们得花很长时间。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>在你穿过藤蔓和荆棘之时，你轻巧地避开了这些尖刺，毫发无伤地穿到了另一边去，</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>你一走进，整面墙体开始剧烈起伏，在藤蔓的猛攻下开始震动。粗重，带刺的枝干仿佛带着仇恨，抽向了你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>被一大片带刺的植物包围，走过时被那镰刀般的倒刺切割撕扯着。最后一次奋力挣扎，你终于摆脱了藤蔓，蹒跚走向墙外远不可及的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[查看藤蔓。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>藤蔓生长得如此茂密，盘根错节地形成了一个几乎不可穿越的墙。许多棘刺如手掌般长。你不时听到几不可闻的断裂声，似乎荆棘丛中有什么东西细微地动了动。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

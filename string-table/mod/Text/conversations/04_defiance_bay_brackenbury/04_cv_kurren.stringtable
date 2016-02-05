@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>115</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“你为何来到墩里德街道？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>库伦的手不停在面前堆积如山的卷轴中跳跃。“再次向你致意，我神秘的朋友。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>库伦竖起耳朵。“带着消息回来了，是吧？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“聪明人就是合拍，朋友。”他回头继续整理卷宗。“应该在这里。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>当库伦看着你时，他的耳朵平贴在头的两侧。“不是那个雷蒙特女孩。丢失戒指让她急疯了，但是她几周没出门了。”他抽了抽鼻子。“一身臭气。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“你看上去需要帮忙。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“再会了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>“是三件不同的事件，又或是连环犯案，就看你是怎么认为的了。”他把双手利爪一般的手指对拢。“这三周，每周结束前都会有一起失踪案。或许有人会认为只是巧合。而我认为这是个大线索。
+
+“韦伯女士了解你，对你十分信任。如果我们双方利益相同的话，我也就相信你了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>“我会调查的。但是从哪里开始呢？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>“他们都是被谋杀的。一个叫做拉姆达拉的女人杀了他们，这是她的表演的一部分。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>他发出嘶嘶声。“是大事，我知道！我会立刻派我的人追踪她的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>“是的，我们上次谈话后你已经把第法恩斯港逛遍了。”他警觉的目光好像在探查你。“你发现什么了吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>“也许你有空帮忙？”他摩擦着手。“有个线索快失效了，让我很困扰。墩里德街之外的人我认识的不多，但你是广受信任的人，你可以向他们求助。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>“这个城市的秘密和线索实在太多了。你只需要随便走进一个角落就能发现刚被偷走的东西的痕迹，当然还有失踪的人。”他的耳朵轻轻摇动。“很不幸，我们没时间全部查清楚。”
+
+“我本应该调查其他事，但是最近几桩案子实在有些困惑。密文的诅咒！我好奇得茶饭不思了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>“跟我讲讲这些案件。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>“你为何不能调查这些案件呢？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>他的耳朵收了回去。“需要优先处理的事情，韦伯女士是这么说的。第法恩斯港有很多案件，但这些案件牵扯到的不仅是几个遇难的失踪者。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>他咧开嘴笑了，露出剃刀般的牙齿。“铜巷区的盎桌之礼，当然还有布拉肯伯里。去和报告失踪的人谈谈。罗拉，奥雷，艾尔卡，他们是唯一了解这些事的人，能提供帮助。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>“谁失踪了？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>“你找到带路的了吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>“两个男人，一个女人。兰德里，肯德尔和柯拉。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>“最好问问奥雷。似乎他们在盎桌之礼的咸橡果一起喝过酒。另外似乎没有其他人和他熟到会想念他的地步。”他的一只耳朵颤动着。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>“没有。还没发现受害者之间明显的关联性，所以才让我十分不解。”他的手沿着耳朵挥舞，“也许和通灵术有关。研究需要实验对象，尤其是不够小心谨慎的那种。”他顿了顿，陷入沉思。“对疗养院来说太冒险了，但也说不定。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>他摇摇手。“先找向我们报告有人失踪的人谈谈。也许你会发现被我忽略的细节。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>“我问问别的事情吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>“当然。”他热切地看着你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[给他雷蒙德图章戒指。]“他们都是被谋杀的。李涅特-雷蒙德是凶手。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>“我找到失踪的人了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>“已经太晚了。我见到你之前就见到了她，我已经杀掉她了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>“为了终结这一系列邪恶的罪行，付出这点代价是值得的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>“你是个神通广大的调查员，你的才能帮助我们解决了一桩最麻烦的案子。我确信你拯救了很多人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>库伦拿走了戒指，细细端详着它。“这是她的，没错。它曾在……”他闭上眼睛。“那是黑暗之地，寒冷之地，死亡之地。”他忽然睁开眼。“做得好。有了这条线索，我将能把她带来这里审问，我会将所有作案过程拼凑完整的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>“确实？”库伦笑着，露出更多牙齿。“我只能说非常遗憾。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>“关于我的报酬……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[耸肩]“我这就开始。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>库伦咧嘴笑了。“感谢你的热心。这是你的报酬。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>“当然。你让我们省了很多功夫。这个，拿去吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>“与你做生意很愉快。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>“找到那些人可没那么容易，我帮的忙就值这些吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>“等等！”库伦抓住你的胳膊。“你为我们做了这么多，你应得报酬。至少把这个拿去吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>“没必要付报酬。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>“感谢你的慷慨。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>“你也一样。再见，祝你在你的其它冒险中也同样成功。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>“我应该给予你更多。”库伦挠挠耳朵。“若没有你的帮助，这个案子会一直写在未解之谜中。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>库伦点点头。“谢谢，你的帮助我和墩里德街会铭记于心的。再见。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>他瞪圆了眼。“你真慷慨。墩里德街将永远记住你……我也是。”库伦握住你的手。“如果你的风格就是做好事不留名的话，墩里德街有个地方适合你。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>“告诉我关于兰德里的事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>“告诉我关于肯德尔的事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>“告诉我关于柯拉的事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>“一个喜欢喝好酒勾搭年轻公子的矮人，”他闭上眼吸了口气，“被艾尔卡报告失踪。她花费大量时间和金钱在玩乐上，试试找布莱肯伯里吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>“罗拉的姐妹，铜巷广场的一名商人。似乎不是那种会轻易失踪的人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>“没必要。我见你之前已经见过她了，我杀了她。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>库伦的耳朵直立起来。“真不幸，她的死无疑将掩盖很多信息。但是我还是要查一查。像这样的犯罪总会留下痕迹的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>“很高兴能帮上忙。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>“我也是。你为我们做了这么多，你应得报酬。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>“跟我讲讲你都会些什么技能。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>“我调查灵魂链接，寻找失落之物，掉落之物，也寻找麻烦之物，尤其是与有权有势的人相关之物。”
+
+“我是个咒术师。在艾尔-格兰方瑟，我们被称为布里沙格温，‘精神猎人’。不错的称号，但是其实直到四十年前秘书师开始与我们协作时我们才真正理解了自己的力量。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[给他看潘海姆的宣誓书。]“这个宣誓书是真的吗？它签着你的名字。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>他拿着书页，但似乎能看穿上面的文字，就像有什么被织入了纸张的纤维中。
+
+库伦露出尖利的牙齿。“我记得潘海姆。他就像个喜欢炫耀的孔雀，当我告诉他他是个艾迪尔将军的灵魂后裔时，他口中干涩，双手湿润。他是个会对抗哈德雷特的叛乱的人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>这个奥兰人埋头于书山和卷轴堆中。他坚硬的头发几乎竖着生长，当你接近时他的耳朵忽地抬起来。“你带来了秘密。凯德-努阿,黄金之谷。这真是古老的声音。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>“你怎么知道？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>“你在说些什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>“你被误导了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>奥兰人笑了，露出一排像匕首般尖利的牙齿。“作为咒术师，了解这些是我的职责。你携带着古人的叹息。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>“我可不喜欢被入侵。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>“你还能告诉我什么吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>他的耳朵垂下去，轻轻颤动着。“很不幸，我愿意告诉你的就这么多。韦伯女士赋予我的职责是在别处发挥我的专长。”他向堆满卷轴的桌子示意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>他的耳朵垂下去，轻轻颤动着。“幸运的是，韦伯女士赋予我的职责是在别处发挥我的专长。”他向堆满卷轴的桌子示意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>“那么，我们是世界上最好的侦探。跟着灵魂，我们就能看到一个人和他曾去过的地方。也可以看着一把武器，然后得知谁用过它。”
+
+他看向你，抽了抽鼻子。“正如你所想，这对办案来说太有用了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>“一些富有的剧院赞助人付钱看演出，但是演员全被谋杀了。其中一个主要赞助者是加德曼大师。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>“实际上，很多。一个叫拉姆达拉的女人出场了那个谋杀演员的演出。加德曼是她的一个主要赞助人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>他吸了一口气。“有大事，我就知道！我会立刻派人去追查他的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>他吸了一口气。“有大事，我就知道！我会立刻派人去追查他的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>“太晚了，他已死了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>“恐怕情况麻烦了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>库伦皱起眉毛。“最糟的情况。如果他没死的话也许能给我们提供有用的线索。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>库伦皱起眉毛。“最糟的情况。如果他没死的话也许能给我们提供有用的线索。”
+
+“我们只好从一切还没被破坏的线索入手。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>“我猜你和我一样是个咒术师？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>他露出如匕首般尖利的牙齿笑了。“你说你是猜的，其实你已经确知了。我对谦虚的了解让我知道你的实力很强。谦虚总是很有用的，尤其在这里。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>他的耳朵垂下去，轻轻颤动着。“真遗憾，韦伯女士赋予我的职责是在别处发挥我的专长。”他向堆满卷轴的桌子示意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>“关于失踪者，我有问题想问。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>他点点头。“你想知道什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>“我发现什么会告知你的。再见。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>“你在忙什么呢？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>他小小的、覆盖着一层毛的手作出夸张的动作，指向他面前的纸张。“空心种，逐渐增长的动荡，还有时刻不离的政治阴谋。已经出现了如此多的失踪者，再有人失踪已经见怪不怪了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>库伦摇摇爪子。“抱歉，我无权和外人谈论自己的工作。我只是墩里德街之耳目。我分享自己的见闻之前，你需要得到韦伯女士的认可。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>“我现在没空管这个。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>“当然。”他合上两手。“如果你改变主意的话……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>“有联系了！我就知道……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>他浏览了誓约书。“伪造的，看了很多次了。”他把书还给你，“我对骑士们和他们的癖好没兴趣。”
+
+“把这带给他的指挥官克里维，然后给他看印章。”他指着伪造印章上的封蜡。“如果他和真货对比一下，就能发现区别所在。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>“线索指向一个叫拉姆达拉的女人，但她死了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>他皱起眉。“很不幸我们将永远查不出这件事和她的关系了。但是，虽然这不是最好的结果，这件事也算完了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>“他已经死了，所以很容易找到。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>“我受韦伯女士邀请而来。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>库伦侧过头，试图从更合适的角度看向你。
+
+“抱歉。她没太多访客，但是她其实邀请了很多人。”
+
+“我一直惊奇于她的选择。在我眼里这些选择没有共同点，但是她比我敏锐得多。我很想知道她看到了什么。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>“她的房间在楼上。那个有门卫的房间。这个城市不知道她的价值，但是公爵显然知道。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>“还有。拉姆达拉有个副手叫肯德尔。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>“真的？我要看的他受到正义制裁。再次感谢。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>阿罗斯看着你。“为了上帝赐予的灵魂而诛杀他？很不公。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>撒加尼凭着脚下的球跳动着。“就像瓦利亚的侦探小说！曾经在路上渡过一些，杀杀时间。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>阿罗斯抱起手臂。“我不觉得奇怪。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>[给他看钢太阳。]“我想追踪一个触碰过它的人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>他看了看，耳朵轻抖，充满兴趣。“这是战旗上的，是吗？莱德塞拉斯？”
+
+“是的，我相信我能在这里帮忙。痕迹不太新鲜，但是它已经是保存最完好的了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>“如果你在找人，你的特殊才能在此有用。外貌可以不断改变，但是你的目标的灵魂则不会。
+
+我会向你分享自己的见闻，对你会有用的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>“你将在意念中重复我的存在。为了善的理由。”
+
+他握住你的手，另一只手握住钢太阳。“现在，清除你无关的思想。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>“罗拉的姐妹，铜巷广场的一名商人。似乎不是那种会轻易失踪的人。”
+
+“罗拉心烦意乱，我想如果有人去安慰她能让她振作起来。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>“最好问问奥雷。似乎他们曾在盎桌之礼的咸橡果共饮。另外似乎没人和他熟悉到会想念他的地步。”他的一只耳朵抖动着。
+
+“像你一样，他是个安静的人。想让他张口需要谈话技巧，或者用酒也可以。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>听到有人到来的声音，库伦的耳朵向入口竖了起来。他向你转过身开了口。
+
+发现是你以后他轻叹一声，手抚胸膛。“还以为是抢劫的。”
+
+“如果你是来向墩里德街求援的，恐怕已经太晚了。我就剩下这些了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>“我还以为你死了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>“还没呢。”他看着身边的一团混乱。
+
+“我出去买点食品，回来就这样了。可能只是错开了一点点而已。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>我依然想去收集些东西——主要是记录。有些案件我不想放弃侦查，就算只剩下我也要继续办。
+
+“我不久就要离开了。我估计他们想杀了我。但是……把这些丢下不管真的很难。韦伯女士……她一直为此努力着。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>听到有人到来的声音，库伦的耳朵向入口竖了起来。他向你转过身开了口。
+
+“我见过你。你和韦伯女士共事。”他叹了口气，轻抚胸口。“还以为是抢劫的。”
+
+“如果你是来向墩里德街求援的，恐怕已经太晚了。我就剩下这些了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>库伦严肃地笑了。“是吗？我能帮上忙？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>他吸了一口气。“有大事，我就知道！我会立刻派人去追查他的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>“我为协助我们工作的独立侦探设立了一项小基金。但现在纠结这个没意义了。没有你的帮助，这些案件可能就不俩聊着了，就像很多其它一直无法查清的案件一样。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

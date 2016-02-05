@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>哈德莱特大宅的隐士</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>同哈德莱特大宅的韦伯女士交谈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>获得邀请加入其中一个通灵术听证代表团。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>回到布拉肯伯里，就参加听证一事与哈德莱特大宅的韦伯女士交谈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>到起始之火的公爵宫参加听证会。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>回到布拉肯伯里，告诉哈德莱特大宅的韦伯女士发生了什么事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>告诉哈德莱特大宅的韦伯女士，你无法获得参加通灵术听证的邀请。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>告知韦伯女士铅制之钥的活动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>我被韦伯女士召唤到郭里德间谍机构，一个隐居的女人似乎了解我比我了解她更多。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>我被召唤到哈德莱特大宅去见韦伯女士。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>为了参加宫殿的通灵术听证会，我需要获得出席听证会的三大代表之一的支持：铸铁骑士团，House Doemenel，或十二团众。
+
+铸铁骑士团在初始之火有一个城堡。
+
+House Doemenel在布拉肯伯里有一个庄园。
+
+十二团众的基地在铜巷的探险大厅。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>现在我被正式邀请参加通灵术听证会，我应该回去告诉韦伯女士，向她汇报进展。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我应该尽快前往初始之火的宫殿参加听证会。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>公爵遭到暗杀，在反抗湾的街头引起惊慌。韦伯女士或许是唯一能重整治安的人。我需要前往哈德莱特大宅告诉她所发生的事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>我已处于Doemenels、骑士和十二团众的对立面，所以通过他们获得通灵术听证会邀请是不可能了。我应该告诉哈德莱特大宅的韦伯女士我的处境。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>韦伯女士要我及时向她汇报铅制之钥在迪伍德的活动。追踪在沃伊迪卡教堂的墓地得到的线索，任何发现都对她有用。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我为House Doemenel做了些工作，但如果我要加入他们的代表团，Doemenel大人本身才是我需要打动的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>温南，十二团众的首领，愿意让我加入他们的代表团，如果我为他们做足够多的工作。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>铸铁骑士团的克莱维指挥官愿意让我加入听证会，作为交换我必须帮助他们。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>我收到了邀请加入Doemenel的代表团。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>我收到了邀请加入十二团众的代表团。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>我收到了邀请加入铸铁骑士团的代表团。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>我激怒了Doemenels，他们不再与我合作。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>我的行为已经无可挽回地断绝了我同十二团众的关系。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>铸铁骑士团已经不再愿意同我合作。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>韦伯女士要我及时向她汇报铅制之钥在迪伍德的活动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>我告诉韦伯女士关于铅制之钥在传承之山的活动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>我告诉了她我在Clîaban Rilag从死去的铅制之钥成员的灵魂里获得的信息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>在布拉肯伯里的疯人院里遇到陶斯之后，我告诉韦伯女士他似乎在试图毁掉通灵师的名声。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>韦伯女士被陶斯杀死在自己的床上，但是在她设法了解了他的去向之后。她帮了我一个大忙，虽然我怀疑她自己知道这一点。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>杀死韦伯女士我切断了至关重要的关系。没有她的应到和关系，我的任务不可能成功。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Oh, it's you! I'm so glad you came by. I hoped I'd have the chance to thank you properly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Hello, sir! Anything I can do for you?"</DefaultText>
+      <FemaleText>"Hello, ma'am! Anything I can do for you?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"They told me what happened. Gods bless you, sir. I owe you my life."</DefaultText>
+      <FemaleText>"They told me what happened. Gods bless you, ma'am. I owe you my life."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"How are you holding up?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Maybe you can help me. I'm looking for some Fennlan liquor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"What's so special about this ring, anyway?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I know it was foolish of me to try, but I so wanted to save my family's ring. I'm sorry I put you in harm's way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I know it was foolish of me to run in there. But this ring is all that I have of my family. I wasn't thinking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"You still have their memory. A ring isn't worth dying over."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Funny, Reyfald was just in here asking after the same thing. Guess that stuff really is popular."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Sentiment, mostly. When he first settled here, my grandfather had a ring fashioned from the first batch of ore he excavated."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Oh, I'm managing. Fenwe's letting me stay with her until I'm back on my feet. Everyone's been lovely, really."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I know." She sighs. "But it felt like losing them all over again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Come on- Surely he wouldn't miss one bottle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I saved your life. You owe me a favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"So don't tell him. Help me grab a bottle from the cellar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Oh, I wouldn't get two feet past the steps. He's forever accusing me of sneaking sweets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Haeferic has some, but he says the Fennlan stuff's not for sale. And he's rigged up the cellar like a battlefield, trying to keep people out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"It was hard seeing what's left of the house. But Reyfald says he's going to see a hut raised for me soon as they get the logs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"It was hard seeing what's left of the house. Truth is, I'm thinking of taking up with a cousin in Loghome, after all this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Sorry. If anyone deserves a drink, it's you, sir. But I don't think I could convince him."</DefaultText>
+      <FemaleText>"Sorry. If anyone deserves a drink, it's you, ma'am. But I don't think I could convince him."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"W-well, yes, but... But this is stealing." 
+
+Keydy bites her lip, and shifts from foot to foot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"We still have a decent supply of food and drink, if anything else takes your fancy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Oh, you don't know Haeferic. He's liable to count them every night." 
+
+Keydy bites her lip, and shifts from foot to foot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Listen... Haeferic showed me how one of the traps worked, so I wouldn't get too close if I had to pop down for supplies. I'm pretty sure I can disable it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Just give me a little time. And please, don't get caught. I don't know how I'd explain all this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I did it, sir! That is, you might have an easier time with that business you were talking about before." 
+
+Keydy smiles brightly.</DefaultText>
+      <FemaleText>"I did it, ma'am! That is, you might have an easier time with that business you were talking about before." 
+
+Keydy smiles brightly.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I'll have to sneak down when the cook's not looking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"It was supposed to commemorate his fresh start. He passed it on to his daughter, and my mother gave it to me in turn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Heard the big news! There really isn't anything you can't do, is there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"This will do so much for Stalwart. You can see it in everyone's faces - we've got hope again."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

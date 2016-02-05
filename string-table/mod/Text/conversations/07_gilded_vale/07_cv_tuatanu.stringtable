@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>47</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你走近时他对你灿烂地一笑。“欢迎。很久都没见过你这样的新面孔了。我能为你做些什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“很高兴再次见到你。我能为你做些什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“很高兴再次见到你。恐怕货物储备不太充足，不过还是欢迎你选购。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“噢，你回来了。有什么需要我帮忙的吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>图阿塔奴朝你灿烂地一笑。“看到友人总让人心情愉悦。希望你能让镀金溪谷变得更好。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“你这里都有什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[离开] “再见。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“恐怕你来的时机不妙。存货远不如前了。不过还有精良的武器和护甲可供挑选。这些东西都是在黑铁锤精心打造的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>“给我展示下你卖些什么东西。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>“发生了什么事？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>“我还有其他问题。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>“我们妥善利用了你带来的补给品。有些是我最得意的作品。你什么时候想看看我们的特别推荐，动动嘴就行了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>“请让我看看你的货物。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[离开] “再见。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>“我们只是没有补给品。本来预计下一批补给品会在一周之内送来，可现在还没影儿呢。不得不让人怀疑是被土匪给劫了。东边的道路都有他们的行踪。也有可能是我的工人私自拿走了马车上的东西，是想发点财吧。”图阿塔奴对此嗤之以鼻。“谅那群家伙也没这个胆量。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>“目前我们大部分的武器都交给了雷德里克大人大人……”图阿塔奴瞥了一眼附近的卫兵。“……事情就得这么办。因此留给外人的东西就不多了。我们主要是没有足够的铁。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>“我会为你找来补给品。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>“那些马车从哪而出发的？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>“我还有其他问题。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>“当然了，我能为你做点什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>“你说你的存货很少？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>“请让我看看你的货物。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>“是的。你找不到更好的了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>“当然。你肯定能找到合意的东西。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[递过箱子。]“我找到了你急需的货物。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[离开] “再见。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>“我们将载着武器的马车向北护送到New Heomar，半途马车折到了Loghome这类地方去购买补给品了。最近的返程路线需要经过黑草地，然后向北经过蛮荒之地。”图阿塔奴摇摇头。“要是有个商贾带回成功抵达Loghome的消息就好了，但是从发车之后就再也没了音讯。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>图阿塔奴点点头。“那要谢谢你。你带来的这些补给品使我能为你提供更多的货物。先给你打个折扣。噢——如果你找到了我的工人，告诉他们加快速度，否则就得回家种田。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>图阿塔奴伸手接过箱子，轻松地抬到了柜台上面。他满脸堆笑。“太好了，你做到了！真是个好消息！我们终于能重新工作了——让你看看Black Hammer真正的水准。可不是这些薄脆的短剑能比的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>“这是你的店铺?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>“没错。在此经营了近二十年了。这几年中什么事情都遇到过。有好运也有霉运。”图阿塔奴瞥了一眼驻守在墙边的卫兵。“不过黑铁锤优良的铁艺流传至今。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>图阿塔奴挠着下巴，陷入了思考。“如果你恰好去那个方向的话，也许可以留意一架运送补给品的马车。起码留意一下我的货物。我预计这驾马车正在穿越黑草地，它可受不了多少颠簸。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>“我会确保他们安全归来的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>“还是要谢谢你的好意。如果你能带回补给品的话，我就能为你提供更多的东西。先给你打折的。如果你找到了我的工人，给我好好敲打敲打他们的脑袋。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>“给你。这些钱币可以应急。”他快乐的神情渐渐褪去。“……你找到了马车工人了吗?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>“盗匪劫走了马车。你的人性命堪忧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>“我想他们不会为一堆铁而卖命的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>图阿塔奴严肃地点点头。“也许吧。我当然希望如此。那些可怜的蠢货。”他叹了口气。“不管怎样我都得多雇点人手。你不会想在镀金溪谷定居下来做点运输生意吧？”他眨眨眼。“谢谢你的帮助，朋友。给我点时间让铁匠铺开始运转，我们就能为你提供下一批精良武器了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>图阿塔奴摇摇头，一只手摸摸秃顶的脑袋。“可怜的蠢货。老是叮嘱他们别只顾着赚钱，还要雇佣些护送兵。”他叹了口气。“我得多雇点人手。你不会想在镀金溪谷定居下来做点运输生意吧？”他淡淡地笑了笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>“谢谢你的帮助，朋友。给我点时间让铁匠铺开始运转，我们就能为你提供下一批精良武器了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>这个aumaua族人体格健硕，比柜台顶端还要高出不少。他的皮肤是深海的那种暗蓝色，粗壮的臂膀上尽是健硕的肌肉。一张方颚的阔脸上长着两只小小的耳朵，脸上满是肮脏的烟灰和弧形的黑色刺青。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[递过箱子。]“我想我已经找到了你的货物。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>“来，让你见识见识。”他在柜台后弯下了腰，拿起了一只木制的重盾。“可能制作的材料不是很充足，但毕竟是Black Hammer的制作工艺。试试趁手不趁手。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[递过箱子。]“我想我已经找到了你的货物。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>“目前我们大部分的供给品都被送到了雷德里克的据点，短时间内我想是要不回来了，即使雷德里克离开了也不行。留给外人的可用材料不多了。我们的铁也用光了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>他咧嘴笑笑，露出了一排尖尖的牙齿。“欢迎！看到新客人真是太好了。你想要护甲？还是一把精良的刀刃？”</DefaultText>
+      <FemaleText>He grins, revealing a row of pointed teeth. "Welcome! Good to see a lovely face. Is it armor you're wanting? Or a good blade?" </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>“他对土匪的估计没错。村子里目前状况很糟，有大批人群正在涌往市镇，对那些不知廉耻的家伙们来说是这可是发财的大好机会。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

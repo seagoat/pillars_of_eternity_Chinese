@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>35</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The wooden shutters of the temple's window, closed tight, muffle a set of voices coming from within the building. 
+
+You can't quite make sense of the murmur, but cracking a shutter open would likely help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>A rusty iron latch holds the window shutters closed. With care, you should be able to unfasten it without being noticed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Unfasten the latch.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Listen with your ear against the shutters.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You carefully begin to lift the latch from its metal hook. Halfway there, the rusted iron resists with a screech. 
+
+You freeze, listening to the voices in hopes the priests didn't hear. Their conversation continues uninterrupted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Push the latch open.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Who will attempt to silently unfasten the latch?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Pour some oil on the latch.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Do it yourself.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Slot 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Slot 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Slot 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Slot 3].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Slot 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Slot 5].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Consider other options.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>You grab the latch and apply just the right amount of pressure, nudging the metal until its rust gives way without a sound. 
+
+Carefully, you pull out the window shutters far enough to let the voices flow through.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You grab the latch and apply pressure, trying to push the metal past the block of rust that binds it to the shutter. The iron begins to groan. With a loud screech, it snaps free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Specified 0] grabs the latch and applies just the right amount of pressure, nudging the metal until its rust gives way without a sound.
+
+Carefully, [Specified 0] pulls the window shutters open enough to let the voices flow through.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Specified 0] grabs the latch and applies pressure, trying to push the metal past the block of rust that binds it to the shutter. The iron begins to groan. With a loud screech, it snaps free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>The voices behind the window stop mid-sentence, and you can hear one of them hushing the rest. Only silence follows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>You hear a man speaking, his tone agitated.
+
+"... you do that?! Hope the mountains will do it? What if Ix-"
+
+His sentence cuts, as if the man were speaking to all sides of the room.
+
+"-ppose he tells them instead. What then?!"</DefaultText>
+      <FemaleText>You hear a man speaking, his tone agitated.
+
+"... you do that?! Hope the mountains will do it? What if Ix-"
+
+His sentence cuts, as if the man were speaking to all sides of the room.
+
+"-ppose she tells them instead. What then?!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>You recognize Lafda's voice responding.
+
+"Why would he? And with all those dangers near the Battery, our Giftbearer won't delay. I expect th-"
+
+The man interrupts her.</DefaultText>
+      <FemaleText>You recognize Lafda's voice responding.
+
+"Why would she? And with all those dangers near the Battery, our Giftbearer won't delay. I expect th-"
+
+The man interrupts her.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"You always expect! Look where that's taken us. A dying village. Ogres at the walls! Ixtli's not back yet and now I have to do his pa-"
+
+His voices drops and seethes, muffling what he has to say.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>After a moment, Lafda replies.
+
+"Do you think I wanted this? That I could've known in advance?"
+
+A pause ensues, its tension growing until the priestess' voice cuts it in half.
+
+"We can't wait for him. We must fish out the last batch, quickly. After that, we'll decide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The man responds in a broken voice, barely audible. You only distinguish the last words.
+
+"... in that Russetwood pond... I'll go."
+
+Their exchange seems to end. Cautiously, you step away from the window of Ondra's temple.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You grab the latch and apply just the right amount of oil, nudging the metal until its rust gives way without a sound. 
+
+Carefully, you pull the window shutters open enough to let the voices flow through.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>You place your ear against the coarse wood. Muffled voices rise and fall inside the temple. 
+
+It's much too difficult to clearly make out what they say, but you think that something might be learned if you keep at it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Continue listening through the closed panes.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>You focus singularly on interpreting what little sound you can pick up. A stream of subdued vibrations gradually shapes into coherent forms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>You strain to hear, but nothing you pick up is intelligible. Your only option is to open the window panes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>There's nothing else to gather from the conversation between Lafda and her acolytes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>You hear a man speaking, his tone agitated.
+
+"... too dangerous! Who else will co-"
+
+His sentence cuts, as if the man were speaking to all sides of the room.
+
+"... -bout what we do here? What then?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>The man responds in a broken voice, barely audible. You only distinguish the last words.
+
+"... I'll go."
+
+Their exchange seems to end. Cautiously, you step away from the window of Ondra's temple.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

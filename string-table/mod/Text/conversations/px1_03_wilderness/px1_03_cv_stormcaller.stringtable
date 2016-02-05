@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As you grab the bow, it vibrates with a strange and familiar energy. Searching your pack, you find the silver arrow that you found lodged in an injured winter wolf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>As you hold the bow and arrow together, the arrow suddenly snaps into place. You hear a crackling hum, and a pale ribbon of light begins to form between the ends of the bow.
+
+When you pull the arrow back, you feel a very solid resistance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>As you hold the arrow in your hand, it vibrates with a strange and familiar energy.  Searching your pack, you find the bow that you came upon at the top of the tower near Durgan's Battery.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

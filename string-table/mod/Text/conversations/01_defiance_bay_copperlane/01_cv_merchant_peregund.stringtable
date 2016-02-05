@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“你好！”那位奥兰商人笑着看你走来。“你好像是个冒险者。在找探险装备吗？我有你想要的一切哦！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“让我看看你的货物。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“你有在卖一把用三月钢制成的匕首吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[离开。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“三月钢？我倒是希望我能卖给你，不过可惜啊，我并没有。去找伊格伦把，那个武器匠。他就是那边那个奥玛人。他总有不少好货。你最好去问问他。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“还有什么可以帮到你吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“冒险装备……你用得上的，我都有卖，”那位奥兰女士笑着说，“要看看我的货物吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>“又见面了，”这位奥兰女性用熟悉的口吻说，“多谢你来光顾呢。”
+
+“上次把货物丢掉之后，我到现在还在努力恢复呢。”她愤愤地说，“我的存货已经不如往常了，但是……但愿我还能有些你能用上的东西。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>这位奥兰女性一看你接近便激动起来，“还记得我么？我们在迈德默大桥边见过面的。”
+
+她愉快地拍了拍你的肩膀。“那时候真是多亏了你的帮助。我保证过，我会给你提供整个城镇最优惠的价格。要不是你，我可还是身无分文呢！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>“让我看看你的货物。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>“让我看看你的货物。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

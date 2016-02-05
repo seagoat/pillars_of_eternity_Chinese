@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>190</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Figured you'd be out of here in a flash after the fighting died down. Most people don't stick around after they figure out the ogres are making regular visits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Huh. Figured you wouldn't stick around town much longer, after what you did to Renengild. But then, if the ogres didn't scare you off, why would a few guards?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"H-hey! They say Haeferic's been killed! I-" Reyfald lowers his voice. "Are you crazy? I didn't need the liquor that badly! What are you even doing back here?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"What can you tell me about Stalwart?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Stop whining, or I'll make sure everyone knows exactly why he's dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Leave] "Fine. I'll be going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I have your wine. Give me the coin you promised."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Are you...? F- fine, here. Take it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Now please, leave me alone!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"W-what? But that's not - You can't! I never asked you to do anything like that! I didn't want to hurt him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Leave] "Just keep it in mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Gods, I think I'm going to be sick..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"So, you're back. What can I do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I would have helped fight them monsters off, you know, if I didn't think I'd just get in the way. And with you there to handle things, everything turned out well enough, didn't it? Don't see why Haeferic's still sour at me... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"What's this about Haeferic?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"As if we're going to last that long! ... Anyhow, he said he'd thrash me up and down the mountain if I didn't leave him be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"It seems reasonable to want to save it for a special occasion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"What's so special about this stuff?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"They say a single drop changes your life! You'll never want to have a drink of anything else! Probably that's all rubbish, but it's supposed to be very good!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Haeferic keeps all the good stock in the inn cellar. Out of sight, you see? I mean, it's bound to be under lock and key, but... I'm sure he wouldn't miss a single bottle. Not with everything that's going on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"What does stealing wine for you have to do with fighting ogres?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"And what do I get out of this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Not interested."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I'll pay you for it! I swear it. We'll split my wages - and the bottle, too, if you like! I just want to be able to say these lips have tasted the best the Ixamitl Plains have to offer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Well, Haeferic can be a little intimidating when it comes to his beverages!" Reyfald gives a strained chuckle. "But otherwise, not much, I guess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Sure, all right." Reyfald toes forlornly at the tiles. "But if you happen to come across some, maybe you'll let me know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Feels like everything's conspiring to chase us out of here, sometimes. Just means the ones of us that are left are the most stubborn-headed, right? Or foolish, I suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Please tell me you've found it. I've got a craving like you wouldn't believe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Give him the bottle.] "Here you go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Give him the bottle.] "'Under lock and key' is an understatement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Wait, really?" He looks down at the label. "You did it! Oh, thank the - thank you! This is going to be great! Oh, and here, here's the money I promised."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Oh, that's, uh... " Reyfald coughs. "Gods, that's a bit strange. Here, have a... Have-" A bout of coughing overtakes his words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Reyfald sniffs. "You have to help me! I can't stay like this..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I'll see if Haeferic knows anything useful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"What will I tell my mother?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Did you thee that? 'Thee'? See. I- I think my tongue is going num- wait. Wait. Wait, I can't feel my face! What's happening?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Are you okay?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Maybe I won't be sharing that drink after all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Oh, good. That explains why you've been leering at me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"I can't- I think I bit my- but I can't feel a thing! This has to be Haeferic's doing! He must have put something in the bottle. Please, you have to help me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"What do you want me to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I did my part and you have what you asked for. I'm leaving."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"If this is a trick, Haeferic's bound to have an antidote."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Sweet gods, I hope so! Please, I'll give you the money I've saved up. I'll give you more! Please, just help me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Haeferic! That smug prick, he has to be behind it. H-he has to know how to... fch... fix this! Please, go speak with him. I'll give you every coin I have!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"What? Wait! You can't leave me like this! You brought this stuff here in the first place!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Please- all you have to do is talk to Haeferic. Just talk to him, ask him- he must know what this is. And how to fix it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Fine, fine. Stop blubbering."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Nah. This is too funny to fix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Oh, thank you! Thank you! Please hurry... I think I got some on my hands... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Wait, you can't! I- What am I going to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"I'm working on it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I think I have what we need. I just need to give these ingredients to Haeferic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Haeferic's dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Reyfald's slack face twitches. "W- what?! Then there's no cure. I'm stuck!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Really? Oh, Ondra bless you. Give it here, please!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Oh, thank the gods. I'll, ah, wait here. And hope nobody comes by to talk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Give him the antidote.] "Here. Haeferic says this ought to do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Ahhh! Don't hurt me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[Read his soul.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"What? Did I spill something on myself?" Reyfald looks down at his clothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Did you find it?" Reyfald eyes you nervously.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Ugh, frothy. ...H-hey! You did it! I can feel again!" He prods at his forehead, and sticks out his tongue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Oh, thank you! You're not half so bad as everyone says, you know. A-apart from... Well, never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Oh, thank you! You're a saint among kith! And I owe you one, I know it. I would have ended up a leper. Haeferic never did have any sense of proportion!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Hey, here, now that my hands are working again - I've been stitching this together for a while. Least I can give you, really."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Hey, there. Let me know if you need anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"I thought you were cured. You mean you always look like that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>[Leave] "I'll be going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Yes, fine, 'ha ha.' I'm doing much better, actually, and everything seems to be working like it ought to. So, thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Take care."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Reyfald?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Shit. Is it poisoned?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Hey, quit hogging the bottle!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Ugh, it's foul!" Reyfald wipes his mouth with the back of his hand. "I think that's the worst thing I've ever - wait, I don't feel so well... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"What? No! It just tastes... awful! Urgh. I think I'm going to be sick... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>The snowy paths peel away, and the brisk air gives way to the acrid stench of smoke. A dark cloud billows up from the remnants of a burning house, at the far edge of a rocky field. 
+
+You are low to the ground, held in place, and above you the wind tugs embers back and forth like firebugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Oh, Haeferic's the innkeeper over at the Gréf's Rest. I... may have been hiding in the inn when the fighting started." Reyfald coughs. "The raid didn't improve his disposition any."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Did you know, he has a whole case of Fennlan liquor in there! I keep offering to buy it off him, but he says he's saving it up for when the Battery's open again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"It's delusional, is what it is... Hey, look, maybe... Not that you have the face for it or anything, but - maybe you could help me out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"It's delusional, is what it is. Point of fact, what with you dealing with the ogres and everything, maybe you'd, you know, be willing to help me out?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"I'm not going to rob the innkeeper for you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Shh! All right, keep it down, I didn't mean anything by it! But if you happen to come across some, then maybe you could share?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"I'll see what I can do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Then it's not the liquor you're after."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"We'll see. I have other questions in the meantime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Oh, sure. What can I do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"You will? Great! I'll be here. But, ah, just to say, there's no need to hurt Haeferic over this, right? Not that you would! Just... just saying."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Great! I don't think Haeferic will let me in the inn for a while, so you're on your own. I'll wait here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Huh? ...Oh." Reyfald's face colors. "Yes, yes, fine, I asked for that one. Look, I can't get into the inn for a while, so... Just think about it, right? That's all I'm asking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"If you weren't going to fetch the liquor for me, you didn't have to tell Haeferic about it. Now he's banned me from the inn altogether!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Maybe that'll teach you not to plot thefts with strangers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"You got what you deserved."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Sorry. I figured it'd keep you out of trouble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Reyfald scowls. "Very funny. Look, what do you want? You've already ruined my plans for the next three evenings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Trust me, I could have done far worse to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"A-all right, I didn't mean anything by it. What do you want, anyway?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"That's too bad."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Reyfald sighs. "Look, what do you want? You've already made sure that these long cold nights are going to feel a lot longer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"But I didn't even do anything!" Reyfald sighs. "And that was about the first inkling of hope I'd had in months. What do you want, anyway?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Out of trouble? It was only a drink!  Now I get to die sober when the ogres come back." Reyfald sighs. "Right, fair enough. What do you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Just leave me alone. Get away from me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"You hid away while everyone else risked their lives?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"That's, uh... That's what Haeferic said, actually. Look, I'm not proud of it, but I'm no warrior! What am I going to do? Throw a net on them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"And now you're worried about some fancy drink?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Anyone ever tell you you're a little strange, Reyfald?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Nothing so kind. You try living here a few years and see how you turn out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"You'll want to change your tone in a hurry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"I - Fine." Reyfald regards you fearfully. "Look, you can't come here, with everyone already suspecting..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Who's going to stop me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"N- nobody, I just- I don't want anything from the inn anymore, right? Just keep it for yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Reyfald paws at his cheeks, and then his nose, with increasing desperation. 
+A flailing finger catches him in the eye, and he yelps and covers his face clumsily with both hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Seems like you got what you deserved."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Reyfald gapes at you, which results in a thin stream of drool hanging off his lip. "You're the one who stole it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"That is..." Reyfald glances around self-consciously. "He's bound to figure that one out. Please, a cure's in both our interests!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"And now I'm... going to stand here and breathe for a little while."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"I had some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Sure, ask away. Not sure what I can tell you, though. I haven't been here half as long as most."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"That's all the questions I had."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Right. Anything else, then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Me?" Reyfald looks startled. "Well, I used to build houses. These days I do this and that. Get work at the fishery sometimes, mending nets. Right now I'm helping with the stockades. The ogres keep us busy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"I'm from Eina's Rest originally. Not so far from your Caed Nua, actually. A little ways east. Nice lake nearby, a little like the one here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"I heard some business went down with Lord Raedric. Might have ended up tithing to you instead, if I were still there. M'lord." Reyfald cracks a grin.</DefaultText>
+      <FemaleText>"I heard some business went down with Lord Raedric. Might have ended up tithing to you instead, if I were still there. M'lady." Reyfald cracks a grin.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"The weather's a little different up here, though, right?" Reyfald chuckles. "Never pictured myself living up in the mountains, but here I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"To the Lord of Caed Nua!" Reyfald raises the bottle, and takes a long drink.</DefaultText>
+      <FemaleText>"To the Lady of Caed Nua!" Reyfald raises the bottle, and takes a long drink.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>The vision in your left eye is clouded, such that the figure standing over you is a collection of rough smears of black, cast in silhouette by the fire. 
+
+"Not so brave now, are you?" A dark shape swings towards your face, and the subsequent burst of agony jars you out of the memory and back into your own skin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Do you know anything about a man called Harmke?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Harmke? Saw him head out some time ago. You can usually find him and some others out in the Russetwood, felling trees."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Is there anything else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>This man startles visibly at the sight of you, though he attempts to hide it with a queasy smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Say, you're the one we have to thank for fighting off the ogres, right? Never thought I'd see one of the god-touched... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>[Give him the bottle of liquor.] Here. Haeferic gave it to me for opening the Battery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Wait, he did? I mean, you did? I didn't hear anythi- that's great! And he really gave you some?" Reyfald looks down at the bottle in disbelief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"This is... just about the nicest thing anyone's ever done for me. Here, I'll split it with you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"You go ahead. I don't indulge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Sure, let's have a drink."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Don't skimp on my share."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Ah, all right. Well, here, I've got this for you, then. Stitched it up myself. It's the least I can do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Yes!" Reyfald works at uncorking the bottle. "Then here's to the Lord of Caed Nua! And to the Battery!"</DefaultText>
+      <FemaleText>"Yes!" Reyfald works at uncorking the bottle. "Then here's to the Lady of Caed Nua! And to the Battery!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Oh, you'll get a stelgaer's portion, I promise you!" Reyfald works at uncorking the bottle. "Here's - oof - to the Lord of Caed Nua! And to the Battery!"</DefaultText>
+      <FemaleText>"Oh, you'll get a stelgaer's portion, I promise you!" Reyfald works at uncorking the bottle. "Here's - oof - to the Lady of Caed Nua! And to the Battery!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Reyfald tugs at the cork. "Here's to the Lord of Caed Nua! And to the Battery!"</DefaultText>
+      <FemaleText>Reyfald tugs at the cork. "Here's to the Lady of Caed Nua! And to the Battery!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Whew! What a kick. That was the best vintage I've had since... Well, since my farming days." He grins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Thanks for the drink."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Is anyone else seeing double?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"You'd better save the rest of it, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>[Nod]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"That'll wear off soon enough. Ah, but the taste will linger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Say, thank you again for letting me have this. I've been working on something for a while - you ought to have it. And the coin I had aside in case you, uh, had trouble finding the liquor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Sure will. This is going someplace safe. Let me know if you ever want another sip, though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Hey, I'm the one ought to thank you. I've been working on something for a while - you ought to have it. And the coin I set aside in case you, uh, had trouble finding the liquor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"I hope you find what you're looking for up here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>[Give him the bottle from the cellar.] "Here you go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Truth is I couldn't care less about the town, or the mines. But I like the people. Hardy bunch, living up here in the cold. Shame most of them have packed up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Ah, I wouldn't want to say any ill of him, after what happened. We didn't see eye to eye sometimes, but he was a good man."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"I would have helped fight them ogres off, you know, if I didn't think I'd just get in the way. And with you around, everything turned out well enough. Thought we'd lose the stockades entirely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"We won't last another year out here, in any case. Doesn't make much sense risking my hide to fight off ogres when it's - begging your pardon - kith that are the problem. Don't see what Haeferic's still sour at me for..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"You got the look of someone with his teeth around a secret." Her cold fingers are locked around your arm. Her black eyes search you.</DefaultText>
+      <FemaleText>"You got the look of someone with her teeth around a secret." Her cold fingers are locked around your arm. Her black eyes search you.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"I would have helped fight them monsters off, you know, if I didn't think I'd just get in the way. And with you there to handle things, everything turned out well enough, didn't it? Don't see why Haeferic's still sour at me... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Not my problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Don't see the harm... Building's thirsty work... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Careful. She's looking at you the way I've seen Itumaak look at your pig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Careful. She's looking at you the way I've seen Itumaak look at your cat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Her mind fills with questions... with calculations..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"My, but it's gotten warm in here!" He laughs awkwardly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"That's enough." Pallegina places a feathered hand on the Devil's shoulder, like a mother attempting to pull away an overly intrusive child.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Yes, well, if we could all keep our teeth to ourselves..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Read a Vailian mystery that started out like this. It ended badly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"You would give this woman the vengeance she craves? What good shall come of it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"We're not really going to do this, are we? Tell me we're not doing this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Be careful how far you follow this revenge plot. It may bring her some small satisfaction, but I doubt anything good will come our way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Harmke? Oh right, the guy the Devil wanted to-"
+
+The Devil of Caroc shoots Hiravias a glance, and he clamps his own mouth shut, covering it with a hand. 
+
+He looks at Reyfald and smiles innocently.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Are we the supporting cast in a revenge ballad, now? They never make it to the final verse..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Well. What're we waiting for, [Player Name]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Let me know when you do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"From saving the town to swiping liquor. There's progress for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Oh, bravo. Subtle, indeed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"You really did it! I mean, people have always come through here, talking about opening the Battery, claiming the White Forge, all that."
+
+"But I didn't think anyone would ever really manage it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Sad to think Renengild had the right idea, all this time. Maybe we really could have turned this all around."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"I, uh, I told Taena I'd be willing to help out with digging out the mines again. You know, do my part."
+
+"Figure we can turn this place around, now that you've laid the foundation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"I, ah, I told Renengild I'd be willing to help with getting the mines back in order. You know, do my part."
+
+"Figure we can turn this place around, now that you've laid the foundation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Figure they deserve better. And, well, you've given them a chance at that. So, you know. Thanks. For what that's worth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Shame. Embarrassment. Desperation. Physical impairment. I must inquire about this recipe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Guess Haeferic was right all along. Not that he'll give me a chance at telling him as much."
+
+"Shame, that. Ought to be celebrating."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Do you know, he has a whole case of Fennlan liquor in there! I keep offering to buy it off him, but he still won't let me at it. Special events only. Prick."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

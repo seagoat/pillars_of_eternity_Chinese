@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一个男性幽灵身穿整齐的铠甲，披着爵士斗篷，仔细研究着一封书信。你可以清楚地看见他胸甲前的公爵和艾迪尔徽记。
+
+他反复地看了几遍那封书信。然后他抬起头，用一种难以理解的表情看着你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“跟我说说那些命令。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[听]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[离开。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“命令来自阿德麦·哈德莱特本人，这就意味着公爵也同意了。”说着，他把旨令卷了起来。
+
+“我们要把放火烧了迪伍德，让那些土鳖无路可退。要是有人敢从城里逃出来，就把他们杀掉，躲在里面的，就让他们活活烧死。”他叹了口气，吐出一阵鬼魂的冷雾。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“计划有变。带领你人马往南进军，一路前进到河湾。”
+
+“带上一支马车队和十来桶沥青。”他摇了摇头，支支吾吾地说着，把拿着旨令的手垂了下来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>他握紧拳头抓着旨令。“这会比碎石之战更快结束。”他看着你说，“而我们只能祈祷它能扼杀掉未来的潜在冲突。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>当他把手放在你肩上时，你没有任何感觉。“我知道这对你来说很难接受，对我们很多人来说同样如此。但你必须理解，我们这么做是要结束战争，而不是让它持续下去。
+
+“请记住，我们是要把敌人赶出家园，而不是随便烧几个村子闹着玩。今晚，贝拉瑟将开启命运的审判。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>“有新的命令，中尉。让你的部队准备好。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

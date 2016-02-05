@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>秘密货物</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>在盎卓之礼内找到英格维斯权杖遗失的部分。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>拿着权杖的部件去找布拉肯伯里疯人院里的南斯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>拿着权杖的部件返回伊玛处。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>找到那个一直向伊玛购买英格维斯神器的通灵师。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>我遇上了伊玛，一名盎卓之礼的老水手。他在一支运货船队工作，船队运载了几箱货物，包括几箱英格维斯神器。几个来自克里亚班·雷里格的武装人员袭击了船队，造成了船只的搁浅。
+
+伊玛现在在找人追回英格维斯权杖遗失的三枚部件。他认识一位有意向买下这件神器的通灵师，前提是必须找到权杖的全部部件。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>伊玛告诉我说神器的其他部件可能会被冲到码头附近的浅谈上。如果我能找到全部遗失的部件，我就可以弄清这到底是个什么玩意——再出个更高的价钱卖了它。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>伊玛的朋友南斯是位通灵师，也是研究英格维斯神器的专家。如果我把神器重新组装完整，她也许能为神器估个价。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>我找到了三件权杖部件。伊玛知道接下来该怎么做。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>我可以拿着这四份权杖部件去找伊玛认识的那位通灵师，但我一个人找不到她。
+
+我对伊玛做了这等事，也不可能从他那里得到帮助了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我找到了破碎遗物的一个部件。看来其他的部件还是不知所踪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我找到了破碎遗物的两个部件，它们似乎相互契合，不过其他的部件还是不知所踪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>我找到了破碎遗物的第三个部件。我把三个部件相互组合，拼装成了一根权杖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>南斯为组装权杖出价1800潘。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>我把南斯出价的组装费砍到了1500潘。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>南斯为组装权杖出价1800潘。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>我把南斯出价的组装费砍到了1500潘。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>南斯修复了权杖，我支付了相应报酬。虽然组装费很贵，但修好了的权杖是一件无比强大的武器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>我把权杖的部件卖给了南斯。她的出价没有预期的高，不过我觉得对一件破碎的神器，这价格也足够合理了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>我把权杖的部件卖给了南斯，她额外付了我一些钱，因为权杖部件保存完好，这是我俩有目共睹的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>我杀了南斯，我也无法将神器修好或者卖出了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>我杀了伊玛，现在我也不知道该拿这些权杖部件怎么办了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>95</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>由于超过77000名粉丝的支持，《永恒之柱》才能面世。黑曜石公司的员工十分感激这次机会、你们的反馈和支持。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>随着团队规模的扩大，你也许要改变队形。你可以通过主界面的队形按钮在预设的队形之间进行切换，你也可以设置自己的队形。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>侦查模式有两个用途：潜行和搜索。潜行可以让你避开强大的对手或者取得战术优势。搜索则可以让你侦查陷阱和隐藏物品。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>一些生物或者护甲类型有针对某种伤害的特殊强化或者特别容易受到某种特定类型的伤害。参看生物伤害减免的提示信息和生物图鉴来选择与之战斗最适宜的武器和技能。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>所有的攻击都会受到以下四种防御其中一种的抵抗：格挡，坚韧豁免，反射豁免或意志豁免。如果敌人某种防御十分强大，试着换一种针对其他防御类型的攻击方式。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>当攻击目标早晨伤害时，这一伤害通常会被相应类型的伤害减免所降低。伤害减免无法完全免除所有伤害，但能极大地降低伤害。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>攻击命中时，造成常规伤害以及常规的持续效果时间。击偏则会相应降低伤害和持续时间为常规的50%，而暴击则会加倍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>原始伤害是忽略伤害减免的伤害类型。只有一小部分攻击，比如施毒、心灵法术等技能会造成原始伤害。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>如果游戏角色的耐力值降为0，这名角色将处于昏迷状态，在我方战斗胜利时会完全恢复耐力值。健康损伤只能通过休息得到恢复。生命值为0时，角色会受重伤或者死亡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>战斗时游戏角色可以使用快捷物品或者在武器套组之间切换，但除此之外没有其他的途径打开行囊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>任何武器、盾牌和护甲都可以附魔，只要在说明页面点击附魔按钮即可。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>药剂，卷轴和食物可以通过点击团队内任一成员行囊里的制作按钮进行制作。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>附魔菜单上所有的附魔配方都需要使用一种宝石，一种植物，一种生物器官和一些铜。大多数原料不止用于一个配方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>在野外露营需要露营装备，可以在各种商店买到。如果你弄不到露营装备，大多数小旅馆都有价格实惠的房间可供休息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>大多数堡垒事件随着游戏时间的流逝发生。收税，完成支线任务，生产物品制作所需的原材料等都会随着你完成任务发生。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>你遇到并打败的人可以被关在你的堡垒里沦为阶下囚。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>改变属性的作用效果常常彼此冲突。在这种情况下，游戏只采用该类型的最大增益。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>近身遇敌的角色很难从近战状态的守方身边脱身。然而，一些不良状态可以中断遭遇战斗的状态，比如失衡，击晕，麻痹和惊愕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>随着你的角色在对话和探索中做出选择，他或她会积攒声誉，通常带有特定派系。世界里的角色会对这些选择做出回应 - 以或好或坏的方式。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>对话由你的主角完成，但同伴有时会插入对话，表达自己的意见和想法。在剧情互动中，更多团队成员可以参与进来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>难度等级影响战斗时出现的生物类型和数量。只有“除魔之路”模式改变出现生物的属性。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>力量影响角色所造成的伤害和治疗效果，也影响坚韧豁免值。在对话和剧情互动中影响力量和威慑力判定。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>体质影响角色的耐力和健康，以及他们的坚韧豁免值。在剧情互动中影响对紧张疲劳的身体状况的支持能力。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>敏捷影响角色的行动速度和反射豁免。在对话和剧情互动中影响手上功夫和需要快速施展的行动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>感知影响角色导致打断攻击的机会，还会影响精确和反射豁免。它也可以被用在对话和书写的交流中来察觉隐藏的细节。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>智力影响区域效果、技能的持续时间以及意志豁免值。在对话和剧情互动中，智力影响逻辑和推理能力。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>决心影响专注、意志豁免和格挡。在对话和剧情互动中，决心影响原始意志力，情感强度和个人魅力。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>体育技能在剧情互动中影响攀爬，游泳和跳跃能力。战士和野蛮人有初始体育技能加成。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>学识技能在对话和剧情互动中影响破译线索和记忆深奥知识的能力。法师和行吟者有初始学识技能加成。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>机械学技能影响开锁和拆陷阱的能力，以及剧情互动中的修补能力。游侠和行吟者有初始机械技能加成。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>潜行技能在侦查模式下可以避免引起注意。盗贼和游侠有初始潜行技能加成。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>生存技能包括鉴定植物、生物以及对话和剧情互动中的自然界知识。游侠和野蛮人有初始生存技能加成。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>天赋能极大地左右角色发展。职业天赋可对已有的种族技能进行调整改变或学习非本职业核心技能的能力。所有职业都攻击性、防御性和功能性天赋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>野蛮人有各种适用于群体近战的技能。面对大群敌人，可以考虑派野蛮人去冲锋陷阵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>行吟者可不只会唱歌！他们的技能针对的不是一线战斗。通过在其他行动的同时持续吟唱积累增益，他们才成为能力强大的战士。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>咒术师通过凝神给技能充能，并在心灵鞭挞激活时通过武器输出的伤害获得额外凝神。专注达到上限时，心灵鞭挞自动关闭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>德鲁伊有多种多样区域效果的攻击性技能。他们也具有变身为动物形态的灵力变身能力，以便近身战斗。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>战士极为坚韧，是最可靠的伤害输出者之一。他们可以很有效地稳住阵脚，逐步损耗难以击倒的敌人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>僧侣赤手空拳也有强大的攻击力，并且使用近战武器也不会影响他们的能力。尽管有些技能他们可以自由施展，但多数技能的施放需要先承受伤害。受伤能激发僧侣的特殊技能。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>圣骑士兼具协助和攻击两种类型的能力。圣骑士的热忱光环能持续作用于近旁的队友。他们对单个队友的箴言同样作用强大。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>牧师是专精于辅助技能的职业。尽管他们的技能范围通常很有限，但总能给团队提供各种增益和辅助。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>游侠与他们的动物伙伴相互配合，亲密无间。动物伙伴虽然没有强大的攻击力，但却可以有效地进行牵制，以便游侠消灭敌人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>偷袭技能使得盗贼在所有职业中拥有最高的武器伤害输出。对处于偷袭技能适用的负面状态的敌人，盗贼的攻击自动造成额外伤害。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>法师只能施展魔导书载录的魔法。额外的魔导书可以放置在法师的快捷栏中以便在战斗时切换，但预读新魔法需要几秒钟时间。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>队友的行囊装满物品装备时，队伍的储物箱可以用来放置额外的物品装备。一些任务物品和原材料会被自动放入储物箱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>带有“精良”，“优秀”和“卓越”属性的武器，盾牌和护甲提供命中，伤害，格挡以及各种伤害减免之类属性的加成。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>短小轻快的武器打断几率更低，但攻击频率更高。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>某些种类的武器，例如穿甲剑，钉锤和短剑，可以忽视敌人一定量的伤害减免。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>任何非单一伤害类型的武器，比如伤害类型标有“挥砍或钝击”的武器，在攻击时其伤害类型都会根据攻击目标更易受到的伤害类型择优判定。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>盔甲越重，防护就越好，但穿戴者的恢复时间就被延长得越久。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>不持盾挥舞单手近战武器每次攻击都有额外准确加成。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>双持提供最快的攻速，但单次伤害输出不如双手武器高，准确度不如单手武器高，格挡加成则不如持盾时加成高。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>装备护盾可以增加角色的偏折。更多的护甲会影响角色的精确。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>双手近战武器单次攻击伤害输出最高，并且击穿伤害减免效果很好。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>食物虽然不能在战斗中食用，但可以提供长期增益效果。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>武器和盾牌提供的属性加成可以和其他类型物品提供的加成叠加。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>飞爪钩和槌凿套组之类的物品在特定的互动场景中使用之后便会被消耗掉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>游戏术语表包含游戏判定机制的各项名词术语的定义及解释。如果你想了解暴击的计算方法或者伤害减免的作用方式，请打开手册进行查阅！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>游戏界面和显示设置提供多项可更改参数，玩家可根据个人喜好在选项菜单中进行设置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>游戏默认设置用绿色和标示区分我方和敌方。如果玩家对区分红绿颜色有困难，可以打开游戏选项菜单中的色盲色弱选项。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>《永恒之柱》提供多语种支持。玩家如果想要更换游戏语言，可以在选项菜单中更改语言设置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>在战斗中，移出角色的选择圈进入另一个的箭头指示近战。如果参战角色想在箭头激活时离开战斗，他们马上会被脱离接触攻击标记。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>角色一出现在战争迷雾边缘，大多数生物就可以探测到他。要偷袭敌人，请使用侦察模式。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>可以进入要塞后，可以从中央HUD界面随时打开菜单。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>中央HUD和战斗日志可以最小化，仅显示角色头像。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>指针悬停在战斗日志的任意攻击条目上，查看更多详细信息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>角色头像上的红条显示耐力损失。头像左边的条显示生命值损失。血条接近0时会改变颜色。生命值低于最大耐力值时，头像会显示耐力受限。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>游侠的动物同伴可以直接点击游侠头部上方的图标选取。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>指针悬停在角色头像上查看当前受到影响的法术或者技能。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>角色表包含队员所有详细信息，还列出玩家和队员数据，包括声望。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>直接单击区域地图移动镜头到该地点。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>怪物图鉴包含所有已交战过生物类型的信息。击败更多生物，图鉴条目将解锁更多内容。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>慢速模式可使在不暂停战斗的情况下引导角色移动。快速模式在穿越队伍已探索过的区域时非常实用。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>暂停游戏以下达命令是《永恒之柱》重要的部分。选项菜单中有许多自动暂停条件可供选择。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>设置范围攻击目标时，圆环指代最远圆周，内圆周与外圆周间的区域“仅限敌人”。友军在该范围内不会受到法术伤害。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>下达命令时按住Shift键可下达一连串命令。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>金色名称的NPC由我们的支持者所设计。与其交互可以了解他们的灵魂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>角色传记会随着冒险旅程的展开自动书写。打开任务窗口的日志标签查看角色发展历程。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>角色与其他人对话的方式，即使是微不足道的对话也会转化为声望。名气变大后，某些角色互动结果会改变。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>可以在选项菜单选择对话选项的主流程度。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>队友想和你谈话时，头像上会出现交谈图标。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>范围攻击法术可能显示两个目标圆环。内环影响范围内所有目标，外环仅影响敌人，对友军没有影响。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>按Tab键高亮环境中的交互对象。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>于你的堡垒建造看守长小屋有多种奖励。赏金任务的战斗十分挑战，奖励优渥，包含独特物品。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>金色名称的NPC由我们的支持者所设计。与其交互可以了解每个人的独特故事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>墓碑标记此处有纪念碑。这些是我们支持者书写的个人讯息。许多信息可能给人超越次元的感觉，所以全心沉浸游戏的玩家请谨慎点击。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>按住Shift键单击箱子里的物品直接保存入储物箱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>鼠标指针悬停在技能图标上后按任意键可以快速设置热键。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>你可以通过你的团队成员角色表上的AI设置来让他们在战斗中自动行动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>你可以通过当前角色表的肖像来改变你的主角色的肖像和冒险。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>单个角色可以脱离团队进入侦查模式。虚线选择圈标示哪个角色在进行侦查。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>你可以从任何的客栈界面对角色进行从1级开始的再训练。训练角色的花费随着级别升高。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>使用者满足一定条件时，灵魂绑定武器可以获得额外的能力。武器的描述总是列出下一个条件。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>当使用攻击，咒语，和其它能力时，角色周围的圈标示那个行为的最大范围。选择圆圈外的目标需要角色移动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>当进行攻击时，目标周围标出的百分比表示你击中和暴击的几率。如果机会很低，尝试改变目标或使用状态来增加你的机会。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

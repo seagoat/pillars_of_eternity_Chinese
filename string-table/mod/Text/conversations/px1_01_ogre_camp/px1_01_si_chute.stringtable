@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>104</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A wide shaft snakes deep underground. The lip is surrounded by scattered refuse and half-gnawed carcasses, but wisps of light wink along the walls below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Secure a grappling hook.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Climb down the rope.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Despite the lure of treasure, you continue your descent down the chute. The open cavern narrows again to an inclined tunnel. 
+
+Light from below glazes the ice in aquamarine hues. You are near the exit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The walls of the chute close around you as you approach the exit. The footholds become slick and sparse once more.
+
+[SkillCheck 0], barely managing to hold onto the rope, wrenches a shoulder before emerging from the tunnel into an open cavern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You secure your hook to a thick, solid-looking stalagmite, giving the rope a tug for good measure.
+
+It holds, and you cast the free end into the darkness of the chute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Attempt a free hand descent down the chute.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You find enough cracks and burrs in the ice to pick your way down, reaching the bottom without incident.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You continue your descent down the chute. The open cavern narrows again to an inclined tunnel. 
+
+Light from below glazes the ice in aquamarine hues. You are near the exit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Yet the chute disappears into darkness. Peering into the depths, all you can see are shattered bones and streaks of frozen sludge stuck in the ice.
+
+A rancid odor of rotted meat wafts from the chute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Inspect your surroundings.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The ice that varnishes the chute feels slick and smooth - it won't offer any traction. The faint echoes from the depths suggest that it's a long way down.
+
+However, you notice a thick stalagmite nearby. It looks sturdy enough to hold a rope and grappling hook.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>You grab the rope and plant your feet as best you can against the slippery ice. You lower yourself slowly, seeking out rough patches and ribs in the marbled and filth-streaked ice. 
+
+After several minutes, the mouth of the chute disappears above you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The climb tests your patience more than your strength, forcing you to choose your footholds carefully.
+
+Until the chute opens into a wide cavern around you. You lower yourself hand-over-hand, keeping your half-numbed fingers wrapped around the rope. You still can't see the bottom.
+
+But as you look around, a glint of light catches your eye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Climb back up to the chute's opening.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Swing on the rope to make a grab for the ledge.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Climb down the rope.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>You decide to climb back up the rope. 
+
+Light from above guides your ascent, and you find steady footholds and grips on your way back up.
+
+Minutes later, you're back in the cavern with steady ground beneath you and the chute at your back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You heave your weight from side to side, building momentum. The rope creaks under the increasing stress, but the ledge is almost within reach. 
+
+You swing once more. 
+
+As your fingers brush the outcropping, a loud crack resonates down the chute and the rope gives beneath your weight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You see a small outcropping clinging to the wall nearby. Skeletal remains cluster on the ledge, and between the bones, you detect a glimmer.
+
+The edge of the outcropping is just close enough that you might be able to swing toward it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Try to reach the ledge again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Confident that the rope is tightly secured, you pump your legs to get your rope swinging once more. 
+
+You quickly pick up speed, and soon the outcropping looms within reach. 
+
+At last you seize the edge and pull yourself up, next to the tangled skeletons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Despite the risk, you decide to make another attempt at the ledge. You pump your legs to get your rope swinging once more. 
+
+Quickly picking up speed, you prepare to reach for the outcropping. 
+
+A metallic clang echoes above you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Carefully climb up the rope to secure it once more.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>You decide to anchor the hook to a new support. 
+
+From here, you can't tell how secure the rope is, but you suspect that any sudden weight change or fumbling about could dislodge the rope and send you crashing down.
+
+Who will you send to climb the rope and secure the grappling hook?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Climb up to secure the hook yourself.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Send [Slot 0].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Send [Slot 1].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Send [Slot 2].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Send [Slot 3].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Send [Slot 4].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Send [Slot 5].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Do something else.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>You begin climbing up the rope. 
+
+It creaks and moans at every pull, but your deft hands and agile movements keep it steady. 
+
+After a tremendous effort, you reach the top of the chute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The top of the stalagmite has broken off, and your grappling hook is barely holding on to the remainder.
+
+You ease the hook down and into the thick base of the stalagmite, wedging it firmly into place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You begin climbing up the rope. 
+
+It creaks and moans at every pull. You do your best to keep the rope steady, but you feel it swing and shift as you scramble upwards.
+
+Suddenly, it slips from the anchor above.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Slot 0] begins climbing up the rope. 
+
+It creaks and moans at every pull, but [Slot 0]'s deft hands and agile movements keep it steady. 
+
+After a tremendous effort, [Slot 0] reaches the top of the chute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>The top of the stalagmite has broken off, and the grappling hook is barely holding on to the remainder. 
+
+[Slot 0] eases the hook down and into the thick base of the stalagmite, wedging it firmly into place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>The hook tumbles from its anchor above you. 
+
+You pick up speed, wind whistling past your ears and a scream tearing from your throat.
+
+You slam against jagged rocks and hard ice, tumbling down the narrow tunnel as the world spins around you. With a final crash, the chute spits you out into an open cavern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>You watch [Slot 0] climb up the rope. 
+
+It creaks and moans at every pull. [Slot 0] tries to keep the rope steady, but it swings wildly. 
+
+Suddenly, the rope slips. You hear [Slot 0] curse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Slot 1] begins climbing up the rope. 
+
+It creaks and moans at every pull, but [Slot 1]'s deft hands and agile movements keep it steady. 
+
+After a tremendous effort, [Slot 1] reaches the top of the chute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>The top of the stalagmite has broken off, and the grappling hook is barely holding on to the remainder. 
+
+[Slot 1] eases the hook down and into the thick base of the stalagmite, wedging it firmly into place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>You watch [Slot 1] climb up the rope. 
+
+It creaks and moans at every pull. [Slot 1] tries to keep the rope steady, but it swings wildly. 
+
+Suddenly, the rope slips. You hear [Slot 1] curse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Slot 2] begins climbing up the rope. 
+
+It creaks and moans at every pull, but [Slot 2]'s deft hands and agile movements keep it steady. 
+
+After a tremendous effort, [Slot 2] reaches the top of the chute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>The top of the stalagmite has broken off, and the grappling hook is barely holding on to the remainder. 
+
+[Slot 2] eases the hook down and into the thick base of the stalagmite, wedging it firmly into place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>You watch [Slot 2] climb up the rope. 
+
+It creaks and moans at every pull. [Slot 2] tries to keep the rope steady, but it swings wildly. 
+
+Suddenly, the rope slips. You hear [Slot 2] curse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Slot 3] begins climbing up the rope. 
+
+It creaks and moans at every pull, but [Slot 3]'s deft hands and agile movements keep it steady. 
+
+After a tremendous effort, [Slot 3] reaches the top of the chute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>The top of the stalagmite has broken off, and the grappling hook is barely holding on to the remainder. 
+
+[Slot 3] eases the hook down and into the thick base of the stalagmite, wedging it firmly into place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>You watch [Slot 3] climb up the rope. 
+
+It creaks and moans at every pull. [Slot 3] tries to keep the rope steady, but it swings wildly. 
+
+Suddenly, the rope slips. You hear [Slot 3] curse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Slot 4] begins climbing up the rope. 
+
+It creaks and moans at every pull, but [Slot 4]'s deft hands and agile movements keep it steady. 
+
+After a tremendous effort, [Slot 4] reaches the top of the chute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>The top of the stalagmite has broken off, and the grappling hook is barely holding on to the remainder. 
+
+[Slot 4] eases the hook down and into the thick base of the stalagmite, wedging it firmly into place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>You watch [Slot 4] climb up the rope. 
+
+It creaks and moans at every pull. [Slot 4] tries to keep the rope steady, but it swings wildly. 
+
+Suddenly, the rope slips. You hear [Slot 4] curse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Slot 5] begins climbing up the rope. 
+
+It creaks and moans at every pull, but [Slot 5]'s deft hands and agile movements keep it steady. 
+
+After a tremendous effort, [Slot 5] reaches the top of the chute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>The top of the stalagmite has broken off, and the grappling hook is barely holding on to the remainder. 
+
+[Slot 5] eases the hook down and into the thick base of the stalagmite, wedging it firmly into place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>You watch [Slot 5] climb up the rope. 
+
+It creaks and moans at every pull. [Slot 5] tries to keep the rope steady, but it swings wildly. 
+
+Suddenly, the rope slips. You hear [Slot 5] curse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Uncertain of how long the rope can hold, you decide to bring everyone out of the chute. 
+
+The rope swings and groans as your party climbs. Suddenly, you feel it jerk.
+
+The rope drops a few inches. It catches again, but you don't think it will hold if you all attempt to climb out at once.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Uncertain of how long the rope can hold, you decide to climb back up. 
+
+It swings and groans as you climb. Suddenly, you feel it jerk.
+
+The rope drops a few inches. It catches again, but you don't think it will hold under a clumsy ascent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Carefully climb up to leave the chute.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>You begin climbing up the rope. 
+
+It creaks and moans at every pull, but your deft hands and agile movements keep it steady. 
+
+After a tremendous effort, you reach the top of the chute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>You experience a panicked moment of free fall before the rope snags again.
+
+While you can't see all the way to the mouth of the chute, you guess that your grappling hook dug its claws into a ridge in the ice just in time.
+
+It's holding. For now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Given your grappling hook's precarious hold on the ice above, you decide it's best to descend as soon as possible. 
+
+You carefully slide down the rope while trying to keep it steady. It seems to hold. The open cavern narrows again to an inclined tunnel. 
+
+Light from below glazes the ice in aquamarine hues. You are near the exit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>The walls of the chute close around you as you approach the exit. The footholds become slick and sparse once more.
+
+[SkillCheck 0] slips on the ice. The sudden movement jerks the rope. It groans, and a metallic clang booms in the distance above you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>The hook comes loose. 
+
+You fall, wind whistling past your ears and a scream tearing from your throat.
+
+You slam against jagged rocks and hard ice, tumbling down the narrow tunnel as the world spins around you. With a final crash, the chute spits you out into an open cavern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>You approach the chute at the end of the cavern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>You approach the chute at the end of the cavern. A jagged stump is all that remains of the stalagmite you dislodged, and there's no other suitable anchor in sight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>You tighten your grip about the rope and consider your options as the rope creaks softly overhead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>A leather bag lies half-buried under the bones, and something glows within it.
+
+You pick it up and stash it away. 
+
+With your prize secured, you give the rope a gentle tug and climb onto it once more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>With your hook secured, you climb back down to the widest point in the chute, where you saw the outcropping.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>With the hook secured, [Slot 0] climbs back down to join you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>With the hook secured, [Slot 1] climbs back down to join you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>With the hook secured, [Slot 2] climbs back down to join you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>With the hook secured, [Slot 3] climbs back down to join you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>With the hook secured, [Slot 4] climbs back down to join you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>With the hook secured, [Slot 5] climbs back down to join you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>You begin climbing up the rope. 
+
+It creaks under your considerable weight, but your agility and reflexes allow you to keep it steady. 
+
+After a tremendous effort, you reach the top of the chute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>You begin climbing up the rope. 
+
+It creaks and moans, but your light weight and nimble movements allow you to keep it steady. 
+
+After a quick ascent, you reach the top of the chute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>You begin climbing up the rope. 
+
+It creaks and moans, but your light weight and nimble movements allow you to keep it steady. 
+
+After a quick ascent, you reach the top of the chute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>You begin climbing up the rope. 
+
+It creaks under your considerable weight, but your agility and reflexes allow you to keep it steady. 
+
+After a tremendous effort, you reach the top of the chute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>You're familiar with the footholds on the descent, and you quickly make your way down to the cavern with the outcropping.
+
+Once there, you stop to consider your options.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Secure the grappling hook to the broken stalagmite.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>The grappling hook barely holds onto the stalagmite, its top shattered by the weight of your descent. You push the hook down the shaft of the stone formation and manage to lodge it firmly to its base.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>As you begin to plummet, you experience a brief moment of clarity and the chance to take decisive action.
+
+What do you do?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Cast Armor of Faith.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Call on [Slot 0] to shield the party with Armor of Faith.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Call on [Slot 1] to shield the party with Armor of Faith.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Call on [Slot 2] to shield the party with Armor of Faith.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Call on [Slot 3] to shield the party with Armor of Faith.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Call on [Slot 4] to shield the party with Armor of Faith.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Call on [Slot 5] to shield the party with Armor of Faith.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Brace for impact.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>As you fall, you call on your divine power to cast Armor of Faith.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>As you fall, [Slot 0] manages to cast Armor of Faith on the party.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>As you fall, [Slot 1] manages to cast Armor of Faith on the party.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>As you fall, [Slot 2] manages to cast Armor of Faith on the party.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>As you fall, [Slot 3] manages to cast Armor of Faith on the party.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>As you fall, [Slot 4] manages to cast Armor of Faith on the party.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>As you fall, [Slot 5] manages to cast Armor of Faith on the party.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>The hook tumbles from its anchor above you. 
+
+You pick up speed, wind whistling past your ears and a scream tearing from your throat.
+
+You slam against jagged rocks and hard ice, tumbling down the narrow tunnel as the world spins around you. With a final crash, the chute spits you out into an open cavern. Fortunately, your divine protection has absorbed the brunt of the damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[Cast Dragon Leap to save yourself.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>As you fall, your blood quickens and your muscles tense with supernatural strength. 
+
+You curl into landing position, confident that your power will let you absorb the impact of the fall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>The hook tumbles from its anchor above you. 
+
+You pick up speed, wind whistling past your ears and a scream tearing from your throat.
+
+You slam against jagged rocks and hard ice, tumbling down the narrow tunnel as the world spins around you. With a final crash, the chute spits you out into an open cavern. Fortunately, your power has absorbed the brunt of the damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>You begin climbing up the rope. 
+
+It creaks under your considerable weight, swinging wildly as you scramble and flounder.
+
+Suddenly, it slips from the anchor above.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>You reach the cavern below without incident.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

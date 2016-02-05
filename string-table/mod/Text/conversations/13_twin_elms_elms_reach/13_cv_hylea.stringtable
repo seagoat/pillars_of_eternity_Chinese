@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>136</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你闭上双眼开始祈祷。在黑暗的等待中，你周围的环境开始变化。你感受到阳光，明亮而温暖，照在脸上。旋律随一阵微风拂过。
+
+这些感觉是那么的真实，而你却明白，那些都不是真的。
+
+你环顾四周，发现自己站在一座山顶的一处庙宇。庙里全是精灵和奥兰人，还有其他的一些人种。树的枝叶繁茂，它们翠绿色的枝杈上站满了颜色、外形、大小各异的鸟类。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>跪下。当你祈祷的时候，你会感到你周围的空间融化扭曲，你发现自己被山顶的神殿凝视着。然而，你既没看到膜拜的信徒，也没看到一条龙。只有一棵树。
+
+它的树枝包裹着神殿，长成各种形状，弯成各种角度。看起来瘦弱的树干是无法撑起这么多粗壮的枝杈的，然而在清风中，树枝却纹丝不动。
+
+一只麻雀孤零零地站在离你最近的树枝上，盯着你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“快，守望者。你必须在一切变得无法挽回之前组织陶斯。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>你向天羽之神赫丽雅祈祷，但什么也没发生。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>震动的风中传来一个声音，温柔且柔和。“你来到我的寺庙中找到了龙兽。你却并没有把它赶走，反而让它留了下来。我的信念之歌将不再会填满巢穴。野兽以及她的孩子为填补饥渴将会造成许多杀戮。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>震动的风中传来一个声音，温柔且柔和。“你来到我的寺庙，并且打败了龙兽。现在，我的信念将回归，面对天空歌唱他们的喜悦并用他们的创作歌颂我。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>“当你到达葬身岛后，你就会找到那些被我暂缓处罚的灵魂。我把这个交给你，它们会保护你一路的安全。”
+
+“当你与陶斯和他所孕育出的腐烂果实对面时，请回想起我们之间的对话。那时，你将获得与神同等的力量。之后，你就将永远的活在你所选择的世界。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>每个人都忙着做自己的事情。一个奥兰人坐在帆布前，手上拿着画笔，脚边放着一罐罐绿色的，蓝色的，黄色的颜料。一个精灵和一个奥马阿人站在一边聊的火热，手舞足蹈的。
+
+然而，其他人在纸上写着潦草的诗歌或者画着糟糕的素描，迷失在了细微琐碎的句子和音节中。你再次感受到了清风，两名沐浴在阳光下的精灵开始颤抖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>最大的一群聚集在神庙中央。他们歌唱着华美的旋律。其他人或单独、或结伴地来到歌唱的地方，不知是来躲避狂风吹袭，还是被歌声吸引。
+
+树林的叶子被吹起一阵波浪，你以为是风的缘故，但突然悦耳的鸟鸣变成了刺耳的啸叫声。数百只鸟一跃而起，远离了这个地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>信徒们撇了一眼树林，但也没有为此分心。但风越来越大，卷起了他们的诗歌和画作。信徒们停下了诵唱，他们抬头看天，而你也随他们的目光向上看。
+
+一个黑暗的阴影挡住了太阳。你看不出是什么东西，但它渐渐展开、扩张，像是要遮蔽整个天空。狂风依旧咆哮着。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>就在你想逃跑是，一片阴影坠入到神庙之中。它从角落一处开始扩散，遮盖了整片石墙。
+
+它接触到了附近的一个黑毛发的奥兰人，黑暗瞬间吞噬了她，只留下一道虚无的烟气。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>你抬头看着阴影的源头，但暗淡的太阳这时形成了一道刺眼的日华。你没办法看清细节。
+
+然而，你能感受到它的炎热气息。
+
+“修复我的神庙。”
+
+你低头一看，发现自己正站在泰尔·埃夫隆的赫丽雅神殿旁。这奇异的遭遇让你血脉偾张，汗流浃背。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>“我寻求觐见赫丽雅。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[对鸟儿吹口哨]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[向麻雀扔颗石头]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[离开。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>麻雀抬起了它那造型特别的头</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>麻雀飞走了，留下你独自一人在山顶上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>你吹响了第一声口哨，麻雀眨了眨它珍珠似的双眼，在树枝上向你走近了一些。
+
+它抖了抖头，张开嘴，唱着婉转旋律，声音之洪亮犹如一大群鸟儿在合唱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>鸟群从天而降，它们挥舞着翅膀，鸣叫着，发出雷鸣般的声响。它们密集地遍布在树枝上，形状、体形、颜色各异的鸟类一个挨着一个地聚集在一起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>一阵清风拂过，鸟儿摆动翅膀，发出奇怪而轻柔的旋律。数以百计的鸟从树枝上一跃而起，在空中绘制出一片斑驳的色彩。而在它们成群结队地向下俯冲时，你瞥见某个身上披着丰盈羽毛的人，正回头看着你。。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>“守望者，我觉得我们正站在传说中的千鸟神殿……”
+
+她闭上眼睛，面朝天空。“我感受到了一个……温暖而充满希望的存在。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>“看啊。羽翼斗篷。我们在传说中的千鸟神殿里——站在那儿的就是天空之母。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>一个温柔而纤细的声音伴着清风传来：“你把巨龙从我的神庙中驱逐了出去，却留了它活口。为何手下留情？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>“巨龙当时是为她的幼子寻找栖息地。你难道不也是象征母性的神吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>“那些龙，跟你的鸟一样，都是天空的创造物。每个生命都有存在的意义。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>“她用自己的力量赢得的，我不会轻易将之剥夺。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>微风拂过你的脸庞，鸟群在神庙上方盘旋。“是的，每个生命都需要创造出与自己等价的事迹。龙又能创造什么呢？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>“它能创造火。虽然火会吞噬生命，但火也可以给生命提供动力。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>“死亡。龙会结束掉衰老孱弱的，还有那些已经走向尽头的生命。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>“更多的龙。大龙创造小龙。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>“龙能创造非凡。它们强大而华美，光是看着就让人惊叹。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>一只猫头鹰发出鸣叫声。“我不会协助你。”其余的鸟也飞走了，只留下你一人独自站在树前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>又有数百只鸟飞向天空，用斑斓的色彩点缀着天空。“太阳的翅膀。真是美妙，熊熊燃烧的羽翼。在天空中，它孕育着生命；对于灵魂，它鼓舞人心；而对于诗人，它给予灵感。
+
+“你的答案透露着敏锐的洞察力，守望者。你的灵魂犹如黑暗中的一烛火光。也许你能用光明驱逐黑暗。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>“这是毁灭，而非创造。去吧，为孕育了你生命的神灵而奉献。”鸟群拍动翅膀，随后便消失无踪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>“它们的强大力量给无数歌者和诗人提供了灵感，它们的形象给伊欧拉的画家们提供无穷的想象。”
+
+一只大鹦鹉煽了煽它金红色的尾巴。
+
+“如果你能明白什么才是美好而值得保留的，那你可能就是能结束这场惨剧的人。”
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>“一个隐晦却蕴含着智慧的答案。生命必须延续。新生必须得到培育，生命的种子必须成长壮大。”
+
+“如果你珍重生命，那也许你就是能够结束这场惨剧的人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>“龙的生命同样值得珍重。我不会轻易的将它剥夺走。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>“我更希望保存力量去面对其他的斗争。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>鸟群在神庙上空盘旋。一个轻柔的声音随微风在你耳边拂过：“这是个明智的抉择。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>鸟群在神庙上空盘旋：“是的，守望者。过早结束的生命就如同戛然而止的歌曲，或是未完成的诗作。 ”
+
+“如果你能理解，那也许你就是能够结束这场惨剧的人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>“我已经知道陶斯·安卡农已经前往荫日之地用成千成万的灵魂来增强沃迪卡的力量了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>“我前来寻求协助。我要去荫日之地。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>“我在听。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>“生命的意义在于创造和赞美。我很高兴能协助你。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>“很好。现在我有一个请求……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>“我只想杀掉那只龙。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>“那我可以帮你这个忙。但是即便成功阻止陶斯也不能治愈迪伍德。”
+
+“你必须指引那些被窃走的灵魂回到属于他们的躯壳上。空心种的孩子们从来没有见过太阳的明媚阳光。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>“是的，但我们不止要阻止陶斯，还要挽回他造成的那些惨剧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>树上的鸟群不断鸣叫着，在它们时起时伏的声浪中，赫丽雅说道：“陶斯虽是主谋，但却是受他人指使的。放逐皇后对他耳语，迫使他去剥夺生者和尚未诞生的灵魂，只为满足皇后的私欲。”
+
+“而他也服从于皇后的命令了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>一只鹰悬停在栖木上。“她会吞噬掉那些灵魂。在她力量增长的同时，世上却诞生了数以千计的空心种孩子。”
+
+“但我们还有机会去挽救这场惨剧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>“为什么沃迪卡要这么做？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>“听起来太死已经和她合作很久了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>一对老鹰在天际鸣叫。“因为她眼里只有权力，而非仁慈或对亲族人的律令。他重视凡人的灵魂不是因为他们所创造的美丽事物，而是因为灵魂能增强她的力量。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>“你不能靠自己的力量阻止陶斯？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>寒风袭来。“她惧怕通灵术。她认为凡人会以此来篡夺神力，也就是她的力量。她对亲族人的社会革新毫不在乎，岂有此理。她所做的只是发号施令，而非鼓舞人心。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>“你知道他拥有拥有过许多次生命，而正是她一直以来在他耳边的低语，让他效忠于她野心，逼迫他保护她的利益。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>鸟群的悦耳叫声渐渐变成哀鸣。“一直以来他忠诚地为缚誓者奉献着。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>“所有神灵——即便是沃迪卡——都受誓言约束。我们唱着一个调子，而亲族人唱的却是反调。虽然我们可能会创造一种新的和谐旋律，希望凡人能与我们共鸣，但我们不会刻意这么做。因为这样会引起众神之间的不和谐——这无论神灵还是凡人都是无法承受的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>鸟儿咕咕地叫着，微风在你脚边吹过。“但沃迪卡对陶斯诵唱着她的韵律，同样的我也想与你共鸣。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>“我要怎么才能把事物变回原来的样子呢？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>鸟群突然肃静，转而看着你。风中又传来了声音。“你必须指引那些被窃走的灵魂回到属于他们的躯壳上。空心种的孩子们从来没有见过太阳的明媚阳光。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>“你能将他们复原。给他们长期生活在悲痛之中的家庭带来喜悦。”
+
+微风在你耳边吹过。“平静和复元给受磨难者带来希望。无法获得圆满结果的苦痛经历没有任何意义。饱受伤痛之后获得巨大喜悦，这才是对称之美。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>“我不确定能否真正地挽回陶斯所造成的伤害。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>“谢谢你，赫丽雅。我会继续向荫日之地前进。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>“也许让这些失落的领会去寻找新生是个更好的选择。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>“没有完整地经历过今生，又如何能延续来世？现在就将他们的灵魂传递至下一个躯壳就如同删去诗篇的一节，或是乐章的一段。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>帕勒吉娜瞥眼苦笑着将全部吃了进去。“我要把这里当成家，真的吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Durance吐口水。“对于浪费生命探索毫无意义事物而忽略真实世界的人来说，算是天堂。哦，要点燃这些树，守望者……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>“看看这地方！人们聚集于此，分享他们的创作——”卡纳皱着眉，“那幅画究竟是什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>萨加尼搭起了弓箭：“看来有事要发生了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>希拉维放出一大群鸟，它们唧唧喳喳地叫着在空中四处乱窜。
+
+“这不太妙。”希拉维喃喃自语，脸色变得难看，“某种东西吓着了它们，但它们不肯告诉我是什么……然后，我觉得又是我的鸟鸣声发错音才让它们不受控制……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>“这就能解释那些鸟是怎么回事了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>“通常不是好兆头。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>哀恸之母扬起头：“喜悦的歌声……变成苦痛的哀嚎。这场毁灭，究竟埋藏着什么阴谋，究竟要人们付出多少代价？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>你的祷词将你带回山顶的神殿中，但是这次，你只看到了崇拜者们和他们的作品烧出来的灰烬。神殿中的阴影将你笼罩，你发现自己回到了泰尔·埃夫隆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>卡纳目瞪口呆：“全世界每个角落的鸟都在这里……在那里，我看见几只拉瓦台海雀！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>帕勒吉娜重重地叹了口气：“说真的，我受不了这些鸟了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>风突然变得阴冷起来。“你渴望鲜血和荣耀。然而你对武力和杀戮的追求也可以转化成对生命的保护。”
+
+风声变成一个轻柔的人声传入你耳朵：“我会让你面对一个更强大的敌人。”大片的鸟群在神庙上空盘旋着。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>微风吹拂着那棵树，枝上的小鸟开始嚷嚷。“互惠互助，是吗？这建议也不算坏，只要我们目标是一致的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>微风吹拂着。一只鸽子在咕咕地叫。“即便是一头如此凶猛可怕的怪物，你也能发现它的温柔之处。”
+
+“你富有同情心，守望者。你的灵魂具有强大的洞察力。我还有别的请求。”鸟群在神庙上方盘旋着。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>“高兴是因为你能保护生命，还是因为找到了协助你的人？”
+
+“不管如何，你都已经证明了你能胜任这个任务。我会把详情告诉给你听。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>哀恸之母双脚摇晃着：“总会有办法的，守望者！还有希望……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>“你必须阻止陶斯，而且你必须挽救他造成的惨剧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>“那通灵术真的就是这么厉害咯？”卡纳若有所思的样子，“……我一直对ranga nui和守护者的领导敬重有加——那是因为他们的魅力会让人们的崇敬之情油然而生。单纯指挥和鼓舞人心之间，是由差别的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>亚禄的表情变得难看：“这就是铅制之钥一直以来的样子？几千年以来的样子？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>你听见了轻柔而哀伤的哭泣声。“也许那些日子不该被遗忘，而且对一部分人来说，一切也许都已经太晚。但如果你能拯救哪怕一个灵魂、点燃哪怕一丝生命的火花、或是带来哪怕一份喜悦，都已经足够了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>萨加尼退缩了。“那些伤肯定可以治愈。不然你觉得长时间的不理会就能克服？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>哀恸之母拍了拍手，美妙的音乐渐渐响起。“经过这么多年了，就让他们的伤口愈合起来，让他们不再流泪吧……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>“还有另一个问题。”他的语气变得谨慎起来，“你目睹过灵魂从原来的肉身抽离出来的结果。那你觉得这些孩子的灵魂真的能恢复回去吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>“要是我们也能治愈他们的灵魂，他们的伤痛……”
+
+“他们多年来经历的苦难无法挽回，而且会成为他们生命中难以承受的重担……是的，这很残忍。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>“好好考虑，然后做出选择。”这时所有的鸟展翅高飞。它们在你周围盘旋着，而你又再次瞥见鸟群中有某个人正注视着你。她的眼神充满同情和希望。
+
+鸟群向太阳飞去。它们把日光遮蔽起来，这让你在某一瞬间想起了巨龙和那片阴影，但当你视野重新变得清晰时，你发现自己回到了泰尔·埃夫隆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Bank Node 129</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>哀恸之母的双眼闪烁着强烈的光芒。“守护者，这是我一直坚守着的信念，我希望迪伍德的那些孩子能够复原，他们的家庭能够得到治愈……”
+
+“让我们给这个国家带去赫丽雅的复原神力吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>你之前见到的两个精灵逃跑了，是一男一女。你想起他们躲在山中的某个阴暗的地方。他们好像也看见了你，他们走了出来，在身后无声地呼唤着你。
+
+但其他人好像被冻住了。随着阴影逐渐扩散，他们同样一个接一个地烟消云散。一阵劲风吹散了他们的灰烬和被烧焦的创作。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>“巨龙当时是为她的幼子寻找栖息地。你难道不也是象征母性的神吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>你跪了下来。当你默默祈祷时，你感觉周围的空间犹如移形换影般融化，随后你发现眼前是一幅山顶神庙的景象。一棵树长在古老遗迹的中央。
+
+它的树枝在神庙周围扩散生长，遍布神庙每个角落。树枝看似太长太多，难以被瘦弱的树干支撑住，但在微风吹拂下，这棵树依旧屹立不倒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>[向赫丽雅祷告]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[离开。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>哀恸之母拍了拍手，丧钟般的钟声响起。“这真的算是怜悯吗？即便如此父母也会终日以泪洗脸……他们曾经努力地照料着自己的孩子，为他们提供庇护……”
+
+“这会把孩子被禁闭于一个没有灵魂的半成熟躯壳里……经历多年的折磨，残酷的救赎，简直是雪上加霜……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>悲痛之母惊恐地看着你：“给他们赋予生命，守望者……让他们感受到父母的爱，让他们知道父母守候过、照料过他们……让他们的复原成为治愈迪伍德的希望。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>“虽然我一度对此抱有希望……但我现在发现这只是一种假慈悲……只是折磨的延续。”
+
+“将他们的灵魂从肉体中剥夺是陶斯所犯的罪行……我们不能将他们的生命从自然规律中抹杀掉，这只会让他们更加痛苦。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>你站在了神殿面前，准备吟诵祷告词。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>“一切都能被重铸。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>“死中有生，生中有死。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>“生存要靠内在的力量。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>“铭记生命之歌的每一句歌词。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>“挣扎是我们的本能。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>“我有罪，我为诸多的事而伤感以忘记自己的悲痛。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>“万事都有终结。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>“明天，我的主人将自取灭亡。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>“没有问题的答案是什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>“当沃迪卡夺回了她的王座之后，世间的秩序将走向正道。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>你的话一出口便好像消失了一样，大厅里如死一般寂静——接着大地开始颤抖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>你的祷告词在空中回响着，你的声音似乎被某种看不见的艺术气息重新谱写，变得富有旋律的，抑扬顿挫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>“选择复原吧，守望者。将灵魂归还到它们原本的躯壳中。向我发誓你能照我说的做，我就会赐予你连沃迪卡都会颤抖的强大力量。”
+
+她张开巨大的翅膀，遮蔽了身后的太阳，瞬间在神庙前投下一片伸手不见五指的阴影。
+
+“我既能仁慈，也能心狠手辣，守望者。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>“我发誓我将把灵魂归还给迪伍德的空心种孩子们。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>“我得考虑考虑。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>“我想听听其他神祗的条件。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>“认真聆听，然后做出选择。”这时所有的鸟展翅高飞。它们在你周围盘旋着，而你又再次瞥见鸟群中有某个人正注视着你。她的眼神充满同情和希望。
+
+鸟群向太阳飞去。它们把日光遮蔽起来，这让你在某一瞬间想起了巨龙和那片阴影，但当你视野重新变得清晰时，你发现自己回到了泰尔·埃夫隆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>“我会记住。”那双黑暗的翅膀收了起来，那只小麻雀飞到了你的肩膀上。它把头向后倾了倾，然后张嘴鸣叫，那歌声是你从未体会过的动听。
+
+哀伤和华美的旋律同时传进你的耳朵。整个世界像是变成一个只有纯净色彩和声音的幻境。一个个美妙时刻紧随而来，宛如一段段优雅的诗篇和音乐。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>你醒来了，如梦初醒般，发现自己来到泰尔·埃夫隆。赫丽雅的歌声——和她的祝福，已经在你身边回荡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>数以千计的鸟儿落在神庙中的那棵树上。赫丽雅的话语声伴着清风传入你的耳朵。
+
+“你是回来立下誓言的吗，守望者？请不要低估我的力量。我可以成为守信之人的强大朋友。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>一只猫头鹰尖叫着。“你背叛了一颗冷酷无情的心。”
+
+“但你的天性热情且触觉敏锐。你训练自己去改变世界，而非适应世界。”
+
+“我会给你一项更艰巨的任务，守望者。你要将这个国家变回原本的样貌。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>一只猫头鹰尖叫着。“你背叛了一颗冷酷无情的心。”
+
+“然而你的天性就是用激情和洞察力去探索问题的根本。你热衷于寻找到真相。我只能祈祷当你找到的时候，你能竭尽所能阻止惨剧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>大片鸟群在神庙上空盘旋。微风变成一个轻柔的声音传入耳朵。“你一直很实际，守望者。这是个明智的决定。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>大片鸟群在神庙上空盘旋。“是的，守望者。过早结束的生命就如同戛然而止的歌曲，或是未完成的诗作。”
+
+“你展现了一颗宽容的心。这正令你可以成为终止这场惨剧的人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>微风袭来。一只鸽子咕咕地叫着。“即便是一头凶猛的怪物你也能发现它的温柔之处。”
+
+“你展现了一个富于同情而慷慨的心，守望者。我还有一项请求。”大片鸟群在神庙上空盘旋。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>“我曾期望我的任务能令你懂得仁慈和宽容。”一只猫头鹰鸣叫着。“但我不会帮助你。”其他鸟儿随之振翅高飞，只留下你独自一人站在一棵空荡荡的树前。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>“这是毁灭，而非创造。我曾期望能治愈你那颗残暴的新。去吧，去找真正欣赏你天性的神灵。”鸟群振翅高飞，随后消失无踪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>又有数百只鸟飞向天空，用斑斓的色彩点缀着天空。“太阳的翅膀。真是美妙，熊熊燃烧的羽翼。在天空中，它孕育着生命；对于灵魂，它鼓舞人心；而对于诗人，它给予灵感。
+
+“你的话语间透露着一种睿智。你的灵魂犹如黑暗中的一烛火光。也许你能用光明驱逐黑暗。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>“它们的强大力量给无数歌者和诗人提供了灵感，它们的形象给伊欧拉的画家们提供无穷的想象。”
+
+一只大鹦鹉煽了煽它金红色的尾巴。
+
+“而你的灵魂充满着同样的强烈能量。的确，你就是能结束这场惨剧的人。”
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>微风吹拂着树木。一只鸽子把头埋进羽毛中，悄悄地看着你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>鸟儿回到了树上，在那里筑巢。清风拂过树枝，传递着女神的声音。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>位于神殿之上的一片群星，在天空遍布闪烁，形成一个鸡蛋状。一双翅膀从“鸡蛋”中央出现，向两侧展开。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>你再次来到赫丽雅的神殿前。天上的群星似乎变得更耀眼了一些。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

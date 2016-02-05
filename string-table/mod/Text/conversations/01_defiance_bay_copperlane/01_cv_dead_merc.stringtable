@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你靠近那个死人，你能感觉到他的灵魂还在附近逗留，一种惊人的未知事物让它不能离去。
+
+在你靠近时，那个灵魂毫无预兆地朝你冲来，仿佛你是这里灰暗中孤独的光芒来将其引导开去。它入侵了你的意识。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>前面是一个和你穿着类似的人，朝相同的方向上前行着。你不知道他的名字，事情就是这样。
+
+在黑暗中有什么可怕的东西抓住了另一个身影。你想要转身逃跑却发现面前是一个巨人。你脑中的惊慌被它那刀锋般的牙齿和爪子给击散了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>你逃出了那个死人的记忆。尸体横在潮湿昏暗的地面上。他的兜帽和面具丢失了，衣服也成了碎片。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[离开。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>你现在在一个不同的躯体内，身穿一身黑袍，带着一个面具，正在走进地下墓穴的深处。你沿着一条熟悉的道路前进，来到了一件屋子里，屋子外是一具身穿和你相似的长袍的雕像。有人在那里等着，带着兜帽深处在黑暗中。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

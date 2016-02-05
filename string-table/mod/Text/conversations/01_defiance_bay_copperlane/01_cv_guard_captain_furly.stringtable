@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“欢迎来到反抗湾，不过在市里你可要谨言慎行，懂吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“有什么我能帮忙的吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“你能跟我说说反抗湾吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“再见。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“抱歉，我这会儿没空。不过听起来，那个团众的疯子罗恩，又惹麻烦了。”他的头突然朝向门的方向。
+
+“他会非常乐意给你介绍一下这个城市。当然了，会带点团会独有的宣传色彩。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>“我在寻找法治之神沃伊迪卡的神庙。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>“你看起来很紧张。出什么事了？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>他抓了抓头：“不明白你为什么想到那儿去。”他耸耸肩：“如果你真想看的话，它在起始之火。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>“说实话，有成千上万的难民从各地涌来，他们误以为这里的情况好些，误以为这里已经不受遗症的影响了。于是身无分文的他们都挤到这里，让这里变得更糟。”
+
+他上下打量着你：“无意冒犯。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>他咕哝道：“祝你好运。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

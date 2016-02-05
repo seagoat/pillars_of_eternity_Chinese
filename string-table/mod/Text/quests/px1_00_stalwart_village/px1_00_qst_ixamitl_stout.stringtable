@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>A Lovely Drop</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Search the Gréf's Rest Cellar for Fennlan Liquor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return to Reyfald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Ask Haeferic about a cure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Find the ingredients for a cure for Reyfald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Return to Haeferic.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Give the antidote to Reyfald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Reyfald is desperate for a taste of Fennlan Liquor - and the only source of it is Haeferic's private, and zealously guarded, stocks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Reyfald, the clerk at the local fishery in Stalwart, claims that Haeferic has a store of expensive spirits at the inn, tucked away somewhere in the cellar. Reyfald has offered me a reward in exchange for finding a bottle for him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I found the bottle of Fennlan Liquor on a shelf at the center of a nest of traps. Reyfald will be glad to see it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>The bottle of liquor turned out to be a trap of some kind - Reyfald's lost all feeling in his face, which is causing him no small amount of panic. The Gréf's Rest innkeeper may know more about just what went into the concoction, and whether there's a way to counter the effects.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Haeferic told me that he can whip up an antidote for Reyfald's miserable condition if I bring him some river reeds and an ice troll's heart. He suggested that both plant and beast can be found in the Russetwood, out west.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I have both of the ingredients Haeferic asked for. If I take them back to the inn, he should be able to make that antidote for Reyfald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Haeferic was true to his word, and gave me a mixture for Reyfald to drink which should cure his little problem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I slew an ice troll and retrieved its heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I've managed to find some river reeds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Quest Failed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I told Haeferic about Reyfald's plan to steal his Readceran liquor. He didn't seem particularly surprised, but he did thank me for my honesty, and gave me some coin for my troubles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>It's clear that the Fennlan Liquor was a trap, and one with a particular target. I decided that Reyfald earned his woes, and left him to sort out his own problems.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>I got the cure from Haeferic, and Reyfald is back to normal, for better or worse. He was very relieved, and gave me a set of gloves he'd crafted as a reward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Haeferic rewarded me with a bottle of Fennlan Liquor after I unsealed the door to Durgan's Battery. I decided to give it to Reyfald, who was very grateful for my kindness.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

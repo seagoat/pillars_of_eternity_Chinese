@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>142</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>An elderly man hunches over a cluttered desk in the back of the workshop. His flesh is pulled tightly around thin, fragile-looking bones, except around his neck, where it hangs in loose wattles.
+
+He turns as you enter, a scowl already chiseled into his lined face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>The golem says nothing, but her essence smolders. Resentment rises from her in shimmering waves.
+
+She swivels her head to look at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"What's the story between you two?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"I'd like her to travel with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"I have no need of the golem's company right now. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"The only reason she's not a frozen corpse is because I convinced the old mayor to let me try an experiment." A shadow passes over his face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"You put a person's soul into a metal body?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Aren't you afraid she'll murder you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"That's all I wanted to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>He leans back, raising his hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I thought there was a better way." He is silent for several seconds, his gaze growing distant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I take it your 'experiment' didn't go over so well with the rest of the village."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"They were going to stone her anyway! Why not allow her to be put to some useful purpose?" His lips curl back from yellowing teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"I transferred a fully intact soul from a living subject to a fabricated body. She retained her personalities, her memories - all of it." He claws at the air with one thick-veined hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Yet the villagers saw only a stolen corpse." He throws up his hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Why is she called the Devil of Caroc?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"She committed her first crime in the village of Caroc. Burned a family alive in their home."
+
+He shrugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Galvino shrugs. "She may be mad, but she's no fool. She wouldn't survive long on her own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"She's a fine specimen, her... personality notwithstanding." He waves one hand in a circular motion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Besides. She works for me. After all, I am the one who preserved her." He straightens his back and looks you up and down, taking your measure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Let me parade her around town - it'll infuriate those villagers. You'd like that, wouldn't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"I'll pay you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Listen, aimico, if you're set on traveling with her, I won't stop you. But let's make this a fair exchange, yes?"</DefaultText>
+      <FemaleText>"Listen, aimica, if you're set on traveling with her, I won't stop you. But let's make this a fair exchange, yes?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Is that so?" He glares at the Devil before turning back to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"She's a valuable assistant, and one I've worked hard to create. I must see payment for her services - I'm sure you understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Pay 500 cp.] "Deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Pay 1000 cp.] "Deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Pay 700 cp.] "Deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Something else? Cuè?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>She turns to Galvino. "Fine price for a blacksmith's striker. S'pose I should be flattered."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Galvino scratches his jaw. "So you get use of the Devil's services, and I get the satisfaction of knowing those stiff-necks are sweating through their smallclothes, eh?"
+
+He sighs, but a smug grin has already worked its way across his face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"And there you have it. A bargain." He gives you a sardonic grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"The Devil has not scorched you yet, eh? Belfetto!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"I have told you all I know of the Battery. You will have to seek the cantec in Stalwart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"I had questions about the Devil of Caroc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"As must the gods themselves." He looks to the ceiling and opens his hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Tell me again about how to Awaken someone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"You're the Watcher, so you'd know better than anyone, di verus?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"When you find such a one, remind the sleeping soul of its old name. Awaken it thus, and it can teach you the cantec."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"A moment. You are going back to Stalwart, yes? Perhaps you could do me a favor." Galvino gives you a thoughtful frown.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"I wanted to know more about the expeditioners who came to you before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>He weaves his fingers together. "There is a man in the village named Grynde. The head fisherman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Tell me about this favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>[Leave] "Not right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"You said you had a favor to ask of me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"The rest of Stalwart kisses his feet because he fills their stinking plates with speckleback.
+
+"But I know he's not as virtuous as he seems." His face crinkles in vicious glee.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"What exactly do you want me to do to him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Seems like you have a history with Grynde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"He's always been a ripple sponge addict. Just got good at hiding it once his sainted sister died and left him in charge of the fishery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"But he keeps a stash in the fishery. Sneaks in at night, when the others have gone home, and emerges sluggish and red-eyed a few hours later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"I want you to expose him. Go to the fishery after dark, when it's empty. Find his ripple sponge and show it to Renengild."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"That self-righteous meddler engineered my eviction from the village. He turned them all against me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Now I want him to feel the scorn of those mush-brained imbeciles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>He holds up a hand. "Do not answer me now. But when you return to that festering eyesore and smell the stink of fish that hangs in the air, consider what I've said."
+
+He grins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Besides, you appreciate a good joke, don't you? Di verus, this will be a great one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"You have a rather... pointed sense of fun. Surely this appeals to you, no?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"But be sure to approach the fishery by night, when it's empty. They will give you no end of trouble if they see you stealing during the day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Your misgivings collect like grime on a doorstep. But think - if this Grynde is a fraud, does he not deserve to be exposed?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Besides, you appreciate a little trickery, can't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Besides, this liar, this petty scandalmonger, he does not deserve his position, does he? You would not stand for this injustice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Doubtless you will be in and out without those fisherfolk finding so much as a tangled net or a fallen pole."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"I have news about Grynde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Yes? Does the sniveling cur hide in his home? Or has he been exiled to a place even more frigid and foul?"
+
+He claps his hands together in excitement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"I learned that he murdered his sister."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"I killed him before we got to any of that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"When he saw what I was up to, he attacked. I had to kill him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"He's leaving town with his tail tucked between his legs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"I decided not to shame him after all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"I told him about your little plot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"What of him now? Surely the villagers string him up with his own fishing line!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"And made a martyr of him? Belfetto!" He slaps the corner of his workbench.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"I would have preferred that he did not escape his ignominy so quickly. Still, I am grateful for your help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Madiccho! How could you let him go? That man is a fraud! A wastrel!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Madiccho! I should have known better than to ask a milksop!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Go. I need to collect myself." He turns away from you, fuming.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Belfetto! I only wish I could have seen it." His broad smile exposes rows of yellowing teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"He attacked first? I must trust your word, aimico..." He gives you a skeptical look.</DefaultText>
+      <FemaleText>"He attacked first? I must trust your word, aimica..." He gives you a skeptical look.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"I will open a good wine tonight. As for you, take this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Galvino laughs, coughing and wheezing. "This charming specimen is a convicted murderer. The 'Devil of Caroc,' she's called."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"It was the early days of the Legacy. My peers in the colleges of animancy were filling the Hollowborn with the souls of animals." He pauses, scratching his chin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Fully articulated joints - capable of grasping a pen and writing her own name." He grabs her hand and delicately bends her tapered fingers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Show me another smith anywhere in the Dyrwood who is capable of such delicacy and precision. She is a masterpiece." Galvino steps back and takes a longer look at her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Did the same thing in half a dozen other villages, but the name stuck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"I approached Mayor Cyneheod and begged. He saw the potential and allowed me the privilege of attempting my 'little experiment.'" 
+
+He sneers at the words and the indignity they recall. His shoulders are stooped and his teeth bared.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Then, I accomplished what few animancers have even dreamed of. No academic support, no patron - just me, in the middle of nowhere." He jabs a finger into his concave chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"If the villagers didn't send a hunting party after her, the elements would claim her. Her joints and mechanisms require maintenance, and she cannot perform all of it herself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"This woman - the Devil of Caroc - she was a notorious murderer. Burned people alive all over the region."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"It's a deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Cuè? No, no, no. You don't know what you ask." He shakes his head, waving his hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"This one has cost me dearly. If you want to employ her, you must pay accordingly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"You must find a soul descendant of one of the dwarves of Durgan's Battery. Talk to the villagers, look into their souls - whatever it is you do." He waves a hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Di verus! The man is even more of a wretch than I thought!" His face glows with macabre delight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Back again? I told you-" He hesitates, squinting at you from behind smudged and dusty spectacles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Killed over a dozen people before they finally caught up to her in Stalwart. Perfect company for lonely camps and mountain passes, no?" He nudges you, all the while grinning wickedly at the motionless golem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Why did you build her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Why build a fortress, or a village, or anything? To make something that keeps, that..." A disgusted sigh rattles in his throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Humiliate him, of course! Show his neighbors what he truly is, and let him live with the disgrace." He points vaguely in the direction of the village, his thin arm trembling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"As would I, but there is little to tell. They never gave their names." He tugs at his whiskers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"But they seemed to know more about the Battery than the others. Which is unusual because they did not seem like typical adventurers." He raises his snowy eyebrows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Their hands were smooth and marked with ink, not scars. And they traveled light. Unusually so." He rubs at his chin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"And of crushing your throat." She snatches her hand away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"One with a plum academy job back in Selona. Don't forget that part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>He glares at her with narrowed eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"See, he's reminding me. In case I get any bright ideas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Hey, I know how to start a campfire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Mighty fine of you to start with my good qualities. And you wonder why we don't get more visitors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"My life's ambition. To serve somebody's 'useful purpose.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Now you got him all wound up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Here we go." She rolls her eyes, rasping them against their sockets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Into a work of art! Look at this! Craftsmanship worthy of a jeweler." He traces the scrollwork that runs along the golem's jaw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Enough about her. Let's discuss another matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Ac, now we come to the truth. Reputation is everything in the Republics, and that reputation is built on success."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"So it's one of those fights about who cleans the spears that's not really about spears."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Better that than no purpose at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"You're right. By comparison, this sounds perfectly sane." He rolls his eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Unusual, indeed. What do you suppose they were looking for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Knowing how the Leaden Key operates, I doubt even those poor dupes were told what they were looking for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Wael himself could not have said, and I haven't the time to concern myself with the business of strangers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"What were those constructs I encountered in your workshop?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Other projects. They are none of your concern." He waves a hand and looks quickly away from you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"You seem pretty eager to change the subject."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Other projects... like the Devil of Caroc?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>He mutters furiously under his breath, raising his hands to the ceiling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"For years I've been trying to create another like the Devil of Caroc! Yet those postenagos in Stalwart destroyed my machinery." His drooping skin trembles in his rage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Now, I can only create these broken, mindless things. The Devil remains my most perfect creation." His lips twist with the taste of something bitter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Wait, where have you found the souls to create these other golems?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Smugglers, slavers, fugitives - the kind of riffraff that pass this way. Rarely missed, and good work to keep my little Devil busy." He shrugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Why do you need more golems?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"I can't present the Devil of Caroc to the academies, can I? A madwoman and a murderer? No, I need to bring a success to the Republics." He rubs his hands together, frowning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"I've heard enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Galvino is already lost in thought, his eyes twitching at some mental calculation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"The villagers don't trust you. Do those constructs have something to do with it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Gellarde. You have finally opened the Battery." He's holding a glass of wine and giving you a wry grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"I would toast your success if it didn't mean the whole of Stalwart at my doorstep." He tosses the rest of the glass back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Galvino holds an open bottle of wine by the neck. He wobbles on his feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"I heard a noise like the crashing of mountains. I ran up to look through the window..." He points unsteadily toward the far end of his workshop.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Magnificent. The fires glowing from below..." He shakes his head, and tears spring from his eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"And those village bazzos will be here any day now." He takes another swig from his bottle.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

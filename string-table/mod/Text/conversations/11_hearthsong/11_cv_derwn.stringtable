@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>带着厚眼镜的女人朝你笑了。“你听到了武器的呼唤。好武器会向主人唱歌，是哪个武器把你唤过来的？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“你需要更好的武器去狩猎。所以我很高兴能为你提供武器。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“让我看看你的商品。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“再会了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“随便看。我的武器是艾尔·格兰方瑟的骄傲。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“非常欢迎来自艾尔·格兰方瑟的朋友。你和我们公平交易。我也会和你公平交易。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“跟我讲讲你的手艺。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“随便看，看看有没有哪个在召唤你。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>“其实我希望武器安静点。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>“那就是弓了？用这些你能感到百步之外的野猪。或许你喜欢小型的，这里有很多好用的匕首。肯定有你中意的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>“我的武器会展现自己，这个市场里的人都知道我的价值，就连那个塔玛拉也不得不承认。我掌握了我父亲和他母亲的知识。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>“随便买一把，你就能传五代人。” 戴尔文哼了一声，“他们都说我卖这么好的武器给外邦人是浪费。我倒觉得利器躺在货架上才是浪费。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

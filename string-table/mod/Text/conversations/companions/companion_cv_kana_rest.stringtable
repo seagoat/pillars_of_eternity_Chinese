@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>111</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“你知道吗，我拜访过不少守望者。如果冒险生活不适合你，你可以靠解读灵魂过活。给出建议，告诉他们关于他们的家庭，他们和谁是亲戚，还有谁的最贵他们，是否要和他们决斗。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“你也是刚刚来到迪伍德的，[Player Name] -你对这里怎么看？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“有点让人难以忍受。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“你不必因为我的关系说话客气。我们会让你感觉更好的，[Player Name]。我向你保证。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>“很抱歉，对你是守望者这件事，我之前有点不礼貌。我不知道这意味着什么。一直听到灵魂的声音，会很累么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>“我会记住的”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>“很高兴看到你认为这很搞笑。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>“我也许能说服人们相信任何事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>“安静，卡纳。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>“这应该比击退野兽简单。”卡纳咯咯笑着。“而且你一样能轰轰烈烈的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>“抱歉。看起来我不太擅长招魂亡灵。”卡纳笑笑。“我不是故意的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>“好吧，这并非…我想好的策略。但是千真万确。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>“我没有时间关注这事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>“这些家伙疯了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>“你怎么看出我不是本地人的？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>卡纳笑了。“你的一举一动都显示自己是个拉瓦台人。我并不是说这是坏事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>“好吧。我来到这边时间不长。本地人给我留下了很深的印象，还有，呃，好吧，食物也是。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>“…只是我的直觉。”卡纳嘴唇翘起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>“看起来那里会制造麻烦。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>“这里的人看起来很友好。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>“好了，没什么不好意思的。我很擅长听口音，而这里的人的口音比较，嗯，丰富多彩。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>“看来还没人叫你到后面去单挑过。”卡纳冲你一笑。“我也没有过。迪伍德人的暴躁是出了名的，但目前为止他们只是互相之间看不顺眼。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>“你这么想？我很惊讶还没人叫你到后面去单挑过。没有什么比对付艾迪尔人更让迪伍德人高兴的了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>“他们是令人耳目一新的一群人，我认为。我曾花数小时在酒馆或其他地方和这里的普通人谈话，从富商到仆人，每个人都有自己的主见。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>“所以你已经和本地人打过交道了？”卡纳大笑。“我不清楚他们是不是真这么糟。迪伍德人的暴躁是出了名的，但目前为止他们只是互相之间看不顺眼。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>“看上去一直如此。他们要不是和格兰方瑟人有冲突，就是自己人之间看不顺眼。我很惊讶，一群被强敌环绕的人居然自己之间还打得你死我活。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>“这是我一次又一次听到他们的水手唱的。讲的是一个女人把她爱着的船员的名字收集起来，保佑水手们在海上平安。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>“通灵术看起来是现在的热点话题。关于灵魂你知道得比我多，你有什么看法？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>“作为学者我必须肯定它的潜力。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>“我们的灵魂包含着这么大的力量，真令人赞叹。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>“你对这个话题不感兴趣吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>“我觉得我已经听腻了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>“当然。”卡纳挥了挥手。“但实际上你会赞成吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>“不，我觉得这很神奇。我认为你不去钻研现在通灵师开创的那些技术和研究，是没办法真正把英格维斯人的事情研究透彻的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>“我发现他们做的所有东西都非常有条理，无论是剂量还是配方。而英格维斯人，他们在使用阿德拉和灵魂能量方面的天赋就好比……艺术。一个就像是星空图，而另一个就像是孤独的领航员吟唱的歌谣。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>“是的，揭开灵魂的秘密，我们就能发掘自己体内的所有潜能。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>“确实是呢。折磨灵魂，废掉人的手脚……谁知道呢。也许我们要见证一个黄金时代的谢幕了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>“通灵师不断地把他们的研究搞砸，而每次都是无辜百姓为此遭受苦难。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>“当然这也有帮助到许多人对吧？那些遭受灵魂创伤，或是被冲动念头蒙蔽双眼，甚至是只为阅悉灵魂归属的人——他们最终都对自己生命的意义有了更好的理解。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>“我宁愿让过去的事情就好好地留在过去。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>“[Player Name]……你觉得一个人能改变命运的进程吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>卡纳叹了口气。“包括你在内有黑多人，他们似乎都在不经意间改变了世界。”
+
+“然后就有人蓄谋，暗中操纵，用这样的方法来推翻公爵。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>“你就是要问些难以回答的问题，对不对？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>“女人也许会。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>“为什么要问？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>“我不相信宿命。命运是你自己创造的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>“不，世上的一切都是神在安排。我们无从改变。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>“只有人有改变的意志和方法就可以。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>“但是……也许是神对你没有办法？如果陶斯没有杀死公爵，那暴动就永远不会发生。我们是在经理一段早已写好的剧本，还是被神无情地牵扯进宿命之中呢？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>“等等，你不会是想要去暗杀谁吧？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>“当然不是！我只是说说而已……我在想我是不是一直做错了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>“方法……这个才是关键，对吧？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>“是时候要采取更主动一点的方法。我们要杀谁？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>“你在问我是不是已经失败了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>“我已经厌倦被牵扯到他人的问题里了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>“事实上很有用。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>“抱歉。我们换个话题……今天天气真好，对不对？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>“我喜欢这样的讨论。这些话题值得深入考虑。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>“不，我觉得我们在瞎想那些跟我们无关的事情。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>“唔。看来亚禄也不同意，对吧？”
+
+“好吧，谢谢你能听我说完。我很期待事情是如何发展的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>“我想有些东西也有它的神秘之处。”
+
+“好吧，谢谢你能听我说完。我很期待事情是如何发展的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>“以那种程度的力量不会出现什么好事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>“我宁愿不参与这件事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>“好吧。我们换个话题……今天天气真好，对吧？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>“我不确定我是怎么想的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>“那就是我们俩了。我看到许多好的方面——治愈灵魂创伤，还有让人阅悉灵魂归属……但是也有许多意外——比如贝尔里奇事件，他们可没在迪伍德留下什么好印象。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>“你是最该休息的一个。你给这里的人带来了莫大的帮助。”卡纳叹了口气。“我们会找到办法的。我向你保证。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>“真可惜，我们好像帮了他们很大的忙啊。”卡纳偷偷地笑了笑。“抱歉，不管怎样，我相信我们会找到办法的。我会一直帮助你。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>“他们应该要好一会儿以后才会注意到了。”卡纳叹了口气。“好吧，我们会找到办法的。我会一直帮助你。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>“你以出乎意料的平静态度解决了这一切。换作是我，我真不确定自己能否做得到。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>“不可否认死亡经常地提供了绝佳的情报……”卡纳咳了咳。“抱歉。不管怎样，我们会找到办法的。我会一直帮助你。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>“不，你看起来很好地承受住了，面对困难你总能一笑而过。我很欣赏你的智慧——他们好像不止一次看穿了我们。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>“你好像已经很理解我们的目标了。”卡纳笑着说。“不管怎样，我们都会梅沃德的诅咒降临之前找到解决办法。我向你保证。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>“我也是这样想。那些死者吸引了所有的注意力。”卡纳咳嗽了几声。“抱歉，不管怎样，我们都一定能找到办法。你可以相信我。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>“什么？不！呃，不不不，我不是那个意思。我只是觉得我一直以来都做错了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>“为什么要告诉我？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>“真是个奇怪的故事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>“要只是说个名字这么简单的事情就好了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>“可不是吗？也许就几个词儿——不过要连续地说，而通常最后你会说成一段咒语。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>“再加个调子，呃——男人不也喜欢唱着战歌打仗吗？”卡纳咯咯地笑着。“不管怎样，我觉得你的名字依旧有着影响力。不过你得靠自己去组织。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>“不过我们现在先来解决眼前的事情吧。走吧，朋友。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>“我更愿意敞开思想对待整件事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>“有意思。我在想这是代表你对通灵术的想法还是契思人的。哈哈，不过我还是不继续说这事儿了。我们走吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>“立场够公平。好吧，我相信迪伍德是不会接受谎言的。我们一定能听到真相。走吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>“是这么承诺的……不过，谁知道呢？我们也许要见证一个黄金时代的落幕，就像那些通灵师预言的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>“唔，也许是有了规定？但谁又知道怎样的限制才是适当的呢？”
+
+“好吧，谢谢你能倾听。我很期待事情发展成什么结果。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>“好吧，谢谢你能倾听。我很期待事情发展成什么结果。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>“总之你好像已经很理解我们的目标了。”卡纳笑着说。“不管怎样，我们都会梅沃德的诅咒降临之前找到解决办法。我向你保证。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>“我不在乎你那些愚蠢的故事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>“一个有大胃口的女人，我懂了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>“噢，闲聊而已。不过也是因为我一直在想名字的影响力的事情。这个你一直在找的人，陶斯，他用了一个英格维斯人的名字。我在想这其中是不是有某些特殊的意义。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>“我有更重要的问题要问他。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>“也许我们可以问他什么时候去找他。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>“我只想得到治愈。我不在乎他是谁。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>“抱歉，我不是故意要……我还是走吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>“确实。我也对铅制之钥有些疑问。噢，不过你当然可以第一个上。优先权嘛。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>“当然了。抱歉，我不是故意要轻视的，绝非如此——也许如果我们能更了解敌人，我们就能更快找到他。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>“我发现他们根本不会与他人做心灵交流。”卡纳咳了咳。“话说回来，我一直在思考名字的影响力这件事。你们在找的这个陶斯，他用了英格维斯人的名字。我在想这其中是不是有某些特殊意义。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>“大部分海边小屋都有中陌生感，对吗？不过我提到这个还是因为我一直在思考名字的影响力这件事情。你们在找的这个陶斯，他用了英格维斯人的名字。我在想这其中是不是有某些特殊意义。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>“韦伯女士确实说过他是个长寿的人……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>“哈哈，我就奇怪怎么会这么简单，也许就是个象征性的东西。就像为了纪念马格兰而给一把刀起名叫‘烈火之心’。”
+
+“不过我也不是故意要跟你唠叨这么多的。我们走吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>“你知道我为人的，总是要去深究那些有的没的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>“你没办法改变未来，为什么要去担心呢？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>“制造混乱是一回事，而引起永恒的改变又是另一回事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>他轻轻地笑着说：“是啊，我觉得她也许会。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>“这到底是要干嘛？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>“我尽量不这么做。但我发现很难。”卡纳耸了耸肩。“但我确实觉得我一直以来做错了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>“我怀疑你说得对……这样的话，时间会告诉我们答案——我们要看看反抗湾会从那场磨难中得到什么教训。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>“我在想一直以来我是不是做得对。呃，不算杀人这件事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>“我曾想带走一件古物，让它来为我解决所有拉瓦台的问题……不过在我们经历了这么多事情以后，我知道我必须亲自去说服他们，即便我得说到他们耳朵长茧子为止。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>“我曾想带走一件古物，让它来为我解决所有拉瓦台的问题……不过在我们经历了这么多事情以后，我已经不确定这样做会不会有帮助了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

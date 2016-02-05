@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>旷野之歌</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>找到并捕获三只稀有鸣禽</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>回到古颂区的戴伦处</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>古颂区的行吟者戴伦正在寻找稀有的鸣禽。他声称自己吃下这些奇异鸟类后，就能够吸收它们的音乐天赋。他希望通过此行能够谱写出可以驱散古颂区寒风的令人惊叹之曲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>戴伦住在古颂区，是个奥兰人。他怀念在冰封穹顶传来的冷风侵袭前在广场上唱歌跳舞，充满生机的人群。
+戴伦认为，如果自己能吃些稀有鸣禽的肉，就能强化自己的灵魂，从而把听众吸引回来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我为戴伦收集了三只稀有鸣禽。应该回到双生木城古颂区找他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>关于他所需要的鸣禽，戴伦对我进行了说明。
+
+缇安鸟非常受格兰方瑟人欢迎，虽然常被他们养在笼中，但也不是很常见。
+
+碎翼鸟体型小，常住在矮树丛中，喜欢在大型阿德拉矿堆旁驻巢。矿石青绿的颜色为它们同色的羽毛提供了保护色。
+
+最后一种鸟名叫云之歌者，喜欢避世隐居，极其难找。它们只在艾尔·格兰方瑟最高山顶的岩石旁筑巢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我在双生木城外的野地里找到一只碎翼鸟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>我在炉颂区的一户人家处找到了一只缇安鸟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>我在山顶赫丽雅神庙旁找到了一只美丽的云之歌者。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我为戴伦集齐了三种鸣禽。他对我的帮助十分满意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>同赫丽雅的祭司们交谈过后，我说服了戴伦，让他明白自己吃鸟得其天赋的想法是错误的。他似乎有些失望。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>同其中一只鸣禽的主人莲希交谈过后，我得知戴伦的计划来自于盲目的奥兰迷信。我设法说服了戴伦，使他明白自己的计划是错误的，他犹豫地放弃了这个计划。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>任务失败</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

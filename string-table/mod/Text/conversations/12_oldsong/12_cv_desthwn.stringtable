@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>57</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一位体型瘦长结实的年轻精灵族男性在山洞中踱来踱去，脸忧虑得皱了起来，一只手还总急躁地拍着大腿。他抬起头来看见了你，显得更加沮丧了。
+
+“外乡人，这可不是什么观光景点。格拉文之深渊的猛兽及其凶残，而且最近愈发如此。”他叹气摇头。“你若是想去看些风景宜人的格兰方瑟景点，不如去榆木之地。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“还在到处转呢？小心别惹事。最近不管猛兽还是别的什么，脾气都很大。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“现在我们又可以专心致志打猎了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“这些猛兽怎么了？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“这里就是格拉文之深渊？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“再见。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>他停住脚步转向你说：“它们不想攻击对方。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>“格拉文赋予了我一个关于这些野兽的预言幻境。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>“苏尔和厄尔诺斯之间不会再有冲突了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>他停住脚步转向你说：“它们不想攻击对方。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>“我是个无偏见的外乡人。让我去调查下吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>“苏尔捍卫了冠军的宝座。她能留下，毒牙部落的大部分人都很高兴。或许这是格拉文在告诉我们要牢记自己的根源，重视作为猎手的敏捷。”
+
+“多谢你的帮助。愿格拉文指引你的道路。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>“现在厄尔诺斯成为了深渊的冠军。我知道也有不少人会为此高兴。或许这是格拉文在告诉我们需要锻炼力量，开创新的道路。”
+
+“多谢你的帮助。愿格拉文指引你的道路。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>”我没万万没想到两只野兽都死去了。不过旧的不去新的不来。如果它们两个都不愿意攻击对方，也许它们并不值得留在这里。”
+
+“苏尔和厄尔诺斯都不在了，估计很快就会有新的野兽光临深渊。不知格拉文会送来怎样的野兽。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>“是的。这里是属于寻狩之神格拉文的神圣兽穴。很久以前，艾尔·格兰方瑟最勇猛的食肉动物占领了这深渊的内部。而如今对于哪只野兽应当留下有一些纠纷。”他朝洞内看了看。“引起了一些猎人们之间的不和。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>“和我说说你自己。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>“我是毒牙部落的首领。我们的组织崇拜格拉文，有猎手也有战士。我们保障英格维斯创建者的遗址不受打扰。虽然我们并不算真正意义上的部落，但我们也和真的一样经常聚集在一起，也常吵架。我们的成员从不同的部落而来，但我们大多数是从三牙剑狮虎部落，伏渔鹤部落，当然也有护石者的人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>“还有什么问题吗？我认为事实大于雄辩，但我还是会回答你的问题的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>“现在的事况摇摇欲坠，会有大事发生。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>“从来没有过比苏尔还要狡猾的猎手，可有些人说她已不如往昔。厄尔诺斯倒是精神满满，不少人说应当由它来继承冠军宝座。”
+
+他不停地在大腿上敲着手指，坐立不安。“事况摇摇欲坠，若是近期没有决议怕是会有大事发生。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>他又重新开始踱起了步。“而这段等待……并不像是猎手在暗处埋伏猎物般的深思熟虑，充满戒备。比起等待这更像是停滞。沉闷。被动。”
+
+他双手握成了拳。“我却不能解决此事。如果我把母狮子拉出去，部落里一半的人都会说我偏心。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>他瞪大了疲倦的双眼。“这是格拉文亲自告诉你的？”他上下打量着你。“若你真被格拉文保佑过，我不会阻止你。但若你未被保佑……”他笑了笑。“那两只野兽会把你生吞活剥。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>“你更看好苏尔还是厄尔诺斯？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>他皱了皱眉。“我觉得两个各有优势。苏尔十分狡诈，但厄尔诺斯力大无穷。它们各代表着格拉文青睐的两个素质，敏捷与力量。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>他挠了挠脸。“你要去我也不拦着你。只要能打破这无尽的等待。你若是能解决这件事，部落内就再无纷争。若是解决不了……”他笑了笑。“那两只野兽会把你生吞活剥。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>“我们来说说别的事情吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>“例如？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>“没错。我听说你打了精彩的一战。不知你是怎么做到的，但是谢谢了。你为格拉文带来了荣誉，为毒牙部落带来了满足与和平。”
+
+“多谢你的帮助。愿格拉文指引你的道路。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>他交给你一只沉重的铁钥匙。“平常外乡人是不被允许进入深渊的，但你知道后果自负。苏尔的狮子下属们大概一看见你就会攻击。”
+
+“或者你也可以劝诱苏尔，让她与厄尔诺斯作战。把僵局解决了就行。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>“拿着，当是我们的谢礼了。”
+
+他似乎突然记起了什么。“你可以去泰尔·埃夫隆向寻狩之神祈祷。他有时会给予想要证明自己的人们一些特殊的恩惠。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>“再会了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>“艾伦熙凭什么护着那只在深渊里面吓得发抖的小猫。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>“你不如找到她，自己当面和她讲。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>一位体型瘦长结实的年轻精灵族男性在山洞中踱来踱去，脸忧虑得皱了起来，一只手还总急躁地拍着大腿。他抬起头来看见了你，叹了口气。
+
+“即便是你，这里也不是什么观光景点。格拉文之深渊的猛兽及其凶残，而且最近愈发如此。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>“苏尔捍卫了冠军的宝座。她能留下，毒牙部落的大部分人都很高兴。或许这是格拉文在告诉我们要牢记自己的根源，重视作为猎手的敏捷。”他扬了扬眉毛。“从你进深渊之时我就知道会是这样。”
+
+“多谢你的帮助。愿格拉文指引你的道路。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>“现在厄尔诺斯成为了深渊的冠军。我知道也有不少人会为此高兴。或许这是格拉文在告诉我们需要锻炼力量，开创新的道路。”他扬了扬眉毛。“从你进深渊之时我就知道会是这样。”
+
+“多谢你的帮助。愿格拉文指引你的道路。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>“你看起来挺勇猛的。”他挠了挠脸。“你要去我也不拦着你。只要能打破这无尽的等待。你若是能解决这件事，部落内就再无纷争。若是解决不了……”他笑了笑。“那两只野兽会把你生吞活剥。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>“你看起来挺狡猾的。”他挠了挠脸。“你要去我也不拦着你。只要能打破这无尽的等待。你若是能解决这件事，部落内就再无纷争。若是解决不了……”他笑了笑。“那两只野兽会把你生吞活剥。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>他瞪大了疲倦的双眼。“这是格拉文亲自告诉你的？”他上下打量着你。“若你真被格拉文保佑过，我不会阻止你。再说了，我们之中的大部分人都希望由一位可信的盟友解决这件事情。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>他睁大疲惫的双眼。“来自寻狩之神自己？”他上下打量你。“如果格拉文真的祝福了你，那我不会挡你的路。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>他睁大疲惫的双眼。“来自寻狩之神自己？”他上下打量你。“如果格拉文真的祝福了你，那我不会挡你的路。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>他挠了挠脸颊。“让你试试也没什么坏处。你是位值得信任的盟友。如果你成功，那么局势能得到很大的缓和。如果你失败…”他耸了耸肩。“至少能死的痛快些。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>“那有什么问题？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>“格拉文命令他们战斗。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>“The Maw一直是狩猎者的家园。每隔一段时间，会有挑战者到来。于是他们会为争夺地盘作战。”“然而Sul躲在他的洞穴，不去面对Oernos。现在，两位强大的捕食者和他们的后代狩猎同一群猎物。这会削弱我们。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>他小心翼翼的看着你。“是真的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>“告诉我更多关于捕食者的事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>“很好。场面一定会一团糟。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>他怒目而视。“这将是寻狩之神的荣耀。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>“这不是格拉文的意旨。也不是the maw的行事方式。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>“我在哪能找到Sul？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>“Oernos在哪里？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>“从the Maw后面过去”他指着两边的过道。“两边都能过去，但要小心。The Maw是个危险的地方，而傲慢的Sul非常警惕。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>他沿着过道指向西北。“这里就是Oernos的熊穴，别担心，它最近很平静。但我不敢保证。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>“好主意。Oernos现在正在捕猎，不过很快会回来，他从来不会走远。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>“Sul和Oernos拒绝接近对方。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>“我就怕这样。”他挠了挠下把，皱起眉头。“二兽相争，哪只野兽成为勇士并不重要。”“我不想偏向一边，但是你可以杀死其中一位，这样人们就会接受另一位作为勇士。这是the Maw的行事方式。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

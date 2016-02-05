@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You peer into this pool. The water is perfectly clear, but you don't see anything of note.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You brush the cloak of steam away from this pool. You think you see...
+
+But no. It's just a bubble rolling up from the depths. This pool is empty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Looking into the third pool, you see something round and iridescent resting on the bottom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You feel someone nudge the small of your back.
+
+You turn around. No one's standing there, but you feel it again.
+
+Something is moving in your pack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>You open your pack and hear a soft burbling sound. As you rummage through your belongings, something slick brushes your hand.
+
+It's a baby lagufaeth. It watches you with benign curiosity, eggshell fragments still stuck to its body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"You're the first person it saw. It's gonna think you're its papa now. That little four-armed fish baby is your son.
+
+Edér beams. "I couldn't be happier for you."</DefaultText>
+      <FemaleText>"You're the first person it saw. It's gonna think you're its mama now. That little four-armed fish baby is your son."
+
+Edér beams. "I couldn't be happier for you."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Take it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Leave it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You reach in, your flesh tingling in the warm water, and pull the sphere out. It's heavier than it looked, and its smooth, pearlescent surface shines as you turn it.
+
+You stick it into your pack.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

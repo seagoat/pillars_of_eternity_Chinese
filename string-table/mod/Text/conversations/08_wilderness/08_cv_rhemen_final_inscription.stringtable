@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>雕镂在地板上的英格维斯蛇纹符号和图形在你脑海中转化成文字：
+
+“勇士将召唤两个目击者，他们将在承载在他灵魂特征的圣约的象征下继任。勇士将登上高台，手持灵魂容器，进行传递。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>你无法理解刻在表面上的符文。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“带着他的灵魂容器和有艾德拉心脏的武器，这个战士然后可以靠近瓮。这样，他将把他的武器塑造得与他的技能和野心相配。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

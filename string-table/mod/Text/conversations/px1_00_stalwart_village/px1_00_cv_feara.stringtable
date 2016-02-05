@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>88</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Thought I'd found shelter when I stumbled across this little village. Guessing you did, too, eh?" 
+
+Feara raises a frosty mug to you. Even though the warmth of the hearth reaches you here, her hands are wrapped in wyr wool and her ears muffled by a hat. Her face has the taut, wind-beaten look of someone who's recently come from the road.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"You find anything? I'd hate to think of those slimy bastards carrying my haul into a freezing hole somewhere."
+
+She grimaces into her drink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ooh... Still can't feel my fingers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Feara raises her mug. "You look like you've been in the wilds. Did you see my wagon out there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"As much blood as there was in the streets, I'm lucky the ale's still flowing."
+
+She takes a drink, and as she tilts her head back, you see a bruise purpling her jaw and the crimson bloom of scraped knuckles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What exactly happened to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Goodbye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Not yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I found your goods."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I know you're smuggling svef, Feara."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I was part of an expedition. Hunting for relics from Durgan's Battery. We'd picked up a good haul, too."
+
+She takes a slow swallow of her beer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"What are you going to do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>She rubs her hands together. "You've saved my hide, [Player Name]. I can't thank you enough, but I hope you'll take this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Shh! Keep it down, will you?" She looks from side to side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Fine. But I want in on the deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Unless you want Renengild to hear about your business, I suggest you pay me extra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I won't help you peddle this poison. Give up your wicked trade, Feara."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Fair enough. I'll take my reward, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>She blinks. "Well... sure. You've proven yourself capable. Take Lynam and Francesca's shares. I'll be sure to tell the boss about you."
+
+She gives you a slow grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Her mouth hangs open. "You- fine. Guess I'm stuck here, because I don't dare face my supplier empty-handed.
+
+"Hope you're happy." She gulps the rest of her drink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"All right, all right. Here, I'll take the svef and you can have Lynam and Francesca's shares.
+
+"I just want to get out of here without any trouble, okay?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Thanks again. With a little luck, I'll trade these blizzards in for a sea breeze soon enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Here. As promised."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Just enjoying a last drink. Or did you want a share of that, too?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Thanks again. I'll be gone just as soon as the weather clears."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Attack] "Die, smuggler!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Are you crazy? Stop!" She drops her mug.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Watch yourself if you're heading out to the Battery. There's more than ogres to worry about."
+
+She takes a deep drink from the mug in her hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Don't mind me. I'm staying here to take up FISHING. Or MINING. What fun, eh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Read her soul.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>In front of you, Feara's swaddled hands work quickly to bundle and tie a parcel. With you are a man and another woman, both similarly occupied.
+
+The three of you stand in a small hut. It's nearly bare but for the rickety table before you and three cheap cots piled with furs.
+
+The man hefts his parcel like something rare and precious.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"That's the last of them. Check the rest of the supplies while I load these." He disappears through a door and into a howling gale. The door swings shut with a loud clap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Not much choice. Snows have covered most of the other passes. This one gets just enough traffic to stay open." You feel the answer ring out of your own throat. 
+
+The thought doesn't bring either of you much comfort. You don't mention the real issue, which is that Lynam's made up his mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Feara stands in front of you, distracted with the contents of her mug. She doesn't seem to have noticed your momentary lapse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Francesca stares at you for several seconds, apparently thinking the same thing. You can't see her expression clearly enough to tell whether she's resigned or preparing an argument.
+
+She shoves out the door without another word.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"So it figures that's when the winds pick up and the sky starts dumping snow. We lost sight of the road.
+
+"Meanwhile, something else found us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Took Lynam out before we even realized we were surrounded. And then we see 'em coming out of the snow - these little four-armed wilder. Lagufaeth, they're called."
+
+She shakes her head, staring at the embers in the fire pit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Quick little bastards. Francesca and I held 'em off as long as we could, but when they filled her full of darts, I turned tail and ran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Found my way here and thanked my luck for escaping the lagufaeth. Then come to find out that this town's got an ogre problem."
+
+She laughs bitterly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I need to get those artifacts. Not that I'm in any shape to go after them myself. But I can't afford to return to Defiance Bay without something to show for my expedition."
+
+Apprehension creeps into her expression. She stares into her mug, swirling its contents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"At least you made it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"You can't mean to leave those relics behind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"I'm sorry to hear about your friends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Quit your whining."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"But you might be able to get past the lagufaeth. You're light on your feet."
+
+She looks up from her mug, hopeful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"But you know how to navigate the wilds. You'd be able to find your way out there and back with no trouble, I'd wager."
+
+She looks up from her mug, hopeful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"You're in the merchant business. You know what it means to lose a month's worth of goods."
+
+She looks up from her mug, hopeful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"But you've got your own expedition to the Battery, don't you? While you're out there, maybe you could look for my goods. Whatever's left of them."
+
+She looks up from her mug, hopeful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I'll give you a cut for anything you bring back, of course. I ain't asking for charity. I just can't afford to go home empty-handed."
+
+She brushes her nails along the side of her mug as that anxious look returns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Tell me what you're looking for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I can help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"No promises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Look, I'm sorry if I didn't give you the whole story. But surely you can appreciate why I wouldn't announce my business like that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Look, you seem forthright. But I couldn't just announce my business, could I? Even you've got to understand that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"You're reasonable. You're still getting paid. What does it really matter if I... omitted a few details?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>She cocks an eyebrow. "To be honest, I didn't think you'd really want to know. Seemed more tactful to leave out the messy details."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Look, I'm just trying to get by. You may not agree with my business, but have some pity. If I don't deliver this shipment, my supplier will have it in for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"I understand. Just watch your step if you find yourself near the Battery. Those lagufaeth can't be far."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I'd sure appreciate it. Bring back whatever you can find, and I'll see to it that you're compensated."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Like I said, we were treasure-hunting near Durgan's Battery when we were ambushed. What else do you want to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Renengild told me that another expedition came through before I arrived. Was that you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Why are these relics so important to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Remind me where I can find your caravan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>She looks momentarily confused. "Who-?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"No, that would've been somebody else. We didn't meet with Renengild - or anyone else in town, for that matter. We were operating on our own."
+
+She looks into the fire pit, taking another drink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"We took out several loans to pay for our trip out here. I'm gonna have trouble if I don't pay them back." She scratches the back of her neck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"What's left of it should be near Durgan's Battery. If you stumble across the lagufaeth, you'll know you're close."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>She shakes her head. "Wish I could say the same for Francesca and Lynam. Wish I could've taken our finds with me, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Don't I know it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>She nods. "That's a kind sentiment. I'll mourn them when I get home. But I've got to retrieve our haul if I'm to have any hope of that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Sorry if my troubles are a bother to you." She glares back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"I'm just trying to get out of town before some ogre or fish-man or starving, snow-addled hunter sticks a blade in my gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"More important, I gotta make good on my deal with the supplier. Ain't someone I'm eager to disappoint." She tugs at her collar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Examine her teeth.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>As Feara talks, you notice that her teeth and gums are stained with dark spots.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"You got the look of someone with his teeth around a secret." Her cold fingers are locked around your arm. Her black eyes search you.</DefaultText>
+      <FemaleText>"You got the look of someone with her teeth around a secret." Her cold fingers are locked around your arm. Her black eyes search you.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"What do you know about Durgan's Battery?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>As Feara talks, you notice that her teeth and gums are stained with dark spots.
+
+You recognize those spots as signs of svef use.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Just that it's been locked up tight for two hundred years on account of those dwarves having a row." She shrugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Which means that any trinkets from inside fetch a nice price. Sorry, I'm more of a businesswoman than a historian."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Thought all the whispers about Durgan's Battery were just village superstition. And maybe they are, but I might've been on my guard if I'd listened."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"You sure about the route?"
+
+The other woman, Francesca, looks up at you. Her face is mostly covered by a fur hat and several layers of thick-knit kerchiefs, but her voice is clear enough.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Careful. She's looking at you the way I've seen Itumaak look at your pig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Careful. She's looking at you the way I've seen Itumaak look at your cat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Her mind fills with questions... with calculations..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"My, but it's gotten warm in here!" He laughs awkwardly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"That's enough." Pallegina places a feathered hand on the Devil's shoulder, like a mother attempting to pull away an overly intrusive child.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Yes, well, if we could all keep our teeth to ourselves..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

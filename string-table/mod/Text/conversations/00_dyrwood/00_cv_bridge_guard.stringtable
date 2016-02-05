@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>警卫打量你们。“我猜你们是新来的吧。估计你们也没见过什么年轻的精灵贵族。哎。我就得待在这破地方，除非咱找到她。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“没见过这样的人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“你说的是谁？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“别挡路。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“就像村里其他人一样。”他叹气道。“也许你可以在酒馆和哈罗德大人谈谈。他会感激你的协助，并且你比我们更容易从当地人口中套出话来。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“爱丽丝小姐。”他咬着他的嘴唇。“内斯特·哈罗德大人的女儿，不幸走失了。”他叹气道。“你可以酒馆和哈罗德大人谈谈。他会感激你的协助，并且关于他女儿的失踪，你比我们更容易从当地人口中套出话来。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>他摇了摇头，皮笑脸不笑地说道。“你和旅店老板登格勒一样有帮助。是的，这个迷人的小仓库非常适合你。野兽把所有的愠怒都带给你。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“如果你找到了爱丽丝女士，迅速护送她回到德罗根旅馆。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>守卫看到你后放心地松了口气。“真是奇遇。身陷绝境却遇到了反抗湾的英雄。看来贝拉瑟之轮今天大施恩典啊。”
+
+他表情严肃起来。“或许你能帮忙。你来的路上应该没遇到一个年轻的女精灵。除非我们能找到她，不然我和同伴们都要陷入悲惨的境地。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>卫兵上下打量了你一下。“真是少见，在这鸟不拉屎的敌方居然能碰到旅者骑士。今天还真是贝拉瑟保佑呐。”
+
+他变得严肃起来，“也许你倒是能帮上些忙。我并不指望着你在路上看到过一位精灵贵族女性吧。找到她之前，我和我的小队算是没法离开这倒霉地方了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“你看上去像个猎人，外邦人。也许德温的武器能保护好你们这些自找麻烦的家伙——而我的补给品才是真正能让你在野外生存下来的东西。”</DefaultText>
+      <FemaleText>"You have the look of a hunter, estramor. Derwn's weapons may protect the woman who seeks out misfortune - but my supplies will help you to survive out in the wilds." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“精心布置的陷阱对浴血狩猎是决定性的。这点我很清楚。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“我能看看你的商品吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“再会了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>翰尼特点点头，一挥胳膊示意他的货物在那边。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

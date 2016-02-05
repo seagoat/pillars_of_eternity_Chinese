@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>104</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“我已经按你所说的做了。现在，你走吧，请离开我们。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“我们穿过这些店的速度比预计的还快。这不会持续太久的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>特鲁贝利落地点了点头，算是打招呼了。“你回来了。斯威努那边怎么样了？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>特鲁贝向你点头，眼睛注视着你和门，时刻保持警惕。“你回来了。发生了什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>一个男精灵站在你的面前，他比较矮胖的身材暗示着他一直以劳动为生。他的脸色苍白，眼睛瞪的很大。在他身后，一个年轻的男子和女子交换着担心的目光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>磨坊主主在你进入时举起一个棒子。他牢牢的抓着并粗暴的甩着它。“如果你想活命就给我回来！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>磨坊主犹豫了一下，然后稍微放下了一点棒子。“你是谁？斯威努是在为了他那点小的事业到处拉拢老外吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>“我的名字是[Player Name]。我只是刚到镀金溪谷。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>“我觉的你可以让我们帮帮你。那些人似乎很生气。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>“我不喜欢被人威胁。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>“其实，斯威努确实有让我和你讲话。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>特鲁贝看了看他的儿子和女儿，他们紧张地到处跑。“和我讲话？为什么？我已经告诉过他，我不能给他想要的东西。现在他绑架一些陌生人来代表他骚扰我吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>特鲁贝摇摇头。“你参观的时间挑的很不好。镀金溪谷所有的光泽都不见了。现在只是一个大粪堆，斯威努认为他是这里的王。他们所有的人都疯了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>“真的吗？”特鲁贝松了一口气。“天羽之神赫丽雅的山雀，我可以表现的友好些。我知道你听说了那群人想要什么。他么想要粮食，说的好像我把它们藏在别处了似的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>“那么我们就此达成共识了”，特鲁贝说。他的下巴抬高了一点点。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>“谁是斯威努？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>“是个矮人。那个在村民间散布谣言的矮人。那个混蛋已经在这儿几十年了，他一点也没变的友善。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>“斯威努已经怂恿他们好几天了。到目前为止他们一直还算清醒，但如果事情一直照旧发展……我不知道还有多久事态就会变得麻烦起来。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>“拜托……如果你不是代表他来这里，或许你可以找斯威努聊一聊，他不听我讲话了。你和他解释一下我们现在的配给越来越少。我们都在做出牺牲。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>“如果你不希望这些拿着火把的人进来，或许你应该不要再对我说谎了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>“斯威努在他们的耳朵里不停的滴着毒药，过不了多久就会有人选择采取暴乱的手段。我不会让我的家人发生任何事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>“好吧。那我只好采取我的方式了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>特鲁贝眨了眨眼，感到吃惊。“我不是 - 不，我没有说谎。店铺真的快不行了。而且粮食也这么少……我不得不对某些人抬高价格。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>“……这个城市中的很多人应该过的比斯威努和他那帮人要好很多。尤其是那些为了镀金溪谷付出更多的人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>“像治安官那样的人吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>“斯威努的人民都是农民。他们为你收集了粮食。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>“这是什么意思？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>“他们肯定不介意失去那些粮食让它们变成旅店中的酒。他们侮辱了我的儿子，所以他们不是好邻居。他们喝着依靠我们的作物酿成的酒变得烂醉如泥。你以为他们是唯一需要吃饭的人吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>“现在庄稼生病了，风太弱也不足以让风车转动了。我们村的孩子出生也只是空壳。那都不是我做的。这个地方被诅咒了。斯威努和其他人没做任何事帮助我们剩下的人度过这个青黄不接的季节。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>“……我什么也做不了”，特鲁贝很小声的说。“它就是这样运作的。也许其它地方可能有所不同。在这里，雷德里克的人保护全村的安全。所以他们吃得好。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>“治安官没有在外面等着烧毁你的家。也许你应该给农民更公平的价格。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>“你为了实现自我价值甘愿牺牲家庭吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>“斯威努以及其它人……他们一直是麻烦的制造者，是嗓门巨大，烂醉如泥的傻瓜。和他在一起的那个女人，她的灵魂可以追溯到Dryhdon，那个可怜的强盗，它显现出来”。
+
+“这个城镇里有好人。那些还不放弃的人们，他们应该得到更多。这就是我要说的。”
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>“我去看看我能做些什么。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>“我还有一些其他问题。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>“我不想卷入这个烂摊子。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>磨坊主宽慰的垂下来。“如果你做了，我会感激不尽。他不再听我讲话了，但也许你的运气会更好。告诉他，我们都处在一个困难的时期，我们所有人都必须做出一些牺牲。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>磨坊主宽慰的垂下来。“如果你做了，我会感激不尽。他不再听我讲话了，但也许你的运气会更好。告诉他，我们都处在一个困难的时期，我们所有人都必须做出一些牺牲。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>特鲁贝张嘴抗议。但在他最终点头并发言前他的表情变得顺从。“你说得对”，他静静的说。“我一直试图规划未来……但是当下我们已经十分危险。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>“等等。我不是来伤害人的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>“外面的骚动是怎么回事？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[离开]“我要走了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>“我所做的只是把粮食卖掉。我不能在稀薄的空气中创造它，我也不能免费把它送出去。我会为农民带来的作物付钱，我卖掉从磨坊里出来的东西。出来的东西大部分卖到了城镇西边的黑色猎狗酒吧，用于酿造啤酒。斯威努和他那帮人肯定不会介意我所做的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>“我不能以最高的价格购买枯萎的小麦，而且我也没有足够多的好粮食。斯威努吼叫着一些他没有权利的事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>“或许我应该去和斯威努谈一谈了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>“对于一个混乱的局面来说这似乎还算一个比较好的故事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>特鲁贝皱了皱眉。“不是……”他停顿了一下。“是这样的，斯威努一直是一个烂混蛋。在店铺非常有限的情况下……也许我应该保存好东西留给应得的人，比如奥弗拉。她怀了一个孩子。难道我应该让她饿死吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>磨坊主宽慰的垂下来。“如果你做了，我会感激不尽。他不再听我讲话了，但也许你的运气会更好。告诉他，我们都处在一个困难的时期，我们所有人都必须做出一些牺牲。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>“你说，你和当地农民有过节？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>“我和斯威奴谈过了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[离开]“没事，我就走了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>特鲁贝深呼一口气。“然后他说什么呢？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>“我已说服他不再打扰你的家人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>“斯威奴已死，再也无法骚扰你了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>磨坊主像猫头鹰一样眨眼。“死了？但……”他摇头。“不，我……我不问了。我不该把这当作好消息，可是当家人受到威胁时……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>“啊，这……真的吗？太好了！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>“再次感谢你。如果没有你，我们不知会怎样。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>“快放下，免得伤到自己。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>特鲁贝却把棒子举得更高。“我认真的！我绝不让斯威奴和他的走狗在我的磨坊威胁我！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>“拜托……如果你不是为他而来，也许可以和斯威奴谈谈。他不听我的。告诉他，我们的粮食也在变少。我们都在做出牺牲。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>“你来镇子的路上看到田野了吗？庄稼都枯死了。农民给我的大部分作物？”特鲁贝指着麻袋和箱子。“都坏了，烂透了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>特鲁贝摇摇头。“从哪里开始呢？斯威努把他们暴打了一顿，对谷仓的事情唠叨个没完。说是大部分都被我给藏起来了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>“如果你能说服他的话，我们就算欠了你一份人情。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>“我知道了。我还有个问题。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>“很好。告诉斯威努和其他人我已经重新考虑过了。倘若他和其他人付了一样的价钱，他可以随意拿走自己的份额。”特鲁贝叹了口气。“希望不久就能买入补给品，否则我们就糟了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>“嗯？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>“他说你对待农民有失公允。不仅抬高价格，还把烂掉的粮食卖给他们。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>“这里究竟发生了什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>“我告诉你，要是你不立即把粮食交给他的话，我就打断你的腿。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>磨坊主宽慰的垂下来。“如果你做了，我会感激不尽。他不再听我讲话了，但也许你的运气会更好。告诉他，我们都处在一个困难的时期，我们所有人都必须做出一些牺牲。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>特鲁贝叹了口气。他点点头。“我明白。你不是本地人，这些事和你无关。”他擦了擦额头。“也许我可以和市政官谈谈……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>[抓住磨坊主的脖子]“如果你不想死的话，就给我再考虑考虑。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>“你……你怎么敢？你……”特鲁贝无助地攥着拳头，他的脸色变得通红。“你觉得这有用？等冬天一到，我们都得饿死。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>“你去告诉那个杂种，我会把粮食给他，价格和其他人的一般无二。赶紧离开我的磨坊，我谢谢你了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>特鲁贝狂乱地抓着你的手臂，手中的棍子掉落一旁，拼命地喘着气。你松开了手，他边喘气边咳嗽，急促地喘个不停。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>“好了！好了，该死！”在他儿子和女儿靠近你的时候，他举起了一只手。“够了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>“不管怎样我都谢谢你了。让我了解了事情的原委。给……拿着，略表谢意。”他掂量出一些钱币塞在你的手里。“或许我们能让这座城镇重新步入正轨。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>“我欠你份大大的人情。拿着。”他从屁股上拽出一只钱袋塞给你。“这是我今天赚的钱，以示谢意。放心吧，你为我做的事情我会昭告众人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>“很高兴帮得上忙。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>“拿着。你吃的苦头够多的了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>“你能给的就只有这些？我可是救了你一家子。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>“眼下我们就有办法挨过这一年了。”特鲁贝大笑。“非常感谢你。旅途平安，朋友。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>“你真是慷慨，朋友。谢谢你帮助我们挨过接下来的一年。旅途平安，愿上帝保佑你。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>“噢……不，不，当然。这很公平。拿着。我存下了一些钱币，以防我们……好了，不管怎样都给你了。我们现在不需要了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>[离开]“还没有。我马上回来。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>特鲁贝嗤之以鼻。“他当然这样了。几天了，他可没蹦出一个字儿。这个人就是痴心妄想。如果他想要粮食，就得付钱。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>“村民们知道粮食补给的事情吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>特鲁贝有些尴尬。“有些知道……比如说酒馆老板。最好不要让大家白担心。我很快就会购入补给。如果能坚持到那时候不出岔子，我们就算度过了难关。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>“酒馆老板？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>特鲁贝摆出呲牙咧嘴的表情。“我不会喝那里的酒，就说这么多。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>“斯威努不会再烦扰你了，也不会再烦扰任何人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>磨坊主严肃地眨了眨眼睛。“你是说……？但是……”他摇摇头。“不，我不会问的。我想这不算什么好消息，因为一个人威胁到你了家人的安危……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>磨坊主严肃地眨了眨眼睛。“你是说……？但是……”他摇摇头。“不，我不会问的。我想这不算什么好消息，因为一个人威胁到你了家人的安危……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>磨坊主像猫头鹰一样眨眼。“死了？但……”他摇头。“不，我……我不问了。我不该把这当作好消息，可是当家人受到威胁时……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>特鲁贝摇摇头。“从哪里开始呢？斯威努把他们暴打了一顿，对谷仓的事情唠叨个没完。说是大部分都被我给藏起来了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>“对于这整件事情我还有疑问。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>特鲁贝简短地笑了笑。“解释什么？事情算不上多么复杂。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>“我没有疑问了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>特鲁贝点点头。“还有其他事吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>特鲁贝简短地点头以示问候。“你回来了。和斯威努打交道还顺利吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>[离开]“实际上，没什么。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>磨坊主苦涩地大笑。“天啊，这就是我想要的。斯威努雇佣了像你这样的人。我听说过你。你同样不会伤害我的家人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>“镇上的人都说你很靠谱。连斯威努也认同这一点。如果你能说服他，我就欠了你一份人情。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>磨坊主犹豫了，放下了手中的棍子。“等等，我听说过你。你来到镇子不久，对吧？别告诉我斯威努已经在打你的主意了？天啊，这就是我想要的……”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>163</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Help! Please, I'm down here!" 
+
+Standing on a narrow outcropping far below the edge of the chasm, a villager waves his arms frantically.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The villager is well out of reach, and the uneven, slick surface of the chasm would prove difficult to climb by hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Tie a rope around your waist and anchor it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Tie a rope around [Slot 0]'s waist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Tie a rope around [Slot 1]'s waist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Tie a rope around [Slot 2]'s waist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Tie a rope around [Slot 3]'s waist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Tie a rope around [Slot 4]'s waist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Tie a rope around [Slot 5]'s waist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You loop the length of rope around your waist, and tie it off with a secure knot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You loop the length of rope around your waist, and tie it off securely. You feel confident that the knot will hold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[SkillCheck 0] has a solid grasp of knots, and steps forward to secure the line around your waist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>You loop the length of rope around your waist, and tie it off as best as you can. You aren't entirely sure the knot will hold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Looking down, you can see another, smaller ledge further up along the side of the chasm. It is close enough to jump to, but it may not be able to support your weight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The trapped man presses himself against the chasm wall. "Please, hurry! The ice is starting to crack!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Jump down onto the ledge.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Climb down.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Climb back up.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>In a fit of daring, you leap into the chasm. You land hard, and the snow-covered outcropping shifts dangerously underfoot, but you are able to stabilize yourself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>In a fit of daring, you leap into the chasm. You aim your leap perfectly, and land gracefully upon the ledge. The outcropping groans underfoot, but holds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>On the ledge, you have a moment to survey your surroundings. The trapped villager is almost directly beneath you, his frightened face turned up to watch your progress.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>In a fit of daring, you leap into the chasm. You land hard, and the slick ice fouls your footing. The walls of the chasm lurch around you as you slip, falling backwards. 
+
+The back of your head slams into the ice with a loud thunk and a burst of pain, leaving you dazed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You take firm hold of the rope, and cautiously make your way down to the ledge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>You hear an ominous crunch as the ice shifts, somewhere below. 
+
+The trapped man lets out an alarmed cry. "Hurry!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>On the ledge, you take a moment to survey your surroundings. Several sections of the cliffside below you appear to be comprised of thin sheets of ice, like windows set into the side of the chasm.
+
+The thin ice is pocked through with air bubbles, and moving too quickly across the surface could cause it to shatter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Examine your surroundings.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Rappel from the ledge.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Continue climbing down.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>You take a moment to get a better sense of your position. Several sections of the cliffside below you appear to be comprised of thin sheets of ice, like windows set along the chasm walls.
+
+The thin ice is pocked through with air bubbles, and moving too quickly across the surface could cause it to shatter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>You take a firm hold of your rope, give it a few tugs to ensure it's still held fast, and leap away from the ledge. You are making good distance when you suddenly find yourself swinging boots-first toward what appears to be a thin sheet of ice.
+
+You adjust your grip, aiming for a more solid-looking section of rock, and neatly avoid the ice.
+
+You quickly adjust your grip, twisting your body, and manage to land on the surface without shattering it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>You continue to carefully make your way down the cliffside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I don't think it'll hold much longer!" 
+
+You hear a faint clattering sound, and a sharp cry. Glancing down, you see that the man has slipped - but he grabs hold of the rocky wall just in time to stabilize himself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>You take a firm hold of your rope, give it a few tugs to ensure it's still held fast, and leap away from the ledge. You are making good distance when you find yourself swinging boots-first towards what appears to be a thin sheet of ice.
+
+Your feet crash through, and a cluster of icy shards comes crashing down. You hear the villager yelp in alarm as he tries to move out of the way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>As you pass the fragile section of ice, you feel the winds begin to pick up. The freezing gusts tug fiercely at your clothing, howling past you. 
+
+Nearby, there is a narrow hollow in the wall of the cavern that could provide some shelter until the winds die down again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Press on.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Hide in the gap.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>You take a firm hold of your rope, give it a few tugs to ensure it's still held fast, and leap away from the ledge. You are making good distance when you find yourself above what appears to be a thin sheet of ice.
+
+You adjust your grip, aiming for a more solid-looking section of rock, and neatly avoid the ice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Anxious, the villager calls up to you. "Please, help me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>As you tug yourself free of the small hole you've made in the icy wall, you feel the wind begin to pick up. The freezing gusts tug fiercely at your clothing, howling past you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>The chill numbs your fingers, but you ignore the cold and press on, determined. Despite the wind whipping past you, you continue your slow descent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>You cling to the cliff, but the cold numbs your fingers, and one especially powerful gust finally rips you from the cliffside altogether.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>The rope jars up painfully against your sides as it's drawn taut, and you come to a lurching halt. You secure your footing against the chasm wall, and continue down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The rope jars up painfully against your sides as it's drawn taut, and you come to a lurching halt. The knot in the rope loosens, and you grab quickly for the rope, wrenching your shoulder in the process. 
+
+You secure your footing against the chasm wall, and continue down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>You take refuge in the hollow, giving your arms some much-needed rest in the process. Several long moments pass before the winds finally calm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>In the lull that follows, you press onwards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>At last, you come to within arms' reach of the trapped villager. He reaches out towards you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>When your hand is mere inches from his, the outcropping beneath his feet suddenly shudders and gives way, and he starts to fall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>You grab hold of the man and hoist him up. He wraps his arms around you, securing himself against your back. Sections of the ridge begin to crumble away into the darkness below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>You loosen your grip on the rope, quickly dropping down towards the falling man, and reach him just in time. The rope around your waist brings you both to a painful stop.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>You loosen your grip on the rope, quickly dropping down towards the falling man, and reach him just in time. The rope around your waist brings you both to a jarring halt - and the knot in the rope comes undone. 
+
+In the moment's desperate panic, you clutch at the rope, halting your own fall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Dive after him.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Look on.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>You hear the man's screams long after he has plunged into the gloom below. After a few moments, a sickening crack echoes up the chasm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>You loosen your grip on the rope, quickly dropping down towards the falling man, and reach him just in time. The rope around your waist brings you both to a jarring halt - and the knot comes undone. 
+
+You grab quickly for the rope with your free hand, refusing to release your grip on the villager. Tugged between two points, you feel a wrenching pain in your shoulder, but keep hold nonetheless.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>You make your way back up the chasm, and over the edge to safety.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Cast Bulwark Against the Elements.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Concentrating hard, you cast a protective spell upon yourself. The chill winds slide harmlessly past you, and you continue your descent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Passenger in tow, you begin your ascent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Your wrenched shoulder hinders the climb. With every moment the pain grows worse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>With every upward movement, the man on your back cries out in pain. You can feel his grip on you loosening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>At last, you reach the top, and climb back over the side to safety.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Climb faster.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Call out for help from your comrades.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Keep hold of him with one hand.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Keep climbing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>You hear a sudden thud below, and look down to see that the villager has lost his footing. He scrabbles desperately at the ice, but the entire ledge suddenly lurches and gives way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>You pick up the pace, making swift progress up the chasm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>You see familiar faces peering over the side of the chasm, and then moving away to pull at the rope. 
+
+You keep a firm grip on the rope, and find yourself pulled easily up to safety.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>But your impressive strength allows you to keep on climbing at a steady pace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>You race toward the top, attempting to outpace your own weariness. But in the rush you misjudge a foothold, and your foot slips against the icy cliffside. The sudden jerk shakes the man loose, and he starts to fall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>You make steady progress back up the side of the chasm, the rescued villager clinging to you tightly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>You see a set of familiar faces peering over the side of the chasm, and then moving away to pull at the rope. 
+
+But even with their combined strength, they struggle to raise you. Your progress is painfully slow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>You loosen your grip on the rope, quickly dropping down towards the falling man, and reach him just in time. The rope around your waist brings you both to a painful stop.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>You reach out towards him, but a sudden flare of pain in your injured shoulder pulls your arm up short. The villager falls out of reach, into the gloom below. His screams echo up the chasm walls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>You pick up the pace, making swift progress up the chasm. The strain in your shoulder makes climbing difficult, but you press onward despite the pain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>You loosen your grip on the rope, quickly dropping down towards the falling man, and reach him just in time. The rope around your waist brings you both to a jarring halt - and the knot comes undone. 
+
+You grab quickly for the rope with your free hand, refusing to release your grip on the villager. Tugged between two points, you feel a wrenching pain in your shoulder, but keep hold nonetheless.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>You loosen your grip on the rope, quickly dropping down towards the falling man, and reach him just in time. The rope around your waist brings you both to a jarring halt - and the knot in the rope comes undone. 
+
+In the moment's desperate panic, you clutch at the rope, halting your own fall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>You secure the man onto your back once more and climb back up the chasm safely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>You loop a length of rope around your boot, and then grab hold of the man's arm with one hand. Even climbing one-handed up the chasm, you make steady progress.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>You try to keep hold of the man, but your progress up the cliff slows to a near crawl. As you struggle to keep climbing, you finally give way to fatigue and release him to focus on the ascent.
+
+The man's grip continues to weaken. Just as you near the top, he suddenly slips from your back, plunging into the abyss below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>The man's grip continues to weaken. Just as you near the top, he suddenly slips from your back, plunging into the abyss below.
+
+You hear his scream echoing up the chasm walls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>You see a set of familiar faces peering over the side of the chasm, and then moving away to pull at the rope. 
+
+You keep a firm grip on the rope, and find yourself pulled easily up to safety.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>You see a set of familiar faces peering over the side of the chasm, and then moving away to pull at the rope. 
+
+You keep a firm grip on the rope, and find yourself pulled easily up to safety.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>You reach out towards him, but a sudden flare of pain in your injured shoulder pulls your arm up short. The villager falls out of reach into the gloom below. His screams echo up the chasm walls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Your keen understanding of life out in the wilds includes a solid grasp of knots. You step forward to tie off the rope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[SkillCheck 0] has a solid grasp of knots, and steps forward to secure the line with a sturdy knot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>You loop the length of rope around [Specified 0]'s waist, and tie it off as best as you can. You aren't entirely sure the knot will hold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>The trapped man presses himself against the chasm wall. "Please, hurry! The ice is starting to crack!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Looking down, [Specified 0] can see another, smaller ledge further up along the side of the chasm. It is close enough to jump to, but it may not be able to support much weight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[Jump down onto the nearest ledge.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[Climb down.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[Climb back up.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Wait! Where are you going?!" You hear the villager calling from below, his voice tinged with desperation. "Please, don't lea-" 
+
+You hear a heavy thud as he slips, and then the crack of ice - followed by a short, sharp scream as the man plunges into the abyss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Wait! Where are you going?!" The villager calls from below, his voice tinged with desperation. "Please, don't lea-" 
+
+There is a heavy thud as he slips, and then the crack of ice - followed by a short, sharp scream as the man plunges into the abyss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Specified 0] climbs back up the chasm, and over the edge to safety.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[Specified 0] takes firm hold of the rope, and cautiously climbs down toward the ledge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>There is an ominous crunch as the ice shifts, somewhere below. 
+
+The trapped man lets out an alarmed cry. "Hurry!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[Specified 0] leaps into the chasm. [Specified 0] lands hard, and the snow-covered outcropping shifts dangerously underfoot, but holds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Specified 0] leaps into the chasm, landing gracefully upon the ledge. The outcropping groans underfoot, but holds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[Specified 0] leaps into the chasm. [Specified 0] lands hard, boots slipping on the slick ice. [Specified 0] falls backwards, arms windmilling.  
+
+The back of [Specified 0]'s head slams into the ice with a loud thunk and a burst of pain, leaving [Specified 0] dazed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>On the ledge, [Specified 0] takes a moment to survey the surroundings. Several sections of the cliffside below appear to be coated in sheets of ice, like windows set into the side of the chasm.
+
+The thin ice is pocked through with air bubbles, and moving too quickly across the surface could cause it to shatter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>On the ledge, [Specified 0] has a moment to survey the surroundings. The trapped villager is almost directly below, his frightened face turned up to watch [Specified 0]'s progress.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[Rappel down.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[Continue the descent.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>[Examine the area.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Specified 0] take a firm hold of the rope, gives it a few tugs to ensure it's still holding fast, and leaps away from the ledge. [Specified 0] makes good distance - but soon comes up on a thin sheet of ice coating the chasm wall.
+
+[Specified 0] twists around, aiming for a more solid-looking section of rock, and neatly avoids the ice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Specified 0] take a firm hold of the rope, gives it a few tugs to ensure it's still holding fast, and leaps away from the ledge. [Specified 0] makes good distance - but soon comes up on a thin sheet of ice coating the chasm wall.
+
+[Specified 0] twists around quickly, and manages to land on the surface without shattering it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>[Specified 0] takes firm hold of the rope, gives it a few tugs to ensure it's still holding fast, and leaps away from the ledge. [Specified 0] is making good distance - only to end up swinging boots-first towards what appears to be a sheet of ice along the chasm wall. 
+
+[Specified 0]'s feet crash through, and a cluster of icy shards comes crashing down. The villager yelps in pain as he's buffeted by debris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[Specified 0] takes a moment to look around. Several sections of the wall below  appear to be comprised of sheets of ice, like windows set into the side of the chasm.
+
+The thin ice is pocked through with air bubbles, and moving too quickly across the surface could cause it to shatter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Anxious, the villager calls up. "Please, help me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>[Specified 0] continues carefully down the chasm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"I don't think it'll hold much longer!" 
+
+There is a faint clattering sound, and a sharp cry. Glancing down, [Specified 0] sees that the man has slipped, only to grab hold of the rocky wall just in time to stabilize himself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>As [Specified 0] struggles free of the hole in the chasm wall, the wind begins to pick up. The freezing gusts tug fiercely at [Specified 0]'s clothing, howling past.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>As [Specified 0] passes the fragile section of ice, the winds begin to pick up. The freezing gusts tug fiercely at [Specified 0]'s clothing, howling past.
+
+Nearby, there is a narrow hollow in the wall of the cavern that could provide some shelter until the winds die down again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[Press on.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>[Cast Bulwark Against the Elements.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>[Take shelter in the gap.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>[Specified 0] takes refuge in the crevice. Several long moments pass before the winds finally calm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>In the lull that follows, [Specified 0] presses onwards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>There is a sudden thud below, and [Specified 0] looks down to see that the villager has lost his footing. He scrabbles desperately at the ice, but the entire ledge suddenly lurches and gives way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Concentrating hard, [Specified 0] casts a protective spell. The chill winds slide harmlessly past, and [Specified 0] continues the descent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Unfazed by the freezing winds, [Specified 0] continues the descent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>[Specified 0] clings desperately to the ice, but one especially powerful gust finally rips [Specified 0] from the wall of the chasm altogether.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>The rope jars up painfully against [Specified 0]'s sides as it's drawn taut, and [Specified 0] comes to a lurching halt. 
+
+The winds gradually seem to die down, and [Specified 0] continues the descent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>The rope jars up painfully against [Specified 0]'s sides as it's drawn taut, and [Specified 0] comes to a lurching halt. But the knot in the rope loosens, and [Specified 0] grabs quickly for the rope, wrenching a shoulder in the process. 
+
+The winds gradually seem to die down, and [Specified 0] continues the descent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>At last, [Specified 0] comes to within arms' reach of the trapped villager, and extends a hand toward him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>When [Specified 0]'s hand is mere inches away, the outcropping beneath the trapped man's feet suddenly shudders and gives way, and he starts to fall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>[Specified 0] grabs hold of the man and hoist him up. The villager wraps his arms tightly around his rescuer. Sections of the outcropping begin to crumble away into the darkness below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Passenger in tow, [Specified 0] begins the ascent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>[Specified 0]'s wrenched shoulder hinders the climb. The pain grows worse with every passing second.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>With every upward movement, the man on [Specified 0]'s back cries out in pain. [Specified 0] feels his grip loosening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>[Specified 0] makes steady progress back up the side of the chasm, the rescued villager clinging on tightly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>You falter, and your pace begins to slow. The villager soon cries out, and you can feel his grip on you loosening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>[Dive after him.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>[Look on.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>The man's screams can be heard long after he has plunged into the gloom below. After a few moments, a sickening crack echoes up the chasm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>[Specified 0] grabs after him, but a sudden flare of pain pulls [Specified 0]'s arm up short.
+
+The villager falls out of reach into the gloom below. His screams echo up the chasm walls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>[Specified 0] drops down towards the falling man, and reaches him just in time. The rope around [Specified 0]'s waist brings both parties to a painful stop.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>[Specified 0] drops down towards the falling man, and reaches him just in time. The rope around [Specified 0]'s waist brings both parties to a jarring halt - and the knot comes undone. 
+
+[Specified 0] grabs quickly for the rope, other hand gripping the villager tightly. Tugged between two points, [Specified 0] feels a wrenching pain in one shoulder, but keeps hold nonetheless.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>[Specified 0] quickly drops down towards the falling man, and reaches him just in time. The rope around [Specified 0]'s waist brings both parties to a jarring halt - and the knot in the rope comes undone. 
+
+In the moment's desperate panic, [Specified 0] clutches at the rope with both hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>At last, [Specified 0] reaches the top, and climb back over the side to safety.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>But [Specified 0]'s impressive strength allows for a steady ascent all the same.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>[Specified 0] falters, pace slowing. The villager soon cries out, and [Specified 0] feels his grip loosening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>[Pick up the pace.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>[Call out for help above.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>[Use one hand to keep hold of him.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>[Continue the climb.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>The man's grip continues to weaken. Just as [Specified 0] near the top, he suddenly slips away, plunging into the abyss below.
+
+His scream echoes up the chasm walls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>[Specified 0] picks up the pace, making swift progress up the chasm. [Specified 0]'s injured shoulder makes climbing difficult, but [Specified 0] presses onward despite the pain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>[Specified 0] picks up the pace, making swift progress up the chasm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>[Specified 0] races for the top, attempting to outpace weariness. But in the rush [Specified 0] misjudges a foothold, slipping against the icy cliffside. The sudden jerk shakes the villager loose, and he starts to fall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>[Specified 0] reaches out towards him, but a sudden flare of pain shoulder pulls [Specified 0]'s arm up short. 
+
+The villager falls out of reach, into the gloom below. His screams echo up the chasm walls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>[Specified 0] quickly drops down towards the falling man, reaching him just in time. The rope around [Specified 0]'s waist brings both parties to a painful stop.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>[Specified 0] drops down towards the falling man, and reaches him just in time. The rope around [Specified 0]'s waist brings both parties to a jarring halt - and the knot comes undone. 
+
+[Specified 0] grabs quickly for the rope, other hand gripping the villager tightly. Tugged between two points, [Specified 0] feels a wrenching pain in one shoulder, but keeps hold nonetheless.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>[Specified 0] quickly drops down towards the falling man, and reaches him just in time. The rope around [Specified 0]'s waist brings both parties to a jarring halt - and the knot in the rope comes undone. 
+
+In the moment's desperate panic, [Specified 0] clutches at the rope with both hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>[Specified 0] loops some rope around one boot, and then grabs hold of the man's arm with one hand. Even climbing one-handed up the chasm, [Specified 0] makes steady progress.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>[Specified 0] tries to keep hold of the man, but progress up the cliff slows to a near crawl. As [Specified 0] struggles to keep climbing, [Specified 0] finally gives way to fatigue and releases the villager to focus on the ascent.
+
+The man's grip continues to weaken. Just as [Specified 0] nears the top, he suddenly slips from [Specified 0]'s back, plunging into the abyss below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Familiar faces peer over the side of the chasm, and then move away to pull at the rope. 
+
+[Specified 0] keeps a firm grip on the rope, and is pulled easily up to safety.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Familiar faces peer over the side of the chasm, and then move away to pull at the rope. 
+
+[Specified 0] keeps a firm grip on the rope, and is pulled easily up to safety.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Familiar faces peer over the side of the chasm, and then move away to pull at the rope. 
+
+[Specified 0] keeps a firm grip on the rope, and is pulled easily up to safety.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Familiar faces peer over the side of the chasm, then move away to pull at the rope. 
+
+But even with their combined strength, they struggle to raise [Specified 0]. Progress is painfully slow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>[Specified 0] hoists up the man once more, and climbs back up to the top safely.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

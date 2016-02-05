@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>132</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“等一下，先生，就一会。”一位穿着绿色斗篷的蒙面男子等在路上。在你靠近时，他大步向前与你见面。近距离从他的脸可以看出他是一位年轻人，虽然他的脸上满是疲惫。</DefaultText>
+      <FemaleText>"Hold, madam, but a moment." A hooded man waits upon the road, clad in a green cloak. He strides forward to meet you as you approach, and at a closer distance his features are revealed for those of a younger man, though lined with weariness. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“啊，乐于助人的陌生人。很高兴你来了。你有什么消息要告诉我们吗？”科斯克的眉头皱起来，“陌生人……我没得到要塞的信息。你成功了吗？雷德里克死了吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“我们听说你从要塞而来。但我们来得太晚了。要是早来一刻，我还能听到他死前的呼吸声……无论如何。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“你想要我做什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“你是谁？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“我不愿参与其中。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>那人点了点头，站得直了些，“我给你的任务确实很残酷，但我保证别无选择了。雷德里克领主必须被阻止。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>“我会找到雷德里克并结果他。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>“我知道了。”科斯克看了你一会，小心地退后了一步。“他会死的，当然。无论雷德里克是谁，他不是傻瓜，也不会错失毒害我的守卫的机会。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>“如果雷德里克领主统治，镀金溪谷无法幸存。他必须被阻止。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>“只有一个人决定见证镀金溪谷恢复昔日的荣光。曾经有那么一刻，陌生人，镀金溪谷配得上它的名字。山上的小麦泛着金子般的光芒，村庄里的人们幸福地生活着。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>“现在变成了什么样？无论什么造成了土地的荒芜，那不是人民的过错。雷德里克要因不该我们承担的罪行惩罚我们，这反而使他不能看清自己。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>“我不瞎。他会为他的所作所为付出代价。我，科斯克，用我的声望发誓。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>“镀金溪谷承受雷德里克的疯狂太久了。他可以通过确保村庄里没有任何人受到折磨，来治愈怀德温的遗症。恐怕他的妻子依格瑞德也处于危险之中。这个男人对他自己也毫无仁慈。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>“把他扔下城墙，或者把他的头砍下。我无所谓。一旦他的王权成空，镀金溪谷会得到应有的管理。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>“那么我要称赞你的勇气，感谢你的帮助了。但我不会把你送去，却不给予应用的警告。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>“奈德玛可以帮助你接近雷德里克，但他住在雷德里克要塞的上层，受到护卫和雇佣兵的保护。你得隐藏好自己，如果打算接近他而不惊动整个要塞的话。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>“正面进攻是不明智的。如果你能勇敢地面对，你可以按照我们的步骤，在护城河东边找到下水道的入口。”他移开了视线。“但是我的一些人被抓了。可能是下水道的入口被发现并重新封闭了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>“这些人是我的属下。如果你能找到解救他们的方法，那算我欠你的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>“雷德里克要塞到处都是忠诚于雷德里克的士兵和佣兵。他们不欢迎入侵。事实上，如果我们失败的话，他们会是更大的威胁。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>“一旦你进去了，找到我的老朋友，奈德玛。他是高级牧师——贝拉斯安的，自从太阳神陨落以后。一个身处险境的好人。他会听从道理。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>“很好，我出发了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>“感谢你的建议，我会好好利用它的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>“我会开辟自己的道路。那样更有趣。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>“如果不是必须的话，浪费资源是没意义的。我会把你的建议放在心上。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>“我把找到了明白荣誉和责任之人看作是众神的祝福。愿战火之神马格兰给你带来胜利，朋友。祝你好运。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>科斯克端详了你好一会。“那就这样吧。只要你记得谁是真正的敌人。众神指引你，陌生人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>“听你的口气像是个战略家。保留你的智慧，我确定你会胜利的。我在这里等待你的成功。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>“我跟雷德里克谈过了。他说了一些关于你的趣事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>“无论他对你说了什么，雷德里克的罪行是事实。他会继续谋杀他的子民。他的家庭。”科斯克的嘴唇抿起来。“他是哪种领主？他甚至缺少一只疯狗的荣誉感。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[攻击] “你这个卑贱之人。你利用我来视图篡夺雷德里克的王位。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>“我会考虑你的话。也许我太草率了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>“那么愿众神给你带来胜利，朋友。祝你好运。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>“我知道了。”科斯克皱眉道，“好吧，也许一旦意识到自己无法逃避雷德里克的暴行时，你会改变主意。当你彻底目睹了他的罪行以后。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>“我必须召集随从。要塞在正东方，我在那里有耳目。我会静待变动的讯息，要是遇上你改变主意的喜事的话。”他再次鞠躬，“也许我们会再次相遇。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>“来吧，人们——把这些尸体清理出大厅。”说着，科斯克急切得大步向王座走去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>“原谅我，朋友……还有很多事要做。但我们不会忘记你为我们做的事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>他似乎喜欢用左脚走路，他膝盖上的裤子纤维处有一个黑色污点。即使如此，他礼貌地鞠躬向你问候。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>“看起来你帮奥弗拉做了很大的贡献。”那人点头示意附近的房子，“安斯洛角是个危险的地方，但你愿意冒险帮助她。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>“我猜我们不会在磨坊外看到草耙和火炬了？”那人笑弯了腰，“做得好，解决了纠纷。难怪特鲁贝睡得安稳多了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>“我想像图阿塔那非常感激他的供给被还了回来。他是个很好的铁匠。一个好人，就这样。欠一个残忍的主人人情，但是他是个好人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>“镀金溪谷需要这样的勇气，在这样黑暗的时代。坚韧的心脏，愿意去做必须的事来拯救人民。”他转过去看着村民。“我能算上你们吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>“镀金溪谷都是这样的人。不愿意看着自己家乡陷落入恐惧和疯狂的人。”他转过去看着村民。“我的目的是帮助他们。我也要请求你们帮忙。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>“镀金溪谷已经看了很多这样的斗争，在这些天里。太多生命的牺牲，还有恐惧和饥荒的紧急情况。村庄不会幸存，除非我们凝聚在一起保护它。在这个任务里我想寻求你们的帮助，陌生人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>“你有什么权利罢免一个迪伍德的精英？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>“[撒谎]当然。我是个很有帮助的人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>“你对我撒了谎。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>“不，我也没想这么做。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[离开]“还没有。当这结束后我就回来。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>“雷德里克领主请求我解决他的麻烦事。他是个更有用的盟友。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>“令人置信吗？此人在看见多年来残酷统领的尽头后，最后的奋力一搏？在圣者之战前，他的整个家族都信奉伊奥萨斯，而现在为了弥补他们错误的信仰，他不得不对手下残酷无情。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>“很好，我会带着雷德里克的脑袋回来的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>科斯克点点头，表达了他的宽慰。“插一把剑到他的心脏里，这就够了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>“那就是我要求的一切。想一想。我很确定你会做出正确的决定的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[攻击]“省省吧。你不可能玩弄我两次的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>“这得看情况。我可不做慈善帮助别人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>“我知道了。”他的语气遮掩着一些失落。“好吧，如果我不能求助于你的正义感，也许你的……实际天性能办到。因为我的任务会增加我们双方的财富。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>“我或许是利用过你，是的-为了帮助我们。看起来我选的不怎么地。”他拔出他的剑。“所以就这样吧。我很抱歉，朋友。我们必须在没有你的情况下给镀金溪谷带来拯救了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>“所以就这样吧。很抱歉我没能说服你，朋友。我来看看你能不能被妥善安葬吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>科斯克皱了皱眉，小心的后退了一步。“你什么意思？你失去了你的信念吗？我保证，没什么比这更高贵的事业了。这要求我们征服暴君的土地，他们可不会自己失败。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>“是吗？还有别的吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>“对你撒谎？我怎么欺骗你了？”科斯克看了你一会儿，在领悟之前。“啊，雷德里克已经往你的头脑里灌满了毒药。他可不傻。也不会错过机会把我的盟友变成敌人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>科斯克的表情变冷了。“我知道了。我很后悔我没能说服你。我希望那大蛇的毒舌不会带走另一个傻瓜-但是我错了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>“我不知道你走这条路是想干什么，朋友，但是我想再警告你一次。”他扫了扫胳膊做了个手势指了指那条路。“因为那哨站属于那个自称是镀金溪谷之王的暴君。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>“就像很多暴君那样，他周围环绕着很多强壮的男女，因为他害怕受到报应。”那男人浅笑着。“我们都很欢迎一个像你那样的勇敢的刺客，但是还是觉得你如果有一些同盟会好一点。”</DefaultText>
+      <FemaleText>"Like many tyrants, he has surrounded himself with stronger men and women for fear of retribution." The man smiles thinly. "We should all welcome the assistance of a brave woman such as yourself, but still I think you would fare better with some allies." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>“就像很多暴君那样，他周围环绕着很多强壮的男女，因为他害怕受到报应。”那男人浅笑着。”这也警告了你。如果你不顾那个前进，我猜我们可能就不能互相帮助了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>“你是谁？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>“你说的暴君是谁？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>“感谢你的警告。也许我会迟点回来。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>“我可以自己解决任何威胁。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>“我希望你能。”那人的表情变得昏暗。“因为我们正强烈地需要刺杀。你可以跟帕斯卡和黑猎犬谈谈。她可以让你跟可靠的人签订合约。如果你想让条件变好一些的话，我恳求你-雷德里克领主必须被阻止。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>“那你也许会比我们获得更大的成功。”那人的表情变得昏暗。“听好-没有太多时间了。如果你想为了好奇心伤害你的生命的话，也许你会为了更崇高的目的这么做。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>“不管你的理由是什么，我能保证你的帮助不会没有报酬的。雷德里克领主在统治期积累了很多掠夺品。结束他的统治，你可以拿走你的那份。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>“镀金溪谷忍受雷德里克的疯狂太久了。他可以通过确保村子里没人留下来惹麻烦来治愈怀德温的遗产。我怕他自己的老婆，依格瑞德，可能正陷入危险之中。那个男人可一点也不慈悲。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>“我会自己面对他，把一把剑插入他腐烂的心脏。但是我们上一次的尝试代价沉重，雷德里克呼叫了增援。我们没时间了，这种时候我必须请求任何有可能的帮助。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>“我现在去争取一切可以争取到的盟友。勇敢面对城堡，如果你敢的话。看着雷德里克进入坟墓，镀金溪谷会把你看做它的救星。”男人又鞠了一躬。“愿神指引你的臂膀。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>“我们不能无所事事地站着。我的人民和我突破了防线，试着靠我们自己终结雷德里克的统治。我们在夜幕的掩护下通过下水道进入，但是我们失败了。”他的脸色黑下来。“那里有……黑暗的生物，在地牢里。是他的动物召唤的结果。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>“职责落到了你的肩上。雷德里克领主已经要求了增援，很快我们就将阻止不了他了。我们的时间越来越短，现在我必须乞求一切可用的支援。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>他向下看向自己的伤口。“但是并不是我的腿伤让我痛苦。我们在罗德里克的防线上失去了太多人。这就是为什么我现在要找你，寻找帮助。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>“他不会这么容易解决我的。如果我要和所有镀金溪谷的人一起行军到堡垒的话，我会看着他为所做的一切付出代价。你只会是他的爪牙中第一个送命的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>“求你-罗德里克领主不会停下来的。他会继续谋杀他自己的人。他已经谋杀了他的家族。”科斯克的嘴唇弯了弯。“那是什么领主？他只是条无耻的狗。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>[攻击]“我已经做出了我的选择。防守吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>[攻击]“雷德里克领主送来了问候。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[离开]“我要走了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>科斯克拔出了他的剑。“为了武装，同志们！我们中出了个叛徒！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>“也许在国外事情是不同的，陌生人，但是在迪伍德我们可不跟自己称王的人俯首称臣，也不服从那些名不副实的贵族的残暴突发奇想。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>“雷德里克领主已经证明了自己不能公正的统治。他把自己引向了自己的命运。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>“雷德里克。”他转过头去向地上啐了一口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>“他就是雷德里克七世，在革命时与迪伍德联手的艾迪尔家族的后裔。自那以后，雷德里克家族世世代代都成为了镀金溪谷的领主。他们曾经对这职务当之无愧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>“但是好景不长。雷德里克家族被一个暴君接管了。一个相信他可以从大地上通过力量和烈焰净化怀德温的遗产的人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>“你看到那棵树了，在镀金溪谷中心的那棵。他自从第一个家族崛起时就立在那儿了。现在那就是雷德里克残暴的证明。每一周都会有更多尸体。”他摇摇头。“我们必须终结这事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>“结束了，暴君死了，溪谷可以向更伟大的明天进发了。镀金溪谷欠你很多。我也欠你很多-你完成了我未能完成的事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>“从雷德里克的宝库里拿走任何你感兴趣的东西吧。你你做的是价值比那两倍还要多。”科斯克看了看王座厅，微笑着。“有太多事要做了。我们必须给伯爵发出消息，当然了。取消残忍的雷德里克做出的任命……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>“但是不要觉得我们会忘记你的帮助。你带来了巨大的改变。骄傲吧-每个人都会记住这一刻。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>“你是谁？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>“只有一个人注定看到镀金溪谷恢复它之前的荣耀。曾几何时，陌生人，镀金溪谷名副其实。农作物闪着微光就像金子，村民也过得很好。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>“现在变成了什么样？无论什么造成了土地的荒芜，那不是人民的过错。雷德里克要因不该我们承担的罪行惩罚我们，这反而使他不能看清自己。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>“我不是。他会为他所作所为付出代价。我对着烈焰发誓。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>“只有一个人注定看到镀金溪谷恢复它之前的荣耀。曾几何时，陌生人，镀金溪谷名副其实。农作物闪着微光就像金子，村民也过得很好。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>“现在变成了什么样？无论什么造成了土地的荒芜，那不是人民的过错。雷德里克要因不该我们承担的罪行惩罚我们，这反而使他不能看清自己。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>“我不瞎。他会为他的所作所为付出代价。我，科斯克，用我的声望发誓。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>“也许你可以跟我来。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>“我非常希望我可以。但是我只会妨碍你。一个罗德里克的奉承者在他倒下前把一把匕首插进了我的腿。愿它下一生不要这么走运。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>“也许你可以跟我来。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>“我非常希望我可以。但是我只会妨碍你。一个罗德里克的奉承者在他倒下前把一把匕首插进了我的腿。愿它下一生不要这么走运。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>他向下看向自己的伤口。“但是并不是我的腿伤让我痛苦。我们在罗德里克的防线上失去了太多人。这就是为什么我现在要找你，寻找帮助。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>“我不知道金色的庄稼，但是至少这里之前没这么多苍蝇。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>“我不知道金色的庄稼，但是至少这里之前没这么多苍蝇。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>“在这之后他不止会欠我们这瓦砾散落的土地……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>“雷德里克领主绝对是疯了，但是我不觉得公爵们会欣赏我卷入迪伍德人的暴乱中……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>“这样的危机中诞生了如此的疯狂……一个男人会谋杀自己的妻子……再也不爱自己无助的孩子们……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>“我不知道金色的庄稼，但是至少这里之前没这么多苍蝇。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>“以前在共和国也是这样子的。那时公爵们付钱给挑拨者来放下它们的草叉。通常这很有用。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>“我们扩充了对神的同样谦卑，但是他们帮不配得上他们的头衔。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>亚禄眯起眼睛。“我猜这个家伙觉得他可以当个更好的领主？我之前听过这种话。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>迪兰斯哈哈大笑。都快被自己的蔑视呛住了。“‘闪光的神。’他从没有像被炸弹扎到的一瞬间那么闪过。
+
+“名字现在已经过时了。灰烬可不会闪光。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>“这条路上有优点，守望者。有很多需要学的，还有很多需要教的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>“一个明智之选。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>“如果他希望给我们一些暴徒甚至一台弩炮的时候表现得好一点。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>“我希望你会的。我听说了你对我们土地做出的贡献。我们十分需要一个像你这样的人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>“你可以在黑色猎犬酒吧和帕斯卡谈谈。她可以给你找一些可靠的伙伴。如果你觉得你的条件提高了，我恳求你-罗德里克领主必须被阻止，如果我们不站出来对抗他，那就没人能了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>“镀金溪谷有你作为伟大的守护者。我经常听到你的名字被提起。自豪吧，我的朋友。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>“不管什么让你感觉不舒服的都已经……我知道你可以成就一番大业。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>“你是个诚实的人，根据我的荣誉感，我会好好对待你。我们在同一边，我的朋友。”</DefaultText>
+      <FemaleText>"You are an honest man, and by my honor, I will treat you in kind. We are on the same side, my friend." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>“不管我使用了什么小诡计，我都是为了好的目的来做的。”科斯克从他的剑鞘中抽出剑。“我以为你会懂得我们的战略的，我的朋友。我很抱歉我们不能亲眼看见了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>科斯克的表情变得冰冷。“我知道了。我希望正义能激励即使是你这类人-但是我现在知道我错信了你。雷德里克总是依赖你这样的变色龙。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>“就像有人叫你吸引人的神父，迪兰斯。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>“我必须召集我的盟友。堡垒就在东边，过了伊斯登伍德。在那里我有耳目，我正等着有什么改变的消息传来，等着好消息改变你的心意。”他又鞠了个躬。“也许我们会再相遇的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>“说话就像个战略家。保持对于你自己的智慧，我确定你会证明你的胜利的。你会在东边找到雷德里克的堡垒，在伊斯登伍德过去一点。我等着你胜利的消息。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>科斯克研究了你一会儿。“所以就这样吧。只要你还记得真正的敌人是谁。她的堡垒在伊斯登伍德后面。愿神指引你，陌生人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>“我终于找到了一个理解荣誉和责任的人，我把它看做是神的祝福。雷德里克的堡垒在伊斯登伍德后面，在东边不远处。愿马格兰带给你胜利，朋友。我祝你好运。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>“那就让诸神带给你胜利，朋友。你会在东边找到雷德里克的堡垒，经过伊斯登伍德。祝你好运。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

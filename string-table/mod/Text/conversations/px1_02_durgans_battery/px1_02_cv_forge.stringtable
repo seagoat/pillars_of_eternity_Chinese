@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>102</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"You used the White Forge to channel your souls into the Battery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Release them from Durgan's Battery.] "You're free to roam again. Return to the Wheel and seek new lives."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Bind them to the cannons.] "Defend Abydon's forge and the fortress you built around it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Bind them to the White Forge.] "Tend to your legacy. Remain here and lend your skills to others."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>You perceive the tenuous connections between the souls and the battery. As you sever them, the souls cry out, some in relief and others in rage. 
+
+Pressure builds in the ether, which swarms with essence and energy. You cover your ears and grit your teeth against the devastating hum that builds in the core of your soul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>The souls flow up and through the bricks, moving away from the White Forge as if from a burning, beating heart. The walls groan and creak at the sudden rush of energy.
+
+At last you feel them distantly as they clot somewhere above you, around the exterior of the keep. They thrum with energy and purpose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>You feel a plunging sensation as the energy of dozens of souls rushes toward the White Forge. It buffets you like a storm wind, and you brace yourself against it.
+
+Finally, the ether grows still again, and you feel new power radiating from the White Forge. It emanates a warmth that you feel in your soul, yet you know that you could draw close to it without fearing the heat of its fires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Stop, marauder! Our bodies are dust already - must you profane holy ground with further violence?"
+
+Flames roar and whip from within the Forge. As they rise, their glow washes the room in a gory crimson light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Did the height of our walls offend you? Did we cross your borders? Sell you weak steel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Tell us - why did you invade our fortress?"
+
+Behind the anger and through the roaring flames, you hear the voice of a tired old man.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Durgan's Battery has been deserted for over two hundred years."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"'Invade'? There's nothing here but spirits and skeletons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Well, the front door was open."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I think there's a misunderstanding. This place is abandoned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Your halls are rubble and your people dust. Who would stop me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"No, that cannot be. Abydon wouldn't allow it."
+
+The flames flicker and shudder, and the stones beneath your feet grow suddenly cold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Wake up, Exandru! This is why Abydon gave us the White Forge - that we might take up arms and deal with villains like this!"
+
+Heat surges once again from the forge, prickling your skin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"This is Zoltun's fault! He's practically invited these outsiders to rob us of our finest steel."
+
+Heat surges once again from the forge, prickling your skin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Nonsense. If we've got armed strangers at our door, it's because she's threatened to invade their homeland."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Such a magnificent device, and she can only see it as a tool for war. She shames our grandparents, who wandered this continent-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Quiet, both of you! Can't you feel it? This chill, this... silence."
+
+The fires crackle and snap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"But you. You entered our keep and found it abandoned. Ruined.
+
+"What happened to us?"
+
+His question drifts from the mouth of the White Forge, wreathing you like a cloud of smoke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"I was hoping you could tell me. What do you remember?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Stories say that you fought amongst yourselves and destroyed one another."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"The official history is that you destroyed yourselves, but it looks like someone - or something - invaded the battery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"We fought, yes, but only with words. Ideas.
+
+"Yet it was enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Our divisions left us unprepared for what came next."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"I'd never seen anything like them! Twice the size of any ogre, and positively fearless. They were-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Eyeless. Yet no matter how hard we fought, or how deep we hid, they kept coming for us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"It was strange. They came so suddenly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"What were they?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Why did they attack you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Some kind of maegfolc, but bigger than any we knew of. We who survived never got close."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"They were relentless. Unnaturally so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"They didn't stop to explain themselves. Yet I wondered at what monstrous wilder might survive in a place like this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"What's to say they didn't come from the east? From the lands Marunn so coveted?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"It was a punishment. For taking this gift of Abydon - the White Forge - and squandering it on our greed and vanity."
+
+The other voices say nothing, but you feel their doubt and dissent in the stifling heat of the forge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"We should have taken our steel and pushed east."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"We retreated until there was no place left to go. Until those of us who remained were here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Here, with the salvation Abydon had left us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"What was this salvation?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"The White Forge. With it, our smiths pulled the souls from our bodies and preserved them in the very stones of Durgan's Battery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Yes. Using the same methods with which we had fashioned so much cold steel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"It was Abydon's grace. Now, we inhabit the monument our people built to the White Forge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"It was agony. Feeling your soul ripped from your flesh, feeling every part of you torn asunder..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"But it saved us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Imprisoned us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"What does this have to do with Abydon?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"How does the White Forge work?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Its fires have been blessed by Abydon. They're fed by Eora's molten heartbeat and veined with adra that runs to the center of the world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Which explains their conductive power. See, these adra veins allowed us to siphon essence into steel as we shaped it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"And that essence, the extraordinary heat of the forge, and our smiths' skill is what made Durgan steel so remarkable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"The White Forge belongs to Abydon, of course. It is here that he built his own body."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"And whether he found this place or created it, it's a truly remarkable smithy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"We Pargrunen are wanderers by nature, but it was Abydon's call that led our forefathers here after generations spent along the Pearl Coast and Eir Glanfath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"So the old stories say. Then again, I can't see any other reason our grandfathers would have stayed here when greener lands lay east."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"I see. And now you're here, in Durgan's Battery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Had we thought longer on the fate that awaited us, we might have chosen a quick death to this slow agony."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Blasphemy! There's no greater honor than remaining here, watching over the White Forge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Or do something. Anything. We were once among the greatest smiths in the known world! Tell me, do kith still speak of us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Yes, and highly. You are still regarded as master smiths."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"The world has moved on. You're barely a blot in the history books."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Would it matter now? Let go of this obsession with your reputation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"That is good to know. It's only a shame that this legacy is nothing but a memory."
+
+The White Forge radiates gentle warmth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"When I was an apprentice smith, my master spoke of little else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"A fellow artisan! A shame, then, that we can trade little but words."
+
+The White Forge radiates gentle warmth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"A shame to think that the pride and work of so many lives is so quickly lost."
+
+A chilly draft blows through the chamber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"It's more than our reputation, it's our legacy. What was the point of our work, our sacrifice, if it's so quickly lost?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Is this why you braved the restless souls of Durgan's Battery? To recover the process of Durgan steel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Yet if our lives and labors are so easily forgotten, what was it that brought you here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"I wanted to learn how Durgan steel was made."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"There's a village called Stalwart that's fallen on hard times. They asked me to find the White Forge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"None had ventured inside Durgan's Battery for two hundred years. That was reason enough for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"I'm hunting a group called the Leaden Key, and they were seeking a way into the battery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"I heard there was a bounty in priceless weapons here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"I don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>At this admission, you feel a softening in the essence of the Pargrunen. 
+
+In one moment, each soul and fragment is distinct, and in the next, they form an indistinguishable host. You perceive them as a school of fish caught in a tide, a flurry of snowflakes on the wind, a pantry full of fragrant spices.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Then I hope you're satisfied with what you found here, [Player Race]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"At least you get to leave this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"But it was good to be remembered, however briefly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>As the souls of Durgan's Battery speak to you, their collective essence takes shape, much like Maerwald's did. There are scores of them, all torn by conflicting purposes and trapped in the memory of their lost battle.
+
+You taste the bitterness of their uncertain existence and feel the persistent ache of centuries.
+
+It is a slow, agonizing fate, but you find it in your power to grant them another.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Stuck here, you mean. With all the others who sought to escape the Eyeless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Is that a bad thing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"To observe the passage of centuries in peace and solitude. That would be perfection."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"You're trapped here, never experiencing anything new? Sounds maddening."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Staying in one place like this would never suit me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Reliving memories of a lost battle and feeling the gradual crumbling of these stones."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"You think so?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"How dull!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Easily entertained, huh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"I only wish we could protect this humble monument better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Not if I had to listen to your endless droning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"I suppose that's one way to look at it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"That does sound appealing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"I would gladly worship in the same way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"I'd rather practice my faith in a more active manner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"The long vigil is a quiet duty, but a noble one nonetheless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Flames puff from the White Forge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"So the dwarves never expired. Not truly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"So this is truly all that remains of the Pargrunen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

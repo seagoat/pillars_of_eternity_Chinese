@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This wolf lies in the snow, panting with exhaustion and pain. An arrow has pierced its foreleg, jutting gruesomely from the animal's flank. 
+
+The wolf growls softly as you approach, tail between its legs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Examine the wound.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Treat the wound with your knowledge of field medicine.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Try to remove the arrow.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Calm the wolf.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The wolf appears to have crossed a hunter's path. A silver arrow juts from the wolf's right foreleg, embedded a short distance into the limb.
+
+Even so, you suspect that trying to remove the arrow without knowledge and care could provoke further injury.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The wolf appears to have crossed a hunter's path. A silver arrow has pierced the wolf's leg. The state of the fletching suggests the wolf tried to gnaw it off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Your efforts to calm the wolf seem to have paid off, for the creature remains still as you work, save for the occasional whimper. 
+
+You carefully remove the arrow, and then bind the wound.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Leave it alone.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You approach the wolf slowly, speaking in low and calm tones. Gradually, the wolf stills, though it still gazes up at you fearfully.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Put the wolf out of its misery.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You take a firm hold of the wolf's scruff. The creature begins to thrash in panic, but you pin it down easily. 
+
+That done, it is a simple matter to slip a blade into the wolf's neck. Within a scant few moments, the beast goes still.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The wolf goes still at first, but the moment you lay hands on its injured leg, it begins to thrash in panic. Yelping in pain, it snaps at your hands, and then lunges towards you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You take hold of the wolf's scruff, trying to hold it in place, but the creature panics. In its desperate thrashing, it rips free of your grip, and promptly lunges at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Sing a song to calm the wolf.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Cast Charm Beast on the wolf.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>You approach the wolf slowly, singing a low and lilting melody. The animal's ears flatten, but it stops growling. 
+
+Gradually, the wolf stills, though it still gazes up at you fearfully.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Your spell works swiftly- the wolf ceases its growling, and it lies limply upon the snow, tail wagging slightly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[SkillCheck 0] moves forward to aid the animal. Your efforts to calm the wolf seem to have paid off, for the creature remains still, save for the occasional whimper. 
+
+[SkillCheck 0] carefully removes the arrow, and then bind the wound.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Barely an instant after you have finished, the wolf suddenly scrambles to its feet. 
+
+It regards you for a few long moments, and then sets off through the trees at a limping trot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Your efforts to calm the wolf seem to have paid off, for the creature remains still as you work, save for the occasional whimper. 
+
+You carefully pull the arrow free, and then bind the wound.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Barely an instant after [SkillCheck 0] has finished, the wolf suddenly scrambles to its feet.
+
+It regards you for a few long moments, and then sets off through the trees at a limping trot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>The wolf goes still at first, but the moment you lay hands on its injured leg, it begins to thrash in panic.
+
+Edér approaches you where you sit, his expression sober.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Here. Let me."
+
+He kneels behind the creature and slowly wraps his arms around its chest and torso. He shushes the wolf as one would a crying infant, and strokes its matted mane with one hand.
+
+He nods to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Try now."
+
+The wolf kicks and growls, but Edér tightens his hold, keeping the beast restrained enough for you to work. It manages to bite one of his hands, drawing streams of blood from deep punctures, but he makes no acknowledgment of the pain, and merely continues to quietly hush the animal.
+
+You carefully remove the arrow, and then bind the wound.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

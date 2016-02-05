@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一位年轻女性站在柜台后看着你，眼神机智聪敏。
+
+“欢迎。这是您第一次来瓦里安商贸公司吧？有什事需要帮助吗？”她的语调专业而又好奇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“还有什么事情需要商讨？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“这是什么地方？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“你是谁？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“再会了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“瓦里安商贸公司是由瓦里安共和国的一个商人社团成立的。我们为了所属商人们监督交易和协商的进行。” 
+
+她指了指她右边的一扇门。“这是我们的仓库。运输中的货物就储藏在这里。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“我是这仓库的经理助理。目前我帮Verzano打理事情，不过他退休之后，或者总部的老板们觉得该换经理时，我就接班了。”她翻了翻白眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“欢迎来到瓦里安商贸公司。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>“我是新任的仓库经理。我的前任Verzano……”她朝着一扇门翻了翻白眼。“他已经不能胜任了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

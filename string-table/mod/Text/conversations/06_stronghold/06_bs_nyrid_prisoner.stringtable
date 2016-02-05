@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“很自豪，对吧？别来管我。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“你必须承认，直到你出现之前…计划都很不错。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“等我出去之后，我就会把你关在一个洞里度过余生！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“我本应该抓住机会杀了她的，你这洋洋自得的混蛋。”</DefaultText>
+      <FemaleText>"I should have killed her while I had the chance, you self-righteous bitch." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“我…以前被家人打的更厉害。你还不够狠。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“喂！喂，别把我丢在这，在这…动物旁边！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“地狱啊…你真是狠狠地折磨了那个人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

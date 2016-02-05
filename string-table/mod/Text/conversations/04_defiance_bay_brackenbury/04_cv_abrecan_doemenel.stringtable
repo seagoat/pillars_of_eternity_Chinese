@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>168</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一个年轻人靠在一个看起来似乎很昂贵的玻璃橱柜上。一只手举着镶有宝石的酒杯，另一只手则握有把装饰华丽的手枪。带有酒渍的嘴唇微微上扬着。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[递出信件。]“我找到一份笔记，也许你会感兴趣。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“给我说说。快。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“我在铜巷区的一处房屋内遭到了袭击。在我解决掉刺客后，发现了这封信。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“再会了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>阿布坎摔下他的酒杯，杯里的酒泼洒到了铮亮的瓷砖上。他用枪托砸向他旁边的一个橱柜上的古董。周围的人望向阿布坎后又将目光放到你身上，随时准备动手的样子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>“当然。怎么不早说你在招人？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>“不。我可不是小偷。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>“我朋友告诉我说你被卷入Goose and Fox的一点纷争中。他夺走了我妹妹的生命。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>阿布坎抱着手，摇晃着手中的酒杯。“你有东西要给我，不是吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>站在阿布坎身后的守卫在他耳边窃窃私语。然后这位年轻贵族的眼神突然犀利了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>“那你用不着我了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>“现在还不能。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[递出宝石。] "给你。"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>“就跟守卫说你是我一个远亲。”他眨巴眨巴眼睛。“他们会懂的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>“这样，骑士和十二团众应该就不会阻挠了。”他拿出一袋金币。“拿去用吧，不用还了。作为交换，等我需要你帮忙的时候，我会再叫你的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>“那你在这儿干啥？拿到宝石再过来。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>“你这是在挑战我的底线。有话直说，要不就滚。”他喝了一口手中的酒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>阿布坎一手转枪，并喝了一口手中的酒。“你拿到信了吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>“啊，我机智的朋友啊。你拿到宝石了吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[递出宝石。]“是的，这儿呢。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>“现在还不能。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>他露齿一笑。“这样一来骑士和十二团众就不能插手了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>阿布坎一把夺过宝石然后开始仔细观察。“这么快？我甚至连隔壁的守卫打喷嚏的声音都没有听到哦？很谨慎嘛，真的是。”他向你点头示意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>阿布坎双手拿着硕大的宝石。“我听到隔壁有骚动声。希望雷蒙特大人没有找错人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>他拿着宝石。“我明白雷蒙特大人正在找新的守卫来换掉那些妨碍你的守卫。我们得低调，但这块石头就是有值得这样大费周章的价值。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>“拿到之后再回来。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>他用一根手指转动着手枪。“看来门卫认为应该让你来见我。说吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>阿布坎瞪大双眼，然后把橱柜推到一边。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[递出宝石。]“如你所愿。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>“也许我该留着。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>阿布坎举起他的酒杯。“等我有活给你的时候，我会通知你的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>这位年轻的贵族斜眼看着宝石，然后把它拿到烛光下。烛光透过宝石射到他的脸上，他的表情变了，然后他把石头砸向你。撞到你身后的橱柜，粉碎了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>他的手指掠过他的发间，重新镇静了下来。“你该庆幸，雷蒙特还没有把真正的宝石卖掉。快去把真的白征之心给我拿来，拿不到的话就不要回来了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>“我最后再忍你一次。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>“对，这是真正的白征之心。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>阿布坎把拇指放到手枪的机锤上，并把酒杯放到橱柜上。“我本可以原谅你的愚蠢行为。但你杀了不该杀的人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>他举起手枪。“杀了他。”</DefaultText>
+      <FemaleText>He raises his pistol. "Kill her."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>“那是意外。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>“她碍事了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>“你的人误会了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>“你当真以为我很好骗是不是。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>阿布坎擦了擦他的脸。“你杀了我的人，让我白白花钱。我就给你一个赎罪补偿的机会。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>“你得替我的人完成他们本来的工作。你的话……应该是轻而易举的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>“自己做个了结，你个贱人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>阿布坎笑了。“我就喜欢你的精神。只是遗憾你不能为我所用。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>他露出危险的笑容。“这是命令，不是委托。乖乖照做，我就对你的失手既往不咎。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>雷蒙特大人有一颗大小如奥马阿的蛋蛋大小的宝石。叫做白征之心。我的下线会留下线索。我要你潜进去，找到那颗宝石。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[给他看白征之心。]“你想要的是这个不？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>他伸出手。他手指上戴的无数戒指都因你手中的宝石而黯淡无光。“干的好。快，把它给我，这样我就饶了你的过失。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>他高兴的看着你。“我的父亲，杰德玛，他要是知道我得到这样一颗宝石，还有你……的话，一定会很高兴的。上楼去找他吧，他找你这样能干的人很久了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>“小偷没有尊严可言吗？这是我第一次偷盗。杜门朗家族付的报酬很丰厚，我保证，你绝不会再找到比这更高的报酬。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>“我会留着。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>阿布坎叹了口气，放下了他的手。“恐怕，不会很久。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>“我的妹妹告诉我说你在鹅与狐狸帮助了她。很明显，丹娜很看好你。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>“为了她，我给你一个机会来补偿对我的损失。你必须把你搞砸的工作做完。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>“丹娜说也许你有工作让我做。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>他小饮了一口酒。“不错，我确实有件事想找人做。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>“我最近找到一个更赚钱的机会。但可惜，我委托错了人。希望你是对的那个人，懂吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>“有个手下。计划了一次抢劫，但他用的是我的名号。”他的眉头一皱。“首字母。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>他突然又笑了起来，但是他的手里紧握着手枪。“我需要那封信。小偷就藏在铜巷区的某间房子。拿回信函，之后我就考虑让你在杜门朗家族里立足。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>“我还在找。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>“那你来找我做什么？等你找到了再回来见我。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[递出信件。]"给你。"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>他夺过信函。仔细端倪过后，他把信折叠起来，放入口袋中。“干的好。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>阿布坎抚平了口袋。他看了看你，又望了望那高脚杯。“你读了信之后也应当了解了，我这里还有份想拜托给你的工作。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>“当然。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>“信的内容，我并不感兴趣。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>“哦，好一个有良心的贼？好吧，让我来点拨你一下。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>“雷蒙特大人手上有一颗大小如奥马阿的蛋蛋大小的宝石。叫做白征之心。”
+
+他邪恶的笑着。“同时这也是试炼骑士团和十二团众之间的投标大战。”他们为将它归还到它原本的矮人族主人手中而战……这样的话他们将成为强力的敌人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>“当然，杜门朗家族不愿看到骑士或者十二团众与白征矮人有任何交好。这样急剧不平衡的力量不是我们想要的。”他又喝了一口酒。
+
+“我们在雷蒙特住宅的线人会给你打开窗子。潜进入雷蒙特庄园高层找到宝石。然后把它带回来。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>“我会带着宝石回来的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>“没兴趣。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>“我来给你说说现在的情况。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>“好极了。记住，务必秘密行动。我父——不，我最不想要的就是与邻邦的争端。”他清了清嗓子。
+
+“拿到白征之心后带把它带回来。不要让我失望。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>阿布坎用拇指和食指拿着宝石，把它迎向光源。“真是件宝物。收下这个把，是你应得的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>“关于你要我找的信，我有些疑问。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>阿布坎打着呵欠。“有什么快问。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>“我上哪儿去找那些贼？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>“你为什么不让你收下的人去呢？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>“还有你想我怎么处置那些贼？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>他脸色一变。“我需要一个……与此不相关的人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>“你不想让爸爸知道你的这次失误，是吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>“我明白了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>“让他们安息，当然。他们始终是我的人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>阿布坎被酒呛了一下。“什么？！”他摔下酒杯，还不停的挥舞着手枪。“你是在开玩笑的吧？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>“是的，有点过头了。抱歉抱歉。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>“你才是玩笑，阿布坎。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>“我说过了，他们在铜巷区。他们藏身的房子在东边的尽头，靠近探索大道”他大力的挥舞着手。“只要寻着那些冒险家的恶臭和投资失败者的哭声找去就行了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>他拿起酒杯举到胸前。“的确。”他的摇晃着酒杯，喝下一大口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>“很明显我来的不是时候。我这就出去。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>“他们偷了什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>阿布坎奸笑。“你好好干，或许我会告诉你。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>“你得完成我交给手下的任务。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>“好吧。看来我没得选，不是吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>阿布坎朝你背上拍了一下。“把这当做是一次机会。要是你好好表现，也许还能赚一笔。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>“做贼就没有一点点尊严吗？这是我第一次偷盗。杜门朗家族付的报酬很丰厚，我保证，你绝不会再找到比这更高的报酬。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>他对你一番审视。“你很……有名声。但我可是有一整屋子的忠诚的护卫队。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>“再跟我仔细讲讲雷蒙特那笔工作。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>“您要了解什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>“和我讲讲雷蒙特大人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>“关于白征之心，你知道些什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>“对于偷窃珠宝，你有什么建议吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>“那宝石是整个迪伍德最宝贵的，当你亲眼看到之后，你就会明白。它从内到外发光——是白征山的至宝。”
+
+“把它从雷蒙特那抢过来将让我们获利不少，也可以降低我们的劲敌骑士和十二团众的实力。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>阿布坎用嗓子发出恶心的声音。“他就是个爱炫又胆小的混蛋，还以为自己活在哈德莱特公爵的日子里。但也是布拉肯伯里最富裕的人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>“不是我对他有偏见。只是，讲真的，既然要藏钱的话，用得着带着那么大量的钱到处跑吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>“别被他的守卫逮到了。要可能的话，你就从窗户进去，动作要迅速。雷蒙特是敌人，可他也是一个邻居，我可不想闹出麻烦。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>“无论你怎么样，千万不要惊动雷蒙特的守卫。我可不想和邻居兵刃相见。相信你也明白。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>“那是假货，你个呆子！我真想把这毫无价值的玻璃块塞进你的喉咙。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>他斜眼看着信函。“这是……血？他们都是我的人啊，你个笨蛋！”他手握住枪。“我给你一次机会来做补偿。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>他拿着宝石。“我明白雷蒙特大人正在找新的守卫来换掉那些妨碍你的守卫。我们得低调，但这块石头就是有值得这样大费周章的价值。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>“我需要一封到公爵馆参加会议的邀请函。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>他冷嘲道。“你想要讨好杜门朗家族来提升地位，不是吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>“差不多。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>“杜门朗家族绝对是反抗湾最大的后盾。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>“我也可以选择投靠你的敌人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>“无所谓。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>他冷笑道。“没错，问题是你对我们是否有利用价值。我们要测测你。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>他摆出冷酷的眼神。说“敢在这家族里如此大放厥词，不是傻子的话就是相当的勇敢。我很感兴趣你是属于哪一种。”他笑着。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>他嗤鼻道。“你这么厚颜无耻的态度足以让你在家族里平步青云，要是你还能活着的话。好吧——就让我看看你怎么通过这简单的测试。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>“这事得我爸说的算。”他用手中的酒杯比划了手势。说到“楼上。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>他用冰冷的眼神看着你。“你都没有完成我给你的考验，就想请杜门朗家族家族帮你的忙？请出去。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>“关于进入公爵馆的邀请函……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>“再会了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>“我需要一封到公爵馆参加会议的邀请函。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>“我有些疑问。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>“我这里也没有答案。如果没什么事了，就请你离开吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>你刚下楼来，阿布坎便悄悄接近过来。“我听说了你的新任务。我也听说我父亲要你把锅推到十二团众身上。千万不要。”
+
+“我的父亲是个精明的生意人，但他太过多虑。曾今的反抗湾很尊敬我们。要是杜门朗家族要挺过接下来的改变，我们得重新赢回他们的尊重。别毁了这一切。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>“这是什么地方？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>“你站在杜门朗祖传的庄园。你如果不是迷路的话，那就是在浪费我的时间。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>“除非你找我的家人有事，请出去。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>“我的妹妹对你的评价很高——她对你简直赞不绝口。你的话，我们可以放心的用。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>“我想知道的就这些。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>他又小喝了一口酒。说“没别的事的话，你可以走了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>“我想知道的就这些。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>萨加尼猛然回头看向你。“你还真会说话，[Player Name]。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>“没事，反正我也厌倦躲在反抗湾。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>“当人受羞辱时，如果是被其上级羞辱，则令人倍加难受。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>“如果你的计划是逼他先动手的话……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>他盯着你把眼睛瞪的铮大。“礼仪……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>卡纳用咳嗽演示笑意。说“我们无论到哪里都在交朋友呢。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>萨加尼抓抓她的下巴。“自从来到北方，我已经收下了不少私人地产……所以我想这也不算有多不同。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>“务必隐秘行动，呵？那我就穿上夜行衣。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>“如果我们因此与骑士和十二团众发生冲突的话，后果不堪设想。我们必须小心行事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>“帮助老人家争夺亮闪闪的石头？”希拉维耸了耸肩。“至少我们不用再英格维斯的废墟里折腾。只要能远离麻烦，那么还不算是太糟的主意……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>“趁着迪伍德四分五裂盗取宝石。目的能达成真是太棒了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>“我已经避开了格兰方瑟的侦察兵——几乎是，额，一路逃跑——但要想寻找重兵把守的宝物可不像搜索空墓穴啊。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>埃德尔低声对你说。“也许你该适当夸他几句，和好吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>“的确这是犯罪。没人该为那种事而流血牺牲。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>“你知道的太多了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>“我听说暴民打倒了眼中钉，那家疯人院。我不用亲自出去也能看到，提醒你。总之，这里的景色要好多了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>“说起来，我不认为外面的暴动能给你机会得到宝石……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>“不幸的，倒霉的邻居企业和我们起了争端，雷蒙特。”他搞怪了一下。“恐怕我们暂时得放低身段行事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>“通常，我会要求交换条件。”
+
+“不幸的是，倒霉的邻居企业和我们起了争端，雷蒙特。”他搞怪了一下。“恐怕我们暂时得放低身段行事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>“不幸的，合作共事什么的……对我们来说风险实在太大。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>“也许你得克服……一些心理内疚，但你得完成我交给手下的工作。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>“有利可图的关系对我们双方都是有益的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>他冷笑道。“也许吧。但首先，要先看看你对我们是否真的有用。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>“在这次公爵通灵术听证会上杜门朗家族有什么好处？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>“平衡，公爵被夹在无知的狂热信徒和渴望权力的士兵中间。这就是反抗湾。我们只不过是将看到他们一方势力的壮大。”
+
+他将手指交叉在一起。说“但这并不影响由纷争中榨取的利益。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>“杜门朗家族在通灵术中是什么角色？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>“能和我讲讲听证会的事吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>他笑了，说“我们没有。十二团众说他们是反对，但尽管如此他们还是对废墟进行掳掠，然后把符文和各种装置卖给疯人院。骑士说他们是为了发展，但谁知道他们说的是谁的发展？他们眼里就只有在这儿布拉肯伯里敛财。他们只有为数不多的他们自己通灵项目。”
+
+“我想你也知道我们试图不被牵扯入其中。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>“好在，我不用耐着性子看到最后。我听说和其他的会议也没啥不同——都是喊喊口号却不落实。”
+
+“骑士和十二团众为彼此都不能达成共识的问题而争论不休，但他们忽视了真正的问题——格兰方瑟人侵犯我们的边境，前所未有的难民危机，瓦里安人也打算放弃我们。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>“关于听证会我想问就这些。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>他喝了一大口红酒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>当阿布坎读信函的时候，他好奇的笑消失了，信纸被他捏做一团。他扭曲的嘴唇就像他杯里的紫水晶一样冰冷，黯淡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>他用手指转动着手枪，上下打量着你。说“看来你迷路了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

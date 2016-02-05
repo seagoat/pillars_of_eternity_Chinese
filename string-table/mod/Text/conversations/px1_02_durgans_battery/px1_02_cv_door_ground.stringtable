@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>58</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As you approach the doorway, a wave of essence ripples through the air. The ancient stones grind and groan around you, and a woman's voice echoes from the hall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Stop right there, Aptapo. You're no Pargrun. You must be another merchant, come to speak with Zoltun."
+
+There's a pause in which the woman's wrathful essence gathers like a storm cloud on the other side of the door. The entire room creaks from the pressure of her presence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Stop right there, [Player Race]. You must be some merchant, come to speak with Zoltun."
+
+There's a pause in which the woman's wrathful essence gathers like a storm cloud on the other side of the door. The entire room creaks from the pressure of her presence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I'm just looking around."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I'm here for your famed weapons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Our illustrious coinmaster may let you plunder our armory, but I've got other ideas for dealing with your lot."
+
+Her voice is sharp and loud, like the slamming of a door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I've come to learn the secrets of the White Forge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"A group called the Leaden Key is seeking something here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>A tremor passes through the building. The debris around you rattles and clatters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>The ghosts stir, looking around and shivering. Their eyes widen and glow as they light on you, as if they're noticing you for the first time. 
+
+Just as quickly, they gaze away and seem to forget you once more. But now they seem alert. Wary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Our illustrious coinmaster may let you plunder our armory, but I've got other ideas for dealing with your lot."
+
+Her voice is sharp and loud, like the slamming of a door. As her words echo in the chamber, the ghosts startle and flinch, glancing about in agitation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I'll have our finest steel lodged in your corpse. Will that satisfy you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Lie] "Zoltun invited me. I'm meeting him below."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Lie] "Exandru invited me. I'm meeting him below."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>The ghosts turn their heads and lock eyes with you, shrieking and howling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>The ghosts stir, looking around and shivering. Their eyes widen and glow as they light on you, as if they're noticing you for the first time. 
+
+Just as quickly, they gaze away and seem to forget you once more. But now they seem alert. Wary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>A tremor rumbles through the hall. The growling and grumbling of the stones echoes all around you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"And what, exactly, did he invite you for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Lie] "Business. He's offered weapons, and I've paid him well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Lie] "Worship. I came to pray to Abydon with him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Lie] "Study. I came to learn how Durgan steel is produced, that I might bring the secret to my people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Then give Zoltun my regards. But know that I'll be watching you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Brittle lies crumble easily. At least your corpse will show Zoltun and Exandru their folly."
+
+There's a hiss, a grating noise, and the click of something sliding into place on the other side of the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Go on, then. But know that I'll be watching you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"With Zoltun? The man would never begrime his fine robes with kneeling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Lie] "Surrender. I come from the east, and my people now tremble at your might."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"A spy's words. No one would go to him seeking a truce."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Even he would never allow that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Whoever you're searching for, I haven't seen them. And none get past me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Leave our halls. Go back to whatever land you hail from."
+
+A draft moans through the bottom of the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Fine, I'll go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"No. You will let me pass."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Your halls are full of corpses. I need to know how you died."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Lie] "This Leaden Key group is buying weapons from Zoltun. He snuck them in, thinking you wouldn't find out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"What's going on here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Pargrunen quarrels are no business of yours, outsider." Her tone is as cold as the icy halls around you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"That's just like him, that two-faced weasel! So you say you'll stop this Leaden Key, is that it?"
+
+A gust of air sighs across your feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"You may pass, but don't make me regret this. I'll be watching you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Your foundations were blessed by Abydon himself. What harm could I possibly do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"You sound like Exandru. At least you're no friend of Zoltun's, then."
+
+A gust of air sighs across your feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"I'll be watching."
+
+There's a hiss, a grating noise, and the click of something sliding into place on the other side of the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>The ghosts resume their shuffling and muttering, but they continue to glance at the door, leery and vigilant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I'm Marunn, proud Pargrun and armswarden of Durgan's Battery. And you're answering my questions now." Stone grinds and crumbles at the sound of her voice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"You waste your breath on hollow threats."
+
+There's a hiss, a grating noise, and the click of something sliding into place on the other side of the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"I'll have you carved by Durgan steel, wretch. Then we'll see what the other komendants have to say."
+
+The ghosts turn their heads and lock eyes with you, shrieking and howling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Turn and go before I show you how an armswarden deals with trespassers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Now, let our coinmaster and our chief curate see the true purpose of Durgan steel."
+
+There's a hiss, a grating noise, and the click of something sliding into place on the other side of the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Then I'll see that your corpse shows him the proper use of Durgan steel."
+
+There's a hiss, a grating noise, and the click of something sliding into place on the other side of the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"I think I liked it better when I thought all this haunting business was just villagers' tales."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Her true quarrel is with Zoltun... but she will take it out on you if she can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"It isn't enough we have to deal with angry spirits in this place. Now we have to talk down a paranoid door."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Who's Zoltun? Another door?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Don't look at me, Watcher. Manipulation is your tool, not mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"We're not merchants, exactly. More like plunderers. Raiders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Hm. I don't believe the haunted keep wishes to purchase any of our fine wares."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"I can give advice if you wish. This is not my first talking door."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"I'd pick the lock, but I think she'll notice."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

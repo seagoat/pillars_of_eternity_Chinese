@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>58</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“这位共和国忠实的仆人能为你做什么呢？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“能再次见到你，真的太高兴了！找我有什么事？”</DefaultText>
+      <FemaleText>"Aimica! So good to see you again! What can I do for you?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“希望你这次带来的是好消息。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“能见到你真好。”</DefaultText>
+      <FemaleText>"It's good to see you, aimica."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“帕勒吉娜说我能帮你做点什么。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“你在这里干什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“再会了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>“啊，是的！没错！”他的笑容凝固了。“我听说了梅斯特·维尔扎诺的死讯。虽然令人惋惜，不过就算知道他会遇到什么样的人，他也得明白命运的无常。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>“我遇见了被遗忘者，但是好像和你的计划差了很多。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>“噢？那么说你没学到一点他们的走私伎俩？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>“啊，是的！没错！”他的笑容凝固了。“我听说就是你杀了梅斯特·维尔扎诺。他这么死了还算值得。不过比起杜门朗家族的手段，你给他的了断相比更干净利落吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>“作为瓦里安大使，我的职责在于确保与迪尔伍德之间的贸易关系更加稳固，更加有利可图。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>“当然，当然！我听说了你与杜门朗人作战的事迹——你还能好端端地站在这里。着实令人佩服！有你同行，维尔扎诺太幸运了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>“不过，至于生意嘛。一个自称为被遗忘者、臭名昭著的探险小队最近出了名，靠的是盗走了迪尔伍德境内英格维斯废墟里的圣物，又把它们卖给了瓦里安共和国国内的客人。
+
+“我要派人阻止他们。我想你一定知道贩卖英格维斯圣物在迪尔伍德是明令禁止的。要是知道了共和国显赫的贵族违背公爵的禁令，洗劫了英格维斯废墟，干了这等罪大恶极之事，那很多价值连城的贸易项目就危险了，甚至反抗湾会对瓦里安进行货物禁运。我可不能让这发生。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>“他们最近潜伏在桥区附近，肯定是在准备下一次行动了。我要迅速而不动声色地干掉他们。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>“如果没别的事了，我就回自己的岗位了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>“跟我说说瓦里安共和国吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>“他们的一切都非常富足、宽裕——不论是财富、品位、还是文化。如果你去了共和国，你肯定不想走了。干嘛还要走呢？那儿的人都美丽动人啊。
+
+“我来这是奉songretta ducala之命，但我的任务结束后，我就要坐第一批船出发，一路高歌到瑟罗娜去。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>“我要你加入的原因嘛。你好战的名声……挺响亮的，我要你去对付被遗忘者。也许他们就退缩了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>“我对公爵的怨言数不胜数，但我又能怎样呢？被遗忘者又不是瓦里安公民，就算他们是，他们在共和国内的客人也权高位重，足以把我发配到白征去，永无翻身之日了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>“这就是为什么我来找你，这事你能起到作用。你显然有本事说服别人按你的意思去做，我想让你去处理被遗忘者。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>“这就是为什么我来找你，这事你能起到作用。你显然有本事说服别人，我想让你去处理被遗忘者。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>“你解决了威尔扎诺的事。我希望你也能处理被遗忘者。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>He steeples his fingers. "Trade in Engwithan relics is illegal in Defiance Bay, but the Forgotten are a wily bunch and have never been caught in the act. We've had to tackle this problem in the past - I'd like it dealt with once and for all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"You are very funny, my friend. Someone of your obvious heritage and breeding should already know such things!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"But you didn't come to see me for a civics lesson! You could find that in any Vailian history book!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>“很幸运，我找到了突破口。一个共和国的著名商人，梅斯特·巴尔克孜，也同样对英格威斯遗物有兴趣，派了一个买家去反抗湾和被遗忘者交涉。我安排了铸铁骑士团将买家扣留问话——我大概‘暗示’说买家是个通缉犯”。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>“我需要有人能扮成巴尔克孜的代理，替代买家前往，并打听出被遗忘者们到底是如何经过挑战港进行文物走私的。如果真能打听到此事，那我就可以逐步瓦解其组织，并向他们的买家散布对其不利的谣言。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>“我会考虑的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>“请务必考虑清楚。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>“我可以帮忙。你要我怎么做？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>“何不杀了他们？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>“我会考虑的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>“我可以帮忙。你要我怎么做？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>他宽慰地笑了。“谢谢你。一个共和国的著名商人，梅斯特·巴尔克孜，也同样对英格威斯遗物有兴趣，派了一个买家去反抗湾和被遗忘者交涉。我安排了铸铁骑士团将买家扣留问话——我大概‘暗示’说买家是个通缉犯。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>“我要你去帮这个买家，装作是巴尔克孜派去的，搞清被遗忘者是如何将遗物偷运出反抗湾的。这样，我就能采取行动瓦解他们的运作，让他们在顾客眼里名声扫地。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>“何不直接杀了被遗忘者？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>他摇了摇头。“我能想象街头公告会怎么说:‘瓦里安大使雇佣了刺客！’
+
+“不，那样太冒险了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>“我会考虑的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>“请务必这么做。当然，我相信在这里所说的一切不会传到外面。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>“我对公爵的怨言数不胜数，但我又能怎样呢？被遗忘者又不是瓦里安公民，就算他们是，他们在共和国内的客人也权高位重，足以把我发配到白征去，永无翻身之日了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>“我要你加入的原因嘛。你好战的名声……挺响亮的，我要你去对付被遗忘者。也许他们就退缩了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>“他们最近潜伏在桥区附近，肯定是在准备下一次行动了。我要迅速而不动声色地干掉他们。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>“这就是为什么我来找你，这事你能起到作用。你显然有本事说服别人按你的意思去做，我想让你去处理被遗忘者。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>“这就是为什么我来找你，这事你能起到作用。你显然有本事说服别人，我想让你去处理被遗忘者。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>“你解决了威尔扎诺的事。我希望你也能处理被遗忘者。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>“反抗湾官方对这种走私毫不知情？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>“我敢肯定他们听到了风声，不过如果他们哪怕起了一点疑心，都会先来找我。他们至今未找过我。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>“本来一切顺利，然后他们发现我并不真的是巴尔克孜派去的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>“他们的奥兰朋友来得不是时候，现在他们都死了。付钱吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>“我直接把他们都杀了。这么做更简单。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>“明白了。还好你活下来了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>“我不太明白，可是你说，他们都死了？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>“也许对你来说更简单。至少这件事基本与我无关，我只是要你去获得情报，不是杀了他们。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>他摸着下巴。“我本指望能巧妙地解决这件事，不过事情已经发生了。我不知道后果会怎样。
+
+“不过，那是我的事，与你无关。这些宝石拿去，作为你的报酬。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>“想要禁运，除非先杀了我！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>“我决定帮你处理走私的问题。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>“这些迪伍德人疯了。他们的公爵被谋杀，所以他们几乎烧毁了整个城市？”
+
+他举起双手，望向天花板。“Such sciòderie。等一切都结束了，回到奥西亚多好啊。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

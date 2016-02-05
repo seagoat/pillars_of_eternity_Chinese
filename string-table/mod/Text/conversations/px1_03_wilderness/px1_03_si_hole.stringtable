@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>76</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Cloudy water is visible through a large hole cut through the thick ice. It is larger than a fishing hole - wider than a broadset aumaua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Dive in and search the bottom of the pond.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Specified 0] dives into the water and disappears into the turbulent darkness. The cold steals all warmth, and every movement is a struggle. 
+
+Yet, graced with exceptional resilience and endurance, [Specified 0] manages to swim with ease to the bottom of the pond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Have [Slot 0] dive in.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Have [Slot 1] dive in.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Have [Slot 2] dive in.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Have [Slot 3] dive in.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Have [Slot 4] dive in.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Have [Slot 5] dive in.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You dive into the water. The turbulent darkness engulfs you in an ice cold embrace that leaches all warmth from your body. 
+
+Your limbs start to feel numb but your natural hardiness allows you to swim with ease to the bottom of the pond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You dive into the water. The turbulent darkness engulfs you in an ice cold embrace that leaches all warmth from your body. 
+
+Your limbs start to feel numb. Movement becomes difficult and, soon, next to impossible. 
+
+A spasm runs through your back, jolting you into action. You desperately swim upwards, surging through the water until you make it out of the waters, shivering and exhausted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You dive into the water. The turbulent darkness engulfs you in an ice cold embrace that leaches all warmth from your body. 
+
+Your limbs start to feel numb but your natural resistance to cold lets you swim with ease to the bottom of the pond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>You shake the surprise off and grab another chest. The same results greets you after opening it - more rocks and nothing of value.
+
+Something is assuredly amiss. As proof of your findings, you take one of the empty chests with you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Judging by its location, the hole appears to be at the position marked on the map you found in Ixtli's notebook.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Stirred, the surface of the water laps against the layered ice. You reach out to test the water. It nips at your fingers with every ripple, quickly numbing your hand after a few seconds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>You approach the hole carved on the frozen surface of the pond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Who will dive in?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[You dive.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Inspect the area.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Look through the water to the bottom of the pond.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>You carefully inspect your surroundings. Animal tracks are plentiful, but what appear to be the footprints of kith are also present near the hole.
+
+Looking closer into the hole, you notice a jagged ring of frost adhering to its walls. It has been rebroken, perhaps more than once.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>The waters swirl, silty and nearly opaque.
+
+Focusing, you catch glimpses of the bottom, gradually making shapes out of the blur.
+
+You're convinced that several objects lie at the bottom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The waters swirl, silty and nearly opaque.
+
+You attempt to see through the murk, but can make out nothing in particular.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Consider your options.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You dive into the water. The turbulent darkness engulfs you but its embrace feels almost warm and welcoming. Occasionally, a cold shiver runs through your limbs but the protection offered by the spell lets you swim with ease to the bottom of the pond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Cast Bulwark Against the Elements before diving in.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Who will cast Bulwark Against the Elements?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[You cast Bulwark Against the Elements.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Have [Slot 0] cast Bulwark Against the Elements.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Have [Slot 1] cast Bulwark Against the Elements.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Have [Slot 2] cast Bulwark Against the Elements.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Have [Slot 3] cast Bulwark Against the Elements.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Have [Slot 4] cast Bulwark Against the Elements.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Have [Slot 5] cast Bulwark Against the Elements.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Do not cast Bulwark Against the Elements.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>You begin to draw energy out of the ether, funneling it into your grimoire, until you feel the power flood outward from it, bathing you in a protective aura.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Specified 0] begins to draw energy out of the ether and into a grimoire. There is a sudden flash of light from the open page, and you are bathed in a protective aura.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Specified 0] dives into the water and disappears into the turbulent darkness. Its embrace, however, feels lukewarm and almost welcoming. 
+
+Protected by the spell, [Specified 0] manages to swim with ease to the bottom of the pond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Specified 0] dives into the water and disappears into the turbulent darkness. The cold steals all warmth, and every movement is a struggle. 
+
+Yet, graced with natural resistance against freezing temperatures [Specified 0] manages to swim with ease to the bottom of the pond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Specified 0] dives into the water and disappears under its turbulent darkness. The cold steals all warmth, every movement is a struggle and, soon, next to impossible. 
+
+A spasm jolts your companion into action. [Specified 0] desperately swims upwards, surging through the water and emerging out of it shivering and exhausted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>You dip your hand into the water. You can feel its ripples climbing up your skin but you notice no change in temperature, as if the water itself had become lukewarm.
+
+The cold, it seems, is no longer a threat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>You let a few minutes pass to recover from the ordeal, and then you're ready to inspect your findings. 
+
+The chests are marked with symbols of Ondra. You grab one of them and pry its lid open to reveal its contents. Inside, all you see are rocks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>After the failed attempt, you take a moment to consider your options. Only extreme resilience against the cold will allow you to have enough time to search for objects at the bottom of the lake.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Directly below the hole, at the very bottom, your hands find heavy objects made of wood and metal. 
+
+They are chests, small but heavy. You start to bring them up to the surface, one by one, struggling to carry their weight through the water. 
+
+After a heroic effort, you come out of the frozen pond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Directly below the hole, at the very bottom, [Specified 0]'s hands find heavy objects made of wood and metal. 
+
+They are chests, small but heavy. [Specified 0] starts to bring them up to the surface, one by one, struggling to carry their weight through the water. 
+
+After a heroic effort, [Specified 0] comes out of the frozen pond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Considering how to best deal with the situation, you step back and look at the hole on the frozen pond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>You shake the surprise off and grab another chest. This time, upon opening it, you see a finely crafted set of armor and find, buried under the garments, a silver medallion encrusted with brilliant gems.
+
+You recognize these items as Okrun's heirlooms. However, the other chests, full of rocks, suggest something peculiar is afoot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Read Ixtli's notes.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Ixtli's notebook contains underlined notes. They read:
+
+"Notoc Tlocotl,  formalities first, of course, and she'll come up."
+
+"Cualla Micha, she's a good girl and likes to hear it before she swims down."
+
+"Xitlac Cualla, just make sure she likes the fish for a job well done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Read from Ixtli's Notebook, "Cualla Micha."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Read from Ixtli's Notebook, "Xitlac Cualla."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Shoo the lagufaeth away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Threaten the lagufaeth.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Read from Ixtli's Notebook, "Notoc Tlocotl."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Moments after you utter the words, bubbles rise from the depths. A shadow appears under them, growing larger, until the surface of the water breaks in a great splash.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>The lagufaeth cocks its grotesque head to the side, focusing on you with one eye. Its nostrils suddenly flare open. 
+
+The creature inhales the cold air with a hissing sound before diving down to disappear under the water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Only the occasional bubble rising to the surface indicates that the lagufaeth still swims deep under frozen pond. A long minute passes by. The cloudy waters seem to stir, and a dark form again grows under the hole.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>A bulky shape emerges, spilling a wave of water out into the ice. It's a chest. Under it, hoisting it upward, the lagufaeth flashes rows of teeth in what might be a smile.
+
+The creature pushes the chest to the side and dives down again. The process repeats until several chests, all identical, lie next to the hole.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>The lagufaeth breathes hard through widened nostrils. It turns its head to the side to stare at you. 
+
+A new smile seems to form, one of anticipation, and the lagufaeth follows it by opening its mouth in your direction.
+
+"Cah... llah."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Its eyes bulge out of their sockets in excitement. With its mouth opened wide, the creature tries to repeat the words between quick glances at you.
+
+"Cah llah. Cah llah."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[Feed some fish to the lagufaeth.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>You grab a good portion of your stashed fish and toss it into the creature's mouth. It snaps its jaws and then swallows it all in one gulp. It narrows its eyes in satisfaction and exhales a rancid breath.
+
+The lagufaeth cocks its head to the side. It bears its teeth, chunks of fish dangling, before slipping back down into the icy water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>You switch your attention to the chests that lie about the cut on the ice. They bear Ondra's symbols. You grab one of them and pry its lid open to reveal its contents. Inside, all you see are rocks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>You shoo at the lagufaeth and dismiss it with your hand. It pulls away from you, snapping its jaws but not daring to bite. 
+
+The creature narrows its eyes, casting you a resentful glare before diving back into the water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>You shout and shake your fist at the lagufaeth.It pulls away from you, snapping its jaws but not daring to bite.
+
+The creature narrows its eyes, casting you a hateful glare before diving back into the water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>You utter the words and wait. Nothing happens. You return your attention to the Giftbearer's notes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>The creature jerks its head to the side and its eyes bulge out of their sockets in excitement.
+
+With its mouth opened wide, the creature tries to repeat the words.
+
+"Cah llah. Cah llah."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>You utter the words and wait. Nothing happens. You return your attention to the Giftbearer's notes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>You grab a good portion of your stashed fish and toss it into the creature's mouth. It snaps its jaws and then swallows it all in one gulp. It narrows its eyes in satisfaction and exhales a rancid breath.
+
+The lagufaeth cocks its head to the side. Its lips curve in a snickering grin. You get the sense of having lost in the bargain. The creature slips again into the icy water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>As you turn to leave, the lagufaeth snaps its jaws and lets out a guttural cry. 
+
+It begins to sink its head under the water, eyes narrowed and fixed on you. You sense you may be failing its expectations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>You shoo the lagufaeth, dismissing it with your hand. It pulls away from you, snapping its jaws but not daring to bite. 
+
+The creature narrows its eyes, casting you a hateful glare before diving back into the water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[Attempt to deal with the lagufaeth.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>The creature blows through its nostrils and gives you a resentful glare before diving back into the depths of the waters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>A scaly creature stares at you from the hole with bulging eyes and opens its mouth wide. Words form with difficulty between rows of sharp teeth.
+
+"Tah... caht."
+
+The young lagufaeth, seemingly unafraid of your presence, tilts its head and continues to stare as if waiting for something.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

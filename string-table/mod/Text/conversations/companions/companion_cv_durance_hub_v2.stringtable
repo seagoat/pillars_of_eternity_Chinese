@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>132</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“现在你有什么烦恼？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“哈。我怀疑这些答案会制造出更多的问题。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“似乎你并不担心我劳心费神。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“如果怀疑和好奇困扰着你，那么你是在错误的门前擦伤了指节。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“如果我能使你恢复，同样你也消除了我的困扰……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“我们了解的有关沃伊迪卡的事困扰你了吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“我认为马格兰曾与沃伊迪卡结盟。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“我认为马格兰想要杀你。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>“我看到了一些奇怪的东西。你坐在火堆旁时，我看到你的权杖发出了巨大的光芒。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>“为什么我们应该见面？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>“告诉我关于马格兰的事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>“我想了解这一地区和它的历史。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>“跟我说说神锤。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>“所以你构造了神锤？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>“我想了解你更多的事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>“你觉得空心种和神锤有没有什么联系？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>“你能告诉我有关空心种的事吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>“你了解迪伍德以及周边国家的事吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>“告诉我关于圣者之战的事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>“什么是神锤？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>“我想了解更多关于冷血救赎的事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>迪兰斯皱皱眉。“伊奥萨斯是重生之神。他的光芒并未降临迪伍德。我听说过一些关于他的行为和死亡的传言……大厅对于新的灵魂是关闭的。
+
+我对此感到怀疑，空心种的根源就存在于男人和女人的言行中，我能感觉到。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>“这是个更深的诅咒。”迪兰斯的声音变得痛苦。“这是一种不同的神锤，与原神锤一样，来自人类的双手。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>“一切皆有价值。放任不管，背信弃义，美德……都在灵魂里留下印记。直到灵魂无法再进入纯净的身体内。
+
+通灵师……咒术师……所有搞编织灵把戏的人都要为他们所留下的贫瘠土地受到指责。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>迪兰斯盯着你。“甚至守望者也同样能做到这一点。一些人只是简单地守望……另一些则试着编织灵魂，引导他们就像怀德温穿过依凡德尔桥。”
+
+他转过身。“这就是为什么我在发现他们时纠正了空心种。以及那些手指着洒在地上的种子的人。”
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>“纠正空心种？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>“那是少数一些灵魂。有更多的化身。就相当于这一过程。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>“这是杀戮。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>“终结他们对你来说无所谓吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>迪兰斯冷哼一声。“我比放倒一只猎犬还要悔恨。Wicht？在痛苦上低于杂种狗。
+
+谋杀是善举，不是暴行，一向如此。我宁愿把刀尖指向那些有罪的人。如果有谁该受到惩罚，那是他们的事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>“谁有罪？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>“迪伍德大陆充满了弱点，对于那些操纵灵魂和心灵的人来说时机已然成熟……”他的脸上泛起皱纹。“通灵师和他们的同类。守望者，也是如此。他们比牺牲者承受了更大的负担和更多的惩罚。
+
+每一年都会出现新的罪行……圣者之战，空心种……以及冷血救赎。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>“没有证据证明这些事件归咎于守望者。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>“很少有人能以这种方式塑造灵魂。”迪兰斯盯着你。“并且任何守望者，任何生在迪伍德的真正的守望者，都能够目睹罪行尽管他们没有参与其中。沉默本身就该受到谴责。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>“那你为什么不杀了我？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>迪兰斯冷笑道。“杀了你？我不会赐予你任何我对空心种的怜悯。你不值得我如此做。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>“你把杀戮看做怜悯？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>迪兰斯嘲笑道。“杀戮是个古老的词汇——怜悯的意思是让一个灵魂自由地飞到下一个躯体中。”迪兰斯双手紧握权杖，口中抑扬顿挫。“破坏他们的心智就像用权杖击碎他们的颅骨……
+
+打倒他们，在身心上伤害他们，所以他们的灵魂化为碎片……但你就像把它像一袋碎玻璃一样留在他们体内，于是他们要么因此窒息，要么流着血把它排出来。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>“然后……”他做了一个关闭的手势，然后满意地笑了。“……把它留在身体内。就像在一片新土地上种下了正确的种子。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>“听起来好像你已经把它留在了记忆中。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>迪兰斯忧郁起来，陈述道。“我可以在你身体上留下很多印记，但火焰留下的痕迹无法治愈。
+
+马格兰的教义规定，真正的惩罚便是在记忆中留下一个火焰痕迹。在记忆中，在灵魂中，也在肉体上。
+
+甚至当这些受害者或缓慢或迅速地死去……有时甚至是自取灭亡……这一教训仍然存在，在他们的肉体上燃烧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>“这是迪兰斯教义的一部分吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>“这似乎很苛刻。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>“这在一定程度上是公正的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>“这不是他的……”迪兰斯皱着眉。“这值得去接受，而不是将它放入轮回或者让一个灵魂的罪行继续存在并找到新的归宿。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>“你曾看到有人被火焰打上烙印吗？他总是记得这件事——每时每刻。这是用油墨写在羊皮之上的有价值的教训——血与肉。
+
+同样也可以燃烧灵魂。这是种艺术，我并不喜欢，但这比宽恕更危险。
+
+很多伊奥萨斯的信徒在圣者之战随后的异教徒除秽运动中受到惩罚……同时那些伤害过孩子的人们，遭受了更严重的惩罚。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>“你是什么意思？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>迪兰斯的脸沉了下来，双手紧握权杖。“我们做了必须做的事。无论他们在哪里，被根除后灵魂也会重生。
+
+如果它们不会重生，我们便会确保它们永远不会出现在另一躯体内。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>“迪伍德是其中最好的那个，仍然保有精神，如果每个大陆都有的话。在那里人们言行自由——甚至可以另辟蹊径，这在世界上是很少见的。
+
+然而它的后代却是……该死的，所以没有新的脚步可以终结它。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>“你是说空心种吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>“是的。无论沃伊迪卡对后代……对思想做了什么，我认为这都仅仅牵扯了男人和女人，而不是他们的神……利用孩子作为撬动顽固的政治之门的杠杆。
+
+就好像众神应该凌驾在这之上。逗我呢。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>“是的。伊奥萨斯在他被终结后最后一次尝试复仇。”
+
+迪兰斯皱着眉。“伊奥萨斯是重生之神。他的光芒并未降临迪伍德。我听说过一些关于他的行为和死亡的传言……大厅对于新的灵魂是关闭的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>他嘲笑道。“我假设问题源于男人和女人，以及被他们驱动的国家，总是在循环……若有若无。瓦里安共和国，雷德塞拉斯……圣者之战……一个巨大的螺旋形刀刃，撕碎周围的一切。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>他嘲笑道。“我不相信。这问题比那更为接近，像往常一样，牵扯到男人和女人。他们总是在循环……若有若无。瓦里安共和国，雷德塞拉斯……圣者之战……一个巨大的螺旋形刀刃，撕碎周围的一切。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>“你对瓦里安共和国有何看法？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>迪兰斯冷哼一声。“穿着公装的淘金者。操纵者。贸易商和叛徒，组成了一切。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>“管好你的嘴，神职者。我来自共和国。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>“我来自共和国。有什么问题吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>“别太在意这些。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>“对于雷德塞拉斯呢？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>“无法继续忍受？不怪你。”他带着若隐若现的笑容盯着你。“你看起来比大部分人都要谦逊——注重仪表的国家的人会在眼睛上方系上丝巾。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>“你认为共和国造成了迪伍德的损害？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>“迪伍德人最好保持警惕，否则一旦交易条款生效他们便会沦为奴隶。
+
+迪伍德及其国内的财富太诱人了……”迪兰斯压低声音。“尤其是当有人驯服了这个国家以及他们的画像师时。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>迪兰斯咕哝道。“注重仪表的国家的人会在眼睛上方系上丝巾。保持警惕，否则一旦交易条款生效他们便会使你沦为奴隶。迪伍德及其国内的财富太诱人了……尤其是当有人驯服了这个国家以及他们的画像师时。”
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>“画像师？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>迪兰斯轻蔑地摆摆手。“部落。格兰方瑟。像苍蝇一样聚集在废墟周围。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>迪兰斯面色红润……额头上的汗水闪闪发光。“太多的词汇形容这个所谓的国家……社会动荡，经济崩溃，一切都是易燃的，只需加一点合适的火花。一些农民现身，称自己为神的化身，然后把王冠戴在头上。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>“他尝试建立的就是这样的‘神圣王国’？就像你期待的那样。”一滴汗在迪兰斯的脸上淌过，落在他的胡须上。“突然，异教徒的人数增长了大约一半，然后伊奥萨斯开始用他那血迹斑斑的双眼审视着他发现的每一个亵渎者。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>“清理房间是一种方式……”他的脸色阴了下来，眯起了眼睛。“清洗是另一种。让那些人和他们的神去他们该去的地方，尽管也有足够的能力毁灭这个该死的国家。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>“并不是雷德塞拉斯的国家的拥护者？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>“那不是个国家，而是一帮懦夫。艾迪尔的木偶。
+
+他们曾经乐观而聪明……”迪兰斯哈哈大笑，像是说着什么笑话。“这便是他们失败的原因。本该接受他们的不幸而不是让一个农民带他们走向……更加辉煌的毁灭。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>“差不多算是伊奥萨斯的宠物了，了解这一切吧，他们就是他的牵线木偶……除非他们的神祗降临，否则他们是不会在战场上有任何成绩的，圣者之战……”迪兰斯哼了一声，“需要有神祗相助才有机会。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>迪兰斯的眉毛皱在一起，然后咕哝道。“忘掉你从未踏入过迪伍德的土地……圣者之战。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>“不是场战争。而是神的脚步。雷德塞拉斯的国家以及他们所有的异教徒……”迪兰斯低声咆哮。“他们正为此付出代价。尽管据我推算，大火本该更加暴力地席卷他们的国家，燃烧掉所有的灵魂。
+
+真相是——这并不算一场战争，而是一个警示性的故事，关于骄傲——特别是怀德温的骄傲。他本该继续做个农民。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>“发生了什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>“大概是……十五，十六年前……2807？”迪兰斯停顿了一下，然后摇摇头耸耸肩。“我的记忆力退步了。我记不住时间了，只记得事件和起因。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>“那场‘战争’是一个傲慢的行动，直接源自雷德塞拉斯抽搐的大腿。一个认为自己不是普通人的普通人。”迪兰斯冷哼一声。“想要杀人？告诉他他是一位神灵的发言人。
+
+然后告诉他他将领导一切。使得他能够领导每一支军队。军队就像你对雷德塞拉斯期望的那样强大，也像这个国家成立之初那样虚弱——但他们需要的就是一场战争。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>“国家出了什么问题？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>“雷德塞拉斯有了麻烦。那是它应得的。它应该报答怀德温，他是引导他们走向火焰的光芒。
+
+雷德塞拉斯逐渐衰落，艾迪尔的毒药已经腐蚀了它的脉络。经济瓦解，信仰倒塌……”迪兰斯皱着眉。“……然后怀德温，那个农民，宣称自己是伊奥萨斯的化身，给他们带来了最坏的结果。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>“然后发生了什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>“他们拥戴他。”迪兰斯轻拍脑袋，微微鞠躬，当他转向你时，脸上挂着一个野性的微笑。“他们拥戴他成为了国王，最糟糕的一种亵渎。
+
+他戴上王冠的那一刻便真正成为了神的化身——为什么，他身上发生了变化，神圣的变化。”迪兰斯的眼睛闪烁着。
+
+“然后他决定改变我们。拯救我们。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>“他是怎么做的？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>“他为了解放我们继续向迪伍德前进。解放我们的信仰，就像他在雷德塞拉斯解放其他灵魂。
+
+科德穆恩没有抵抗缴械投降，于是从中幸免。”迪兰斯低声咆哮道。“真正的杀戮发生于他洗劫仁慈谷时。非常具有讽刺意味。将它带入火焰之中。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>“科德穆恩？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>“伊奥萨斯后来做了什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>迪兰斯啐道。“懦夫，‘科德穆恩’就是他们一个恰当的称谓。当他们的同伴燃烧时，他们一动不动地躺着，结冻。他们总有一天会为这样的懦弱付出代价。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>“伊奥萨斯继续前行。迪伍德人占据着树木，切断了他的侧翼，他的侦查员，他的军队。似乎是毫无希望了。”迪兰斯的脸阴沉下来，然后微微一笑。“直到海哥特要塞中神锤的出现。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>“这里，我们用火烧他。把他身体里的神烧出来，如果那里真有一个神的话。”
+
+“有很多勇敢的男女被带到桥上。站在那里。然后我们用圣锤之火净化他们。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>“这是迪伍德人的武器。他们的独立精神。”
+
+“没人否认伊奥萨斯越界了。神锤提醒伊奥萨斯这一点。一道如此惊人如此明亮的烈焰和力量，足以烧走神灵。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>“神占据了肉体，从各方面来说，占据了自愿和不自愿的容器。这不是侵犯，只是神的行为。只要他们接受一切带来的结果。”
+
+“人类很虚弱。神……好吧，我们给老怀德温展示了他们不过是血和肉，不管从他的农民之手中发射出了多少光芒。”
+
+“用有信仰之人建造一件武器。一把神锤。审判。证明他在海哥特堡垒死去了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>迪兰斯握住他的法杖，他的手紧紧锁住，描摹着铜版画。在你看的时候，他的法杖顶部绽放开来，明亮地燃烧，迪兰斯说话了，他的脸被火照亮。
+
+“一把会比伊奥萨斯还要明亮的武器。我们把他领到那里然后在火刑柱上烧他。”
+
+“火刑柱就是神锤，我们把他钉死在上面。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>“谁造就它的？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>“你说谁造就它的？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>“这个国家做的，是的，带着信仰做的。我们再也不要忍受了。我们不需要容器里的一个伪装者……我们又准备了另一个容器，然后让它飞。
+
+“这只激起了人们的人们的嘲讽……那足够引诱他穿过桥，进入新太阳。
+
+“这让雷德塞拉斯看到了他们的傲慢变得多明亮……成为了我们对除秽运动的回答。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>迪兰斯点了点头。“并不简单，塑造它，打造它。那些碎片，圣物的弧线……即使那时，那也是个庞然大物，需要一个神到那里去的东西，而不是被扔向他。”
+
+“然而把他引诱向它？那是很简单的一部分。神都很高傲。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>“发生了什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>“我们引他走向田野。也许他能记起自己是个农民。就在海哥特堡垒外的田野。”迪兰斯皱了皱眉。“现在是神锤堡垒了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>“它就在伊凡德尔桥的正对面，一次很简单的旅程……”迪兰斯皱了皱眉。“人们死了，然后更多的人死在引诱伊奥萨斯上桥的路上。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>“我们在桥上雕刻出纹理和通路，挖空根基，填满火药和易燃的谷物。我们的手甚至还撬松灰泥和石头，把他们磨成尖的这样他们就能更容易被从基础上撕裂-然后刺穿那个伪装者的身体。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>“所以你用伊凡德尔桥对抗伊奥萨斯。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>“我们心怀信仰向它的地基倾倒神锤，点燃他们，让锤降临-向上直到铁砧。
+
+“在神锤落下之前死了八个，然后神锤收下了剩下的，有一打那么多。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>“然后伊奥萨斯就回归以太了。或是坟墓。”迪兰斯皱了皱眉。“他失去了他的声音和他对战争的热爱，我只能告诉你这么多。”
+
+他冷笑一声。“这只被人们嘲笑……但那已经足够把他引过桥去了，引向我们的新太阳。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>迪兰斯伸直后背，深吸一口气。“这让雷德塞拉斯看到了他们的傲慢变得多明亮……成为了我们对除秽运动的回答。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>“除秽运动？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>迪兰斯变得严肃。“我们开始让伊奥萨斯信徒拯救自己。烧死一切没有和他们的神一起死去的人。”
+
+“雷德塞拉斯的异端信仰是一回事……在迪伍德这里的异端信仰是更加……私人的一件事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>“看上去公正。一个受伤的敌人仍然是危险的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>“所以你用自己帮他们赎清了罪恶？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>“如果你跟一个敌人战斗了很久，你就变成了他们。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>“为什么是除秽运动？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>“在我看来，每个生活在迪伍德的伊奥萨斯信徒是我们国家的威胁，是另一把举在我们信仰咽喉的匕首。”
+
+“把他们连根铲除，烧了他们，或者把他们送回雷德塞拉斯去吞咽他们失败的鲜血。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>“通灵师想要把动物的灵魂放到小孩的身体里那会儿？”迪兰斯咆哮道，“这就是他们越界的证据。
+
+“怀德温或许曾经弑神过，但是把动物的灵魂放到小孩的身体里面……？”迪兰斯摇了摇脑袋，“通灵术简直就是丧心病狂。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>“比这还要糟糕，这件事情发现得太晚了，我听说过早期的传闻，奥兰人……”他可怜地笑了笑，然后不屑地说，“……就像他们以往的风格一样，动物体内寄宿着动物的灵魂以及疯狂。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>“如果我是你我说到奥兰人的时候会注意点。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>“你看到发生了什么吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>“首先是个女人。可能只是被记录做由于女性的虚弱。然后是猫人。他们可能是被记录做由于是动物。”他的手握紧了法杖。“然后越来越多……而且越来越多灵魂死在他们的爪子下。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>迪兰斯的目光更坚定了，“只要能将他们关起来，让那些孩子完成他们的复仇，我愿意付出任何代价。
+
+“我根本无法想象他们承受了怎么样的折磨。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>迪兰斯瞥了你一眼，哼了一声。“喔……奥兰人生气了，好怕怕。
+
+“你是赶上好时候了，要是在奴隶制鼎盛之时，你们也不过是个满脚都是屎的贵族的脚垫或者卧垫罢了。”迪兰斯冷笑了一下。 “那些日子可能还会回来的——毕竟，这是你们应得的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>“应得的？你这话什么意思？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>“听起来好像某些人也想要享受同样的待遇。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>“跟人类一样，说大话，不讲理。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>“忘了它吧。告诉我你在冷血救赎看到的事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>迪兰斯惊讶地看着你。“你们太弱了，连自己都保护不了。你刚接受了考验，但是还没完，你还不够强大。奥兰人，战争可不等人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>他皱着眉头，好像在思考。“一个奥兰族守望者……可能把你玩儿够了，你才有点儿希望。但是咱们走着瞧，是吧？起码我会……也不知道你的眼睛是不是会太过于注意前方的路，你自己的失败怨不得我。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>迪兰斯改变了一下重心，眼睛微微眯起。“你可以试试，然后我会像那些贵族一样在你身上擦鞋底。要怪就怪你们自己……你们太弱了，连自己都保护不了。
+
+“你刚接受了考验，但是还没完，你还不够强大。奥兰人，战争可不等人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>“人类，这就过分了。”迪兰斯动了动身，眼中发出了一道精光，“虽说你是我们的膝下之臣，但至少我们人类是用我们的双脚前行的，而你……奥兰，这都是你的错……是你太弱了。
+
+“你的测试还没有结束，”迪兰斯耸了耸肩，“奥兰，战争可不会等你去了解。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>亚禄随意路过你附近，轻声抱怨着。“当然你知道现在这是要去哪了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>“一个‘虚弱’的女人带你从轮回进入这个世界，postenago。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>“哦，我们现在是‘猫人’了？我猜我可以直接把迪兰斯的坏脾气从肚脐里抽出来……我猜那又会把我们写成野兽咯？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>“让我们继续前进。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>“我问问别的事情吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>“我又有另一个视野给你了。一个在你法杖上的符号-它正在死去。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>迪兰斯咕哝了几声。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

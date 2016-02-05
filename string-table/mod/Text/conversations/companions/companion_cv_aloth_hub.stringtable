@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>87</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>亚禄默默地注视着你：“想要我怎么帮忙？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“跟我说说艾迪尔吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>他吃惊地望着你：“你连家乡都忘了？看来，这儿的琐事一定让你忙得晕头转向了吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“我已经走了一年了，但我觉得家乡艾迪尔的田野森林一直在我心头萦绕。我们那个地方有着几千年的历史和文化传统，这让我们有着对家乡的自豪感和责任感。”
+
+他皱眉说道：“当然了，还有这个行李。你可能已经注意到了，很多人都对我们壮丽的历史记忆犹新。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“我想多了解一些伊瑟米尔的事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>他抬起半边眉毛：“例如？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“我能直接跟她说吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“她什么时候觉醒？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>“你说过，你在很久以前将她藏了起来。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>“她第一次出现后，我母亲便教我将她藏起来。她担心我的觉醒会让我成为无家可归的人。”
+
+“虽然伊瑟米尔在对抗我父亲方面很有效，但是我信任我母亲的建议，我也渐渐理解那些建议背后的智慧。梅沃德是一个极端例子，但在以后的每一年里我跟它的联系却越来越紧了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>“我父亲是个严厉的人。他对自己的独子有着完美的期望，绝不允许孩子失败。”他的面色变得憔悴。
+
+“他有时也很……固执，尤其是在他喝酒的时候。有一次，伊瑟米尔就在那样的情况下出现了。说真的，我记不清具体细节了。但是我记得，从那以后他对我就更加小心了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>“挺难适应迪伍德吧？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>“这里的人们很随性自由，热血方刚。”他歪着嘴笑：“相比职责，他们更关注侮辱。但只要不挑事，还是很好相处的。”
+
+他将两手的指尖对齐：“总之，我已经习惯了掩盖自己内心的想法。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>“你在镀金溪谷呆了多久了？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>他耸耸肩，摆弄他的袖口：“比你久不了多少。你也看到了，之前宣传的时候说是个避风港，其实不然。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>“那么，你现在对伊瑟米尔了解的更多了吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>他皱了皱鼻子：“并不是因为那个通灵师。我的怒气？黑色胆汁？拜托。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>“Bellasege的方法虽不完美，但你也学到了些东西，不是吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>“像她那样的人不该修炼通灵术的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>“但那便是这个地方的症结所在。完全基于推测和试验。没人能阻止一群庸医压榨无知的民众。你给人们看看你手里亮晶晶的‘专家证’，他们就会相信你说的所有话。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>“没必要。大多人不会傻到那种程度。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>“千真万确。人们很容易被牵着鼻子走。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>“也许，通灵术有其利处，但很难说，利能否压过弊。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>“你为什么想要Bellasege的笔记？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>他斜着瞥了你一眼：“就像我之前说的，我不喜欢她窥探别人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>“关于你的父母……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>“那只是因为你我还有一丝理智。但普通民众呢？你给人们看看你手里亮晶晶的‘专家证’，他们就会相信你说的所有话。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>“我不知道。我想你如果能控制好自己的脾气，你会更开心的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>他抬起半边眉毛：“在你目睹了一切后，你还相信吗？那可真好啊。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>“是的。人们需要信仰，需要一位可以追随的人。而追随通灵师的危险就在于，他们自己都不清楚前进的方向。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>“那太分散了。没人负责检查，没有统一的规定，没有统一的指导。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>“将强大的权力仅赋予一个权力机构是最好的做法。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>“是的，你需要找人规范通灵术的实施。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>他抬起半边眉毛：“那虽不是完美的解决方案，但是比我们现在面临的混乱要好得多。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>“的确如此。实施者们不会自己做的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>他嘲笑道：“哦，真搞笑。我们应该让她见见你。我很好奇她会移去什么东西。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>他谨慎地看着你：“是吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>“为什么你母亲不常在家？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>“看来，你父亲脾气不大好啊。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>“虽然父亲最开始同意了那个安排，但他并不满意。只要我母亲在家，他就会不停地唠叨我母亲。他想弄清楚，我母亲跟那个精英是否关系不一般，虽然母亲无数次地发誓自己是清白的，可我父亲还是不肯罢休。”
+
+“你可以想象到，虽然我母亲依然承担着家庭的经济责任，可她却不经常回来了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>“haemneg是什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>“人与精灵之间的联姻。由于历史原因，两个种族各占了艾迪尔大陆的一部分，我们有很多制度专门负责两者关系的正常化。我们的君主体制由人掌权，而精灵配偶则负责管理。这就是haemneg的显著例子。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>“很多情况下，haemneg允许两家将资源集中。在贵族阶层，haemneg也可以用于巩固权力。有些时候，像我母亲的这种例子，一个贵族可以借haemneg为他或她的家庭增添一名行政官。配偶得到的尊重与他们的贵族伴侣不相上下，这一点特别有用。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>“当然，haemnegs有时也用来解决婚外情。”他耸耸肩:“我不知道那是不是真的有益处，但那似乎符合人们对体面的普遍概念。精灵与人的结合是圣洁的，这无疑能缓解了一些担忧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>“他不满意我母亲的haemnegs。虽然很久以前他们俩便同意了这件事，毕竟haemneg可以带来可观的经济利益，而且跟我父亲给伯爵当管家相比，haemnegs也没什么不同，可是父亲依然很闹心。于是他便整日酗酒，乱发脾气。母亲在家时，他就对她发火，母亲不在家时，他就把气撒在我身上。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>“他特别希望我能成为一名奥术骑士，为他的伯爵效力。他觉得这样我就可以完成他想从事的职业。他……是个很固执的人，你也看得出来，不过最终我还是成为了一名出色的巫师，当然了，父亲的严格教导也是功不可没。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>“才不是呢。你的成就来自你自己，如果他不强迫你，你可能会更好。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>“假设的事情很难判断，可有时压力会成为一种动力。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>“我就是那样想的。此刻我可以轻松地说，能学到那些技能，就算遇到些挑战也是值得的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>“你确定吗？我不知道我从我的人生里都学到了什么。但我能确定的是，如果没有方向，我就不会那么专注了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>“我相信她在以自己的方式关心你。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>“她本不该那样抛弃你的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>他昂起头：“我从不认为那是抛弃。她有重要的责任在身，她需要管理精英领主的土地，履行她的职责。虽然她离开了，但她却让我们吃穿不愁。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>“我相信是那样的。她有重要的责任在身，她需要管理精英领主的土地，履行她的职责。虽然她离开了，但她却让我们吃穿不愁。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>“那就是我真正想知道的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>他看起来有一丝解脱：“非常好。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>“你到底是如何加入铅制之钥的？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>“那是少不更事的时候，年轻的我没有什么方向。铅制之钥向我承诺，会弥补一些我正缺少的东西，他们愿意帮我，让我以后不再为我父亲的伯爵工作。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>“你已经掌控住了伊瑟米尔。你感觉有什么不同吗?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>“那么说来……你已经跟伊瑟米尔和平相处了？那是一种什么感觉？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>“比我预想中的更放松，我原以为她的加入只会导致种子的释放，但是现在我已经不再排斥她了，她也一样。”
+
+他叹了一口气，“你说的没错，从她身上，我能学到好多东西。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>“就是……更平静了，感到很满足。其实挺奇怪的，我跟她斗争了这么久，狠狠地打击她的入侵，但却没能真的阻止她。我习惯于果断行动，我也不相信我的力量可以压过一个能侵入我思想的人。”
+
+他悠悠地微笑：“虽然我发现我错了，但我却很开心。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>“我明白了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>“期盼有天我能回来，虽然归期不定。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>他紧皱着眉头：“她的……入侵让我很不舒服。我还没那么急切地想邀请她进入我的意识里。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>“我们换个话题吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>“没错。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>“我小的时候，她受邀跟一个有房有地的精英结成haemneg。那人住在希伍德，从我们家到那里有五天的车程，而且希伍德也是他名下的一部分家产。”
+
+他微微皱起眉头：“不过，真正的问题出在我父亲身上。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>“虽然我更喜欢用我自己的声音说话，不过其余的部分都显示了她的存在，现在也是。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>“我下一步该做什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>“恩，你就是这里的负责人。在我看来，任何地方都比镀金溪谷好。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>他看向埃德尔：“无意冒犯。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>“通灵术在艾迪尔，可能比在这儿更具争议。通灵术在六百年前就被定为非法行为，但是禁忌之物总能引发好奇心。”
+
+“在这儿，还有在瓦里安共和国，通灵术都获得了成功，民众也相对能接受他们，这激起了艾迪尔的新兴趣。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>“铅制之钥的招募工作也更加积极，当我的一位导师联系我时，我的训练正好进入最终阶段。”
+
+他耸耸肩：“我说过了，我很高兴摆脱父亲对我的安排。在我看见一些同事放弃了魔法，而去共和国追求通灵术之后，我深信必须做点什么阻止这种趋势。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>他扯了扯衣袖：“梅沃德催促你找出铅制之钥在反抗湾的代理人，是吗？如果他的……情况很危险，我们会尽快找到他们的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>他面露痛苦：“我们知道会遇到什么。让我们解决掉陶斯，已绝后患吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>“陶斯已先我们一步。如果我们想在荫日之地追上他，就得加快步伐了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>“看来这个责任应该由陶斯和铅制之钥承担。”他捋了捋袍子：“我们必须弄清楚他们在搞什么鬼。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>他嘴角抽动，皱起眉头：“你在找铅制之钥，是吗？如果我是你，我会很想弄清楚他们在追什么。”他眯起眼睛：“我觉得寺僧的领导者是最有帮助的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>“就这些。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>他回头看向柱子：“就算你现在将这些灵魂送到某个地方去，但谁又能知道下次轮回会把它们怎么样呢？我们真的无法控制它们会遭遇什么，[Player Name]。我们也不该尝试去控制。我必须看到怪物陶斯已经意识到了那一点。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>他回头看向柱子：“这已经超出我们的能力范围了，[Player Name]。上帝生而仁慈。像这样的力量是一种沉重的负担——你看看陶斯都被逼成什么样了。”
+
+他抬起眼看着你：“也许他向法治之神沃伊迪卡屈服是对的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>他看着巨大的阿德拉之柱：“太壮观了。虽然我一直知道铅制之钥代表着某个庞大的东西，但我完全没意识到自己踏入了什么地方。”
+
+“而现在，你身处某个更加庞大的东西里。一个决定就能影响千万人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>“也许是的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>“陶斯是错的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>“当然了，那是你的决定。不管你做了怎样的决定，我都很高兴我们能在镀金溪谷相遇。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>“我不会把如此重要的事留给命运来决定。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

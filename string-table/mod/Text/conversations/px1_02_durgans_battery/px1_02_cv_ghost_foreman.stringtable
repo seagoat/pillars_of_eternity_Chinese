@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This dwarf's remains lie on the floor, covered in dirt and swathed in cobwebs.
+
+Essence drifts nearby, hanging in the stale air like dust motes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Reach out to the essence.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Search the body.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>A key glints in the dirt next to the corpse's femur.
+
+As you examine it, the nearby spirits grow restless, growling and fidgeting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>It takes a little additional effort, but you manage to gather the floating essence to you.
+
+You work your way into it and suddenly find yourself immersed in the soul's memory. The shock hits you with an almost physical force. Your heart hammers within your chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Other Pargrunen rush past you, retreating or attacking. It's gotten hard to tell. You're running along a dark tunnel, pushing your overtaxed body as fast as it will go. Your heart pounds harder with each step.
+
+Concussive thumps echo above you. Each one seems to resound in your heaving chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You pass the mines and reach the main hall. It's packed full of shouting, shoving, panicking dwarves. Even if you could reach the door at the other end without getting trampled or beaten to death first, something in the fever of the crowd tells you it's already locked...
+
+The tunnel behind you rings with screams.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You had another dial for the door to the forge below, but it's locked in the workshop. On the other side of the barricade.
+
+The sounds of battle grow closer.
+
+You race to the mines, ignoring the building pressure in your chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You scurry deeper into the mines, losing track of your path. The tunnels seem to close around you. 
+
+You stumble and fall. You try to pull yourself up, but your arm is dull with pain. Even though you've stopped, you can't quite catch your breath. For the first time, you notice a squeezing agony in your chest. 
+
+Darkness gathers around you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You pull back from the memory, gulping for air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Take the key.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You push the bones aside and grab the key.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>As you do, you hear screams of horror and fury. The dead of Durgan's Battery converge on you, their unnatural teeth and claws bared.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

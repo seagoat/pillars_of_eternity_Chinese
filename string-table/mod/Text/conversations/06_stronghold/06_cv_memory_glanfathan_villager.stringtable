@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>鬼灵的烟气在你周围缭绕着。起初你只能看见一片迷雾。但渐渐地，你看见了一位老态龙钟精灵族老者。他那瘦骨嶙峋的脸和手臂上都涂满了体绘。
+
+“你不能这么做！”他摇头对着你说道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“做什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[听]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[离开。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“这是我们的村子，我们的家园！九爪一族才这里生活了将近五代人。”你分辨不出他是因为看不清而眯着眼，还是在怒目瞪着你。“在你们把战争带到我们的土地之前，我们早已在此安身立命。”
+
+他重重地咳了一声，颤抖着说：“你们不能就这么把这里烧成灰烬。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>停顿了一会之后，他往后退了一步，惊恐地看着你，似乎是听到了某些话，但你什么都没说。而此刻火舌正从你视野的角落开始蔓延。
+
+“求求你，士兵！我们的战士都已经走了……”他咳着说，“你不能因为他们而把我们所有人的生命都付之一炬。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>他向你伸出手想要说什么，但你能听到的只有一声声孱弱的咳嗽声。他跪在地上，被浓烟呛得死去活来。你稍往后退，烈焰渐渐阻挡了你的全部视线。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“滚出我们的村子！我们没有对你们做过什么！”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

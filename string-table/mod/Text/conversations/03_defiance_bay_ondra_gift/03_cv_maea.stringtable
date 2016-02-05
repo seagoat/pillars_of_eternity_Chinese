@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>100</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>奥马阿族的女性怀疑地看着你，一只手在身旁紧握着。但当你接近后，她放松了下来，友好又稍带疲倦地对你笑了笑。“穿成你这样的都是来找麻烦的。你不是来找麻烦的吧？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“欢迎回来。最近生意有些冷清，都怪外面那一群闹哄哄的家伙。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“能有人来总是好的。和那些暴徒的进展如何？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“你来我们总是欢迎的。是来玩玩的，还是来休息的？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>奥马阿女性警惕地眯起了眼睛。“又是你，有什么事吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“你们这里有什么样的麻烦？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“我来这里是想……安静一下。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“再见。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>她脸上蓝色的印记因为苦着脸而扭曲着。“这麻烦对生意不好。本地的小混混们开始骚扰我这里勤奋工作的姑娘小伙们，还有我们的客户们。自从有一大群空心种来了之后他们也开始出现，把我的常客都赶走了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>“不管你喜欢声音大的还是不出声的，只要你先付现金，喜欢什么样的都行。我这里有姑娘也有小伙，还有几个我也不知道是哪一类的。看哪个感兴趣了就和他们搭话去吧。除非你是想要赛瑞尔，那就得我来给你安排。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>“告诉我，我能帮上什么忙。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>“我找到他们的头目了。她以后再也不会骚扰你或者任何人了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>玛雅笑了笑，露出了两排像匕首一样尖锐的大牙。“这可是值得庆祝。给你些铜币，自己去找乐子吧。”她笑得更开了。“如果你要想在我们这里找乐子，我给你个特别优惠。如果只是想在这里休息一下，你的房费就免了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>“你这里有个叫塞瑞尔的吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>她笑了起来。“宝贝儿，你一定是新来的吧。她可是这地方最吃香的姑娘。你要是想和她玩，只管告诉我。一晚1000潘，但绝对超值。他们都是这么告诉我的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>她心照不宣的笑容使得脸上的蓝色印记有些变形。“这么帅的小伙，我能为你做些什么？”</DefaultText>
+      <FemaleText>A knowing grin warps her blue markings. "Now, just what can I do for a comely lass like yourself?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[付出1000铜币。] “我想和塞瑞尔过一晚。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>“以后再说吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>“她的房间在楼上。”她的大手搭在你的肩上。“别介意她门外的壮汉们。他们只是用来保障每个人都玩得开心的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>“我就想要个房间。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>“的确很安静。”她稍稍有些犹豫。“如果你想带个‘朋友’来玩的话，别把房间弄得一团糟就行。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>“我就想要个房间。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[付出500铜币。] “我想和塞瑞尔过一夜。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>“请尽情享受。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>“新来的？欢迎来到咸桅杆。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>“想和她来一发？”她戳了戳你的肋下。“给你500潘的优惠，作为你帮我解决问题的感谢。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>“想和她来一发？”她戳了戳你的肋下。“在盎卓之礼，花钱在她身上是最值的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>“不管你喜欢声音大的还是不出声的，只要你先付现金，喜欢什么样的都行。我这里有姑娘也有小伙，还有几个我也不知道是哪一类的。看哪个感兴趣了就和他们搭话去吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>“你想要用我杀鸡儆猴给那些暴徒们看。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>“没人应当被骚扰。我会终结这件事的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>“只要有报酬，我就会继续调查这件事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>“等你把我的生意重新火起来，有的是钱给你。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>“只要能解决问题，你怎么做我都不介意。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>玛雅把你拉近了些。“这些暴徒总是成组行动，看起来事故都不是偶然。”
+
+她用一只粗大的手指戳着你的胸前。“你让这些暴徒都消停了，我会好好地奖励你的。”她递了个眼色。“知道我是什么意思吧？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>“我有些问题要问。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[离开] “我看看能发现些什么吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>“问吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>“对于这些袭击事件，你都知道些什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>“和我讲讲你的生意。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>她朝着门挥了挥手。“你可以自己出门看看。那些暴徒就在外面等着骚扰想进来或者想出去的人。”她打量着你。“如果是你的话，他们可能就放你过去了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>她揉着后颈。“有这么多麻烦事，生意也没我预想得做得好。我做的是老实生意，就是为了给大伙一个放松休息的地方。”
+
+她朝你点了点头，把声音放低了些。“你如果帮得上我，我就看看能不能给你个特殊优惠价。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>“现在还不能。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>“我想和你说说这件事来着。我听说你最近加了价。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>“我和他们的头目谈过了。她说以后不找你麻烦了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>玛雅的眉毛扬了起来。“这可是及时雨，也值得庆祝。给你些铜币，自己去找乐子吧。”她笑得更开了。“如果你要想在我们这里找乐子，我给你个特别优惠。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>“我还能怎么做？我必须提供恰当的……计量，给我的雇员和客户，尤其是区域里有那么多空心种。而且苦瓜的价格这么高，我不得不提高我的价格。”
+
+她用一根手指点上你的胸口。“而且别让我卷进残酷的生意，不要像杜门朗做的那样。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>“遗症总会结束。承受一点小损失来让你的顾客开心。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[威胁]“如果你想继续在这里做生意，你必须降低价格。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[离开]“我需要考虑一下。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>“我还没那么想过。”玛雅揉了揉她的双下巴。“很好。我会让事情回到之前。而且我会坚持让遗产在今天结束，你知道了吗？”
+
+她回到她的吧台。“继续给我干活。还需要别的吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>“我可以跟杜门朗谈论一下他们的苦瓜价格。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>“向你寻求帮助是个错误。”她的眼睛扫了一眼巡逻的守卫。“很好，我会降低该死的价格。我宁愿受点伤而不是一场屠杀。”
+
+她瞪着你。“现在，我觉得你有更重要的事去做了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>她举起胳膊。“是你的脖子。布瑞坎塔 杜门朗会是最容易被说服的。她掌管家族书籍。走运的话，你可以在她的布拉肯伯里庄园找到她。
+
+“在她身边小心走动。在他们身边小心慢行。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>“跟我说说这地方。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>“我以为这比码头下面的水还要明白。”她笑了。“这里是咸桅杆，反抗湾最让人满足的房子。我们有好酒好床，还有个好伴侣来让你享受上面两个。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>“的确很安静。”她稍稍有些犹豫。“如果你想带个‘朋友’来玩的话，别把房间弄得一团糟就行。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>“安静，真的。如果你孤单的话，你知道该到哪里看看。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>“安静，真的。如果你孤单的话，你知道该到哪里看看。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>“杜门朗家同意为了你降低苦瓜价格。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>玛雅笑了，露出了一行又大又尖的牙齿。“那新闻可值得庆祝一番。我也看得出区域里剩下的人也能负担得起那庆祝了。
+
+“拿点铜币找点乐子。”她的笑容更大了。“如果你选择在我这找点乐子，就享受我的特别折扣吧。如果你只想休息休息，免费使用房间吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>“我抓住了犯人主谋。那个恶棍不会再烦你了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>玛雅的眉毛隆起。“那对我足够好了。拿点铜币给自己找点乐子吧。”她笑得更开了。“如果你选择在我这找点乐子，就享受我的特别折扣吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>“你能告诉我什么关于赛瑞尔的？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>她上下打量了你一番，抓了抓下巴。“我一直想找人帮我在这里处理一些事，听街上的流言说你很擅长处理麻烦。骑士太忙于在杜阿瓦附近嗅探消息以至于不能来打扰我们这些普通人，我也正不对付那些官僚主义的人呢。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>她上下打量了你一番，抓了抓下巴。“听街上的流言说你很擅长处理麻烦。但那也许正是我需要的。
+
+“我一直想找人帮我在这里处理一些事，骑士太忙于在杜阿瓦附近嗅探消息以至于不能来打扰我们这些普通人，我也正不对付那些官僚主义的人呢。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>她上下打量了你一番，抓了抓下巴。“我一直想找人帮我在这里处理一些事，骑士太忙于在杜阿瓦附近嗅探消息以至于不能来打扰我们这些普通人，我也正不对付那些官僚主义的人呢。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>“你会在楼上找到她的总部。”她把大手放在你的肩上。“把你的脾气收好，不然她那里的魁梧伙计会让事情变难的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>“你会在楼上找到她的总部。”她把大手放在你的肩上。“不要总像平常那样胡扯，你听到了吗？表现得好一点，不然她那里的魁梧伙计会让事情变难的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>“你是个聪明人，对吧？我以为这像码头下的水一样清晰呢。”她笑了。“这里是咸桅杆，反抗湾最让人满足的房子。我们有好酒好床，还有个好伴侣来让你享受上面两个。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>“我想要点点心。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>“我能要点别的吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>她使了个眼色。“那是每个人都最先说的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>“当然，给高雅的和有名望的绅士的俱乐部在楼上。你也会找到反抗湾那些最努力工作的男孩女孩在上面。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>她抬了抬眉毛，在围裙上蹭了蹭手。“这次有什么新闻？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>“那就让你的客户和交际花们自己买苦瓜。至少这次他们不能责怪你的高价了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>“我还没那么想过。”玛雅揉了揉她的双下巴。“我会降低价格。我想剩下的价钱不算是个难题了。再也不是了，就这样。”
+
+她回到她的吧台。“继续给我干活。还需要别的吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>“我想了想这件事。你需要降低价格。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>她交叉起她起皱的胳膊。“当杜门朗家在苦瓜这生意上挤兑我时我该怎么办？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[离开]“我还一点都没有。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>萨加尼瞥了一眼卡纳，“捂住耳朵，小伙子。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>“如果她要给我们烤点什么，我选曲奇。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>帕勒吉娜的金眼向上滚。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>“好吧如果你对奖励不感兴趣，我会自己解决她的问题！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>亚禄在袍子上擦了擦手，环顾四周。“我会。。。要求铜币作为感谢，如果我是你的话。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>“对我来说，我宁愿走过去跟那个宽臀的侍卫聊聊。但是我们应该至少阻止她的人被彻底打败。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>萨加尼挑了挑一条眉毛。“有人跟你‘谈了谈’，对吧？因为卡鲁是处理我们的孩子的人。但是如果没人跟你解释过。。。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>“所以。。。她没在烘焙？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>“在摆谱的妓院可不是我喜欢打发时间的地方，但是别让那阻止你。”她的眉毛因为恼怒皱成一团。“反正这可从来没有阻止任何一个顾客。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>“折扣！好吧，那样的话，我可负担不起房子特殊折扣的尝试！”希拉维的的手戳了戳他的长袍来解开铜币。“欢迎你们都来看看。有人吗？有人吗？”
+
+他耸耸肩然后继续在衣服里搜索硬币。“是你的损失。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>“嗯，你先上，真的。我会在吧台等你。喝一杯。。。能杀菌的东西。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>“可能也会喝个一两杯。这看起来像个可以揭开一些丑陋秘密的地方。还有，额，各种疾病。至于那个。。。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>“这么多人在这里。。。充满着欲望，愉悦。。。但是也有担心，头痛，恐惧。。。”
+
+她边说边打量，笑着，同样多地大口喝着。“这些房间被和其他东西一样多的空心种的绝望填满了。。。”她的凝视转回玛雅。“一个人可以如此欣然的从中获利真是羞耻。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>反叛湾在艾德莱恩离开之后还没见过这么激烈的战斗。至少这个没带走吉福特。
+
+她看着吧台里的保安和妓女。“现在说什么是对我们有意义的还太早，我觉得。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>“我还能怎么做？我必须提供恰当的。。。计量，给我的雇员和客户，尤其是区域里有那么多空心种。而且苦瓜的价格这么高，我不得不提高我的价格。”
+
+她用一根手指点上你的胸口。“你跟杜门朗家关系不错，对吧？也许你可以要求个小忙。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>“比起找十二团众的朋友我应该更理智。脑袋空空的鳄鱼，他们全都是这样子的。”她的眼睛瞟了一眼守卫。“很好，我会降低该死的价格。我宁愿受点伤而不是一场屠杀。”
+
+她瞪着你。“现在，我觉得你有更重要的事去做了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>她上下打量了你一番，抓了抓下巴。“我一直想找人帮我在这里处理一些事，听街上的流言说你很擅长处理麻烦。骑士太忙于在杜阿瓦附近嗅探消息以至于不能来打扰我们这些普通人，我也正不对付那些官僚主义的人呢。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>她上下打量了你一番，抓了抓下巴。“没什么人关心在盎卓之礼这样的地方发生了什么。但我听说你是个例外。骑士太忙于在杜阿瓦附近嗅探消息，没空打扰我们这些普通人，我也正不对付那些官僚主义的人呢。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>迪兰斯的眼睛里有一种很像偶然发现一群鹿的狮子的神色。他在调查房间时，双手握住他的手杖，指节发白。他朝自己低沉地笑笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>“你们这些老主顾有想赚点钱的吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>“是啊，只要能再花掉的话。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

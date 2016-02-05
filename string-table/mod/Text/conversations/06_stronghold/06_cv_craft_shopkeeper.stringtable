@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“好消息，我的主人！我能跟你说些事吗？我为旅行者提供补给。你肯定能在我这找到很多适合你这样勇敢的旅行者用的东西。”</DefaultText>
+      <FemaleText>"Good tidings, my lady! Might I interest you in anything? I offer supplies for the road. I'm sure you'll find many things of use to a hardy traveler such as yourself. One can never be too prepared."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“让我看看你都有什么。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“再会了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“你需要补给吗，我的主人？多做些准备总是好的。”</DefaultText>
+      <FemaleText>"Are you in need of supplies, my lady? One can never be too prepared."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

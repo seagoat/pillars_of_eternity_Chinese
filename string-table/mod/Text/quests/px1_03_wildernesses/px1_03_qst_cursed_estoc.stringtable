@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Grey Sleeper</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find a "whirling agent of copper, adra, and stone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rest among the "hillocks where the dead folk sleep" mentioned in the next verse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Reach the "pillars" mentioned in the last verse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>I found an estoc in a mysterious stone pedestal near Longwatch Falls. Upon removing it, I realized that the weapon is cursed and soulbound - it tethers itself to the wielder.
+
+There's a poem written on the blade. It begins:
+
+"'Tis a traitor's fate to sleep and never rest
+Whilst knowledge of his deed stays lodged within his breast.
+But earnest penance heals the sorrowful man
+And worthy actions stay the executioner's hand."
+
+The other verses may hold the key to removing the curse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>A new verse appeared after the blade was drawn. It reads:
+
+"Seek the whirling agent made of copper, adra, stone
+Awaken first your essence so that you may atone."
+
+I think this is the first step in removing the curse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>The Engwithan machine strengthened the weapon and revealed another verse on the blade:
+
+"Find the sun-kissed hillocks where the dead folk sleep.
+Rest beside their wasting flesh; inspect what dreams you reap."
+
+This must be another clue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I traveled to a graveyard as mentioned in the previous verse, and Grey Sleeper grew more powerful still.
+
+While I was there, another verse appeared on the blade:
+
+"Fingers of the world, adra strong and whole
+Kneel before the pillars, bring order to your soul."
+
+Perhaps this will break the curse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I removed the curse from the Grey Sleeper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Someone critically important to this quest has died.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

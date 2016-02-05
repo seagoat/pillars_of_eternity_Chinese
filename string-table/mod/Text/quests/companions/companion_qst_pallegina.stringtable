@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>五日之子</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>与瓦里安大使馆的阿格斯蒂交谈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>帮助帕勒吉娜与双生木城的阿门法达成一个协议。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>警告瓦里安大使馆的阿格斯蒂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>帮助帕勒吉娜与双生木城的阿门法达成这个协议。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>帕勒吉娜感觉她在反抗湾的琐碎小事上浪费了太多时间。她认为瓦里安共和国面临着更加严重的威胁，并且希望你能帮助调查它们。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>帕勒吉娜想同阿格斯蒂大使在起始之火的瓦里安大使馆交谈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>尽管她做出了最大努力，阿格斯蒂大使仍然坚持要求帕勒吉娜继续执行她的命令，与双生木城的阿门法达成一个关于瓦里安共和国和格兰方瑟的交易协议。这个协议将会偷走在迪伍德的生意，而这个举动无疑会使迪伍德和共和国的关系更加紧张。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我需要去起始之火的瓦里安大使馆警告他铅制之匙已经开始留意帕勒吉娜的调查。作为她的上司，他可能也是个目标。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>尽管遭遇了铅制之匙，帕勒吉娜要促成与双生木城的阿门法的贸易协议的命令不变。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>不幸的是，阿格斯蒂大使没能从铅制之匙的攻击下幸存。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>帕勒吉娜根据瓦里安共和国公爵的命令达成了他们坚决要求的贸易协议。然而，偷走在迪伍德的格兰方瑟生意将会让迪伍德和共和国的关系更加紧张——甚至导致战争。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>帕勒吉娜改变了瓦里安共和国的公爵给予她的贸易协议的条款，防止共和国偷走格兰方瑟的生意。在这种情况下，他维持了迪伍德和共和国之间的关系，但是假如共和国最终没有在这个协议中获得任何好处，帕勒吉娜会失去她在阶级中的职位。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>帕勒吉娜死了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

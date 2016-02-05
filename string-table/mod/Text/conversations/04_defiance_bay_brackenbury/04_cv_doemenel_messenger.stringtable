@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一位眼神发亮的女士走近你。“你就是[Player Name]吧？我和雇主都听说你的事迹。他有笔生意要交给你。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>她转过头来凑近你。“如果你去布拉肯伯里的话，就去找阿布坎•杜门朗。他家大宅在当地的正中央。他会给你合适的工作。”
+
+她抛了个媚眼，钻进人群里。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

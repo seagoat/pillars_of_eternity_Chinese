@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“这是什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“我正在找一个有高塔的地区，离墓地不远。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“反抗湾的疯子们都关在哪里？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“只有布拉肯伯里疯人院肯接受病人。听说他们可以和灵魂交流，祛除疯狂。但那里还流传出许多故事，能让你汗毛倒竖。
+
+“那里有个人叫埃塞摩尔，是看守，如果你想参观或是入院，就找他对话。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“再会了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“那你还是不要看了。你寻找的正是传承之山——你能在那个方向看到高塔的地区分割墙的对面。”法官指向西北方。
+
+“不过……那里发生了一些事。已经禁止别人进入了。哪个骑士也不愿意接近那里。离那远点吧，这是为你好。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“我在寻找法治之神沃伊迪卡的神庙。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“是吗，在起始之火区，就在试炼城堡西边。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>“是吗，就在那里，试炼城堡西边。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>避风港</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在传承之山的沃塔斯庄园搜寻希达。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>前往传承之山的沃塔斯陵墓。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>从沃塔斯家族陵墓中救出希达。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>我在传承之山庄园遇到了一个奇怪的场景——三个达古人围在一扇门前，喊着一个叫“希达”的人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>我在庄园遇到了一伙达古人，砰砰的敲着一扇上锁的门，喊着一个叫“希达”的人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>根据我在沃塔斯庄园的线索来看，希达逃离了房子，逃往了家族陵墓。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>我在陵墓里找到一个小姑娘，肯定就是逃离在庄园的达古人的希达。
+
+我不禁好奇在那间房间里发生了什么。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我找到一封信，指示团丁去打扫家族陵墓。这就揭示了钥匙被保存在厨房的炉子上方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>希达的父亲留下了遗愿，要求他和他爱的人被埋葬在沃塔斯家族陵墓“哈德莱特公爵的右手边”。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>我找到了放置钥匙的钩子，但是钥匙不在。有人应该把它拿走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>这有一个通往外面的小口子——有人一定在这面不牢固的墙开了个口子，下一个问题就是这个人去了哪里。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>希达死了。她房间里的达古人是她最后的麻烦了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我把希达送去了泰尔 诺尼斯的奥尔德海姆 格雷格。对她来说是个悲惨的结局，但是我需要帮他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>我把希达送出了这个地方，她不能再待在陵墓里了，来的路也已经清理干净了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

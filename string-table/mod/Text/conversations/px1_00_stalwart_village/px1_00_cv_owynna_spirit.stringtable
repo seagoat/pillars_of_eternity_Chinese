@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The remains of a soul drift in this room like something lost and forgotten by the last inhabitant.
+
+But the essence seems familiar, tinged as it is with shyness and solitude. You recognize it as the soul of the maid who worked here, but reaching deeper, you detect traces of something older.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>You find memories of Durgan's Battery - battlements, cannons, and the clangorous music of smuggled arms as they rattle in a mine cart.
+
+As you dig, you find a set of verses that cycle through this essence like a familiar refrain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Read the soul.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You commit the cantec to memory and retreat from the essence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Hammers of Durgan, ring loud! May the anvil's deep music resound.
+
+"Walls of the Battery safeguard our works from marauder and wilder alike.
+
+"Abydon's faithful travail by the Forge and the fires that brighten the ore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"You got the look of someone with his teeth around a secret." Her cold fingers are locked around your arm. Her black eyes search you.</DefaultText>
+      <FemaleText>"You got the look of someone with her teeth around a secret." Her cold fingers are locked around your arm. Her black eyes search you.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Careful. She's looking at you the way I've seen Itumaak look at your pig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Careful. She's looking at you the way I've seen Itumaak look at your cat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Her mind fills with questions... with calculations..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"My, but it's gotten warm in here!" He laughs awkwardly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"That's enough." Pallegina places a feathered hand on the Devil's shoulder, like a mother attempting to pull away an overly intrusive child.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Yes, well, if we could all keep our teeth to ourselves..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

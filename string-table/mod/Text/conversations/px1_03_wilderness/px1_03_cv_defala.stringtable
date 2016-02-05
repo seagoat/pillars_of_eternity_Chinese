@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>78</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Don't see many on these roads, and the few we do are hunters, woodcutters, or smugglers."
+
+She cocks an eyebrow at you and gives you a half-smile. She holds herself with confident grace, a conspicuous holster slung over one hip.
+
+Beyond her is a wagon loaded with supplies. Manacles dangle from one end.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>She salutes. "Best watch your step. There are ogres in these parts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Defala, is it? You're the slaver who's after Ailef."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Which are you - hunter, woodcutter, or smuggler?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I must get going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>A frown chills her features. "And here I was thinking we'd found the last pleasant company on the road. I'm after him, all right."
+
+Her hand drops to her gun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"He's going to answer for his crimes in Readceras. And, one way or another, you're going to stay out of my way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I'm looking for a fugitive from Readceras. An indentured servant and a wanted criminal."
+
+The smile disappears from her face like a candle flame snuffed out by the wind. She watches you through humorless eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I may have met someone like that around here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"'Indentured servant'? You mean slave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Attack] "I remember the weight of my chains. I'll see that you never burden anyone ever again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Try me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"No one deserves slavery. I'll make sure you never shackle another person again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Wait, his crimes? What crimes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I got nothing against you or any hoar-crusted villager out here, but that orlan's a wanted man. And I've been charged with bringing him back."
+
+Her fingertips dangle a few inches from the grip of her gun. Her compatriots have gone silent, watching you carefully.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Besides breaking his indenture? He slew his master's thirteen-year-old son. Killed the boy before he fled."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"What exactly is he wanted for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Attack] "The Schemer sends his regards, slaver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>She smirks. "It's allowed in Readceras. But this fellow - let's call him Ailef - he signed himself over. Making him an indentured servant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"And I'm glad you do. So if you come across this fellow, I hope you'll send him my way. Just don't turn your back on him."
+
+She pats a coin purse hanging by her holster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Didn't tell you that part, did he? First off, he chose his indentureship. Had to make up for some bad luck at cards, I hear."
+
+She waves her associates down, but her hand remains on her gun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"At him!" She draws her pistol.</DefaultText>
+      <FemaleText>"At her!" She draws her pistol.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ailef didn't mention that part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"He should pay for his crime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"He lied to me! I'll gut him for that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Can't blame a man for seeking his freedom. I'm with Ailef."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Save it, slaver. I'd never help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Damn cultist! Kill him quick and pray he's not the Effigy!"
+
+Defala and her associates fall on you in a frenzied panic.</DefaultText>
+      <FemaleText>"Damn cultist! Kill her quick and pray she's not the Effigy!"
+
+Defala and her associates fall on you in a frenzied panic.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"You want to help me bring him to justice? Run on back and tell him you dealt with us. When he ducks out of town, we'll be waiting."
+
+The slave hunters with Defala nod eagerly, brandishing their weapons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"A nice, strong fellow like you'd do well in the lumber yards. I know a few along the border that'd pay well."
+
+Defala and her compatriots rush at you.</DefaultText>
+      <FemaleText>"A nice, strong woman like you'd do well in the lumber yards. I know a few along the border that'd pay well."
+
+Defala and her compatriots rush at you.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Plenty of merchant captains are paying good coin for galley slaves. Come along nicely and maybe I won't tell 'em you were aiding a known child-killer."
+
+Defala and her compatriots rush at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Easy, now. He's no use to me dead." She holds up a steadying hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"No. I'm staying out of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"All right. I'll be back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>She sighs, and the others draw their weapons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Hurry along. Don't want him getting skittish and doing something foolish.
+
+"'Sides, we're eager to return to a more hospitable climate." She suppresses a shiver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Payday isn't getting any closer out here, and the weather sure isn't getting warmer. I'd hate to think you're having second thoughts."
+
+Her hands rest squarely on her hips, one in drawing distance of her gun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I've changed my mind. Ailef's going free."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I'll be on my way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"You know, if adventuring doesn't work out, you've got a real future in the slave-hunting business."
+
+She nods to Ailef, whose hands and ankles are chained.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"You sold me out! I knew it! I never-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"As promised, here's your payment. A pleasure doing business with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Not that I don't appreciate the attention, but I'm starting to think that you're only distracting me while my payday sneaks out of town."
+
+She draws her gun. Her associates turn to you, weapons ready.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Funny thing, but I could've sworn I told you to send Ailef back alive. Now I hear that you've made a mess of him in that poor dwarf's inn."
+
+She folds her arms, scowling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"I don't get paid for corpses. Hope you've got the coin to make up for my loss."
+
+She unholsters her pistol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"What are you doing out here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>The high, clear peals of her laughter ring across the snowy plain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"I suppose you could say I'm a hunter."
+
+Her fingers drum the tooled leather of her holster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"But now I'm thinking you've had personal experience on the other end of the chain." Defala looks you up and down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Now, that distinction isn't much heeded in the Dyrwood. But as you may have noticed, we're barely in the Dyrwood."
+
+Her sly grin returns, and it's hardly more than a squint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"No matter - my business has nothing to do with you. I've just been in the trade long enough to recognize the look."
+
+She holds her hands up defensively.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Don't take it personal. You seem real nice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"His master's paying well for his return, and I'll see that you're given a fair cut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Sorry, but that's not the way this works. I can't have you warning Ailef like this."
+
+She unholsters her pistol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Shame we couldn't do business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>She shrugs. "I figured that might be the case. Trouble is, I can't let you warn him.
+
+"But don't worry, I got other uses for you."
+
+She draws her pistol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Clever sort like you would make a fantastic clerk's assistant. Lucky for you, clerks tend to make kinder masters."
+
+Defala and her compatriots rush at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"You've got quick hands. I know a carpenter who'd put them to good use."
+
+Defala and her compatriots rush at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Vorlas-harvesting is tough work. Long days out in the elements. But you look like you could stand them."
+
+Defala and her compatriots rush at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"More importantly, he murdered his master's son. Thirteen-year-old boy. Killed him as he fled."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>One of Defala's men slaps him, and he falls silent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"I've met Ailef, the orlan you're looking for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Attack] "Too bad for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Ailef's my prisoner now. He'll serve his sentence at Caed Nua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I wasn't paid to let him rot in Dyrwood. But I'll deal with him soon enough."
+
+She unholsters her pistol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Attack] "No deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"He belongs in prison, not in a slaver's pen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"His master sees it differently."
+
+She unholsters her pistol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Cowering in that starved husk of a town, I'll wager."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"To end a young life... for any reason... is unforgivable. He cannot go free after this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Would you?" Her head swivels to you with a sharp screech.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"I'd take that to mean 'all of the above.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>The Devil of Caroc turns away, gazing into the trees.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Well. So much for the subtle approach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Zahua nods at you with an approving half-smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Zahua closes his eyes, his facial muscles tensing and relaxing and tensing again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"He's dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

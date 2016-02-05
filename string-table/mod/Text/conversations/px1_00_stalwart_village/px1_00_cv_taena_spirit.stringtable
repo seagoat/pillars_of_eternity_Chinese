@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You sense a soul idling in the shadows of the old house. As you probe its essence, you recognize Taena, the old woman who lived here.
+
+Yet folded within her is an even older identity and a lifetime of memories.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Read Taena's soul.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You reach past Taena and into Zenove, a dwarf whose memories show you the towers and mines of Durgan's Battery.
+
+You already know what you're looking for, so it isn't hard to find. You dive past memories of battle, the biting cold of blizzards, and the sweltering heat of mine shafts, and find three verses that are etched all over Zenove's essence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Hammers of Durgan, ring loud! May the anvil's deep music resound.
+
+"Walls of the Battery safeguard our works from marauder and wilder alike.
+
+"Abydon's faithful travail by the Forge and the fires that brighten the ore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You pull back, committing the words to memory.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"You got the look of someone with his teeth around a secret." Her cold fingers are locked around your arm. Her black eyes search you.</DefaultText>
+      <FemaleText>"You got the look of someone with her teeth around a secret." Her cold fingers are locked around your arm. Her black eyes search you.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Careful. She's looking at you the way I've seen Itumaak look at your pig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Careful. She's looking at you the way I've seen Itumaak look at your cat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Her mind fills with questions... with calculations..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"My, but it's gotten warm in here!" He laughs awkwardly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"That's enough." Pallegina places a feathered hand on the Devil's shoulder, like a mother attempting to pull away an overly intrusive child.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Yes, well, if we could all keep our teeth to ourselves..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

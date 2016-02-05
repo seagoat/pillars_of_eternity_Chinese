@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>87</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你脑子里感到一阵抓绕，紧接着突然响起一个尖利的声音。零散的画面在你眼前闪过：你看到一大片巢穴，靠挂在洞里的墙上，往上蔓延至黑暗里。一张巨大的蛛网，深入地下某处。你也看到你刚刚杀死的哨兵，他们的尸体躺在洞穴的地面上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“跟我说说蜘蛛人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“想要知道肉身？还是城市，闪亮的银子？蜘蛛人是人。伟大事物的编织者。”蜘蛛人发出奇怪的嘶嘶声。“蜘蛛人想家了。没有巢穴，蜘蛛人什么也不是。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>怪物发出一阵尖锐刺耳的哨声，恶意满满地升入空中。更多的怪物涌上前来围住你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>蜘蛛人歪歪脑袋打招呼。“[Player Race]-动物回来了。它在下面得小心翼翼。那里还有很多眼睛在盯着。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>“契拉克向你问好，[Player Race]-动物。它去过下面了？它有我们要的东西？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>“[Player Race]-动物回来了。”蜘蛛人好奇地向你打招呼。“它想要什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>“欢迎，[Player Race]-动物。这里欢迎它。如果它愿意，休息吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[将物品交给契拉克。]“我拿到了所有的阿德拉样本。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[离开]“我过会儿再回来。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>“你现在怎么办？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[离开] “再见。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>“我们会研究群族朋友带来的东西，很快会找到答案。把他们带回家。孩子们也带去。等我们到了Sstravek'narith，他们……会很高。”蜘蛛人发出空洞的咯咯声。你觉得那应该是在笑。“契拉克就老了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[离开] “再见。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>“契拉克还给了这个。在隧道里找到的，不适合蜘蛛人。保[Player Race]平安，对吗？会带来财富。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>“你在这儿干吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>“此地的大师……”蜘蛛人比划着你四周的墙。“生长阿德拉。不是切割，破坏。是生长，塑造。如果蜘蛛人能找到秘密……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>“制作伟大的东西。塑像，机器。蜘蛛人能编织丝绸和阿德拉。我们的巢穴更强大。群族更强大。我们所有人，编织伟大的东西。”你感到蜘蛛人突然忧郁起来。“我们就快找到了。找到机器，晶石。可是为找到下面的阿德拉人。已经失去太多，太多。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>“你到底在找什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>“我要想想。同时我还有另一个问题。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>“用来研究的东西。阿德拉的东西。全都在下面的废墟里。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>“要看看奥努怎么制造阿德拉人。阿德拉……壳，对吗？动物不用杀了阿德拉人。只要壳。也需要机器零件。像机器心脏的零件。阿德拉和发光的金属。”蜘蛛人想了想。“最后一件是阿德拉。不是墙上的阿德拉。不一样的，纯的，很难找。契拉克希望下面有有一些。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>“如果[Player Race]-动物带来这些东西，蜘蛛人欠动物很大的人情。能帮助群族，帮助我们。等了这么久，终于能回家。为这件伟大的事，蜘蛛人会奖励动物。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>“我去看看能找到什么。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>“我不想掺和这事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>蜘蛛人发出古怪的咯咯声，你脑子里感觉到朦胧的感激。“那么蜘蛛人很感激。去废墟的路在东边。卫兵已经切开了石头。找到了楼梯。找到了更多东西。现在，他们保护我们，不受下面东西的伤害。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>失望如轻纱般落下。“蜘蛛人明白。”蜘蛛人的声音很轻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[攻击函数脚本的占位符节点——蜘蛛人领袖对于遭到攻击感到惊慌并反击玩家]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>“能帮上忙就好，契拉克。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>“你的卫兵可没这么感恩。他们在我回来的路上试图偷袭。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>“你的卫兵在回来的路上袭击了我。抱歉，但我不得不自我防卫。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>你感到失落的回音在脑中渐渐消失。“契拉克看见了。为科斯托利克的行为抱歉。是在保护巢穴，很多年了。为很多事。”蜘蛛人停顿了下。“契拉克希望，[Player Race]没有受到伤害。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>你感到幽灵般的手指划过你的思绪。“契拉克看见……为科斯托利克的行为抱歉。契拉克和卫兵谈话，解释。不伤害[Player Race]-动物。拿着，契拉克给你这个。讲和，好吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>“我帮助你的群族就得到这个？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>“蜘蛛人记得。太阳落下海面很久后。这是……开端。新的改变。”契拉克转向墙上的巢穴。“孩子们会生活在更好的地方。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>“[Player Race]-动物不满意？……契拉克有宝石。[Player Race]-动物拿着这些。更有用。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>“你知道关于此地大师的事吗？奥努？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>“是的。动物不用打架。”怪物伸开双臂。“蜘蛛人欢迎你。欢迎来到巢穴。动物保持和平。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>“你的卫兵在回来的路上袭击了我。蜘蛛人就这样回报帮助他们的人？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[离开]“我这就走。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>“我已经去过下面了。我有些东西我想你会感兴趣。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>当画面消退，你看见另一个蜘蛛脸的怪物站在你面前。它举起爪子。你又感到脑子里一阵刺痛，接着话语以一种空洞怪异的声音在脑中浮现。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>“Orech! Duvathi na rot uvraec nat。”怪物停顿了一下，它的尖牙颤抖着。“...Caledina fosta agrengidare？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>“抱歉，我听不懂。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>“你会说艾迪尔语吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>“从我脑子里滚出来，怪物。我们没什么可谈的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[在它开口前攻击。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>怪物发出奇怪的嘁喳声。在脑海中，你听到：“艾迪尔语。自从上次想到它，变了很多……动物入侵了。巢穴在这里。防卫太冒险。守卫们死了——动物满意了？动物现在听话吗？”怪物咯咯地叫着。“不打了？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>“我不是动物！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>“我听着。没必要再打了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>“那些守卫先攻击我的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>怪物沉默地看了你一会儿。“[Player Race]动物”它简短地更正道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>“你以前说的什么语言？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>蜘蛛人发出嘁嘁喳喳的声音，却不回答。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>“守卫们没有活下来。”怪物平静地说。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[攻击]“让你看看什么叫动物，蜘蛛脸。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>“我觉得你的艾迪尔语还得下些功夫。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>“很多年，没有说。很多……口音。Eld tonge frae ylfen laerds。很多忘了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>“可是动物开玩笑。说话，对吗？不是打架的地方。巢穴必须平安。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>怪物不眨眼地盯着你看了很久。“好，”你听见。“那么蜘蛛人祝你旅途迅捷。”它后退一步，你脑中的声音渐渐消失。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>你面前怪物的低吼清晰可闻，但你脑中的声音却很平静。“说艾迪尔语的。动物是很多年来的第一。动物入侵了。”它用爪子指着你身后的路。“杀了巢穴的守卫。动物打完了？……说话吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>怪物发出奇怪的嘁喳声。在脑海中，你听到：“说艾迪尔语的。自从上次想到它，变了很多……动物入侵了。巢穴在这里。防卫太冒险。守卫们死了——动物打完了？动物现在听话吗？不打了？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>“好吧，我听着。不过你最好别刷花招。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>“不会，”怪物欣慰地赞同。“蜘蛛人欢迎你。欢迎来到巢穴。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>蜘蛛人用爪子摸着尖牙，思考着。“Eret narek Od Nua。……名字穿透墙壁，可是蜘蛛人不知道长相、声音。蜘蛛人看见伟大的工作。看见……塑像，是吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>“很多东西的大师。阿德拉的大师。很多声音，困在石头里。”蜘蛛人往后指着洞穴的其他部分。“下面的东西。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>“令人敬仰。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>“如我所说。”蜘蛛人的嘴巴颤抖着。“蜘蛛人来的时候大师的名字老旧了。只有工程留着。伟大的工程。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>蜘蛛人看了你一会儿，然后低头看自己，又看向你。“[Player Race]动物是什么？蜘蛛人……看见别人看不到的。看见黑壳里的光。”它指着你。“看见明亮灼热的光。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>“蜘蛛人不用声音说话，说很多。几百个灵魂，在伟大的城市里。Sstravek'narith——是群族。很远的路。动物要走很久，才能到。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>“群族是什么样的？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>“我还有其他问题。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>“那是非常古老的方言。你懂艾迪尔语吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>“永别了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>你觉得脑中又是一阵瘙痒，接着泛起欢快的涟漪。“那么蜘蛛人欠一个大人情。有了这个，我们研究、学习大师的秘密。我们建造比古老死去的大师更伟大的塑像。Sstravek'narith会像海洋一样闪光。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>“那么我这就走。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>“蜘蛛人感谢你。有钱币。是习俗，是吗？蜘蛛人有很多年代的钱币。会给很多。”它想了会儿。“如果[Player Race]-动物还要进入更深的地方，应该去找科瑞里。科瑞里有补给。会有帮助。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>蜘蛛人微微点头，似乎在示意你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>“我们感觉到变化。无尽之路现在很安静。[Player Race]-动物改变了很多。契拉克表达敬意。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>“明亮的光，在黑暗里。”蜘蛛人的声音以其特有的空灵，显得十分忧郁。“很多的心，生命，在一起。建造。”蜘蛛人低下头。“有一天，我们回来。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>“经历了这么多，我不知道你想把这东西带回你的群族。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>“不用担心。奥努大师是有才能的，但……不是蜘蛛人。蜘蛛人建造所有这些，还更好。不需要很多，只要几样东西，来学习。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>“蜘蛛人……探索。为家园寻求知识。为群族，Sstravek'narith。我们探索过很远，很久。我们厌倦了……回忆。家的回忆。建了巢穴，建了新的家园。找到了我们所寻求的东西。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>你能感觉到蜘蛛人的惊讶，就像自己感觉的回音一般。“[Player Race]说实话？它走到哪里都带来财富。让契拉克看看……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>它突然饶有兴趣地看着你。“[Player Race]-动物很坚强。打败了其他动物。杀了守卫。能帮助蜘蛛人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>“动物必须说明任务，科斯托利克让你平安通过。”契拉克停顿了下。“科斯托利克不友善。动物保重。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>怪物发出奇怪的嘁喳声。在脑海中，你听到：“说艾迪尔语的。自从上次想到它，变了很多……动物入侵了。巢穴在这里。防卫太冒险。动物听话吗？”怪物咯咯地叫着。“不打了？”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

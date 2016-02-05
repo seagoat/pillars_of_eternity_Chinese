@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“我该杀了你吗？”这话在你耳边响起。你发现自己喘着粗气，极力保持平衡。你单腿跪下，眼看着陶斯冲出屋子。整个世界变得黯淡，尖叫和武器的碰撞声消失在沉寂中。留下的只有话语。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“我该杀了你吗？” 陶斯站在高高的讲坛上，底下聚集着穿长袍的观众，你在他们中间，围绕着一个宽大的圆形石坑。
+
+他说着一个女人的事，她被绑在巨大石坑上方的一个大铁轮上。女人的多数手指和脚趾被切下，脚底是烧焦的黑色。她一边脸上的皮肤像融化的烛蜡，渗透出黑色和红色，她背部的角度表明脊柱已断裂。即便如此，她脸上却没有多少痛苦的神色。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>她的眼睛微睁，被勒得紧紧地呼吸之间吐出的话语却稳定而连贯。“我已得到平安，大检察官。你呢？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“那就这么定了。如果你不想得善终，你就得不到。我认为你犯有异端罪行。愿永恒之牢狱拦住你的灵魂，不得通向往生，因为你无可救赎。”
+
+他向一个戴兜帽的助手点点头，那人开始将女人从铁轮下解下。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

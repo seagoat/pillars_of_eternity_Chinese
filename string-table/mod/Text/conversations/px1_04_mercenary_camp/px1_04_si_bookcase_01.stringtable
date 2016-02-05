@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The shelves of this bookcase overflow with books, loose pages, and miscellaneous artifacts. Many of the spines you can see are scrawled with indecipherable glyphs, and more are completely blank.
+
+A proper search of this mess would probably take hours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Search the bookcase.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Near the back of one shelf you find a tome covered in strange symbols. It doesn't look like much at first, but you eventually recognize the symbols as incantations and the book and a grimoire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>You leaf through the pages of one especially large book and find several scrolls wedged inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You find an old book on one of the top shelves. It's covered in dust, so you almost miss it. But as you brush it off and flip through the pages, you recognize it as an early copy of "The Iroccian Calendar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Hours of searching leave your back aching and your eyes sore.
+
+You don't find anything else of value.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>One of the books is especially heavy. Pulling it out, you see that it's a book on coinage with an assortment of actual coins pasted to the pages.
+
+You peel the coins away and take them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You found a tome with a gem-encrusted cover. The pages are illegible, but you're able to pop the gems out of their setting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Scattered across one shelf are springs, wires, and other assorted components. You recognize that they're actually pieces of a trap. You assemble it and pack it away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You search through several unlabeled jars of herbs and dried fungi. You discover one filled with carow golan.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
