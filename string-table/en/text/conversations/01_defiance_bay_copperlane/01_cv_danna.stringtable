@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_danna</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A woman swaggers in, her polished boots thwacking the floor with slow, deliberate steps. A crooked sneer warps her smooth face. 
+
+"Gareth, I'm hurt. You promised to buy only from me. What's a girl to think?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Gareth bows, his knees knocking together. "Please, my lady, I was just explaining that I don't do business with anyone else-" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Except this one last time, right?" Danna crosses her arms and rocks back on her heels. "There's always one more deal. Until you run out of credit, that is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Danna turns and regards you, looking you up and down. "And just who are you? You don't exactly look like a seed dealer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Stay silent.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Just someone making a delivery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"No one to be trifled with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"You've got pluck, but don't try to hold out on me. Especially not when I'm inclined to let you off the hook."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Her grin widens. "I just might have a use for someone like you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Verzano put you up to this, didn't he? That old fool's on a sinking ship, and he's determined to drag anyone who gets close enough down with him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Leave me out of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>She laughs. "Like it or not, you've put yourself in the middle of a rather awkward situation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>She eyes the trembling Gareth. "Gareth here knew better, but I'll give you the benefit of the doubt. In fact, I'll also give you a chance to get even with the imbecile who's been playing us both." 
+
+She narrows her eyes. "What do you say to killing Verzano?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Why would I want to do that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Why wouldn't you? He's used you to do his dirty work, and without telling you anything about what you were carrying... or who you were crossing."
+
+She taps a finger to her jaw, and her voice slows. "Of course, I'd also consider it a personal favor. And House Doemenel is never stingy with its friends." She glances at Gareth. "The loyal ones, anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Tell me about the Doemenels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I don't know whether to be relieved or insulted. We're one of the wealthiest merchant families in Defiance Bay. 
+
+"Let's just say, however, that some of our business practices are not officially sanctioned."
+
+Gareth groans and stifles a sob.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I won't do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>She flicks a gloved hand at you. "Then scurry back to Verzano and get your payment while you still can. Just make sure you stay out of my way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"All right, I'll do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>She nods. "We don't forget a favor any sooner than we forget a betrayal. You take care of this, and I'll see to it that my family knows your name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"What if I kill you instead?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I've got a sharp and ready blade here that says you won't. And even if you did, you'd have all of House Doemenel howling for your blood."
+
+She speaks carefully. "I guarantee that's not a problem you want."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Attack] "Let's see how tough you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Danna draws her blade. "Be thankful you won't live to regret this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Lie] "I'll do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I'll decide his fate when I talk to him again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"You'd better make up your mind quickly, because we're going to pay him his dues one way or another. Just make sure you stay out of our way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I get the sense that throwing threats around is second nature to you. I admire that, and I just might have a use for someone like you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Aloth glances at Gareth. "I think that's a compliment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>She laughs. "You've gotten yourself entangled in just about every other mess in the city. Why make an exception now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

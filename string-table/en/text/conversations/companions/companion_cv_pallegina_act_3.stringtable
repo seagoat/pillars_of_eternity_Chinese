@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_pallegina_act_3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>115</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Pallegina... wait." There's a tremble in the ambassador's voice as he slowly and barely raises his hand to pause Pallegina's advance. "There are men here, men wh- "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"That's enough, ambassador. We are capable of speaking for ourselves." The slight elf standing to the ambassador's side smirks and toys with a stiletto, lightly jabbing his captive in the ribs for emphasis. His bright green eyes turn upward to lock with Pallegina's angry stare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Your superior here, he told me that he didn't want you investigating." He scratches his head with the stiletto, a look of mock confusion on his face. "Given his version of events, it doesn't sound like you're very good at following orders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"We'll have to assume your orders, like those of your idiot comrades at Stormwall Gorge, are also to kill us. If you haven't figured it out yet, that's not going to happen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I don't like your smug posturing. I think I'll kill you now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Don't do anything rash. We can talk this through... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The elf appears bemused. "We can talk if you'd like, but I think you know how this is going to end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Always quick with a smart remark, aren't you? I don't really find you that funny, to be honest." The elf holds the stiletto near the ambassador's neck. "What do you think, ambassador?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>He appears annoyed. "Joke while you can. You've brought this on yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The elf blinks, clearly unprepared for the sudden escalation. Pallegina immediately seizes the lead. Her golden eyes flash, the irises seeming to grow impossibly large.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Your first error was mistaking my countrymen for helpless sheep!" Pallegina's head spins to address the Vailians held at sword point around the room, her voice echoing with energy. "Freros! Sérres! Children of the Republics! Show these dogs the price of threatening our people!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Pallegina's eyes narrow and her jaw clenches. "My vows are to ensure the safety of the Republics. Sometimes that means breaking orders, not following them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Safety?" The elf chuckles softly. "I don't think the Vailian ducs are going to be too pleased that your insubordination left them with an embassy full of dead diplomats."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Pallegina's eyes flash, the irises seeming to grow impossibly large. "Your first error was mistaking my countrymen for helpless sheep!" Pallegina's head spins to address the Vailians held at sword point around the room, her voice echoing with energy. "Freros! Sérres! Children of the Republics! Show these dogs the price of threatening our people!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ambassador, are you all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The ambassador shakes his head and looks around at the aftermath of the battle. "Am I alive? Yes. I'm not all right, Pallegina. When you plant a crop of intrigue, this is the harvest you reap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Pallegina looks incredulous at the ambassador's words. "Di verus? You should be thanking me, merla panita! Do you think that if we ignored this that it would go away on its own?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I do not. These people are more dangerous than I believed, I admit, but that does not release you from your responsibilities." Pallegina's feathers instantly ruffle in protest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"We cannot unwind time, Pallegina and we cannot wait for new orders. Continue on your mission to Twin Elms. When you are finished, find the people responsible for this and deal with them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Won't this upset the ducs bels?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"How gracious of you, considering she just saved your life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"This is the best course out of these dark events. The ducs will get what they need, diplomatically, and Pallegina and I will be able to deal with Thaos and the Leaden Key."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Events are moving too quickly for us to stand on protocol. We cannot hesitate. If we succeed, all will be forgiven."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Pallegina nods. "It's the Vailian way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>The ambassador furrows his brow. "Even I have to answer to the ducs bels, you know! Still, we cannot wait for our superiors to deliberate. If we succeed, all will be forgiven."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I will pray that Hylea gives you swift travels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Please don't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"You do what you can, I will do the same. For now, that means prayer." The ambassador shrugs and throws up his hands. "Good fortune to both of you. Ado vidòrio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ado vidòrio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Pallegina stands over the dead ambassador's body, tears brimming in her eyes, her feathered hands clenched in frustration. "You should have listened to me, postenago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>After a long pause, she turns to face you. The membranes of her eyes slide out and back, pushing rivulets of water into the feathers on her cheeks. "We're going to find this casità bazzi, this Thaos. He's going to pay, di verus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Is there anything else we need to do here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Let's not waste any time, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Not here, no, but the ambassador wanted me to help broker a trade agreement in Twin Elms. I need to speak to the anamenfath, though I still fear making this deal will further weaken the Dyrwood and cause problems for the Republics."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"No, but I still need to speak to the anamenfath in Twin Elms. I still fear making this deal will further weaken the Dyrwood cause conflict with the Republics in the future."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Verus. When we get to Twin Elms, I'll need to speak to the anamenfath. The ducs bels wanted me broker a trade agreement, though I fear it will weaken the Dyrwood and come back to haunt the Republics."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Verus, though I'll still need to broker the trade agreement with the anamenfath when we reach Twin Elms. After all this, I still fear it will weaken the Dyrwood and come back to haunt the Republics."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Pallegina holds out her arm before you enter the hall. "Wait. I don't know if I should go through with this, make the trade deal with the anamenfath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"If a Vailian deal with the Glanfathans weakens the Dyrwood, it could mean war for the Republics in the future."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"What other option do you have?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"You've had enough time to wrestle with your inner turmoil. I need to talk to the anamenfath and I'm not waiting on your conscience. Understand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I could put the idea in the anamenfath's head that the Republics are not interested in exclusive trade, but limited trade of goods that they do not already trade with the Dyrwoodans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"If you do that, I doubt the ducs will be forgiving. Consider your options carefully, Pallegina. The ramifications for yourself and these nations could be great."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"That's a terrible idea and the ducs will surely eject you from the brotherhood if you go through with it. Stop and think for a minute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"It's the right thing to do. The Dyrwoodans are at the mercy of the Republics and they don't even know it. Your actions today can prevent further suffering."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>She clenches her jaw in anger but remains silent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Follow your heart, Pallegina. You alone know what must be done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>She nods her head resolutely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>A troubled look crosses over her face. She is clearly conflicted, but nods weakly in acknowledgment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>The orlan turns her gaze toward Pallegina. "Yes, the Vailian godlike, blessed of Hylea... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Pallegina bristles and quickly spits out a response. "So they say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>The anamenfath's face shows no outward emotion, but her voice betrays annoyance at Pallegina's interruption. "...and diplomat of the ducs bels. I understand you were to be sent here with trade assurances from your masters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Revered anamenfath, it is true that I was chosen to convey these assurances, but understand that I was fashioned more for war than etiquette."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>The orlan smirks slightly. "In these dangerous times, perhaps it is better to send warriors to do diplomats' work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Pallegina musters a weak smile. "Indeed. Anamenfath, regarding the exclusive trade agreement..." Her voice quavers slightly and her golden eyes dart in your direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Nod head, smiling warmly.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Shake head, eyes wide.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Shrug.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Pallegina steels herself. "...the Republics feel it would be in the best long-term interests of all parties if you maintained your traditional goods trades with the Dyrwood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>The anamenfath's long ears pitch forward. "A strange turn. What do the Republics want, then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Pallegina speaks quickly but confidently. "Tâ Ondra Tara pearls. Trade will be picking up quickly on them in the Eastern Reach. You will buy them exclusively from us for the next five years. In exchange, we will be your exclusive market for Adra Ban and Carow Golan for the same period."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>The anamenfath considers Pallegina's words for several long moments. "An interesting proposition, Vailian. We will send emissaries south to discuss the details at greater length. Your appearance here speaks well of your ducs' intentions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Pallegina bows deeply. "Revered anamenfath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Pallegina hesitates for a moment before her eyelids droop in resignation. "... the Republics are fully committed to exclusive trade on all previously-discussed goods for the next five years."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"The Dyrwoodans still do not know of your intentions, do they? When they find out... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"We are aware of the risks, anamenfath, but we believe this is the right time for our people to begin a new trade venture with yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Very well. We will send emissaries south to discuss the details at greater length. Your appearance here speaks well of your ducs' intentions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Pallegina sighs. "I followed my orders. I can only hope the ducs are right and the Dyrwood doesn't go to war with us over this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Pallegina's eyes are wide with panic. "That's it. My position in the brotherhood, gone. I can't believe I just made up new trade terms to the Glanfathan anamenfath. Postenago!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Pallegina, you did the right thing for the Republics - even if the ducs can't see it from their vantage. You can deal with their disapproval later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"No sense crying about it now. It's over and done with. We need to find Thaos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Verus. They have a saying in Biageppe, 'New gold clears even the oldest debts.' If I'm right, all will be forgiven. If not... there's nothing I can do about it now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Her golden eyes narrow. "Apologies if the collapse of my life is slowing down your vendetta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"The ducs didn't leave you much choice. What could you do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"You're a great help, you know?" She shakes her head and laughs. "All right. Let's find Thaos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I could have done something, but chose not to when the moment came. Nothing to be done about it now." She clenches her jaw. "All right. Let's find Thaos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Pallegina places her hand on your shoulder. "Wait..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"What is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Get your hand off of me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Pallegina yanks her feathered back in surprise, a look of shock on her face. The expression is quickly replaced by sadness. "Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"If this hall, this temple truly allows us to commune with the gods, with Hylea, I don't think I can do this. All my life, people have told me I belonged to Hylea, I was one of her flock. But I've never felt it, never sensed any warmth from the places most sacred to her people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Being... like this. Being as I am has more often felt like a curse than a blessing. And so I've never prayed to her, not even in my most desperate hour. People talk about her like she's my mother. If that's really so, I shouldn't need to pray to her. She shouldn't make me beg for help. That's not what mothers do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"It's all right. I understand. We'll pray to one of the other gods."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Pallegina, we need the gods' support to catch Thaos. Now's not a good time to start getting picky."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Too bad. We're doing it anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>The membranes of Pallegina's eyes slide out as she smiles warmly. "Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"I suppose you're right. Still, I'm not looking forward to meeting her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>She clenches her jaw, her feathers ruffling along the side of her face. "Then do what you came to do." She spits at your feet to punctuate her command.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Pallegina steps forward, inside the flock of birds. "Wait. I'm not done with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Birds wheel and pivot, showing a flash of pale feathers. "Who is this that speaks in anger?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"You owe Pallegina some answers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Please forgive Pallegina's boldness, Hylea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>There is a pause as the birds settle on the branches and regard Pallegina. "Questions flutter and circle in her mind. Let her ask what she will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Passion is but another side of my nature. There is nothing to forgive." The birds settle on the branches and regard Pallegina.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>The birds cock their heads, craning and twisting their necks to look at one another. "You are angry with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"It's not often that any of our kind get the chance to speak to their... what should I call you? My mother? Father? Those words seem to fall short and yet be too generous, given our history."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"What did you expect? Should I be happy, to be like this? To live like this? What kind of creator does this to her creation and abandons it in a world this cruel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"And should I have plucked you from your home, wrapped you in my wings, and brought you to a nest like this one? Some tranquil and harmonious place far from the war chants and battle dances you love so well?"
+
+A hawk shivers, ruffling its feathers. "Tell me what you want."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"All I've ever wanted from any of your kind is to take some responsibility, any responsibility, for what you've done. To us, to every one of the children you've abandoned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>The birds flap their wings, rising from the branches. "You are a song of ferocity, and one I love well. I hear your furor and rage, and it is music. Your prowess and valor leave a trail like a tapestry upon the world.
+
+"I would not dampen your song, even with the comfort of my wings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Pallegina shouts angrily into the retreating flock of birds. "What does that mean?! Come back here!" There is no response. Pallegina's fists clench in frustration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"I'm sorry you didn't get the answers you were looking for, Pallegina. You deserve better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"She's not coming back. There's no use in shouting after her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"We all deserve better." Her shoulders slump in resignation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Pallegina wheels on you in anger. "I know! I know! There's no use, but I'm still going to do it anyway!" Exasperated, she throws up her hands. "Fine. You win. I'm done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"I should have known I'd never get any answers out of her." Exasperated, she throws up her hands. "I'm done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Nothing good will come of supporting Skaen. He cannot be trusted, nor can his mistress."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"The gods want to use me as a tool. They should have done this on their own. So what if Woedica gets what she wants? The punishment to the gods will be reward enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"What have the gods offered me that Woedica won't give me in excess should she rise to power? If I do the bidding of the other gods, I get little for my effort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"If Woedica gets what she wants, we ordinary people will pay for it. We always do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Sciòderie! I wish you could realize how short-sighted you're being."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Galawain's an unforgiving, brutal sort, but maybe the end he seeks would be the best for everyone. The ducs want the Dyrwood weakened even more, but in the end it will mean war. Either they will lash out at the Republics or the Readcerans will renew their hostilities."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

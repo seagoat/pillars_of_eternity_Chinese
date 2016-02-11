@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_sagani</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Long Hunt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Travel to the cliffs you saw in the vision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Find the adra arch in the woods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Locate the forest from the latest vision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Sagani, a dwarf from the southern island of Naasitaq, has come to the Dyrwood searching for the reincarnation of Persoq, an elder from her village. She's been journeying for five years now.
+
+The other villagers gave her Persoq's adra figurine, which contains a piece of his soul. She's been using it to track him, but it's gotten harder to pinpoint his location as she's gotten closer. When she learned that I'm a Watcher, she asked for my help.
+
+When Sagani is traveling with me, my unique sensitivities will allow me to see traces of where Persoq - or whoever he is now - has been.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>When I examined the bear statuette, I felt as though I were standing atop cliffs overlooking the water. Persoq - whoever he is now - must be here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Persoq had already left by the time we reached Pearlwood Bluff. But I saw another vision, and this time, he was deep in the woods, running toward an adra arch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>We found the adra arch at Elmshore, and I saw another vision. This time, Persoq was standing in a forest surrounded by blackened trees and crumbling ruins. He was with a group of Glanfathan hunters. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Pallegina recognized the place based on my description. She said she saw bluffs like these on the coast, just south of Defiance Bay, on her voyage to the Dyrwood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>The breeze smelled salty. These cliffs are near the ocean.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>The deep ruts in the road suggested heavy wagon traffic. This place can't be far from a big city.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Edér had seen the arch before. He said it's on the shores of Bael Lake, on the opposite side as Twin Elms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I've heard of this arch. There are several adra pillars near it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Based on the moist soil and the river reed in the area, I'm guessing the arch is close to a large body of fresh water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Hiravias knew the forest I described. He said it's north of Twin Elms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>The War of Black Trees had obviously touched this place. Many of the fiercest battles took place just outside Glanfathan cities and villages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>I think this forest is on the slope of a mountain somewhere. The ground was rocky, the trees were mostly evergreens, and the air was cool and thin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>I overheard that the floodwaters have receded. We may stand a better chance of finding Persoq now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>I have come to Pearlwood Bluff, which reminds me of the vision I had of Persoq. I will have to keep my eyes out for signs of him here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>We finally found Persoq. He was a stag, and he'd been wounded by hunters. Nevertheless, Sagani told him about the changes Massuk has been through and how the villagers have remembered him. I think the trial reaffirmed her sense of purpose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>We finally found Persoq. He was a stag, and he'd been wounded by hunters. Nevertheless, Sagani told him about his family. I think the ordeal reminded her of how she misses her husband and children.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>We finally found Persoq. He was a stag, and he'd been wounded by hunters. Sagani seemed to realize that this was merely a ritual for the comfort of her people back in Massuk. She recited the names of her fellow villagers, but I think she found the entire act rather meaningless.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>We never found Persoq's reincarnation.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

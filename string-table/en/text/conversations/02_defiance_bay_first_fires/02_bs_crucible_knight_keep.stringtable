@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_defiance_bay_first_fires\02_bs_crucible_knight_keep</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Won't be long before we're a formal knighthood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"House Doemenel still thinks it's the law in the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Dunstan's as gifted an armorer as you'll find in the entire city."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

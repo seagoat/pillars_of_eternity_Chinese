@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_twin_elms_elms_reach\13_bs_glanfathan_elms_ethik_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Are you sure of what you claim? I hoped that the sacrifices would've... waned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"With the frontiers again open, I assure you, we'll need much war paint in the coming season."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"We can fight without spilling the blood of innocents."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Every sacrifice gifts us with the power to save lives many times over."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"...but, is it worth the suffering we feel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Monsters and hunters care not for feelings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I heard the screams too, from Blood Sands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"The flow of war paint will cease, and our people suffer for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"They say he died at by the hand of man from far away."</DefaultText>
+      <FemaleText>"They say he died by the hand of a woman from far away."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Pray to Galawain, for the strength to overcome this change."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

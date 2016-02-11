@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_thug_stairs</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The guard holds up a hand as you approach. "You can turn right back around. The lower floor's all yours, but nobody goes upstairs." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Why not?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I go where I please." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"What's up there?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Sorry. I'll be going." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>He scowls. "Because you'll be breathing through new holes in your neck if you head up there, that's why. Just mind your own business. Once you're on the svef you're not going to much care where you are anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Then please go elsewhere," the guard says, rolling his eyes. "Go on. There's nothing up there anyhow." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The guard shakes his head. "What do you think? The bedroom, all that. Private things, I'm saying. You don't go creeping through other people's rooms." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The guard nods curtly. "Enjoy yourself." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The guard sighs. "Like I said, the upstairs is off-limits." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Why?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Give 100 cp.] "Any chance you could look the other way?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Get out of my way or I'll break your sword in half and feed it to you at both ends." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Fine. I'll be going." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The guard narrows his eyes... then takes the money. "I do like the view over this way..." He turns around.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The guard pointedly ignores you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The guard blinks, and takes a step back. "A-as you like. Gods, man. Just trying to warn you off." </DefaultText>
+      <FemaleText>The guard blinks, and takes a step back. "A-as you like. Gods, woman. Just trying to warn you off." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I told you to keep clear!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The guard frowns at you as you dig through your pockets. "Maybe you ought to save up what you've got," he says, and shakes his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

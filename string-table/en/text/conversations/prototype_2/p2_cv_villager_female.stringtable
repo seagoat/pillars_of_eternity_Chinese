@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\prototype_2\p2_cv_villager_female</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Travelers are always welcome here - just make sure to mind your own business when you're in our town."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"If you need to trade, Winfrith's got a steady supply of goods."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The villager nods at you in passing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"We could use more travelers like you to pass through this town. There are too few who would live up to you, Ogre-Slayer."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

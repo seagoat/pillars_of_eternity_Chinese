@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_4\cp_qst_confront_lka</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Memories of the Ancients</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Enter Sun in Shadow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Search for Thaos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>I have done as the delemgan advised - I have been carried safely into the depths of Breith Eaman with the blessing of the gods, who would have me stop Thaos before he sends the souls of Dyrwood's Hollowborn to be consumed by his goddess, Woedica. 
+
+Whether or not that happens, we would seem to have unfinished business, and I need to find him as soon as I can. The whispers in my mind are louder now, and no amount of rest is any relief. By the time I reach him I may be as lost as Maerwald was.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I have survived the fall from the top of the Court of the Penitents. The path before me leads through the Engwithans' eternal prison, and, if the delemgan sisters spoke true, to this "Sun in Shadow" where Thaos is bound.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>The souls given to me by the gods have illuminated a path through the darkness of this place. Thaos lies somewhere ahead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I have reached the Engwithan machine I saw in my dreams. Thousands of Dyrwoodan souls have been drawn to it. Thaos cannot be far.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

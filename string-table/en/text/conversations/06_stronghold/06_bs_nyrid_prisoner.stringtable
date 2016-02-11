@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_bs_nyrid_prisoner</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Feeling proud, are we? Leave me alone." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"It was a good plan, you have to admit. ...Until you turned up, anyhow." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I'll have you rotting in a pit the rest of your days, when I get out of here!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I should have killed her while I had the chance, you self-righteous bastard." </DefaultText>
+      <FemaleText>"I should have killed her while I had the chance, you self-righteous bitch." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I've... gotten harder beatings from family. You're getting soft." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Hey! Hey, don't leave me here, by that... animal!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Blazes... you really did a number on that one." </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

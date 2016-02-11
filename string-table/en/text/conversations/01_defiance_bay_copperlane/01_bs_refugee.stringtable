@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_bs_refugee</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I didn't want to come here, but my village wasn't safe anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"If animancers caused the Legacy, they have a lot to answer for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"We've had bad harvests before, but this year was the worst it's ever been."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I'm down to my last few coppers. What am I going to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Why isn't the duc doing more to help us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

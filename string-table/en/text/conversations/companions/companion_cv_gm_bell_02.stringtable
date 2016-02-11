@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_gm_bell_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>121</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"It is a plateau, formed of the spirit stone, adra. At its top is set a great bell, cradled in the reaching arm of the plateau. It stirs in the wind... and it sounds for leagues when struck by kith hands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"In distant times, the great bell served as a Glanfathan... watchtower, perhaps. Why they abandoned it, I do not know. Other men came in time, settlers... and claimed the tower as their own.
+
+"I, in turn, claimed it from them. The pillar became a cradle where I could draw new souls into the world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"The Birthing Bell... it is where I could draw new souls into the world. I recall some of the memory of it through what you have seen... but not all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I would hear again of what happened on the Bell with the Hollowborn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"In your memory, were you helping a woman give birth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Where is the Birthing Bell located?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I want to discuss something different."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Let's continue our journey for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Trigger Conv Node 11</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Yes... 
+
+"...yet I believe you only saw a small part of the birthing ritual. It is not all in a moment, nor in a day. 
+
+"It is a journey of many years between the child, the mother, and I. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Can you tell me about the birthing ritual?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I have other questions about the Birthing Bell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ask what you will - I will provide what answers I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"The ritual was... one of many steps, it took many tens of years to carve them... but always the child's thoughts were there to guide me, from the moment it began to awaken... to the three seasons within the mother, to the birthing day... and the years to follow.
+
+"The child's thoughts... that is where it began."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"The expectant mother... I could often sense her thoughts - and those of her child - before she could. I would soothe her, free her from the panic of questions.
+
+"I would sound the memory of the Birthing Bell atop the plateau in her mind, letting the memory of the vibrations fill my thoughts - and hers. 
+
+"Often, the child's soul could hear it, too, so the sound of the Bell... echoed in the mother's thoughts. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"There was much I could do to aid the mother... some sought the physical comforts of ritual to steady their thoughts - even adra from the Bell. 
+
+"Others would seek advice... words of counsel for the days ahead. I was able to provide draughts, tinctures... and a reading of the child's spirit, all to strengthen the mother."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"A telling of the child's spirit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Many... would come seeking their child's future... or a reading into the child's past, the lives its soul is said to have lived."
+
+There is a slow chill, and for a moment, it seems as if she is going to fade from your vision... as if she can't bear to be seen... and there is a spike of fear, alarm...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Such things... are not mine to see. I meant no offense."
+
+Oddly enough, it feels like she's not speaking to you... it feels like she's speaking to an audience. The air takes on a curious edge, a chill, which persists for a sharp moment... then fades into a dull fear.
+
+You feel the word "Watcher" resounding in her mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"You're frightened... something about Watchers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>As the thought of Watchers crosses your mind, you feel a sharp pain... stabbing... and the sudden burn of lashes across your back and shoulder... and then it is gone... and you feel the Grieving Mother before you, silent... almost fearful, wary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"I was something else, but because the title 'Watcher' was cast on me, the word carried a weight I had neither earned nor deserved.
+
+"The world seems... filled... with such titles. They distract, I think, from the actions of the person. From their strengths."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Why did you believe you were a Watcher?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"The world has many corners, and in some corners, the name Watcher is... more known. It is an easier title than others, and at times, it is easier to wear.
+
+"Placing a title upon what is unknown can dispel the fear of it... and I did not fight it. I even believed it true, though I knew little of the ways of Watchers. 
+
+"It even... granted me strength."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"I was able to see the thoughts of others, shape them, and help guide souls... 'Watcher' seemed enough, and the name seemed to matter little in the light of one's acts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"But... if they came to you to read their child's souls, what did you tell them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"I... drew upon the present. I felt the soul of the mother before me... and used that to tell the child's path, to give it a voice.
+
+"If only the thoughts of the mother and the emotions that lie beneath were mine to impart, I did... and... so I used that as the telling of their child's future."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"What if it turned out to be untrue?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"...futures fulfilled by one's own spirit are as strong as anything seen by another's eyes. And if one draws from the emotion of the mother... 
+
+"It... matters only when harm is done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"And their lives I knew well. I could weave their lives, their thoughts over time - to the mother, to the child - and once the child had been born, was sheltered... I could relax the threads of thought until the child could stand on its own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"So... you shaped their thoughts, made the readings true."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"This is my calling... to show them the life I see before them, and even greater... make them believe it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"That is not what a Watcher does... we do not shape minds, we see them as they are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Even... the most strongly worded tells may not be enough to save a child and allow it to be born...
+
+"If I have the strength to strip away the stem of a mother's spite to expose kindness, weave nurturing from disdain and neglect, then that is my calling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"And with the weight of 'Watcher' behind my thoughts, these tells gained strength... strength I never possessed on my own. They believed. 
+
+"And what they believed became the truth. With each child that was set upon that path, the title of Watcher became stronger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"You must understand... without such weight upon my words... many lives would have been lost. Drowned, cast in the Lake beyond the Bell. Now the trail to the Lake is lost and reclaimed by the forest... as was meant. 
+
+"A Watcher was not there to look over us, but it was a Watcher that saved them... and with a Watcher's strength, children were born, were cared for, and grew strong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"To inflict your will on another... that is not reading, that is control."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"What use is a frightened will when a spirit is at stake? Would you let the fears of a mother end her newborn's life?
+
+"You felt it in the memory, the weight of it, the importance of the child's life - it was a memory we shared."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"But... what did you do when the Hollowborn came?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"The curse..."
+
+There is a slight chill between the two of you, a current of emotion. The next thoughts come slowly, almost frightened into your mind... like terrified children, blanketed with a mother's fear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"So you twisted the mothers' feelings for their children."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Why would you do such a thing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"And what if the mother's emotions were painful... hurtful?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"One must guard oneself when drawing upon the thoughts of another.
+
+"The pain of a mother's rage and disdain... it can be a powerful poison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"You sound like you speak from experience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Yes... and I live with that weakness still.
+
+"I have learned to shield myself from such edged thoughts, strip them away, and to tell a... clearer picture of the child."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"I don't understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"I didn't know you had the ability to read souls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"That sight... past lives... future lives..."
+
+There is a slight hesitation in the Grieving Mother... a brief spike of worry, then quelled... the sensation is an odd one, but vanishes as quickly as it came.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"The Birthing Bell lies deep in the great forests of the Dyrwood, at the borders of Glanfathan lands. Surrounding it...
+
+"...barely a town, not one you would find on any map... but it held an important place for those there, even if we were far from the beaten track. 
+
+"Small families, tied like a knot, joined at the wrists in mind, in thought. All were welcomed, all had purpose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"The first birth was the deepest, the saddest. Nothing I could do could find the child's spirit, guide it to him..."
+
+You feel a strange... absence between you, as if your thoughts are being shared across a great distance. The thought bleeds out for a moment, then returns, sharp, near - personal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"I could not understand what had happened. What I might have done. I feared I... no. I could not dwell on that thought.
+
+"The child was always there, always a reminder of what had happened, a marker. I made her care for it. I made them all care for it... until I could find what I had... what had gone wrong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"You made her care for it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"But the Hollowborn... it wasn't your doing. It happened elsewhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"I understand. You had to defend yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"It... was worse. I made her think it was whole... and... 
+
+"...then more births came to the Bell... all as before, and many were the minds I had to change... a circle of empty children, with parents' eyes burning bright..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Little word of the outside world reached us. It was enough time for rage and pain and grief to guide hands... I feared what would happen to the children... what would happen to me...
+
+"Every mother knows her womb may shed a stillborn, but these cold, soulless creatures? The parents wouldn't have understood... and fear of the unknown breeds violence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Yes... and yet, was the mother not also innocent? Did she not also deserve my protection? 
+
+"I feel the purity of my reasons and yet... little satisfaction for what I've done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Did we share that memory? Or did you inflict it on me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"That memory... it's not the truth, is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"A greater good was done... and children were saved. 
+
+"It is a choice you may be forced to make one day, and when faced with it, you will make the same one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"When that happens, I'll be making my own choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Yes, I am certain I will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"I refuse to exercise that kind of control over others. Even for a greater good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"This choice is not yours to make, Watcher.
+
+"You will do as the world needs, as its children need. It is greater than you and your... twist of sight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Her thoughts lap against yours like cool, soothing waters. "That is good, Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Protecting innocent lives is worth any price."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"You inflicted your will on the townspeople. That was wrong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"They... they would have killed the children. I had no choice.
+
+"The matter was too great to seek permission. So I made them believe their children lived whole and healthy. Until there were too many children... and the protection crumbled."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"What happened then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"I... held their minds within mine. I shaped and guided them as long as I could. And with each passing day, each new birth, the strain grew. And the more I felt my control slipping, the more I focused my thoughts.
+
+"Eventually, even I succumbed to the power of my own illusion. I'd woven the threads so tightly that I could no longer see through them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"And then one morning, I heard funeral bells tolling in the village. The sounds of wailing rose through the mists. A mother had died, her mind so focused on the care of her Hollowborn child that she'd neglected even to feed herself.
+
+"And with that, the illusion broke. The townsfolk saw their Hollowborn the way they were, not the way I'd wished them to see.
+
+"By the end of the day, they'd begun to look at me differently, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"I did not understand what had happened, but I knew enough to flee. And every suspicion that surfaced, every faded memory of what I'd done, I pressed it down, tucked it away."
+
+She feels cold. Lonely. Rigid. 
+
+"My skill failed me, but I did what was necessary. I... regret the mother's death, but how much worse would it have been had I not acted?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"The right thing is not always easy. And yet if we can redeem the lost children of the Dyrwood, our struggle will be worth it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"To rule another like that, even for mercy, is wrong. We must accept that there are some things we cannot control."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"I no longer wish for you to travel with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>As you give voice to the thought, you can feel the distance between the two of you widening. Then...
+
+Then she slowly vanishes from your vision, as if sinking into the air like sinking into a black lake, and there is a great stillness. You can see her silhouette, then... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"There were other ways. You could have sought outside aid for the children. Or fled if you'd feared for yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"The choices you speak of are not always clear in crisis. Not in that heartbeat when the first mother begged for her child and I had to decide what I would give her.
+
+"How could I have known where that path would lead, or that there were others seeking the same answers? And even so, that hesitation would have cost a young life..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>Trigger Conv Node 237</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"My actions only caused more misery. Worse, I took from an entire village... made them as empty and helpless as the children I sought to protect."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"But what then? Is it better to stand by in the face of tragedy? To let it wash over the world, a hungry tide?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Life is often painful. You can't will it otherwise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Sometimes. If your actions would only make it worse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Forcing your will on others is an injustice. How could anything but tragedy come from it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"The world has a way of righting itself eventually. You must let it do so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"My hands have always been quick to guide, Watcher... to draw a child from the womb, to ease a mother's pain... it is not my way to stand aside.
+
+"But the ebb and flow of birthing pains is as the turning of the Wheel. A new birth, a new chance, a new life... once this ill has run its course. Perhaps this is where our hopes must lie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"You sensed the mother's thoughts?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Sharing memories and thoughts can bond lives together... as can hardships... and most of all, the sharing of what is familiar. 
+
+"The Bell itself provided shelter for such thoughts, opportunities to see deep into the crevice, hollows in the rock where one could find shelter... clefts where you could feel the adra all around you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>As she speaks... you feel your legs, bent, crossed, and the warmth of walls around you... and blankets, woven thick, beneath you.
+
+"...such shared images can bond souls even tighter, and allow them to draw strength from each other."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"You mentioned the ritual lasted years... what would happen after the birth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Once the pain is channeled away, and the mother and child breathe again, I sound the birthing bells on my wrists and allow the mother to hear the child's thoughts, the ringing echoing in each other's thoughts..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"The bells open the way between them, let her feelings pass into the newborn, and let her feel the child in return.
+
+"...and when the feelings meet, that is when I weave another memory and leave it tied in their minds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Did these bells play an important role in the birthing process?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Yes, and for years after. I gave a set to the child after delivery. It is a reminder of the memory the mother and child shared." 
+
+You feel an odd sensation, a warmth, and you can feel a smile being shared, then it flickers, and it is gone.
+
+"As the bells coaxed the child forth, so they accompany the child onwards, fastened about the wrists... to care for him, in mind and body."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"There is no magic in it except the magic of... practicality. If a child sought to leave their cradles, or escape their cribs..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"...the mother could know through the warning of the chimes alone. At times, if the bond was strong, so would I."
+
+The sensation of a smile comes again, slower, more knowing, between you.
+
+"If not watched, children... much trouble may be had from tiny hands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"The chimes are kept until the child needs them no longer. When I no longer can hear them sounding in my mind, I know their spirit has changed... and the bonds we shared are long gone.
+
+"This shedding may last many years... or but a few. But it is... necessary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"You watched over these children for years after their births?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Children are... fragile things. Even the ties of blood and mind may not be enough. They must be watched, and even... 
+
+"...even then, the body may fail the mind. But if watched... even the most sickly child may cling to life if determined enough, and many of their souls were tied to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"If a child's spirit failed... I could sound the chimes in their mind and grant them strength, even from afar. It... it did not always serve, but.. it gave hope."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"It sounds like you've seen tragedy, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Enough to never wish to feel it again. 
+
+"In the times before the Bell... children who died... were cast upon the waters of the Lake beyond the Bell. Sometimes, while alive, if their paths and futures were deemed... weak. 
+
+"It was a... different time. Children were treated... carelessly. Those times.... those times are past."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>She lowers her head. Something seems to surround you... a mist, heavy and thick. As the Grieving Mother looks inward, it closes in, threatening to choke you.
+
+Finally, she raises her gaze, and the mist retreats. "I know only that it is a scourge upon every hearth in the Dyrwood, and one that threatens to tear this country asunder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>She is quiet for several moments. "Your words have soothed my mind... in ways I did not expect. I thank you, Watcher, for the gift of your sight... for using it to guide me out of the prison of my mind.
+
+"Let us hope it can also free you from the illusions Thaos has woven around you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"I did not see it as such... I sought to weave a cradle with my mind... but it became a prison. For the village and for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"But... you feel it was right to hold and direct their minds? Even knowing the cost?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"You did not know the cost then. We must often plot our courses with imperfect knowledge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Mercy gave the children a chance, and it brought their families joy, if only for a while."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"I meant to soothe their pain... as I had done for so many mothers in the throes of labor. 
+
+"But my thoughts became a trap... a prison. For the village and for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"I thought I could. So many minds I had willed into acceptance... mercy... And yet those thoughts became a trap... a prison. For the village and for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"A melody... brief yet sweet. A fragile thing to cherish while it lasts. A short turn of the Wheel, but a turn all the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"A fresh and innocent life is valuable above all things. Yes, it was worth it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"A tapestry woven thread by thread... never seeing the pattern. So it is with the thoughts and dreams that move us, that shape our reality."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Why would you give a telling of a child's spirit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"It seems your 'readings' were necessary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>The Grieving Mother's mind is silent and still for several moments. She lets your words wash over her, seeping into the cracks in her own thoughts. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"...you speak of the curse that fell upon the children. This curse that has fallen on this country."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"...such sight lay beyond me, yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>And suddenly, there is a rasping cry across your consciousness... She raises her hands, and you see the chimes draped from them, yet they make no sound as she moves. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

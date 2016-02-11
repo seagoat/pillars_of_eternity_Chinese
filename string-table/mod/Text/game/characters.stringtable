@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name />
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\characters</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>1641</EntryCount>
   <Entries>
@@ -27,6 +27,11 @@
     <Entry>
       <ID>16</ID>
       <DefaultText>亡魂</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />      
       <FemaleText />
     </Entry>
     <Entry>
@@ -155,6 +160,11 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>67</ID>
+      <DefaultText>EN_NPC_TEMP</DefaultText>      
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>68</ID>
       <DefaultText>德鲁伊猫</DefaultText>
       <FemaleText />
@@ -162,6 +172,11 @@
     <Entry>
       <ID>69</ID>
       <DefaultText>盛卡恩信徒</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>NPC TEMP</DefaultText>      
       <FemaleText />
     </Entry>
     <Entry>
@@ -322,6 +337,11 @@
     <Entry>
       <ID>104</ID>
       <DefaultText>英格维斯艾德拉禁令护身符</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>NPC TEMP</DefaultText>      
       <FemaleText />
     </Entry>
     <Entry>
@@ -650,6 +670,11 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>171</ID>
+      <DefaultText />      
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>172</ID>
       <DefaultText>暴徒领袖</DefaultText>
       <FemaleText />
@@ -702,6 +727,11 @@
     <Entry>
       <ID>185</ID>
       <DefaultText>抄写员</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText />      
       <FemaleText />
     </Entry>
     <Entry>
@@ -952,6 +982,11 @@
     <Entry>
       <ID>236</ID>
       <DefaultText>小型黑软泥怪</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>EN_CREA_TEMP</DefaultText>      
       <FemaleText />
     </Entry>
     <Entry>
@@ -2500,6 +2535,21 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>558</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>560</ID>
+      <DefaultText>TESTICLESE</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>561</ID>
+      <DefaultText />      
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>563</ID>
       <DefaultText>抗议者</DefaultText>
       <FemaleText />
@@ -2590,6 +2640,11 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>581</ID>
+      <DefaultText />      
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>582</ID>
       <DefaultText>篷车主人奥德玛</DefaultText>
       <FemaleText />
@@ -2600,8 +2655,19 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>584</ID>
+      <DefaultText>NPC
+</DefaultText>      
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>585</ID>
       <DefaultText>卡利沙</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>586</ID>
+      <DefaultText>NPC_Template</DefaultText>      
       <FemaleText />
     </Entry>
     <Entry>
@@ -3085,6 +3151,11 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>684</ID>
+      <DefaultText />      
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>685</ID>
       <DefaultText>艾德拉甘</DefaultText>
       <FemaleText />
@@ -3247,6 +3318,11 @@
     <Entry>
       <ID>718</ID>
       <DefaultText>弓箭手</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>719</ID>
+      <DefaultText>NPC_Test</DefaultText>      
       <FemaleText />
     </Entry>
     <Entry>
@@ -3540,6 +3616,16 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>780</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>781</ID>
+      <DefaultText>Cutscene Placeholder</DefaultText>      
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>782</ID>
       <DefaultText>敦里德送信者</DefaultText>
       <FemaleText />
@@ -3612,6 +3698,11 @@
     <Entry>
       <ID>796</ID>
       <DefaultText>保镖</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>797</ID>
+      <DefaultText />      
       <FemaleText />
     </Entry>
     <Entry>
@@ -3792,6 +3883,11 @@
     <Entry>
       <ID>833</ID>
       <DefaultText>维安那</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>834</ID>
+      <DefaultText />      
       <FemaleText />
     </Entry>
     <Entry>
@@ -4820,6 +4916,16 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1040</ID>
+      <DefaultText>CompanionA</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1041</ID>
+      <DefaultText>CompanionB</DefaultText>      
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1042</ID>
       <DefaultText>欧维特侍卫</DefaultText>
       <FemaleText />
@@ -4947,6 +5053,11 @@
     <Entry>
       <ID>1067</ID>
       <DefaultText>部落成员</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1070</ID>
+      <DefaultText>NPC_Template</DefaultText>      
       <FemaleText />
     </Entry>
     <Entry>
@@ -5145,6 +5256,11 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1111</ID>
+      <DefaultText />      
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1112</ID>
       <DefaultText>伪造骑士</DefaultText>
       <FemaleText />
@@ -5322,6 +5438,11 @@
     <Entry>
       <ID>1147</ID>
       <DefaultText>奥兰侍者</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1148</ID>
+      <DefaultText />      
       <FemaleText />
     </Entry>
     <Entry>
@@ -5707,6 +5828,26 @@
     <Entry>
       <ID>1227</ID>
       <DefaultText>伊奥萨斯牧师之斗篷</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1228</ID>
+      <DefaultText>BB Fighter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1229</ID>
+      <DefaultText>BB Priest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1230</ID>
+      <DefaultText>BB Rogue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1231</ID>
+      <DefaultText>BB Wizard</DefaultText>     
       <FemaleText />
     </Entry>
     <Entry>
@@ -6175,6 +6316,11 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1325</ID>
+      <DefaultText />      
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1326</ID>
       <DefaultText>奥努的守卫</DefaultText>
       <FemaleText />
@@ -6187,6 +6333,11 @@
     <Entry>
       <ID>1328</ID>
       <DefaultText>塔丽娜</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1329</ID>
+      <DefaultText />      
       <FemaleText />
     </Entry>
     <Entry>
@@ -6360,6 +6511,31 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1364</ID>
+      <DefaultText>Defiance Bay AMBIENT</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1365</ID>
+      <DefaultText>Defiance Bay BARK</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1366</ID>
+      <DefaultText>Glanfathan AMBIENT</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1367</ID>
+      <DefaultText>Glanfathan BARK</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1368</ID>
+      <DefaultText>All Actors</DefaultText>
+      <FemaleText />
+    </Entry>    
+    <Entry>
       <ID>1369</ID>
       <DefaultText>乳白幼蛛</DefaultText>
       <FemaleText />
@@ -6407,6 +6583,11 @@
     <Entry>
       <ID>1380</ID>
       <DefaultText>福沃特</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1381</ID>
+      <DefaultText />      
       <FemaleText />
     </Entry>
     <Entry>

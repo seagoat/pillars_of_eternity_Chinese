@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\stronghold</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>88</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>{0} expires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>{0} added! The quest expires in {1}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>{0} construction completed!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Crafting ingredients have been collected.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Hireling Payday!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>{0} is leaving.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>{0} was paid {1}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>{0} was paid {1} and returned to active duty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>{0} was not paid {1}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>{0} was not paid {1} and is no longer on active duty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>{0} completed! {1} returns to the stronghold with {2}. Spoils await in the Great Hall treasury chest!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>{0} attacked the stronghold!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>{0} was not paid {1} and left the stronghold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>{0} attacked the stronghold, but no damage was done!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>{0} was destroyed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>{0} was killed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>You accrue a debt of {0}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Taxes collected.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Lost {0} to bandits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Earned {0}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Your debt was paid off!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Your debt was reduced to {0}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>All earnings were lost to bandits. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Prison break! {0} has escaped the dungeons!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Kidnapping! {0} has been kidnapped from the stronghold!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>{0} was killed by the kidnappers!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>{0} has been rescued by {1}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>{0} arrives at the stronghold for a visit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Security reports that {0} will attack the stronghold in {1}!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>{0} has arrived, seeking employment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>A group has arrived, offering to buy the freedom of {0}. In exchange for the prisoner, they are offering {1} or {2}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>{0} finishes escorting {1} and returns to the stronghold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>{0} abandons {1}. They return to the stronghold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>A supplicant has arrived from {0}, seeking {1} or an escort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Memory of your treatment of {0} is fading, and your reputation has recovered.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>{0} has arrived, offering to sell you {1} for {2}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>You ignore the supplicant, and he leaves the stronghold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>You ignore the supplicant, and she leaves the stronghold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>{0} leaves the stronghold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>{0} was on route to Caed Nua, but was accosted by brigands on the road and had to flee. Consider raising your security to ensure the safety of travelers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>{0} experience</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>money</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>items</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>reputation with {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>{0} and {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Nothing new to report.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>{0}, a cruel ruler from the north, has arrived at the stronghold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>{0}, a local fool, has wandered into the stronghold and intends to stay for a while.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>A wanted criminal by the name of {0} has arrived at the stronghold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>{0}, an old hero of the Saint's War, has arrived at the stronghold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>A wealthy noble by the name of {0} has arrived at the stronghold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>{0}, an Aedyran dignitary, has arrived at the stronghold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>{0}, an exotic wares merchant, has arrived at the stronghold bearing rare items for trade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>{0} has arrived demanding coin for their troubles or safe escort through the wilds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>A distant relative of {1} has arrived at the stronghold requesting they be freed in exchange for coin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>{0}, a slaver from Readceras, has arrived requesting a prisoner to buy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>{0}, an animancer, has arrived requesting a prisoner to conduct experiments on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Turn {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>{3} {6}, {4}: Hour {2}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Finished in {0}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Leaving in {0}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>{0} remaining</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>He was nearly set upon by brigands on the road, but your patrols intervened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>She was nearly set upon by brigands on the road, but your patrols intervened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Total wages paid: {0}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>An attack was imminent, but your patrols staved off the enemy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Enemy forces are approaching your stronghold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>An upgrade was completed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>A visitor has arrived.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Enemy forces have attacked your stronghold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Hirelings have been paid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Taxes have been collected.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>A new adventure is available at your stronghold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>An adventure has been completed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>A prisoner has escaped.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>A visitor has been kidnapped.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>I found Nyrid in Copperlane, a hired thug impersonating a svef dealer who owed a debt to his supplier. He was using the identity to sell svef and thereby recoup the supplier's losses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Naedle is an agent of the Leaden Key who sought to ambush me in Stormwall Gorge. After seeing that her cohorts were afraid to face me, she had second thoughts and surrendered.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Kestorik was a scout for a population of vithrack inhabiting the Endless Paths of Od Nua. It asked for death, but I thought it better to lock it away in the dungeon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Aefre is a member of the Dozens who organized a harassment campaign against patrons of the Salty Mast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Captain Esmer found himself surrounded by Glanfathans while trespassing on their territory. The Glanfathans agreed to let him go if I took him prisoner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Eorn was a fugitive wanted for the murder of one of the Knights of the Crucible. I found him hiding in the catacombs beneath Defiance Bay and chose to administer my own justice for his crimes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Gramrfel and a group of death-fixated brigands attacked me as I traveled through Magran's Fork. He proved unprepared to meet his own death, and begged for imprisonment instead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>{0}: Killed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>{0}: Kidnapped</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Event</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>{0}: Ignored</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Miscellaneous</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

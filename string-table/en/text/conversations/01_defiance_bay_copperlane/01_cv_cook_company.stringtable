@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_cook_company</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText> A well-groomed man steps through the hall with a confident swagger, a smug grin etched on his face. He is flanked by five other hard-looking individuals.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>One of his companion eyes you for a moment before spitting chew at your feet. "Another pup come wandering in, I see. Just know that Byne's Giantslayers run things around here and you'll be fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Whatever you say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"That's good advice. Here's the rest. One - the choice bounties are ours. Two - the Giantslayers don't share. It's that simple." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Never heard of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>His eyes narrow. "You have now. Stick around Defiance Bay and you will again. Plenty of bounties to go around, but there's a reason the Giantslayers get the lion's share. Remember that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>A voice bellows across the hall. "Enough jabber, Byne. You gonna do the job or talk about it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>His jaw tightens. "Wenan's right. That coin ain't going to collect itself." He looks at his comrades and jerks his chin toward the door. "See you around, pup."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Can I join?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>He laughs. "Around here, we get our pick of the best adventurers, and we don't take charity cases."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Out of my way, pup."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_esternwood_sellsword</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>35</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Hold there! What business do you have in the Esternwood?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Is this the way to Raedric's Hold?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"You guard this road? For who?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Yes. Our lord's keep lies to the East. I warn you, he's not one to suffer trespassers. ...Nor does he enjoy minstrels, if that's your trade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The guardsman stands a little straighter. "We are sworn to Lord Raedric, last of his line, thayn of Gilded Vale and lord of the land you walk upon." He smirks. "He of the Deep Pockets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Can you tell me about Raedric's Hold?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I could. If I wished to." The guardsman grins at his own jest. "And if I were in a position to tell you anything. A comfortable position. Counting my copper." He smiles thinly. "Fifty pands, say." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>He shrugs. "Have it your way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Give 50cp.] "Here you are." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I think not." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"My business is my own." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The guardsman glances around with affected caution before taking your coin. "Right, then. What was it you wanted to know about the Hold?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The guardsman sets a hand on the pommel of his blade. "Not here, it isn't. Nobody passes through without Lord Raedric's permission. So I ask you again - What is your business in the Esternwood?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"What is it? I thought we'd, ah, come to satisfactory terms." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Yes? What is it now?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"My business is putting down nosy sellswords." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"You're a clever one, are you? You won't be so clever with a few new holes in your face." The guard whistles sharply for his comrade, and moves towards you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I've come to pay my respects to Lord Raedric." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Right." The guardsman looks you over doubtfully. "Go about your business, then. But mark me - you get it into your head to strike up trouble, and you'll be rotting in the dungeons for the rest of your life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Hold there, si- ...Hylea's tits, what in the blazes are you?"</DefaultText>
+      <FemaleText>"Hold there, mada- ...Hylea's tits, what in the blazes are you?" </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"You're a long way from home, I know that much. What business do you have in the Esternwood?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Tell me about Lord Raedric."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Is the keep heavily defended?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"How can I get in to see Lord Raedric?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I'm only passing through. I don't mean any trouble." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The guardsman looks you up and down, a dubious expression on his face, and then nods sharply. "Then you'd do better to turn back to the west. Lord Raedric's keep lies east of here, and he hasn't any patience for trespassers." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>The guardsman shakes his head. "You can't. There's been an... incident, at the keep. In any case, he's doubled the watch and told everyone that there are to be no visitors. Suppose that includes you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"As I said... A little copper goes a long way. And fifty pands would go even further." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"That's all the questions I had." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"You would turn on your liege lord for a handful of coins? I should tell Lord Raedric just how cheaply your loyalty is bought." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"H-hey now, none of that. I wasn't suggesting anything." The guardsman glances nervously at his comrade. "It's not as if you can see Lord Raedric as it is. He isn't taking visitors." He sniffs. "So, no harm done, right?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Waiting on some lore from Rob]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Of course. You'd need an army to take the keep. And you'd have to be mad to consider it in the first place. Lord Raedric's been hiring the finest blades coin can buy, and he's got them on constant watch duty." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Right. Then I'm back to patrol. You'd best move along yourself. Gilded Vale's got plenty to offer." He points down the road to the west. "And it's that way." </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

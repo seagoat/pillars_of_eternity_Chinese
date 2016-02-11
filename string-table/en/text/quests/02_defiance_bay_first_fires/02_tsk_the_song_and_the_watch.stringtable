@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_defiance_bay_first_fires\02_tsk_the_song_and_the_watch</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Missing Sentries</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Enter Heritage Hill.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Find the missing guards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Speak to Wyla.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Wyla, a justiciar in the Crucible Knights, has had several of her novitiates standing guard outside Heritage Hill go missing under mysterious circumstances.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The gate to Heritage Hill is sealed, but Wyla told me that the guards would be expecting me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>The missing guards are likely somewhere in Heritage Hill.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I've dealt with Leyra and she will no longer trouble the Crucible Knights - or anyone else - in Heritage Hill. I should go to Crucible Keep in First Fires and tell Wyla what happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>The guard at the gate said one of the guards on the last watch heard someone shouting an order. It sounded like it came from the northeast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>The guard at the gate mentioned that both times the guards disappeared, the gate was unlocked. It's possible that the missing guards went inside Heritage Hill on their own for some reason.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I've found the corpse of what appears to be a commander of the Crucible Knights. Wyla mentioned that one had disappeared just before Heritage Hill was locked up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I told Wyla that I'd dealt with Leyra's restless spirit in Heritage Hill. She was grateful to know what had happened to her missing novitiates.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I told Wyla that I'd dealt with Leyra's restless spirit in Heritage Hill. She was grateful that not all her missing novitiates were dead. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I told Wyla that I'd dealt with Leyra's restless spirit in Heritage Hill. She was grateful to know that all of her missing novitiates were safe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>With Wyla dead, her missing novitiates are no longer of any concern to me.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

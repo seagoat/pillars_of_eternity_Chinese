@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_bs_animancer_male</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Speak with Head Warden Ethelmoer if you wish to make an appointment with one of our animancers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Animancy means progress and experimentation. Unfortunately, that makes some people uncomfortable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The animancer straightens his robes and gives you a nod.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"We see quite a few Brackenbury locals for treatment. It helps fund our research."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"The animancy hearings should be over any day now. Our future is in the hands of the duc."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

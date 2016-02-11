@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_oldsong\12_cv_oldsong_cipher_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I am instructing, estramor. What do you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Show steel sun.] "Are you a cipher? I need to know about someone who might've touched this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Nothing. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The orlan's eyes trace along the contours of the ornamental sun. Now and then he grunts appreciatively at some hidden detail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I find demonstrations far more instructive than lectures. Perhaps we may make progress today after all."
+
+He glances at his student.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Pay attention."
+
+He takes the relic in his hand, and his eyelids begin to flicker involuntarily over elongated pupils. For a moment it feels as though some slick and wriggling insect is crawling through your ear canal, and when it is over you can feel the mind hunter's presence hovering over your consciousness. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Come. I will show you the way." The voice reverberates through the channels of your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Trigger Conv Node 176</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"A welcome lesson for my young student. I am grateful you sought me out."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

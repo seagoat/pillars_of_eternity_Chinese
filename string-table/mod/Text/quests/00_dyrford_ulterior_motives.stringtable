@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name />
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\00_dyrford_ulterior_motives</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>40</EntryCount>
+  <EntryCount>43</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -32,6 +32,11 @@
     <Entry>
       <ID>5</ID>
       <DefaultText>返回德克根酒馆与奈芙蕊见面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />      
       <FemaleText />
     </Entry>
     <Entry>
@@ -90,6 +95,11 @@
       <DefaultText>我在镇子西头遇到了追踪奈芙蕊的人梅德瑞斯。他告诉我，奈芙蕊盗窃了杜门朗人，而他正在追寻她。
 
 他等待时机准备伏击奈芙蕊。如果我决定协助他，我就可以把她引至他的埋伏地点，当然杜门朗人也会因此感激我。否则的话，我可以警告奈芙蕊，让她朝东边行进，而杜门朗人自然不会乐意听到此事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText />      
       <FemaleText />
     </Entry>
     <Entry>
@@ -205,6 +215,11 @@
     <Entry>
       <ID>30006</ID>
       <DefaultText>我告诉奈芙蕊梅德瑞斯的地点，这样她就能逃跑了。我带梅德瑞斯到错误的方向。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText />      
       <FemaleText />
     </Entry>
     <Entry>

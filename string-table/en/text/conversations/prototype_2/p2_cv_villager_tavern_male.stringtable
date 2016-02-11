@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\prototype_2\p2_cv_villager_tavern_male</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Don't be shy, grab a drink from Osmaer over there and sit anywhere you'd like!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"A hard days work desevers just as hard a drink, I'd say."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>This man swirls his pint for a moment before a taking rather large swig, polishing off its contents.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Another round, Osmaer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

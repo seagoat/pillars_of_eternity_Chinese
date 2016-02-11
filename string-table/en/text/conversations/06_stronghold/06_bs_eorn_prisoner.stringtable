@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_bs_eorn_prisoner</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"This... isn't so bad really. Fewer trolls, anyway." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Please... won't you let me go? I didn't mean to hurt anyone..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Please! No... no more..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Stay away from me!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Please... Just let me go. You won't see me again. I swear it!" </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

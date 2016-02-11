@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_weaxel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>An orlan man relaxes with his feet propped on the table. Patches of dark brown skin peek out from under a full mane of blue-green hair. He and the orlan woman with him exchange laughs and comments with the trio at a nearby table, and he spins a dagger in his hand. 
+
+His hazel eyes watch you. "You look like you've seen a night or two in the wilds. Joining us for a drink?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Did you buy a March steel dagger from Igrun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Who are all of you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Back again, I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"The name's Two-Tone Weaxel. The lady next to me is Key. We've had our fun with the expeditions, but we were hoping to enjoy a little peace and quiet. For the next few weeks, anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>A man at the next table nods at you.
+
+"I'm Dread-Shot Daedon, this is Hurdy and Ilfa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>He displays the blade on a flat palm. "I did, and a fine piece it is. I don't know of any more circulating in the city. Outside the steel in the Crucible Keep, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I was trying to get it for a kid named Gordy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"How much to take it off your hands?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>He turns the blade in the light, admiring it. "Seeing as how there's a sudden demand for this, one hundred pands seems fair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>He blinks and kicks his feet off the table. "A kid? This isn't a toy, you know. Get him a wooden sword."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Attack] "Sooner than you expected, I'll bet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Demand isn't as high as you think. Chances are good that dagger was stolen or looted off of one of the Knights. In that case, I'm probably doing you a favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>He hands you the dagger, hilt first. "Pleasure doing business with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>He frowns. "Can't be too careful around the authorities these days, especially as an orlan. Fine, I'll sell it, but not for less than fifty. I'm getting my money back at the very least."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"We were part of separate expedition teams, but we both suffered losses and decided to band together." 
+
+He ticks several items off his fingers. "Beasts, barbarians, bîaŵacs. It's a dangerous time to be an adventurer, but a prosperous one, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Is there something else you wanted?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The orlan woman leans over and punches his arm. "Come on, Weaxel, if our friend here is willing to pay, what's the harm?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Plenty, actually. That kid'll probably poke his eye out. Besides, I plan to use this dagger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I'd like to buy that March steel dagger from you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"You've got a hundred pands?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"How much would it take for you to change your mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Never mind. Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Attack] "Actually, I'll take it for free."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Like I said, I won't let it go for less than I paid for it - fifty pands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I don't have that much at the moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I don't have that much at the moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Then I guess I'm keeping it for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>DEBUG: Give 100 pands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"You mean Igrun sold you March steel for less? I wonder why he wanted to get rid of it so badly. Either that blade was stolen from the Knights... or it's a fake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>He looks from the dagger to you and back again. "He... oh, fine. But I won't take less than I paid for it." He pounds the table with a fist. "I knew fifty pands sounded too good to be true. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>At the next table, Daedon raises his glass. "And here's to many more prosperous journeys."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

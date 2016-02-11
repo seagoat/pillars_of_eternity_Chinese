@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_defiance_bay_first_fires\02_cv_penhelm</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>70</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The young novitiate's armor is recently shined, and his hair is clean and neatly combed. It's hard to believe he's ever seen battle, or that the scarred antique breastplate he wears could possibly be his.
+
+"Are you looking for something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Penhelm nods his meticulously groomed head. "What brings you back to the Keep?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Does the name 'Osric' sound familiar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Tell me about the Knights of the Crucible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"We're the primary defenders of Defiance Bay. The order's founders were the first to rally for Dyrwoodan independence." He waves his hand. "Of course, that's ancient history now."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>He sniffs. "If you've got any self-respect, you won't associate with him. Or with any of his new friends at the expedition hall, for that matter. Scamps and delinquents, the lot of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Now, we're the most prestigious company of soldiers in the Dyrwood. It's a glorious line of work." He scrunches up his nose. "If you can forget about the barracks, that is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"How does someone become a Knight?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"We don't take just anyone. Our members share soul legacies with the very men and women who defended this land a century and a half ago." He shifts his weight and coughs.
+
+"Anyhow, Commander Clyver is responsible for initiations, but he rarely accepts foreigners."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Cheer up! You always thought you were someone special. Soon, everyone will know you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"I can see why you don't have any friends at the Keep." He draws his sword.
+
+"I won't let you ruin me like this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Was there anything else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Bank Node 71</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>As Penhelm reels from the news, a finger jabs your side. You can smell Hiravias next to you without turning to see him.
+
+"I say this with all due offense - you make me sick. Kill a man for his actions, make him suffer for his words... but don't punish him for the soul he didn't choose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Penhelm's face is white. "Just talked to that little cipher, did you? One of my novitiates told me he'd seen someone in the records room."
+
+He takes a slow step toward you, extending his hand. "Give me the affidavit. I've done nothing to you." His other hand comes to rest next to his sword.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Don't be a fool. We're in public."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Out of the way, little man. You don't stand a chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>He looks at the novitiates with him. "Which is why everyone will be shocked to hear that you assaulted a company of Crucible Knights without provocation..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>He laughs uneasily. "I'm part of the greatest order of warriors in the country."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"I'm not interested in fighting you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Then you should have minded your own business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"...Including one with such a spotless record as mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"...Until they recall that you're not exactly a friend of the Keep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"...Especially knowing that you're so highly regarded in the Keep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>You hear Hiravias' from behind you say quietly, "Well what do you know... this Watcher has a half flagon of decency..."
+
+As all eyes turn to him, he holds up his hands. "What? Don't mind me, I was talking to myself... too loudly, it seems."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Your superiors deserve to know the truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Don't worry. I'm sure the Knights will let you stay to scrub the latrines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"And your admirers in the Keep aren't here to help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"As it is, half of my brethren will thank me for getting rid of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>He draws his sword. "I won't let your destroy my career over this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Now, I'll have to explain your unprovoked attack to your admirers in the Keep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Osric has always held some controversial opinions. But they went overlooked for the longest time because his family has such an extensive history of service in the Crucible Knights." He frowns and crosses his arms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"He finally went too far. He had the gall to suggest that we had strayed too far from our roots, that some of our officers were beginning to resemble Aedyre nobility." He rubs a spot on his bracer with a silk handkerchief.
+
+"He would have us all wear roughspun and fight with forge hammers. I merely reported his statements."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"I don't see the problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"If the Knights obsessed over their past, they wouldn't have grown into the fighting force they are today."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"That history made the Knights what they are now. You can't just cast it aside."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>He sputters. "People change. Organizations change. The Crucible Knights began as a militia of blacksmiths, but Dunstan's one of the only officers who can wield a hammer these days. We're professional soldiers. Isn't that who you want defending a city?
+
+"Besides, a novitiate has no business maligning his superiors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Penhelm nods. "I quite agree. And that's why Osric has no place here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"We've outgrown that past." He waves a shining gauntlet. "Sometimes, you need to move on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"He says your affidavit is a forgery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"What's the story between you two?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Enough about Osric."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"On that we can agree."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Just what would he know about that? It's perfectly convenient for him to cast aspersions, what with his pedigree in the Knights." He folds his arms.
+
+He blinks at you. "It's a lie, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"What truth? That over a century ago, I was some Aedyran who's dust in the ground now?"
+
+His hand grips the sword pommel. "I'll ask you one more time. Give that back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>He draws his sword and spits at your feet. "I won't let you ruin me over this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>[Give Penhelm the affidavit.] "You're right. Take it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>He grabs it from you with a trembling hand. "You have no idea what this means to me. I..." He swallows. "Thank you for seeing reason."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Now do the same for Osric. Return his family breastplate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"You're welcome. Take care of yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>He hesitates, clutching the affidavit. "I'm certainly grateful to you, but Osric earned his punishment and then sent you to take his anger out on me. Why should I do anything for him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Is that his breastplate you're wearing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"It was." He looks down and admires it. "It became property of the Crucible Knights when he was discharged. Now, it's mine.
+ 
+"And it's not for sale, if that's what you're wondering. Not every day you find armor that was used in the rebellion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Consider it a favor to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Are you so stuck in the past that you need to wear his armor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Osric's family history is important to him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Osric's on his own. He's the one who tried to have me ruined. Take this instead. For yourself."
+
+He gives you a nod and leaves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>He looks down at the breastplate. "I hadn't thought of it that way." He pulls it off and hands it to you. "I hope this gives him some peace. And perhaps a reason to move on."
+
+He gives you a nod and leaves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"After the way I've helped you, you're going to begrudge him this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"And he needs to get over it. You can see where being stuck in the past has gotten him.
+
+"Anyway, I must report back. Thank you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"It's always nice to see you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"You've given me a fresh perspective. Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Sagani frowns. "Outgrown it like an old sealskin coat? You adapt with the times, sure, but that's a bit naive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"How leaders handle subordinates' defiance says a great deal about their ability to lead, don't you think?" Pallegina says with a wry smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Just what would he know about that? It's perfectly convenient for him to cast aspersions, what with his pedigree in the Knights." He folds his arms.
+
+He blinks at you. "It's a lie, of course. As should be perfectly obvious to someone as logical as you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"What good comes of this sentimentality? We've outgrown that past." He waves a shining gauntlet. "Sometimes, you need to move on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"What does this mean to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Are you serious? This is my career! I've labored years for it. And it all hangs on some coincidence of a past life.
+
+"Any Dyrwoodan - rich or poor - can aspire to a position in the Crucible Knights. Anyone can rise to the rank of High Justice. Except for those of us born with the wrong soul. Tell me how that's reasonable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Are you serious? How would you like it if someone threatened to kick you out of your order, all for some coincidence of a past life you can't even remember?
+
+"Any Dyrwoodan - rich or poor - can aspire to a position in the Crucible Knights. Anyone can rise to the rank of High Justice. Except for those of us born with the wrong soul. Look at me and tell me that's reasonable."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

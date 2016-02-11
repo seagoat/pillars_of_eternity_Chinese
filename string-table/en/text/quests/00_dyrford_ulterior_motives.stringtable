@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\00_dyrford_ulterior_motives</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Cat and Mouse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Scout around Dyrford village for Nyfre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Find Nyfre and lure her out of Dyrford.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Find Nyfre and lure her out of Dyrford.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Return to Nyfre at the Dracogen Inn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Return to Nyfre at the Dracogen Inn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Direct Medreth away from Nyfre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Return to Medreth on the west end of Dyrford.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Return to Nyfre at the Dracogen Inn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Return to Medreth on the west end of Dyrford.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A woman named Nyfre is on the run and hiding out in Dyrford.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Nyfre told me that someone's looking for her. She asked me to check around town for any suspicious figures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Medreth has asked me to find Nyfre, a thief who stole from our mutual friends in House Doemenel. 
+
+She's an orlan woman. If I find her, he wants me to convince her that it's safe to leave Dyrford.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Medreth told me that he's looking for Nyfre, a murderer from Defiance Bay who's killed dozens of children.
+
+She's an orlan woman. If I find her, he wants me to convince her that it's safe to leave Dyrford.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I came across Nyfre's pursuer, Medreth, next to the river on the west end of town. He told me a very different story about Nyfre - that she's a child-killer on the run.
+
+He's waiting to ambush Nyfre. If I believe him, I can lure her into his trap. Otherwise, I should warn Nyfre to head east.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I came across Nyfre's pursuer, Medreth, next to the river on the west end of town. He told me that she stole from the Doemenels, and now he's tracking her down.
+
+He's waiting to ambush Nyfre. If I want to assist him, which the Doemenels would no doubt appreciate, I can lure her into his trap. Otherwise, I can warn Nyfre to head east. The Doemenels won't be happy to hear about that, however.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I told Nyfre where Medreth was waiting, and she gave him the slip. As a final favor, she asked me to send him off in another direction to buy her more time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>I coaxed Nyfre out of hiding and sent her toward Medreth. If he's still waiting near that temple, he may have a reward for me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>I found Nyfre's pursuer, Medreth, and killed him. Nyfre will want to know that she's free to leave Dyrford now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>I killed Nyfre. Medreth will be glad to hear that I've done his work for him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>It seemed odd to me that someone like Medreth was sent after Nyfre. He doesn't exactly look official.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Medreth had an interesting reaction when I asked about the Crucible Knights. I don't think he likes them at all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Nyfre wouldn't get into specifics, but she claimed she'd crossed some powerful criminals in Defiance Bay.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I've met Nyfre. She's upstairs at the Dracogen Inn, and she's trying to elude her pursuers. I haven't sent her to Medreth - or warned her away - yet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>I met Nyfre upstairs at the Dracogen Inn. She admitted that she was on the run, but she didn't sound like the monster Medreth described. I haven't sent her to Medreth - or warned her away - yet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>I killed Medreth. Nyfre will be glad to hear that I've gotten rid of her pursuers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>I killed Medreth. Nyfre will be glad to hear that I've gotten rid of her pursuers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>I killed Nyfre, but I clearly wasn't the only person after her. If her pursuers made it to Dyrford, I may be able to get something out of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>I killed Medreth. Nyfre will be glad to hear that I've gotten rid of her pursuers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>I killed Medreth. Nyfre will be glad to hear that I've gotten rid of her pursuers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Hendyna told me that an orlan woman stopped at the Dracogen Inn not long ago.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Hendyna told me that an orlan woman stopped at the Dracogen Inn not long ago.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I killed Medreth and allowed Nyfre to flee. She was grateful for the second chance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I killed Nyfre. Medreth was surprised, but he didn't seem to mind that I'd done his dirty work for him. He suggested that I pay my respects to House Doemenel the next time I'm in Defiance Bay.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I put an end to the intrigues between Medreth and Nyfre by killing them both. Neither of them were up to any good.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>I told Nyfre where Medreth was waiting so that she could slip away. Medreth wasn't too happy about it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>I sent Nyfre straight into Medreth's trap. He was most appreciative and suggested that House Doemenel would be most appreciative, too.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>I sent Nyfre straight into Medreth's trap. He was most appreciative and suggested that House Doemenel would be most appreciative, too. He didn't seem to know that I'd already had a falling out with the Doemenels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>I told Nyfre where Medreth was waiting so that she could slip away, and I sent Medreth off in the wrong direction looking for her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>Someone critically important to this quest has died.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_forton</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"These young dogs can't hold their blacsonn." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"A smoke ought to clear up that sickly look about you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"One philosophical question and nobody wants to drink with you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Move along, lad. I have no wisdom to bestow before I've had a pipe or two." </DefaultText>
+      <FemaleText>"Move along, lass. I have no wisdom to bestow before I've had a pipe or two." </FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

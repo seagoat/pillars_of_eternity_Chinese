@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_durance</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Trials of Durance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Spend time traveling with Durance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Discuss your vision with Durance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Continue to get to know Durance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Find out from Durance what the fading symbols meant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Continue to journey with Durance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Talk to Durance about Woedica.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>I met a strange priest in Magran's Fork who claims we have something to gain from questioning one another.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Durance says he and I are meant to travel together, and that we can teach one another. He is a man of many words who seems to raise more questions than he answers, but if I travel the road long enough with him, perhaps I may discover something worth learning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I had a dream about Durance. My eyes seemed unable to focus on him, and a blinding light burst from his staff. Something about the dream seemed all too real - as though something in his soul was revealing itself to me. I should ask him what I saw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Durance revealed to me that he was one of the engineers of the Godhammer bomb. There must be more to this that he isn't telling me - at least not yet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I had another dream about Durance. I saw a burning symbol on his staff - a circle of twelve smaller circles, and as I watched it, eleven of the twelve faded out. In my dream Durance seemed to try to rekindle them, but it was no use. Perhaps Durance will know what it meant, as he did with the last dream.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Durance was evasive when I asked him about the fading circles on his staff. He claimed it represented his lost connection with the other engineers of the Godhammer, whom he left behind to follow his own path after the destruction of Eothas. When the time is right, I'll see if there isn't more to be learned about this.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Learning that Woedica is responsible for Waidwen's Legacy leaves many questions about the circumstances of the Saint's War and the destruction of Eothas. Durance may have further insight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Durance was unsettled in discussing Woedica's plot and the death of Eothas. It seems probable that Magran would've been in league with Woedica, given that the Godhammer was Magran's work. But Durance still seems to be in denial. If I can make that case to him using his own words as my evidence, I may be able to break Magran's hold over him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I was able to get Durance to see that Magran had conspired with Woedica in creating the Godhammer, and that her refusing to speak with him wasn't because he had wronged her, but rather was because she had intended him to die with the other Godhammer engineers, in order to keep secret her direct involvement in Eothas' destruction. Though it appears this alliance between the goddesses was short-lived, it sheds new light on the Saint's War and the epidemic of Hollowborn infants that followed. Durance, for his part, has renounced his goddess and sworn revenge. As a man who's killed one god already, it would seem that he might be one of the only people alive who could make good on such a threat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Durance has died.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>This matter can no longer be resolved.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

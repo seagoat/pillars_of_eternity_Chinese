@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_eothas_altar_spirit</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The nearby crystals light the cracked mosaic floor in shades of orange, and at certain angles the metallic symbol beneath your feet gleams gold. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>As you look on, the air shimmers, as if with summer heat. The very dust and air seem to pull together, until a thin, glowing mist appears before you. In its rippling gleam you sometimes think you can see the shape of a man, features rendered in broad strokes of air and smoke. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Who are you?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Back away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Strike out at the form.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Your voice sparks movement; the spirit surges with a sudden, blazing light, and in the next moment you are somewhere else, your mind assailed with a sudden wave of fear and noise. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You are in the chapter hall. Priests and faithful have gathered in a great crowd, spilling into the hall. Bodies press against you, surging forward to listen. Your own grief is mirrored in the faces around you. Some of the initiates are weeping. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Someone has snuffed the candles, and the room is dark, save for the podium, lit from behind. Two people stand before it, lit in silhouette. A man is shouting, voice so ragged with fear you cannot understand what he says. But the rectrix stands calm, unmoved. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Her strength will see you all through these dark times. You feel that hope like a spark behind your ribs. Somewhere behind you, someone begins to sing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The spirit tears itself from you with sudden, dizzying force, and you find yourself back before the ruined altar, swaying. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You take a cautious step back. The spirit does not follow. It drifts, for a moment, and then fades, as suddenly as it appeared. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>You lash out, and feel nothing - your hand passes through the air. But in the moment of contact, the spirit coalesces, and lunges forward. You are torn from your surroundings, vision blurring. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"You didn't see that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I saw something. A spirit, I think." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Lie.] "Nothing. Let's keep moving." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[The party member did not.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[The party member reacts]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The spirit fades, as suddenly as it appeared. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Is... anyone else seeing this?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Trigger Conv Node 25</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_1\cp_qst_gilded_vale</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Gilded Vale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Journey to Gilded Vale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Cross the Valewood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Investigate the corpse of Caldara de Berranzi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Get some rest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Speak with Magistrate Urgeat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Gilded Vale is said to be one of the most prosperous villages in the Dyrwood, full of opportunities for work and wealth. I was told they're offering land to new settlers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The road to Gilded Vale has been a long one, and it's not over yet. Thankfully, traveling by caravan has insulated me from some of the dangers of the Dyrwood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I've reached the Valewood. The village of Gilded Vale lies just beyond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Gilded Vale is nothing like the descriptions. I'm not sure what kind of work I'll find here, if any. Worse still, the strange visions haven't stopped.
+
+The local magistrate suggested that I seek the aid of an animancer. Unfortunately, the only one in Gilded Vale is hanging from a tree in the middle of town. I suppose it couldn't hurt to search the corpse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Magistrate Urgeat suggested that I have a rest at the inn while he looks into the matter of finding me a place to stay. Everything is at a standstill while he awaits word of the fate of Lord Raedric's baby. 
+
+Seems I've little choice but to wait and see what comes of it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>My rest was troubled by strange dreams... but perhaps Magistrate Urgeat will have resolved matters by now. It may be worth speaking with him once again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Traveling by caravan served my purposes for a time, but Odema and the others outlived their use. I'll make it to Gilded Vale on my own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I was forced to flee into the ruins. The way back is blocked, so I'll have to hope there's another way out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I'm finally out of the ruins, but I'm not alone. Some strange, robed figures have gathered up ahead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>The mysterious figures seem to have activated a strange machine. Something must have gone awry, for there was a sudden, blinding burst of energy. The robed strangers have been killed... and I have had strange visions I cannot explain. Hopefully I can find answers in Gilded Vale. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I've finally reached Gilded Vale. It's not quite what I was expecting...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>I am no longer welcome at the inn. I'll have to camp out until the magistrate hears back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>The situation has changed in Gilded Vale. After some problem with the birth of his child, Lord Raedric no longer offers land to travelers, and the magistrate has advised me that I am not welcome to settle here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>With the magistrate dead, there is little chance of finding a permanent dwelling in Gilded Vale. The only shelter I'll find there is at the inn.
+
+Fatigue has set in from my journey and the whispers seem only to get worse. Perhaps a night's rest will do my ailment some good.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Now that I am deep underground in an Engwithan city with no obvious way back to the surface, it is unlikely I will be returning to Gilded Vale in the near future to discuss lodgings with the Magistrate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Magistrate Urgeat suggested that I have a rest at the inn while he looks into the matter of finding me a place to stay. Everything is at a standstill while he awaits word of the fate of Lord Raedric's Baby. Seems I've little choice but to wait and see what comes of it.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

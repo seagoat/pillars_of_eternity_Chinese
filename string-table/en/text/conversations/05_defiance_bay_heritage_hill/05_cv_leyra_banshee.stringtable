@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_defiance_bay_heritage_hill\05_cv_leyra_banshee</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>A woman turns when you enter. Her wide, pale eyes shine like lamps in the darkness of the tomb. Four Crucible Knights hover nearby, their glazed expressions fixed on her.
+
+"Reinforcements at last. I hope you've come armed, because we've got to get out of here."
+
+Something about her seems hazy and insubstantial, even in the darkness of the tomb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"What are you doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"What are these soldiers doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"I came searching for survivors. Only too late did I realize there weren't any." She brings a hand to her head. Her skin is practically translucent.
+
+"I found myself surrounded by those... creatures outside, and I had to seek refuge. Funny, isn't it, to hide from the dead in a building that was meant to hold them in the first place." She pats the wall of the tomb.
+
+"Anyway, I've been waiting for more reinforcements."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"A commander of the Crucible Knights. I lead the militia stationed around Heritage Hill. Securing this district became my responsibility when this... whatever it is... happened."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>She freezes in place, hovering in the air. "No, that's impossible. It's only been... I can't be..." The other side of the tomb is visible through her gaping mouth.
+
+She looks at her hands, seemingly for the first time, turning them in front of her. As her eyes and her mouth widen in horror, she turns to you.
+
+"What have you done to me?" Her expression hardens, and the Crucible Knights behind her stir. "Novitiates, attack!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>She looks at them, but either she doesn't notice their distant gazes and the way they sway on their feet, or she thinks nothing of it. "They're under my command, of course. They heard my call, and we've been waiting on a few more to help us fight our way out of here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"I think something may be wrong with them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"How did they manage to hear you in this tomb?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Her eyes flash. There's something unnatural about the way she hovers, watching you.
+
+"I hope you're not questioning my command. I'm warning you, I don't tolerate insubordination."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"That's what I've been trying to tell you. We've been stuck here with no rations for... I don't know how long." She closes her eyes and shakes her head.
+
+"We need to leave while we're still on our feet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"I'll be leaving."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Then if you've caught your breath, we should move out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>[Attack] "You don't fool me, spectre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Leyra raises her arms to the swaying soldiers. "Knights, attack!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Not at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"I hate to be the one to tell you this, but you're already dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Her eyes grow cold and hard. "You'd better explain yourself. And quickly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"You might recognize the uniform on this corpse over here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Marshal Wenfeld told me that one of his commanders disappeared here two months ago. He was talking about you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Think about it. How long have you been stuck here, waiting?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"You're a ghost, and you've been luring Crucible Knights to their deaths."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>She falters, and the expression on the faces of the enthralled Crucible Knights flickers. "That's not true. It can't be true."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>As Leyra hesitates, one of the Knights steps away from her, blinking. He looks on in horror at his enthralled companions and the ghostly creature before them. 
+
+Leyra raises her hands to the remaining Knights and screams. "Novitiates, attack!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>The woman nods. "Form up and stay on your guard. We'll have to move quickly."
+
+She begins to glide like mist over a lake, her feet barely skimming the ground. Yet as she moves forward, she blinks and holds her head. Confusion clouds her semi-transparent eyes.
+
+"I feel strange. Like I..." She looks at the tomb around her, horror slowly dawning.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

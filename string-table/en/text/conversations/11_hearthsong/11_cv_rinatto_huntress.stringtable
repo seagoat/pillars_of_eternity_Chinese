@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_cv_rinatto_huntress</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"It's not our custom to tolerate squabbles between estramorwn." The huntress begins to turn around but her face lingers in your direction. The faint semblance of a smile crosses her lips. "I'm sure you understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Before you can reply, she walks away, moving with confident strides.
+
+Rinatto's arms twitch a final spasm as the merchant expires in a bloody, crumpled heap.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

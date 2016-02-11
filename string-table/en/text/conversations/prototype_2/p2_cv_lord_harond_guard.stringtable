@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\prototype_2\p2_cv_lord_harond_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The guard keeps his eyes on the door. "If you have information about Lady Aelys, you should speak with Lord Harond."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>He eyes you carefully. "Glad we have someone else looking for Lady Aelys. The sooner we can find her and get out of here, the better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Glad we can finally get out of here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>He scratches his head. "Could be a lot of things. The locals here don't seem to realize Hadret's Rebellion ended one hundred fifty years ago. Crowing about the castle they tore down and built their village over. I wouldn't put something like this past them."
+
+He shrugs. "If I knew anything concrete, we'd have found her by now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"What do you think that happened to her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Tell me about Lady Aelys."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Goodbye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"You seem eager to leave Dyrford."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Who wouldn't be? The whole village smells like wet leather and pig shit, and the locals have nothing but contempt for anyone who bathes more than once a year."
+
+He shakes his head. "They won't lift a finger to find Lady Aelys, but it raises their hackles when we go looking for her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>He shifts his weight. "What's there to say? She's a lovely girl. Quiet. Keeps to herself. She'd make any father proud."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"You don't seem to know her that well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"My primary duties are to Lord Harond."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Lord Harond is resting upstairs."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

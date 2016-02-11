@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_twin_elms_elms_reach\13_cv_simoc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>138</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A grizzled old elf, his hair braided and dyed, stands at one end of the hall. His arms and chest are crosshatched with the pale seams of scars. 
+
+His crooked smile looks like another.
+
+"It's not many estramorwn who are permitted into our sacred city. Bethwl must be feeling especially soft today."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Simoc crosses his arms over his scarred chest. "Something else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>He gives you a single nod. "[Player Name]. What do you seek today?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"You don't seem fond of us 'estramorwn.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What's Blood Sands?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Goodbye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Give Simoc the essence potion.] "Here is the potion you asked for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>He reaches out with a hand gnarled by age and battle. He clutches the vial close to one faded blue eye.
+
+"To my tribe's salvation."
+
+He drains the vial in one long gulp. When he looks back at you, his eyes are bright with purpose. "And to your good fortune, traveler. May this be of use to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>He reaches out with a hand gnarled by age and battle. He clutches the vial close to one faded blue eye.
+
+"To my tribe's salvation."
+
+He drains the vial in one long gulp. He swallows, and after sputtering for several seconds, he glares at you. His breaths sound ragged and wet. "You... you poisoned me." He begins to raise his hand to the warriors in the other room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Come to treat with the Three-Tusk Stelgaer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Give Simoc the poison.] "Here is the potion you asked for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Greetings, [Player Name]. I-" He doubles over with a sudden coughing fit. 
+
+As he straightens, his chest heaves with thick, bubbling breaths. "It seems the potion is still having... unintended side effects." The look of suspicion on his face vanishes as quickly as it appeared. "What do you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I have questions about the task you asked of me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Come to hear your future at Teir Evron?" His smile widens, exposing a row of yellowed, crooked teeth. "Or to make your own at Blood Sands?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"An ancient place of sacrifice." He laces his fingers together. "In a cave by the great elms themselves.
+
+"Rehstin and his druids have been an integral part of Glanfathan society for generations... no matter what some of the other tribes might say. Eir Glanfath has held its own against the estramorwn because some of us still understand the power of sacrifice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>He gives you an appraising eye. "You, on the other hand... you seem like someone who can appreciate cruel necessity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>He gives you an appraising eye. "Does the thought make you uncomfortable? It should. It is what's kept our society alive for so long."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>He gives you an appraising eye. "But you and the Ethik Nôl are already well-acquainted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>He gives you an appraising eye. "It is not something that your friends, the Ovates, have learned to appreciate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Tell me about the Three-Tusk Stelgaer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"The boldest and fiercest of the six great tribes of Eir Glanfath. It was we who first defended against the estramorwn who came to shore two hundred years ago."
+
+He raises his chin. "We have always been the border tribe. And it has always fallen to us to hold the line against outsiders and invaders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"What do you do here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"As anamfath of Three-Tusk Stelgaer, I guide our tribe in all matters."
+
+He looks to the main room of the hut, where others have gathered. "I am in Twin Elms to confer with some of the other anamfatha about the onolfên - your Hollowborn. We only have such births here on occasion, but it has made us more vigilant about our neighbors."
+
+One stelgaer stretches, flexing its claws.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Simoc's eyes narrow. "There are some of us who believe your onolfên to be a punishment for the defilement of the Builders' sites. Others say it's a plague carried by the estramorwn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Hiravias leans in with a whispered voice. "The way they keep mentioning battles of old, you'd think they're the Three-Tusk Martyr tribe. They are indeed fierce and their history is rife with glorious deeds. I sometimes think they'd fight the other tribes if they didn't have trespassers to hunt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Bank Node 36</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"People make it what they want it to be. And when it ends... if it ends... they'll make up reasons for that, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"A plague of the soul? An interesting concept, but it hasn't spread beyond the boundaries of the Dyrwood." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"All answers to fit their hatred. There's no reason to believe a word of it is true."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>His hunched shoulders straighten. "I fought in the Broken Stone War and the War of Black Trees. I saw my brethren cut down defending the places of the Builders, and I shed blood alongside Galven Rêgd himself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>He coughs. "Now, the estramorwn seem to think that they will find a cure for their empty children among our sacred sites. Or, worse, that they will find sanctuary in our lands."
+
+His gaze darkens. "And I've seen what happens when they set their sights on Glanfathan soil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"And this worries you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Have pity. They're only trying to save their children."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Then you must fight back. Give them reason to stay away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Isn't there room for you both?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"And when the estramorwn invade us in force and bring their plague here, what of our children?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>He snorts. "I've seen too many wars for this not to worry me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Simoc's gaze is steady and dangerous. "Be warned, estramor. I have little patience today after learning of the massacre at Blood Sands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"What's wrong?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>The old man's hair is in disarray, his face twisted by old scars and fresh fury. "Murdered. Nearly every druid of the Ethik Nôl, slaughtered by their altars in Blood Sands. And none know who to blame."
+
+He shakes his head, snarling. "Those fools in the Guided Compass rejoice. They don't understand what we've lost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"It belonged to the druids of the Ethik Nôl. While many found their practices and sacrifices disturbing, they gave us war paints of great power."
+
+He shakes his head. "Losing this place with the estramorwn at our gates... it shall cost us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>He smiles slowly. "You understand me well. Maybe you were a Three-Tusk Stelgaer in another life.
+
+"Your ferocity is unusual among estramorwn. Perhaps you can appreciate my predicament."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>He snorts. "In two hundred years, Defiance Bay and New Heomar have outgrown their own crooked cobblestones. They rupture and reek like bloated corpses.
+
+"No. Inviting them into our lands would be the end of us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>He considers you. "There is a way you could help. Few have the stomach for it, but I think it would suit someone of your... inclinations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>He considers you. "There is a way you could help. Few have the stomach for it, but I think you have the perspective to see why certain unpleasantness may be necessary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>He considers you. "Bethwl saw something in you when she opened our gates to you. And you've seen sacred ground here as few estramorwn have. 
+
+"I hope you understand my need to protect it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"In my two hundred and fifty years, I've led my people through two wars. Our borders have remained intact, and largely through the reputation of Three-Tusk Stelgaer."
+
+His voice drops to a growl. "I've sired a dozen children, but none have been deemed fit to take my place. I care nothing for the legacies that obsess the estramorwn lords, but it is important that my successor continue this path."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Is your role hereditary?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"If your own children don't succeed you, what happens?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Not entirely. We believe that the souls of our ancestors come back to us, that a strong soul may bear many more. But all souls must be tested by our elders.
+
+"The rîow looked first among my children for a successor, but their souls were weak. Ordinarily, they would turn to others in my tribe, to clan heads and their families."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ordinarily, the rîow would turn to others in my tribe, to clan heads and their families."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ordinarily." He levels his gaze.
+
+"But we share a tradition of fostering the children of other tribes, and the anamfath of Fisher Crane has trusted his youngest to my care." 
+
+He grimaces. "And as none of my own blood are fit to take my place, the rîow will look next to this bog child, the kin of another anamfath and my foster daughter, to take my place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Couldn't you just send her back to her family?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Bog child?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"I don't see the problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>He shakes his head slowly. "That would be a grave insult to the Fisher Crane. The repercussions with the other anamfatha would be severe.
+
+"I have no doubt that she would make a fine leader, but not among Three-Tusk Stelgaer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"The orlans of Fisher Crane have lived in Thein Bog for a thousand years. They are cunning and furtive by nature, which serves them well when they have swamplands to hide their movements."
+
+He crosses his arms. "But this will not deter the estramorwn on open ground."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>He points at the warriors gathered near the fire. "Our savagery has deterred the estramorwn from further encroachment. They still tell of our deeds in the Broken Stone War. But if a child of Fisher Crane leads our tribe, we will lose that boldness, and the estramorwn will lose their fear of us.
+
+"The child will be influenced by the souls of her ancestors. In times of crisis, she will look to her kin in Thein Bog for guidance. No matter what I might try to teach her, it will not be enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>His shoulders stiffen. "I have nothing but respect for Fisher Crane. But their ways are not ours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>He considers you. "There is a way you could help. Especially since the Ethik Nôl already know and respect you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>He considers you. "There is a way you could help. If you could steel your soft heart to do something difficult but... necessary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"You helped the Fangs drive out the foreign expedition. You must understand what's at stake for us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"This orlan girl has the soul of a leader. If it were passed to one of my own offspring, our tribe would remain strong."
+
+A stelgaer at Simoc's side scratches its massive head on the anamfath's leg. He remains steady on his feet. "The druids of Blood Sands have a way to do this, and they understand the importance of a strong line of succession for Three-Tusk Stelgaer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Get to the point."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>He gives you a key. "There's a house in southeast Hearthsong, next to the river. The child will be asleep, and I've arranged for her to be... unattended for a time."
+
+His voice becomes a quiet rumble. "Take her and bring her to Keeper Wrdha in Blood Sands. She knows what must be done. When she presents you with the liquid essence, bring it back to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Very well, I'll help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"I won't do this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Are you crazy? There's no way I'm helping you murder a child."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"What will Keeper Wrdha do with the child?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"I don't see why you need me to do this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"How can you possibly expect to get away with this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>His scarred face twists again. "Have you seen the rituals of Blood Sands? She will sacrifice her. It is the only way to distill her essence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Because I cannot do it without attracting undue attention." He frowns. "I don't relish passing my own burdens onto another, but this will incite war between our tribes if I am caught."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Tell me about the potion that you need from Wrdha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Essence, bound and distilled into a liquid. It will have little immediate effect on me, but it will weave a stronger soul in my future issue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Few know the girl is here, and one orlan babe will look much the same as the next." He shrugs.
+
+"But let me worry about this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>He nods. "You are a friend to the Glanfathan people. Act swiftly and quietly, estramor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Remind me where I can find the child."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"She's staying in a house in Hearthsong. Follow paths to the southeast side of the district until you reach the river."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"That's all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>He nods. "This chore is regrettable. But it is also necessary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I do not relish the deed. But two centuries of leadership have taught me that all things bear a cost."
+
+He nods once. "Consider it well, estramor. I am not above rewarding those who are of service."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[Attack] "Your dynasty ends now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"I should kill you for this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>The stelgaers at his side growl. "Surrounded by my best warriors? That would be unwise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"The orlan child? Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Edér pays no attention to the elf, and instead has locked eyes with the stelgaer in front of him. He whispers to you, "Do you think he'd mind if I pet his stelgaer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"So, uh - where I'm from... petting a stelgaer doesn't mean what you think it means..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Bank Node 36</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"From what we've seen, those sacred sites might actually have a cure. 
+
+"They protect those sites because someone told them to. You wish just once they'd have the courage to question it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"They're desperate. The best of them want to find a cure. The worst are looking for an excuse to plunder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Well, he DOES have a point," Hiravias mutters under his breath. "You learn not to trust your neighbors when they defile your lands, habitually, for several generations."
+
+Hiravias folds his arms and shrugs. "He's got all the reason in Eora to worry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"You should be so lucky!" Hiravias chirps. "This young Fisher Crane lass is a great gift - you should be thankful!" Hiravias' voice becomes a low whisper. "Especially given your... familial feebleness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Bank Node 107</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"My experience, soon as someone in power decides he wants something that doesn't belong to him, there's no deterring at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"When the Republics were young, we sent explorers up through Thein Bog to find a faster way through to the dwarven kingdom of White March. Few returned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Hiravias' eye widens at the remark. "Nobody belittles the Fisher Crane but me," he mutters under his breath as his fingers stretch into talons. "But yes, I will cede the point that my tribe is... wise enough... to eschew the mindless tactics of a fair fight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"That's an unkind summary, from what I've read. You have to look between the lines, at all the frustrated Aedyran commanders writing about the unseen enemy harrying their forces. A little sabotage and a few good ambushes can turn the tide of any conflict."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"I wouldn't be so sure. There's greater fear in the unseen enemy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"I think you underestimate what a few stealthy archers can do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Bank Node 113</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Edér rubs the bridge of his nose. He rattles his head, as if to clear cobwebs. "So all we have to do is steal a baby's soul? What's the catch?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>The irises of Pallegina's golden eyes grow wide. "This is brutal talk, even among Glanfathans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Hiravias steps in close, whispering. "This isn't right... souls just aren't 'passed' to another without..." Hiravias falls silent, his fists clenching.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"That didn't go where I expected it to. He's not one for half-measures, is he?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Aloth's eyes narrow to slits. "This sounds... problematic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Sagani scrapes around inside her ear with a pinky finger. "I'm just a simple hunter from the tundra, so you'll have to slow down. You want us to do what?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Bank Node 120</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Sagani looks Simoc up and down. "I could take him." 
+
+She looks to you. "Please. Let me take him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Aloth's eyes bulge. "Fye, I'd rather distill this auld bonebag into a right-fine paste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Be easier to kill this fella and distill HIS essence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Pallegina's lip curls into a sneer. "How quick the old are to sacrifice the young for their purposes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Hiravias stares at Simoc, wide-eyed. "What a loathsome wretch even by Three-Tusk standards! How about I pummel this unhinged old man until I'm picking bits of his bones, brain, and 'essence' and out of my fur?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Right. Of course it is." Kana lowers his voice. "[Player Name], this man is clearly not well." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Sagani lowers her head. "Remember how well that worked out last time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>He looks from the vial in your hand back to you. "Something's wrong." 
+
+His eyes narrow. "What are you trying to give me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"This is the essence potion you asked for. Send for Wrdha if you doubt it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"You're being paranoid because you're nervous about the deed. It's natural."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"This is distilled essence. Really."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"It's poison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"You just swallowed a mixture of concentrated essence and blood. How did you expect that to feel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"You drank that way too quickly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"I didn't! I swear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"That was poison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>He rushes at you with a cry of rage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"I suppose you're right." He takes a couple of slow, deep breaths. 
+
+"And I suppose I should thank you for your service. Safe travels, estramor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>His hair looks wilder than usual, and his eyes seem red. "Word has reached me that my son was cut down in the street. Do you know anything about this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>[Lie] "No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"He accosted me after I took the baby. I had no choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"I see." He is quiet for several seconds, his eyes searching you. "Lliras always was a strong-willed lad, if not a strong-souled one."
+
+He clears his throat. "What do you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"I see." He is quiet for several seconds, his eyes searching the ground. "Lliras always was a strong-willed lad, if not a strong-souled one. I wish he would have..."
+
+He clears his throat. "Anyway. What do you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"So many empty children... empty families... and he would steal this child's essence for ambition?
+
+"Let his ways die... let his line end... if this is what it means."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Have we journeyed so far to become tangled in matters of politics... pettiness...?"
+
+Her face is carved with stern, rigid lines. "We must not do this, Watcher... We have come to save the children... the future of the Dyrwood. I will not stand by you if you do this evil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>The Grieving Mother draws back in horror. "What evil is this? To murder a child over a matter of politics?" Her face twists into a mask of fury. "We cannot allow this corruption... this madness... to thrive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Lliras has asked me to kill you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>The old anamfath laughs. "I almost wish you spoke true. Lliras doesn't have the ferocity to plot something like that." His expression grows sober. "If he did, I would not lack a proper heir now."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

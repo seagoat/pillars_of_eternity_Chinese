@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_bs_korgrak_hireling</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Your fortress is preferable to a cavern. I will give you that much." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I will guard your keep, [Player Race]. Leave me be in return." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"So many kith, running about... It is not my doing if they are crushed under my feet." </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

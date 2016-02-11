@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_bs_crucible_knight_guide</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"What is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I'm looking for a neighborhood with a tower. It's near a cemetery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Where are the mad kept in Defiance Bay?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Only place around here that takes them in is Brackenbury Sanitarium. I've heard they can treat your soul there, take the madness away. But there's just as many stories coming out of that place that'll chill your blood.
+
+"There's a man, if you want to call him that, Ethelmoer there. He's head warden. If you're visiting or checking yourself in, he's the one to talk to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Best you stop looking then. The place you want is Heritage Hill - you can see the tower over the district walls out that way." The justiciar points to the northwest.
+
+"But something... happened there. They don't let people in anymore. And none of the Knights want to be posted anywhere close to it. Steer clear, if you know what's good for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I'm looking for the temple of Woedica."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Huh. If you say so. It's in First Fires, just west of Crucible Keep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Huh. If you say so. It's just over there, to the west of Crucible Keep. What's left of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

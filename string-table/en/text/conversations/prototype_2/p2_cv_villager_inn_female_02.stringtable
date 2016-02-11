@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\prototype_2\p2_cv_villager_inn_female_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"If I had the coin, I would stay here all day and drink!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I don't know what Osmaer puts in his drinks, but it brings out the best in his patrons. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The villager laughs and sways nearly spilling her pint.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_dyrwood\00_bs_cultists_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"...sometimes think he's doing this mostly for his research."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"You wouldn't say that if you'd heard the way he talked about that visiting lord."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

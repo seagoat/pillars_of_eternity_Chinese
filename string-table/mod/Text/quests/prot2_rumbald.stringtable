@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name />
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\prot2_rumbald</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>22</EntryCount>
+  <EntryCount>25</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -25,6 +25,11 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>10000</ID>
       <DefaultText>迪佛德的生猪养殖户瑞帕德告诉我，一只食人魔偷走了他的猪群。他让我杀了这只食人魔，并要我把它的头颅带给他。</DefaultText>
       <FemaleText />
@@ -42,6 +47,16 @@
     <Entry>
       <ID>10007</ID>
       <DefaultText>我在巴尔河东边发现一个洞穴，散发出尸块腐烂的气味。里面肯定住着某种饥饿的生物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText />      
       <FemaleText />
     </Entry>
     <Entry>

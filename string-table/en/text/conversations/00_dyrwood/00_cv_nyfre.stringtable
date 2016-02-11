@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_dyrwood\00_cv_nyfre</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>185</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You come upon a small, hooded woman, clad in black. She mumbles quietly to herself, wringing her hands nervously. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>She stills as she notices you. "You lost? This room's taken." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Look who's back. Don't got much more to say, friend." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"What do you have for me?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Like I said, I'll see you at the meeting place." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"So unless you and me have got business, you'd best be on your way." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"You seem a little nervous." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Actually, we do have business. I was sent by Medreth - the man with the stone amulet." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Goodbye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I just had some questions." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The woman smiles thinly, her gaze lingering at your throat. "I'm Nyfre. Just a traveler, passing through." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Same as you, I imagine." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Now, if that's all, I'd like some privacy." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"What's to be nervous about? Apart from strangers barging into my room." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"...Truth be told, I might have a few things on my mind." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"But I'm sure you've your own troubles to see to." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Nyfre tenses, regarding you warily. "That so?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Just thought you might need a hand." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Maybe I can help." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Hm. Could use someone to... even the odds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I'm expecting a contact. A man, in the village, wearing a stone amulet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"If everything's in order, I want you to arrange a meeting. Somewhere out of sight, where we won't get anybody creeping up on us." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Yeah? And why would you do that?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"If this is the best trick I can manage then I'm in serious trouble." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I take plenty of risks, and I'm still here." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"You wanted to help, here's how. I'd rather keep clear until the arrangements are made." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Nyfre blinks at you, then smirks. "True enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Alright, then. Maybe there is something you can do for me." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Nyfre looks you up and down, considering. "Yeah... yeah, you seem capable enough." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I'll be back once everything's set."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Where can I find your contact?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Can't you go meet him yourself?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Seems like a lot of precaution for a simple exchange." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"What are you exchanging?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"He should be somewhere in town. If he's moved on... so will I."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I'd rather not get involved in this right now." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"If you want gossip, there's plenty of folks downstairs will wag their tongues and their rears for a lick of copper." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Like I said, I don't like to take risks." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"These things can get messy at the best of times. And when your old partners suddenly decide to split the loot between themselves without you, well..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"That's when throats start getting slit, and bodies start getting dumped in the river. You know how it goes." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Something of a family heirloom. A scepter. Seems it holds a lot of sentimental value for one of the local noble houses." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Worth plenty to everyone else, too, seeing as there's a great big jewel nestled atop the thing." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Me, I just want to get paid. The sooner this thing is out of my hands, the better." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Me, I'm here to get some rest. In private." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I found your contact, Medreth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I've got more questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Goodbye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Let's hear 'em."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Good. How'd it go?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Simple exchange. All I need you to do is find him and mention my name - and only my name." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"You know where to find me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Medreth tried to sway me against you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Lie] "Everything seems in order. He will meet us at the exchange location."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"East of Dyrford, at the ruins south of the river." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Did he, now? Doesn't speak well of his honesty, does it?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Well, I've not come all this way to flee like an alley cat. This deal will set me up for a long time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"We'll have to play this careful - in and out, nice and quick. Where does he want to meet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Luck's on my side, for once... Hard to believe this is almost over."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Oh, this is just what I needed! Curse on their whore mothers, they... they followed me here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I killed those backstabbing bastards! Either someone else knew of their plan to steal the heirloom for themselves... or my old boss has his dirty black hands deep in this shit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I can kiss the copper goodbye, but I'm not going to run like a scared cat - I'm going to meet this impostor and mark my name in his flesh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"That should work. I'll meet you there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"I'll get ready. See you there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"You'd better talk fast. Why is it you're here and he's not?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"I don't know." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"I didn't ask questions. I'm just the messenger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Lie] "He's indisposed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>She narrows her eyes. "And where is he, then?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"I met him at the temple of Berath, here in the village."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Somewhere in the village."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Lie] "I don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>The woman studies you from within her hood. She crosses her arms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"You're honest, at least. Wish I could be so sure about your employer." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"You expect me to fall for that? Or is it that he thinks me so easy to trick?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"...Fair enough. To business, then." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Listen to me. I shouldn't have reason to trust you. You're some hired muscle in the middle of a shady deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I'm not here to play dirty, but I'm not going to fall for another trap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"We're done here. You can tell your master the deal's off. Now, get out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"I want to meet him privately. No tricks. Either of you try to pull anything and I'll gut you like a fish." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Alright. Where does he want to meet?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"East of Dyrford, by the old ruins south of the river." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Works for me. See you there." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Nothing, goodbye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"What am I supposed to do again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"A man waits for me in this village - a man wearing a stone amulet." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"As you wish. Goodbye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"I've got nothing else to say to you. Leave... now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"You piece of shit, look at me! Who's got who, now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"I'm going to kill you, and the same goes to the rest of you backstabbing bastards!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"There you are. Medreth should be here any moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Let's make sure this goes smooth as silk. We won't be safe until the exchange is finished."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Stay sharp."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"I don't know you from the duc, and I'm not one to take unnecessary risks. Keeps my coin in my pocket and my head on my shoulders." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"No tricks. Let's talk location." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"What's so shady about this deal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"What do you mean, 'another' trap?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Why would Medreth try anything?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"These things can get messy at the best of times." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"And when your old partners suddenly decide to split the loot between themselves without you, well..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"It tends to leave you a whole lot less trusting, if you get me." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Me and some old partners of mine were sent after this scepter. Family heirloom for this noble house down in the sticks." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Sentimental value, they said. Except it's pretty valuable to other people, too, seeing as there's a great big jewel nestled atop the thing." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Valuable enough for them to try and cut me out of the negotiations. Don't think the boss is too happy I walked away and his men didn't." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Why does anyone?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Maybe he gets greedy. Maybe he decides he doesn't want to give up the payment." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Maybe he's not who he says he is. Hard to know, isn't it?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"It's done... and so am I - they were all in on this together!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Deiran, too. He's going to be after me twice as fierce after he learns of what happened here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"I can't go back to Defiance Bay, that's clear as day... Guess I should feel lucky to be alive, though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Happy to help." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Let's conclude our business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>[Attack] "Not quite - I'll be taking that scepter now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"I wouldn't have made it out of this one without you. Only wish I had more to give you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Well, I'm out of here... Maybe our paths will cross again." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"What?! No!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"The real Medreth's dead. Someone is impersonating him, and asked me to find you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Then... If you are with this impostor, why are you telling me this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"I'm not with him, but I want to know what's really going on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"I'm willing to hear your side of the story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"I don't like tricks. Fear is much more effective - give me the item you carry.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>[Attack] "I always feel terribly sincere before the killing starts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"I see. Nothing to lose now... I was sent to get a valuable heirloom, an scepter, from a noble house in Defiance Bay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"My partners decided to kill me and keep the loot to themselves - I wasn't in the mood. They are now sleeping where they belong, with rats and shit under a gutter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"I suspect that my former boss was behind the trap. I had no shelter in the city, but I had the name and place where to exchange the heirloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Looks like someone caught my trail and followed it all the way here. And now he hopes to impersonate the contact so that I give him the heirloom... and then I'll get my throat slit while I'm counting my copper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"A muscle for hire, huh? You'll understand my story then... I was sent to get a valuable heirloom, an scepter, from a noble house in Defiance Bay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Let's go to this meeting together and I'll take care of the impostor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"I'll tell you where to meet this man, but I don't plan to interfere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Sad story. I'm touched - now, give me the scepter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>[Attack] "Personally, I rather slit your throat face to face."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"I've been called many things, but I'm not a fool. The scepter is well-hidden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Plain as day, there's no reason to bring it to the exchange - I want to keep my little pretty neck intact, you see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Fools usually think they can get away with the same plan twice. Do you expect to exchange the scepter without being found again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>[Graze Nyfre's Neck with your Weapon] "Next one will cut deeper... just enough for you to confess before bleeding to death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"I'll tell him that you will set terms for the exchange, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Go back to your master and tell him that I won't be tricked so easily - we'll meet on my terms, when I decide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>[Attack] "You've tried my patience - I'll find the scepter after I'm done with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"You're... not simply a strong arm hired for a few coppers, I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Yeah, you've got a point. So... if I tell you where the scepter is then I walk away - no more hunting little Nyfre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>The speed of your movement freezes Nyfre on the spot. All she can do is to stare at the weapon that touches her neck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Now... walk out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"You have my word - I won't harm you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>[Lie] "That's right. You walk away free."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>[Attack] "Sounds better to just kill you right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"The scepter is inside the cushion of that chair over there, next to the room's table."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Take it. Take it to those backstabbing bastards - I just want to leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Thanks for the information. Now you die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"I've spoken with this man you seek - he asked me to find you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"You should've been more careful with your hirelings - finding you was too easy!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Medreth's a fake. He killed the real contact to impersonate him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Nyfre's eyes widen. "What?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"...Well, that puts an end to that. So much for my money." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Guess it's time for us to get out of town. Can't head back to Defiance Bay, that's plain as day... Maybe we'll cross paths again." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"I'll take that scepter off your hands for you. Hand it over." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"...In fact, if you'd be willing to make sure I get out of this in one piece, I'll make it worth your while. You scratch my back, I scratch yours?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Where is this scepter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"I won't let anything happen to you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Just don't do anything stupid, and I won't do anything violent." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"I'll think about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Nyfre narrows her eyes. "Somewhere safe. He'll get it, so long as he brings the money." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Glad to hear it. You won't regret it, I promise you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"That's fair. Just keep the offer in mind." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Don't think too long. I can be real generous - but only if I'm breathing for it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Fine. Let's talk about the meet." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>(Attack) "I'll find it - after I deal with you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"You really think this exchange is going to go any better for you the second time?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"What? You've made a serious mistake!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"He didn't survive the negotiations." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Probably because he's still lying in a pool of his own blood." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"I..." Nyfre shakes her head. "Maybe not. But it's my one shot at getting something out of this whole mess." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Give me the scepter, and I'll tell the contact you've moved on. You can get out of here in one piece." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"If you say so. Let's talk about the meet, then." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>(grab her) "Tell me where it is, or you'll lose a lot more than a scepter." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"...Fine." Nyfre points to the corner of the room. "It's under the floorboard. Just... take it and get out. You won't see me again." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>(lie) "Tell me where it is, and I'll tell the contact you've moved on. You can get out of here in one piece." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"...Fine." Nyfre points to the corner of the room. "It's under the floorboard. Just... take it and get out. You won't see me again." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Nyfre cries out in surprise. "F-fine! It's over there." She points at the corner of the room. "Just... just take it and get out. You won't see me again." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>(Attack) "I mean to make sure of that." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Smart move." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"W-what? No!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"What? I knew this was a trick! You've made a serious mistake, friend!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"I'm heading out of town. See you around." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Tell Medreth I'll be there." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Medreth isn't who he seems, he is an agent of House Doemenel, and means to kill you."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

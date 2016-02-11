@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_memory_glanfathan_villager</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Spectral smoke churns all around you. At first, you can see nothing except the haze, but gradually, you make out the wizened, hunched shape of an old elven man. His face and bone-thin arms are smeared with paint.
+
+"You can't do this!" He shakes his head, spitting the words at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Do what?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Listen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"This is our village. Our home! The Nine Claws have lived here almost fifty generations." You can't tell whether he's squinting through the smoke or scowling at you. "We were here long before your kind brought war to our lands."
+
+He shudders with a cough. "You can't just burn it all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>After a pause, he draws back and gapes at you in horror, seemingly in response to something you didn't actually say. But illusory tongues of flame flicker at the corners of your vision.
+
+"Have mercy, soldier! Our warriors have all gone..." He coughs. "You can't burn us all because of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>He reaches out to you and opens his mouth to say something, but all that emerges is a series of violent coughs. He falls to his knees, choking on the thickening smoke. Flames overtake the vision as you back away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Leave our village! We've done nothing to you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

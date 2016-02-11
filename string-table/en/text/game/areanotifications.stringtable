@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\areanotifications</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Five wagons grope blindly for the path on a starless night, their master glancing ever upward to the skies for assurance that he is on the right course, a dim lantern his only protection against the encroaching darkness.
+
+But the skies bring no comfort, shining no light, betraying no hint of what they know.
+
+The caravan carries travelers bound for the frontier hamlet of Gilded Vale, you among them, where a local lord has offered land and wealth to settlers from abroad looking for a fresh start.
+
+You have taken suddenly ill, sweating and shivering, and one of the other travelers signals for the caravan master to stop on your behalf. He pulls up just in time to avoid plowing into the trunk of a fallen tree that bars the way ahead. You will go no further tonight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Five wagons grope blindly for the path on a starless night, their master glancing ever upward to the skies for assurance that he is on the right course, a dim lantern his only protection against the encroaching darkness.
+
+But the skies bring no comfort, shining no light, betraying no hint of what they know.
+
+The caravan carries travelers bound for the frontier hamlet of Gilded Vale, you among them, where a local lord has offered land and wealth to settlers from abroad looking for a fresh start.
+
+You have taken suddenly ill, sweating and shivering, and one of the other travelers signals for the caravan master to stop on your behalf. He pulls up just in time to avoid plowing into the trunk of a fallen tree that bars the way ahead. You will go no further tonight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>After what seems like an eternity, your rapid descent comes to an abrupt end. You remain still for a moment while your heart settles and your eyes adjust, breathing in stale, forgotten air. 
+
+Before you, a narrow and eroded walkway becomes faintly visible in the dim light, cutting a winding path through a cavern so expansive it seems a world unto itself. In the distance you can make out the cold gleam of living adra veins that spike and fork in and out of view from the murky depths beneath, their glow a faint and fleeting guide along the ancient trail.
+
+You look above at the opening you jumped through, now barely a speck of light like some distant star, alone in the cosmos and forever out of reach. Your only way lies ahead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Defiance Bay. The city at the heart of the Dyrwood’s revolution now seems on the brink of another.
+
+Refugees line the streets, homeless and hungry, displaced by Waidwen’s Legacy, hoping for relief within the city walls and finding none.
+
+Dissidents congregate to protest and to heckle, calling for an end to animancy and the ouster of their duke. The city’s militiamen cast fearful looks as they patrol the streets, their hands trembling at the hilts of their weapons.
+
+The capital of a country that had not long ago incinerated a god now appears to be a spark away from sharing the deity’s fate…
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Smoke rises above the city walls in billowing plumes that blacken the sky like a storm. Behind the walls, the riots rage on.
+
+Known patrons of animancy are forced into hiding as looters ransack their estates and make off with their possessions. Animancers are torn away from their families and dragged from their homes to be stoned to death in the streets.
+
+Word had spread immediately that Duc Aevar had been assassinated, and that an animancer was to blame. The city wasted little time in exacting revenge, and little effort into evaluating guilt.
+
+In the center of it all, Brackenbury Sanitarium burned. And down the lane, Hadret House, the last bastion of stability in the Dyrwood, had fallen silent.
+
+Now safely outside the city gate, your path points eastward, to Twin Elms, where Thaos is bound for reasons that remain mysterious as the Leaden Key itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

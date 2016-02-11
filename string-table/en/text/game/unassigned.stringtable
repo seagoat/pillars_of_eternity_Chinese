@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\unassigned</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Heodan's Supplies</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Innkeeper</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The Dracogen Inn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Codex Collection</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Wyrm's Nest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Drake's Den</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Dragon's Lair</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Spear Spiders from the dungeons below have broken through the lower levels of the keep and will emerge into the Great Hall soon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>The Bleakhollow Bandits from the northern wilds have been reported crossing the plains east of Caed Nua. They will be at our doorstep any day now!</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

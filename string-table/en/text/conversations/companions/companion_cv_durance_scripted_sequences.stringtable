@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_durance_scripted_sequences</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>103</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You awake to see Durance, his staff held in both of his hands before him. A flame flickers at its top end, casting long shadows across his face as he stares in contemplation. 
+
+Still, for all the light of the fire, your eyes can't focus on him... perhaps it is awakening from sleep, or a trick of the light, but he seems... indistinct, blurred around the edges, everything except for the staff. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The staff... he seems to be studying its engravings. As you watch, the engravings glow thinly red, like through the cracks of heat-suffused wood. 
+
+The lines stream like molten metal, burning along the edges of his staff, then branch out in an intricate series of fiery veins, bunching thickly where his hands clutch the wood, pulsing as if a heartbeat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>As you watch, the veins spiral into a dozen, separate circles... circles that spiral again until they are arranged in a circle of their own. They pulse, wait, and all is strangely silent... and...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>And then, suddenly, there is a great light from the fire, a rushing of air, a great flash... and you awaken again, to see Durance in the same place, still holding his staff, but he is solid, real. 
+
+He doesn't seem to have noticed you... or reacted to what occurred.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Durance is silent, staring at you, locking gazes. "Tell me what you saw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"It was a flash like an explosion... a rushing of air, incredibly bright."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Durance takes in each word. He is strangely silent for a moment, and when he speaks, his voice is low.
+
+"It is the light of the Godhammer you saw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"The Godhammer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"The Godhammer? What about it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"It was a weapon of Dyrwood's people. A symbol of their independence. It saved the Dyrwood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"What do you know about it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"You said there were twelve of you to match the twelve on the bridge?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"What happened on the bridge when the Godhammer fell?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"You said it felt like you and the Godhammer priests shared the fate of the twelve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"What did you do after?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"In the vision I saw of your staff, you looked... indistinct, blurred."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I want to ask about something different."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Goodbye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Trigger Conv Node 30</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Durance's voice remains low, steady, as if repeating something he's said many times before - either out loud or to himself. "It brought the Saint's War to an end... knocked a god from his perch."
+
+Durance's face becomes stone. "There are few that would deny Eothas... overstepped. The Godhammer reminded Eothas of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"You saw its light because I helped shape it, give it life... and release it into the world." Durance swallows, nods. "Once seen... its glory is almost too bright to be believed - and too bright to be forgotten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"You helped build the Godhammer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"There were twelve of us." Durance nods. "We fashioned the weapon, drafted plans for it, prayed for guidance at Ashfall, and it came to me there... each of us were given a staff made from the forest of Black Trees around us, glowing with embers and fire far greater than this... branch you see now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"It felt as if the staff was Magran's own finger - guiding my hand, guiding the other eleven, the shadows of the twelve who would come to stand on the bridge to stop Eothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Shadows of the twelve?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I also saw a dozen bright circles, emerging from your staff as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Tell me about the bridge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I have other questions about the Godhammer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Durance frowns. What of it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Even in that stand, there was a ritual to it. For the twelve that stood on the bridge, there were a dozen shadows cast, a dozen faithful of Magran - her fiercest supporters and shapers of the Godhammer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Durance rests the staff in front of him, and the flame atop it... curls for a moment, the light flaring slightly... it splits into a ring of flames, one after the other... until a dozen is met...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Shadows cast by the fire of the Godhammer, perhaps..." The flame suddenly winks out, smokeless. "...and we shared their fate as well, in time. Now the spine of the Dyrwood is marked by the Godhammer. Marked by Magran." Durance frowns, and moves his gaze from the staff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"What do you mean 'shared their fates'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Not all deaths come with stilled breath and stilled heart." Durance grunts, adjusts the cord of his robe. "Or other stilled passions beneath the waist. Some deaths come from silence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"The connection we once shared with Magran... after the light of the Godhammer, it was not the same. 
+
+"It was as if we had lost our senses... and sense of purpose as well. Instead of victory... being welcomed, there was silence - within and without."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Not many can claim to have killed a god. It is less... a heroic tale than you would think. And such a death, it changed our faith. All faiths, I expect."
+
+Durance returns his gaze to the dead tip of the staff. "Doubt followed. And the world changed... I do not believe Magran was pleased by what we had done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Why is that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"The world is broken, the Wheel stilled." Durance scratches at his pox scar, then stops, and withdraws his hand, studying it, frowning. "There is sickness in the world's heart, perhaps the price of crossing a god."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>He grunts. "Crossing two gods... even as Magran shaped our hands, perhaps we carried her will farther than was allowed." He pauses, staring at his staff. "Just as Waidwen did. 'Saint' Waidwen." Durance spits. "Mortal arrogance to match mortal arrogance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Yet if the world had changed... then I sought to change with it. If I had forgotten some of Magran's teachings, I would find them again. I would make her see me again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"What did you do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I remembered Magran's teachings - how reminders on the flesh were more important than the death of a vessel." Durance frowns. "And I wondered if killing Eothas... if that simply had set him free. Had it allowed him to escape his punishment and be taken on the Wheel?" 
+
+Durance's voice takes an odd upturn... for once, it feels like he is genuinely asking a question. "Like a mortal?" He shakes his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"As I stepped from the now-blessed Godhammer bridge, I thought of Ashfall, I thought of the War of Black Trees, wondered if I needed to be burned to find myself again. That is Magran at her heart.
+
+"At least that is my hope." Durance frowns. "These are the doubts that befall me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"What happened when you returned to Ashfall?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"The road to Ashfall is long, gives one time to think." His hand tightens on his staff. "And if you think long enough, you do not go home. 
+
+"I left without telling anyone, with only the robes I wore at Halgot, my staff, and my name... which is long buried."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Of my fellow eleven craftsmen, disciples... I know not what happened to them. If they suffered the same doubt as I did. But... it was undeserved. It was wrong. We had done all that... whore had asked, grabbed victory from defeat, and..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"You feel as if your god has betrayed you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Do you feel as if you betrayed your god?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Tell me what happened on the bridge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"There is something... about being used and cast aside." Durance's eyes narrow, as if focusing on some inner thought. 
+
+"Perhaps Waidwen himself felt it, there at the end when the hammer struck. To be the proof that your god is hollow as the vessel it inhabits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I tried to find purpose... and avoided all contact with other Magranic priests, did not seek the walls of Ashfall... and sought to make amends to my god through actions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"I joined with the Purges for a time... and not long after, came the first signs of the Hollowborn." He frowned. "So many crimes... trespasses, violations..." He spits. "'The Salvation.' Animancers were another sickness born of the Saint's War... a relapse of innovation, of desperation to heal what we had caused. 
+
+"All seemed worse than before the bridge, not better. And as years passed... the world became even worse still for the victory."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"We chose the bridge because we could control it." Durance's hands tighten at the top of the staff, as if holding it by the neck. "It was a place where we could choke Eothas in his own footsteps, where we knew his feet would fall - a narrow neck of stone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"But it was more than that - it was a spine of the Dyrwood, symbolic of its backbone. Such symbols are important in the construction of a weapon..." Durance studies his staff, his eyes traveling along the etchings. "Any weapon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Durance's face hardens, and his eyes burn, his eyebrows narrowing. "I suspect Eothas knew that as well... and so did his vessel, in its... arrogance." His hand tightens on the staff. "He intended to walk upon the bridge as if walking on the backs of the Dyrwood. 
+
+"And we intended to burn him with the light of our faith - and his. Twelve on the bridge, twelve in the shadow, and gave ourselves to it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Gave yourselves to it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"We put much of... ourselves into the Godhammer. 
+
+"Such a device is not simply a machine. There are elements of the spirit in it." Durance frowns. "Even Waidwen's spirit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Elements of the spirit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Waidwen? Why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Each of the twelve who brought the Godhammer forth would have done anything to save the Dyrwood, save its people. It is why we were chosen.
+
+"Each of us..." Durance's face twists into a snarl. "Each of us hated this pretender. That rage, that spirit, that rebellion, went into our work. 
+
+"And it went into studying him as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"We all studied Waidwen - he was our enemy, and he had provided the flesh the god wore as a cloak. That flesh made him vulnerable.
+
+"I knew what fields his hands had tilled, his family. What he had harvested. Where he had been born. We sought to know him, what had led him to fight us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Why was that important?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"You don't kill the god, you kill the man it inhabits. And you leave that man a ruin, burn him to ash.
+
+"The weapon was meant to not only burn his flesh, but it would burn his soul. And it did, at the cost of our own, and the cost of our goddess' favor... that whore be damned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"It sounds as if you fell victim to your own weapon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Is that why your image was blurred in the dream?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Durance frowns, glances at you with a sharp look. "Perhaps your eyes were blinded by the truth of the Godhammer, Watcher." He snorts. "I may feel half a man at times, but even that is twice that of most others."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Durance frowns, glances at you with a sharp look. "Perhaps your eyes were blinded by the Godhammer's light, Watcher." He snorts. "I may feel half a man at times, but even that is twice that of most others."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Durance shakes his head, but there is a tension in it, he's flushing red. "If you fear for my spirit, your fears are baseless. The Godhammer... seeing its light only fueled my anger, and made me stronger, made me re-examine the teachings of Magran... put them in a new light."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"It looked as if there was only part of you, as if your spirit had been... sheared in half."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Is that when you sought the teachings of Durance?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Durance snarls, his face a feverish red. "I do not need you to cast any more questions on me, Watcher... nor did I ask you to look upon me without my leave. Get gone, and leave me be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Durance is about to snap at you, then stops, nods. "It seemed time to find the teachings I had lost. And to carry out the goddess' will in the Purges... Eothas' faith still remained."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Maybe the Purges weren't what Magran wanted, either."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Sweat collects in the sooty creases of his forehead and runs down his ruddy cheeks. It drips from the tip of his nose.
+
+His mouth moves, but his utterances make no sound. He is, for once, at a loss. Feeling your gaze, he quickly composes himself, wiping his forehead with the back of a dirty hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>His voice is choppy, hurried. "Hnh. Worship the whims of some fickle bitch and you'll never be more than the dirt beneath her feet.
+
+"Worship what she worships, on the other hand, take her fire for your own, and her esteem comes on its own. 
+
+"Of course, by that time you no longer need it. Trial and transformation, sure as Durance taught."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Durance glares at you, and staring into his eyes gives you the feeling of peering over the edge of a great cliff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Now I see why you call your goddess a whore. She jilted you and you still pine for her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"You committed atrocities and your goddess has shut you out for it. Who says justice doesn't belong to Magran?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Perhaps Durance was as in the dark as you are about how to serve Magran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"It doesn't sound like your goddess will ever forgive you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"It would seem Magran's silence is your trial."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"You committed atrocities and your goddess has shut you out for it. Exactly what you deserve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Your eyes open to a familiar scene. Durance sits with his staff laid across his lap, a malignant flame sprouting from one end.
+
+He is difficult to make out, his features soft, bleeding together. But the staff you can see clearly, its etchings aglow in molten orange. Though Durance's face is difficult to distinguish, there is no mistaking the hardened expression, the furrowed brow. His voice hisses and sputters, low and unintelligible, as though having a private argument with the staff. Traces of spittle catch the firelight as they fly from his lips like sparks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>There is something odd about one of the symbols. A circle of twelve smaller circles. One of the small circles glows brightly, but the other eleven give off little light. They flicker and fade like dying embers.
+
+Between his hissing curses, Durance lowers his face close to the staff and blows on the fading circles with panicked rapidity, coaxing light from them, but they do not ignite. One by one, the light of the circles dies, and smoke rises from their ashes. Only one still burns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Durance hurls his staff at his feet, and it clatters to the ground. Its edges have become soft, difficult to find. Like its owner, the staff has become a blur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>You close your eyes and reopen them, and Durance is there, picking up his staff from the ground, but the blur is gone, and you are awake.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Durance looks at you, challenging. "You see many things that aren't there, Watcher. Perhaps the symbol was for your disappearing sanity, and we are to bid it farewell while you still have the wits to grieve for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"It was the Godhammer symbol. I saw twelve circles. Eleven faded away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"I saw a symbol with twelve circles. What does it represent?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Trigger Conv Node 133</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Hnh, no riddle there, Watcher. It took twelve of us to build the Godhammer. Afterward I took my leave of all of them to see what Magran had in store for me. I've seen none of them since."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Are you sure there isn't more to that story?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"If you say so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Durance locks eyes with you. 
+
+"Your kind has a way of interpreting its visions to fit the version of the truth you like best. But Magran's flame leaves no room for interpretation.
+
+"Waste the time of others with your distortions and your fever-dreams."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"I know what I saw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Flames distort all that lies around them. And you never seem to be far from a flame."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Flames may leave no doubt as to what or where they are. But WHY they are is anyone's guess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"No shame in that when my truth is more interesting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"It's always the way of the mad to try to convince others of a reality only they can see. But when your doctrine's the truth, it requires no convincing - only an opening of the eyes.
+
+"I would purify you, Watcher, if I thought it would help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>[Examine the staff.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>...and to your surprise, there is a female figure behind him. You are about to call out a warning, when you realize it is the Magran statue where you met Durance at the Fork... 
+
+Yet... she seemed almost... alive for a moment... her cast shadow seemed as if it was moving, cloaked, then it is still, frozen with the night at its back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"As Twelve held Eothas fast, we twelve unleashed our prayers and let the Godhammer fall."
+
+...then it blossoms brightly, once, and resumes its candle intensity. In the aftermath, the shadows seem sharper in the vicinity, as if they have edges, and you blink to clear your vision... Durance is still staring at the tiny candle-like flame, intently.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText> "You think to put the coals to my feet, but what's burned once will never burn again.
+
+"These talks are YOUR trial, Watcher. You cannot deflect the truth to one who has already been purified by it."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

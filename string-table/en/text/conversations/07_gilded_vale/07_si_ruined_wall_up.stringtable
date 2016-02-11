@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_si_ruined_wall_up</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>These aged walls appear to have once encircled this entire glade. Only a small fragment remains, and the stairs leading to the top of the structure have crumbled away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Examine the wall more closely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Use a grappling hook.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The heavy bricks are slick with moss, presenting a hindrance to climbing, but the stones themselves seem sturdy enough. Given the right tools, one might easily reach the top.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You give the grappling hook a few swings for momentum and let fly - and the hook lodges easily behind a pile of stones at the upper edge of the wall. A few tugs on the rope suggest that it will stay put.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Climb to the top.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>With the help of the rope, you make your way up the face of the wall and over the side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Scale the wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You find a handhold upon one of the large stones, and start to pull yourself up. You make your way steadily up the crumbling ruin, and over the top. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You find a handhold upon one of the large stones, and start to pull yourself up. But the uneven bricks and odd angle of ascent make the climb difficult, and after a short distance your arms begin to burn too fiercely. You are forced to drop back down to the ground. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Scale the wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The crumbling wall is of a considerable height, even now, and its uneven surface promises a difficult climb. Who will scale it? </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Climb up yourself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Ask [Slot 0] to climb up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Ask [Slot 1] to climb up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Ask [Slot 2] to climb up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Ask [Slot 3] to climb up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Ask [Slot 4] to climb up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Ask [Slot 5] to climb up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Don't scale the wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You find a handhold upon one of the large stones, and start to pull yourself up. The bricks are slick with moss, and sit at strange angles, but you make your way steadily up the crumbling ruin. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Once there, you are able to help the rest of your company up and over the side. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Slot 0] finds a handhold upon one of the large stones, and starts the climb. Despite a few loose rocks and awkward angles, [Slot 0] makes swift progress, and quickly arrives at the top of the wall. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Slot 0] finds a handhold upon one of the larger stones, and starts up the wall. But the uneven footing makes the climb difficult, and after a short distance [Slot 0] is forced to come back down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Once there, [Slot 0] helps you up and over the side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Slot 1] finds a handhold upon one of the large stones, and starts the climb. Despite a few loose rocks and awkward angles, [Slot 1] makes swift progress, and quickly arrives at the top of the wall. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Slot 1] finds a handhold upon one of the larger stones, and starts up the wall. But the uneven footing makes the climb difficult, and after a short distance [Slot 1] is forced to come back down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Once there, [Slot 1] helps you up and over the side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Slot 2] finds a handhold upon one of the large stones, and starts the climb. Despite a few loose rocks and awkward angles, [Slot 2] makes swift progress, and quickly arrives at the top of the wall. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Slot 2] finds a handhold upon one of the larger stones, and starts up the wall. But the uneven footing makes the climb difficult, and after a short distance [Slot 2] is forced to come back down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Slot 3] finds a handhold upon one of the large stones, and starts the climb. Despite a few loose rocks and awkward angles, [Slot 3] makes swift progress, and quickly arrives at the top of the wall. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Slot 3] finds a handhold upon one of the larger stones, and starts up the wall. But the uneven footing makes the climb difficult, and after a short distance [Slot 3] is forced to come back down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Slot 4] finds a handhold upon one of the large stones, and starts the climb. Despite a few loose rocks and awkward angles, [Slot 4] makes swift progress, and quickly arrives at the top of the wall. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Slot 4] finds a handhold upon one of the larger stones, and starts up the wall. But the uneven footing makes the climb difficult, and after a short distance [Slot 4] is forced to come back down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Slot 5] finds a handhold upon one of the large stones, and starts the climb. Despite a few loose rocks and awkward angles, [Slot 5] makes swift progress, and quickly arrives at the top of the wall. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Slot 5] finds a handhold upon one of the larger stones, and starts up the wall. But the uneven footing makes the climb difficult, and after a short distance [Slot 5] is forced to come back down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Once there, [Slot 2] helps you up and over the side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Once there, [Slot 3] helps you up and over the side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Once there, [Slot 4] helps you up and over the side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Once there, [Slot 5] helps you up and over the side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Climb up the wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>You make your way up the crumbling ruin, and over the top of the wall. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

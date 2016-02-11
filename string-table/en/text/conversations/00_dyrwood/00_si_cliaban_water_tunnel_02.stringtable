@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_dyrwood\00_si_cliaban_water_tunnel_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>With very little to assist your travel up stream, you persevere forward. The force of the water pushing against you with all its might; you can finally see a faint glimpse of light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The cave's walls funnel into a small underground lake. You can spy a small aperture on the other end where a constant influx of water flows from.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Inspect the waters.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Swim into the tunnel.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The waters are clean and free of botanical build up due to the flowing water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Your hand cuts into the open air and your head follows soon after. With the remnants of your strength, you pull yourself to shore. As you reach land, a gentle breeze glides across you and chills your drenched body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You inhale one deep breath and submerge yourself into the stream. Your stroke starts out strong, but the current proves tiresome and you can feel your muscles tense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>After taking a short moment to rest, you stand up and survey your surroundings to see the familiar exterior of the Engwithan ruins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Keep swimming forward.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Flow back with the current.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Keep swimming forward.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

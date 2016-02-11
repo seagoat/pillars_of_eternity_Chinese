@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\07_gilded_vale\07_qst_vengence_from_grave</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Vengeance from the Grave</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Confront Nonton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Find the man with the red cloak</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>While exploring the Valewood wilderness, I happened upon a small cave where a great bear lived. In that cave, I discovered a half eaten corpse and a spirit that, through some work of magic, revealed to me the final moments of a man's life. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>In the Valewood, I happened upon a curious hunter who told me his friend had been killed by a large bear in the area. After exploring the area, I found the cave, the bear, and Perly's remains. I experienced a vision of Perly's last moments, which revealed a far more sordid truth: His friend, Nonton, hamstrung him as he attempted to escape the bear. What reasons Nonton had for this are unclear. Perhaps I will find more answers by confronting the man himself. Nonton lives in the nearby town of Gilded Vale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>In the depths of the Valewood cavern, I happened upon a large bear feasting upon the body of a man who, by the look of things, had recently stumbled upon this den himself. When I approached the body, I had a sudden vision of the man's final moments, and knew him for a hunter from Gilded Vale. In the vision, he was led into the cave by a friend of his. When the bear attacked, his fellow hunter hamstrung him and fled, leaving him to be devoured. The culprit's only recognizable feature was his red cloak. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Having heard Ingroed's side of things, I decided to let her and Nonton leave Gilded Vale. Perhaps they can make a new life for themselves somewhere far from here. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I killed Ingroed and Nonton for the parts they played in Perly's death. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>I slew the hunter Nonton, only to find evidence of his crimes against an old friend within a cavern in the Valewood. I told Perly's spirit that his murderer was slain. Perhaps now his troubled soul will pass into the next life.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>I slew Ingroed and Nonton, only to later find evidence of Nonton's crimes against an old friend within a cavern in the Valewood. I told Perly's spirit that his murderer was brought to justice. Perhaps now his troubled soul will pass into the next life.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>I killed Nonton, the man from the vision, and Ingroed with him. Whatever the tale behind Perly's death, it dies with them.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_bs_glanfathan_pots_locals_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"The pale elves have consumed The Fangs' patience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"No, they will not throw them out of Rymrgand's temple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"They are an affront to Rymrgand!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Still your tongue! Do you pretend to commune with the God of Winter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I sense a change in that wind, brother..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"The pale elves have tended to Noonfrost for several seasons, now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"My claim stands, the pale elves no longer dwell within Noonfrost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I heard a foreigner dealt with them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"No one would have guessed that an estramor would return Noonfrost to us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Perhaps the Fangs found an ally in him."</DefaultText>
+      <FemaleText>"Perhaps the Fangs found an ally in her."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\13_twin_elms_elms_reach\13_qst_sacrificial_bloodlines</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Sacrificial Bloodlines</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Fetch the orlan child from a house in southeast Hearthsong.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Deliver the baby to Blood Sands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Optionally, get poison from Bledha in Elms' Reach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Give the essence potion to Simoc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Trick Simoc into drinking the poison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Deliver the baby to Blood Sands or trick Simoc into drinking the poison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Give the essence potion to Simoc or trick him into drinking the poison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Simoc, anamfath of the Three-Tusk Stelgaer, has led his tribe for nearly two hundred years, but he has failed to produce offspring with souls fit to succeed him. Simoc confided his fears that his tribe, which defends the Glanfathan border, will grow weak without aggressive leadership.
+
+However, he told me he's found a way to endow his next child with a stronger soul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Anamfath Simoc is fostering a daughter of the Fisher Crane's anamfath. He's asked me to bring her to Keeper Wrdha of the Ethik Nôl for a ritual that will allow him to consume her essence.
+
+The child is in a house by the river. Simoc has arranged for her to be left unattended.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I have the Fisher Crane child. Simoc asked me to take her to Keeper Wrdha in Blood Sands.
+
+Blood Sands in a cave at the northern edge of Elms' Reach, next to Teir Evron itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Simoc's son, Lliras, confronted me about his father's plan. He implored me not to go through with it.
+
+Instead, Lliras asked me to obtain a poison from Bledha, one of the Ovates of the Golden Grove. Even though Lliras has already been deemed an unsuitable successor, he does not want to see Simoc's kind of leadership continue in this manner.
+
+I can find Bledha in the southeast corner of Elms' Reach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Keeper Wrdha has given me a potion for Simoc made from the child's essence. Simoc is waiting for it in the Hall of Warriors.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I convinced Bledha to give me a rather potent poison. Since Simoc's already expecting a potion, I should be able to dupe him into drinking this.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>I have taken Vela and have also acquired the poison. Following through with Simoc's plan means giving the child to Wrdha in Blood Sands. Even so, I can still poison Simoc instead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>With the essence potion, I can ensure that Simoc fathers an elemfath capable of leading Three-Tusk Stelgaer.
+
+Alternatively, I could give him the poison I acquired from Bledha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Simoc admitted that the ritual will involve sacrificing the child.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Lliras attacked as I was leaving with Vela. I had to kill him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Simoc's son, Lliras, confronted me about his father's plan. He asked me to poison Simoc instead. I can obtain a suitable poison from Bledha, one of the Ovates of the Golden Grove.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>I have taken the baby from the dwelling in Hearthsong, but I still can acquire the poison that would kill Simoc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>While I already have the poison, I still can take the baby and bring her to Wrdha, in Blood Sands, to follow through with Simoc's plan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>I've also acquired the poison from Bledha. Tricking Simoc into drinking it, now that Lliras and Vela are dead, might leave the Three-Tusk Stelgaer without a clear successor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Tricking Simoc into drinking the poison, now that Lliras and Vela are dead, would leave the Three-Tusk Stelgaer without a clear successor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I gave Simoc a potion made with the essence of his adopted orlan daughter. With this, he'll be able to produce an heir capable of succeeding him, thus ensuring the continued strength of Three-Tusk Stelgaer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I gave Simoc's adopted orlan daughter to a childless couple in Hearthsong. She'll have a chance at a normal and happy life.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>After hearing Simoc's plan to sacrifice his adopted orlan daughter, I went along with Lliras' plan to poison him. While this leaves the future of Three-Tusk Stelgaer uncertain, it prevents Simoc from executing his wicked plan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>After hearing Simoc's proposal that I sacrifice his adopted daughter, I killed him in the Hall of Warriors. This old anamfath had lived past his time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Someone critically important to this quest has died.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>After sacrificing Vela in Blood Sands, I decided to kill Simoc. With the old anamfath and his adoptive successor gone, Three-Tusk Stelgaer will have to find new leadership.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>My attempt at poisoning Simoc failed, and I was forced to kill him in combat instead.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

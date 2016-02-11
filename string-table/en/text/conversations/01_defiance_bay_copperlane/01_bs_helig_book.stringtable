@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_bs_helig_book</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Helig's death has done his handwriting no favors. The scattered, feverish notes detail various animantic rites and procedures. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The amulet you took from Helig's corpse begins to glow brightly as you approach the book. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>After turning a few pages, you find a quick, scrawled image of the amulet. It's accompanied by notes detailing the process by which Helig bound Rowyna's soul to the amulet - and in so doing, imbued it with great power.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Examine the book.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
