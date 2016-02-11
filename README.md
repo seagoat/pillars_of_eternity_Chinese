@@ -1,6 +1,16 @@
 # pillars_of_eternity_Chinese
 Pillars of Eternity Chinese translation pack | 永恒之柱中文汉化包
 
+## 20160211 更新
+> *官方的excel 文本就是一个坑。*
+> 因为程序版本不停更新，文本也在不停变化，有删有减
+> 使用官方 excel 之后，出来大量的 missing xxx
+> 痛定思痛，考虑更换侧率
+> * 使用当前程序内自带的 stringtable
+> * 有翻译内容的，翻译结果
+> * 没有翻译内容的，保留原始英文
+> 手动测试了下，missing character 搞定了。 方向应该没问题
+
 ## 背景
 * 永恒之柱3.0beta开始，官方提供了本地化工具包
 * 但是现在无论是游侠还是 3DM 提供的汉化包，都无法兼容最新的版本
