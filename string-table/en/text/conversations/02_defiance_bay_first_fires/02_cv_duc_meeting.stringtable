@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\02_defiance_bay_first_fires\02_cv_duc_meeting</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>163</EntryCount>
@@ -763,7 +762,7 @@ Thaos is gone.</DefaultText>
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>Edér leans in, his head upside-down in your sight as he peers down at you from above. "Hey, you're alive!"
+      <DefaultText>Ed&#233;r leans in, his head upside-down in your sight as he peers down at you from above. "Hey, you're alive!"
 
 He looks you over, frowning. "Can you move? We shouldn't stick around. When Dyrwoodans get stirred up they like to start burning things."</DefaultText>
       <FemaleText />

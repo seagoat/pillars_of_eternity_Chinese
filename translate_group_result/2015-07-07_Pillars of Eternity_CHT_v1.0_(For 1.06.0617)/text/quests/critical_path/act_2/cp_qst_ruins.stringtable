@@ -1,0 +1,53 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\critical_path\act_2\cp_qst_ruins</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>9</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>廢墟裡的道路</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>去沃迪卡的神殿。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>找到進入沃迪卡神殿的路。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>弄清楚暗灰之鑰要幹什麼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>廢墟裡的道路</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>沃迪卡神殿坐落在反抗灣的最初之火地區。我得先去那裡看看，開始對暗灰之鑰的調查。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>沃迪卡神殿已是一片廢墟- 至少在地面上已經是廢墟了。我看到靈魂順著樓梯向下走走到了神殿下面的一個房間。樓梯對我是不可用的，不過在反抗灣的地下墓穴之中或許還會有另一條通往神殿的路。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我到達了沃迪卡神殿的地下部分。現在我要調查這個地方，弄清楚暗灰之鑰正在反抗灣做什麼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>我假裝成了暗灰之鑰的僱傭兵，所以我可以在那裡自由行動。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

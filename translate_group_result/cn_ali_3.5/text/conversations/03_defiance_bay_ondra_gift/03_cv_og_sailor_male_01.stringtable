@@ -1,0 +1,23 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\03_defiance_bay_ondra_gift\03_cv_og_sailor_male_01</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>3</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>我们试图停泊到那些该死的绿萤军队附近时船头竟然没被打满洞真是个奇迹。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>我们已经出海很久了。是时候卸载了，我不是指我们的货物！</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>这个水手带着自信的微笑热切地看看周围。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

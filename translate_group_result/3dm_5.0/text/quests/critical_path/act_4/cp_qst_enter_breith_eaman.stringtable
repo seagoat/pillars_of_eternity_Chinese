@@ -1,0 +1,71 @@
+<StringTableFile>
+  <Name>quests\critical_path\act_4\cp_qst_enter_breith_eaman</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>忏悔者之庭</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>前往葬身岛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>找到忏悔者之庭</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>跳进坑洞。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>双生木城的德里甘姐妹知道陶斯已经逃到了地下一条小路上，它通往英格维斯一个叫做荫日之地的地方，他阻塞了身后的道路。
+
+那对姐妹给我指明了另一条可以追上他的路——甚至也许可以超过他。葬身岛有一条道路，穿过一座古英格维斯监狱的废墟——布雷斯伊曼。这条道路十分艰险，但也许是通往荫日之地最快的道路了，因为它还包含一段长长的自由落体。
+
+现在我虚幻的记忆变得越来越频繁，仅仅勉强能和现实世界区分开。我已经没时间了。我需要知道关于我们共同的过去陶斯还记得什么，这样，无论是什么在折磨我的灵魂都能得以结束了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>我从赛达和瑞亨那里了解到通往荫日之地的路坐落在葬身岛区。那里有一个古庭可以指引我找到陶斯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我已经到了葬身岛的海岸。在岛上某处，忏悔者之庭指明了一条通往布雷斯伊曼道路，直达荫日之地。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>在忏悔者之庭中央有一个深坑，它深不见底，即使扔进石头也听不到一丝声响。如果从这里跳进去毫无疑问任何人都绝无生还可能。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>多维尔，古颂区的守卫兼船员，告诉我葬身岛不同于双生榆城的其他区域。那座岛是六部落灵魂之子的葬身之所，也是个危险的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>我找到了一条通往庭院的捷径，似乎可以绕过凶险的旅程。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>为了能够安全抵达坑洞的底部，我似乎需要借助神圣的力量。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>从忏悔者之庭坑洞的坠落之中我活了下来。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

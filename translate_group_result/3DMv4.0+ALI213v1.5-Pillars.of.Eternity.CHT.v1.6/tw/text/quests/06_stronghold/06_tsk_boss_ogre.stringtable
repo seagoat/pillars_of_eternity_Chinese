@@ -1,0 +1,43 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\06_stronghold\06_tsk_boss_ogre</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>懸 賞 ：智 者 納 爾 倫 德 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>殺 死 智 者 納 爾 倫 德 ，把 他 的 頭 帶 回 來 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>把 納 爾 倫 德 的 頭 交 給 塞 德 努 亞 的 費 爾 根 典 獄 長 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>據 說 被 稱 為 智 者 納 爾 倫 德 的 食 人 魔 薩 滿 在 榆 樹 海 濱 某 處 有 一 個 新 巢 穴 。有 一 份 懸 賞 要 他 的 腦 袋 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>智 者 納 爾 倫 德 ，一 個 食 人 魔 薩 滿 ，一 直 恐 嚇 著 榆 樹 海 濱 周 邊 鄉 鎮 。能 夠 殺 掉 他 並 帶 回 頭 顱 的 人 可 以 得 到 一 份 賞 金 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>納 爾 倫 德 死 了 。我 可 以 把 他 的 頭 帶 給 費 爾 根 典 獄 長 並 拿 到 賞 金 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 拿 到 了 智 者 納 爾 倫 德 的 賞 金 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

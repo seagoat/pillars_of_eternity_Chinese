@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\prototype_2\p2_cv_sabhan</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“就像我说的，缇蕾吉掌握了这里的顾客。我只掌握染料。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“我可不是一个爱闲聊的人，[Player Race]。如果你有问题就去问缇蕾吉。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“你聋了吗？去烦缇蕾吉吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,28 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\05_defiance_bay_heritage_hill\05_cv_valtas_dargul</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“赛 达 ！让 我 们 进 来 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“安 全 了 。你 现 在 可 以 出 来 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“开 门 啊 ，赛 达 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>女 半 亡 者 来 回 走 动 着 ，一 边 发 着 嘶 嘶 声 ，一 边 嗅 着 。“幸 存 者 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

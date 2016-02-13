@@ -1,0 +1,33 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\cv_watcher_backer_story</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>5</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>随 着 你 逐 渐 靠 近 ，你 感 受 到 了 贮 藏 在 这 人 灵 魂 精 华 中 的 生 动 历 史 。昔 日 的 声 音 召 唤 着 你 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>[感 受 灵 魂 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>[离 开 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>随 着 你 逐 渐 靠 近 ，你 感 受 到 了 贮 藏 在 这 人 灵 魂 精 华 中 的 生 动 历 史 。昔 日 的 声 音 召 唤 着 你 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>[NPCBacker]</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

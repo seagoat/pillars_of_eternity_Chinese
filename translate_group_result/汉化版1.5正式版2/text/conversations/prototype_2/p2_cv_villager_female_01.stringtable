@@ -1,0 +1,28 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\prototype_2\p2_cv_villager_female_01</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>希 望 你 喜 欢 我 们 的 村 子 ，旅 行 者 。野 外 偷 猎 的 好 季 节 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>需 要 药 膏 找 亨 黛 娜 。那 女 人 救 过 我 不 止 一 次 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>村 民 看 了 你 一 眼 ，点 了 点 头 后 继 续 忙 自 己 的 事 去 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>注 意 眼 观 六 路 耳 听 八 方 。我 听 说 一 位 贵 族 最 近 失 踪 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

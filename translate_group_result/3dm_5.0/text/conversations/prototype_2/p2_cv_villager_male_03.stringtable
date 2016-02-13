@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\prototype_2\p2_cv_villager_male_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“这里的日子确实苦，但是至少我们拥有自己创造的一切。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“最近有许多城市居民——很多，如果问我的话。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>村民瘪着嘴上下打量你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“先是奥伦，现在又是这个老头对着旅店乱吼。我希望这些家伙能赶紧离开。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

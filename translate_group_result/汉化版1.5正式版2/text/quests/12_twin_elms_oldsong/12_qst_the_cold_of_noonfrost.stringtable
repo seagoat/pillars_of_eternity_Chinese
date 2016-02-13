@@ -1,0 +1,105 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\12_twin_elms_oldsong\12_qst_the_cold_of_noonfrost</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>18</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>冰 之 狱 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>进 入 Noonfrost的 古 老 乐 曲 区 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>找 到 阿 尔 瓦 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>从 Noonfrost释 放 阿 尔 瓦 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>返 回 到 Maw中 的 拉 尔 哈 身 边 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>返 回 Maw中 的 拉 尔 哈 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>在 古 老 乐 曲 区 的 湖 自 从 一 群 脸 色 苍 白 的 精 灵 的 到 来 后 便 开 始 结 冰 。尖 牙 的 一 位 成 员 拉 尔 哈 发 派 她 的 妹 妹 阿 尔 瓦 前 往 调 查 。
+
+阿 尔 瓦 去 Noonfrost神 殿 寻 找 答 案 。而 直 到 现 在 她 还 没 回 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>尖 牙 的 一 个 探 子 阿 尔 瓦 在  Noonfrost的 湖 上 的 神 殿 中 失 踪 了 。拉 尔 哈 曾 派 阿 尔 瓦 去 调 查 殿 里 的 寒 气 。
+
+拉 尔 哈 认 为 最 近 来 到 神 庙 的 苍 白 的 精 灵 可 能 是 这 个 问 题 的 原 因 。不 管 怎 么 说 ，我 可 能 无 法 在 Noonfrost找 到  阿 尔 瓦 -或 她 失 踪 的 证 据 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我 找 到 了 Noonfrost。格 拉 姆 法 伦 有 明 显 的 存 在 的 痕 迹 。 
+
+如 果 他 们 对  阿 尔 瓦  的 失 踪 负 有 责 任 ，我 怀 疑 他 们 是 不 会 承 认 的 。不 过 ，我 可 能 能 够 亲 自 跟 踪 她 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>阿 尔 瓦 被 锁 在 Noonfrost后 部 边 上 的 一 个 房 间 里 。她 告 诉 我 ，格 拉 姆 法 伦  在 她 试 图 溜 走 的 时 候 抓 住 了 他 。她 想 让 我 帮 助 她 逃 跑 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>阿 尔 瓦 逃 出 了 Noonfrost。拉 尔 哈 会 高 兴 见 到 她 的 ，但 她 也 想 要 听 到 我 对 殿 里 发 生 的 事 的 报 告 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>阿 尔 瓦 死 前 依 然 没 能 从 Noonfrost逃 脱 。我 必 须 把 这 个 消 息 告 诉 拉 尔 哈 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>我 告 诉 她 还 不 到 安 全 离 开 的 时 候 。如 果 苍 白 精 灵 在 她 逃 走 时 抓 住 他 的 话 可 不 是 什 么 好 事 ，所 以 要 么 得 找 出 一 条 小 道 ，要 么 得 找 到 某 种 方 式 来 与 他 们 的 领 导 人 进 行 谈 判 。然 而 ，他 们 好 像 并 不 想 让 我 见 到 他 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>格 拉 斯 瓦 尔  给 了 我 释 放  阿 尔 瓦  的 权 限 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 开 辟 了 一 条 捷 径 ，使  阿 尔 瓦  能 从  Noonfrost逃 脱 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>阿 尔 瓦 死 前 依 然 没 能 从 Noonfrost逃 脱 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我 和 苍 白 的 精 灵 的 首 领 格 拉 斯 瓦 尔 做 了 个 交 易  ，以 确 保 阿 尔 瓦 被 释 放 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>此 任 务 中 的 某 个 重 要 人 物 已 死 亡 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
+

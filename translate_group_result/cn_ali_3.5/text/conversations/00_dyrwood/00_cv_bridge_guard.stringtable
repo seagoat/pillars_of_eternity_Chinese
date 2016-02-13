@@ -1,0 +1,62 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\00_dyrwood\00_cv_bridge_guard</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>10</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>守卫打量了你一眼。”我猜，你刚来迪福特吧。我想你在路上应该没看到一名年轻的精灵贵妇吧。我现在只能困守在这个鬼地方，等我其余的伙伴找到那个女人。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“没见过。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“她是谁？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“别挡路。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“跟着炽热的村子里的其他人一样。”他叹了叹气。”也许你可以同旅馆里的哈罗德大人谈谈。他会对你的帮助表示感激，另外，村民们也会敞开心扉，跟你透露更多关于他女儿失踪的消息。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“艾莉丝小姐。”他咬了咬嘴唇。”她是内斯特·哈罗德大人的女儿。她失踪了。”他叹了叹气。”也许你可以同旅馆里的哈罗德大人谈谈。他会对你的帮助表示感激。另外，民众也会比敞开心扉，跟你透露更多有关他女儿的消息。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>他摇了摇头，一本正经得笑着。”登格勒，你跟那旅馆老板一样有用。”你肯定能融入这迷人的糟糕地方。让野兽来终结你这忧郁生命吧。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“如果你找到艾莉丝小姐的话，请尽快护送她到德拉科根旅馆。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>守卫看着你，长舒了一口气。“这是什么样的机缘啊。被困在这里，却见到了反抗湾的英雄。贝拉斯之轮带来了好运。”
+
+他变得严肃了起来。“或许你能帮帮我们。我不认为你在路上碰到了一个年轻的精灵族贵族。在我们找到她之前，我和剩余的单位会困在这个烂地方。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>守卫打量着你。”真巧啊。被困在这里，结果发现一名善良护旅者。贝拉斯的命运之轮在今日带来了仁慈。”
+
+他的举止越加严肃。“也许你能帮忙。我猜你应该没在路途上看到一名年轻的精灵贵妇。在我们找到她之前，我和我的其余伙伴都被困在这讨厌地方。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

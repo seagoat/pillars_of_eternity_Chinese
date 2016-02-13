@@ -1,0 +1,64 @@
+<StringTableFile>
+  <Name>quests\companions\companion_qst_aloth_and_iselmyr</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>两面派</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在反抗湾某处找到一个觉醒方面的专家。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>亚禄透露在他体内有一个觉醒的灵魂，伊瑟米尔。他在请人帮忙找到一个了解他现在状况的专家。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>亚禄提到在反抗湾有一整个机构都在致力于研究灵魂的疾病。那里肯定就是我在寺僧的眼中看到的地方。
+
+我可能会在那里找到某个知道觉醒的灵魂的人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我被告知要找到一个叫贝拉西奇的人。她工作在疯人院的低层。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>看起来布拉肯伯里疯人院是我们能给亚禄找到帮助的最大希望了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>我准备好参加院长的通灵术听证会了。如果我要帮亚禄解决伊瑟米尔，我就应该首先带他到疯人院找到这位专家。这些听证会给反抗湾的通灵术活动会造成多大影响还不得而知。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>在听完伊瑟米尔如何反抗亚禄那残暴专制的父亲后，我建议她或许比亚禄料想的更有用。他心存怀疑，但是我相信他也在仔细考虑这件事了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>在听完伊瑟米尔如何在情况复杂时控制他后，我建议亚禄提防她。他不应该让任何人控制他，即使是他灵魂的一部分也不行。他看起来很赞同我说的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>看起来伊瑟米尔对亚禄既是个宝贝也是个祸害。一方面，她在他承受压力时及时介入，另一方面，她又不总是按照他喜欢的方式解决问题。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>我们没能找到拥有亚禄需要的专业知识的通灵师。他只能靠自己解决这个问题了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

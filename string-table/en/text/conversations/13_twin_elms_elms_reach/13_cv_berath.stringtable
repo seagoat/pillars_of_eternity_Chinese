@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\13_twin_elms_elms_reach\13_cv_berath</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>168</EntryCount>
@@ -44,7 +43,7 @@ He beckons for you to approach. </DefaultText>
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>You remember the door to Clîaban Rilag and the two figures carved into the mountain next to it. One looks vaguely male and the other vaguely female. Only a thin layer of flesh covers their skeletal bodies, which twist to face the doorway between them.
+      <DefaultText>You remember the door to Cl&#238;aban Rilag and the two figures carved into the mountain next to it. One looks vaguely male and the other vaguely female. Only a thin layer of flesh covers their skeletal bodies, which twist to face the doorway between them.
 
 The doorway, however, is not what you saw in the ruins. It's a skull, gaping and jawless, and as you look on, its open mouth seems to grow.
 
@@ -107,7 +106,7 @@ You turn and look behind you, only to see the skull gate you just passed facing 
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Edér chuckles and shakes his head. "Interesting."</DefaultText>
+      <DefaultText>Ed&#233;r chuckles and shakes his head. "Interesting."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -148,7 +147,7 @@ When you get closer, you see that her legs taper into a slender trunk, and in pl
       <ID>41</ID>
       <DefaultText>He lifts his head, and this time, you know he's looking at you. His renewed face looks like a mask, artificially smooth and still. Behind it, his black eyes are two hungry pits, yawning like the empty mouths of skulls.
 
-"Come. Make your sacrifice to the Ethik Nôl."
+"Come. Make your sacrifice to the Ethik N&#244;l."
 
 His body blocks the path. He extends a bloody hand toward you.</DefaultText>
       <FemaleText />

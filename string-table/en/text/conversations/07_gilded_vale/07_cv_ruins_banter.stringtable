@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\07_gilded_vale\07_cv_ruins_banter</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>87</EntryCount>
@@ -11,7 +10,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Heodan's words come between wheezing gasps. "A bîaŵac. Had to be." </DefaultText>
+      <DefaultText>Heodan's words come between wheezing gasps. "A b&#238;a&#373;ac. Had to be." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -75,7 +74,7 @@ She eyes the ragged slash across Heodan's belly. "Can you walk?"</DefaultText>
       <ID>14</ID>
       <DefaultText>Calisca shakes her head. "Windstorm. Of a kind they only get in Eir Glanfath. Not too many people live through them, so it's hard to know what's true.
 
-"The Glanfathan word is 'bîaŵac.' To them it's the gods' way of reaping the souls of the land that couldn't find their own way out. But they'll take a living soul as soon as a dead one. 
+"The Glanfathan word is 'b&#238;a&#373;ac.' To them it's the gods' way of reaping the souls of the land that couldn't find their own way out. But they'll take a living soul as soon as a dead one. 
 
 "Still got yours?"</DefaultText>
       <FemaleText />
@@ -190,7 +189,7 @@ She looks up. "Gods grant them better luck in their next lives."</DefaultText>
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"A bîaŵac. Spirit wind. One of the first things I learned about when I arrived here. Locals say it sweeps away the lingering souls of the departed." He shakes his head and looks back toward the exit. 
+      <DefaultText>"A b&#238;a&#373;ac. Spirit wind. One of the first things I learned about when I arrived here. Locals say it sweeps away the lingering souls of the departed." He shakes his head and looks back toward the exit. 
 
 "It always sounded more like a story treasure hunters told to scare off the competition."</DefaultText>
       <FemaleText />
@@ -211,12 +210,12 @@ She looks up. "Gods grant them better luck in their next lives."</DefaultText>
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>His gaze drifts back the way you came. "I've heard a few stories of these bîaŵacs. I've never heard of anyone surviving one."</DefaultText>
+      <DefaultText>His gaze drifts back the way you came. "I've heard a few stories of these b&#238;a&#373;acs. I've never heard of anyone surviving one."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"I still can't believe what happened. I'd heard stories of vengeful Glanfathans and violent bîaŵacs, but I thought most of them were just that - stories."
+      <DefaultText>"I still can't believe what happened. I'd heard stories of vengeful Glanfathans and violent b&#238;a&#373;acs, but I thought most of them were just that - stories."
 
 He sighs. "There'll be time to absorb all of this later. I hope."</DefaultText>
       <FemaleText />

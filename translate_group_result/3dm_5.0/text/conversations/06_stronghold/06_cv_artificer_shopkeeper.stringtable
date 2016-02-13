@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\06_stronghold\06_cv_artificer_shopkeeper</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“你好，我的主人。在这你会找到最有创意的精巧设计。油品，陷阱，法术，各种用来挫败你的反对者的东西。想来看看吗？”</DefaultText>
+      <FemaleText>"Greetings, my lady. Here you will find only the most ingenious of contraptions. Oils and snares and dwimmer-crafts, all to fetter and frustrate your foes. Do you wish to have a look?" </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“让我看看你都有什么。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“再会了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“你好，我的主人。今天想要买点陷阱吗？”</DefaultText>
+      <FemaleText>"Good day, my lady. Are we in need of traps today?" </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“晚上好，我的主人。今晚想要买点陷阱吗？”</DefaultText>
+      <FemaleText>"Good eve, my lady. Are we in need of traps this night?" </FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

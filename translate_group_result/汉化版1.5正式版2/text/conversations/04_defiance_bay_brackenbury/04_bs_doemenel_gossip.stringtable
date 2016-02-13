@@ -1,0 +1,28 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\04_defiance_bay_brackenbury\04_bs_doemenel_gossip</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“我 跟 你 说 的 就 是 他 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“杀 死 艾 德 里 德 ·温 菲 尔 德 的 那 刺 客 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“别 那 么 大 声 ，他 会 听 到 的 ！”</DefaultText>
+			<FemaleText>&quot;Not so loud, she&apos;ll hear you!&quot;</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“他 如 果 想 对 队 长 动 手 的 话 ，他 可 能 早 动 了 。”</DefaultText>
+			<FemaleText>&quot;If she snuck up on the captain, she probably already did.&quot;</FemaleText>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

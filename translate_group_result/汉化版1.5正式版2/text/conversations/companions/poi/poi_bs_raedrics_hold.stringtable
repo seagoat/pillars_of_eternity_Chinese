@@ -1,0 +1,43 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\companions\poi\poi_bs_raedrics_hold</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>Bank Node 1</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“这 家 的 男 人 和 那 些 挂 着 的 尸 体 有 关 系 。你 不 打 算 敲 门 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“那 是 一 些 高 墙 ……但 是 它 们 看 起 来 不 安 全 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“一 个 令 人 印 象 深 刻 的 堡 垒 ！但 我 不 觉 得 我 们 会 受 欢 迎 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“我 看 见 的 只 有 你 ，通 魂 者 …提 高 警 惕 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“这 个 地 方 浸 泡 在 灵 魂 的 鲜 血 中 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“不 介 意 与 我 们 尊 敬 的 领 主 谈 谈 。给 他 一 些 建 议 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

@@ -1,0 +1,28 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\04_defiance_bay_brackenbury\04_bs_brackenbury_patient_oswin</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>病 人 一 動 不 動 地 躺 著 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>歐 斯 溫 呻 吟 著 ，身 體 劇 烈 扭 動 著 ，他 綁 著 的 手 腕 都 發 紅 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>他 呻 吟 著 ，說 著 無 人 理 解 的 話 語 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>他 看 上 去 跟 做 著 噩 夢 一 樣 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

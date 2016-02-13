@@ -1,0 +1,410 @@
+﻿<StringTableFile>
+  <Name>conversations\companions\companion_cv_durance_hub_ashfall_v2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>75</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>杜 兰 斯 抱 怨 道 ：“你 对 这 个 的 兴 趣 很 浓 厚 嘛 ，超 过 了 大 多 数 战 火 之 神 马 格 兰 的 忠 诚 之 士 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>杜 兰 斯 扬 起 半 边 眉 ，轻 蔑 地 哼 道 ：“你 问 了 这 么 多 ，看 来 你 远 比 我 更 想 念 它 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>杜 兰 斯 耸 耸 肩 ：“不 是 这 些 地 方 的 美 人 ……”他 用 手 抓 了 抓 一 个 痘 印 ，笑 道 ：“但 也 不 是 战 火 之 神 马 格 兰 的 忠 诚 之 士 们 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>杜 兰 斯 抱 怨 道 ：“你 对 这 个 的 兴 趣 很 浓 厚 嘛 ，超 过 了 大 多 数 战 火 之 神 马 格 兰 的 忠 诚 之 士 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“你 能 跟 我 讲 讲 黑 森 林 之 战 吗 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“大 教 堂 长 什 么 样 子 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>“你 还 能 跟 我 说 说 Ashfall吗 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>“你 的 木 杖 似 乎 是 你 的 神 圣 象 征 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>“Ashfall是 一 个 存 放 枪 支 ，炸 药 还 有 炼 金 火 的 地 方 ，听 起 来 很 危 险 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>“我 想 问 点 别 的 的 东 西 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[离 开 ]“我 们 继 续 吧 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Trigger Conv Node 14</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>“还 要 说 什 么 。”杜 兰 斯 皱 起 眉 头 ，再 次 握 紧 了 他 的 木 杖 ，手 指 似 乎 都 嵌 在 了 木 头 里 ：“那 是 战 火 之 神 马 格 兰 释 放 的 最 强 火 焰 。”他 耸 了 耸 肩 ：“有 人 说 是 最 黑 暗 的 不 是 恶 魔 ，而 是 那 些 大 火 熄 灭 后 留 下 的 灰 烬 。”
+
+他 顿 了 顿 ：“我 之 前 管 它 叫 大 教 堂 ，但 其 实 它 并 不 完 全 是 个 教 堂 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>“它 更 像 一 个 战 场 ……位 于 黑 森 林 之 战 中 心 的 战 场 ，它 的 建 筑 木 材 来 自 烧 焦 的 森 林 ，每 一 根 木 头 都 印 着 火 焰 的 痕 迹 ，记 录 了 战 火 之 神 马 格 兰 的 最 大 战 役 。”
+
+“我 们 很 多 人 都 拿 着 枪 和 火 ，在 那 里 留 下 了 战 争 的 印 记 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>“现 在 嘛 ……”杜 兰 斯 挠 了 挠 脸 颊 上 的 痘 印 ，他 的 另 一 只 手 则 紧 紧 抓 在 木 杖 上 ：“那 都 是 十 几 年 前 的 事 了 。吞 噬 了 森 林 的 大 火 ，熊 熊 燃 烧 的 庄 稼 ，战 火 之 神 马 格 兰 传 下 的 信 息 ……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>“她 的 手 指 放 在 花 茎 上 ，就 像 用 指 甲 在 人 的 背 后 抓 过 一 样 。”杜 兰 斯 将 手 从 脸 上 拿 下 ，与 另 一 只 手 一 起 紧 握 着 木 杖 ：“那 片 森 林 再 也 没 有 恢 复 过 ，除 了 被 她 净 化 的 地 面 ，其 它 地 方 都 没 有 种 子 了 。”
+
+“黑 森 林 还 在 ，就 像 从 地 面 上 伸 出 的 黑 色 手 臂 一 样 。”他 笑 着 说 ：“通 魂 者 ，那 可 比 我 描 述 的 浪 漫 多 了 。毕 竟 ，它 还 承 载 着 女 子 的 触 摸 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>“巨 大 无 比 ，美 丽 奇 异 ，被 天 神 保 佑 的 它 ，不 可 能 再 次 被 火 焰 击 倒 。”
+
+杜 兰 斯 的 眼 睛 瞟 到 他 灰 色 的 木 杖 上 ，仔 细 观 摩 着 上 面 的 刻 痕 ：“下 面 ？隧 道 和 房 间 在 火 坑 ……和 很 多 忠 诚 之 士 的 下 面 ，他 们 在 寻 找 将 火 焰 带 到 这 个 世 界 的 方 法 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>他 将 视 线 从 木 杖 上 移 开 ，转 头 看 向 你 ：“枪 支 ，炸 药 ，炼 金 术 ……所 有 的 这 些 都 是 我 们 神 圣 的 象 征 。我 很 乐 意 与 他 人 分 享 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>“这 个 ？”杜 兰 斯 似 乎 很 吃 惊 ，眨 了 眨 眼 说 ：“这 么 说 吧 ，这 是 ……”他 耸 耸 肩 ：“这 个 是 火 灾 过 后 留 下 的 东 西 。”
+
+“如 果 Ashfall是 一 座 用 这 样 的 木 棍 支 撑 起 来 的 大 教 堂 ，那 些 这 根 木 棍 ——它 就 是 用 来 支 撑 我 走 向 其 他 待 建 成 的 Ashfall。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>他 把 它 拿 在 手 里 旋 转 ：“这 根 木 头 源 自 黑 森 林 之 战 。它 很 坚 固 ……像 朋 友 一 样 ，一 路 陪 着 我 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>“这 跟 木 杖 上 刻 着 什 么 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>“传 说 ，一 些 用 来 提 醒 我 的 东 西 ，一 些 可 以 让 我 思 考 的 东 西 。当 咒 语 变 得 无 趣 时 ，我 可 以 让 虔 诚 的 祈 祷 占 据 我 的 大 脑 。”他 喃 喃 道 ：“咒 语 会 失 去 它 们 的 力 量 ，但 是 用 手 指 将 符 号 刻 进 这 根 被 火 焰 守 护 的 木 头 里 ……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>杜 兰 斯 伸 出 手 指 ，抚 摸 这 根 木 杖 上 刻 着 的 纹 路 ，那 些 符 号 便 微 微 发 起 光 来 ，似 暗 红 的 火 焰 灰 烬 。他 将 手 拿 开 后 ，木 杖 仍 在 发 光 ，他 凝 视 着 它 ，眼 中 印 着 淡 淡 的 火 光 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>“比 起 文 字 ，我 发 现 符 号 才 是 祈 祷 之 词 的 更 大 来 源 ……尤 其 是 当 文 字 数 量 很 多 时 。”他 挤 了 挤 鼻 子 ，喃 喃 道 ：“文 字 让 我 想 起 了 沾 满 贵 族 气 息 的 鹿 丛 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>他 伸 直 了 背 ，暗 叹 一 声 ,再 次 握 紧 了 那 跟 木 杖 ：“我 需 要 的 圣 歌 与 祈 祷 之 词 ，便 是 黑 森 林 之 战 与 我 带 着 的 这 根 木 杖 。那 是 一 种 ，无 论 是 否 虔 诚 的 人 都 能 理 解 的 符 号 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>亚 洛 斯 打 着 哈 欠 ：“但 愿 他 很 快 就 能 厌 倦 那 些 话 。”杜 兰 斯 似 乎 没 有 注 意 到 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>“你 能 跟 我 解 释 一 下 ，你 木 杖 上 的 符 号 是 什 么 意 思 吗 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>“生 活 处 处 有 危 险 。你 不 可 能 全 知 道 ，你 只 会 知 道 的 越 来 越 多 。”杜 兰 斯 喃 喃 道 ：“火 焰 总 是 贪 婪 的 ，如 果 你 不 尊 重 它 ，它 就 会 像 挑 战 港 的 妓 女 一 样 ，吻 得 你 如 火 焚 身 。”
+
+杜 兰 斯 闭 上 了 眼 ，似 乎 在 回 忆 过 去 ：“有 些 房 间 被 吞 噬 ，有 些 被 摧 毁 ，但 是 Ashfall保 留 了 下 来 。如 果 有 天 我 能 回 去 的 话 ，我 很 想 看 看 它 。”他 耸 耸 肩 ：“不 过 我 怕 我 是 回 不 去 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>“为 什 么 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>杜 兰 斯 睁 着 眼 瞪 着 你 ：“因 为 家 是 一 个 充 满 了 失 望 的 地 方 ，所 以 ……千 万 不 要 停 下 脚 步 定 居 安 家 ，这 是 我 给 你 的 建 议 ，通 魂 者 ——不 要 停 下 脚 步 。家 就 是 诅 咒 ——它 会 杀 了 你 ，好 让 你 留 下 ……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>你 注 意 到 艾 德 一 直 在 听 。他 小 声 地 说 道 。
+
+“不 知 道 ，那 个 大 教 堂 在 他 脑 子 里 ，跟 蝙 蝠 在 他 的 钟 楼 里 一 样 ，这 是 否 就 是 问 题 所 在 ……”
+
+“不 过 我 确 实 很 悲 伤 ，他 们 在 他 走 后 搞 了 个 聚 会 ，而 我 却 没 去 成 。现 在 想 想 真 让 人 失 望 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>“……就 在 你 的 脚 离 开 那 扇 门 的 时 候 ？它 就 再 也 不 符 合 你 头 脑 中 的 那 座 大 教 堂 的 该 有 模 样 了 。”杜 兰 斯 抱 怨 道 ，他 的 手 仍 紧 握 着 那 跟 木 杖 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>“那 就 是 你 云 游 四 方 的 原 因 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>“关 于 Ashfall，我 还 有 别 的 问 题 想 问 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>“通 魂 者 ，我 觉 得 你 能 理 解 ——你 似 乎 也 不 重 视 你 的 家 ，你 看 起 来 是 个 更 坚 强 的 人 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>“通 魂 者 ，如 果 你 想 问 原 因 ，想 问 为 什 么 一 个 人 不 需 要 大 教 堂 来 支 撑 他 的 信 仰 。我 并 不 讨 厌 教 堂 ，也 不 贬 低 它 ，我 更 不 是 什 么 被 驱 逐 出 去 哭 哭 啼 啼 的 傻 子 ——我 云 游 四 方 是 因 为 我 的 信 仰 ，我 想 要 传 播 我 的 信 仰 。”他 喃 喃 道 ：“而 且 在 杜 兰 斯 审 判 放 我 自 由 之 前 ，我 还 有 几 十 年 的 路 要 走 呢 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>“继 续 跟 你 闲 扯 的 话 ，我 就 永 远 也 到 不 了 那 里 了 ……但 是 谁 才 傻 呢 ——是 提 问 的 人 傻 ，还 是 回 答 的 人 傻 ？”他 轻 蔑 地 哼 道 ：“我 厌 倦 了 你 的 文 字 游 戏 ，让 我 们 干 点 实 事 吧 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>杜 兰 斯 谨 慎 的 瞥 了 你 一 眼 ，研 究 着 你 的 眼 睛 。
+
+过 了 一 会 儿 ，他 不 快 地 皱 着 眉 头 摇 摇 头 。“我 不 传 道 ，也 不 指 导 信 仰 问 题 ……放 松 点 。况 且 ，我 们 还 没 一 起 共 享 过 道 路 和 火 焰 ，因 此 ，我 们 的 谈 话 可 能 纯 属 浪 费 时 间 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>“我 希 望 你 能 跟 我 多 聊 聊 这 个 ，当 然 ，如 果 你 愿 意 分 享 的 话 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>“这 看 起 来 ，好 像 以 前 是 别 的 什 么 东 西 ，烧 的 好 严 重 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>“这 上 面 刻 得 是 什 么 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>“噢 ，说 真 的 。”杜 兰 斯 皱 着 眉 头 ，鄙 夷 地 撇 着 嘴 。“你 要 是 很 好 奇 ，那 么 就 不 要 因 为 能 看 到 这 些 记 号 而 感 到 温 暖 和 安 心 ……”他 皱 着 眉 头 。“你 的 眼 睛 受 不 了 ，通 魂 者 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>“可 是 这 些 印 记 ，究 竟 是 什 么 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>“固 执 的 混 蛋 。”杜 兰 斯 的 脸 上 闪 过 一 丝 愤 怒 。“对 我 而 言 ，有 些 东 西 很 神 圣 。把 你 的 好 奇 心 留 给 同 行 的 其 他 笨 蛋 吧 ，我 受 够 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>杜 兰 斯 不 快 地 瞥 了 你 一 眼 --他 看 起 来 好 像 要 爆 发 了 一 样 ，但 是 他 控 制 住 了 ，眉 头 紧 锁 着 。他 看 了 一 眼 法 杖 ，在 手 中 转 了 一 下 ……与 此 同 时 ，权 杖 上 还 留 有 余 烬 ，其 上 有 印 记 闪 闪 发 光 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>杜 兰 斯 瞥 了 一 眼 他 的 法 杖 ，然 后 狡 黠 地 笑 着 看 看 你 。“你 能 不 能 别 老 盯 着 它 了 ？”他 笑 着 说 。“杜 兰 斯 他 自 己 就 很 喜 欢 这 种 打 结 的 ，扭 曲 的 火 焰 ，据 说 ，这 并 没 有 什 么 可 惭 愧 的 。”</DefaultText>
+      <FemaleText>Durance glances at his staff, then at you, and gives a crooked smile. "Can't take your eyes from it?" He chuckles.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>“你 说 这 法 杖 源 自 Ashfall。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>“你 的 法 杖 上 为 什 么 刻 着 这 些 印 记 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>“为 什 么 只 有 通 魂 者 才 能 看 到 这 些 印 记 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>“那 个 十 二 个 圈 的 大 印 记 是 什 么 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>“我 没 在 你 的 法 杖 上 看 到 马 格 兰 的 印 记 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>“马 格 兰 最 忠 诚 的 人 跪 在 那 里 ，是 的 。”他 轻 蔑 的 哼 了 一 声 。“它 的 大 厅 比 沃 伊 迪 卡 着 了 火 的 阴 道 还 窄 ，还 令 人 作 呕 。”
+
+他 将 法 杖 在 手 中 转 了 一 下 。“但 是 ……说 实 话 ，木 头 是 源 自 森 林 ，Black Trees之 战 。比 人 类 最 推 崇 的 木 头 还 要 牢 靠 。相 比 于 Ashfall自 身 ，感 觉 马 格 兰 的 火 焰 才 更 加 明 亮 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>“刻 的 ？”杜 兰 斯 嘲 笑 着 说 ，然 后 他 的 声 音 变 得 近 乎 于 自 豪 般 有 力 。“这 个 法 杖 本 身 就 是 历 史 。每 一 个 事 件 都 在 它 上 面 留 下 了 印 记 。有 些 印 记 变 成 了 灰 烬 ，有 一 些 则 燃 烧 的 更 加 明 亮 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>“这 些 是 精 神 的 能 量 ，是 信 仰 的 通 道 。”他 皱 着 眉 头 。“很 难 说 。曾 几 何 时 ，它 们 的 光 芒 那 么 的 明 亮 ，但 是 现 在 ……他 们 只 能 协 助 我 做 好 我 的 工 作 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>“为 什 么 有 些 暗 淡 了 ，另 一 些 却 更 加 明 亮 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>“记 忆 。意 义 。”他 哼 了 一 声 ，似 乎 是 对 自 己 的 不 屑 。“就 像 你 脑 袋 里 的 记 忆 一 样 ，可 能 更 可 信 一 点 。
+
+“随 机 的 事 件 ，用 直 觉 做 出 的 事 情 ……他 们 可 能 会 在 木 头 上 燃 下 短 短 的 几 条 线 。明 智 的 ，计 划 周 详 的 ，你 能 记 住 的 事 情 ……形 成 了 图 案 ，并 讲 述 着 这 些 故 事 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>“就 像 所 有 的 记 忆 一 样 ，除 非 在 法 杖 上 刻 下 了 ，否 则 就 不 是 真 实 的 。当 思 绪 离 你 很 近 ，你 可 以 更 清 楚 的 看 到 它 们 ，它 们 也 更 明 亮 ……当 你 忘 记 了 ……它 们 就 被 埋 葬 了 。但 是 就 像 是 树 木 的 年 轮 一 般 ……它 们 还 是 会 留 下 印 记 。”他 笑 了 笑 。“让 我 随 时 保 持 警 惕 。”他 的 脸 放 松 地 露 出 一 丝 微 笑 。“况 且 ，这 还 是 个 挺 坚 固 的 拐 杖 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>“因 为 对 通 魂 者 来 说 ，这 些 法 杖 上 的 印 记 会 非 常 显 眼 ……这 么 说 吧 ，这 些 印 记 有 时 候 会 自 己 显 现 出 来 。”他 皱 皱 眉 头 。“还 有 一 些 时 候 ，就 连 法 杖 自 身 也 无 法 感 知 到 这 些 印 记 。也 许 这 就 是 马 格 兰 赋 予 的 能 力 ，若 没 有 人 在 寻 找 它 们 ，它 们 就 是 隐 形 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>杜 兰 斯 皱 着 眉 头 ，一 字 一 句 的 缓 慢 说 道 。“那 个 印 记 。神 锤 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>“什 么 是 神 锤 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>“十 二 个 圆 圈 代 表 桥 上 的 十 二 个 人 ，我 们 十 二 个 人 任 由 锤 子 落 下 ，落 在 桥 梁 上 ，神 祗 上 ，所 有 一 切 上 。
+
+“如 果 有 一 个 印 记 永 远 不 会 消 逝 的 话 ，一 定 就 是 这 个 。我 曾 认 为 这 会 是 我 握 着 法 杖 时 的 最 后 一 个 。伊 奥 萨 斯 陨 落 那 天 ，我 就 握 着 它 。”他 皱 着 眉 头 ，目 不 转 睛 的 盯 着 法 杖 。“它 是 神 锤 铸 就 的 火 花 。可 能 是 烈 火 吞 没 伊 奥 萨 斯 之 前 她 所 触 摸 到 的 最 后 的 光 芒 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>杜 兰 斯 皱 着 眉 头 。“在 ……那 里 ，但 是 印 记 不 同 。
+
+“我 跟 随 杜 兰 斯 ，以 及 他 的 教 诲 ，一 条 单 独 的 火 焰 -更 加 简 洁 。”他 紧 皱 双 眉 ，拍 了 一 下 法 杖 的 边 缘 。“杜 兰 斯 要 集 中 精 力 在 一 条 火 焰 上 进 行 冥 想 ，并 赋 予 它 意 义 。为 了 应 付 要 到 来 的 一 切 ，它 必 须 成 为 精 神 的 中 心 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>“为 了 应 付 要 到 来 的 一 切 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>“这 条 火 焰 的 本 来 意 义 是 代 表 着 将 惩 罚 带 给 另 一 个 ……
+
+“……并 且 是 刻 在 将 要 被 惩 罚 的 印 记 之 上 ，代 表 着 马 格 兰 将 永 远 触 碰 着 它 们 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Trigger Conv Node 131</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Trigger Conv Node 309</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Trigger Conv Node 309</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Trigger Conv Node 309</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Trigger Conv Node 309</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Trigger Conv Node 309</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Trigger Conv Node 309</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Trigger Conv Node 309</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>“那 我 看 到 的 在 你 法 杖 上 熄 灭 的 那 个 印 记 就 是 神 锤 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Trigger Conv Node 140</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>“你 还 是 看 的 到 。”他 的 语 气 更 加 平 缓 ，更 加 充 满 好 奇 ，但 其 中 略 带 挑 战 的 意 味 。“并 不 是 所 有 人 都 可 以 。”他 抬 起 一 挑 眉 毛 。“但 话 又 说 回 来 了 ，极 少 的 人 才 拥 有 通 魂 者 的 ……视 觉 ……天 赋 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

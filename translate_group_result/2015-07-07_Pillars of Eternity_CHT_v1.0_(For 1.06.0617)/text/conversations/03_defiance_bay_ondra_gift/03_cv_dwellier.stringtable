@@ -1,0 +1,42 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\03_defiance_bay_ondra_gift\03_cv_dwellier</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>6</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>男人藐視地看了你一眼。「所以。你也是成員裡的，我看出來了。你來這裡是為了僅有的俱樂部裝備嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>「把你的存貨給我瞧瞧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>跟我談談這個地方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>他叉著手說：「概括地講，你是優雅高貴紳士俱樂部的一員，並混到了鹹桅桿的上層。」他歪著頭繼續道：「更準確地說，你現在呆的休息廳只有我們的成員才能進出，這意味著在一年內你都是我們俱樂部的一部分。」他懷疑地看著你。
+
+
+
+「我們的規定很嚴，但是這能將烏合之眾擋之門外。大多時候是這樣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>「再見。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>「幾十年來我一直在收集最好的裝備。我保證你找不出比我們還好的裝備了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

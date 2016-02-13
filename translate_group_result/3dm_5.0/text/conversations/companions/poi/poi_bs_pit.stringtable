@@ -1,0 +1,42 @@
+<StringTableFile>
+  <Name>conversations\companions\poi\poi_bs_pit</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bank Node 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“如果这都激发不了对神明的忠诚，那我不知道还有什么能。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“看样子还有很多路。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“流亡女皇……让我们期望那副冷酷的面容是个好预兆吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“我们现在正踩在前一组人的尸骨上，那组人真是傻的可以，说跳就跳。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“等你到底部后，大喊一声。让我知道那里安不安全。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“守望者，现在不是装缩头乌龟的时候。末日边缘对灵魂的另一场审判是什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,59 @@
+<StringTableFile>
+  <Name>conversations\08_wilderness\08_si_rhemen_broken_stairs</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>楼梯倒塌了，留下一段到下面地板很长的距离。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[离开。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[向下看。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>下面的地面很黑，但是你看到水洼和长在石头表面的真菌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[将抓钩钉在边缘，爬下去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>当你从绳子上滑下去，水流在你耳边隆隆响。听起来从峡谷经过湖泊仍然流入遥远的水库中。
+
+突然，洞穴猛烈振动，你感觉到自己抓不住绳索了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>你把抓钩固定到破损楼梯的裂缝中，把绳子投下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>然后，你成功的抓住了绳子，直到震动平息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[SkillCheck 0]的手松开了绳子，[SkillCheck 0]面朝下落在潮湿的地面上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>你到达了底部，双脚在一滩水中溅湿。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,550 @@
+<StringTableFile>
+  <Name>conversations\00_dyrwood\00_cv_lord_harond</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>104</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“大人，我们已经做了一切能做的了。不幸的是，这些村民——”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>他拧了拧他手腕上的一条银链。“嗯？你有爱丽丝的消息吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>他从头上猛扯了一把头发下来。“野兽把他们全弄死了！我不在乎你怎么做，但一定要找到她。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“我找到爱丽丝了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“我想问你几个关于你女儿的问题。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“和我说说你自己。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“再见。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>“我已经打听过了，但这鸟地方的人除了他们的猪以外什么都不关心。他们把我的人当乞丐一样避开，似乎对自己的毫无用处十分满意。
+
+“但你...你不是我的士兵。而且你看起来曾经做过一些不光彩的事情，如果你不介意我这么说的话。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>“爱丽丝。”他向你眨了眨眼睛，舔了舔嘴唇。“当然了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>“我是反抗湾的内斯特·哈罗德大人。我的家庭远在帝王时代就在那里十分有名了。我们的主要家产在布莱肯博瑞郊区，但我们在新霍玛也有房产。那些属于我妹妹和她丈夫。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>“描述一下爱丽丝女士。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>“和我说说她的失踪。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>“让我们回到我上一个问题。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>“她是个美貌的年轻女子。比较像她母亲，不像我。她有一头漂亮的琥珀色头发，举止十分有教养。她现在肯定有...哦，二十八或者二十九岁了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>“我们在迪佛德停留了几天。我们在那的第四个晚上，我正在计划继续我们的旅程。爱丽丝女士觉得不适就上床休息了。当我离开了几小时后，我发现她已经消失了。我的人都没有看见她离开，旅馆里也没人知道她去了哪里。
+
+“从那以后，我的人就开始到处在村庄里搜寻。但是我们没找到一点线索，当地人也没有帮助。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>“还有什么？那继续。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>他眨了眨眼舔了舔他干燥的嘴唇。“我——我女儿？她……她安全吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>“我会放她走的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>“她死了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>他面如死灰。“那不可能，她……”他看向你，他的眼睛突然充满了恐惧。“发生了什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>他面如死灰。“那不可能，她……”他看向你，他的眼睛突然充满了恐惧。“发生了什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>“你孩子丢了，我懂了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>“再见。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>“是的，爱丽丝小姐。是我的女儿。”他揪着手套指尖说道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>这人身着艾迪尔样式的长袍，显得简约而高贵。他精致的皮鞋似乎是为了室内穿着而制造的，现在却挂满了泥土。
+
+他正用带着丝质手套的手指玩弄着自己的一绺头发。精巧的五官上带着一丝焦虑的气息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>老精灵戴手套的手穿过年轻女人的头发。“你让我担心死了，亲爱的。你要是发生什么意外我可怎么办？”
+
+他注意到了你，投来一个比嘴角抽筋还难看的微笑。“爱丽丝和我是时候离开了。经历了这么多以后去艾娜之墓求得一点安宁。”
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>“我确定。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>他瞪着你。“你这是开玩笑吗？什么意思？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>“太晚了。她的心智已经被斯基奈特灵魂研究者污染了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>“我看在她的而不是你的面子上跟你说这话，爱丽丝需要接受治疗。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>“这些你都心知肚明。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>他叹口气，转向边上的守卫。“那就回反抗湾去。说不定他们知道在布莱肯博瑞该干什么。我希望这不会搅和那个孕…啊——她面临的挑战。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>“不，我可笑的想法可是关于一个可怜的老大人和他外甥女的事…”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>“你…”他直起腰背。“我向你保证，我绝不会的。”他回头看向爱丽丝，看着她平静，空洞的双眼。“但有一件事你可能是对的。我觉得她可能在这不幸的遭遇后已经疲惫麻木了，然而…”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>“你真是恶趣味…”他回头看着爱丽丝，看着她平静，空洞的双眼。“但有一件事你可能是对的。我觉得她在这不幸的遭遇后已经疲惫麻木了，然而…”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>“我听见你和客栈老板的争论了…”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>“真是个一个小气，没器量的男人。就跟这儿其他人一样。吃饭睡觉这些服务，我已经老老实实的付给他钱了，但他还是把持不住要来管我爱丽丝的闲事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>“实际上吧，他好像是对你很生气。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>{CUT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>“死水村的人不喜欢游戏。你必须去，但是记得带上塞满硬币的钱包，这样你叮呤当啷响的步伐对他们就是种侮辱。”
+
+“他们忘了，达克 哈德莱特是来自于特权阶级的，就像其他那些资助他们引以为傲叛军的伯爵和男爵们。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>“你和爱丽丝来迪佛德有何贵干？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>“在去艾娜之墓的一路上我们很少休息。在到达之前她得了病，所以最好给她几天用来修养。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>“艾娜之墓有什么东西？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>他皱起眉头，好像在抗议一样，但还是叹口气让步了。“爱丽丝小姐已经到了…适合结婚的年纪。被赋予了这样重大的责任，我不能让她虚度大好年华，也不想让她给哈罗伯恩家当生育机器。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>“看起来新霍玛和新亚玛还会有很多潜在的求婚者。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>“沿着海岸还有一些更好的路。沿着它们去艾娜之墓不是更好吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>“如果我想到了，就不会辛辛苦苦的穿过树林了，是吗？”他摆摆手。“大路上到处都是想要逃离怀德温家族的难民。像我这样的商队想要毫发无损的一路走过去可是非常困难的。所以我当时还是觉得抄小路为妙。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>“你觉得我没考虑到吗？安排合适的路线是非常困难的。我的孩子们只有去艾娜之墓才有前途。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>“你家里其他人呢？他们肯定不想错过你女儿的订婚仪式。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>“你在物色一名合适的贵族吧，我刚好知道一位。镀金溪谷的雷德里克男爵最近是单身…”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>“恐怕哈罗德夫人的装束并不适合长途跋涉，不幸的是，爱丽丝并没有什么可以依盼的亲戚。我的妹妹和她的丈夫-也就是爱丽丝的叔叔婶婶-在过去的几个月里倒是去过几次艾迪尔。
+
+他揉了揉自己的指节，“爱丽丝也没有兄妹。我的妻子在生下了爱丽丝之后，只生下了Hollowborn。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>“那是不可能的。精灵和人类在一起是不可能有后代的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>“我知道。但是追溯到你女儿的话…”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>“她怎么了？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>“那就是为什么我希望你能帮忙。”他又拽了拽那一缕头发。“我真不应该相信我孩子周围的那些人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>他的眼里闪出一丝怀疑。“我知道她能回来你帮了不少忙。拜托了，收下这些钱…出于对你谨慎帮助的感激。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>“谢谢。其实，把孩子送还给他的父亲就是很好的回报。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>“你觉得这就是你的全部？知道你的子嗣在自己手里就行了？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>“不想肚子上插把刀的话就好好做得好一点，你这恶心的老男人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>他缓缓的点点头。“你将来会需要帮助的，我们哈罗德家的人很好找。我们家在这儿已经几百年了，而且还会延续上千年。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>[说谎] “她死了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>他咳嗽着环视四周。边上的守卫把头扭去看别的地方。
+
+“爱丽丝的安全是最重要的——我的孩子。来，拿着这个，只要你呆在这儿就请自便吧。”他皱了皱鼻子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>“我们该走了。'他握住爱丽丝的胳膊。“来吧，乖。只要走上几天，我们就到家了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>他喘着气，眼睛因为愤怒与惊恐而瞪的大大的。然后从腰带掏出一个钱包扔到你手里。“我不知道你听到了什么恶心的流言，但我家是反抗湾最古老高贵的家族。我们世世代代作为这片土地的保护者，而我的孩子将会见证我们高贵的血统传递下去。”他捂着嘴咳嗽起来，眼睛看向一边。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>他调了调背上的负重。“是的，大人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>“走，我们得把她尽快带到布莱肯博瑞。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>“慢着，不想让我在你的肚子上插一刀的话，就得给我点补偿。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>“流言可快着呢，至少比商队快多了，如果你懂我什么意思的话…”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>[看着他们离开。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>他的肩膀显得很僵硬。“我不喜欢你这态度——或者说是你这肮脏的暗示——但还是拿着这个吧，让这破事结束吧。”
+
+他转向爱丽丝。“我们走，乖。快点。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>“她…”他看向爱丽丝，看着她平静，空洞的双眼。“我以为她在经历了这些不幸以后精疲力竭了，但…”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>“我找到了什么你心知肚明。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>“我应该杀了你，就因为你做的事…”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>“你可以去找他了，那才是正事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>“我会告诉所有人你是个怎样的怪物！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>“我来这儿可不是聊天的。给钱然后赶快滚。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>一瞬间，他的脸因为愤怒与恐惧扭曲成了一团。但他的表情很快便恢复了自满与自大。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>他一下子变得有点僵。“我不知道你说的是什么，但我已经听够了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>他把一袋子钱倒在你手里。“拿着这些，让这件事过去吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>他环视旅馆。“这地方可不适合战斗，旅人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>他小心的打量你。“你又没有帮忙我凭什么给你钱？但如果这能让你消停一点也无所谓了…”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>“离开。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>“慢着，不想让我在你的肚子上插一刀的话，就得给我点更好的补偿。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>“流言可快着呢，至少比商队快多了，你真想冒这个险吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>“好吧。”他干笑一声把更多的钱倒进你的手里。环视旅馆四周他说道。“这可不是个战斗的好地方。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>哈罗德举起一只手示意男人不要说话。“如果你找到她…”他轻轻咬着丝绸手套的拇指。“告诉她我没有对他失望。只要她回来一切都会好起来的。我只是希望我的爱丽丝——我的孩子——是安全的。这世界没有什么比这更重要了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>Bank Node 249</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>“我多么想在这家伙身上钉一支箭啊。”伊托马克咆哮道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Pallegina向你点了点头，“告诉他吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>“为什么要等待斯坎的慢性处罚呢？我们可以现在就实施惩戒，亲眼得见，也好确认结果。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>他的护卫向前一步。“大人，我——”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>[杀死哈罗德]“跟我想的一摸一样。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>一个精灵男子正在房间的角落里踱步，口中咬着他那精美的丝质手套的拇指，“你们在这里干什么？除非……难道你们有我女儿的消息？我必须把她带出这可怕的村落……”说完，他又继续踱来踱去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>你极为迅速的击中了老人，但你确信不会有人听到。
+
+而且你很确信别人找到他的尸体时不会有什么大惊小怪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>他的眼中一瞬之间升起了怀疑，“看来你也为她做了些什么事嘛。”
+
+“您真是个高尚的人。请收下这个吧，就当是我对您……隐秘的帮助的报偿。”</DefaultText>
+      <FemaleText>His gaze flickers with suspicion for a brief moment. "I take it you played some part in her return. 
+
+"You're a reserved woman. Please, accept a token of my appreciation for your... discreet assistance."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>他的卫兵靠了过去，“大人，一个奴隶——”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>他的卫兵靠了过去，“大人，一个商人——”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>他的卫兵靠了过去，“大人，一个雇佣兵——”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>他的卫兵靠了过去，“大人，一个艺术家——”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>他的卫兵靠了过去，“大人，一个学者——”</DefaultText>
+      <FemaleText>His guard leans in. "My lord, this is a man of books-"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>他的卫兵靠了过去，“大人，一个流浪者——”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>他的卫兵靠了过去，“大人，一个强盗——”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>“我的孩子不见了！难道他们不明白吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>“就算这是真的，又有谁会相信你呢？”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

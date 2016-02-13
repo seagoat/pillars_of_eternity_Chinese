@@ -1,0 +1,38 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\companions\poi\poi_bs_woedica_church</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>6</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>Bank Node 1</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“这 看 起 来 像 是 马 尔 瓦 德 描 述 的 地 方 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“这 是 你 正 在 寻 找 的 老 教 堂 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“这 就 是 马 尔 瓦 德 谈 到 的 神 殿 。或 者 它 的 遗 址 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“这 曾 是 忠 于 沃 迪 卡 的 神 圣 之 所 。我 想 知 道 它 被 遗 弃 了 多 久 …”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“这 就 是 我 们 要 找 的 沃 迪 卡 教 堂 。呵 ，迪 伍 德 人 。也 许 我 们 革 命 时 首 先 要 烧 的 东 西 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\endgameslides</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>120</EntryCount>
@@ -33,7 +32,7 @@ With his homesickness expunged, he found renewed joy and tranquility in his wand
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>One by one, starting with the oldest, Hiravias challenged each member of the council to single combat - humiliating the rîow in a series of savage duels.
+      <DefaultText>One by one, starting with the oldest, Hiravias challenged each member of the council to single combat - humiliating the r&#238;ow in a series of savage duels.
 
 With half the council bloodied and shamed, the elders at last acknowledged Hiravias' strength, announcing him a hunter of the Fisher Crane tribe.
 
@@ -271,16 +270,16 @@ In the months that followed, the frontier settlements of Dyrwood were inexplicab
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Edér chose not to return home to Gilded Vale. Still most comfortable far from cities, he settled in Dyrford, which, like many towns in the Dyrwood, was beginning the slow process of rebuilding.
+      <DefaultText>Ed&#233;r chose not to return home to Gilded Vale. Still most comfortable far from cities, he settled in Dyrford, which, like many towns in the Dyrwood, was beginning the slow process of rebuilding.
 
-Believing now that it was the obligation of kith to be the leaders their gods had not, Edér was soon named mayor of the town, and under his guidance, Dyrford soon began to prosper. He expelled the last of the Skaenites from the area and drew new settlers with the offer of land, a trick he had learned from someone he otherwise preferred to forget. With each passing day, Dyrford would come to more closely resemble the Gilded Vale of Edér's childhood - the one worthy of its name.</DefaultText>
+Believing now that it was the obligation of kith to be the leaders their gods had not, Ed&#233;r was soon named mayor of the town, and under his guidance, Dyrford soon began to prosper. He expelled the last of the Skaenites from the area and drew new settlers with the offer of land, a trick he had learned from someone he otherwise preferred to forget. With each passing day, Dyrford would come to more closely resemble the Gilded Vale of Ed&#233;r's childhood - the one worthy of its name.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Edér chose not to return home to Gilded Vale. Through a number of quiet inquiries, he soon found his way into the underground organization of Eothasians known as the Night Market. 
+      <DefaultText>Ed&#233;r chose not to return home to Gilded Vale. Through a number of quiet inquiries, he soon found his way into the underground organization of Eothasians known as the Night Market. 
 
-Ironically, in learning that the gods had been fabricated, Edér found his faith in Eothas renewed, and that his god was neither alive nor truly a god had become irrelevant. He rose quickly through the ranks of the Night Market for his optimism and for his bold leadership, his ultimate goal to make the Dyrwood a place that would welcome followers of the Shining God once again.</DefaultText>
+Ironically, in learning that the gods had been fabricated, Ed&#233;r found his faith in Eothas renewed, and that his god was neither alive nor truly a god had become irrelevant. He rose quickly through the ranks of the Night Market for his optimism and for his bold leadership, his ultimate goal to make the Dyrwood a place that would welcome followers of the Shining God once again.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -316,12 +315,12 @@ He wandered on his own for several days, passing through villages and settlement
       <ID>60</ID>
       <DefaultText>With both their aims fulfilled, Kana Rua bid the Watcher farewell, and sailed back to his beloved Rauatai. There he reported on his findings to the lore college. Kana spoke of the Engwithan people, describing both their vile experiments and their inspiring accomplishments. 
 
-He spoke too of the destruction of the tablet by the Leaden Key, and the group's efforts to erase the Engwithan legacy from the world. Both inspiration and cautionary tales, he said, could be found in the world beyond Rauatai's borders. Kana urged his people to continue to pursue knowledge abroad, so that the lessons found there might benefit Tâkowa.</DefaultText>
+He spoke too of the destruction of the tablet by the Leaden Key, and the group's efforts to erase the Engwithan legacy from the world. Both inspiration and cautionary tales, he said, could be found in the world beyond Rauatai's borders. Kana urged his people to continue to pursue knowledge abroad, so that the lessons found there might benefit T&#226;kowa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>With the Watcher's goals accomplished, and his own vows fulfilled, Kana Rua sailed back to Tâkowa. His friends and family found him much changed, for a pall had fallen upon the man, smothering his former enthusiasm.
+      <DefaultText>With the Watcher's goals accomplished, and his own vows fulfilled, Kana Rua sailed back to T&#226;kowa. His friends and family found him much changed, for a pall had fallen upon the man, smothering his former enthusiasm.
 
 Called before the lore college, Kana told them of the pain the Engwithan legacy brought to the lands abroad. He insisted that a search for answers abroad could only fragment the Rauatai people, as it had done to the Dyrwood. His findings were met with much respect, and Kana Rua's voice came to be considered an influential one in the growing move towards Rauatai's isolation. </DefaultText>
       <FemaleText />
@@ -335,7 +334,7 @@ Before his intrigued peers, he spoke of the accomplishments of the great people 
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>With the Watcher's goals accomplished, and his own vows fulfilled, Kana Rua sailed back toward Rauatai, thinking on the lessons his travels had provided him. By the time he landed at Tâkowa, he understood what his path must be. 
+      <DefaultText>With the Watcher's goals accomplished, and his own vows fulfilled, Kana Rua sailed back toward Rauatai, thinking on the lessons his travels had provided him. By the time he landed at T&#226;kowa, he understood what his path must be. 
 
 Standing before the lore college, Kana Rua explained that the tablet he sought had been destroyed, and so a true interpretation of the Tanvii ora Toha could no longer exist - the people of Rauatai would have to create their own. He described the many strange things he had seen in his travels, and announced his intent to pursue the accumulation of knowledge abroad, seeking answers to new questions. </DefaultText>
       <FemaleText />
@@ -473,7 +472,7 @@ So she fought to feel the worth of her actions or, at least, to let her village 
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>True to his word, Kana soon set sail on yet another expedition - and in Tâkowa, his passionate accounts inspired many to follow in his footsteps.</DefaultText>
+      <DefaultText>True to his word, Kana soon set sail on yet another expedition - and in T&#226;kowa, his passionate accounts inspired many to follow in his footsteps.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -690,7 +689,7 @@ But she found her daughter Yakona a hunter and mother of three and her son Malaa
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>Edér chose not to return home. Still conflicted as to his role in the Saint's War and unsure of his place in the Dyrwood, he took a ship to Aedyr and reunited with his parents. There, he resumed the quiet lifestyle he had grown accustomed to in his years as a farmhand in Gilded Vale.</DefaultText>
+      <DefaultText>Ed&#233;r chose not to return home. Still conflicted as to his role in the Saint's War and unsure of his place in the Dyrwood, he took a ship to Aedyr and reunited with his parents. There, he resumed the quiet lifestyle he had grown accustomed to in his years as a farmhand in Gilded Vale.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

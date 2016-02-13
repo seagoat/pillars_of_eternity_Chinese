@@ -1,0 +1,32 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\02_defiance_bay_first_fires\02_cv_cendric</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>一 名 红 脸 的 青 年 人 走 向 你 。他 似 乎 很 生 气 ，说 话 都 有 点 结 巴 。
+
+
+
+“你 ...你 杀 了 我 的 爱 人 ！我 绝 不 ...绝 不 原 谅 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“有 可 能 ...我 杀 了 很 多 人 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“你 的 爱 人 ？你 在 说 什 么 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>那 人 的 脸 立 即 阴 了 下 来 ，随 后 开 始 咆 哮 。“丹 娜 和 我 就 要 结 婚 了 ！你 会 付 出 代 价 的 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

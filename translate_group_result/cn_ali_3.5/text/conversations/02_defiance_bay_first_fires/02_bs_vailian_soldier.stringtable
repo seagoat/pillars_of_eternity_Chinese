@@ -1,0 +1,23 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\02_defiance_bay_first_fires\02_bs_vailian_soldier</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>3</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“你同维拉共和国做生意？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“欢迎来到维拉大使馆。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“那些暴乱啊，朋友！我们很幸运，人们将他们的怒火转移到了其他地方。”</DefaultText>
+			<FemaleText>&quot;Those riots, aimica! We were lucky the crowds directed their fury elsewhere.&quot;</FemaleText>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

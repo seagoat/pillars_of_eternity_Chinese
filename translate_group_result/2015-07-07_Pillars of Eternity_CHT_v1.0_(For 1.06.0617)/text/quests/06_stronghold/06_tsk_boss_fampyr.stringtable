@@ -1,0 +1,43 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\06_stronghold\06_tsk_boss_fampyr</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>懸賞：達羅斯·格裡瑪特</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>殺死達羅斯·格裡瑪特，把他的頭帶回來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>把達羅斯·格裡瑪特的頭交給塞德努亞的費爾根典獄長。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>近亡者達羅斯·格裡瑪特一直盤踞在科博萊茵墓穴場中。公爵殿希望有人解決掉他。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>達羅斯·格裡瑪特歷經近乎死亡的折磨，並且繼續帶領某種邪教深藏於反抗灣科博萊茵地區的地下墓穴中。我需要再殺他一次——這一次帶回他的頭作為證據。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>達羅斯·格裡瑪特已經死亡。如果我給費爾根典獄長帶回他的頭，我可以要求我的獎勵。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我拿到了達羅斯·格裡瑪特的賞金。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

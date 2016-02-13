@@ -1,0 +1,17 @@
+<StringTableFile>
+  <Name>conversations\01_defiance_bay_copperlane\01_bs_temple_guards</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“有侵入者闯入档案室！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“没有格里达的允许，谁也不得擅闯上古案卷存放室！”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

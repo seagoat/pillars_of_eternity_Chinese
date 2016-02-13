@@ -1,0 +1,28 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\10_od_nua\1002_cv_pet_wurm</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>这 个 破 开 口 的 卵 里 蜷 缩 着 一 个 小 小 的 白 色 身 影 。它 只 会 张 开 嘴 发 出 受 惊 的 吱 吱 声 ，看 样 子 是 一 只 小 亚 龙 ，刚 刚 被 孵 化 出 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>[捡 起 这 条 亚 龙 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>[Leave it alone.]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>脑 袋 上 那 对 金 色 的 小 眼 睛 谨 慎 地 盯 着 你 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

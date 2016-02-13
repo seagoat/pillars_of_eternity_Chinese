@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\07_gilded_vale\07_cv_deathguard</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>36</EntryCount>
@@ -166,7 +165,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Edér locks eyes with the rotting lord, staring deep into the orange flames, refusing to blink. 
+      <DefaultText>Ed&#233;r locks eyes with the rotting lord, staring deep into the orange flames, refusing to blink. 
 
 "He started it."</DefaultText>
       <FemaleText />

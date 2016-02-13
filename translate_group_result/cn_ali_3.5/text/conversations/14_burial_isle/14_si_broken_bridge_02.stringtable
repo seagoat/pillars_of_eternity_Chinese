@@ -1,0 +1,35 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\14_burial_isle\14_si_broken_bridge_02</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>5</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>桥的单独一部分从一座古城的废墟中升起。它看起来足够稳定了，但是裂口太宽了，容不得一点失误。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>[跳到独立的部分。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>[离开]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>你助跑了一段，然后跳到了另一头。就当你穿过了空隙，你冒着险往下看了一眼，看到了这座被遗弃的城市在你的下方发光。
+
+你在桥的另一头着陆。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>[SkillCheck 0]助跑了一段，然后跳到了另一头。然而，[SkillCheck 0]着陆的时候大声叫了出来，四肢乱作一团倒下了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

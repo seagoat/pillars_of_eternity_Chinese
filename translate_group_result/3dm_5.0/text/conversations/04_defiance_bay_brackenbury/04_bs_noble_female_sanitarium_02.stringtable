@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\04_defiance_bay_brackenbury\04_bs_noble_female_sanitarium_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“楼下的机器看起来挺吓人，不过他们跟我说这只是用来做虚空种研究的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“爸爸，我害怕。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“爸爸说他们能让我不再做噩梦。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

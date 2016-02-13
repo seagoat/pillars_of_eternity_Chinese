@@ -1,0 +1,63 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\07_gilded_vale\07_qst_vengence_from_grave</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>11</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>来 自 死 人 的 复 仇 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>寻 找 侬 顿 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>找 到 穿 红 斗 篷 的 男 人 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>在 探 索 韦 尔 伍 德 的 荒 原 时 ，我 无 意 中 发 现 了 一 处 不 大 的 山 洞 ，里 面 居 住 着 一 只 巨 熊 。在 山 洞 里 ，我 发 现 了 半 截 吃 剩 的 尸 体 和 一 个 幽 灵 ，通 过 某 种 幻 影 魔 法 的 作 用 ，它 向 我 展 示 了 一 个 人 在 他 最 后 时 刻 发 生 的 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>在 韦 尔 伍 德 里 ，我 偶 然 遇 到 了 一 个 古 怪 的 猎 人 ，他 告 诉 我 说 他 的 朋 友 被 这 地 方 的 一 只 大 熊 吃 掉 了 。通 过 搜 索 这 个 地 方 ，我 找 到 了 那 个 山 洞 ，那 只 熊 ，以 及 佩 尔 利 的 遗 骸 。在 幻 象 中 我 看 到 了 佩 尔 利 最 后 时 刻 发 生 的 无 比 丑 恶 的 事 ：他 的 朋 友 ，侬 顿 ，在 他 努 力 逃 脱 巨 熊 的 攻 击 时 割 断 了 他 的 脚 筋 。侬 顿 这 样 做 的 原 因 尚 不 清 楚 。也 许 我 应 该 去 当 面 质 问 他 。侬 顿 居 住 在 丰 饶 之 谷 附 近 的 一 个 小 镇 上 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>在 韦 尔 伍 德 洞 穴 的 深 处 ，我 看 到 了 一 只 巨 熊 正 在 吞 吃 一 具 尸 体 ，从 现 场 的 情 况 看 ，死 者 也 是 偶 然 发 现 这 个 洞 穴 的 。当 我 试 图 靠 近 时 ，眼 前 突 然 出 现 了 死 者 临 终 时 的 一 系 列 幻 象 ，我 知 道 了 他 是 丰 饶 之 谷 的 一 个 猎 人 。在 幻 象 中 ，他 被 一 个 朋 友 领 进 了 山 洞 。当 巨 熊 扑 过 来 时 ，他 的 朋 友 划 断 了 他 的 脚 筋 ，转 身 逃 跑 了 ，留 下 他 任 由 巨 熊 吞 食 。幻 象 中 只 能 看 到 他 那 位 卑 鄙 的 朋 友 穿 了 一 件 红 斗 篷 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>在 听 完 茵 格 洛 徳 的 陈 词 后 ，我 决 定 放 她 和 侬 顿 离 开 丰 饶 之 谷 。也 许 他 们 能 在 远 方 开 始 新 生 活 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我 杀 死 了 茵 格 洛 徳 和 侬 顿 ，这 是 他 们 应 为 佩 尔 利 之 死 付 出 的 代 价 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我 因 侬 顿 在 韦 尔 伍 德 的 山 洞 里 对 他 的 老 朋 友 所 犯 的 罪 行 而 杀 死 了 他 。我 告 诉 佩 尔 利 的 灵 魂 已 经 为 他 报 了 仇 。也 许 他 不 安 的 灵 魂 现 在 可 以 转 生 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText>我 因 侬 顿 在 韦 尔 伍 德 的 山 洞 里 对 他 的 老 朋 友 所 犯 的 罪 行 而 杀 死 了 他 和 茵 格 洛 徳 。我 告 诉 佩 尔 利 ,凶 手 已 经 受 到 了 正 义 的 审 判 。也 许 他 不 安 的 灵 魂 现 在 可 以 转 生 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30005</ID>
+			<DefaultText>我 杀 掉 了 侬 顿 ，幻 象 中 的 那 个 卑 鄙 朋 友 ，同 时 还 杀 死 了 茵 格 洛 徳 。无 论 佩 尔 利 之 死 背 后 有 什 么 故 事 ，现 在 都 随 他 们 一 起 埋 葬 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

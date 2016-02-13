@@ -1,0 +1,53 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\companions\poi\poi_bs_twin_elms_enter</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>9</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>Bank Node 1</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“双榆城。我从来没有到过伊尔·格兰法斯这么远。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“这就是伊尔·格兰法斯的著名猎人居住的地方吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“那么这里是双榆城。伊尔·格兰法斯的六部落之家。我听说还有一些高人隐居于此。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“代表所有格兰法斯人欢迎你们来到双榆城。注意礼貌，避免公共中毒，别提你侵扰因格维斯遗址的历史…”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“树木可以更多使用玛格岚的触摸。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“格兰法斯人…他们与自然编织出如此美丽的城市。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“从来没有来过这边。很难相信这是相同的国家。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>Bank Node 9</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

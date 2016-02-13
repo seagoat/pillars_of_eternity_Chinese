@@ -1,0 +1,114 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\00_dyrwood\00_si_skaen_temple_bridge</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>20</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>小径延伸到悬崖就没了。断桥剩下的部分横在峡谷的另一端。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>[查看区域。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>[抛出你的绳子和爪钩越过峡谷。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>[离开]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>你低头一看是望不尽的黑暗。碎裂的石柱，残桥的遗迹，就那么立在深渊之上。
+
+跳过缺口，你似乎看到一座长长的石桥。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>峡谷的另一边的石头中间伸出几根树干。尽管看起来年代久远，不管感觉还是挺结实的，足以固定爪钩和绳子了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>你瞄准峡谷对面的木梁，把爪钩扔过了缺口。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>爪钩钩住了其中一个木梁，你拉了拉绳子，确实紧紧钩住了木头。你又使劲拉了两下，确定连接安全没问题。你把绳子的这端系在了紧挨着你的木梁上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>急促的呼吸声回响在峡谷中。所有人都很累。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>[晃晃动动穿过峡谷。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>急促的呼吸声回响在峡谷中。[SkillCheck 0], [SkillCheck 1], [SkillCheck 2], 和[SkillCheck 3]都累了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>急促的呼吸声回响在峡谷中。除了[SkillCheck 0]大家都累了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>你终于到达了另一端，安然无恙，但是已经精疲力尽。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>承载着你的体重你感觉绳子都绷紧了，你每往前爬动一下心里都不由得跟着绳子颤抖一下。木梁一点点断裂的呻吟声在深渊中回响。
+
+你小心翼翼地慢慢前滑移动。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>小径延伸到悬崖就没了。断桥剩下的部分横在峡谷的另一端。
+
+你的绳子越过了缺口。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>急促的呼吸声回响在峡谷中。[SkillCheck 0], [SkillCheck 1],以及[SkillCheck 2]都累了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>你安全地到了另一边。感觉绳子挺结实。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>急促的呼吸声回响在峡谷中。[SkillCheck 0]和[SkillCheck 1]都累了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>急促的呼吸声回响在峡谷中。[SkillCheck 0]累了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

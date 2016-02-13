@@ -1,0 +1,66 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\07_gilded_vale\07_tsk_ferry_flotsam</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>11</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>渡船的殘骸</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>找到殘骸。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>回到佩瑞剛德那裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>我遇到了一位名叫佩瑞剛德的商人，她住在離破敗的馬德米爾橋不遠的地方。她曾有只渡船用來擺渡，但後來風暴把船打成了碎片。
+
+佩瑞剛德希望我能幫助她把貨物從渡船的殘骸裡找回來。一些盜匪正試圖把貨物撈出來據為己有，而手無寸鐵的佩瑞剛德憑自己是沒指望奪回貨物的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>我應該立即到馬德米爾的下游去尋找失事貨物的蹤跡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我應該返回佩瑞剛德那裡告訴她貨物的下落。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>想奪得佩瑞剛德貨物的所謂「盜匪」原來只是些不名一文的風暴中的倖存者。我告訴他們說我會撒謊沒找到任何東西，這樣漢溫就可以留下貨物了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20005</ID>
+			<DefaultText>盜匪們被消滅了，貨物，至少可以說剩下的貨物，被追回了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我歸還了佩瑞剛德的物品，她獎勵我了一些錢幣，還保證說以後我可以在她位於反抗灣的商店裡做交易。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>為了保護漢溫和她的朋友們，我對佩瑞剛德撒謊了，說她的貨物都被沖走了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>佩瑞剛德死了，完全不用再考慮歸還她貨物了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
+

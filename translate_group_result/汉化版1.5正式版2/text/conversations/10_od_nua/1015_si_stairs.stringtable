@@ -1,0 +1,62 @@
+﻿<StringTableFile>
+  <Name>conversations\10_od_nua\1015_si_stairs</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>T前 方 的 阶 梯 已 经 坍 塌 了 ，脚 边 缘 的 深 坑 一 片 漆 黑 。你 不 得 不 继 续 向 下 潜 行 ，尽 管 再 爬 上 来 可 能 会 十 分 艰 难 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[小 心 爬 下 石 头 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[保 持 原 地 不 动 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>T一 路 而 上 的 阶 梯 已 经 坍 塌 了 ，你 前 方 的 终 点 还 遥 遥 无 期 。周 围 的 岩 石 看 起 来 足 够 坚 固 。只 要 用 点 时 间 ，你 应 该 可 以 爬 得 上 去 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[爬 上 石 头 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[保 持 原 地 不 动 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Y你 爬 的 很 慢 ，因 为 岩 石 在 你 的 攀 爬 和 蹬 踏 下 摇 摇 欲 坠 ，但 是 你 还 能 稳 稳 的 抓 住 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>T晃 动 的 岩 石 和 摇 摇 欲 坠 的 墙 让 你 爬 得 很 慢 。在 快 到 底 部 时 ，[SkillCheck 0]你 踩 在 一 块 松 动 的 石 头 上 ，失 足 滚 到 了 洞 底 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Y你 在 崎 岖 的 墙 和 堆 积 的 岩 石 之 间 找 到 了 路 ，终 于 找 到 了 底 部 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Y你 慢 慢 的 爬 上 石 头 ，翻 到 另 一 边 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Y你 发 现 自 己 处 于 一 块 大 盆 地 的 底 部 ，头 上 是 泰 坦 的 巨 石 ，和 阿 德 拉 部 队 。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

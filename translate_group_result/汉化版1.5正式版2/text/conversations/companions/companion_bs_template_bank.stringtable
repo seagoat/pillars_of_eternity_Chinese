@@ -1,0 +1,52 @@
+﻿<StringTableFile>
+  <Name>conversations\companions\companion_bs_template_bank</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bank Node 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>LR 亚 洛 斯 : 亚 洛 斯 对 此 有 反 应 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>LR EDER: 艾 德 对 此 有 反 应 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>LR GGP: 杜 兰 斯 对 此 有 反 应 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>LR GM: 哀 伤 之 母 对 此 有 反 应 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>LR KANA: 卡 纳 对 此 有 反 应 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>LR PALLEGINA: 帕 勒 吉 娜 对 此 有 反 应 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>LR HIRAVIAS: 希 拉 维 对 此 有 反 应 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>LR SAGANI: 莎 加 妮 对 此 有 反 应 </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

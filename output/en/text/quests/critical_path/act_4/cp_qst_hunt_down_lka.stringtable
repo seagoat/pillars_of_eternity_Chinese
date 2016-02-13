@@ -1,0 +1,87 @@
+<StringTableFile>
+  <Name>quests\critical_path\act_4\cp_qst_hunt_down_lka</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>逍 遙 法 外 的 刺 客 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>到 雙 榆 城 .</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>與 六 聖 通 道 的 靈 魂 王 子 尋 找 知 情 人 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>找 到 雙 榆 城 詢 問 賽 奧 斯 的 線 索 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>到 榆 樹 之 地 的 泰 爾 埃 弗 隆 與 葉 精 交 談 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>賽 奧 斯 殺 了 公 爵 和 韋 伯 夫 人  ，並 讓 反 抗 灣 陷 入 了 混 亂 。但 是 韋 伯 夫 人  知 道 他 接 下 來 要 去 哪  - 雙 榆 城 城 。如 果 在 那 裡 我 有 機 會 追 上 他 ，我 就 必 須 要 去 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>我 看 到 了 韋 伯 夫 人  生 命 的 最 後 時 刻 。賽 奧 斯 把 她 殺 死 在 了 床 上 ，不 過 是 在 她 讓 他 承 認 他 要 去 雙 榆 城 之 後 。我 想 知 道 他 是 否 明 白 我 會 看 到 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>有 人 告 訴 我 外 人 不 允 許 越 過 爐 火 樂 曲 區 。我 要 和 六 聖 通 道 裡 的 首 席 靈 魂 王 子 談 談 ，以 獲 取 許 可 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我 到 達 了 雙 榆 城 。有 個 城 門 。如 果 幸 運 的 話 ，有 人 會 看 到 他 從 這 裡 經 過 。我 得 去 問 問 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>靈 魂 王 子 貝 蘇 爾 允 許 我 進 入 古 老 樂 曲 區 和 榆 樹 之 地 地 區 。他 建 議 我 到 榆 樹 之 地 與 葉 精 姐 妹 談 話 ，那 地 方 緊 鄰 著 一 個 叫 泰 爾 埃 弗 隆 的 地 方 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>外 人 不 允 許 深 入 城 市 。他 們 說 靈 魂 王 子 貝 蘇 爾 ，目 前 正 在 管 理 爐 火 樂 曲 區 中 部 的 六 聖 通 道 ，可 以 允 許 我 進 入 其 他 地 區 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>雙 榆 城 的 格 蘭 法 斯 人 聽 說 有 一 個 神 秘 的 人 ，是 個 城 外 人 ，最 近 闖 進 了 他 們 的 禁 區 ，榆 樹 之 地 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>格 蘭 法 斯 人 告 訴 我 我 可 以 在 榆 樹 之 地 的 巨 樹 下 找 到 葉 精 姐 妹 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>靈 魂 王 子 貝 蘇 爾 死 了 。因 為 我 不 能 依 靠 她 獲 取 賽 奧 斯 的 消 息 ，也 得 不 到 在 雙 榆 城 行 動 的 許 可 ，我 得 自 己 尋 找 答 案 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>靈 魂 王 子 貝 蘇 爾 死 了 。因 為 我 不 能 依 靠 她 獲 取 賽 奧 斯 的 消 息 ，也 得 不 到 在 雙 榆 城 行 動 的 許 可 ，我 得 自 己 尋 找 答 案 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>葉 精 姐 妹 指 引 我 來 到 了 泰 爾 埃 弗 隆 去 尋 求 諸 神 的 幫 助 。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

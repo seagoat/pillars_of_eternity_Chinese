@@ -1,0 +1,42 @@
+<StringTableFile>
+  <Name>quests\06_stronghold\06_tsk_boss_wizard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>悬赏：高级秘术师叶思丽</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>杀了叶思丽，带回她的头。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>把叶思丽的头带给凯德 努阿的佛莱根守卫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>有一个关于秘术师叶思丽的悬赏。她和她的盟友正躲藏在传承之山的塔里。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>高级秘术师叶思丽很明显惹了不该惹的人。关于她的头的悬赏价格不菲。如果我杀了她，带回了她的头，我就能获得赏金。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>叶思丽死了。把她的头带回给佛莱根守卫来领取我的奖励。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我获得了关于叶思丽的赏金</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

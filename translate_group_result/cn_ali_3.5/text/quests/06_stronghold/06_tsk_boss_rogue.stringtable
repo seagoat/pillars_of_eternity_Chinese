@@ -1,0 +1,43 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\06_stronghold\06_tsk_boss_rogue</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>悬赏：穆亚鲁米船长</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>杀死安斯罗格海岸的穆亚鲁米船长，把他的头带回来。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>把穆亚鲁米船长的头交给塞德努亚的费尔根典狱长。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>臭名昭著的劳亚泰海盗，穆亚鲁米船长，在安斯罗格海岸登陆了。这是一个拿到他头上长期以来悬赏的难得机会。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>海盗船长穆亚鲁米的脑袋值一大笔钱。现在我有一个难得的机会，因为他出现在了安斯罗格海岸。如果我能杀死他并带回他的头，那赏金就是我的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>穆亚鲁米船长已经死了。我只需要把他的头带给费尔根典狱长换取赏金。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我拿到了穆亚鲁米船长的赏金。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

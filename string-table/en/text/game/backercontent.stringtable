@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>game\backercontent</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>117</EntryCount>
@@ -24,7 +23,7 @@ He stops, taking a deep breath, and a hand comes down on his shoulder. He spins,
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>You see a small band of people walking down a rutted road surrounded by a thick forest. This man walks alongside them, chatting and joking like they were lifelong friends. Though his appearance is one of frivolity, his jovial façade is betrayed by the occasional sideways glance into the dense treeline.
+      <DefaultText>You see a small band of people walking down a rutted road surrounded by a thick forest. This man walks alongside them, chatting and joking like they were lifelong friends. Though his appearance is one of frivolity, his jovial fa&#231;ade is betrayed by the occasional sideways glance into the dense treeline.
  
 There is a noise from the trees around them, the sound of someone breaking a twig. The man holds up his hand, silencing the travelers and destroying the lighthearted tone of the evening. They look around, worried expressions on their faces, gathering closer together. The man motions to the group to stay where they are and heads into the trees. There is silence for several seconds as they all strain to hear anything, clutching one another nervously. There is another rustling, this time coming from the direction the man entered the woods. A single figure emerges from the tree line and the group visibly relaxes, seeing him approach. The figure comes close enough for the group to see his face and one of them lets out a cry of dismay when they realize this is not their friend.
  

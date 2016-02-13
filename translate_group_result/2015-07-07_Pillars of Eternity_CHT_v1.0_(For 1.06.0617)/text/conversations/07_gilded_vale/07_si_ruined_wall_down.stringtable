@@ -1,0 +1,37 @@
+<StringTableFile>
+  <Name>conversations\07_gilded_vale\07_si_ruined_wall_down</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>F站在牆邊你能看到一條往南的舊鵝卵石路和溪谷林地中零散的樹木。你的抓鉤和繩索還在，所以下去還是相對簡單的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>往下爬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>不要動。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Y你在邊上搖晃著重新回到地面上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>F站在牆邊你能看到一條往南的舊鵝卵石路和溪谷林地中零散的樹木。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Y你在邊上搖晃著重新回到地面上。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

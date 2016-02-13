@@ -1,0 +1,143 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\07_gilded_vale\07_qst_lords_of_a_barren_land</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>27</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>荒 地 之 主 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>前 往 莱 德 里 克 要 塞 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>在 莱 德 里 克 堡 垒 中 找 到 莱 德 里 克 七 世 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>前 往 寇 尔 什 的 隐 藏 营 地 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>找 到 寇 尔 什 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>回 到 莱 德 里 克 堡 垒 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>丰 饶 之 谷 由 莱 德 里 克 领 主 统 治 ，他 的 要 塞 位 于 伊 斯 特 伍 德 之 外 。因 为 迪 伍 德 已 经 染 上 了 名 为 维 德 文 的 遗 赠 的 诅 咒 ，他 采 取 了 严 厉 的 措 施 来 根 除 起 因 。他 的 很 多 敌 人 都 希 望 看 到 他 失 去 权 力 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>有 个 说 反 对 莱 德 里 克 领 主 这 种 暴 行 的 人 接 近 我 。他 要 求 我 加 入 他 ，并 结 束 莱 德 里 克 的 统 治 。他 的 堡 垒 位 于 伊 斯 特 伍 德 以 东 ，防 守 森 严 。这 将 是 一 个 相 当 大 的 挑 战 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我 已 经 到 达 了 莱 德 里 克 要 塞 。莱 德 里 克 领 主 正 等 在 某 个 地 方 ，但 杀 进 去 不 会 是 一 个 简 单 任 务 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我 和 莱 德 里 克 领 主 谈 话 了 ，他 讲 述 了 一 个 不 同 的 故 事 。他 要 我 去 找 寇 尔 什 对 质 关 于 他 篡 夺 王 位 和 领 导 丰 饶 之 谷 及 其 周 围 土 地 的 计 划 。莱 德 里 克 说 可 以 在 被 称 为 玛 格 岚 岔 口 的 野 外 找 到 寇 尔 什 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我 发 现 寇 尔 什 和 他 的 盟 友 们 见 面 的 地 方 。寇 尔 什 等 在 里 面 。现 在 我 要 决 定 他 的 命 运 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>我 杀 了 寇 尔 什 ，从 而 消 除 了 莱 德 里 克 领 主 统 治 的 主 要 威 胁 。莱 德 里 克 承 诺 在 我 成 功 返 回 后 给 我 报 仇 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>我 和 高 阶 牧 师 内 德 马 谈 话 了 。他 答 应 让 我 安 全 进 入 莱 德 里 克 的 王 座 室 ，只 要 我 能 去 堡 垒 地 牢 中 释 放 他 的 前 助 手 吉 亚 科 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>我 和 堡 垒 地 牢 中 的 一 位 灵 魂 学 者 欧 丝 丽 亚 谈 话 了 。她 承 诺 将 打 开 一 条 通 向 莱 德 里 克 住 处 的 秘 密 通 道 ，只 要 我 能 处 理 掉 贝 拉 斯 的 高 阶 牧 师 内 德 马 。他 就 住 在 堡 垒 的 上 层 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>寇 尔 什 认 为 正 面 攻 击 堡 垒 是 不 可 能 的 。他 建 议 我 试 图 找 到 一 种 方 法 通 过 护 城 河 东 部 边 缘 的 下 水 道 。或 者 也 许 我 可 以 想 办 法 进 入 城 堡 的 楼 上 ，寇 尔 什 的 联 系 人 内 德 马 所 在 处 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>寇 尔 什 认 为 正 面 攻 击 堡 垒 是 不 可 能 的 。他 建 议 我 试 图 找 到 一 种 方 法 通 过 护 城 河 东 部 边 缘 的 下 水 道 。或 者 也 许 我 可 以 想 办 法 进 入 城 堡 的 楼 上 ，寇 尔 什 的 联 系 人 内 德 马 所 在 处 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20005</ID>
+			<DefaultText>我 救 了 内 德 马 年 轻 的 助 手 吉 亚 科 ，并 通 知 了 内 德 马 我 的 成 功 。高 阶 牧 师 给 了 我 一 把 钥 匙 使 我 能 进 入 公 证 人 住 所 ，通 过 它 可 以 直 接 到 达 莱 德 里 克 王 座 室 旁 边 的 教 堂 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20006</ID>
+			<DefaultText>我 如 所 承 诺 的 杀 了 内 德 马 并 通 知 了 欧 丝 丽 亚 。欧 丝 丽 亚 非 常 感 激 我 的 帮 助 并 打 开 了 一 条 秘 密 通 道 ，可 以 直 接 进 入 莱 德 里 克 的 房 间 ，这 应 该 很 容 易 到 达 他 的 王 座 室 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20007</ID>
+			<DefaultText>我 发 现 有 些 贝 拉 斯 教 的 长 袍 。他 们 可 以 帮 助 我 混 入 这 层 楼 的 祭 司 中 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20008</ID>
+			<DefaultText>吉 亚 科 被 杀 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20009</ID>
+			<DefaultText>我 杀 死 了 欧 丝 丽 亚 ，因 此 她 不 可 能 会 帮 我 找 到 莱 德 里 克 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20010</ID>
+			<DefaultText>我 杀 了 内 德 马 ，结 束 了 我 们 的 交 易 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20011</ID>
+			<DefaultText>我 已 经 从 牢 房 放 出 了 吉 亚 科 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>莱 德 里 克 七 世 已 经 死 了 。寇 尔 什 现 在 获 得 了 对 莱 德 里 克 要 塞 及 其 周 边 土 地 的 控 制 ，包 括 丰 饶 之 谷 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我 解 决 了 寇 尔 什 ，并 通 知 莱 德 里 克 领 主 他 可 以 自 由 统 治 丰 饶 之 谷 的 土 地 ，不 会 有 其 他 篡 位 者 反 对 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>所 有 活 着 的 莱 德 里 克 继 承 人 都 被 我 亲 手 杀 了 。丰 饶 之 谷 的 “救 世 主 ”将 不 复 存 在 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\companions\poi\poi_bs_expedition_hall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bank Node 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「這 是 我 們 能 找 到 盟 友 的 地 方 。不 過 得 花 點 錢 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「雇 傭 兵 。武 器 很 多 但 是 沒 技 能 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「衛 邦 十 二 人 團 不 太 喜 歡 我 們 外 國 人 ，但 他 們 肯 定 不 介 意 拿 走 我 們 的 錢 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我 們 留 在 這 就 能 發 現 詛 咒 世 界 之 源 的 蛛 絲 馬 跡 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\prototype_2\p2_cv_villager_inn_male_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>總 是 保 持 吃 飽 快 活 的 狀 態 。你 永 遠 不 知 道 好 時 光 何 時 會 到 頭 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>前 方 有 危 險 。如 果 不 是 格 蘭 法 斯 人 ，你 將 面 臨 某 種 瘟 疫 或 怪 物  - 或 我 妻 子 ，一 回 事 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>村 民 完 全 不 搭 理 屋 子 裡 的 對 話 ，盯 著 自 己 的 酒 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>你 找 酒 吧 旁 那 家 伙 聊 過 了 嗎 ？他 整 天 拿 他 女 兒 不 離 嘴 。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

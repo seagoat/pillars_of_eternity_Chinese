@@ -1,0 +1,43 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\07_gilded_vale\07_cv_eothas_pool_spirit</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>霧度融融，穩固凝聚成灰塵和霧氣。氣體聚集的形狀像是個矮人的輪廓，一個閃閃發光的回音淡入並淡出人們的視線。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>但比視線更強的是你內心的感受，一股強烈的能量。動盪而沸騰著悲傷，似乎能蔓延到你自己的想法，經過玷污後，悲哀的是你自己。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>像轟然的波浪，能量潮朝你湧來，突然你出現在別處。你面前是一條明亮的石頭走廊，兩旁點著火把和閃閃發光的水晶。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>你開始奔跑，腳步聲迴盪在周圍的石頭上。你忘了系涼鞋的鞋帶，鞋子開始與你的腳下打滑，打亂了你的腳步。你又一次- 遲到了。儀式將在你沒到場的情況下開始。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>你聽到了鐘聲，你的靈魂在認出熟悉而扭曲的右手之聲時升起- 代表第一顆黎明之星在夜空中出現，最終在晨光中黯淡。你瘋狂祈禱這是第一次鳴鐘，而不是最後次…</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>燈光淡去，回憶也是，當你的目光清晰時，靈魂消失了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>Trigger Conv Node 10</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

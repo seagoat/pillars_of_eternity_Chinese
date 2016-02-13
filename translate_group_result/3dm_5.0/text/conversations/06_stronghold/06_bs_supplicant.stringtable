@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\06_stronghold\06_bs_supplicant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“我的主人，我有件很重要的事，需要让你看看…”</DefaultText>
+      <FemaleText>"My lady, I have an important matter which requires your attention..." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“我相信已经有进展了，主人？”</DefaultText>
+      <FemaleText>"I trust progress has been made, my lady?" </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“我不想催促你，我的主人，但是…时间紧急。”</DefaultText>
+      <FemaleText>"I do not mean to pressure you, my lady, but... time is of the essence." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“你好，我的主人。之前谈过的那件事有什么新消息吗？”</DefaultText>
+      <FemaleText>"Greetings, my lady. Is there any news as to the matter we discussed?" </FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

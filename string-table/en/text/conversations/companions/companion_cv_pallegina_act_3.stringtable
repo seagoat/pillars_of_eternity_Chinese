@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\companions\companion_cv_pallegina_act_3</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>115</EntryCount>
@@ -56,7 +55,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Your first error was mistaking my countrymen for helpless sheep!" Pallegina's head spins to address the Vailians held at sword point around the room, her voice echoing with energy. "Freros! Sérres! Children of the Republics! Show these dogs the price of threatening our people!"</DefaultText>
+      <DefaultText>"Your first error was mistaking my countrymen for helpless sheep!" Pallegina's head spins to address the Vailians held at sword point around the room, her voice echoing with energy. "Freros! S&#233;rres! Children of the Republics! Show these dogs the price of threatening our people!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +70,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Pallegina's eyes flash, the irises seeming to grow impossibly large. "Your first error was mistaking my countrymen for helpless sheep!" Pallegina's head spins to address the Vailians held at sword point around the room, her voice echoing with energy. "Freros! Sérres! Children of the Republics! Show these dogs the price of threatening our people!"</DefaultText>
+      <DefaultText>Pallegina's eyes flash, the irises seeming to grow impossibly large. "Your first error was mistaking my countrymen for helpless sheep!" Pallegina's head spins to address the Vailians held at sword point around the room, her voice echoing with energy. "Freros! S&#233;rres! Children of the Republics! Show these dogs the price of threatening our people!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,12 +140,12 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"You do what you can, I will do the same. For now, that means prayer." The ambassador shrugs and throws up his hands. "Good fortune to both of you. Ado vidòrio."</DefaultText>
+      <DefaultText>"You do what you can, I will do the same. For now, that means prayer." The ambassador shrugs and throws up his hands. "Good fortune to both of you. Ado vid&#242;rio."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Ado vidòrio."</DefaultText>
+      <DefaultText>"Ado vid&#242;rio."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,7 +155,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>After a long pause, she turns to face you. The membranes of her eyes slide out and back, pushing rivulets of water into the feathers on her cheeks. "We're going to find this casità bazzi, this Thaos. He's going to pay, di verus."</DefaultText>
+      <DefaultText>After a long pause, she turns to face you. The membranes of her eyes slide out and back, pushing rivulets of water into the feathers on her cheeks. "We're going to find this casit&#224; bazzi, this Thaos. He's going to pay, di verus."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -306,7 +305,7 @@
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Pallegina speaks quickly but confidently. "Tâ Ondra Tara pearls. Trade will be picking up quickly on them in the Eastern Reach. You will buy them exclusively from us for the next five years. In exchange, we will be your exclusive market for Adra Ban and Carow Golan for the same period."</DefaultText>
+      <DefaultText>Pallegina speaks quickly but confidently. "T&#226; Ondra Tara pearls. Trade will be picking up quickly on them in the Eastern Reach. You will buy them exclusively from us for the next five years. In exchange, we will be your exclusive market for Adra Ban and Carow Golan for the same period."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -575,7 +574,7 @@ A hawk shivers, ruffling its feathers. "Tell me what you want."</DefaultText>
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Sciòderie! I wish you could realize how short-sighted you're being."</DefaultText>
+      <DefaultText>"Sci&#242;derie! I wish you could realize how short-sighted you're being."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

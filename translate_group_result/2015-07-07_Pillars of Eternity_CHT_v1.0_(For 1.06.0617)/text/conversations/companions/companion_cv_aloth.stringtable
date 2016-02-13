@@ -1,0 +1,541 @@
+<StringTableFile>
+  <Name>conversations\companions\companion_cv_aloth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>104</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你看到酒吧門口聚集了四個人。他們的說話聲漸響，手臂揮來揮去，似乎正吵到勁頭上。
+
+為首的人做了個安撫的手勢。他的臉被戴著的兜帽遮去不少，但從身高和體型看來，是精靈族的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>其他的兩名人類男性和一名精靈女性似乎並不信服。
+
+那女精靈交叉雙臂。「想用幾個鹿叢銅錢收買我們的自尊？」她一口痰吐在他腳旁。「我們才不要你的破錢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「怎麼回事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[什麼也不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「大家別太激動了。這不管是什麼，肯定是個誤解。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「噢噢，有人打架了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>其他兩人中的一個雖然因酗酒雙眼通紅，但目光還算清醒。他指著那帶著兜帽的精靈說：「在我們村裡避難竟還蔑視我們。這鹿叢的禮儀可真是一文不值。」
+
+「我們不會從任何人那裡容忍這種侮辱。包括外地人，更包括鹿叢人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>兩人中的另外一個對著那精靈頂著下巴。他滿身酒味酸臭。「你敢不敢再說一遍，給我個理由給你點顏色看看。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「哈，我看你是想回去睡你妹妹了，你這狗娘養的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>其他兩人中的一個雖然因酗酒雙眼通紅，但目光還算清醒。他指著那帶著兜帽的精靈說：「算你有膽，在村裡避難竟然還罵村人。我們才不對外地人忍氣吞聲，尤其是鹿叢人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>其他兩人中的一個雖然因酗酒雙眼通紅，但目光還算清醒。他指著那帶著兜帽的精靈說：「我們雖是普通百姓，但也不是像他想的和蠢貨一樣。你在我村避難竟然還罵村人。我們才不對外地人忍氣吞聲，尤其是鹿叢人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>三個當地人憤怒地齊聲叫了起來。第二個男人低聲咆哮著。「我要把你那髒舌頭拔出來割了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>那精靈族男人臉上滿滿的又是恐懼又是焦急。「這是個誤解。我沒說過……」他皺了皺眉，嚥了一口唾沫。「……沒說過你們認為我說的那話。」
+
+他站起來。眼神閃過一絲乖戾野性。「咱別吵了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>精靈族的女人刀已出鞘。「這你就不對了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「和他打不是個好主意……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「所有人都別打了！簡直荒謬之至。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「你們就讓他這麼騎在你們頭上？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「這事我可不管了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「這有必要嗎？在外面吵架還不如進來喝兩杯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>三個醉鬼怒氣沖沖地盯著你。「你怎麼知道？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「他在伸手拿東西，還有它不是身上那把劍。要麼是魔杖，要麼是匕首，不管是那一個，你們這樣子是打不過的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「想打他，先經過我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「如果有像他一樣這麼明顯是在誘你們攻擊的人，現在走開才是上策。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「這結果可沒好事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>女精靈上下打量著你。「對你也是通用。別把我們逼急了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「別對我們發號施令，鹿叢人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「別對我們發號施令，外地人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>他們圍住了你，眼裡滿是不分青紅皂白的怒氣。「可饒不了你，鹿叢人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>他們圍住了你，眼裡滿是不分青紅皂白的怒氣。「可饒不了你，外地人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>他們的怒氣開始針對著你。「我們也不會讓你給騎在頭上。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「我們不會對鹿叢人聽命是從，也不會接受施捨。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「我們不想也接受你的施捨，外地人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>他們互相看了看。男人中的一個對其他兩人警惕地搖了搖頭，又看了看你。「我們就此為止，但他最好在背後長雙眼睛，我們不打算離開這兒。」他最後瞪了那精靈一眼，轉身離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>三個醉鬼跌跌撞撞離開後，精靈轉向了你，光滑的臉上幾乎已經沒有了剛剛的緊張感。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「不客氣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「能幫上忙就好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「剛才挺有趣的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「讓他們屁滾尿流的事？不客氣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「把他們宰了的事？不客氣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>他輕輕對你一笑。「也可以這麼說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>他輕輕對你一笑。「你在這附近一定樂趣重重吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>他輕輕對你一笑。「這附近講禮貌的人不多。不過聽你的口音，和我一樣也是外地人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>他輕輕對你一笑。「這附近講禮貌的人不多。能交朋友的人也不多。」</DefaultText>
+      <FemaleText>他輕輕對你一笑。「這附近講禮貌的人不多。能交朋友的人也不多。」"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>他理了理兜帽，你能看見他手套上磨掉了線的刺繡。他的靴子粘滿了許多個月的旅行的污垢，，但能看得出靴子本身做得結實精緻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「和我說說你自己。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「你來鍍金溪谷是做什麼的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「你怎麼惹著那三個醉漢的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「我是個魔法師，但必要時也是個冒險者。我出生的地方叫做希伍德，是鹿叢帝國大陸的一部分。我的雙親都是貴族的侍從，也有錢能給我良好的教育。對他們感激不盡。但他們工作的族門內並無可以給我的職位，於是我來到新大陸自己打拼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「問得好。」他雙臂交叉，眉頭緊鎖，望向小鎮中心。「我到此處尋找空氣清新的便宜土地，但地方官卻把我帶到酒館，跟我講些本地貴族懷孕夫人的雜事。」他歪著頭看著你。「我想你也是有相似的經過吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「你看起來不怎麼像是要定居的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>他頑皮地一笑。「請你原諒，但你看起來也不像。不過這種怪場合竟然能發現你這樣一個人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「都是因為些誤解和誤譯。」他看看他的一雙手，然後又看相旁邊。「與鹿叢的戰爭並沒有讓他們漲一點記性。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「但你的確是叫那人回家操他妹妹。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「但你的確是對他們其中之一說了有關他妹妹的猥褻之語。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「我明白了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「關於那個。」他清了清喉嚨，理了理袖子。「我嘗試著和他們解釋說他們聽錯了。他們喝了幾品脫酒，我又帶著口音，挺容易聽錯的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「我聽見的和他們聽見的一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>一瞬之間，他似乎想要說點別的什麼，臉上洋溢著惡作劇般的神情。但他控制住了自己，緊緊地咬著下唇，像要咬出血一般，又擠出了個笑容。他的臉最終放鬆下來，搖了搖頭。
+
+「我下次會注意咬字更清楚。抱歉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「那你呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「像你說的那樣，我也是來定居的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「最近我身上有些奇異的事情發生。我正在尋找一名靈魂方面的專家。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「這是我的私事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「謝謝你了。我們，呃，說點別的什麼吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「我該走了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「我在搜集關於一個名叫鉛制之鑰的組織的信息。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「那太好了。」他打量著你和你飽經風霜的旅行裝扮，眼神閃爍。「那麼，歡迎來到鍍金溪谷。真正意義上遠離文明的避難所。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>他上下打量著你，眼神閃爍。「是嗎？本地的領主也正到處找相似的專家。但找到了不久又立刻趕了出去。」他朝著鎮中心的一棵木瘤遍佈的老樹點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>他突然兩眼圓睜。「你輕點說話。本地人一生疑心就到處抓人。」他朝著鎮中心的一棵木瘤遍佈的老樹點了點頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>他眼睛突然看著地面。「當然，我不是想亂打聽。」他朝著鎮中心的一棵木瘤遍佈的老樹點了點頭。「現在我們最好提高警惕。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「今天發生這件事，我也該走了。我也受夠了這酒館兌水的酒，受夠了他們的硬床。」他皺了皺鼻子。「聽說連這兒的主人都厭煩這個酒館，不久前就走了。這也是為什麼酒吧沒得到維護了。」
+
+他謹慎又充滿希望地看著你。「或許我可以加入你的隊伍。我本來就打算換個地兒的，但我覺得多個人去旅行更好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「我也這麼覺得。那麼一起走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「我習慣一個人了。以後再說吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「太好了，我就跟著你了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「我能理解。」他回頭看著酒館，歎了口氣。「再吃幾天這裡的破飯也死不了。不過要是哪天那隻狗突然不見了，我就不吃這裡的飯了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>他們視線模糊地瞇著發紅的眼睛看著你。「真可疑，你好像是在護著他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>最後的襲擊者倒下之後，精靈轉過臉看著你，光滑的臉上似乎已沒了剛才的緊張感。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>精靈刻意地顯得毫無表情，但眼中滿是希望。「又見面了。回鍍金溪谷來做什麼了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「最近發生什麼事沒有？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「我們一起走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「再會了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>他乾笑了一聲。「能有什麼事啊。不過……」他看著樹上滿滿的屍體。「沒大事就好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「我……一路平安。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「你到底是怎麼到這裡的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「我原先是跟著一個商隊一起走的，但在某個廢墟附近和他們分離了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「是個奪魂風暴。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「是個英格維斯廢墟？和平時代去那裡都非常危險，又何況現在這世道。本地人一半會把你按非法入侵的罪名逮捕，另一半直接會就把你殺了。」
+
+他靠得更近了。「我很好奇。你在那裡到底找到了什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「幾個帶兜帽的人在操作一架很奇怪的機器。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[撒謊] 「什麼都沒找到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>他慢慢地笑了。「是人都有些不能說的事。好吧。」</DefaultText>
+      <FemaleText>A slow smile creeps across his face. "A woman must have her secrets. Very well."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「你還活著出來了？我聽說那是不可能的事。」他帶著全新的興趣打量著你。「你要不然就是很會掌握時機，要不然就是有眾神保佑。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>亞洛斯沉默地瞪大眼睛看著你，似乎在審視你是否誠實。他最終尷尬地短笑了一聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[依舊不說話。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>最後的襲擊者倒下之後，精靈轉過臉看著你，光滑的臉上還殘存著些許緊張感。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「並沒有得罪你的意思。我們一起去喝幾杯，算是講和吧？我請客。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「我也沒打算過這麼交朋友。謝謝你及時相救，幫我解決了這個……尷尬的局面。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「剛才的鬧劇之後，我來介紹下自己。亞洛斯·科爾費斯，願為你效勞。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「你倒是挺會找麻煩的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「這可是出乎意料。還是謝謝你及時相救，幫我解決了這個……尷尬的局面。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>他來回看著那些搖搖欲墜的樓房和許久未被耕種過，岩石遍佈的田地。「你應當到別處去找。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>他來回看著那些搖搖欲墜的樓房和許久未被耕種過，岩石遍佈的田地。「不管你在找什麼，都應當去別處找。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「你怎麼被困在這種地方？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「你最好能好好解釋自己。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>他尷尬地笑了。「這……可就說來話長了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>他舉起雙手。「我不是故意把你牽扯進來的。真的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

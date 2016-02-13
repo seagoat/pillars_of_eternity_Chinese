@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\01_defiance_bay_copperlane\01_cv_kaenra</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>113</EntryCount>
@@ -167,7 +166,7 @@ She opens her hand, and a ring clatters onto the table.</DefaultText>
       <ID>67</ID>
       <DefaultText>She says nothing for a few moments, as if hoping you'll leave. At last, Kaenra looks up at you, and lamplight falls across her face. A purpling bruise is blossoming along her cheekbone. 
 
-"There's something I need to give to my fiancé, Purnisc. Only he doesn't seem to go anywhere without his new friends, and they're not exactly pleasant company."</DefaultText>
+"There's something I need to give to my fianc&#233;, Purnisc. Only he doesn't seem to go anywhere without his new friends, and they're not exactly pleasant company."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -565,7 +564,7 @@ Kaenra bites her lip and nods. "Then... good. I don't know if I expected him to 
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>"To tell them my fiancé hit me?" She shakes her head. "They'll just tell me to stay away from him. They've got too many other problems to worry about a domestic dispute."</DefaultText>
+      <DefaultText>"To tell them my fianc&#233; hit me?" She shakes her head. "They'll just tell me to stay away from him. They've got too many other problems to worry about a domestic dispute."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

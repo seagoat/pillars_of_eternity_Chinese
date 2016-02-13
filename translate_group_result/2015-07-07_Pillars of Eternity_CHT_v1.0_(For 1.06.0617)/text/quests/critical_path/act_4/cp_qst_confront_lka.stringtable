@@ -1,0 +1,45 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\critical_path\act_4\cp_qst_confront_lka</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>古老的記憶</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>進入暗影之陽.</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>尋找賽奧斯。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>我已經按照葉精說的做了- 我已經在神的保佑下成功進入了佈雷斯伊曼深處，神派我阻止賽奧斯把戴爾森林無魂兒的靈魂送到他的女神-沃迪卡那，讓那些靈魂被吸收。
+
+不管會不會發生，我們似乎還有沒做完的事，我需要盡快找到他。心中的低語現在變得響亮了，再怎麼休息也不會讓我感到放鬆。我找到他時，我或許會像馬爾瓦德那樣一頭霧水。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我從懺悔者庭院上面掉了下來，但我沒死。這條路會把我帶向英格維斯的監獄，以及，如果葉精姐妹說的是真的，還會把我引向&quot;暗影之陽&quot; ，賽奧斯就在那裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>神給我的靈魂照亮了一條黑暗中的道路。賽奧斯就在前方的某個地方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我找到了夢裡見到的英格維斯機械。有幾千個迪伍德的靈魂都被吸引來了。賽奧斯應該就在不遠處。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

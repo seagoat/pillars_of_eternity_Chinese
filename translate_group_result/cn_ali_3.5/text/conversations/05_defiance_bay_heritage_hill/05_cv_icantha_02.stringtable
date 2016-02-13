@@ -1,0 +1,697 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\05_defiance_bay_heritage_hill\05_cv_icantha_02</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>125</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>一个女人弯腰对着燃烧的壁炉，把破碎的椅子腿扔了进去。当你靠近的时候，你发现她有些奇怪-苍白的肤色，缺乏运动，但是他的手臂依然灵活有效的运动着。
+
+然后你看到了皱肉，衣衫褴褛而毫无血色，在她的心上面。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>你回来了。这次你来寻找什么?</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>近亡者用毫无血色的嘴唇笑着。跟欣赏真正学术的人谈话总是开心的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>DEBUG：Set Conditions for Quest Resolution = True.</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>盯着人看很不礼貌，你知道的。别担心，我不想和你开始任何事。毕竟，我保持着这么好的外型全靠小心的选择我的饮食。她对着自己笑。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>我该走了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>我需要操作塔上机器的密语。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>“我在找伊坎莎。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>“你是谁？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>她笑了下，那笑声有着干叶的脆响，又带着些许兹兹的刺耳噪音。
+
+“是那傻瓜-奥尔德海姆，派你来的对不对？不敢相信，他居然那么机智，存活下来了。那傻瓜根本不了解那是什么、为什么会那样。还自认为懂得该怎么使用。”
+
+你感觉到她的灵魂中有股高傲在燃烧。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>“他拿出铁匠的全部技艺，企图研究鼓捣这强大的远古装置。多年来他一直毁谤我的研究，他现在却派你来请求我的帮助。”
+
+她边指着那堆熊熊烈火，边摇了摇头。“他根本没告诉你这高塔的名字，对不？这就是他的问题所在。一直在寻找解决办法，根本不在乎其中的含义。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>她一眨不眨地盯着你。“你想她身上取得什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>“跟我说说这高塔的名字。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>“传承山的问题比你的对手-伊坎莎要严重得多。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>“通过展现你研究的价值来打败奥尔德海姆。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>“该如何运作泰尔瑙内斯顶部的机器？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>伊坎莎闭上了双眼。“泰尔瑙内斯。”她的声音忽然镇静了下来。“它叫做泰尔瑙内斯。”
+
+她一边用双手擦了擦衣服，一边站起、转身朝向你。她那双手如羊皮纸般干燥。“他们将那机器建在顶部来储存灵魂。固定、困住那些灵魂。我所见到的其他机器，那些散落在迪伍德各地的机器。都是用来运输灵魂的中继器。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>“我的沉默能更简明得证明这点。”
+
+你的话语刺激到了她灵魂中心的奇怪东西。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>“我为什么该在乎？我已做好准备，就预料到可能会有这结果。我可以向你保证，那些在街道上日益消散的灵魂根本无人在乎。”
+
+她的高傲依旧猛烈燃烧着。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>“他们将灵魂运送到了哪里？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>“又一个不解之谜。想运到哪里，就运到哪里。不过，其中真正的疑问是为什么。同赌徒洗牌，农民轮作般将他们混合起来？还是像收集蝴蝶标本一样将他们收集起来？或许是为了原始精华将他们都融化掉？
+
+“不幸的是，我也不知道。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>“说回那些修补匠所关心的事！如果我告诉你的话,你会怎么处理这些被拴住的灵魂？”她交叉着双臂，放在她那一动不动的胸口上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>“我会释放他们，让他们解脱。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>“我会收割他们来获取精华。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>“我也不知道。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+			<DefaultText>“做我这行的，很少有谦逊之人。真令人耳目一新。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+			<DefaultText>“同时也给了他们存在的意义。但是什么样的意义呢？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>“你虽然这么说。但你打算将他们释放到什么地方？他们放弃了此地，前往其他地方，却依旧茫然，毫无目的。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+			<DefaultText>“我有能力帮你。但是我不会去帮你。”她灵魂中的高傲忽然迸发，扭曲成为了某种可怕东西，在她内心蠕动着、尖叫着。
+
+“在这里。我有足够多的样本，也许有足够的时间来观察他们。这是每个科学家的梦想。
+
+“我的回答是不。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>“你似乎很了解泰尔瑙内斯。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+			<DefaultText>“我同读日志般阅读符文。我了解它们的意义。奥尔德海姆这类人将它们当做指示，因此完全忽视了其中的真正含义。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+			<DefaultText>[扑灭伊坎莎的高傲]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+			<DefaultText>你一心顾着那尖叫、燃烧着的混乱场面，近亡者似乎没注意到你。
+
+但是，它灼烧着你的筋骨。你跳回原处，痛苦得尖叫着。
+
+“我是不会放弃这机会的。这些灵魂将同我一起呆着这里，我将取得的成就会超越历史上的任何灵魂学者。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>94</ID>
+			<DefaultText>“谁会知道呢？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>95</ID>
+			<DefaultText>“你死了。这一切又有何意义？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>96</ID>
+			<DefaultText>“那些受困灵魂的命运更加重要。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>97</ID>
+			<DefaultText>“因为我即便死了，我的研究还在。我有着时间和机会来完成这壮举，我取得的成就将超越历史上的任何灵魂学者。”
+
+她那高傲闪动着、尖叫着。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>98</ID>
+			<DefaultText>“囤积知识毫无意义。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>99</ID>
+			<DefaultText>燃烧着的那东西开始咆哮。“没有比这更重要的东西！我们聚在一起研究。那千名类昆虫的人将它留给了我们。通过它，我们超越了他们。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>101</ID>
+			<DefaultText>她的高傲变得闪烁不定，周围的火焰也开始减弱。“我所学习的一切。数年来研究因格维斯语。没有比我更懂的了。那算有点成就吧。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>102</ID>
+			<DefaultText>“知识如果不分享，又有何意义？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>103</ID>
+			<DefaultText>“你在这里的机会毕竟有限。总有一天，你的知识会跟你一起埋葬。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>104</ID>
+			<DefaultText>“但又有什么用？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>105</ID>
+			<DefaultText>高傲在她内心中愤怒着。“有着各类作用！为什么必须将如此纯洁的东西变成粗俗的工具？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>106</ID>
+			<DefaultText>“愚蠢而又错误的观点。知识就是意义。它根本不需要外在意图。”
+
+她的高傲依旧燃烧着。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>107</ID>
+			<DefaultText>[扑灭伊坎莎的高傲]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>108</ID>
+			<DefaultText>你的精华试着接触她内心燃烧着的火焰，但那火焰灼伤着你。你返回时，你的躯体完整无损，但在记忆中，你仍能感觉它的刺痛。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>109</ID>
+			<DefaultText>她那高傲嘘声着、噼里啪啦地响着。也就比灰烬好那么一点。
+
+“你错了。”但她的话语不再确定。“我会永远建立。紧抓它不放。那会给我...些许动力。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>110</ID>
+			<DefaultText>[扑灭伊坎莎的高傲]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>111</ID>
+			<DefaultText>“教我你所知道的一切。我会确保将其发扬光大，让你的遗产得以永存。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>112</ID>
+			<DefaultText>“你会满足于那一切吗？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>113</ID>
+			<DefaultText>你试着触碰它，但它太炎热了，根本无法握住。
+
+“虽然不多，但仍算有所成就。你不能从我这将其夺走。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>114</ID>
+			<DefaultText>你的话语终于熄灭了她的高傲，剩下的只是漆黑的、如钻石般坚硬的岩石。你将它抛至一边，任凭它被黑暗吞噬。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>115</ID>
+			<DefaultText>带着余火的灰烬还在燃烧着。“它会的。必须那样。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>116</ID>
+			<DefaultText>“这些就是你所需要的指令。”她将她那寒冷、干燥的手指放在你太阳穴上，你感到她触碰到了你的思想，在黑暗之中形成了图像。符文在你脑海中闪过，但它们不再是图像而已。它们有着意义，而你也了解这些意义。它们是指令。
+
+有些事情触碰了你的思想，你想起了已遗忘许久的前世记忆。你看到诸多符文，比伊坎莎向你展示的符文要多得多，你知道它们的声音、意义，懂得该如何将它们组合在一起。你再次掌握了因格维斯语。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>117</ID>
+			<DefaultText>她离开了你。“有些事情已在你的思想中觉醒。你所了解的要比我多得多。
+
+“带走这知识，按自己意愿去处理泰尔瑙内斯。现在你了解到了它的目的，它会按你的意愿为你服务。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>118</ID>
+			<DefaultText>“他们无关紧要。他们的存在毫无意义。他们甚至不了解他们的困境，而我们一眼就能看明。”
+
+她的高傲继续燃烧着。“通过他们，我所取得的成就会超越我的同辈。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>119</ID>
+			<DefaultText>“你不能困着这些灵魂！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>120</ID>
+			<DefaultText>“谁会阻止我呢？只有我了解泰尔瑙内斯的控制指令。所以我完全可以困着他们。”
+
+她的高傲燃烧着。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>121</ID>
+			<DefaultText>她虚伪得笑了下。“我仁慈之下的幸存者。”
+
+她移动着手指，指着胸口参差不齐的孔。“在那些魔爪抓门的时候，我自己照顾好的自己。自从那之后，我一直好好照顾着自己。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>125</ID>
+			<DefaultText>“你知道这里发生了什么吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>126</ID>
+			<DefaultText>“灵魂研究的壮举。自因格维斯时代后，这地方就再也没见过这样的壮举。”她惊奇得看着周围，那眼神黯淡无神、毫无生气。
+
+“有人找到了强大的远古设备。我敢肯定，绝不是奥尔德海姆或他的可爱助手。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>130</ID>
+			<DefaultText>“我想再多问下有关泰尔瑙内斯的问题。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>132</ID>
+			<DefaultText>“当然。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>133</ID>
+			<DefaultText>“你说在迪伍德的其他高塔是用来运输灵魂的。因格维斯人为什么想运输灵魂？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>134</ID>
+			<DefaultText>“又一个不解之谜。想运到哪里，就运到哪里。不过，其中真正的疑问是为什么。同赌徒洗牌，农民轮作般将他们混合起来？还是像收集蝴蝶标本一样将他们收集起来？或许是为了原始精华将他们都融化掉？
+
+“不幸的是，我也不知道。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>135</ID>
+			<DefaultText>“你究竟对这高塔了解多少？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>136</ID>
+			<DefaultText>“解释下控制指令是怎么运作的。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>137</ID>
+			<DefaultText>“我同读日志般阅读符文。我了解它们的意义。奥尔德海姆这类人将它们当做指示，因此完全忽视了其中的真正含义。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>138</ID>
+			<DefaultText>“就这样。谢谢。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>139</ID>
+			<DefaultText>“掌控泰尔瑙内斯的关键在于了解它的作用。你懂得那些指令以及它们的含义。你说出那些指令后，高塔自然会听从你。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>140</ID>
+			<DefaultText>“现在我知道了这些指令，我该怎么处理？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>141</ID>
+			<DefaultText>“关闭它。现在你能读懂符文了，应该能轻易关闭掉那机器。躯壳仍会游荡，但将他们杀死后，他们的精华会继续轮回。
+
+“不过要小心。那机器控制着许许多多的灵魂，精华容量如此之大，可能会轻易造成过载。运输精华时，稍有不慎，就会导致机器连同那些灵魂一并被摧毁。这对后代来说，算是巨大损失。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>151</ID>
+			<DefaultText>Bank Node 151</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>152</ID>
+			<DefaultText>“我们应该想着先杀掉她，然后让你跟她那尸体谈谈。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>153</ID>
+			<DefaultText>“不寻常的生物。我们应该纠正它，将它遣送回它原本的污秽地方。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>155</ID>
+			<DefaultText>亚洛斯机警地看着那近亡者。“你不会打算过去问她要不要加入我们吧，我是真心不希望那样。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>156</ID>
+			<DefaultText>“我可不会太靠近她，[Player Name]...看-她甚至不是活人，她这类生物一直渴望着生命。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>157</ID>
+			<DefaultText>帕勒吉娜睁大了眼睛，她伸出带有羽毛的臂膀，不让你继续靠近。“[Player Name], 小心点。她看起来...不太正常。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>158</ID>
+			<DefaultText>“这充满着渴望和暴力。但是...有着更深切的渴望，无法用鲜血满足的渴望。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>159</ID>
+			<DefaultText>“小心点，[Player Name]。这渴望着鲜血。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>160</ID>
+			<DefaultText>“如果你了解情况的话，你就会远离那寄生虫...”他摇了摇头，耸了下肩。“我又想了下，我曾跟树对话，还企图勾引母蝎虎狮...我又有什么资格来评论别人呢？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>166</ID>
+			<DefaultText>Bank Node 166</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>168</ID>
+			<DefaultText>希拉维亚斯转向你，“她的意思是”，他细声说道，“我们可以选择那一历史悠久的可靠策略---直接无视，摧毁这装置，阻止灵魂被束缚。”
+
+他皱着眉。“不过...不得不牺牲困在机器里的灵魂，这挺不幸的--他们理应有更好的命运。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>171</ID>
+			<DefaultText>Bank Node 171</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>172</ID>
+			<DefaultText>“他们现在的困境毫无意义可言。也许连瓦尔也不知道他们会发生什么，但不让他们解脱，这就属于大错特错了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>174</ID>
+			<DefaultText>“跟我说说这奥尔德海姆。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>175</ID>
+			<DefaultText>“我明白了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>176</ID>
+			<DefaultText>她傻笑着。“我很是怀疑。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>177</ID>
+			<DefaultText>“他的名字完全不值得提。他是爱吹牛皮的家伙，喜欢挖掘文物，称自己为学者。当下灵魂研究的可悲之处在于是个人都可以自称为专家。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>178</ID>
+			<DefaultText>“我仍然不理解这区域为什么有那么多丧尸。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>179</ID>
+			<DefaultText>她不再看着那火堆，转身看着你。“因为有人发现了连接灵魂和躯体的方法，还不明白吗？”她不耐烦得用手指拍了拍头骨。“当心脏停止跳动，血液停止流动，他们的躯体仍有生气。并有着新的渴望。”
+
+她转头看着那火堆。“那些能取得血肉和精华来满足渴望的家伙，会保持强壮、敏锐。那些满足不了内心渴望的家伙则会恶化。迅速恶化。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>180</ID>
+			<DefaultText>“我在后屋遇到了一群人...”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>181</ID>
+			<DefaultText>她咯咯声叫着。“希望你没搅扰到他们。将他们赶在一起，可是件麻烦事。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>182</ID>
+			<DefaultText>[攻击]“你帮了我很多。不幸的是，我不能让你存活...”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>183</ID>
+			<DefaultText>“再跟我说说你的处境。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>184</ID>
+			<DefaultText>“你想知道些什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>185</ID>
+			<DefaultText>“就传承山所发生的事，我想听听你的理论。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>186</ID>
+			<DefaultText>“解释下你是如何继续存活下来的。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>187</ID>
+			<DefaultText>“你现在要做什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>188</ID>
+			<DefaultText>“有人激活了高塔上的机器。基于我所了解的事实，那人可能同我一样，都了解因格维斯语。
+
+“这里一旦有人开始死亡，陷入混乱不过是时间问题而已。就我个人而言，我因没有见到那神秘的煽动者而感到有所失望。试想下他(她)所了解的学识啊...”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>189</ID>
+			<DefaultText>“没必要那么厌恶。这有关躯体和精华。在机器激活后，我们中诸多在此区域的死者都发现自己在不断腐烂。唯一延缓的办法就是经常食用活肉和精华。”
+
+她耸了耸肩。“有点恶心，但我已经习惯了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>190</ID>
+			<DefaultText>“我会继续呆着这里,继续我的研究。凭我现在的状态，我可以任意观察其他躯壳。这是鲜有的研究机会。
+
+“最终，我会找到出去的办法。这区域不可能一直封锁着，我可以融入他们，就跟我现在一样。只要有食物，我就可以继续我的研究，继续享受数十年的辛勤日子。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>191</ID>
+			<DefaultText>在战斗后，她不过多了几处抓伤而已。“希望你已经发泄完毕了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>192</ID>
+			<DefaultText>亚洛斯斜着眼、会心得看了你下。“看来，你那贪婪朋友给了我们结束这悲惨事件的钥匙。
+
+“现在我们了解到了这机器的作用，我希望你不会因为损失了数百计的灵魂而感到有所受不了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>193</ID>
+			<DefaultText>“我也不知道，摧毁它似乎有利于这地方。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>194</ID>
+			<DefaultText>“这地方有着残忍境遇...但比起这事，湮灭那些灵魂显得更为残忍。我们必须解放这区域...同时解放那些受困的灵魂。在这之后，一定有新生的希望。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>195</ID>
+			<DefaultText>“要是我们能将灵魂学者聚在一起就好了，那么我们就能顺道摧毁他们的灵魂。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>196</ID>
+			<DefaultText>“我们应该摧毁那机器。无论他们的灵魂属于命运之轮还是湮灭。他们的生命已经结束了。他们已经死了。剩余的根本不重要。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>197</ID>
+			<DefaultText>伊坎莎皱着眉，抓了抓新的伤疤。“你想取得什么成就？你我都知道，只要机器开着，我就会返回这躯体。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>198</ID>
+			<DefaultText>“因格维斯人为什么想这么困着灵魂？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>199</ID>
+			<DefaultText>“也许他们并不想那样。所以他们只建了这么一座机器。
+
+“我们现在知道因格维斯人是操控灵魂的大师，但只有经过反复实验，才能有所精通。也许这就是其中的一项实验。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>200</ID>
+			<DefaultText>“我会摧毁它们。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>201</ID>
+			<DefaultText>“始料未及的结局，但为了什么目的？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>202</ID>
+			<DefaultText>“我仍然不知道因格维斯人为何建造机器来束缚灵魂。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>203</ID>
+			<DefaultText>“也许他们并不想那样。所以他们只建了这么一座机器。
+
+“我们现在知道因格维斯人是操控灵魂的大师，但只有经过反复实验，才能有所精通。也许这就是其中的一项实验。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>204</ID>
+			<DefaultText>“关于关在后屋里的那些人...”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>205</ID>
+			<DefaultText>“鉴于我现在的情况，他们可是我的必需品。虽然我对此也有所讨厌。留他们在那里吧。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>206</ID>
+			<DefaultText>“我在景象中看到过你。你需要帮我做些事。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>207</ID>
+			<DefaultText>她再次笑了下。“我之前也听过那话。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>208</ID>
+			<DefaultText>她再次笑了下。“我之前也听过那话。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>209</ID>
+			<DefaultText>“他现在会说无人知晓的语言。短短时间内，他就超过了数百个努力多年的学者。你能帮我找些书吗...？”</DefaultText>
+			<FemaleText>&quot;A speaker of dead tongues, now! And so she surpasses a hundred frustrated scholars in the matter of a few moments. I don&apos;t suppose you could look at a few books for me...?&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>210</ID>
+			<DefaultText>“什么？如果你只是打算囤积起来，观察这一切又有什么意义呢？[Player Name]，快告诉她！整个语言就在你面前，触手可及，而她却选择将它藏起来。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>211</ID>
+			<DefaultText>她的声镇定而又平静。“那就这样吧。我的研究和努力将与你同在。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>212</ID>
+			<DefaultText>Trigger Conv Node 212</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

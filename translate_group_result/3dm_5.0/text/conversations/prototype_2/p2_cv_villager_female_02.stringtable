@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\prototype_2\p2_cv_villager_female_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“天气变热了。我们很幸运贝尔离我们这么近。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“边境止于这条河流，从玛德斯达姆一路向南到达北方的群山。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>女人擦了擦额头上的汗水并呼出了长长的一口气。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

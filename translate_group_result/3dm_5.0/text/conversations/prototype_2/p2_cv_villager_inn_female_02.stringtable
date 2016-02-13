@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\prototype_2\p2_cv_villager_inn_female_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>“如果我有钱，我会一整天都呆在这里喝酒！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>“我不知道奥斯马尔在他的酒里放了什么，但是它带来了最好的顾客。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>村民一边笑一边摇晃差点撒了她的酒。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

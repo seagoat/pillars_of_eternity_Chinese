@@ -1,0 +1,18 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_bs_visitor_war_vet</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>2</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“很 高 兴 见 到 你 ，主 人 。你 自 己 造 的 家 很 漂 亮 。”</DefaultText>
+			<FemaleText>“很 高 兴 见 到 你 ，夫 人 。你 自 己 造 的 家 很 漂 亮 。”</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“这 堡 垒 唤 起 许 多 回 忆 …”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

@@ -1,0 +1,237 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\08_wilderness\08_si_sky_dragon_ridge</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>45</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>高耸的入云梯半抱着陡峭的悬崖，你越往上攀看到的景色越壮丽。
+
+沿着路往前走没多远，你发现前面没路了。前面挡路的大石头好像是从上面某处落下来的——把你的路堵得严严实实的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>那块大石头几乎和悬崖齐平，保护你通过不从另外一边掉下去。沿着悬崖的边缘有一处很狭隘的角落刚好够穿到那一边。卵石贴地的一面砸碎了下面的台阶。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>[用锤子和凿子清路。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>[把石头清理出去。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>[尝试绕过大石头。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>[离开]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>你听到了卵石滚下悬崖的回声。那声音听着像头顶上激起了什么。你看到道路对面闪过去一道黑影，你都没看清楚，就消失了。但是你看到头顶上快速地往下滚落石块，越滚越多。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>谁能一下子把道路清理干净？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>[Slot 0]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>[Slot 1]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>[Slot 2]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>[Slot 3]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>[Slot 4].</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>[Slot 5].</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>什么人都没。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>你后退了一步思考对策。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>[Slot 0]努力去举那块大卵石，艰辛地努力了一番，那块大石头缓缓地动了两下，顺着碎裂的台阶往下滚，从侧面滚走了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>[Slot 0]用肩膀使劲去顶那块大卵石，努力想移动它。费了半天劲，显然那石头纹丝未动。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>[Slot 1]努力去举那块大卵石，艰辛地努力了一番，那块大石头缓缓地动了两下，顺着碎裂的台阶往下滚，从侧面滚走了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>[Slot 1]用肩膀使劲去顶那块大卵石，努力想移动它。费了半天劲，显然那石头纹丝未动。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>[Slot 2]努力去举那块大卵石，艰辛地努力了一番，那块大石头缓缓地动了两下，顺着碎裂的台阶往下滚，从侧面滚走了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>[Slot 2]用肩膀使劲去顶那块大卵石，努力想移动它。费了半天劲，显然那石头纹丝未动。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>[Slot 3]努力去举那块大卵石，艰辛地努力了一番，那块大石头缓缓地动了两下，顺着碎裂的台阶往下滚，从侧面滚走了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>[Slot 3]用肩膀使劲去顶那块大卵石，努力想移动它。费了半天劲，显然那石头纹丝未动。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>[Slot 4]努力去举那块大卵石，艰辛地努力了一番，那块大石头缓缓地动了两下，顺着碎裂的台阶往下滚，从侧面滚走了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>[Slot 4]用肩膀使劲去顶那块大卵石，努力想移动它。费了半天劲，显然那石头纹丝未动。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>[Slot 5]努力去举那块大卵石，艰辛地努力了一番，那块大石头缓缓地动了两下，顺着碎裂的台阶往下滚，从侧面滚走了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>[Slot 5]用肩膀使劲去顶那块大卵石，努力想移动它。费了半天劲，显然那石头纹丝未动。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>显然在这么一块大石头上凿个缝都很辛苦，要花费不少功夫，尤其是那石头好多部分坚硬无比，根本凿不穿，你不得不另寻别的出路。经过一番艰辛的努力下，你的努力终于有所成效，那块大石头上掉裂下一块。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>说时迟那时快，你赶紧躲在了一个小角落里，躲开了从悬崖上落下的石块。大石头砰地一声重重地撞在了地面上，弹到了石阶上，越过路的那一边滚了下去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>石头开始活动，小队赶紧躲在一个狭小的悬崖缝中—可是[SkillCheck 0]绊倒了，没来得及躲在避难所。一瞬间天上落下来一堆冰雹大小的碎石块，如雨点一般砸向他们。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>等到这阵石雨过后，你继续攀爬，后面的一段旅程就平安无事了。
+
+终于，，你爬上了最后几级台阶，在上面你能看到海莉亚房子高耸的柱子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>磕磕碰碰的，[SkillCheck 0]爬完了最后一段路程，到达安全的地方。没过一会儿，头顶上传来一阵雷鸣，又砸下来一堆石头。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>快爬到大石头上时，你发现石块边缘连你的一只脚都容不下。石头都裂开了缝，几乎举步维艰。犹豫了片刻，[Slot 0]脚下的石头因受不住自己的重量，滚了下去。说是急那时快，[Slot 0]赶忙冲到了另一边。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>快爬到大石头上时，你发现石块边缘连你的一只脚都容不下。石头都裂开了缝，几乎举步维艰。犹豫了片刻，[Slot 1]脚下的石头因受不住自己的重量，滚了下去。说是急那时快，[Slot 1]赶忙冲到了另一边。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>快爬到大石头上时，你发现石块边缘连你的一只脚都容不下。石头都裂开了缝，几乎举步维艰。犹豫了片刻，[Slot 2]脚下的石头因受不住自己的重量，滚了下去。说是急那时快，[Slot 2]赶忙冲到了另一边。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>快爬到大石头上时，你发现石块边缘连你的一只脚都容不下。石头都裂开了缝，几乎举步维艰。犹豫了片刻，[Slot 3]脚下的石头因受不住自己的重量，滚了下去。说是急那时快，[Slot 3]赶忙冲到了另一边。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>快爬到大石头上时，你发现石块边缘连你的一只脚都容不下。石头都裂开了缝，几乎举步维艰。犹豫了片刻，[Slot 4]脚下的石头因受不住自己的重量，滚了下去。说是急那时快，[Slot 4]赶忙冲到了另一边。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>快爬到大石头上时，你发现石块边缘连你的一只脚都容不下。石头都裂开了缝，几乎举步维艰。犹豫了片刻，[Slot 5]脚下的石头因受不住自己的重量，滚了下去。说是急那时快，[Slot 5]赶忙冲到了另一边。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>你缓缓地在大卵石薄薄的边缘挪动着，有惊无险地爬到了另一边。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>你走到石头旁边奋力一举，使上了身上所有力气。石头晃了几晃，压过了石阶，响过一阵碎裂的声音—接着滚到了一边。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>你把手按在石头边上，运足力气往前推。你连吃奶的劲儿都使上了，还是纹丝未动—那石头实在是太重了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>快爬到大石头上时，你发现石块边缘连你的一只脚都容不下。石头都裂开了缝，几乎举步维艰。犹豫了片刻，石头撑不住你的重量了，滚到了一边。说时迟那时快，你终于冲到了另一边。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>[检查该区域。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

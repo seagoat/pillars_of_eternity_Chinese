@@ -1,0 +1,63 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\critical_path\act_1\cp_qst_clearing_stronghold</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>11</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>清理道路。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>修理东方瓮城，前往林端平原。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>与管家交谈。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>前往反抗湾。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>马尔瓦德去世后，留给我一个年久失修的据点- 塞德努亚。可是，如果我想继续冒险，就必须先修整它。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>塞德努亚现在属于我，但路被碎石土堵住了。如果我想继续前往林端平原，那是这里与反抗湾的交叉路口，就必须修好东方瓮城。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10006</ID>
+			<DefaultText>老通魂者已经离世，荒废的主楼- 即塞德努亚，也在弃置中。或许我应该跟管家谈谈怎样才能找到去反抗湾的路。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10007</ID>
+			<DefaultText>已经清理了去反抗湾的路。我应该尽快赶往城里。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我已经修好了塞德努亚通往外面的路。长路漫漫，不过我还是抵达了反抗湾。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我打算集中财力，修好通往反抗湾的路。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

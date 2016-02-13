@@ -1,0 +1,29 @@
+<StringTableFile>
+  <Name>conversations\08_wilderness\08_cv_drake_skull</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>這龍頭骨衝著東方。地下的土壤柔軟而潮濕。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[埋藏卷軸]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>當你用最後一捧土蓋上卷軸時，另一個聲音再次出現在你腦中。
+
+「幹得好，通魂者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

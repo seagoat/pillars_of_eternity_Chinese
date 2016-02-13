@@ -1,0 +1,78 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\00_dyrwood\00_cv_leaden_key_agent_soul</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>11</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>軀體上殘留著一絲精華，跟騎手揚起的塵土一般，微弱稀薄。
+
+但當你靠近的時候，低聲的指示在你耳邊迴盪，心中的期望使你感到溫暖。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>你看到了先前接觸過的石材機器，但是處於不同的高度和角度，彷彿是通過他人之眼所看到的。
+
+你聽說過那些謠傳，謠傳說你的一些同胞數月前就被遣送到這裡。但你沒發現他們的任何蹤跡-事實上，鵝卵石上積滿了滿滿一層灰土。灰燼。
+
+你忽然知道這會有什麼後果。而你做好了準備。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>你和你的同伴站好了位置。你們堅定得看了對方最後一眼。他們不知道你的名字，你也不知道他們的名字。但你知道你們一起做著神明的事務。剩下的全都不重要。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>石頭位於機器的中心。上面的兩個刻環開始了運作。它們以相反的方向旋轉著，速度逐漸加快。直到像剛上油的車輪一般飛速旋轉著。
+
+洞穴裡傳出風的嘯聲，加速了石環。你緊捂著耳朵，咬著牙關，忍受著這噪音。當你瞥到不同運動的時候，你的眼睛都快閉上了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>[呆著]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>機器周圍成片的三角蓋子如花瓣般展開。你不知道機器裡發生了什麼，但你感到四肢有刺痛感。刺痛在全身擴散，如滾燙的刀子般切割著體內的各個組織和韌帶。
+
+在那全程，你覺得你要倒向那機器了，整個胃都攪著脊柱。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>隨後的一切因為發生得太快，完全搞不明白。
+
+你從那景像在中醒來，發現自己跪著，喘息著，急需空氣。你緩慢抬起頭，膝蓋間的瓦片逐漸變得清晰起來。
+
+你在吸氣期間，記起一番奇怪的景象，你看到在希蘭特裡斯遺跡外面，一群穿著布袍的人處於咆哮的噬魂風暴之中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>看著散落在洞穴地面各處的塵土，你很清楚迪伍德的一切都是由暗灰之鑰所造成的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>Trigger Conv Node 14</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+		<ID>15</ID>
+      <DefaultText>命令很明確。克裡亞班·雷裡格那些機器逐漸失效了，最近出生在迪佛德的一個小男孩靈魂不完整。得修復那些機器。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
+
+

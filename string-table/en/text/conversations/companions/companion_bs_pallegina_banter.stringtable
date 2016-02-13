@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\companions\companion_bs_pallegina_banter</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>48</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Edér, how is it you Eothasians stay so optimistic? The world has not given your kind much reason to hope."</DefaultText>
+      <DefaultText>"Ed&#233;r, how is it you Eothasians stay so optimistic? The world has not given your kind much reason to hope."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Do you still have family living in the Dyrwood, Edér?"</DefaultText>
+      <DefaultText>"Do you still have family living in the Dyrwood, Ed&#233;r?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Edér, how were you able to fight in the Saint's War? I have heard the locals didn't trust any of their Eothasian countrymen."</DefaultText>
+      <DefaultText>"Ed&#233;r, how were you able to fight in the Saint's War? I have heard the locals didn't trust any of their Eothasian countrymen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -171,7 +170,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Then to your good fortune! Ado vidòrio! May you see them all again soon."</DefaultText>
+      <DefaultText>"Then to your good fortune! Ado vid&#242;rio! May you see them all again soon."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

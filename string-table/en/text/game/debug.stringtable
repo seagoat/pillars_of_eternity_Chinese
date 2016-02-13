@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>game\debug</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>8</EntryCount>
@@ -36,7 +35,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Test 6 한국어/조선말</DefaultText>
+      <DefaultText>Test 6 &#54620;&#44397;&#50612;/&#51312;&#49440;&#47568;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

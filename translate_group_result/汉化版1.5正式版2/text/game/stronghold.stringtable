@@ -1,0 +1,448 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>game\stronghold</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>88</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>{0}到 期 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>{0}已 添 加 ！任 务 将 于 {1}后 到 期 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>{0}建 设 完 成 ！</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>已 收 集 加 工 原 料 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>雇 员 发 薪 日 ！</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>{0}正 在 离 开 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>{0}得 到 了 {1}。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>{0}得 到 了 {1}而 重 新 活 跃 起 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>{0}没 有 得 到 {1}。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>{0}没 有 得 到 {1}，将 不 再 活 跃 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>{0} 完 成 ! {1} 带 着  {2} 返 回 要 塞 。战 利 品 在 大 厅 宝 箱 中 ！</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>{0}攻 击 了 据 点 ！</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>{0}没 有 得 到 {1}并 离 开 了 据 点 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>{0}攻 击 了 据 点 ，但 没 有 造 成 伤 害 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>{0}被 摧 毁 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>{0}被 杀 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>你 欠 {0}一 笔 债 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>已 征 收 税 款 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>强 盗 掠 夺 了 {0}。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>获 得 {0}。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>你 的 债 务 还 清 了 ！</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>你 的 债 务 减 少 到 {0}。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>强 盗 掠 夺 了 所 有 收 益 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>发 生 越 狱 ！{0}已 经 逃 出 了 地 牢 ！</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>发 生 绑 架 ！ {0}被 从 据 点 绑 架 了 ！</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>{0}被 绑 匪 杀 掉 了 ！</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>{1}救 出 了 {0}。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>{0}前 来 据 点 拜 访 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>据 说 {0}将 在 {1}后 攻 击 据 点 ！</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>{0}已 经 到 来 并 寻 求 就 业 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>一 组 人 前 来 希 望 释 放 {0}。作 为 交 换 条 件 ，他 们 提 供 {1}或 {2}。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>{0}完 成 护 送 {1}并 返 回 据 点 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>{0}遗 弃 了 {1}。他 们 将 返 回 据 点 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>乞 求 者 已 从 {0}到 来 ，祈 求 {1}或 护 送 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>你 对 待 {0}的 记 忆 正 在 消 退 ，你 的 声 望 已 恢 复 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>{0}已 经 到 来 ，并 能 以 {2}卖 给 你 {1}。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>你 忽 略 了 乞 求 者 ，他 离 开 了 据 点 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>你 忽 略 了 乞 求 者 ，她 离 开 了 据 点 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>{0}离 开 了 据 点 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>{0}正 在 前 往 塞 德 努 亚 ，但 在 路 上 遇 到 强 盗 并 不 得 不 逃 离 。考 虑 提 高 你 的 安 保 程 度 以 确 保 旅 客 的 安 全 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>{0}经 验 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>钱 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>物 品 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>{0}的 声 望 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>{0}和 {1}</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>没 有 新 报 告 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>一 个 北 方 残 酷 的 统 治 者 {0}来 到 了 据 点 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>一 个 当 地 的 傻 瓜 {0}溜 进 了 据 点 并 准 备 住 上 一 段 时 间 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>一 个 叫 做 {0}的 通 缉 罪 犯 来 到 了 据 点 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>一 位 圣 战 的 老 英 雄 {0}已 经 来 到 了 据 点 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>一 个 叫 {0}的 富 有 贵 族 来 到 了 据 点 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>一 名 鹿 丛 高 官 {0}来 到 了 据 点 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>一 个 异 国 商 人 {0}带 着 稀 有 物 品 来 到 了 据 点 并 打 算 提 供 贸 易 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>{0}到 达 据 点 ，提 供 钱 物 希 望 解 决 麻 烦 或 安 全 护 送 通 过 野 外 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>{1}的 一 位 远 亲 抵 达 据 点 ，并 提 供 钱 物 请 求 释 放 他 们 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>一 位 里 德 塞 拉 斯 的 奴 隶 主 {0}已 经 到 达 据 点 ，并 请 求 购 买 一 个 囚 犯 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>一 个 灵 魂 学 者 {0}已 经 到 达 据 点 ，并 请 求 给 他 一 个 囚 犯 来 进 行 实 验 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>第 {0}回 合 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>{3} {6}，{4}：{2}时 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>于 {0}后 完 成 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>于 {0}后 离 开 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>{0}剩 余 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>他 在 路 上 差 点 遇 到 强 盗 ，但 你 的 巡 逻 队 成 功 干 预 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>她 在 路 上 差 点 遇 到 强 盗 ，但 你 的 巡 逻 队 成 功 干 预 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>总 工 资 ：{0}。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>一 次 攻 击 已 迫 在 眉 睫 ，但 你 的 巡 逻 队 阻 止 了 敌 人 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>敌 军 正 在 接 近 你 的 据 点 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>一 项 升 级 已 完 成 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>一 位 访 客 已 经 到 达 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>敌 人 袭 击 了 你 的 据 点 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>雇 员 已 经 得 到 工 资 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>已 征 收 税 款 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>你 的 据 点 可 以 开 始 一 次 新 冒 险 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>一 次 冒 险 已 经 完 成 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>一 个 囚 犯 逃 走 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>一 名 访 客 被 绑 架 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>我 在 科 博 莱 茵 发 现 了 尼 里 德 ，这 个 暴 徒 被 雇 用 冒 充 一 个 欠 供 应 商 债 的 迷 草 商 人 。他 使 用 这 层 身 份 销 售 迷 草 ，从 而 弥 补 供 应 商 的 损 失 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>Naedle是 一 名 暗 灰 之 钥 的 密 探 ，试 图 在 风 暴 墙 大 峡 谷 伏 击 我 。发 现 她 的 同 伴 们 都 不 敢 面 对 我 之 后 ，她 重 新 考 虑 后 投 降 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>Kestorik是 一 名 盘 踞 在 奥 德 努 亚 无 尽 之 路 的 蛛 人 斥 候 。它 要 求 死 亡 ，但 我 认 为 最 好 把 它 锁 在 地 牢 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>艾 弗 雷 是 卫 邦 十 二 人 团 的 成 员 ，其 策 划 了 一 场 反 对 咸 桅 杆 顾 客 的 骚 扰 活 动 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>Esmer队 长 发 现 自 己 在 侵 入 格 兰 法 斯 人 领 地 时 被 包 围 了 。格 兰 法 斯 人 同 意 我 俘 虏 他 之 后 放 他 走 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>艾 奥 恩 是 一 名 因 谋 杀 炼 狱 骑 士 而 遭 通 缉 的 逃 犯 。我 发 现 他 藏 在 反 抗 湾 下 面 的 地 下 墓 穴 并 选 择 以 我 自 己 的 正 义 让 他 为 罪 行 付 出 代 价 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>格 兰 菲 尔 和 一 群 亡 命 之 徒 在 我 经 过 玛 格 岚 岔 口 时 袭 击 了 我 。看 起 来 他 还 没 准 备 好 迎 接 自 己 的 死 亡 ，而 是 乞 求 监 禁 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>{0}：已 死 亡 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>{0}：被 绑 架 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+			<DefaultText>事 件 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+			<DefaultText>{0}：已 忽 略 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>其 它 </DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

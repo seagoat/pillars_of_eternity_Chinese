@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\prototype_2\p2_cv_villager_tavern_female</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“奥斯马尔的啤酒在他的顾客里总是赞不绝口。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“哦，你好！我没见你进来。来，跟我们待一会儿开心开心。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>村民一边笑一边摇晃差点撒了她的酒。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,33 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_cv_weapon_merchant</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>5</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“大 人 ，你 好 。想 要 新 刀 刃 吗 ？或 者 是 新 的 斧 子 ？只 要 是 感 兴 趣 的 东 西 ，我 这 都 有 。”</DefaultText>
+			<FemaleText>“夫 人 ，你 好 。想 要 新 刀 刃 吗 ？或 者 是 新 的 斧 子 ？只 要 是 感 兴 趣 的 东 西 ，我 这 都 有 。” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“只 要 能 用 来 伤 人 ，我 这 就 有 得 卖 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“给 我 看 看 你 的 商 品 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>[离 开 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“想 看 看 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

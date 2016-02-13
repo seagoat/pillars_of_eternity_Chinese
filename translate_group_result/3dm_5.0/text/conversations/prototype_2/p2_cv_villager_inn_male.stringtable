@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\prototype_2\p2_cv_villager_inn_male</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“我已经彻底喝够了酒了。意思就是，你最好握紧你的酒杯，旅行者。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“他们告诉我喝太多了。我想他们只是想要我们我们的物资给他们。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>这男人握着酒杯在桌边，也不知道休息。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

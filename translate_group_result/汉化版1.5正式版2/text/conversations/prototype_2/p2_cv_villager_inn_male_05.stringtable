@@ -1,0 +1,39 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\prototype_2\p2_cv_villager_inn_male_05</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>5</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>别 害 羞 ，问 那 边 的 奥 斯 马 尔 要 杯 酒 ，坐 哪 儿 随 便 你 ！</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>我 觉 得 一 天 辛 苦 的 工 作 应 得 一 杯 冰 凉 的 酒 。
+
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>这 位 男 子 喝 完 一 杯 又 一 杯 ，几 乎 都 是 一 饮 而 尽 。
+
+
+
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>再 来 一 杯 ，奥 斯 马 尔 ！</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>你 才 是 替 鲁 姆 巴 尔 德 杀 死 食 人 魔 的 人 ！</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

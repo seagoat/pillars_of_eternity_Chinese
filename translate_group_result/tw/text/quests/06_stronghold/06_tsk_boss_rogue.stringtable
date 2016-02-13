@@ -1,0 +1,43 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\06_stronghold\06_tsk_boss_rogue</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>懸 賞 ：穆 亞 魯 米 船 長 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>殺 死 安 斯 羅 格 海 岸 的 穆 亞 魯 米 船 長 ，把 他 的 頭 帶 回 來 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>把 穆 亞 魯 米 船 長 的 頭 交 給 塞 德 努 亞 的 費 爾 根 典 獄 長 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>臭 名 昭 著 的 勞 亞 泰 海 盜 ，穆 亞 魯 米 船 長 ，在 安 斯 羅 格 海 岸 登 陸 了 。這 是 一 個 拿 到 他 頭 上 長 期 以 來 懸 賞 的 難 得 機 會 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>海 盜 船 長 穆 亞 魯 米 的 腦 袋 值 一 大 筆 錢 。現 在 我 有 一 個 難 得 的 機 會 ，因 為 他 出 現 在 了 安 斯 羅 格 海 岸 。如 果 我 能 殺 死 他 並 帶 回 他 的 頭 ，那 賞 金 就 是 我 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>穆 亞 魯 米 船 長 已 經 死 了 。我 只 需 要 把 他 的 頭 帶 給 費 爾 根 典 獄 長 換 取 賞 金 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 拿 到 了 穆 亞 魯 米 船 長 的 賞 金 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

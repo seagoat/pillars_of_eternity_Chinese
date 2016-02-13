@@ -1,0 +1,18 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_bs_visitor_wealthy_lord</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>2</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“我 该 带 更 多 包 来 的 。没 带 绿 色 长 袍 我 该 如 何 是 好 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“我 觉 得 这 地 方 打 理 得 很 不 错 。柱 子 上 多 镀 点 金 …再 铺 点 大 理 石 …”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

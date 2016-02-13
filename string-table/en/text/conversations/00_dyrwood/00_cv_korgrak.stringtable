@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\00_dyrwood\00_cv_korgrak</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>73</EntryCount>
@@ -170,7 +169,7 @@ The ogre snorts and tightens his grip around a club. "I've kept to myself. Kille
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>He smashes his club into the ground. "You think I haven't looked? I've wandered the wood from the Isce Îen to here. A spider-filled cave is the best hiding spot I've found yet."</DefaultText>
+      <DefaultText>He smashes his club into the ground. "You think I haven't looked? I've wandered the wood from the Isce &#206;en to here. A spider-filled cave is the best hiding spot I've found yet."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\08_wilderness\07_cv_beafi</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“你们这些下三滥的骗子！我给你们的金币足够用来刺杀国王了——几个旅行者当然应该不在话下！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“遵命。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“在那里，就是那个，就是那个！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“专心看路。肯定会有农民能满足我们的要求。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“我可以让你先选他们身上带的东西。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

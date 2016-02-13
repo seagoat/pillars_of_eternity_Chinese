@@ -1,0 +1,33 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_bs_lka_prisoner</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>5</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“这 完 全 ...没 有 必 要 。放 了 我 吧 。我 会 告 诉 其 他 人 别 来 惹 你 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“告 诉 暗 灰 之 钥 ，奈 尔 德 在 这 里 。你 放 了 我 ，他 们 就 会 慷 慨 支 付 你 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“够 了 ...你 道 明 了 你 的 观 点 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“这 些 恶 臭 的 牢 房 ...你 这 爱 管 闲 事 的 家 伙 ，会 不 会 将 你 的 所 有 敌 人 都 带 到 地 牢 这 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“那 家 伙 又 怎 么 惹 到 你 了 ？你 这 脾 气 啊 ...”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

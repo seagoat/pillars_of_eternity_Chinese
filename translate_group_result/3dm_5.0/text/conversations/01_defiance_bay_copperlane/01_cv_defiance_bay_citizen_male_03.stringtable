@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_defiance_bay_citizen_male_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“我怀疑他们能不能让灯塔恢复工作……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“如果你在找工作的话，探险厅的温南可能会帮上你的忙。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“现在城市里有这么多雇佣兵……有点怕人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>“如果铸铁骑士团不能自主防御，他们又怎么能保护我们？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>“老达尔顿总是有很多故事讲。他最近很安静。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

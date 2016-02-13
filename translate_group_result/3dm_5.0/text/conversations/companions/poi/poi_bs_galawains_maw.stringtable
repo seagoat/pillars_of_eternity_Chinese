@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\companions\poi\poi_bs_galawains_maw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bank Node 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“美好。微妙。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“我认为我岳母的房子有股不祥的感觉。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“还好我们不是从后门进来……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“猎犬。没有自己的思想，执于错误，一道裂纹就可以让它们呜咽悲鸣。什么样的符号才能更贴切地象征寻狩之神格拉文呢？”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

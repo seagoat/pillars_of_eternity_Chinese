@@ -1,0 +1,758 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\14_burial_isle\14_cv_iovara</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>150</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>一 根 绿 萤 柱 在 你 上 方 升 起 ，庄 严 而 沉 默 ，它 上 面 有 着 专 门 用 来 测 量 历 史 长 度 的 测 量 尺 。它 给 你 的 感 觉 就 像 一 大 块 冰 块 ，你 感 觉 自 己 被 深 埋 进 了 它 的 核 心 之 中 ，像 是 风 中 残 烛 ，只 有 灭 亡 的 命 运 ，独 自 抵 抗 着 元 素 的 侵 袭 。你 一 靠 近 ，这 股 火 焰 似 乎 就 变 得 更 稳 定 更 强 大 ，这 种 感 觉 也 从 你 的 身 体 内 消 失 ，你 沐 浴 在 它 的 光 辉 之 中 ，像 是 黑 暗 中 的 灯 塔 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>正 当 你 就 要 适 应 这 股 光 辉 ，它 却 似 乎 要 消 散 了 ，而 在 它 所 在 之 地 ，伊 奥 瓦 拉 缓 缓 现 形 ，不 详 的 阴 影 覆 盖 了 整 个 监 狱 。虽 然 她 永 生 不 老 ，但 是 在 你 看 来 ，她 却 和 以 前 有 些 不 一 样 了 ——也 许 是 她 举 止 中 的 一 丝 颓 废 ，或 许 是 她 眼 中 的 一 丝 堕 落 。她 的 脸 上 有 一 道 宽 阔 的 疤 痕 ，原 本 闪 耀 着 光 辉 的 地 方 ，如 今 却 惨 不 忍 睹 ，即 使 是 死 亡 也 无 法 治 愈 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“你 好 啊 ，兄 弟 。过 了 好 些 年 岁 呢 。”</DefaultText>
+			<FemaleText>“你 好 啊 ，姐 妹 。过 了 好 些 年 岁 呢 。”</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“我 的 老 徒 弟 啊 。很 高 兴 见 到 你 ，但 是 见 到 你 又 让 我 很 担 心 。在 这 么 多 年 之 后 ，你 还 是 依 然 漫 步 在 黑 暗 之 中 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“你 好 啊 ，老 朋 友 。愿 岁 月 对 你 仁 慈 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“所 以 我 的 爱 最 后 终 于 回 到 了 我 的 身 边 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“你 回 来 了 。我 还 以 为 我 那 么 多 年 前 ，让 你 走 上 了 正 确 的 道 路 。 她 摇 摇 头 ，感 觉 非 常 困 扰 。“难 道 我 当 时 只 是 又 一 次 失 败 了 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>她 来 回 打 量 着 你 。“你 和 你 那 时 候 大 不 一 样 了 ，但 是 有 的 地 方 还 是 没 有 变 。一 张 不 一 样 的 脸 上 ，却 是 一 样 的 疑 虑 。“你 来 这 有 什 么 目 的 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>“我 在 这 里 的 事 情 应 该 已 经 办 完 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>“我 来 这 释 放 你 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>“我 来 确 认 你 还 在 为 你 的 罪 行 而 受 难 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>“我 只 是 顺 着 命 运 的 轨 迹 前 行 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>“我 需 要 答 案 ，而 你 最 好 把 答 案 交 出 来 ，幽 灵 ，不 然 不 会 为 你 安 排 比 这 更 悲 惨 的 命 运 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>“除 非 我 的 存 在 就 是 痛 苦 的 ，不 然 我 的 审 判 根 本 无 法 给 我 带 来 苦 难 。我 的 惩 罚 者 的 猜 想 ，没 有 能 够 看 清 我 ， 反 而 暴 露 了 自 己 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>“我 本 来 有 时 间 来 用 所 有 可 能 的 命 运 来 给 自 己 带 来 平 静 。”现 在 已 经 很 少 有 人 能 让 我 感 到 悲 痛 。“但 是 你 的 威 胁 完 全 没 有 必 要 。就 像 以 前 一 样 ，我 现 在 也 会 帮 助 你 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>伊 奥 瓦 拉 对 此 付 之 一 笑 ，就 好 像 听 到 了 什 么 笑 话 。“所 以 这 是 宇 宙 的 意 愿 咯 。真 是 个 不 错 的 理 由 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>“很 勇 敢 ，虽 然 有 点 被 误 导 了 。现 在 我 怀 疑 事 情 远 远 不 止 你 说 的 这 么 简 单 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>“我 希 望 在 我 们 最 后 的 讨 论 之 后 ，你 会 找 到 你 想 要 的 东 西 。你 想 要 的 东 西 一 直 在 躲 避 着 你 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>“我 只 能 猜 测 ，你 在 此 出 现 ，肯 定 和 赛 奥 斯 有 关 。这 个 地 方 的 能 量 ...在 他 靠 近 的 时 候 就 会 变 化 。我 不 知 道 他 做 了 什 么 ，但 是 我 知 道 对 于 现 在 经 过 这 里 的 灵 魂 有 所 了 解 。他 们 并 不 是 自 己 选 择 前 来 的 、”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>“赛 奥 斯 把 它 们 从 轮 回 之 中 派 遣 而 来 。他 想 要 赋 予 沃 迪 卡 力 量 ，然 后 把 他 导 致 的 破 坏 的 责 任 推 卸 给 了 灵 魂 研 究 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>她 摇 了 摇 头 。“即 使 是 在 这 次 所 有 一 切 过 去 之 后 ，他 还 是 会 站 在 风 口 浪 尖 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>“我 看 得 出 他 的 影 响 ，他 就 像 你 脖 子 上 的 一 套 枷 锁 。一 直 都 是 这 样 的 。他 ...激 发 了 你 身 体 里 之 中 的 什 么 东 西 。你 上 次 来 的 时 候 ，我 们 也 说 了 他 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>“当 时 是 在 审 判 之 后 。你 当 时 很 ...焦 虑 ，我 认 为 那 是 因 为 你 开 始 考 虑 ，我 以 前 告 诉 你 的 ，可 能 是 真 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>“那 是 什 么 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>“我 告 诉 你 的 事 ，我 们 帮 助 他 们 散 播 信 仰 的 那 些 神 ，根 本 就 不 是 神 ，而 是 某 些 完 全 不 同 的 东 西 。某 种 被 认 为 创 造 出 来 的 东 西 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>“你 是 怎 么 发 现 的 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>“你 告 诉 我 的 ，是 真 的 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>“这 就 是 你 发 展 自 己 的 信 仰 的 原 因 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>“我 从 未 将 其 视 为 信 仰 ，但 是 我 认 为 你 把 它 称 为 信 仰 也 不 错 。“让 整 个 世 界 看 清 楚 。让 它 们 决 定 应 该 怎 么 做 ，那 就 是 我 的 信 仰 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>“是 谁 创 造 了 这 些 神 ？又 是 为 了 什 么 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>“他 们 被 因 格 维 斯 人 构 想 出 来 ，那 是 一 个 思 想 觉 悟 很 高 ，高 瞻 远 瞩 的 群 体 。赛 奥 斯 的 人 民 。 “在 他 们 的 时 代 ，每 个 人 拥 护 着 自 己 的 神 。有 的 时 候 他 们 因 此 而 发 起 战 争 。在 他 们 征 战 过 后 ，因 格 维 斯 人 想 到 了 解 决 的 方 法 。他 们 致 力 于 寻 找 真 的 造 物 者 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>“结 果 寻 找 出 来 的 结 果 让 它 们 震 惊 。如 果 他 们 自 己 发 现 了 结 果 ，那 么 离 其 他 人 发 现 又 有 多 远 ？无 尽 的 征 战 和 混 乱 又 有 多 远 呢 ？“但 是 在 他 们 追 求 答 案 的 路 上 ，他 们 掌 握 了 许 多 东 西 。他 们 用 自 己 的 本 领 打 造 了 他 们 自 己 的 神 来 填 补 空 白 ，并 且 派 遣 传 教 士 到 世 界 的 每 个 角 落 散 播 他 们 的 信 仰 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>“我 之 所 以 成 为 传 教 士 ，是 因 为 神 给 我 带 来 了 希 望 ，我 想 把 希 望 带 给 更 多 人 。但 是 有 一 段 时 期 ，真 相 让 我 走 入 了 绝 境 。然 后 我 意 识 到 ，一 切 都 没 有 改 变 。我 还 是 有 一 个 目 标 ，这 个 目 标 没 有 改 变 ，它 值 得 我 为 之 奋 斗 。“我 开 始 当 众 质 问 其 他 传 教 士 。揭 穿 他 们 的 魔 术 把 戏 。到 时 候 ，他 们 的 追 随 者 就 变 成 了 我 的 追 随 者 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>“因 格 维 斯 传 教 士 们 都 知 道 ，但 是 他 们 从 来 没 告 诉 我 们 其 他 人 。他 们 想 让 那 变 成 自 己 带 进 棺 材 的 秘 密 ，然 后 最 后 他 们 让 自 己 的 血 脉 从 人 们 的 记 忆 中 消 失 。“我 在 一 个 神 庙 加 入 了 它 们 。我 找 到 了 进 入 他 们 密 室 的 门 ，但 是 房 间 是 石 头 做 的 ，门 很 薄 。他 们 的 声 音 传 了 出 来 。我 听 到 了 ...足 够 多 的 内 容 。我 调 查 了 他 们 提 到 的 东 西 ，这 一 切 都 存 在 ，就 跟 他 们 说 的 分 毫 不 差 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>“在 我 离 开 教 团 以 后 ，一 些 因 格 维 斯 人 发 现 了 我 的 话 很 有 道 理 ，就 加 入 了 我 的 事 业 。他 们 还 给 我 透 露 了 一 些 我 所 不 知 道 的 事 情 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>“你 以 前 也 问 过 我 这 个 。我 没 什 么 好 辩 护 的 ，那 可 能 是 你 灵 魂 所 渴 求 的 必 然 。解 决 方 法 。但 是 如 果 你 要 前 往 赛 奥 斯 将 那 些 灵 魂 派 去 的 地 方 ，你 就 得 自 己 去 了 ，就 和 你 以 前 一 样 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>“你 和 我 都 知 道 有 的 事 物 ，是 不 会 被 摧 毁 的 。你 真 的 想 要 知 道 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>“怎 么 会 那 样 ？如 果 没 有 神 ，这 一 切 怎 么 会 发 生 ？”|</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>“那 女 人 说 谎 。她 不 过 是 另 一 种 狂 信 者 。她 可 能 对 圣 典 和 教 义 有 质 疑 ，但 是 火 焰 的 真 相 是 无 可 否 认 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>问 题 在 哀 伤 之 母 的 心 头 盘 旋 ，一 个 模 糊 而 无 从 确 认 的 问 题 。“我 们 都 是 孩 子 ...孤 苦 伶 仃 。那 么 ，我 们 应 该 从 哪 里 寻 求 指 引 呢 ？去 哪 里 寻 求 保 护 呢 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>“如 果 她 是 对 的 ，那 些 神 不 是 真 的 ...”希 拉 维 亚 斯 的 话 被 中 途 打 断 ，他 的 脸 上 深 情 悲 伤 。“我 们 一 直 以 来 都 是 在 拥 护 着 什 么 ？”他 表 情 不 屑 ，吐 了 一 口 痰 在 地 上 。“她 对 于 一 件 事 情 说 对 了 ：没 有 什 么 比 亲 眼 所 见 更 真 实 的 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>“...所 以 即 使 诸 神 是 因 格 维 斯 人 的 谎 言 。难 道 因 格 维 斯 人 就 全 都 是 诈 骗 犯 ，谎 言 家 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>“一 直 都 是 一 场 骗 局 ，是 吧 ？如 果 我 没 有 表 现 出 震 惊 ，请 原 谅 我 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>“即 使 如 此 ，对 神 的 信 仰 这 么 多 年 来 ，对 于 生 命 与 文 明 的 影 响 都 是 无 与 伦 比 的 。这 样 的 事 实 ，难 道 没 有 在 某 种 意 义 上 ，把 神 变 成 真 实 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>Bank Node 78</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>“每 个 人 有 时 候 都 要 面 对 这 样 的 事 实 。很 少 人 会 去 正 面 质 疑 。很 少 人 会 有 那 个 闲 心 去 问 那 个 “如 果 呢 ？”为 了 回 避 这 个 问 题 ，他 们 甚 至 愿 意 否 认 自 己 的 身 份 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>她 看 向 艾 德 。“如 果 所 有 的 策 略 ，所 有 的 迫 害 ，都 是 一 个 骗 局 的 自 我 防 护 呢 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>伊 奥 瓦 拉 静 静 扫 了 一 眼 她 的 听 众 ，她 的 眼 神 若 有 所 思 ，一 个 一 个 瞥 过 你 队 伍 里 的 成 员 ，发 现 了 一 些 看 不 见 的 东 西 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>“那 不 ——那 不 可 能 是 真 的 。伊 欧 萨 斯 ，他 ——他 为 人 民 展 现 了 奇 迹 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>她 把 注 意 力 转 向 了 杜 兰 斯 。“如 果 那 只 是 被 封 禁 的 知 识 ，而 不 是 导 致 你 厄 运 的 错 误 呢 ？和 你 的 罪 恶 有 什 么 关 系 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>杜 兰 斯 嘴 巴 紧 闭 ，脸 色 铁 青 。“玛 格 岗 给 我 设 定 了 一 条 道 路 。她 善 变 又 残 忍 ，但 是 那 就 是 她 教 育 的 方 式 。你 对 于 塑 造 我 的 火 焰 ，一 无 所 知 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+			<DefaultText>她 的 眼 睛 停 留 在 亚 洛 斯 身 上 。“如 果 你 在 没 有 指 引 的 情 况 下 ，一 直 都 是 一 个 人 呢 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>亚 洛 斯 把 双 手 放 在 身 后 ，紧 缩 双 眉 。“喔 ，我 选 择 我 的 指 导 者 选 择 得 很 糟 糕 ，我 觉 得 等 我 知 道 我 摆 脱 了 他 们 ，一 定 会 觉 得 如 释 重 负 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+			<DefaultText>她 抬 头 看 着 卡 纳 ·鲁 亚 。“如 果 我 们 所 有 的 共 同 想 法 都 是 由 谎 言 编 制 而 成 ，还 有 什 么 能 把 我 们 连 接 在 一 起 呢 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+			<DefaultText>卡 纳 微 微 皱 眉 。“几 千 年 以 来 ，因 格 维 斯 的 谎 言 遮 挡 住 我 们 的 视 线 。如 果 我 们 从 来 没 有 机 会 去 发 现 ，我 们 怎 么 能 说 就 没 有 别 的 方 法 了 呢 ？始 终 还 是 有 办 法 的 ，就 在 我 们 从 来 没 有 想 到 过 的 地 方 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+			<DefaultText>她 的 视 线 转 向 了 莎 加 妮 。“如 果 我 们 身 上 的 责 任 之 所 以 落 在 我 们 身 上 并 不 是 因 为 应 该 如 此 ，而 是 因 为 恰 巧 发 生 在 我 们 身 上 呢 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>94</ID>
+			<DefaultText>莎 加 妮 耸 耸 肩 。“他 们 把 我 们 都 塑 造 得 一 模 一 样 。不 管 我 怎 么 努 力 ，珀 索 克 甚 至 变 成 了 一 只 鹿 。任 务 落 在 我 身 上 ，然 后 我 完 成 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>95</ID>
+			<DefaultText>她 考 虑 到 帕 勒 吉 娜 。“如 果 即 使 是 掌 控 世 界 一 切 的 权 威 也 无 法 回 答 最 基 础 的 问 题 呢 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>96</ID>
+			<DefaultText>“我 很 久 以 前 就 不 再 问 那 些 问 题 了 。在 我 们 生 命 有 限 的 时 间 内 关 心 那 些 我 们 爱 的 人 ，就 足 够 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>97</ID>
+			<DefaultText>她 直 面 着 哀 伤 之 母 ，就 和 她 看 着 所 有 人 的 目 光 一 样 地 看 着 她 。“如 果 生 死 的 轮 回 不 过 是 被 某 些 人 利 用 的 一 种 工 具 呢 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>98</ID>
+			<DefaultText>哀 伤 之 母 回 应 了 伊 奥 瓦 拉 的 目 光 ，难 以 察 觉 地 点 了 点 头 。有 那 么 一 瞬 间 ，万 籁 俱 寂 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>99</ID>
+			<DefaultText>伊 奥 瓦 拉 点 头 回 应 ，看 起 来 像 是 被 某 种 不 言 而 喻 的 共 识 所 打 动 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>100</ID>
+			<DefaultText>她 向 希 拉 维 亚 斯 示 意 ，当 她 的 目 光 降 临 的 时 候 ，希 拉 维 亚 斯 的 耳 朵 抽 动 了 一 下 。“如 果 向 导 自 己 都 不 认 识 路 呢 ？那 你 该 如 何 选 择 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>101</ID>
+			<DefaultText>“喔 ...”希 拉 维 亚 斯 双 手 叠 在 胸 前 ，把 一 只 手 撑 起 下 巴 。“我 觉 得 ...，”希 拉 维 亚 斯 微 笑 ，回 应 道 ，“我 会 选 择 让 我 更 强 大 的 那 个 ...但 是 我 并 不 是 根 据 加 拉 维 恩 的 意 愿 行 事 ，而 是 根 据 自 己 想 要 的 行 事 。”希 拉 维 亚 斯 露 出 笑 容 ，突 然 脸 又 红 了 。他 快 速 低 下 了 头 ，你 听 见 他 轻 声 低 语 ：“噢 加 拉 维 恩 ，您 卑 微 的 仆 人 正 在 用 各 种 修 辞 手 法 说 话 呢 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>102</ID>
+			<DefaultText>“神 的 力 量 是 无 法 被 否 认 的 。但 是 他 们 编 造 的 故 事 却 可 以 被 否 认 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>103</ID>
+			<DefaultText>“但 是 如 果 火 焰 本 身 就 是 谎 言 呢 ？是 你 用 来 沟 通 经 验 与 事 实 的 谎 言 ？”杜 兰 斯 的 前 额 冒 汗 ，汗 珠 像 是 小 溪 一 般 往 他 的 脸 两 边 滑 落 ，他 整 个 人 就 像 是 立 在 火 堆 前 的 一 大 块 冰 块 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>105</ID>
+			<DefaultText>“自 由 一 直 都 是 这 样 的 。那 种 指 引 不 过 是 一 种 错 觉 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>111</ID>
+			<DefaultText>你 的 灵 魂 感 受 到 伊 奥 瓦 拉 那 半 透 明 的 眼 睛 的 重 量 。“如 果 我 们 无 法 证 实 任 何 事 呢 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>112</ID>
+			<DefaultText>“那 么 仅 有 的 价 值 就 存 在 我 们 我 们 自 己 创 造 的 事 物 之 中 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>113</ID>
+			<DefaultText>“那 么 我 们 最 好 要 自 己 使 自 己 强 大 起 来 ，好 让 我 们 能 够 忍 受 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>114</ID>
+			<DefaultText>“那 么 除 非 我 们 完 全 消 失 ，才 能 找 到 平 静 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>115</ID>
+			<DefaultText>“所 以 说 ，问 题 所 展 现 出 来 的 价 值 要 远 高 于 答 案 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>116</ID>
+			<DefaultText>“那 么 越 少 人 意 识 到 ，就 越 好 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>117</ID>
+			<DefaultText>“那 么 我 们 所 能 做 的 ，就 只 有 忍 耐 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>118</ID>
+			<DefaultText>帕 勒 吉 娜 点 头 表 示 同 意 。“确 实 。我 们 从 我 们 自 身 和 我 们 生 命 中 的 那 些 人 之 中 找 到 了 目 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>119</ID>
+			<DefaultText>“说 起 话 来 就 像 一 个 真 正 的 猎 人 一 样 ，我 的 朋 友 。”希 拉 维 亚 斯 拍 拍 你 的 肩 膀 ，对 你 咧 嘴 一 笑 。“基 拉 维 恩 交 给 我 们 的 就 是 ，我 们 不 仅 对 我 们 自 身 的 力 量 有 责 任 。而 且 如 果 诸 神 不 是 真 实 存 在 的 ，那 么 我 们 就 真 的 只 能 靠 我 们 自 己 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>121</ID>
+			<DefaultText>“说 的 好 ，”希 拉 维 亚 斯 点 点 头 说 。“想 一 想 我 们 这 次 的 整 个 对 话 ...不 管 诸 神 是 不 是 真 实 存 在 的 ，我 们 都 应 该 知 道 ，要 对 我 们 所 知 道 的 东 西 多 思 考 。即 使 是 我 们 无 法 肯 定 地 回 答 它 们 是 不 是 真 的 存 在 ，探 索 的 过 程 会 让 我 们 成 长 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>122</ID>
+			<DefaultText>“是 啊 ，恐 怕 你 是 对 的 。”亚 洛 斯 的 声 音 很 平 静 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>123</ID>
+			<DefaultText>卡 纳 把 目 光 挪 开 。“也 许 。如 果 我 能 够 再 一 次 相 信 我 在 离 开 劳 亚 泰 的 时 候 相 信 的 那 些 ...”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>124</ID>
+			<DefaultText>“并 且 享 受 我 们 所 拥 有 的 一 切 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>125</ID>
+			<DefaultText>“在 我 们 所 创 造 的 生 活 中 。这 不 就 是 母 性 的 本 质 吗 ？去 创 造 ...去 珍 惜 ...去 养 育 ...去 为 了 另 一 个 目 的 而 献 出 自 己 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>126</ID>
+			<DefaultText>亚 洛 斯 举 起 他 的 手 。不 正 是 那 些 让 我 们 来 到 这 里 的 吗 ？寻 找 那 个 困 扰 了 你 一 生 的 人 ，那 个 我 在 不 知 不 觉 中 追 随 了 数 年 的 人 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>127</ID>
+			<DefaultText>“在 这 件 事 上 ，我 们 也 没 什 么 选 择 可 言 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>128</ID>
+			<DefaultText>“允 许 他 人 生 活 在 黑 暗 之 中 ，不 仅 仅 是 因 为 他 们 软 弱 ，也 是 因 为 你 的 软 弱 ，通 魂 者 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>129</ID>
+			<DefaultText>“通 魂 者 ，正 是 审 判 ，塑 造 了 现 在 的 我 们 。我 不 是 一 直 都 是 这 么 说 的 吗 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>130</ID>
+			<DefaultText>Bank Node 130</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>131</ID>
+			<DefaultText>Bank Node 131</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>133</ID>
+			<DefaultText>Bank Node 133</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>134</ID>
+			<DefaultText>Bank Node 134</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>135</ID>
+			<DefaultText>Bank Node 135</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>136</ID>
+			<DefaultText>“在 我 们 所 创 造 的 东 西 中 我 们 能 找 到 快 乐 ，也 会 找 到 悲 伤 。所 有 被 创 造 物 都 要 忍 受 它 的 创 造 者 的 缺 陷 ，以 及 它 创 造 者 的 创 造 者 。 “艺 术 和 歌 谣 是 被 创 造 出 来 的 ，武 器 和 谎 言 也 是 被 创 造 出 来 的 。我 们 必 须 要 当 心 ，不 要 被 自 己 的 创 造 物 所 毁 灭 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>138</ID>
+			<DefaultText>“不 知 道 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>139</ID>
+			<DefaultText>“你 不 需 要 那 样 。“你 选 择 去 做 的 一 切 ，自 然 会 给 你 答 案 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>142</ID>
+			<DefaultText>“但 是 力 量 不 是 被 给 予 的 ，而 是 自 己 争 取 的 ，而 且 还 需 要 付 出 代 价 。你 愿 意 为 之 牺 牲 什 么 ，谁 会 给 你 买 单 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>143</ID>
+			<DefaultText>“也 许 ，我 们 获 得 平 静 的 最 大 资 本 ，就 是 我 们 自 己 。只 要 ‘我 ’这 个 概 念 存 在 ，就 会 有 需 要 ，有 纷 争 ，有 苦 难 。但 是 如 果 是 因 为 那 个 原 因 ，你 所 说 的 平 静 ，就 没 有 人 能 够 感 受 到 。那 是 平 静 ，还 是 空 虚 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>144</ID>
+			<DefaultText>“问 题 就 是 一 种 旅 程 ，而 正 是 这 种 旅 程 塑 造 了 我 们 ，就 是 这 样 。但 是 当 一 段 旅 程 让 我 们 走 向 另 一 端 旅 程 ，那 一 个 人 要 怎 么 才 能 得 到 休 憩 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>149</ID>
+			<DefaultText>“我 们 都 知 道 至 少 会 有 一 个 人 ，希 望 没 有 人 知 道 真 相 。他 把 成 百 上 千 的 异 教 者 定 罪 ，然 而 他 才 是 真 正 缺 乏 信 仰 的 那 个 。“我 为 他 所 承 担 的 东 西 感 到 同 情 。他 完 全 没 有 必 要 这 么 做 ，却 独 自 承 担 着 这 份 重 担 。我 希 望 他 能 够 让 自 己 解 脱 ，把 这 份 重 担 分 享 出 去 。但 是 他 低 估 了 所 有 人 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>150</ID>
+			<DefaultText>“命 运 的 车 轮 似 乎 让 我 们 所 有 人 都 无 从 选 择 。虽 然 显 然 我 们 能 做 到 的 不 仅 仅 只 有 忍 受 。显 然 ，当 真 相 昭 示 给 所 有 人 之 后 ，这 种 苦 难 就 能 够 被 克 服 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>152</ID>
+			<DefaultText>她 叹 息 着 。“神 并 不 是 真 的 存 在 的 事 实 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>154</ID>
+			<DefaultText>Bank Node 154</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>156</ID>
+			<DefaultText>“不 可 能 是 这 样 的 。”他 又 看 向 你 ，希 望 从 你 这 得 到 证 实 。“我 们 追 随 了 他 们 数 千 年 。如 果 那 是 真 的 的 话 ...”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>157</ID>
+			<DefaultText>“她 不 是 在 说 真 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>158</ID>
+			<DefaultText>“哈 ！也 许 对 她 来 说 不 是 。世 界 上 有 许 多 不 被 神 重 视 的 人 。这 可 真 是 报 应 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>159</ID>
+			<DefaultText>卡 纳 轻 声 笑 着 ，尽 管 他 脸 上 的 神 情 很 困 惑 。“有 一 种 理 论 过 于 大 胆 ，比 我 还 要 大 胆 得 多 。...但 是 我 们 亲 自 见 证 了 神 的 影 响 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>160</ID>
+			<DefaultText>“胡 说 八 道 ！”希 拉 维 亚 斯 尖 叫 着 ，这 句 感 叹 从 他 的 口 中 说 出 的 瞬 间 ，他 的 脸 变 红 了 。“显 然 她 没 有 承 受 过 神 罚 的 可 怕 ...到 时 候 她 就 知 道 神 有 多 真 实 了 ...”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>161</ID>
+			<DefaultText>帕 勒 吉 娜 猛 地 回 过 头 ，愉 快 地 笑 起 来 。“哈 哈 哈 哈 ！当 然 不 ！这 一 切 现 在 都 说 得 通 了 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>162</ID>
+			<DefaultText>莎 加 妮 眯 起 眼 睛 。“那 应 该 不 可 能 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>167</ID>
+			<DefaultText>[Background:Nihilist] “我 就 知 道 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>171</ID>
+			<DefaultText>“赛 奥 斯 了 解 我 ，你 也 了 解 我 。那 次 的 事 情 ，我 有 点 东 西 想 要 了 解 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>172</ID>
+			<DefaultText>伊 奥 瓦 拉 点 点 头 。“我 会 告 诉 你 我 记 得 的 事 情 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>179</ID>
+			<DefaultText>“在 那 一 辈 子 ，有 些 东 西 我 的 灵 魂 无 法 忘 怀 。我 想 知 道 那 是 什 么 ，然 而 我 快 没 时 间 了 。我 看 到 了 那 一 世 的 一 些 片 段 。关 于 你 ，关 于 审 判 ，关 于 赛 奥 斯 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>274</ID>
+			<DefaultText>“他 们 一 代 接 一 代 地 刺 激 着 这 个 世 界 的 伤 痕 ，探 究 着 这 个 世 界 的 秘 密 。有 一 天 他 们 会 发 现 一 个 答 案 ——但 是 这 个 答 案 就 是 没 有 答 案 。根 本 就 没 有 神 。或 者 曾 经 有 ，但 是 他 们 早 就 离 开 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>320</ID>
+			<DefaultText>Trigger Conv Node 320</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>321</ID>
+			<DefaultText>Trigger Conv Node 320</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>322</ID>
+			<DefaultText>Trigger Conv Node 320</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>323</ID>
+			<DefaultText>Trigger Conv Node 320</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>324</ID>
+			<DefaultText>Trigger Conv Node 320</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>325</ID>
+			<DefaultText>Trigger Conv Node 320</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>326</ID>
+			<DefaultText>Trigger Conv Node 320</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>327</ID>
+			<DefaultText>“如 果 没 有 人 知 道 方 法 呢 ？”希 拉 维 亚 斯 看 着 她 ，她 挠 着 下 巴 ，笑 了 起 来 。“瓦 尔 的 任 何 学 生 都 知 道 你 的 问 题 无 关 痛 痒 。不 管 他 们 是 否 拥 有 智 慧 ，诸 神 也 无 法 给 予 你 永 恒 的 智 慧 ——他 们 只 能 启 发 你 去 寻 找 智 慧 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>328</ID>
+			<DefaultText>亚 洛 斯 摇 摇 头 。“你 怎 么 能 那 么 说 ？你 会 让 人 们 成 为 谎 言 的 努 力 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>329</ID>
+			<DefaultText>亚 洛 斯 展 现 出 一 个 苦 涩 ，干 枯 的 笑 容 。“在 叶 精 提 出 这 个 主 意 的 时 候 ，我 就 觉 得 害 怕 。现 在 我 居 然 感 觉 如 释 重 负 ...”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>330</ID>
+			<DefaultText>“那 么 我 们 就 会 一 劳 永 逸 地 拜 托 这 一 切 胡 闹 的 破 事 。很 好 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>331</ID>
+			<DefaultText>亚 洛 斯 吞 咽 着 ，他 的 下 巴 紧 闭 。“那 么 那 就 是 因 为 我 已 经 想 办 法 找 到 了 自 己 的 方 向 。”他 皱 了 皱 眉 。“但 是 有 多 少 人 能 够 在 你 提 供 的 现 实 中 找 到 目 标 和 满 足 呢 ？这 能 够 让 那 些 在 一 场 思 想 的 战 争 过 后 得 知 他 们 的 孩 子 是 无 魂 儿 的 家 庭 感 到 欣 慰 吗 ？这 能 够 镇 压 在 反 抗 湾 发 生 的 暴 乱 吗 ？”他 摇 摇 头 。“但 是 诸 神 是 被 创 造 出 来 的 ，他 们 现 在 存 在 了 。那 才 是 重 要 之 处 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>332</ID>
+			<DefaultText>莎 加 妮 看 着 你 ，忧 虑 在 她 的 眉 眼 之 间 浮 现 。“如 果 你 千 辛 万 苦 寻 找 的 就 是 这 个 ...我 很 遗 憾 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>334</ID>
+			<DefaultText>“那 就 更 有 理 由 丢 弃 它 们 了 。超 过 这 辈 子 的 事 情 ，我 们 无 法 保 证 。最 好 趁 我 们 还 能 享 受 的 时 候 好 好 享 受 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>335</ID>
+			<DefaultText>莎 加 妮 的 脸 冰 冷 而 平 静 。“不 管 怎 么 样 ，我 们 都 实 现 了 。因 为 那 些 事 对 我 们 身 边 的 所 有 人 都 仍 然 重 要 ，即 使 我 们 要 更 加 了 解 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>336</ID>
+			<DefaultText>莎 加 妮 皱 了 皱 眉 。“我 虽 然 很 讨 厌 这 样 说 ，有 的 东 西 我 我 希 望 我 不 知 道 。在 我 还 相 信 五 年 的 时 间 可 能 会 改 变 一 些 事 情 的 时 候 ，我 还 更 开 心 一 点 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>337</ID>
+			<DefaultText>莎 加 妮 整 张 脸 上 的 油 彩 都 因 为 她 的 愁 容 而 扭 曲 。“不 可 能 那 么 糟 糕 。我 们 所 忍 受 的 这 些 挑 战 ，我 们 在 困 难 面 前 做 出 的 选 择 ——那 些 事 情 塑 造 了 我 们 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>338</ID>
+			<DefaultText>莎 加 妮 整 张 脸 上 的 油 彩 都 因 为 她 糟 糕 的 愁 容 而 扭 曲 。“恐 怕 你 是 对 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>339</ID>
+			<DefaultText>“自 从 那 之 后 ...如 果 诸 神 不 是 真 的 存 在 ，也 许 他 们 现 在 真 的 存 在 。真 实 得 足 够 起 到 鼓 舞 的 作 用 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>340</ID>
+			<DefaultText>卡 纳 看 着 伊 奥 瓦 拉 ，表 情 晦 涩 。“但 是 那 不 ...那 就 是 我 们 寻 求 的 事 实 嘛 ？即 使 是 神 ，也 是 虚 伪 的 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>341</ID>
+			<DefaultText>“你 不 能 那 么 说 。想 一 想 我 们 所 发 现 的 事 实 。我 们 找 到 的 一 切 答 案 。有 时 很 艰 难 ，但 起 码 那 些 都 是 真 实 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>342</ID>
+			<DefaultText>“我 们 所 见 之 物 ，我 们 所 讲 诉 的 故 事 。”如 果 除 了 那 些 以 外 ，这 个 世 界 就 没 有 真 实 的 东 西 了 ，我 也 很 满 足 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>343</ID>
+			<DefaultText>“...哈 。她 说 得 好 像 这 是 个 残 忍 的 事 实 ，但 是 仔 细 想 想 ，我 的 朋 友 。这 一 次 的 所 有 事 情 ，所 有 这 些 力 量 ——都 是 因 格 维 斯 人 干 的 。是 好 人 干 的 。凭 空 召 唤 出 了 神 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>344</ID>
+			<DefaultText>卡 纳 若 有 所 思 地 点 了 点 头 。 “我 们 所 有 人 ，整 个 伊 欧 拉 的 人 ，都 想 要 生 存 。想 要 搞 懂 这 个 世 界 。除 了 那 场 斗 争 ，还 有 什 么 能 够 更 好 地 把 我 们 结 合 在 一 起 呢 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>345</ID>
+			<DefaultText>卡 纳 鲁 亚 思 考 了 一 会 。然 后 他 的 脸 上 露 出 了 灿 烂 的 笑 容 。“你 理 解 错 了 。最 好 的 故 事 ，往 往 都 是 谎 言 。但 是 不 管 怎 么 样 ，它 们 都 教 会 我 们 道 理 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>346</ID>
+			<DefaultText>“让 愿 望 和 梦 想 把 我 们 连 接 在 一 起 ，而 不 是 恐 惧 。我 们 已 经 把 那 种 联 接 制 造 了 出 来 ，成 功 地 团 结 了 人 们 。你 要 把 它 拆 开 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>347</ID>
+			<DefaultText>卡 纳 摇 了 摇 头 。“别 看 着 我 。也 许 并 没 有 什 么 把 我 们 连 接 在 一 起 。劳 亚 泰 把 它 自 己 一 分 为 二 ，紧 紧 追 逐 着 真 相 。” “而 我 ...我 希 望 我 在 博 学 学 院 的 大 厅 能 够 满 足 我 对 真 相 的 欲 望 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>348</ID>
+			<DefaultText>“我 ...我 不 知 道 。我 从 来 没 有 找 到 过 我 寻 找 的 答 案 。” “但 是 穿 过 每 一 个 过 度 ，都 是 同 样 的 诸 神 在 统 治 。一 种 存 在 于 谎 言 之 中 的 东 西 。其 中 有 一 种 力 量 ，不 管 是 什 么 把 我 们 分 开 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>349</ID>
+			<DefaultText>“我 ...我 不 知 道 。我 从 来 没 有 找 到 过 我 寻 找 的 答 案 。” “但 是 我 们 毕 竟 找 到 了 ...我 认 为 诸 神 还 不 够 。也 许 这 种 连 接 正 在 被 拆 散 。这 个 谎 言 实 在 太 老 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>350</ID>
+			<DefaultText>“我 认 为 也 许 我 们 都 注 定 被 分 开 。为 了 寻 求 真 相 所 付 出 的 所 有 努 力 和 寻 找 都 会 付 诸 东 流 ——因 为 根 本 就 没 有 真 相 。” 卡 纳 把 目 光 挪 开 。“我 们 在 没 有 答 案 的 地 方 寻 找 答 案 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>351</ID>
+			<DefaultText>“而 且 也 许 我 们 只 是 需 要 新 的 故 事 ，在 这 新 的 时 代 。一 些 新 的 谎 言 ，能 够 重 新 把 我 们 团 结 起 来 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>352</ID>
+			<DefaultText>“我 们 会 找 到 我 们 自 己 的 真 相 。如 果 有 必 要 的 话 ，我 们 就 制 造 真 相 。我 们 不 需 要 一 个 古 老 的 谎 言 来 支 撑 我 们 。因 格 维 斯 人 团 结 起 来 创 造 神 明 。平 凡 的 男 女 老 幼 ，团 结 一 致 去 创 造 不 可 能 的 存 在 。让 我 们 超 过 他 们 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>353</ID>
+			<DefaultText>“我 不 需 要 去 更 高 的 地 方 寻 求 答 案 。我 需 要 的 只 是 服 务 我 的 家 族 ，获 得 他 们 的 认 可 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>355</ID>
+			<DefaultText>“我 曾 经 亲 眼 看 到 过 我 的 女 神 的 骗 局 。通 魂 者 也 给 我 展 示 了 那 么 多 。“但 是 知 道 现 在 我 才 理 解 她 有 多 么 绝 望 。她 的 骗 局 的 深 度 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>356</ID>
+			<DefaultText>“你 说 到 她 的 骗 局 ，那 么 你 自 己 的 呢 ？是 她 的 话 让 你 走 上 了 你 自 己 的 道 路 ，还 是 因 为 没 有 她 的 话 ，才 让 你 破 碎 的 思 绪 填 补 了 你 的 空 隙 ？”杜 兰 斯 的 前 额 冒 汗 ，汗 珠 像 是 小 溪 一 般 往 他 的 脸 两 边 滑 落 ，他 整 个 人 就 像 是 立 在 火 堆 前 的 一 大 块 冰 块 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>357</ID>
+			<DefaultText>“这 是 事 实 ，而 不 是 我 的 提 议 。不 管 你 接 不 接 受 ，它 都 存 在 。“还 有 你 说 的 这 些 东 西 ，这 些 急 需 治 疗 的 疾 病 。问 问 你 自 己 ，如 果 神 明 没 有 造 成 影 响 ，这 些 东 西 还 会 存 在 吗 ？或 者 说 ，这 个 世 界 就 会 变 得 更 好 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>358</ID>
+			<DefaultText>“由 谎 言 编 织 出 来 的 团 结 ，终 究 会 自 行 毁 灭 ，我 的 朋 友 ，因 为 我 们 的 天 性 就 是 寻 求 真 相 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>360</ID>
+			<DefaultText>伊 奥 瓦 拉 的 嘴 巴 紧 闭 ，眉 头 紧 皱 ，表 情 不 好 看 。她 的 视 线 在 你 的 双 眼 附 近 来 回 转 动 ，好 像 在 寻 找 能 够 让 她 决 定 自 己 是 否 要 发 言 的 东 西 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

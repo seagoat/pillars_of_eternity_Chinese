@@ -1,0 +1,58 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_cv_chapel_priest</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>10</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“你 好 ，主 人 。感 谢 你 将 我 们 的 教 堂 恢 复 昔 日 的 辉 煌 。我 相 信 神 看 好 你 身 上 。”</DefaultText>
+			<FemaleText>“你 好 ，夫 人 。感 谢 你 将 我 们 的 教 堂 恢 复 昔 日 的 辉 煌 。我 相 信 神 看 好 你 身 上 。” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“又 见 面 了 ，主 人 。一 切 安 好 吧 ？”</DefaultText>
+			<FemaleText>“又 见 面 了 ，夫 人 。一 切 安 好 吧 ？” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“我 看 看 你 有 什 么 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>&quot;再 见 。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“我 已 经 收 集 了 卷 轴 上 找 到 的 一 切 ，或 许 你 能 在 旅 途 上 派 上 用 场 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“愿 双 子 神 赐 予 你 祝 福 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“愿 闪 耀 之 主 的 光 芒 照 耀 我 们 两 ，并 引 导 我 们 走 出 黑 暗 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“愿 玛 格 岚 赐 予 你 克 服 试 炼 的 力 量 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>“当 试 炼 成 为 你 的 负 担 ，记 住  - 雕 像 等 待 着 你 。你 的 时 代 将 到 来 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>“在 这 神 秘 的 时 刻 ，我 敢 肯 定 隐 匿 者 在 我 们 中 间 穿 梭 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

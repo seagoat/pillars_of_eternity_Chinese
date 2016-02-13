@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>game\maps</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>153</EntryCount>
@@ -21,7 +20,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Clîaban Rilag</DefaultText>
+      <DefaultText>Cl&#238;aban Rilag</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,12 +85,12 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Cilant Lîs</DefaultText>
+      <DefaultText>Cilant L&#238;s</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Anslög's Compass</DefaultText>
+      <DefaultText>Ansl&#246;g's Compass</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,12 +405,12 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>Clîaban Rilag Level 1</DefaultText>
+      <DefaultText>Cl&#238;aban Rilag Level 1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Clîaban Rilag Level 2</DefaultText>
+      <DefaultText>Cl&#238;aban Rilag Level 2</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

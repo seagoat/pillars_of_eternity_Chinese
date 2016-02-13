@@ -1,0 +1,28 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\07_gilded_vale\07_cv_forton</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“这些年轻的狗管不住它们的生殖器。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“烟雾应该可以清理一下你病怏怏的样子。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“问一个哲学问题，就没人愿意跟你一起喝酒了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“快走吧，小伙子。我没有智慧赐予你，除非给我来两口烟。”</DefaultText>
+			<FemaleText>&quot;Move along, lass. I have no wisdom to bestow before I&apos;ve had a pipe or two.&quot; </FemaleText>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

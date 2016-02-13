@@ -1,0 +1,28 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\04_defiance_bay_brackenbury\02_bs_crucible_knight_palace</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“队 长 很 生 气 。昨 晚 ，一 半 守 卫 都 擅 离 职 守 跑 去 看 卖 艺 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“温 菲 尔 德 队 长 在 宫 殿 内 被 人 杀 害 。要 员 怀 疑 是 德 梅 尼 尔 家 族 干 的 ，但 没 有 人 目 睹 事 情 经 过 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“许 多 难 民 为 了 逃 离 Legacy,来 到 这 里 。也 许 他 们 没 意 识 到 我 们 也 受 Legacy影 响 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“无 论 外 面 有 什 么 情 况 ，这 宫 殿 依 旧 是 反 抗 湾 引 以 为 豪 的 象 征 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

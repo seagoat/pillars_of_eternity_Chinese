@@ -1,0 +1,133 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\prot2_rumbald</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>25</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>农 夫 的 困 境 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>找 到 食 人 魔 位 于 迪 福 特 村 外 荒 野 某 处 的 老 巢 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>回 迪 福 特 村 找 鲁 姆 巴 尔 德 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>搜 索 位 于 迪 福 特 十 字 路 口 的 洞 穴 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>鲁 姆 巴 尔 德 ，迪 福 特 的 一 名 养 猪 户 ，他 告 诉 我 有 只 食 人 魔 掳 走 了 他 的 牲 畜 。他 想 让 我 干 掉 那 头 食 人 魔 ，并 把 他 的 头 带 回 来 给 他 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>鲁 姆 巴 尔 德 说 那 头 食 人 魔 最 近 有 在 迪 福 特 周 围 出 没 过 ，但 不 能 确 定 它 的 老 巢 具 体 在 哪 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>现 在 ，我 已 经 干 掉 了 食 人 魔 ，我 可 以 回 到 迪 福 特 ，去 找 农 民 鲁 姆 巴 尔 德 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10007</ID>
+			<DefaultText>我 在 巴 尔 河 东 部 发 现 了 一 个 山 洞 。它 闻 起 来 像 尸 体 腐 烂 的 味 道 。饥 饿 的 家 伙 一 定 住 在 这 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10008</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20006</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20007</ID>
+			<DefaultText>鲁 姆 巴 尔 德 告 诉 我 ，切 基 尔 可 能 知 道 这 个 食 人 魔 的 下 落 。他 的 商 店 位 于 一 个 半 倒 塌 的 塔 前 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20008</ID>
+			<DefaultText>切 基 尔 告 诉 我 ，食 人 魔 最 有 可 能 位 于 迪 福 特 村 东 部 的 巴 尔 河 附 近 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20009</ID>
+			<DefaultText>我 杀 死 了 寇 格 拉 克 。 鲁 姆 巴 尔 德 看 到 这 个 野 兽 的 头 颅 会 很 高 兴 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20010</ID>
+			<DefaultText>寇 格 拉 克 答 应 离 开 小 镇 。我 想 鲁 姆 巴 尔 德 应 该 也 会 放 过 他 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20011</ID>
+			<DefaultText>我 告 诉 寇 格 拉 克 ，如 果 他 能 学 会 避 免 引 起 骚 乱 ，他 可 以 留 在 迪 福 特 。他 似 乎 同 意 这 个 建 议 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20012</ID>
+			<DefaultText>寇 格 拉 克 很 乐 意 接 受 我 关 于 杀 死 鲁 姆 巴 尔 德 的 建 议 。说 实 话 ，我 不 知 道 回 到 迪 福 特 后 ，会 看 到 什 么 惨 象 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20013</ID>
+			<DefaultText>我 提 供 了 在 我 的 据 点 处 寇 格 拉 克 的 位 置 。他 似 乎 对 这 个 想 法 很 感 兴 趣  - 我 大 概 可 以 雇 佣 他 ，如 果 我 真 的 想 这 样 做 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20014</ID>
+			<DefaultText>切 基 尔 死 了 ，派 不 上 什 么 用 场 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 杀 了 食 人 魔 ，并 把 他 的 头 颅 带 给 了 鲁 姆 巴 尔 德 。他 非 常 高 兴 感 激 ，为 了 表 达 谢 意 ，他 把 他 的 大 口 径 短 枪 ，喷 铅 者 ，和 一 个 猪 仔 送 给 了 我 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>鲁 姆 巴 尔 德 很 失 望 ，因 为 我 没 有 杀 了 食 人 魔 ，但 他 还 是 送 给 了 我 一 只 猪 仔 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我 给 了 鲁 姆 巴 尔 德 一 些 钱 ，来 弥 补 因 食 人 魔 带 来 的 损 失 。他 非 常 高 兴 感 激 ，为 了 表 达 谢 意 ，他 把 他 的 大 口 径 短 枪 ，Lead Spitter，和 一 个 猪 仔 送 给 了 我 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我 告 诉 寇 格 拉 克 ，如 果 他 除 掉 了 那 个 想 要 杀 死 他 的 农 民 ，迪 福 特 对 于 他 来 说 将 会 变 得 更 加 安 全 。果 然 ，当 我 回 到 村 里 时 ，鲁 姆 巴 尔 德 的 妻 子 告 诉 我 ，他 被 食 人 魔 杀 死 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText>我 攻 击 了 鲁 姆 巴 尔 德 的 猪 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30005</ID>
+			<DefaultText>此 任 务 中 的 某 个 重 要 人 物 已 死 亡 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

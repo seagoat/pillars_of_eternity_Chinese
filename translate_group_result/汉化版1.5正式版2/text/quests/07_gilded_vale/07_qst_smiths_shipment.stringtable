@@ -1,0 +1,68 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\07_gilded_vale\07_qst_smiths_shipment</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>12</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>铁 匠 的 货 物 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>前 往 黑 草 甸 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>跟 踪 这 批 货 物 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>回 去 找 图 阿 塔 努 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>图 阿 塔 努 是 丰 饶 之 谷 的 铁 匠 ，他 期 待 一 批 货 物 供 应 已 经 很 久 了 。他 担 心 沿 着 丰 饶 之 谷 东 部 道 路 前 进 的 货 车 会 出 什 么 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>图 阿 塔 努 要 我 寻 找 一 辆 Black Hammer铁 匠 铺 的 补 给 货 车 ，它 本 来 预 计 到 达 丰 饶 之 谷 的 时 间 是 几 天 前 。他 说 我 也 许 能 在 丰 饶 之 谷 东 南 部 的 黑 草 甸 找 到 一 些 痕 迹 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我 已 经 到 达 了 黑 草 甸 。图 阿 塔 努 说 这 个 地 方 很 危 险 ，有 很 多 野 生 动 物 和 亡 命 之 徒 。沿 着 道 路 搜 索 说 不 定 会 有 货 车 的 痕 迹 ，甚 至 是 货 物 本 身 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>图 阿 塔 努 的 担 心 是 有 根 据 的 。我 发 现 Black Hammer的 货 物 被 一 群 草 原 北 方 的 强 盗 劫 持 了 。似 乎 图 阿 塔 努 的 工 人 们 都 不 幸 身 亡 了 。剩 下 的 就 是 夺 回 货 物 ，并 拿 到 报 酬 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>我 在 黑 草 甸 发 现 了 一 辆 翻 倒 的 马 车 。也 许 就 是 图 阿 塔 努 说 的 货 车 ，但 货 物 都 没 了 。也 许 我 可 以 找 到 更 多 的 线 索 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>我 在 黑 草 甸 找 到 了 一 群 强 盗 。他 们 已 经 被 解 决 了 。他 们 的 营 地 堆 满 了 偷 来 的 供 应 品 。也 许 我 会 在 其 中 找 到 图 阿 塔 努 的 货 物 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>此 任 务 中 的 某 个 重 要 人 物 已 死 亡 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我 将 图 阿 塔 努 丢 失 的 货 物 还 给 了 他 。虽 然 仍 沉 浸 在 失 去 雇 员 们 的 悲 痛 中 ，但 失 而 复 得 还 是 让 他 感 到 了 一 丝 慰 籍 。他 答 应 会 为 我 提 供 更 好 的 物 品 ，现 在 他 有 制 作 那 些 物 品 的 材 料 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

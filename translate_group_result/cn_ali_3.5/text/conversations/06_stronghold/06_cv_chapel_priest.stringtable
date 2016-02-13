@@ -1,0 +1,58 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_cv_chapel_priest</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>10</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“你好，主人。感谢你将我们的教堂恢复昔日的辉煌。我相信神看好你身上。”</DefaultText>
+			<FemaleText>&quot;Greetings, my lady. I thank you for restoring our chapel to its former glory. I am certain the gods look favorably upon you.&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“又见面了，主人。一切安好吧？”</DefaultText>
+			<FemaleText>&quot;Hello again, my lady. I trust you are well?&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“我看看你有什么。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>&quot;再见。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“我已经收集了卷轴上找到的一切，或许你能在旅途上派上用场。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“愿双子神赐予你祝福。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“愿闪耀之主的光芒照耀我们两，并引导我们走出黑暗。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“愿玛格岚赐予你克服试炼的力量。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>“当试炼成为你的负担，记住- 雕像等待着你。你的时代将到来。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>“在这神秘的时刻，我敢肯定隐匿者在我们中间穿梭。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

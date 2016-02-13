@@ -1,0 +1,37 @@
+<StringTableFile>
+  <Name>conversations\prototype_2\si_party_check_proto</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你 面 前 是 一 座 斷 橋 。感 覺 你 能 夠 跳 過 去 。你 將 怎 麼 做 呢 ？</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[跳 過 裂 縫 .]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[離 開 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>{party athletics &gt; 10}黨 會 順 利 安 全 地 清 掃 了 裂 縫 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>{one member athletics &lt; 10 and is lowest in party} 在 黨 會 清 掃 裂 縫 的 時 候 ，{name token}試 圖 轉 個 方 向 。{give_status_hobbled}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>{multiple member athletics &lt; 10}黨 會 清 掃 了 裂 縫 ，但 是 這 份 苦 工 讓 很 多 黨 會 成 員 累 得 氣 喘 吁 吁 。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

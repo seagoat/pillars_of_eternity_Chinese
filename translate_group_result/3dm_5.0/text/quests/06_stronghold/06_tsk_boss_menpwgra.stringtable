@@ -1,0 +1,45 @@
+<StringTableFile>
+  <Name>quests\06_stronghold\06_tsk_boss_menpwgra</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>悬赏；迪文</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>杀了枯树人达文并取下她的首级。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>把迪文的头带给凯德 努阿的佛莱根守卫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>一个以枯树人达文为中心，诡异而可怕的德鲁伊教团，正迅速发展起来。这群狂信徒利用北部旷野的一个洞穴，作为他们的行动基地。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>以北部旷野的枯树人为中心，形成了一个德鲁伊教团。我得找到他们的洞穴，杀死他们的领袖达文。并将她的首级作为她已死的证明。没有了达文，这个教团就会分崩瓦解。
+
+
+达文的德鲁伊教团以北部旷野的洞穴为基地。我得杀了达文，并取回它的首级作为它已死的证明。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>迪文死了。把头带给佛莱根守卫领取报酬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>枯树人达文的悬赏金归我了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

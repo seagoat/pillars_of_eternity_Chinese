@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\07_gilded_vale\07_bs_smith_customer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“噢，你好。我只是看看……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“如果在旅馆多值几个班，我就能拿到一把匕首了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“这些天这没多少人。只有我。当然还有雷德里克勋爵的子民。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“听见铃声了吗？我觉得是坏消息。通常都是”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“最近没那么多，当心。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

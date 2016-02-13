@@ -1,0 +1,175 @@
+<StringTableFile>
+  <Name>quests\01_defiance_bay_coppleane\01_tsk_rogue_knight</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>叛 逃 的 騎 士 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>尋 找 祖 傳 胸 甲 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>回 去 找 歐 斯 裡 克 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>到 煉 獄 堡 壘 找 到 潘 赫 姆 的 宣 誓 書 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>把 潘 赫 姆 的 宣 誓 書 交 給 庫 倫 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>把 宣 誓 書 拿 給 高 級 騎 士 克 萊 韋 爾 看 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>帶 著 胸 甲 回 到 歐 斯 裡 克 那 裡 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>告 訴 歐 斯 裡 克 發 生 了 什 麼 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>在 潘 赫 姆 的 屍 體 上 找 到 胸 甲 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>從 潘 赫 姆 身 上 奪 取 胸 甲 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>歐 斯 裡 克 被 一 個 叫 做 潘 赫 姆 的 騎 士 逐 出 了 煉 獄 騎 士 。更 糟 的 是 ，他 的 上 級 沒 收 了 他 傳 承 幾 代 的 胸 甲 。
+
+歐 斯 裡 克 要 我 從 潘 赫 姆 手 裡 拿 回 胸 甲 。他 相 信 他 的 對 手 可 能 在 頓 瑞 德 街 道 辦 偽 造 了 一 個 文 件 來 檢 查 領 會 的 純 潔 性 。如 果 我 能 證 明 潘 赫 姆 是 在 偽 造 ，我 或 許 就 有 辦 法 那 會 胸 甲 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>歐 斯 裡 克 是 科 博 萊 茵 探 險 大 廳 的 訓 練 員 ，他 告 訴 我 他 的 胸 甲 可 能 在 最 初 之 火 的 煉 獄 堡 壘 某 個 地 方 。他 還 說 現 在 的 持 有 者 潘 赫 姆 ，就 是 把 他 驅 逐 的 人 之 一 ，而 且 不 太 可 能 自 己 吧 傳 家 寶 換 回 來 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我 直 接 把 潘 赫 姆 殺 死 ，從 他 的 屍 體 上 拿 回 胸 甲 。問 題 就 這 樣 被 我 簡 化 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>潘 赫 姆 不 太 想 和 目 前 正 戴 在 身 上 的 歐 斯 裡 克 的 胸 甲 分 離 。看 來 還 得 再 想 辦 法 。
+
+歐 斯 裡 克 相 信 潘 赫 姆 的 宣 誓 書  - 那 個 確 認 潘 赫 姆 的 靈 魂 不 會 受 任 何 鹿 叢 人 影 響 的  - 是 偽 造 的 。他 說 我 可 以 在 最 初 之 火 的 煉 獄 堡 壘 某 個 地 方 找 到 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>潘 赫 姆 似 乎 把 歐 斯 裡 克 的 護 甲 占 為 己 有 ，但 是 我 有 他 的 宣 誓 書 ，似 乎 可 以 作 為 談 判 條 件 。
+
+庫 倫 是 一 個 認 同 潘 赫 姆 的 宣 誓 書 的 靈 能 師 ，在 布 拉 肯 伯 裡 的 哈 德 雷 特 家 族 工 作 。 關 於 宣 誓 書 的 真 實 性 他 應 該 略 知 一 二 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>歐 斯 裡 克 是 對 的  - 頓 瑞 德 街 道 辦 發 現 潘 赫 姆 與 一 些 反 對 迪 伍 德 獨 立 的 人 共 享 靈 魂 遺 產 。煉 獄 騎 士 絕 不 應 該 承 認 他 。
+
+我 手 裡 的 是 一 個 偽 造 的 宣 誓 書 ，用 來 掩 蓋 潘 赫 姆 被 污 染 的 靈 魂 。庫 倫 說 煉 獄 堡 壘 的 高 級 軍 官 , 高 級 騎 士 克 萊 韋 爾 ，可 以 解 決 這 事 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>潘 赫 姆 被 解 決 掉 了 ，胸 甲 到 了 我 的 手 裡 ，歐 斯 裡 克 想 知 道 事 情 的 結 果 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>我 讓 潘 赫 姆 帶 著 他 的 聲 望 ……和 歐 斯 裡 克 的 胸 甲 離 開 了 。歐 斯 裡 克 想 知 道 事 情 的 結 果 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>我 要 在 潘 赫 姆 的 屍 體 上 得 到 歐 斯 裡 克 的 胸 甲 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>庫 倫 死 了 ，我 對 潘 赫 姆 沒 什 麼 辦 法 了 。唯 一 能 拿 到 歐 斯 裡 克 的 胸 甲 的 辦 法 就 是 到 最 初 之 火 的 煉 獄 堡 壘 殺 了 ，然 後 從 他 的 屍 體 上 拿 走 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>潘 赫 姆 為 了 保 住 秘 密 而 要 殺 了 我 。不 過 很 悲 劇 他 沒 成 功 。我 現 在 可 以 拿 到 胸 甲 然 後 還 給 歐 斯 裡 克 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>潘 赫 姆 見 到 了 我 ，我 決 定 把 宣 誓 書 給 他 。我 也 可 以 說 服 他 把 胸 甲 給 我 。我 現 在 可 以 把 它 還 給 歐 斯 裡 克 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>潘 赫 姆 把 歐 斯 裡 克 的 胸 甲 占 為 己 有 。只 要 他 還 是 煉 獄 騎 士 ，他 就 不 會 放 棄 它 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>我 找 到 了 一 個 確 認 潘 赫 姆 靈 魂 血 統 的 宣 誓 書 。這 是 庫 倫 簽 的 ，他 是 頓 瑞 德 街 道 辦 的 靈 能 師 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>在 我 把 宣 誓 書 還 給 潘 赫 姆 之 後 ，我 說 服 他 把 歐 斯 裡 克 的 胸 甲 給 我 。歐 斯 裡 克 對 事 情 的 經 過 不 太 相 信 ，但 他 還 是 很 開 心 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我 成 功 地 幫 助 歐 斯 裡 克 偷 來 了 胸 甲 。他 沒 有 去 跟 煉 獄 騎 士 說 這 些 事 ；他 很 高 興 把 胸 甲 拿 了 回 來 ，我 也 很 高 興 得 到 了 報 酬 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我 拿 到 了 歐 斯 裡 克 的 胸 甲 ，但 也 付 出 了 一 些 代 價 。我 告 訴 歐 斯 裡 克 後 ，他 很 憤 怒 。他 告 訴 我 要 留 著 他 的 傳 家 寶 。他 很 難 過 ，但 好 像 是 他 的 誓 言 一 直 在 困 擾 著 他 。他 顯 然 不 想 一 開 始 那 樣 那 麼 憎 恨 潘 赫 姆 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>我 拿 到 了 歐 斯 裡 克 的 胸 甲 ，但 也 付 出 了 一 些 代 價 。我 必 須 殺 了 潘 赫 姆 ，但 我 沒 有 跟 歐 斯 裡 克 說 這 事 。幸 運 的 是 ，他 沒 有 多 問 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>歐 斯 裡 克 死 了 ，不 需 要 再 關 心 他 給 我 的 任 務 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>在 我 知 道 潘 赫 姆 造 假 之 後 ，他 攻 擊 了 我 。歐 斯 裡 克 可 好 像 很 後 悔 他 死 了 ，但 是 很 高 興 他 的 胸 甲 回 來 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>我 拿 到 了 歐 斯 裡 克 的 胸 甲 ，但 我 據 為 己 有 了 。我 很 驚 訝 歐 斯 裡 克 沒 有 當 場 攻 擊 我 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>因 為 潘 赫 姆 造 假 而 懲 罰 他 是 不 對 的 ，所 以 我 把 宣 誓 書 還 給 了 他 。我 沒 有 從 他 那 裡 得 到 胸 甲 ，所 以 我 沒 有 還 給 歐 斯 裡 克 。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

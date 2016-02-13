@@ -1,0 +1,37 @@
+<StringTableFile>
+  <Name>conversations\companions\poi\poi_bs_defiance_bay_gate</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bank Node 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“啊，反抗湾。我早已想念艾迪尔了”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“这些墙将整个城市都围起来了？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“反抗湾的城市……如果你问当地人的话，他们会告诉你，反抗湾是迪伍德皇冠上的宝石。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“反抗湾。如果有个需要灭火的干燥地方，那你已经找到它了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“恩。这里过去……没这么混乱。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

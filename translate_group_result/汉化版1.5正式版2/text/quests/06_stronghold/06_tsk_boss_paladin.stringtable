@@ -1,0 +1,43 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\06_stronghold\06_tsk_boss_paladin</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>悬 赏 ：盖 伦 •达 加 德 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>杀 死 盖 伦 •达 加 德 ，把 他 的 头 带 回 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>把 盖 伦 •达 加 德 的 头 交 给 塞 德 努 亚 的 费 尔 根 典 狱 长 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>鹿 丛 奴 隶 主 盖 伦 •达 加 德 出 现 在 玛 德 哈 姆 大 桥 。有 人 悬 赏 要 他 的 脑 袋 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>有 一 份 悬 赏 索 要 臭 名 昭 著 的 奴 隶 主 盖 伦 •达 加 德 的 命 。费 尔 根 说 在 玛 德 哈 姆 大 桥 应 该 能 找 到 他 。我 要 杀 了 他 ，并 带 回 他 的 头 作 为 死 亡 证 明 ，然 后 拿 走 赏 金 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>盖 伦 •达 加 德 死 了 ，我 可 以 从 费 尔 根 典 狱 长 那 里 拿 走 我 的 赏 金 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 拿 到 了 盖 伦 •达 加 德 的 赏 金 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

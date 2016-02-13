@@ -1,0 +1,73 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\critical_path\act_4\cp_qst_enter_breith_eaman</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>12</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>懺悔者庭院</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>到安息島。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>找到懺悔者庭院.</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>到深坑裡去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>葉精姐妹告訴我賽奧斯逃進了一條地下的小路，那條路通往英格維斯的一個叫暗影之陽的地方，並斷了身後的路。
+
+那對姐妹告訴了我另一條可以找到他的路- 或許會因此追上他。安息島有一條穿過英格維斯古老監獄的路，佈雷斯伊曼。那條路很危險，但或許是去暗影之陽最快的路，因為裡面有很多落差很大的路可以直接跳下去。
+
+我的幻覺越來越頻繁了，幾乎混淆了真實世界。我沒有時間了。我需要知道賽奧斯記得那些我們以前分享過的事，那樣的話，無論是什麼在折磨我的靈魂，都可以讓它去死了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>我聽希薩裡赫紐恩說那條通往暗影之陽坐落在安息島地區。那裡有一個古老的court可以讓我找到賽奧斯。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我到達了安息島的岸邊。島的某處，懺悔者庭院裡有一條路通往佈雷斯伊曼和暗影之陽。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>在懺悔者庭院的中心有一個深坑，深不見底，往裡面扔一個石子也不會聽到聲音。不管是誰跳下去都會死。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>多瓦爾是古老樂曲區的守衛和船員。他告訴過你安息島不像雙榆城的其他地方。小島是個anamfaths of the Six Tribes埋葬地，也是個危險的地方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>我找到了一條去庭院的近路，似乎可以讓我避開危險的旅途。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>我可以利用一下神恩斡旋的方式來安全地到達深坑底部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我在懺悔者庭院的深坑底部活了下來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
+

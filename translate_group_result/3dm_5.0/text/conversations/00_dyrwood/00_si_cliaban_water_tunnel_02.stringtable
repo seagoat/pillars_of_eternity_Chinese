@@ -1,0 +1,67 @@
+<StringTableFile>
+  <Name>conversations\00_dyrwood\00_si_cliaban_water_tunnel_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在没有东西帮助你在水流中前行的情况下，你锲而不舍。水流以全力推着你向前移动；最后，你终于看见了一丝微光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>洞穴的墙壁渐渐收窄，并终于一个小型的地下湖。你看到对面有一个小洞，水正从洞里源源不断地流出。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[检视水域。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[离开。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[游入隧道。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>水很干净，并且因为在流动的原因没有水生植物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>你的手终于接触到了空气，你随即将头也举出了水面。用你残存的最后力气，你把自己拉上了岸边。你躺在岸边，一缕轻柔的和风吹拂着你，你湿透的身体微微发冷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你深吸一口气，将自己沉入水流。最初你的划动还很有利，但是渐渐水流占据了上风，你感到自己的肌肉越来越吃力。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>在休息了一会儿后，你起身调查周围，看看是否是你熟悉的英格维斯遗迹的外围。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[继续向前游。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[随着水流漂回去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[继续向前游。]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,104 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\critical_path\act_4\cp_qst_earn_gods_favor</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>18</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>诸星议会</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>在泰尔埃弗隆向神祈祷。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>获得神恩的帮助。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>进入安息岛的深坑前往布雷斯伊曼</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>希萨和里赫纽恩，榆树之地的叶精，告诉我赛奥斯摧毁了泰尔埃弗隆去布雷斯伊曼的路。为了找到他，我必须进入安息岛的深坑里。
+
+这需要诸神的帮助。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>叶精姐妹说没有人会从通往布雷斯伊曼的深坑里里活下来。不过神可以保证我的安全。
+
+为了得到他们的帮助，我得在泰尔埃弗隆向他们祈祷，他们说那里可以与凡人交流。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>神也想也想从我这里得到什么东西。为了得到帮助，我得完成在视野里交给我的任务。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我现在得到了帮助，我就可以去安息岛去寻找赛奥斯。
+
+然而，貌似在神选择的过程中，他们愿意用巨大的力量来交换一个可以解决被偷走灵魂的承诺。但是如果承诺没兑现，代价可不小</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>贝拉斯让我看到了一条可怕的道路上有一个矮人和一个精灵。只要我碰一下，他们都会消亡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>加拉维恩让我看到了一只巨大的狮子和一个强壮的熊在打斗。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>海莉亚让我看到在一个山顶上有一个神殿饱受威胁。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>在里姆甘德的神殿里，我看到一群精灵在一堵冰墙前消失了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>我保证让那些灵魂回归循环来交换贝拉斯的力量。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20005</ID>
+			<DefaultText>我同意用灵魂来加强戴尔森林来交换加拉维恩的力量。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20006</ID>
+			<DefaultText>我跟海莉亚保证我会把灵魂还给无魂儿。然后她会给我她的力量。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20007</ID>
+			<DefaultText>我同意把灵魂交给里姆甘德之熵来交换他的力量。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20008</ID>
+			<DefaultText>我了解到可以从古老乐曲区前往安息岛。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我为了寻找赛奥斯进入了布雷斯伊曼。现在没有退路了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

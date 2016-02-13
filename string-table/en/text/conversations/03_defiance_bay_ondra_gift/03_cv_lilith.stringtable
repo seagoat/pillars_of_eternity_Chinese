@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\03_defiance_bay_ondra_gift\03_cv_lilith</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>21</EntryCount>
@@ -53,24 +52,24 @@ If anything were to be able to quell the spirit's rage, it would appear not to b
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>[Observe the cean gŵla.]</DefaultText>
+      <DefaultText>[Observe the cean g&#373;la.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>[Observe the cean gŵla.]</DefaultText>
+      <DefaultText>[Observe the cean g&#373;la.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>[Observe the cean gŵla.]</DefaultText>
+      <DefaultText>[Observe the cean g&#373;la.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
       <DefaultText>You're close enough to notice that the spirit's head is tilted back. Even as it looses blood-curdling howls, the faint movements of its head suggest that it's looking toward the windows and scanning the horizon.
 
-The cean gŵla's ghostly hands are stained with something dark. At first, you think it's blood, but it's as black as ink.</DefaultText>
+The cean g&#373;la's ghostly hands are stained with something dark. At first, you think it's blood, but it's as black as ink.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -110,7 +109,7 @@ The cean gŵla's ghostly hands are stained with something dark. At first, you th
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>[Attack the cean gŵla.]</DefaultText>
+      <DefaultText>[Attack the cean g&#373;la.]</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

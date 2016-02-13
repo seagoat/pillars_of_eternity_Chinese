@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\companions\poi\poi_bs_expedition_hall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bank Node 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“感觉我们能在这个地方……用钱买到盟友。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“雇佣兵，都是一群拿着好武器当柴刀使的家伙。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>十二团众对我们这种外来人没太大好感，不过他们完全不介意收下我们的钱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“如果我们继续呆在这里的话，就没法找出世界被诅咒的原因。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

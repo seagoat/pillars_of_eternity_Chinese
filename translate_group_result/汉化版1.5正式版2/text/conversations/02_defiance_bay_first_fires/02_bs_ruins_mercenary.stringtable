@@ -1,0 +1,43 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\02_defiance_bay_first_fires\02_bs_ruins_mercenary</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“有 人 称 下 面 有 宝 库 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“这 里 的 事 完 成 后 ，就 直 接 去 咸 桅 杆 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“目 前 为 止 ，一 直 平 平 淡 淡 。但 对 我 来 说 至 少 是 个 比 较 简 单 的 赚 钱 法 子 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“我 不 理 解 这 些 秘 密 的 握 手 交 易 。不 过 有 酬 劳 啊 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“他 们 派 你 来 查 看 图 书 馆 里 的 那 紧 张 孩 子 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“那 侍 僧 比 以 往 更 古 怪 。她 的 一 名 面 具 朋 友 在 下 水 道 里 迷 路 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“侍 僧 在 等 你 吗 ？她 现 在 很 生 气 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

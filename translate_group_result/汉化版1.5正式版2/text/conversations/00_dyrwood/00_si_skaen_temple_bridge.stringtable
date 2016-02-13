@@ -1,0 +1,108 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\00_dyrwood\00_si_skaen_temple_bridge</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>20</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>T小 径 延 伸 到 悬 崖 就 没 了 。断 桥 剩 下 的 部 分 横 在 峡 谷 的 另 一 端 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>[查 看 区 域 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>[抛 出 你 的 绳 子 和 爪 钩 越 过 峡 谷 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>[离 开 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>T你 低 头 一 看 是 望 不 尽 的 黑 暗 。碎 裂 的 石 柱 ，残 桥 的 遗 迹 ，就 那 么 立 在 深 渊 之 上 。跳 过 缺 口 ，你 似 乎 看 到 一 座 长 长 的 石 桥 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>W峡 谷 的 另 一 边 的 石 头 中 间 伸 出 几 根 树 干 。尽 管 看 起 来 年 代 久 远 ，不 管 感 觉 还 是 挺 结 实 的 ，足 以 固 定 爪 钩 和 绳 子 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>Y你 瞄 准 峡 谷 对 面 的 木 梁 ，把 爪 钩 扔 过 了 缺 口 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>I爪 钩 钩 住 了 其 中 一 个 木 梁 ，你 拉 了 拉 绳 子 ，确 实 紧 紧 钩 住 了 木 头 。你 又 使 劲 拉 了 两 下 ，确 定 连 接 安 全 没 问 题 。你 把 绳 子 的 这 端 系 在 了 紧 挨 着 你 的 木 梁 上 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>T急 促 的 呼 吸 声 回 响 在 峡 谷 中 。所 有 人 都 很 累 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>[晃 晃 动 动 穿 过 峡 谷 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>T急 促 的 呼 吸 声 回 响 在 峡 谷 中 。[SkillCheck 0], [SkillCheck 1], [SkillCheck 2], 和 [SkillCheck 3]都 累 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>T急 促 的 呼 吸 声 回 响 在 峡 谷 中 。除 了 [SkillCheck 0]大 家 都 累 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>Y你 终 于 到 达 了 另 一 端 ，安 然 无 恙 ，但 是 已 经 精 疲 力 尽 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>T承 载 着 你 的 体 重 你 感 觉 绳 子 都 绷 紧 了 ，你 每 往 前 爬 动 一 下 心 里 都 不 由 得 跟 着 绳 子 颤 抖 一 下 。木 梁 一 点 点 断 裂 的 呻 吟 声 在 深 渊 中 回 响 。你 小 心 翼 翼 地 慢 慢 前 滑 移 动 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>T小 径 延 伸 到 悬 崖 就 没 了 。断 桥 剩 下 的 部 分 横 在 峡 谷 的 另 一 端 。你 的 绳 子 越 过 了 缺 口 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>T急 促 的 呼 吸 声 回 响 在 峡 谷 中 。[SkillCheck 0], [SkillCheck 1],以 及  [SkillCheck 2]都 累 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>Y你 安 全 地 到 了 另 一 边 。感 觉 绳 子 挺 结 实 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>T急 促 的 呼 吸 声 回 响 在 峡 谷 中 。[SkillCheck 0]和 [SkillCheck 1]都 累 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>T急 促 的 呼 吸 声 回 响 在 峡 谷 中 。[SkillCheck 0]累 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

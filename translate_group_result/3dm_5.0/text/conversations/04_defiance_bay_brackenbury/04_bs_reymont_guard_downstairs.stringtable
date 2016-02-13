@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\04_defiance_bay_brackenbury\04_bs_reymont_guard_downstairs</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“在大人的千金琳奈特旁边时，请轻声说话。她有点……神经敏感。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“雷蒙特大人看上去似乎严酷无情，但他其实也很公正和慷慨。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“雷蒙特大人禁止侍卫长时间和访客说话。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,33 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\companions\companion_cv_durance_silence_questions</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>5</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“一直麻烦我的话，我可能会延长每个问题的部分。现在有足够的问题了——让这条路带我们到下一处篝火。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“你是瓦尔的仆人吗？让他留着自己的神秘和问题吧——至少直到下次我们需要休息之前。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“瓦尔的眼睛画在你的皮肤上吗？秘密比问题还多，甚至一大堆答案也不会安抚你。即使是士兵也需要安抚情绪——就像他们的祭司所做的一样。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“道不同不相与谋，收起你的问题改天再问吧，通魂者。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“感觉好像你吞下了牛虻巢一样。保持沉默吧，免得你到下一处篝火前就累垮了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

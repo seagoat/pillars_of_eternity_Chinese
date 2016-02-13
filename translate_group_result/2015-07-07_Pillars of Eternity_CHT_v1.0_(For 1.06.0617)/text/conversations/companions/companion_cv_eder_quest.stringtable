@@ -1,0 +1,581 @@
+<StringTableFile>
+  <Name>conversations\companions\companion_cv_eder_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>104</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「那個古老的通魂者……」他搖了搖頭咯咯的笑了。「我不知道我在期待什麼，但是肯定不是那樣的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你說你有一些事要問他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「呃。。好吧現在確實有點尷尬。我只是腦子裡突然有了個很蠢的想法，搞不懂我怎麼會認為那會管用。」「有趣，這可能是，我猜，這幾年來第一次我充滿希望，至少現在我擺脫掉它了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「那是什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「快走吧，我不喜歡拖拖拉拉的！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「不用感覺尷尬，我不會說什麼的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「反正你都要當著我的面問他，不如現在就告訴我好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>他歎了口氣。「好吧，世界總是公平的，你也確實帶我去見他了。」「在鍍金溪谷流傳的關於我哥哥沃登的流言，關於他如何投靠懷德溫反過來對付我們的流言，已經在我的腦海裡縈繞許久了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「為什麼不向我尋求幫助？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「我不認為那樣會有用。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「你說得對，你應該覺得尷尬。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「可能是因為我不認識你把。相信一個自稱是通魂者的人是很難的。」</DefaultText>
+      <FemaleText>"I dunno. Guess 'cause I didn't know you. It's hard to trust a stranger that says she's a Watcher."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「因為我知道隱藏在深處的真相，通魂者並不是靈媒。」「我只是這樣想，這個想法也讓我覺得很可靠，我並不想失去它。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「說真的，如果我想找到我哥哥的東西我應該從查資料開始而不是跟著通魂者亂跑。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「我覺得……或許這個古老的通魂者知道我哥哥是怎麼死的，我就可以判斷這是不是真的，好像—我不確定，他可以看透我的靈魂或者什麼東西。利用我們的這種關係。」「早就告訴過你這樣太蠢了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「關於沃登我想說的是，他總是知道並且去做對的事。那時他決定為迪伍德反抗那個自稱是我們的神的人，所以我知道我也應該這樣做，因為那是對的。」聽到傳言說他在為雷德塞拉斯效力時死了，這讓我很焦慮。我覺得我好像站錯了隊。懷德溫所籌劃的看起來並不對，但假如他真的是伊歐薩斯的話……」他搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「所以為什麼不呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「想清楚這點花了你十五年？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「你應該做好心理準備那兒可能沒有關於你哥哥死亡的記錄。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>他咧嘴一笑。「在你告訴我關於通魂者的這些瘋狂想法之前我從來沒想過要去調查這個。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「反正也不會更糟糕了。是嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>艾德想了一會，嘴扭到了一邊，揚起眉毛。「如果真的有關於這個的記載，那就一定在反抗灣。他們在那裡的宮殿裡有個檔案館。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「你為我做的已經夠多了，但是如果你能跟我去一起拜訪一下那個檔案館的話，呃……你懂的。」「就知道記錄員會發瘋試圖來殺我，你跟我一起在裡面讓我感覺好多了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「就是這兒了。我哥哥的最後一戰。」艾德在你之前檢查了這塊茂盛草地的所有地方。按著他的嘴唇。「真希望能告訴你我在找什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「任何東西，任何還沒有被十五年的雨水掩蓋起來的東西。」他看著你。「你看到了我哥哥的鬼魂，你給我了這個鬼差事。」他眨眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「喂，一塊金屬在地上，就在船旁邊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「這沒什麼東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「我覺得我看到了什麼——不，不是。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「這什麼都沒有。他們戰場打掃的真不錯。真是太尷尬了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「嗨，這個太新了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「他們說對了，這確實是個輕鬆的活。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>河灘淤泥上有一些金屬物件的頂端伸了出來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>你抓緊它把它從濕土裡拔出來。
+
+這東西是個金屬，半圓形框架，大約有拳頭那麼大。在半圓的連接點上，鋸齒狀的點伸出來就像火舌或者升起的太陽發出的光芒一樣。
+
+在太陽的中心，雕刻的是沃拉斯植物的輪廓。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「我以前見過這個，他們在雷德塞拉斯軍旗的頂端，或者在懷德溫活著的時候在棋子的頂端。」他從你手裡拿過來仔細的看，在手裡翻來覆去。「這確實是個發現，只是不確定有什麼用。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「我很擅長這些物件，可能會從裡面發現點什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「我們應該拿去給專家看看。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「敦裡德間諜機構可能會發現什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「咒術師可能會發現什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>他聳聳肩。「是個想法，很多人可能都碰過它了。扛旗手在很多地方都是個光榮職位。我聽說很多雷德塞拉斯士兵都會為了它奮力戰鬥。」「並沒有太大希望，但是我們畢竟還是走運的找到了一些。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>他把物件遞給你。「讓我們看看你能發現什麼。」「最好別瞎編，否則某天醒來你會發現被窩裡有蛇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「所以我猜我們又繞回到反抗灣了，除非我們在回去的路上發現了我哥哥的骨頭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「當然，這樣做的話太簡單了，如果你的朋友陶斯沒有離開把所有我們認識的咒術師都殺了的話。。」「當然，在雙生木城那裡會有一些人。咒術師可能就是從那裡開始的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>你把金屬物件放在一隻手上，用另一隻手握緊艾德的手，沒有看他不確定的眼神。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>一個聲音從嘈雜中顯出，粗重熱情。一個比艾德更亮的陰影，但是毫無疑問是同一類型的。你看不到它的主人，但是他的旅途被銘刻在了金屬物件的點和雕刻中。在你的腦海中，它在你面前像一條道路一樣同時向南方和北方展開。向南方的鍍金溪谷，往北方跨越崎嶇的地形經過迪伍德前往雷德塞拉斯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>你追根探源，比你能看到的還要遠。在平原和山丘間滑翔，來到鍍金溪谷中一座只有茅草屋頂和骯髒樓梯的一間房的小屋子。道路在這裡變得不清楚，時間上的距離使得影像變得模糊，細節看的很勉強。從鍍金溪谷它順著一條通往邁德默大橋的道路，到達反抗灣的大門後急速轉向，向北以一條直線前往雷德塞拉斯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>道路通往一座阿德塞拉斯城市，典型的阿德瑞帝國風格，豪華而又嚴肅。道路在街道中蜿蜒前行，沿著宏偉的台階向上進入一座氣勢恢宏的建築，穿過尖拱門來到王宮大殿。在王座上坐著一個人。光頭閃著刺眼的光。當他盯著你的時候，光吞噬了其他的一切。他的聲音彷彿雷霆，但是無法分辨清楚到底說了什麼，只有無盡的回聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>光和聲逐漸消失，道路折回帶你來到一處柵欄，之後向南，向迪伍德前進，沿途紛爭不斷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「戰場的雕刻很生動。你看到一個倒下的士兵手中緊握著頂部有著鐵太陽的雷德塞拉斯軍旗。你看到一位穿著雷德塞拉斯盔甲的年輕人衝向軍旗拿起它，他有著和艾德一樣的黃色頭髮。你一直跟隨著的道路在他腳下清晰可見。當他的手摩擦著軍旗時你能理解他那快速模糊的想法，他想到了神，他的國家和遠離此地的弟弟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>一瞬間，這些想法和那個年輕人消失了，軍旗交給了另外一名士兵。你又順著道路往南，路最終消失在克裡亞班·雷裡格的陰影下。
+
+你睜開眼睛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「能幫你嗎？你看起來像很忙的樣子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「你兄弟轉去雷德塞拉斯之前到了反抗灣。在那裡他遇到了懷德溫，然後就入伍了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>艾德睜大了眼睛。「他跟懷德溫說了什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「懷德溫的腦子像探照燈。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「我不知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>【撒謊】「懷德溫說信得過他。你兄弟很贊同。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「就知道是這樣。我和沃登聽多了他起義的故事，知道不是吹的。並不是說他是伊歐薩斯。可能是法師搞的鬼。」
+
+「重要的是他們談了什麼。他們怎麼說？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「不，這說不通。他沒理由相信懷德溫。
+
+「那裡出來什麼事？他到底說了什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>艾德皺起眉頭。「這可不好笑。我兄弟摸過那個金屬太陽。你看到他往哪裡去了。他能跟懷德溫說什麼？我兄弟為什麼要為雷德塞拉斯而戰？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「我真的不知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「我就知道這麼多了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「你聾了嗎？我說了我不知道！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>艾德長大了嘴，眼光呆滯，眉頭皺了起來，咬緊下唇。
+
+他的聲音幾不可聞。
+
+「看來就是這樣了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「我們會搞清楚他為什麼這麼做。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「本來就沒希望。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「我就知道這是在浪費時間。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「我不知道。」艾德的表情變得麻木沒有生氣。
+
+「我們該怎麼做？尋找更多的戰爭遺物？找到這個已經很幸運了。
+
+「與他一同作戰的士兵早就死了。那場戰鬥就是屠殺。不管伊歐薩斯知道什麼，他不肯說。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>他慢慢地點了點頭，凝視天空。他的表情變得麻木而沒有生氣。
+
+「這真好笑。你可以用各種理由來騙自己，最後卻沒有什麼不同。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「我們可以走了。我已經看到了想看的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「希望我在戰場上沒有顯得沒心沒肺的。你盡力最大努力。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「我沒覺得。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「你負擔太重了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「這還差不多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「這對你很重要。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>他懊惱地笑了。「沒想到只差一步。
+
+「我還以為我終於能找到答案了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「當然這很蠢。我為什麼要找答案？伊歐薩斯信徒多的很，不知道他們的神是不是吹出來的。
+
+「可是，還是忍不住要回頭看。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>艾德眼光呆滯，看著遠處無形無名的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「你的兄弟會怎麼說？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「你做了該做的事。即使沃德溫就是伊歐薩斯，他的行為是惡意的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「看來你的確是錯信了。就算是用武力，他也會統一的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「你錯就錯在等別人來告訴你什麼才是對的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>艾德眨了眨眼，沉思著。
+
+「他會告訴我要相信他。」
+
+他揚起眉毛，嘴角上翹。「當然如果我知道他是怎麼想的就容易多了。不過也許我不必知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「作為神他的行為不夠正義。所以我和沃等認為懷德溫是冒牌的。
+
+「沒想到我的神真的要傷害自己人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「我想如果他贏了很多事都會更好。除穢運動不會發生。鍍金溪谷會是……不一樣的。至少樹木會更好看。甚至我的家庭還會在那裡。
+
+「也許不會有遺症。如果他們知道會發生什麼，迪伍德人會排著隊投降。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>他瞇起眼想了想。
+
+他笑起來。「我大概永遠都不會知道了，我不妨想些高興的事。
+
+「崇拜一個亡神的好處就是沒有懲罰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「是該好好想想。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>他拍拍你的肩膀。「我想你會一樣很清楚。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「那個老通魂者……你見過他了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「他瘋了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「全部？」他半帶希望地看著你笑著說。
+
+沒有得到回答，他明白地點點頭。「難怪我們沒有他的消息。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>你和艾德用雙手在泥裡挖，直到把東西取出。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>你用雙手在泥裡挖，直到把東西取出。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>你雙手握住，把它從泥裡拉出來。
+
+這東西是個半圓形的鋼畫，大約拳頭大小。半圓上均衡分佈著突起，像火舌，像初升太陽的光芒。
+
+在太陽的中心刻著沃拉斯植物的剪影。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>【給哀傷之母看】「能幫我們看看嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「我感謝你的提議，不過我不認為這個陌生的和藹女人恰巧是個咒術師。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>哀傷之母看著你。「我會盡力。不過，一旦我找到線索，我需要守護者的幫助……來確定靈魂所屬。
+
+她轉向艾德，伸出手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>艾德不由自主地把金屬太陽遞給她。
+
+哀傷之母一手拿著金屬太陽，一手拉著你，你腦中能感覺到她讓你放鬆。「集中思想。」她說，她的話語如在無盡地深淵中迴盪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>你閉上眼集中思想。你腦海中太陽十分明亮，帶著一波波過往經歷的溫暖，和回憶思緒的雜音——關於戰鬥，關於信仰，關於家。
+
+你在各種聲音和思緒之間漫遊，追隨艾德醒目的靈魂去尋找他的兄弟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「我們不必再等了。我的目的達到了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>他看著韋伯夫人。「這就夠了。抱歉浪費你的時間。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>韋伯夫人沒有說話。她向他微微點頭，撅起嘴，但並不生氣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「我……希望能幫你更多。我很同情你。往往一件東西給我們想知道的答案，結果會令人失望。
+
+「我的檔案裡有很多沒有了結的案子。不順的日子裡，我常想過離開。把我的能力用於其它……不那麼有挫敗感的事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「如果有語言能填補這空虛……最好是，消除他的懷疑，他的疑問。
+
+「我很後悔我的回答只是讓他的痛苦更深。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「在我的神需要我的時候，我可能背叛了他。我永遠只知道這些。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「我……希望能幫你更多。我很同情你。往往一件東西給我們想知道的答案，結果會令人失望。
+
+「我的檔案裡有很多沒有了結的案子。不順的日子裡，我常想過離開。把我的能力用於其它……不那麼有挫敗感的事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

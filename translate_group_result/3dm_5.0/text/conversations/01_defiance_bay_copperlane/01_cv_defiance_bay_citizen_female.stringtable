@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_defiance_bay_citizen_female</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“希望你在城市里度过快乐的日子！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“现在所有人都在谈论着通灵术。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“对不起，但我必须回家了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“那个可怜的孩子……是谁给了他一把利刃玩耍的？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“如果铸铁骑士团不能自主防御，他们又怎么能保护我们？”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

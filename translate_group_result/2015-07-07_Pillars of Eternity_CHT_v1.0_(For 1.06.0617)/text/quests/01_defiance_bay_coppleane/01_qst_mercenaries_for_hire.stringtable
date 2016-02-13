@@ -1,0 +1,87 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\01_defiance_bay_coppleane\01_qst_mercenaries_for_hire</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>15</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>湖前的銅器</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>到林端平原與巨人獵殺者見面。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>通過風暴牆大峽谷進入廢墟。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>找到樓從的武器。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>到科博萊茵的探險大廳把武器給維南。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>維南很害怕熔爐騎士的新計劃，並在尋找一個強大的武器拖住他們。他要我到樓從的廢墟裡找到英格維斯的強大武器。
+
+拜恩的巨人獵殺者探險隊被拍了出去，但沒有成功。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>據維南所說，巨人獵殺者沒要找到可以去廢墟的路。他想要我到他們在林端平原的營地裡見見他們，看看他們有沒有得到一些關於那個地方的有用消息，那個地方就在東邊的風暴牆大峽谷。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>巨人獵殺者找到了他們所謂的通往林端平原的風暴牆大峽谷的「鑰匙」，但是他們不知道怎麼使用。既然我拿到了，我來試試運氣吧。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>如果維南是對的，那麼樓從的廢墟裡會有大量的強悍武器。我敢肯定當我看到它們時我就會知道。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我在樓從找到了維南在尋找的古老武器。
+
+它們很老舊，無法修理它們似乎裡面還有一些靈魂的能量，我可以到探險大廳告訴維南。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>巨人獵殺者說熔爐騎士在風暴牆大峽谷巡邏得更加頻繁了。我得小心行事。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>我找到了一個現在還很好用的長矛。一件武器或許沒法引起維南的興趣，但我可以給它注入我得精華並把它收為己用。好像很久以前有人在這些廢墟裡做過同樣的事。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我已經得到了維南需要的武器，但現在我要殺死一群熔爐騎士。至少我已經獲得了十二人眾的信任。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我已經得到了維南需要的武器，但現在我要殺死一群熔爐騎士和巨人獵殺者。至少我已經獲得了十二人眾的信任。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>維南死了。我不知道還會與誰對英格維斯的武器感興趣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

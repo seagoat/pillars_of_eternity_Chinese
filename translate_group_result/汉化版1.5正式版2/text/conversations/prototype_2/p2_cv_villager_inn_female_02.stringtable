@@ -1,0 +1,25 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\prototype_2\p2_cv_villager_inn_female_02</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>3</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>如 果 我 有 钱 ，我 会 整 天 呆 在 这 儿 喝 个 底 朝 天 ！</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>我 不 知 道 奥 斯 马 尔 在 酒 里 放 了 什 么 ，但 总 能 让 顾 客 们 展 露 出 他 们 最 好 的 一 面 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>村 民 笑 得 东 倒 西 歪 ，差 点 把 酒 洒 了 。
+
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

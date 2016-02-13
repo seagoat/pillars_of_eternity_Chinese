@@ -1,0 +1,496 @@
+<StringTableFile>
+  <Name>conversations\02_defiance_bay_first_fires\02_cv_fyrga</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>91</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>那个女人一边祈祷一边低下了头，当你靠近的时候，你发现她在偷偷地看她身边的雕像。
+
+她看到了你，对你强挤出了一个微笑，“赞美玛格兰，欢迎来到她的神庙，请问有什么可以帮您的么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>她机械化地笑着，“你为什么回来呢？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>菲加点了点头，“愿你可以受到火焰的指引。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText> “多谢您的帮助，现在圣火将继续庇佑这个城市。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“即便我将要退位了，但我仍然有许多事情要做，寻找一个合适的继承人可不是一件简单的任务。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“你看上去不开心，怎么了？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“神庙？我以为这是一个宫殿。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“再见。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>DEBUG: Set Conditions for Quest Resolution = True.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>她放下手臂，“有关火焰，对么？”她把一只手搁在你的肩膀上，“它们只是符号，你不能把希望寄托在它们身上。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>“火焰？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>“两者皆是，这是阿凡尔公爵的宫殿，这里同样也是玛格兰的神殿……”她脸上的笑容颤抖着。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[出示燃烧之石。] “我已经去过燃烧瀑布了，这是我找到的东西。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>“英明神武的玛格兰啊，用烈焰改变我们……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>“我已经保持它们燃烧有十五年之久了，但是我觉得它们将要在数月之内熄灭了，这是人们的希望之火，它不能就这么熄灭了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>“你这么说倒是有些牵强附会了……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>“有些东西你可以无师自通，如果我没有搞错的话，你应该很清楚我的意思。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>“等等，说慢点，告诉我这是怎么回事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>“只是符号？这就是你为什么那么痛苦么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>她叹了一口气，“这里到处都是圣火的痕迹，你一定有在城里看到过举着空荡荡的火炬的女神雕像。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>“不，我只是——”她啜泣着。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>“什么意思？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>“那就再点燃呗，这里有不少火源啊。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[耸肩。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>“这样不行，它们是圣火。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>“我生存的意义就是要让它们永世不灭，但是最近，当我想要祈祷的时候，我就会想到整个城市陷入了一片死寂之中的景象。”
+
+她摇着头，“玛格兰怎么会让我们受罪呢？把灵魂从无辜的孩子身体里面提取出来对我们又有什么好处呢？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>“这就让你的信念动摇了？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>“不要就这么轻易地放弃你的信仰。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>她点了点头，捋了捋头发，“但是我相信玛格兰一定会再次与我交流的。”她撇了你一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>“你似乎不是这种会相信鬼神之说的人，但是我有办法让你理解。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>“你也是一个信徒，对吧？你一定可以理解我说的话。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>“最近，我一直能看到一些景象，一个地方充斥着火焰的颜色，那里有一条似乎是从天堂流下来的瀑布。”
+
+她举起手描绘着她所看到的景象，“在瀑布后面有一个洞穴，里面充满了火焰和危险……同时也有我的女神的信物。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>“我不是一个冷血的人，但我相信玛格兰会再次与我交流的。”她眉头紧锁着瞥了你一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>她满怀希望地点了点头，她的双手又十字紧扣了起来，“你是对的，幸运的是，我相信玛格兰会再次与我交流的。”她瞥了你一眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>“我想多了解一下这座神庙。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>“玛格兰是迪伍德人最为憧憬的女神，所以她的神庙是公爵宫殿的一部分这没有什么好奇怪的。她的火焰象征着试炼、革命以及新道路的光芒。”
+
+她向你示意雕像，“这是第一缕圣火，当它被点燃时，剩下的火焰也会点燃。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>“这圣火有什么伟大的？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>“它们代表着玛格兰的力量和指引，而此时此刻，塔代表着反抗湾人民的希望。”她环抱手臂，看着雕像。
+
+“我们的邻居瓦里安共和国的人认为我们是疑神疑鬼的，但是我们只是信奉神祗的警示罢了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>“它们代表着玛格兰的力量和指引，而此时此刻，塔代表着反抗湾人民的希望。”她环抱手臂，看着雕像。
+
+“你们瓦里安共和国的人认为我们是疑神疑鬼的，但是我们只是信奉神祗的警示罢了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>“还有呢？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>“你还会看到那瀑布的景象么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>她的嗓音低沉，“是的，还有那个洞穴，还有一个明亮的信物，又一个可怕的存在看守者。我真希望我能亲自前去。”她满怀歉疚地看着雕像。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>她拿起石头，“以火焰之名，你知道这是什么吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>“这是神锤炸弹的碎片。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>“不知道。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>“无论这是什么，听上去我似乎应该留下它。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>她拿在手端详着，“这是神锤炸弹的碎片，这是玛格兰在圣战中用来打败韦德温的武器，这是她亲手锻造的。”
+
+她把石头在手中转动，凝视着它的光芒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>“是的。”她将石头在手中转动，“这把武器正是她在圣战中用来打败韦德温的武器，这是她亲手锻造的。”
+
+她看着石头，眼神中流露出异样的神采。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>但她的眉头仍然紧锁着，“那为什么我没有感觉到任何不同？这能干什么？”
+
+她紧握着石头，以至于指节都发白了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>“你手里拿着的是神的武器的碎片，你应该对它抱有敬畏之情。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>“玛格兰是试炼的女神，而你却让我去追随她赐予你的景象，你根本就不够虔诚。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>“我不知道该怎么说。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>她流露出了放松的表情，她的眼眶中泛着泪花，“没错，这并不是什么解答……但是它有自己的含义，”她将石头合拢在手心，“我差点就忘了它有多重要。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>“她将神锤交给了她的追随者，这或许代表着她相信他们将会终结这场灾难。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>“通过试炼而升华。”她把石头在手中翻转着，“艰难的方法，但我对女神别无所求。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>她突然变得极其痛苦，“这是试炼么？的那是说这只是玛格兰的所知？”她将石头收了起来，“看来我没猜错……但是我多么希望我猜错了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>“或许从来就没有什么答案，至少对凡人来说，没有。”她拿着石头的手合拢了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>她看着两手空空的雕像，“这就是信仰的负担，女神的挑战并不算什么，但是女神若不见了，那便是天塌了。她的沉默，或是回答都会揭示出你空洞的信仰。”
+
+她挽起手臂，“想要找到一个合适的继承者不是那么容易的事情，与此同时，我也会继续奉行我的职责。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>她看着雕像，看到雕像举起的手中燃起的一缕火焰，“我信仰玛格兰，部分因为她与火的密切关系。”你感觉到火焰的热量瞬间充满了这个房间。
+
+“你完成了我的要求，我会确保带给反抗湾人民希望。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Bank Node 67</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>迪兰斯用不屑的语气咕哝道“我们能从逆境、磨难和考验中获得什么？”
+
+“试炼之火不会因她缺乏信仰而熄灭，它们之所以失去光明，皆因她根本不知道怎么对一个妓女保持信仰。
+
+“妓女不需要得到赞美和忠诚。她只想从自己的服务中获得报酬，而马格兰已经得到偿还，她享受磨难和痛苦。这个……低贱的人根本不配获得马格兰的祝福。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Bank Node 69</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>“哼。就跟马格兰的众多信徒一样卑微，对神给予的试炼感到恐惧。如果马格兰对她有所启示，就等于提前结束一个伪虔诚者的生命，这对弱者来说简直就是个致命陷阱。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>“我不确定如果有其他志同道合的人对她来说是多令人高兴。但未来充满危险和未知。也许我们共同努力会更好。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>萨加尼皱起了眉头。“一项充满未知的任务。我能理解她心中的疑虑。尽管如此，她知道这预言明显关于她的，却仍然派我们前去执行任务，够奇怪的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>“我并不相信预言，但我承认这次确实引起了我的兴趣。”卡纳咧嘴笑着说道。“也许我们可以获得这份神的恩赐。我确信菲尔加会很满意，而且马格兰或许也会对我们的试炼充满期待。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Bank Node 74</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>“就这样在你面前看着感觉真奇怪。在此之前这都只是……传说。从没想过是真的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>“这是众神与契思共同的结晶。”卡纳仔细地端详着那块石头，“可不仅是件遗物那么简单。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Bank Node 77</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>“就这样在你面前看着感觉真奇怪。在此之前这都只是……传说。从没想过是真的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>“在拉瓦台我们有各种炮弹和炸药……但这是出自另一种族之手。”卡纳看着石头若有所思。“历史的一部分。这不是你在寻找的吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Bank Node 80</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>“哼。她不知道这意味着什么、代表着什么、也不知道发生了什么。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Bank Node 82</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>“每个人都将迎来审判，没有人可以逃避。逃避则意味着堕落。她的软弱无能随着遗迹重焕光芒时完全暴露。她也许身穿着马格兰长袍，但她永远不是真正的追随者。
+
+“此人已经坠入黑暗深渊。铭记这个教训。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Bank Node 84</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>“她根本尝试过！要是只有我们的话，我会自愿完成真正的转化仪式。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Bank Node 86</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>“他们既不是自愿接受审判，也没有被强迫进行试炼的运气。”
+
+“她只是一个空壳，被神遗弃。若马格兰对她有一丝怜悯，就会把她当成渣滓般瞬间干掉。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>“现在让我赐予你某样你也许用得上的东西。”她突然消失，然后瞬间回到原地，手里拿着什么。“一把配得上女神之名的武器。请接受它，作为你效忠马格兰和我的谢礼。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>她叹了口气。“请稍等一会。”消失片刻后又突然带着某样东西回答原地。“我不再适合拥有它，但它也许可以帮上你的忙。而且，我确实得感谢你所付出的一切。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>“幸好不是。既然我的信仰恢复了，我的梦也将趋于安宁。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>“我反复回想起它，并经常为自己的所作所为而困惑。但不是，我恐怕马格兰已经不再与我交流了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>“感谢你。再见。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>“我知道那里面肯定有某样东西。但它在何处，我又该何去何从……”她摇着头。
+
+“我打算在远征大厅附近询问是否有人对这描述有印象。不过说真的，即便我找到那个地方，我也不知道该做些什么。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>“我不大相信预言，但也许……我们可以帮助他，[Player Name]。我愿意为解除自己心中的疑虑而付出一切。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>她头发蓬乱，眼神空洞而疲乏。“恐怕我们已经没有足够的绷带和草药，但我依然会为寻求庇护的人打开大门。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>她对你干笑了一声。“我该从哪说起？暴徒几乎摧毁了整座城市，现在人们纷纷跑来向我寻求答案，好像我很懂政治一样；又或是来寻求保护，以避免葬身火海……”
+
+她摇了摇头。“更重要的是，圣火仍在燃烧。我告诉人们这仅仅是一个象征，但这几乎没有任何改变。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>“通过审判实现转化。”她翻转手中的石头。“我们确实在最近的日子里目睹了开端。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>“你在追寻着世界上更深奥的秘密，对不对？那也许你会理解我接下来要跟你说的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

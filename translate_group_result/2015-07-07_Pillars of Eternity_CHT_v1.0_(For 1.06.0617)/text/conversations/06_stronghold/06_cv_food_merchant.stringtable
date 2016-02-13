@@ -1,0 +1,33 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_cv_food_merchant</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>5</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>「你好，先生。需要什麼新的配方或材料嗎？消磨漫漫長路的東西？」</DefaultText>
+			<FemaleText>「你好，女士。需要什麼新的配方或材料嗎？消磨漫漫長路的東西？」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>「又見面了，先生。你想看看我的新存貨嗎？」</DefaultText>
+			<FemaleText>「又見面了，女士。你想看看我的新存貨嗎？」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>「我想看看你的商品。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>「我這裡有甚至可以滿足最挑剔口味的東西。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

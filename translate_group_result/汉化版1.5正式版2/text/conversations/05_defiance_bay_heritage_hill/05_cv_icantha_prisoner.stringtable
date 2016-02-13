@@ -1,0 +1,67 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\05_defiance_bay_heritage_hill\05_cv_icantha_prisoner</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>11</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“你 不 是 伊 坎 莎 的 仆 从 。求 你 了 ，在 她 吃 掉 我 们 之 前 ，你 得 带 我 们 离 开 这 里 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“你 怎 么 了 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“我 们 只 是 园 丁 而 已 。这 区 域 陷 入 混 乱 后 ，伊 坎 莎 收 留 了 我 们 ，说 在 炼 狱 骑 士 控 制 局 势 之 前 ，保 证 我 们 安 全 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“但 她 将 我 们 锁 在 这 里 。为 她 服 务 的 怪 物 每 周 都 会 过 来 带 走 我 们 中 的 一 员 。
+
+
+
+“我 不 知 道 她 在 做 什 么 ，但 有 时 我 们 能 听 到 尖 叫 声 ...”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“我 们 现 在 能 安 全 离 开 了 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“请 带 我 们 离 开 这 里 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“暂 时 呆 在 这 里 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“通 往 出 口 的 道 路 应 该 很 安 全 。快 点 离 开 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>[说 谎 ]“你 们 无 法 离 开 这 区 域 ，但 高 塔 顶 部 是 安 全 的 。奥 尔 德 海 姆 会 照 顾 好 你 们 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>“我 们 很 想 离 开 传 承 山 ,但 那 高 塔 也 比 这 好 。谢 谢 你 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>“谢 谢 ！我 们 永 远 不 会 忘 记 你 的 恩 情 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

@@ -1,0 +1,93 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\08_wilderness\08_cv_drake_godhammer_acquire</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>15</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>在龙曾卷曲的地面上，发现一块耀眼橙光的石头，但你伸手拿起来是却感到触手冰凉。
+
+杜兰斯瞥见这块石头，眼睛腾地睁大了。他愤怒地注视着，嘴瘪了瘪仿佛喝了口毒药，朝地上啐了一口。
+
+“那贱人的一个残酷的玩笑。那贱人一向知道如何激怒我。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“你手里的这块石头是摧毁伊欧萨斯炸弹的一部分。圣锤。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“你什么意思？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“你看起来生气了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“这东西为什么会在这里？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>首次地，杜兰斯开始有意地压着怒火了，直到你开始询问他到底有没有生气。
+
+“嗯？不，你看到的不是怒火。我实际上只是诸神的笑话中的受害者而已。这只会留在她跟我之间，通魂者，因为只有我才能欣赏它。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“有个问题。那炸弹威力巨大，但没有一块碎片能从城塞飞到这里。那伪龙肯定带着它飞过了遥远的距离。又或者只不过是玛格岚把它放在这里。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“告诉我圣锤的事。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>“在我们下次相遇的时候吧，通魂者。我没心情回答，那贱人苦涩的气味使我烦躁不安。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>[离开]“把它带回菲尔佳吧。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>你又用余光看到了杜兰斯的怒容，但他什么都没说。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>“这有什么价值？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>“哈！去问伊欧萨斯。
+
+“如果你意思是对于铜来说...当它还是铜的时候。但市场很快就被圣锤碎片给淹没了，但其中大多数只不过是骗子的小法术而已。只是些冒牌货。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>“因为从没有任何可靠的方法去辨别碎片的真假，而能够甄别的一般是通魂者——这本身比碎片更有问题，所以他们大幅贬值。
+
+“随便问问一个对此感兴趣的店主，他们反而会试着卖给你一块碎片。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>[离开]</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

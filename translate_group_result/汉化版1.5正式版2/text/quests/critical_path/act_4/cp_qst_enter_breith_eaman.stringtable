@@ -1,0 +1,73 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\critical_path\act_4\cp_qst_enter_breith_eaman</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>12</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>忏 悔 者 庭 院 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>到 安 息 岛 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>找 到 忏 悔 者 庭 院 .</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>到 深 坑 里 去 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>叶 精 姐 妹 告 诉 我 赛 奥 斯 逃 进 了 一 条 地 下 的 小 路 ，那 条 路 通 往 因 格 维 斯 的 一 个 叫 暗 影 之 阳 的 地 方 ，并 断 了 身 后 的 路 。
+
+那 对 姐 妹 告 诉 了 我 另 一 条 可 以 找 到 他 的 路  - 或 许 会 因 此 追 上 他 。安 息 岛 有 一 条 穿 过 因 格 维 斯 古 老 监 狱 的 路 ，布 雷 斯 伊 曼 。那 条 路 很 危 险 ，但 或 许 是 去 暗 影 之 阳 最 快 的 路 ，因 为 里 面 有 很 多 落 差 很 大 的 路 可 以 直 接 跳 下 去 。
+
+我 的 幻 觉 越 来 越 频 繁 了 ，几 乎 混 淆 了 真 实 世 界 。我 没 有 时 间 了 。我 需 要 知 道 赛 奥 斯 记 得 那 些 我 们 以 前 分 享 过 的 事 ，那 样 的 话 ，无 论 是 什 么 在 折 磨 我 的 灵 魂 ，都 可 以 让 它 去 死 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>我 听 希 萨 里 赫 纽 恩 说 那 条 通 往 暗 影 之 阳 坐 落 在 安 息 岛 地 区 。那 里 有 一 个 古 老 的 court可 以 让 我 找 到 赛 奥 斯 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我 到 达 了 安 息 岛 的 岸 边 。岛 的 某 处 ，忏 悔 者 庭 院 里 有 一 条 路 通 往 布 雷 斯 伊 曼 和 暗 影 之 阳 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>在 忏 悔 者 庭 院 的 中 心 有 一 个 深 坑 ，深 不 见 底 ，往 里 面 扔 一 个 石 子 也 不 会 听 到 声 音 。不 管 是 谁 跳 下 去 都 会 死 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>多 瓦 尔 是 古 老 乐 曲 区 的 守 卫 和 船 员 。他 告 诉 过 你 安 息 岛 不 像 双 榆 城 的 其 他 地 方 。小 岛 是 个 anamfaths of the Six Tribes埋 葬 地 ，也 是 个 危 险 的 地 方 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>我 找 到 了 一 条 去 庭 院 的 近 路 ，似 乎 可 以 让 我 避 开 危 险 的 旅 途 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>我 可 以 利 用 一 下 神 恩 斡 旋 的 方 式 来 安 全 地 到 达 深 坑 底 部 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 在 忏 悔 者 庭 院 的 深 坑 底 部 活 了 下 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
+

@@ -1,0 +1,23 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_bs_visitor_slaver</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>3</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“我期待与你有业务往来，主人…”</DefaultText>
+			<FemaleText>&quot;I look forward to doing business, my Lady...&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“要我说的话，你周围确实有不错的样品。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“我觉得你不会愿意离开…不，算了。呵呵。我们别贪心。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

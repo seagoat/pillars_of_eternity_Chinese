@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\08_wilderness\08_bs_bandit_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「今天是個好日子。看好路，威廉。我已經等不及要試試這把新劍了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「什麼？這是誰？該死，威廉，你個沒用的雜種！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「抓住他！大家一起上！」</DefaultText>
+      <FemaleText>「抓住她！大家一起上！」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「嘿！格拉夫，各位！有人來了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

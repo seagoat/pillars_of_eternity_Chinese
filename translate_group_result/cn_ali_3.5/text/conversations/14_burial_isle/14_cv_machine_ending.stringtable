@@ -1,0 +1,94 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\14_burial_isle\14_cv_machine_ending</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>16</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>带着你的同伴作证，你走到赛奥斯曾经站在他的人民面前的地方。这个伟大的机器摆在你的面前，闲置着，时刻准备着。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>你见过这个机器和其他类似的机器工作。你懂得它的原理。这是个指引灵魂的设备。
+
+作为一个通魂者，影响那个指引应该不是难事，尽管这个机器这么大，也许会用尽你全身的气力。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>你走到赛奥斯曾经站在他的人民面前的地方。这个伟大的机器摆在你的面前，闲置着，时刻准备着。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>[念出启动机器的命令。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>[还没到时候。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>你再一次站在这个伟大的因格维斯机械前。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>旧齿轮松动后开始转动发出一股石头之间摩擦产生的刺耳的声音。
+
+在灵魂被送往绿萤主动脉之前你只有很短的时间。这你是重新引导他们的唯一机会。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>[把灵魂送往轮回。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>[把灵魂送往他们本打算的身体中。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>[解离灵魂，结束他们的存在。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>[把迪伍德的精华分配给存在的灵魂以加强他们。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>[允许灵魂通过动脉到沃迪卡。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>[把灵魂分散到未知的区域。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>你闭上眼睛，向外延伸你的感知，看着这些数以万计的灵魂在房间中环绕。你掌控灵魂的力量减弱了。你感到很难把他们保持在你的影响内，而且你能感觉到他们随着机器不断加速而逐渐从你身边溜走。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>有一瞬间你感觉你把他们全部掌握住了，但是他们的力量太强了，机会要把你撕成碎片。
+
+在那瞬间你竭尽全身气力弯曲他们的轨道，把他们引导到一个新的方向……</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>Trigger Conv Node 17</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

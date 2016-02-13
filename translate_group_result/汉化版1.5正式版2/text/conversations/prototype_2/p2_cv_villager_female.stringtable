@@ -1,0 +1,28 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\prototype_2\p2_cv_villager_female</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>这 里 永 远 欢 迎 旅 行 者  - 只 要 在 我 们 的 村 里 别 多 管 闲 事 就 行 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>如 果 你 需 要 买 东 西 ，温 弗 里 斯 有 稳 定 的 商 品 供 应 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>你 路 过 时 村 民 朝 你 点 点 头 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>我 们 需 要 更 多 你 这 样 的 旅 行 者 路 过 这 个 村 。能 与 你 比 拟 的 人 太 少 ，食 人 魔 屠 杀 者 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

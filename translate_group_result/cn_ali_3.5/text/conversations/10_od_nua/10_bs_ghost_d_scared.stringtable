@@ -1,0 +1,48 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\10_od_nua\10_bs_ghost_d_scared</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>8</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“嗨-嗨？有人吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“哦天哪…我什么都看不见了…”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“我听不到自己跌声音了。我怎么告诉他这一切？拜托了，这里什么都没有！”</DefaultText>
+			<FemaleText>&quot;I cannot hear myself. How am I to tell her anything? Please, there is nothing here!&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“求你…难道我永远离不开这里了么？”你听到一声呜咽。“转-转过身来！不许往前走了！众神不会再庇佑我们了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“我在这里。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“你是谁？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>[什么也不说。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“我早跟他说了。我告诉过他了，求他，求他放我出去。让我出去。让我出去！”</DefaultText>
+			<FemaleText>&quot;I told her. I told her, please, please let me out. Let me out. Let me out!&quot; </FemaleText>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

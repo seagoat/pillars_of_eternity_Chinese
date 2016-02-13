@@ -1,0 +1,37 @@
+<StringTableFile>
+  <Name>conversations\06_stronghold\06_cv_general_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“你好，我的主人。想买把新剑吗？新斧头呢？我这有舞枪弄棍的人喜欢的各种东西。要不来点路上用的原料和香料？”</DefaultText>
+      <FemaleText>"Greetings, m'lady. Fancy a new blade? Maybe an axe? I've plenty here to take the fancy of any woman of action." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“要是想买能伤人或者能治疗人的东西，那我这都有。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“让我看看你的货物。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[离开] “再见。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“我这也有为体弱的人准备的药剂和油品。想看看吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“想看看吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

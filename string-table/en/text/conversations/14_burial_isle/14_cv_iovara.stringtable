@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\14_burial_isle\14_cv_iovara</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>150</EntryCount>
@@ -258,7 +257,7 @@ His face turns smug and he spits a wad of phlegm on the ground. "She's right abo
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>She looks to Edér. "What if all the tragedy, all the persecution, came in defense of an impostor?"</DefaultText>
+      <DefaultText>She looks to Ed&#233;r. "What if all the tragedy, all the persecution, came in defense of an impostor?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

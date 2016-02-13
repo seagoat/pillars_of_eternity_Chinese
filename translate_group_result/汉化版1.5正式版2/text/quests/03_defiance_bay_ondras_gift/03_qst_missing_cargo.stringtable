@@ -1,0 +1,98 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\03_defiance_bay_ondras_gift\03_qst_missing_cargo</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>18</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>甲 板 上 的 协 助 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>找 到 马 森 诺 丢 失 的 箱 子 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>返 回 到 马 森 诺 那 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>击 败 瓦 尔 德 和 他 的 手 下 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>在 探 索 昂 德 拉 之 地 的 时 候 ，我 发 现 有 一 艘 码 头 上 的 船 上 的 一 个 水 手 用 的 贮 物 箱 不 见 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>一 个 年 轻 的 水 手 马 森 诺 向 我 吐 露 说 ，船 长 弗 塔 内 洛 分 神 的 时 候 ，他 用 的 贮 物 箱 被 偷 了 。马 森 诺 很 幸 运 ，他 的 队 长 在 岸 上 爽 的 翻 了 天 ，就 把 这 件 事 告 诉 了 他 。马 森 诺 恳 求 我 在 船 长 回 来 之 前 找 到 这 个 箱 子 。看 起 来 它 还 没 被 带 出 昂 德 拉 之 地 ，我 就 从 这 里 开 始 找 吧 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10028</ID>
+			<DefaultText>我 找 到 了 从 马 森 诺 的 船 上 被 偷 走 的 箱 子 。他 会 高 兴 地 得 知 东 西 已 经 找 到 ，并 且 小 偷 都 被 我 虐 死 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10032</ID>
+			<DefaultText>小 偷 偷 走 了 马 森 诺 本 来 要 看 管 的 箱 子 ，而 且 貌 似 不 干 一 架 他 们 是 不 会 还 回 来 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>我 似 乎 已 经 找 到 了 小 偷 。如 果 我 要 收 回 箱 子 的 话 就 要 摆 平 他 们 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>我 打 开 了 箱 子 ，找 到 了 船 长 弗 塔 内 洛 的 珍 藏 品  - 他 的 队 长 帽 和 细 剑 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>小 偷 死 了 ，我 可 以 收 回 箱 子 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>马 森 诺 会 高 兴 地 得 知 东 西 已 经 完 好 无 损 的 被 找 到 了 。我 确 信 他 会 从 现 在 起 擦 亮 自 己 的 眼 睛 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我 把 被 盗 的 箱 子 换 给 了 喜 笑 颜 开 的 马 森 诺 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我 把 箱 子 还 给 了 马 森 诺 ，但 留 下 了 里 面 的 帽 子 和 剑 。他 的 船 长 发 现 了 之 后 一 定 会 非 常 失 望 吧 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText>我 把 偷 东 西 的 小 偷 摆 平 了 ，并 让 马 森 诺 知 道 哪 里 可 以 找 到 箱 子 。他 看 起 来 乐 疯 了 。看 起 来 他 的 问 题 已 经 解 决 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30007</ID>
+			<DefaultText>马 森 诺 死 了 ，不 能 为 我 找 回 的 箱 子 而 报 答 我 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30010</ID>
+			<DefaultText>我 告 诉 马 森 诺 我 把 箱 子 里 船 长 的 帽 子 和 剑 都 留 下 了 。为 了 逃 离 船 长 的 复 仇 ，他 逃 跑 了 ，而 我 则 留 下 来 享 受 我 的 新 帽 子 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30011</ID>
+			<DefaultText>此 任 务 中 的 某 个 重 要 人 物 已 死 亡 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

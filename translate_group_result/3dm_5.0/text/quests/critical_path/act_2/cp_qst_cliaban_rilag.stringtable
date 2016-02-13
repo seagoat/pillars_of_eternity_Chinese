@@ -1,0 +1,84 @@
+<StringTableFile>
+  <Name>quests\critical_path\act_2\cp_qst_cliaban_rilag</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>穿越死亡之门</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>前往迪佛德村庄</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>同迪佛德寺庙的博德玛交谈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>前往Cliaban Rilag</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>在Cliaban Rilag寻找铅制之钥的迹象。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>在镇中找到了解废墟的人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>前往Cliaban Rilag</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>寺僧向我展示了迪佛德之外某地的神秘废墟。铅制之钥已经派了密探前去寻找，虽然他们的目的不明。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>我不知道这些废墟具体在哪里，不过也许迪佛德村的人会知道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我打听到本地的牧师博德玛知道这里的英格维斯废墟。也许他能帮我找到这地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>博德玛告诉我哪里去找Clîaban Rilag，但他警告我不要去惹守护废墟的格兰方瑟部落。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我进入了寺僧向我展示的废墟。我也许能找到一些线索，搞清铅制之钥的目的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>我终于到达了迪佛德村。这个是个小小的安详的与世隔绝之地，但这里一定有什么人熟悉那些废墟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>博德玛死了，但我从他的灵魂得知了Clîaban Rilag的地点。
+
+我从老人的元气感受到强烈的不祥之兆，但我不明白他不安的缘由。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我看到一个幻象，这Clîaban Rilag，铅制之钥的密探向英格维斯机器交出自己的灵魂。他们执行了同样的仪式，我在Cilant Lîs外面亲眼看到过的那种，这说明他们一定在整个迪伍德地区做着同样的事。其中一个密探的思想说明他们这么做的目的是为了确保这个地区的婴儿为空心种。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

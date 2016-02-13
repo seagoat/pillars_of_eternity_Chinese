@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>quests\critical_path\act_2\cp_qst_ducal_palace</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>31</EntryCount>
@@ -147,7 +146,7 @@ The Dozens are based out of the expedition hall in Copperlane.</DefaultText>
     </Entry>
     <Entry>
       <ID>20011</ID>
-      <DefaultText>I've informed her of what I was able to glean from the soul of the dead Leaden Key member in Clîaban Rilag.</DefaultText>
+      <DefaultText>I've informed her of what I was able to glean from the soul of the dead Leaden Key member in Cl&#238;aban Rilag.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

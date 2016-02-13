@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\companions\companion_cv_sagani_clues</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>184</EntryCount>
@@ -416,7 +415,7 @@ You feel a presence in the beast, something ancient and familiar. Before you can
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Edér realizes what he's seeing and he covers his mouth.
+      <DefaultText>Ed&#233;r realizes what he's seeing and he covers his mouth.
 
 "Sorry, Sagani."</DefaultText>
       <FemaleText />
@@ -803,7 +802,7 @@ She kneels by the fallen stag. Placing her hand on its head, she begins speaking
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>Edér frowns at you. "Even I know better than that."</DefaultText>
+      <DefaultText>Ed&#233;r frowns at you. "Even I know better than that."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

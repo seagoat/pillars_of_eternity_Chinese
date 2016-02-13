@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\companions\poi\poi_bs_rhemen</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bank Node 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「這 個 地 方 一 定 很 古 老 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「看 看 這 個 ！這 一 定 曾 是 個 封 閉 的 穹 頂 。讓 我 們 進 去 吧 ！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「歡 迎 來 到 樓 叢 。盡 管 聞 到 了 你 們 身 上 的 冒 險 渴 望 ，我 還 是 希 望 你 們 不 要 來 打 擾 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「這 裡 有 不 少 綠 螢 ，像 吸 引 靈 魂 的 磁 石 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

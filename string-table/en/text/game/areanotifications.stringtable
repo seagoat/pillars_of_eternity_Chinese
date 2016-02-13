@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>game\areanotifications</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>5</EntryCount>
@@ -37,13 +36,13 @@ You look above at the opening you jumped through, now barely a speck of light li
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Defiance Bay. The city at the heart of the Dyrwood’s revolution now seems on the brink of another.
+      <DefaultText>Defiance Bay. The city at the heart of the Dyrwood&#8217;s revolution now seems on the brink of another.
 
-Refugees line the streets, homeless and hungry, displaced by Waidwen’s Legacy, hoping for relief within the city walls and finding none.
+Refugees line the streets, homeless and hungry, displaced by Waidwen&#8217;s Legacy, hoping for relief within the city walls and finding none.
 
-Dissidents congregate to protest and to heckle, calling for an end to animancy and the ouster of their duke. The city’s militiamen cast fearful looks as they patrol the streets, their hands trembling at the hilts of their weapons.
+Dissidents congregate to protest and to heckle, calling for an end to animancy and the ouster of their duke. The city&#8217;s militiamen cast fearful looks as they patrol the streets, their hands trembling at the hilts of their weapons.
 
-The capital of a country that had not long ago incinerated a god now appears to be a spark away from sharing the deity’s fate…
+The capital of a country that had not long ago incinerated a god now appears to be a spark away from sharing the deity&#8217;s fate&#8230;
 </DefaultText>
       <FemaleText />
     </Entry>

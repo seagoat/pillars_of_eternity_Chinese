@@ -1,0 +1,21 @@
+<StringTableFile>
+  <Name>conversations\08_wilderness\08_cv_stormwall_crucible_attack_1</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>当你从废墟中出现，一些人包围了你。通过他们洁净的配套盔甲装束，你认出那是试炼骑士。
+
+他们的首领向你走来，嘴唇似笑非笑地骂着什么。“破坏者掠夺者。你们的人不听公爵的命令，面部画师的威胁，或者常识。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>他摇头。“负担不起再一场碎石战争。”
+
+他拿出武器。“希望无论你在那里找到什么都能值得。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

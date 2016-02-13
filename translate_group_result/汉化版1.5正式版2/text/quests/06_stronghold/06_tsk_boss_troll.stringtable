@@ -1,0 +1,43 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\06_stronghold\06_tsk_boss_troll</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>悬 赏 ：格 拉 斯 戴 尔 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>杀 死 格 拉 斯 戴 尔 ，把 它 的 头 带 回 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>把 格 拉 斯 戴 尔 的 头 交 给 塞 德 努 亚 的 费 尔 根 典 狱 长 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>广 为 人 知 的 “绿 色 死 神 ”巨 魔 格 拉 斯 戴 尔 ，一 直 徘 徊 在 风 暴 墙 大 峡 谷 的 楼 丛 废 墟 中 。一 个 炼 金 术 士 提 供 高 额 赏 金 来 换 取 它 的 头 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>如 果 我 能 跟 踪 并 打 败 出 现 在 楼 丛 废 墟 中 的 巨 魔 格 拉 斯 戴 尔 ，我 就 可 以 带 回 它 的 头 并 拿 到 赏 金 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>格 拉 斯 戴 尔 已 经 死 了 。我 只 需 要 把 他 的 头 带 给 费 尔 根 典 狱 长 换 取 赏 金 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 拿 到 了 格 拉 斯 戴 尔 的 赏 金 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

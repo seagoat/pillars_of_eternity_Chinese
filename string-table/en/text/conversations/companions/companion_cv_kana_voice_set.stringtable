@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\companions\companion_cv_kana_voice_set</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>86</EntryCount>
@@ -41,7 +40,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"For Tâkowa!"</DefaultText>
+      <DefaultText>"For T&#226;kowa!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,7 +160,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"No! Edér has fallen!" </DefaultText>
+      <DefaultText>"No! Ed&#233;r has fallen!" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

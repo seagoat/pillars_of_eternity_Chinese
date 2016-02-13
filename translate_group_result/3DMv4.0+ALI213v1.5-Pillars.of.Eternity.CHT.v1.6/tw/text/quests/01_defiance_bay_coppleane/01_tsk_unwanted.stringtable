@@ -1,0 +1,88 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\01_defiance_bay_coppleane\01_tsk_unwanted</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>16</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>棘手 的 通 緝 犯 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>找 到 艾 奧 恩 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>決 定 艾 奧 恩 的 命 運 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>向 煉 獄 堡 壘 報 告 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>煉 獄 騎 士 正 在 逮 捕 一 名 叫 艾 奧 恩 的 羽 精 。顯 然 他 還 沒 有 被 抓 到 ，不 過 騎 士 們 會 繼 續 追 捕 他 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>我 找 到 的 逮 捕 令 有 些 舊 了 。艾 奧 恩 不 會 走 遠 ，他 不 太 可 能 穿 過 大 門 的 守 衛 。我 可 以 在 城 市 裡 找 他 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>我 在 地 下 墓 穴 裡 遇 到 了 一 個 叫 艾 奧 恩 的 羽 精 。他 告 訴 我 煉 獄 騎 士 正 在 追 捕 他 ，因 為 犯 了 殺 人 罪 。他 要 逃 離 反 抗 灣 ，但 是 他 沒 有 足 夠 的 錢 來 離 開 城 市 ，他 請 求 我 幫 他 保 守 秘 密 來 給 他 爭 取 時 間 去 攢 錢 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10006</ID>
+			<DefaultText>我 殺 了 因 謀 殺 而 被 通 緝 的 艾 奧 恩 。煉 獄 堡 壘 的 某 些 人 在 知 道 我 幫 他 們 解 決 問 題 之 後 可 能 會 很 感 興 趣 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>我 發 現 艾 奧 恩 就 藏 在 地 下 墓 穴 裡 。他 要 逃 離 反 抗 灣 ，但 是 沒 有 足 夠 的 錢 。我 必 須 要 決 定 現 在 該 怎 麼 辦 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>阿 爾 德 瑪 爾 告 訴 我 有 人 說 艾 奧 恩 藏 在 科 博 萊 茵 的 地 下 墓 穴 裡 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>我 回 憶 起 我 在 科 博 萊 茵 的 地 下 墓 穴 裡 遇 到 一 個 羽 精 。阿 爾 德 瑪 爾 會 很 想 聽 我 說 說 這 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 找 到 了 逃 亡 者 艾 奧 恩 ，他 藏 在 地 下 墓 穴 裡 ，躲 避 煉 獄 騎 士 的 追 捕 。我 替 守 衛 殺 了 他 ，並 把 這 事 報 告 給 了 斯 特 德 曼 Aldmar。他 感 謝 我 為 城 市 做 了 貢 獻 ，尤 其 是 對 煉 獄 騎 士 ，並 給 了 我 豐 厚 的 獎 賞 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我 找 到 了 逃 亡 者 艾 奧 恩 ，他 藏 在 地 下 墓 穴 裡 ，躲 避 守 衛 的 追 捕 。他 很 高 興 我 沒 有 把 他 告 發 出 去 ，但 是 我 決 定 把 他 交 給 煉 獄 騎 士 。斯 特 德 曼 Aldmar派 出 一 群 煉 獄 騎 士 來 到 了 地 下 墓 穴 ，並 解 決 了 他 ，然 後 給 了 我 豐 厚 的 獎 賞 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>在 地 下 墓 穴 ，我 找 到 了 一 個 叫 艾 奧 恩 的 羽 精 ，他 正 在 躲 避 煉 獄 騎 士 的 追 捕 。他 正 在 積 攢 離 開 反 抗 灣 的 錢 。我 給 了 他 足 夠 的 錢 讓 他 離 開 城 市 。他 感 謝 了 我 ，並 說 永 遠 不 會 忘 記 我 的 善 良 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我 找 到 了 逃 亡 者 艾 奧 恩 ，他 藏 在 地 下 墓 穴 裡 ，躲 避 守 衛 的 追 捕 。他 很 高 興 我 沒 有 把 他 告 發 出 去 ，我 想 他 既 不 能 被 騎 士 抓 去 ，也 不 能 讓 他 自 由 。於 是 我 自 己 囚 禁 了 他 ，把 他 送 到 了 據 點 的 地 牢 裡 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText>此 任 務 中 的 某 個 重 要 人 物 已 死 亡 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

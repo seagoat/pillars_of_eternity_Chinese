@@ -1,0 +1,37 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\11_hearthsong\11_bs_glanfathan_tribesman_01</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>6</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>注 意 你 的 举 止 ，外 来 者 ，也 欢 迎 你 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>愿 星 光 指 引 你 ，外 来 者 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>这 名 格 兰 法 斯 人 盯 着 你 ，然 后 慢 慢 眨 着 眼 回 避 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>关 于 住 处 ，去 Hearthsong东 南 端 的 旅 店 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>规 定 和 贸 易 只 出 现 在 市 场 上 。西 北 Hearthsong。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+      <DefaultText>“我 们 的 阿 纳 姆 方 瑟 在 the Passage of the Six.侦 察 到 了 双 生 木 城 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

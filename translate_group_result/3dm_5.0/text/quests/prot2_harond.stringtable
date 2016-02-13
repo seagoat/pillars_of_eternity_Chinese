@@ -1,0 +1,146 @@
+<StringTableFile>
+  <Name>quests\prot2_harond</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>鲜血遗产</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>在迪佛德收集爱丽丝失踪的线索。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>返回德克根酒馆与哈罗德勋爵会面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>在德克根酒馆与哈罗德勋爵交谈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>爱丽丝·哈罗德女士在迪佛德这个宁静的小镇失踪了。哈罗德勋爵担心她都快成心病了，他担心乡民故意向他隐瞒了一些事情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>哈罗德勋爵这几天没有见到爱丽丝女士，而迪佛德的村民们也似乎没有什么帮助。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>威门德，一个斯卡恩的狂热信徒，告诉了我一些有关爱丽丝惊人的细节……以及她被他叔叔哈罗德勋爵搞怀孕的事。
+
+既然我已经应付了威门德，也该是时候应对哈罗德了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>在前往迪佛德的桥上，一个侍卫告诉我哈罗德勋爵的女儿失踪了。他和余下的哈罗德家族的仆人们正仔仔细细的在村庄中寻找她，但毫无结果。
+
+哈罗德勋爵正在酒馆等候。他可能知道更多与失踪有关的情况。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>登乐解释说爱丽丝和当地一个皮匠泰格里很熟悉。他的店铺开在一座残破的塔里。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>泰格里声称一只食人魔在巴尔河边的某处掳走爱丽丝，位于迪佛德的东部。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>我找到了那只食人魔，但洞里却没有爱丽丝的丝毫踪迹。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>食人魔克格拉克说他根本没有吃掉爱丽丝。我觉得他没啥好隐瞒的，倒是泰格里似乎隐瞒了什么。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>当在巴尔河东一个洞穴里探索的时候，我发现了一句尸骸，随身带着一张纸条和一把骷髅握柄的钥匙。这张纸条上提到了某个神秘寺庙，其中一个入口就在河边，而另一个则在塔里商店的后面。纸条被某种色素的斑点弄脏，还签上了一个字母“T”。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>泰格里发觉我知道的太多了，于是开始攻击我。当然，我还不是完全清楚他在隐瞒着什么……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>我在迪佛德之下找到了某种遗迹。虽然不是很清楚它原本是什么样子的，但斯卡恩的标识被涂在了墙上，刻在了隧道里。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>似乎是那个斯卡恩的狂热追随者绑架了爱丽丝，准备用作某种仪式。他肯定藏在这片遗迹里的某个地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>泰格里声称一只食人魔在巴尔河边的某处掳走爱丽丝，位于迪佛德的东部。而我不太相信她和那只食人魔消失的无影无踪，在这荒野里可能仍有一些线索。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>亨黛娜提到爱丽丝怀孕了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>威门德劝我表现的自然些。只要我不向哈罗德透露爱丽丝的情况，这些斯卡恩的计划就会成功。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>亨黛娜告诉我她曾看到爱丽丝和泰格里谈话。他的店铺就在那座残破的塔里她的马车附近。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>哈罗德勋爵被爱丽丝的死吓呆了，而我知道他的秘密更是让他惊恐。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>逝者</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我把爱丽丝送回了哈罗德身边。我也清楚，一旦心灵被完全污染，她便会杀害他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>清除了斯卡恩对爱丽丝心灵的影响的同时也抹去了她关于哈罗德勋爵和他对他所做一切的记忆。我让她在远离他叔叔的地方开始了崭新的生活。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>爱丽丝回到了哈罗德勋爵的身边，但我交代说斯卡恩已经污染了她的心灵。哈罗德承诺将会送她到布拉肯伯里疗养院。我只得祝愿她在那儿过的更好。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>任务关键人物已死亡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>我杀了哈罗德勋爵，把他的尸体留在了那间臭烘烘的酒馆的上层。这是他应得的。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

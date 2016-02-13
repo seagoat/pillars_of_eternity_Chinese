@@ -1,0 +1,60 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_cv_memory_glanfathan_villager</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>8</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>幽靈般的煙在你周圍翻滾。首先，你除了陰霾什麼都看不到，但漸漸地，你辨認出一位消瘦，駝著背的精靈老人。他的臉和瘦骨嶙峋的手臂被塗上了顏料。
+
+
+
+「你不能這樣做！」他搖搖頭對你說道。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>「做什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>[傾聽]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>「這是我們的村莊。我們的家！九爪部落幾乎在這住了50代。」透過煙霧你無法分辨他是瞇著眼還是朝你皺著眉。「你們來這兒開戰前我就在了。」
+
+
+
+他咳嗽著顫抖起來。「你不能就這麼燒了一切。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>停頓後，他退了幾步驚恐地看著你，似乎在回應你實際上並沒有說的話。但虛幻的火焰在你的視野角落閃爍。
+
+
+
+「可憐可憐我們，士兵！我們的戰士都走了…」他咳嗽道。「你不能全因為他們燒死我們。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>他伸出手來並張嘴打算說些什麼，但取代的只是一系列劇烈的咳嗽。他跪在地上，被濃厚的煙霧嗆得不行。你眼前全是火，不得不後退。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>「離開我們的村子！我們沒惹你！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

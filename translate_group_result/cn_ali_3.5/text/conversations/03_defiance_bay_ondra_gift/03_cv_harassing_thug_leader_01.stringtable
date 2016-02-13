@@ -1,0 +1,48 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\03_defiance_bay_ondra_gift\03_cv_harassing_thug_leader_01</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>8</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“抢走他的钱包逃走！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“这里有什么？昂德拉之地的另一个游客？”他朝那贼眉鼠眼的同伴点点头。“我们欢迎你的到来。”</DefaultText>
+			<FemaleText>&quot;What have we here? Another tourist in the Gift?&quot; He nods to his shifty-eyed companions. &quot;Let&apos;s give her a proper welcome.&quot;</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“我会给你钱。只要放过我。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>“我们有话好好谈。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>[攻击]“我可不这么认为。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>他笑着拔出一把锋利的剑。“恐怕你误解了，朋友。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>“好吧，如果你不是反抗湾最受欢迎的外地人。”他朝那贼眉鼠眼的同伴点点头。“我们欢迎你的到来。”</DefaultText>
+			<FemaleText>&quot;Well, if it isn&apos;t Defiance Bay&apos;s favorite foreigner.&quot; He nods to his shifty-eyed companions. &quot;Let&apos;s give her a proper welcome.&quot;</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>“看起来好像我们出身于名门贵族一样。或者像个外地人。”他朝那贼眉鼠眼的同伴点点头。“我们欢迎你的到来。”</DefaultText>
+			<FemaleText>&quot;Looks like we&apos;ve got ourselves a highborn. Foreign one, too.&quot; He nods to his shifty-eyed companions. &quot;Let&apos;s give her a proper welcome.&quot;</FemaleText>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

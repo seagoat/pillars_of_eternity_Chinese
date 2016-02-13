@@ -1,0 +1,48 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\01_defiance_bay_copperlane\01_cv_alghul_01</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>8</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>這 個 生 物 看 起 來 遭 到 了 可 怕 的 燒 傷 。它 的 皮 膚 變 黑 了 ，它 的 四 肢 都 融 化 黏 在 了 一 起 。它 吃 力 的 穿 過 了 房 間 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>你 好 ？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>[離 開 這 個 生 物 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>這 個 生 物 似 乎 不 在 意 你 的 話 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>[離 開 這 個 生 物 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>[推 一 推 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>這 個 生 物 的 皮 膚 變 形 的 讓 人 很 不 舒 服 。它 輕 輕 搖 了 搖 它 的 腳 ，然 後 繼 續 走 它 的 路 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>住 手 ！...我 需 要 這 些 可 憐 的 家 伙 給 我 做 家 務 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

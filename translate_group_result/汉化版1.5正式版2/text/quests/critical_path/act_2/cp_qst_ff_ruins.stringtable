@@ -1,0 +1,108 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\critical_path\act_2\cp_qst_ff_ruins</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>20</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>绝 不 抛 弃 女 王 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>去 沃 迪 卡 的 神 殿 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>找 到 进 入 沃 迪 卡 神 殿 的 路 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>调 查 暗 灰 之 钥 的 活 动 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>重 建 东 方 瓮 城 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>与 塞 德 努 亚 的 管 家 交 谈 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>马 尔 瓦 德 已 经 告 诉 我 ，我 会 在 “反 抗 之 城 ”找 到 暗 灰 之 钥 。“绝 不 抛 弃 女 王 ”，我 必 须 去 那 里 追 踪 触 发 我 觉 醒 的 人 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我 从 马 尔 瓦 德 那 里 了 解 到 暗 灰 之 钥 的 成 员 倾 向 于 崇 拜 沃 迪 卡 ，管 家 也 提 到 反 抗 湾 有 一 座 沃 迪 卡 的 神 殿 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>沃 迪 卡 的 神 殿 已 经 是 一 片 废 墟 ——至 少 从 地 上 部 分 来 看 是 的 。草 丛 里 的 楼 梯 表 明 有 更 多 的 地 下 神 殿 。虽 然 我 不 能 走 楼 梯 ，但 很 可 能 有 另 一 种 方 式 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10006</ID>
+			<DefaultText>我 进 入 了 沃 迪 卡 神 殿 废 墟 之 下 的 密 道 。如 果 马 尔 瓦 德 所 言 非 虚 ，这 是 我 找 到 暗 灰 之 钥 的 最 好 机 会 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10007</ID>
+			<DefaultText>东 方 瓮 城 拦 住 了 去 反 抗 湾 的 路 。我 开 始 旅 行 之 前 必 须 修 理 好 它 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10008</ID>
+			<DefaultText>马 尔 瓦 德 死 了 ，他 给 我 的 答 案 也 是 简 短 而 神 秘 。塞 德 努 亚 大 厅 中 的 管 家 似 乎 是 堡 垒 中 唯 一 的 活 物 。她 也 许 能 够 提 供 一 些 指 导 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>我 冒 充 是 暗 灰 之 钥 的 一 员 。只 要 我 不 攻 击 任 何 人 而 暴 露 自 己 ，就 能 自 由 移 动 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>一 个 蒙 面 男 子 ，大 概 是 暗 灰 之 钥 一 员 ，在 去 地 下 墓 穴 的 路 上 被 伏 击 了 。能 让 他 通 过 暗 灰 之 钥 哨 兵 的 伪 装 也 在 他 死 在 巨 魔 手 里 时 丢 掉 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>我 戴 上 了 一 个 暗 灰 之 钥 伪 装 。它 应 该 能 让 我 通 过 任 何 暗 灰 之 钥 哨 兵 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>神 殿 中 的 一 位 古 老 鬼 魂 告 诉 我 另 一 个 进 入 地 下 墓 穴 的 入 口 。他 说 应 该 在 科 博 莱 茵 区 的 南 大 门 附 近 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20005</ID>
+			<DefaultText>我 和 一 个 紧 张 的 年 轻 新 兵 说 话 ，他 给 了 我 侍 僧 的 口 令 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20006</ID>
+			<DefaultText>我 发 现 了 一 本 书 ，上 面 有 侍 僧 的 口 令 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20007</ID>
+			<DefaultText>我 四 处 询 问 后 知 道 神 殿 在 一 个 叫 最 初 之 火 的 地 方 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>虽 然 我 不 知 道 暗 灰 之 钥 活 动 的 真 正 目 的 或 我 追 查 成 员 的 身 份 ，但 我 确 实 发 现 他 们 在 该 地 区 活 动 的 几 个 首 领 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

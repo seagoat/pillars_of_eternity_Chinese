@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\01_defiance_bay_copperlane\01_bs_ilfa</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>埃尔法朝你点点头，一手拿酒一手把狼牙棒扛在肩上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“我们刚从黑草地里回来。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“这里的饮料比咸桅院的好，但这里的哈迪不关心懦夫。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

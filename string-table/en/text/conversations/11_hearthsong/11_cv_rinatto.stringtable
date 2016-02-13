@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\11_hearthsong\11_cv_rinatto</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>46</EntryCount>
@@ -17,7 +16,7 @@ Fuming with anger and pacing in tiny circles, the Vailian merchant aims his wild
       <ID>2</ID>
       <DefaultText>Rinatto looks away from you, scratching his neck and shifting his feet.
 
-"I am destitute and have but a few meager offerings left to sell - how dreadfully embarrassing. If I can recover my investment from Alarhî, I'll have funds to resupply my stores. Until then, you are welcome to take a look at what I still have in stock."</DefaultText>
+"I am destitute and have but a few meager offerings left to sell - how dreadfully embarrassing. If I can recover my investment from Alarh&#238;, I'll have funds to resupply my stores. Until then, you are welcome to take a look at what I still have in stock."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -102,7 +101,7 @@ He folds his arms, puffing out his chest. "And just what makes you think the Gla
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Alarhî gave me this beetle in a cage for you. She said your 'problem' would end in the same place if you continue your stay in Twin Elms."</DefaultText>
+      <DefaultText>"Alarh&#238; gave me this beetle in a cage for you. She said your 'problem' would end in the same place if you continue your stay in Twin Elms."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -152,7 +151,7 @@ He waves his hand at you, shooing you away. "Begone, fool, you will try my patie
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Does she take me for a fool? This will not stand! I have been swindled, and Alarhî will pay for what she did!"</DefaultText>
+      <DefaultText>"Does she take me for a fool? This will not stand! I have been swindled, and Alarh&#238; will pay for what she did!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -199,7 +198,7 @@ The tip of an arrow, gleaming red, protrudes from his throat. The merchant quive
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"That duplicitous bitch Alarhî! She claimed to be selling Elardh Golah flower buds, but all I have now is six bushels of common house plants! The herbs are useless!"
+      <DefaultText>"That duplicitous bitch Alarh&#238;! She claimed to be selling Elardh Golah flower buds, but all I have now is six bushels of common house plants! The herbs are useless!"
 
 He throws a handful of dried plants to the ground, stomping on the brittle stems and leaves, kicking up pungent, savory scents.
 
@@ -213,7 +212,7 @@ He throws a handful of dried plants to the ground, stomping on the brittle stems
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"What did Alarhî say when you confronted her?"</DefaultText>
+      <DefaultText>"What did Alarh&#238; say when you confronted her?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -227,7 +226,7 @@ Rinatto clears his throat, his voice grows quiet. "The herb did NOT have its int
       <ID>43</ID>
       <DefaultText>"Nothing of substance..." he quickly mutters. "She defended herself, of course - saying the herbs were legitimate. Why wouldn't she lie? No one will value my word over hers."
 
-He spits on the ground. "Alarhî can lie with impunity when surrounded by her gangs of savage thugs."</DefaultText>
+He spits on the ground. "Alarh&#238; can lie with impunity when surrounded by her gangs of savage thugs."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -244,7 +243,7 @@ He clears his throat, lowering his voice. "When dried and consumed or brewed int
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>He sighs, pressing on his temples. "I cannot sell this worthless herb to recover my coin. And I am powerless to confront Alarhî."
+      <DefaultText>He sighs, pressing on his temples. "I cannot sell this worthless herb to recover my coin. And I am powerless to confront Alarh&#238;."
 
 "I don't suppose...," he looks at you, sizing you up, "If you were willing to mediate, perhaps you could succeed where I failed. I would, of course, pay you handsomely for your troubles."</DefaultText>
       <FemaleText />

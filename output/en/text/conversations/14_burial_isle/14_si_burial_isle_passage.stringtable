@@ -1,0 +1,237 @@
+<StringTableFile>
+  <Name>conversations\14_burial_isle\14_si_burial_isle_passage</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Y你 冒 險 前 往 一 個 地 下 隧 道 。一 段 階 梯 盤 旋 而 上 ，引 你 走 向 一 段 昏 暗 的 走 廊 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[用 一 根 撬 棍 清 理 碎 石 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[把 碎 石 拉 松 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[離 開 ]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Y你 把 你 的 撬 棍 伸 進 一 塊 巨 石 中 ，將 你 所 有 的 力 量 用 上 去 。你 的 力 量 移 動 了 巨 石 ，它 發 著 沉 重 的 聲 音 滾 動 著 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>T這 些 巖 石 很 重 ，而 且 緊 緊 嵌 在 了 一 起 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>O殘 骸 的 其 他 部 分 開 始 支 離 破 碎 。這 塊 巨 大 的 建 築 群 開 始 發 出 各 種 聲 音 ，隨 時 可 能 將 數 千 磅 的 巨 石 傾 倒 在 你 身 上 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[派 遣 [Slot 0]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[派 遣 [Slot 1]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Send [Slot 2].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Send [Slot 3].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Send [Slot 4].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Send [Slot 5].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Slot 0]抓 起 了 一 塊 巨 石 並 舉 了 起 來 。灰 塵 從 巖 石 之 間 的 裂 縫 中 灑 出 來 。[Slot 0]的 力 量 撬 動 的 巨 石 ，巨 石 發 出 沉 重 的 響 聲 滾 動 著 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Slot 0]用 力 舉 用 力 拖 都 無 法 移 動 巨 石 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Slot 1]抓 起 了 一 塊 巨 石 並 舉 了 起 來 。灰 塵 從 巖 石 之 間 的 裂 縫 中 灑 出 來 。[Slot 1]的 力 量 撬 動 的 巨 石 ，巨 石 發 出 沉 重 的 響 聲 滾 動 著 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Slot 1]用 力 舉 用 力 拖 都 無 法 移 動 巨 石 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Slot 2]抓 起 了 一 塊 巨 石 並 舉 了 起 來 。灰 塵 從 巖 石 之 間 的 裂 縫 中 灑 出 來 。[Slot 2]的 力 量 撬 動 的 巨 石 ，巨 石 發 出 沉 重 的 響 聲 滾 動 著 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Slot 2]用 力 舉 用 力 拖 都 無 法 移 動 巨 石 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Slot 3]抓 起 了 一 塊 巨 石 並 舉 了 起 來 。灰 塵 從 巖 石 之 間 的 裂 縫 中 灑 出 來 。[Slot 3]的 力 量 撬 動 的 巨 石 ，巨 石 發 出 沉 重 的 響 聲 滾 動 著 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Slot 3]用 力 舉 用 力 拖 都 無 法 移 動 巨 石 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Slot 4]抓 起 了 一 塊 巨 石 並 舉 了 起 來 。灰 塵 從 巖 石 之 間 的 裂 縫 中 灑 出 來 。[Slot 4]的 力 量 撬 動 的 巨 石 ，巨 石 發 出 沉 重 的 響 聲 滾 動 著 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Slot 4]用 力 舉 用 力 拖 都 無 法 移 動 巨 石 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Slot 5]抓 起 了 一 塊 巨 石 並 舉 了 起 來 。灰 塵 從 巖 石 之 間 的 裂 縫 中 灑 出 來 。[Slot 5]的 力 量 撬 動 的 巨 石 ，巨 石 發 出 沉 重 的 響 聲 滾 動 著 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Slot 5]用 力 舉 用 力 拖 都 無 法 移 動 巨 石 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[不 管 這 塊 巨 石 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Y你 退 後 然 後 重 新 考 慮 你 的 選 擇 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>A殘 骸 倒 塌 下 來 ，你 越 過 了 變 窄 的 間 隙 。崩 落 的 石 塊 在 你 身 後 砸 個 粉 碎 ，但 是 只 有 一 些 小 沙 粒 擦 過 你 的 脖 子 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Slot 0]走 進 間 隙 ，支 撐 起 移 動 的 石 頭 。[Slot 0]支 撐 住 落 下 的 巖 石 ，給 隊 伍 留 出 一 個 可 以 鑽 過 去 空 隙 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Slot 1]走 進 間 隙 ，支 撐 起 移 動 的 石 頭 。[Slot 1]支 撐 住 落 下 的 巖 石 ，給 隊 伍 留 出 一 個 可 以 鑽 過 去 空 隙 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Slot 2]走 進 間 隙 ，支 撐 起 移 動 的 石 頭 。[Slot 2]支 撐 住 落 下 的 巖 石 ，給 隊 伍 留 出 一 個 可 以 鑽 過 去 空 隙 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Slot 3]走 進 間 隙 ，支 撐 起 移 動 的 石 頭 。[Slot 3]支 撐 住 落 下 的 巖 石 ，給 隊 伍 留 出 一 個 可 以 鑽 過 去 空 隙 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Slot 4]走 進 間 隙 ，支 撐 起 移 動 的 石 頭 。[Slot 4]支 撐 住 落 下 的 巖 石 ，給 隊 伍 留 出 一 個 可 以 鑽 過 去 空 隙 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Slot 5]走 進 間 隙 ，支 撐 起 移 動 的 石 頭 。[Slot 5]支 撐 住 落 下 的 巖 石 ，給 隊 伍 留 出 一 個 可 以 鑽 過 去 空 隙 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>A殘 骸 倒 塌 下 來 ，你 越 過 了 變 窄 的 間 隙 。然 而 ，[SkillCheck 0]不 夠 快 ，消 失 在 了 墜 落 的 石 頭 中 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[SkillCheck 0]從 一 片 灰 塵 雲 中 出 現 ，彎 腰 駝 背 ，捂 著 自 己 的 肋 骨 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>L光 從 隧 道 上 方 照 下 來 ，你 繼 續 走 ，光 變 得 越 來 越 亮 。很 快 ，這 條 道 路 到 了 盡 頭 ，來 到 了 安 息 島 高 處 的 懸 崖 上 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Y你 冒 險 進 入 了 地 下 隧 道 。螺 旋 階 梯 通 往 一 條 通 道 ，那 條 通 道 到 處 散 落 著 碎 石 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[自 己 把 石 頭 推 動 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Y你 抓 起 一 塊 巨 石 然 後 開 始 舉 起 來 。灰 塵 從 巖 石 之 間 的 裂 縫 中 灑 出 來 。你 的 力 量 移 動 了 巨 石 ，它 發 著 沉 重 的 聲 音 滾 動 著 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Y你 又 是 推 又 是 拉 ，但 是 還 是 無 法 移 動 巨 石 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Y你 走 進 缺 口 ，支 撐 住 移 動 的 石 頭 。你 支 撐 住 落 下 的 巖 石 ，給 隊 伍 留 出 一 個 可 以 鑽 過 去 空 隙 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>O在 更 高 的 台 階 上 ，光 線 穿 過 坍 塌 的 天 花 板 照 下 來 。一 面 碎 石 和 瓦 礫 組 成 的 牆 阻 擋 住 了 去 路 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>T你 用 你 敏 銳 的 觀 察 力 發 現 ，這 些 瓦 礫 看 起 來 不 穩 定 ，非 常 危 險 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[檢 查 這 堆 瓦 礫 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>T你 用 你 敏 銳 的 觀 察 力 發 現 ，這 一 塊 看 起 來 不 穩 定 ，非 常 危 險 。這 些 巖 石 似 乎 因 為 偶 然 的 機 會 嵌 在 了 一 起 。移 動 一 個 可 能 導 致 其 他 的 崩 潰 。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

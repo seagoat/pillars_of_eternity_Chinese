@@ -1,0 +1,57 @@
+﻿<StringTableFile>
+  <Name>conversations\08_wilderness\08_cv_foelmar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“啊 ！哈 ，你 好 。抱 歉 ，不 过 你 吓 了 我 一 大 跳 。我 听 到 丛 子 里 有 声 音 ……看 来 那 时 你 。我 真 胆 小 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“安 全 第 一 嘛 ，是 不 是 ？……不 过 ，你 听 到 了 什 么 东 西 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“啊 ！你 从 哪 来 得 ？！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“天 上 的 星 为 鉴 ——感 谢 你 ！从 没 见 过 这 么 凶 狠 的 野 兽 。太 怪 异 了 。拿 着 这 个 。我 准 备 回 镀 金 溪 谷 ，这 个 在 你 手 上 会 更 有 用 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“就 没 想 过 突 然 需 要 补 给 ？我 开 始 想 去 马 德 米 尔 桥 ，但 我 想 最 好 先 回 镇 子 ，带 几 个 人 一 块 走 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“再 次 感 谢 ！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Script Node 7</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Script Node 8</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Script Node 9</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Script Node 10</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

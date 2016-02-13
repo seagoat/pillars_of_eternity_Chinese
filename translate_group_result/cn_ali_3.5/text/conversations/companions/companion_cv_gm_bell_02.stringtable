@@ -1,0 +1,723 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\companions\companion_cv_gm_bell_02</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>121</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“这是一片以灵魂之石绿萤而形成的高原。在其顶部有一个巨大的铜铃，为高原所环抱。它在风中阵阵作响…而在朋友手中则象征着团结。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“在遥远的时代，巨铃就像是格兰法斯人的…瞭望塔，也许是这样吧。我不知道他们为什么放弃了它。其他人移民至此…并声称这是他们自己的塔。
+
+“而我反过来要夺回它的所属权。支柱成为一个摇篮，我可以在这吸引新的灵魂进入世界。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“产铃育儿院…在这里我可以吸引新的灵魂进入世界。我通过你所看到的想起了一些…但并不是所有。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“我会再想起来产铃育儿院的无魂儿出了什么事。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“在你的记忆里，你在帮助一个女人生育吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“产铃育儿院在哪里？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>“我想讨论些不同的东西。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>“现在让我们继续旅程吧。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>Trigger Conv Node 11</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>“是的…
+
+“…但我相信你只看到一小部分生育仪式。片刻无法完成，一天都完不成。
+
+“对孩子，母亲和我来说，这是一段持续多年的旅程。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>“你能告诉我关于生育仪式的事吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>“我关于产铃育儿院还有其他问题。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>“问吧——我将知无不言。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>“仪式只是…很多步骤之一，花了几十年开创这些…但孩子的思想总是在指引我，从它被唤醒的那一刻…与母亲度过的三个季度，分娩日…还有接下来的几年。
+
+“孩子的想法…这就是一切的开始。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>“孕妇…我经常会感觉到她的想法——和她的孩子——在她还没来得及说之前。我会安慰她，让她在问题的恐慌中平息。
+
+“我会让产铃育儿院的记忆在她脑海里高原的最高点，让振动的记忆填满我的想法——和她的。
+
+“通常情况下，孩子的灵魂也能听到它，所以乐铃的声音…回荡在母亲的思绪中。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>152</ID>
+			<DefaultText>“我能为母亲做许多…一些寻求身体舒适的仪式来稳定她们的想法——甚至绿萤。
+
+“别人会询问将来的建议。我能够提供药剂，药酒…还能阅读孩子的灵魂，都是为了让母亲安心。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>153</ID>
+			<DefaultText>“预知孩子的灵魂吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>154</ID>
+			<DefaultText>&quot;许多人...来是想知道他们孩子的未来...或者了解孩子们的原来，也就是他们的灵魂上辈子的生活。&quot;
+
+一股寒意慢慢笼罩过来，有那么一刻，似乎她要从你的视野中消失了...仿佛她不能忍受被人看到...一连串的恐惧，惊慌...</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>155</ID>
+			<DefaultText>&quot;这样的事...不是我能见到的。我不想惹人生气。&quot;
+
+很奇怪，似乎她不是在和你说话...而是在向听众讲话。气氛变得奇特起来，那股寒意也越来越浓厚...最后演变为模糊的恐惧。
+
+你感到&quot;通魂者&quot;这个词回荡在她的脑海中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>156</ID>
+			<DefaultText>&quot;你吓坏了...关于通魂者的事。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>157</ID>
+			<DefaultText>当有关通魂者的回忆进入你的脑海时，你感到刺痛...剧烈的...同时你的背和肩膀象被鞭子抽过一样火辣辣的...然后疼痛消失了...你感到哀伤之母就在你面前，保持着沉默...有点担心，小心翼翼的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>158</ID>
+			<DefaultText>&quot;我是有点特别，但通魂者这个称呼不适用于我。&quot;
+
+&quot;整个世界...似乎...都充斥着各种各样的称呼。我觉得，它们甚至影响到了人们的行为。以及他们其它长处的发挥。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>159</ID>
+			<DefaultText>&quot;为什么你认为自己是一个通魂者？&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>160</ID>
+			<DefaultText>&quot;世界很大，在一些地方，通魂者这个称呼...更为知名。这个称呼比其它称呼更容易得到，也不容易被拆穿。
+
+&quot;给一个未知物起个名称可以消除对它的恐惧...所以我不反对。我甚至相信那是真的，虽然我并不懂通魂者这方面的事。
+
+&quot;它甚至...给了我力量。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>161</ID>
+			<DefaultText>&quot;我能看到其它人的思想，影响他们，引导他们...&apos;通魂者&apos;很不错，这名字似乎并不妨碍做充满阳光的事。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>162</ID>
+			<DefaultText>&quot;但...如果有人找你来了解孩子的灵魂，你该怎么办呢？&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>163</ID>
+			<DefaultText>&quot;我...通过当时的情况来判断。首先，我感知面前母亲的灵魂...然后来判断孩子的情况，最后说出看法。
+
+&quot;只要有母亲的思想以及潜伏其下的情感，我就...并且...我就能用来预言孩子的未来。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>164</ID>
+			<DefaultText>&quot;如果结果证明你说的不对呢？&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>165</ID>
+			<DefaultText>&quot;...人的灵魂有塑造自己未来的能力，某种倾向可慢慢改变生活。如果一个人受母亲正面的爱护而成长的话... 
+
+&quot;不造成伤害的话...不要紧的。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>166</ID>
+			<DefaultText>&quot;我很了解他们的生活。随时间的推移，我可以改变他们的生活，他们的想法- 对母亲对孩子都是如此- 一旦孩子隆重，就受到我的保护...我能稳定孩子的思绪，直到孩子靠自己就能应付。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>167</ID>
+			<DefaultText>&quot;就这样...你塑造他们的思想，使你的预言成真。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>168</ID>
+			<DefaultText>&quot;这是我的使命...给他们展示我预言中的未来，比原本会有的更好...使他们相信这些预言。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>169</ID>
+			<DefaultText>&quot;这不是一个通魂者应该做的...我们不改变思想，我们仅仅是观察而已。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>170</ID>
+			<DefaultText>&quot;有时...即使最有说服力的预言也无法拯救一个孩子，使他能降生到人世...
+
+&quot;如果我能将一位母亲从满怀怨恨转化为宽容体贴，从厌弃和忽视转化为满怀爱心，那这就是我的使命。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>171</ID>
+			<DefaultText>&quot;想到通魂者这个称呼的光荣，我就获得了力量...那些力量是我原本没有的。他们都信任我。
+
+&quot;当他们相信的都变成现实。每一个孩子都按我所预言的道路发展，我这个通魂者的头衔就更加稳固了。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>172</ID>
+			<DefaultText>&quot;你必须明白...如果我的话没有分量...有很多生命会夭折。会被溺毙、抛弃在产铃育儿院远处的湖里。现在通向那个湖的小径已经消失在森林中了...原因很明显。
+
+&quot;做为一个通魂者不应该仅仅只满足于观察，而应该去拯救他们...凭借通魂者具有的能力，孩子能顺利降生、能被爱护，能茁壮成长。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>173</ID>
+			<DefaultText>&quot;通过将你自己的意志强加于别人身上...这不是读心术，这是控制。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>174</ID>
+			<DefaultText>&quot;一个受惊吓的灵魂会做出什么来呢？你能允许一位母亲因恐惧结束她新生儿的生命吗？
+
+&quot;你可以在记忆中感知到孩子生命的重要- 我们共享的记忆中。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>175</ID>
+			<DefaultText>&quot;但...当无魂儿降生时你是怎么做的呢？&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>176</ID>
+			<DefaultText>&quot;诅咒...&quot;
+
+你们两人之间出现了一丝紧张，因情绪的波动。慢慢一些念头又出现在你的脑海，你为这些念头感到不安...就象被母亲恶劣的情绪吓坏了的孩子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>178</ID>
+			<DefaultText>&quot;这么说你扭转了那些母亲对孩子们的态度。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>179</ID>
+			<DefaultText>&quot;为什么你要做这样的事？&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>180</ID>
+			<DefaultText>&quot;如果一位母亲的表现是令人痛苦的...甚至很刻薄的话，会怎样？&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>181</ID>
+			<DefaultText>&quot;当感知他人的思想时必须注意保护自己。
+
+&quot;母亲的粗暴和厌弃导致的痛苦...是一剂最强力的毒药。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>182</ID>
+			<DefaultText>&quot;听起来象是你的亲身体会。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>183</ID>
+			<DefaultText>&quot;是的...我至今还忘不了。
+
+&quot;我已经学会保护自己在感知时不受伤害，剥除有害的部分，明确地描绘出...孩子的未来。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>184</ID>
+			<DefaultText>&quot;我无法理解。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>185</ID>
+			<DefaultText>&quot;我不知道你能通魂。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>186</ID>
+			<DefaultText>&quot;那一幕幕...前世的...来世的...&quot;
+
+哀伤之母有一丝轻微的踌躇...片刻的担忧，随即平息了...这种反常的感觉来得快去得也快。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>188</ID>
+			<DefaultText>&quot;产铃育儿院位于迪伍德大森林的深处，与格兰法斯人的领土接壤的地方。在它周围...
+
+&quot;...有一处居民点，勉强可算是小镇吧，你在地图上找不到...但对那里的人来说小镇很重要，虽然它远离交通要道，很不方便。
+
+&quot;一个个小家庭，通过我的大脑和思想凝集成一条绳结。每一家都受欢迎，每个人都有意义。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>189</ID>
+			<DefaultText>&quot;第一次接生是持续最久的，也是最令人悲哀的。我怎么也寻找不到孩子的灵魂...
+
+你感到一种奇怪的...隔阂感出现在你们之间，仿佛你们的思想是在相隔很远的距离连接。这种感觉出现后消失了，然后又出现了，变得鲜明，能明显感觉到。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>190</ID>
+			<DefaultText>&quot;我搞不清是怎么回事。我应该做什么。我害怕我...不，我不能再细想这事了。
+
+&quot;那个孩子一直在那里，总是会让我想起出过什么事，就象一个标记。我使她的母亲关爱那个孩子。我使所有人关爱她...我一直想找出我做...出了什么问题。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>191</ID>
+			<DefaultText>&quot;你使她的母亲关爱她？&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>192</ID>
+			<DefaultText>&quot;但无魂儿...跟你无关。在别处也有类似事情。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>193</ID>
+			<DefaultText>&quot;我明白。你不得不自我保护。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>194</ID>
+			<DefaultText>&quot;事实...更糟。我使母亲相信她是健全的...而且... 
+
+&quot;...后来产铃育儿院有了更多的新生儿...还象原来一样，其中有很多需要扭转思想...一圈茫然的婴儿，父母们急切冒火的双眼...&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>195</ID>
+			<DefaultText>&quot;我们跟外界几乎没有什么联系。有足够的时间引导和改变那些或粗暴或痛苦或忧伤的人。我担心可能发生在婴儿身上的灾难...同样可能发生在我身上的灾难...
+
+&quot;每一位母亲都知道她可能会流产，但谁会想到会有一个漠然，没有灵魂的宝贝？父母们无法理解...而对未来的担忧又往往滋生出虐待。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>196</ID>
+			<DefaultText>&quot;是的...可是，母亲不也是无辜的吗？她不该也得到我的保护吗？
+
+&quot;我感觉我的动机得到了净化但...我对自己的所作所为并没有什么欣慰的感觉。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>197</ID>
+			<DefaultText>&quot;那是我们曾经共同经历过的吗？或者只是你强加于我的？&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>198</ID>
+			<DefaultText>&quot;那段记忆...不是真的，对吗？&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>205</ID>
+			<DefaultText>&quot;伟大的善行...孩子们得到了拯救。
+
+&quot;这是你注定要选择的路，如果再给你选择的机会，你还会这样做的。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>206</ID>
+			<DefaultText>&quot;当那种事发生时，我会做出自己的选择。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>207</ID>
+			<DefaultText>&quot;是的，我肯定会的。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>208</ID>
+			<DefaultText>&quot;我不会去做这种控制别人的事的。即使这样能带来更大的善行。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>210</ID>
+			<DefaultText>&quot;这种决定不是你个人的事，通魂者。
+
+&quot;当这个世界需要时，当那些婴儿需要时。这种需要远远重要于你或者你的...个人观点。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>212</ID>
+			<DefaultText>她的思绪轻抚着你，带来清凉宽慰的感觉。&quot;很好，通魂者。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>221</ID>
+			<DefaultText>&quot;为保护单纯的生命值得付出任何代价。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>223</ID>
+			<DefaultText>&quot;你把自己的意志施加到镇里人的身上，是不对的。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>224</ID>
+			<DefaultText>&quot;不这样的话...他们会杀掉那些孩子。我别无选择。
+
+&quot;事关重大，不需要寻求许可。所以我要使他们相信孩子会是健全的。直到有太多的孩子...而且保护也瓦解了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>225</ID>
+			<DefaultText>“接下来发生了什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>226</ID>
+			<DefaultText>&quot;我...掌握着他们的思想。我尽可能地塑造和引导他们。一天天过去，随着每一个新生命的降生，压力越来越大。我越感到自己的控制力下降，就越专注于自己的思想。
+
+&quot;最终，甚至我自己也屈服于自己错觉的力量了。我将那么多联系编织得过于紧密以至于我自己也无法弄清楚它们了。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>227</ID>
+			<DefaultText>&quot;终于有一天早上，我听到村里丧钟那缓慢而有规律的声音。悲恸的哀哭回荡在薄雾中。一位母亲死去了，她因过份专注于照料自己的无魂儿疲劳而死，而那孩子原本是她所不在意的。
+
+&quot;从那之后，所有的错觉都崩塌了。镇民看到了他们的无魂儿本来的样子，而不是我希望他们看到的样子。
+
+&quot;在那天还没结束的时候，他们就开始用异样的眼光看我了。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>228</ID>
+			<DefaultText>&quot;我那时还不知道出了什么事，但我知道必须逃离了。我把脑海中浮现的各种怀疑，各种往事记忆都压了下来，隐藏起来。&quot;
+
+她感到冷。孤独。身体僵硬。
+
+&quot;我对我的能力感到失望，但我做了必须做的。我...为那位死去的母亲感到遗憾，但如果我没影响她的话，事情岂不是更恶劣？&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>229</ID>
+			<DefaultText>&quot;事情的正确与否并不总是易于判断的。但如果我们能救赎迪伍德那些有缺陷的孩子，我们的奋斗就是值得的。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>230</ID>
+			<DefaultText>&quot;象那样去支配别人，即使是出于仁慈，也是错误的。我们必须接受这个现实：有些事我们不能插手。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>231</ID>
+			<DefaultText>&quot;我不愿再和你同行了。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>232</ID>
+			<DefaultText>当你在思想中表达了想法后，你能感到你们两人之间的距离感增大了。这时...
+
+这时她慢慢从你的视野中隐没了，似乎融化到了空气中，一片死寂。你能看到她的影子，然后...</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>235</ID>
+			<DefaultText>&quot;有别的办法。你可以为孩子从外界寻求帮助。或者当你感到害怕时逃走。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>236</ID>
+			<DefaultText>&quot;你说的那些选择在慌乱中并不一定有可行性。当第一位母亲为她的孩子求助时就是如此，最后我不得不做出了控制思想的决定。
+
+&quot;我怎能知道那样做最终会怎样，也许有人和我类似的情况能给我以借鉴？而且，那时的犹豫会使一条年幼的生命逝去...&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>237</ID>
+			<DefaultText>Trigger Conv Node 237</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>239</ID>
+			<DefaultText>&quot;我的行为导致了更多的惨剧。更糟的是，我的损害了整个村落...使他们无力和无助，就像我要保护的那些孩子。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>240</ID>
+			<DefaultText>&quot;但以后呢？离开这场悲剧不是更明智吗？听凭它自然过去，就是一场饥荒。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>241</ID>
+			<DefaultText>&quot;生命常常充满了痛苦。难以避免。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>242</ID>
+			<DefaultText>&quot;有时如此。不过你的行为会使之更糟。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>243</ID>
+			<DefaultText>&quot;将你的意志强加于别人是邪恶的。那样的结果只能是悲剧。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>244</ID>
+			<DefaultText>&quot;大自然有最终纠正自己的能力。你必须让它自然发生。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>245</ID>
+			<DefaultText>&quot;我一直以来都在热心帮助他们，通魂者...将孩子从子宫带到这个世界，平息母亲的疼痛...逃避不是我的方式。
+
+&quot;生育时一波波的痛苦就象转动的命运之轮。由此诞生了新的生命，新的希望，新的生活...这种痛苦应该随它自然出现并消退。也许正是这种痛苦孕育了希望。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>247</ID>
+			<DefaultText>&quot;你感知母亲的思想？&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>248</ID>
+			<DefaultText>&quot; 分享记忆和思想会使两人更紧密...苦难也能如此...不过前题是，分享的记忆应该是双方都熟悉的。
+
+&quot;育儿院的本意也是这样的，为那些需要者提供坚实的庇护...在那里你可以得到宝贵的爱心。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>250</ID>
+			<DefaultText>当她这样说的时候...你似乎感到自己的双腿象婴儿一样盘在一起，安全地呆在一个温暖的房间里...身下铺着厚实的毯子。
+
+&quot;...对这些场面的分享能使两者关系更亲密，使他们通过相互鼓励获得力量。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>251</ID>
+			<DefaultText>&quot;你提到了那个仪式持续了好多年...在儿童出生之后会发生什么？&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>252</ID>
+			<DefaultText>&quot;一旦疼痛消退，母亲和孩子恢复正常，我振响手腕上的产铃，使母亲能感知到孩子的思维，铃声回响在他们彼此的脑海里...&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>253</ID>
+			<DefaultText>&quot;产铃打开了他们之间的联系通道，使母亲和婴儿能相互感知。
+
+&quot;...当他们这样交流感觉时，我就将这些记忆编织起来，保留在他们记忆深处。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>254</ID>
+			<DefaultText>&quot;产铃在生育过程中很重要吗？&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>255</ID>
+			<DefaultText>&quot;是的，在产后的几年内都很重要。婴儿出生后，我会给他们一副。它可以使母亲和孩子时时回忆起共同经历过的出生时刻。&quot; 
+
+你感到一种奇特感觉，一股暖意，你能感觉到两人在相视微笑，忽隐忽现的，然后消失了。
+
+&quot;产铃系在婴儿的手腕上，陪伴孩子们成长...它能照料他们，无论身体还是心灵。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>257</ID>
+			<DefaultText>&quot;产铃没有什么惊天动地的魔法，但它们有实用...之处。如果一个婴儿挣扎着要爬出摇篮或者翻过婴儿床...&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>258</ID>
+			<DefaultText>&quot;...母亲仅通过铃声就能知道发生了什么。有时，如果连接够紧密，我也能听到。&quot;
+
+那种微笑的感觉又出现了，比刚才持续时间长，你们两人都清楚地感觉到了。
+
+&quot;如果不处处留心，那些孩子...他们自己就可能伤害自己。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>259</ID>
+			<DefaultText>&quot;产铃被保留在我的脑海里，直到孩子不再需要它们。当我不再能在我的脑海里听到他们的声音，我就知道他们的灵魂已经改变了...我们之间的联系也就淡化了。
+
+&quot;这个过程可能持续好多年...或者要不了很久。但是...必须的。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>260</ID>
+			<DefaultText>&quot;你在这些孩子出生后要照看他们很多年吗？&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>261</ID>
+			<DefaultText>&quot;孩子都是...脆弱的。甚至血与灵魂相连也不够。必须小心呵护，甚至... 
+
+&quot;…仅仅精神上的引导是不够的，也要注意身体方面。但如果用心呵护...即使最病弱的孩子也能获得应有的生活，他们的灵魂与我紧紧相连。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>262</ID>
+			<DefaultText>&quot;如果某个孩子的灵魂过于低落...我就能听到他们脑海中产铃的呼声，然后给予他们力量，甚至从很远的地方。这样做...不是总会有效，但...至少给了希望。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>263</ID>
+			<DefaultText>&quot;听起来你也曾有力所不能及的事发生过。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>264</ID>
+			<DefaultText>反正是不想再来一次了。
+
+在Bell之前的年代……死去的孩子……都会被扔到bell之后的Lake里。有时候如果他们将来也被认为是……一事无成的话，即使是在活着的时候也在劫难逃。
+
+那是个……不同的年代。孩子们都被……残忍地对待。那些年代……那些年代已经过去了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>276</ID>
+			<DefaultText>她低下了头。好像有东西在笼罩着你……一团又厚又重的迷雾。哀伤之母把目光移向了里面，渐渐地聚集在你身上，好像要让你窒息。
+
+终于，她抬起了眼睛，迷雾退散了。我知道这只不过是每个迪伍德人都会面对的灾难，这个灾难将会让这个国度分崩离析。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>277</ID>
+			<DefaultText>她沉默了好一会儿。你的话让我平静……这是我意料不到的。谢谢你，通魂者，谢谢你的先知能力……谢谢你指引我走出了自己内心的牢笼。
+
+希望它也能让你走出赛奥斯带给你的幻觉。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>278</ID>
+			<DefaultText>我没有这样想过……我本想用自己的脑子编织一个摇篮……但是却筑成了一座监狱。我和村里人的监狱。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>279</ID>
+			<DefaultText>但是……你感觉控制和指导他们的脑子是正确的？即使你知道这样做的代价？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>280</ID>
+			<DefaultText>那时候你还不知道代价。我们有时候只能摸着石头过河。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>281</ID>
+			<DefaultText>上天给了孩子们一个机会，并且带给了他们家庭欢乐，虽然只有一会儿。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>282</ID>
+			<DefaultText>我本打算抚平他们的伤痛……就像我在抚平很多母亲辛劳的伤痛一样。
+
+但是我的思想变成了一个陷阱……一座监狱。我和村里人的监狱。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>283</ID>
+			<DefaultText>我以为我可以的。我操纵了如此多的人接受了……仁慈……但是那些思想变成了一个陷阱……一座监狱。我和村里人的监狱。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>284</ID>
+			<DefaultText>一段旋律……短暂但又甜蜜。在它还没消失的时候值得好好珍惜。命运一个小小的转折，但仍然是转折。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>285</ID>
+			<DefaultText>鲜活而又纯洁的生活比其他任何事情都要珍贵。是的，很值。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>286</ID>
+			<DefaultText>一针一线织成的锦绣……但却没有纹理。所以说是思想和梦想驱动着我们，铸就了我们。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>287</ID>
+			<DefaultText>你为什么会预言一个孩子的灵魂？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>288</ID>
+			<DefaultText>看起来你的“预言”是很有必要的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>289</ID>
+			<DefaultText>“我明白了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>290</ID>
+			<DefaultText>哀伤之母的脑海已经平静了很久。她让你的话语冲刷着她的脑海，穿梭在她自己的想法中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>291</ID>
+			<DefaultText>……你提到孩子们身上的诅咒。这个诅咒已经降临到了这个国家身上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>292</ID>
+			<DefaultText>……是这样的，没错。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>293</ID>
+			<DefaultText>突然，一阵刺耳的哭喊打破了你内心的平静……她举起了手，你看到了手中流淌出的和谐，但却悄无声息。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

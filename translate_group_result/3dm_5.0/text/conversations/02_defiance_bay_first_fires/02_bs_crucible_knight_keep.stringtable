@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\02_defiance_bay_first_fires\02_bs_crucible_knight_keep</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“我们得到骑士身份不会太久的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“杜门朗家族还认为它是城市的法律。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“邓斯坦是你能在全城找到的最有天赋的兵器工匠。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

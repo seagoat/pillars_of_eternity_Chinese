@@ -1,0 +1,197 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\critical_path\act_2\cp_qst_sanitarium</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>37</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>一 直 等 待 的 人 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>与 布 拉 肯 伯 里 疗 养 院 的 看 守 者 首 领 对 话 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>询 问 灵 魂 学 者 关 于 可 疑 行 动 的 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>告 诉 伊 塞 默 尔 关 于 亚 佐 的 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>调 查 病 房 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>询 问 病 人 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>询 问 北 侧 病 房 的 格 拉 姆 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>与 走 廊 尽 头 的 病 人 谈 话 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>制 服 尤 斯 格 里 姆 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>询 问 北 侧 病 房 的 格 拉 姆 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>寻 找 暗 灰 之 钥 的 密 探 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>找 到 “痛 苦 与 疯 狂 之 地 ”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>暗 灰 之 钥 侍 僧 让 我 看 到 了 一 个 在 “痛 苦 与 疯 狂 之 地 ”的 使 者 。我 得 找 到 这 个 使 者 ，弄 清 楚 她 或 他 的 计 划 ，看 看 是 否 有 一 些 线 索 来 让 我 找 到 我 要 找 的 人 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>我 得 和 疗 养 院 看 守 者 首 领 ，伊 塞 默 尔 协 商 一 下 ，说 说 我 在 寻 找 暗 灰 之 钥 的 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>看 守 者 首 领 伊 塞 默 尔 邀 请 我 到 疗 养 院 与 灵 魂 学 者 交 谈 ，看 看 他 是 否 知 道 什 么 不 寻 常 的 东 西 ，以 便 帮 我 找 到 暗 灰 之 钥 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>凯 德 曼 亚 佐 不 在 办 公 室 ，很 明 显 他 在 进 行 一 些 秘 密 试 验 。我 得 把 这 事 跟 看 守 者 首 领 说 一 下 。这 是 否 与 暗 灰 之 钥 的 行 动 有 关 还 有 待 观 察 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>看 守 者 首 领 让 我 进 入 了 病 房 。灵 魂 学 者 在 管 理 病 人 ，凯 德 曼 亚 佐 一 直 在 进 行 未 经 许 可 的 实 验 。他 的 可 疑 行 动 就 是 我 最 好 的 线 索 ，可 以 帮 我 找 到 暗 灰 之 钥 密 探 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>亚 佐 说 他 最 近 没 有 时 间 观 察 病 人 。他 还 说 病 房 前 那 些 “情 况 正 常 ”的 病 人 可 能 有 些 不 正 常 举 动 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10006</ID>
+			<DefaultText>弗 雷 尤 尔 提 到 一 个 叫 做 格 拉 姆 的 人 ，他 在 北 侧 病 房 ，他 一 直 是 凯 德 曼 亚 佐 的 试 验 品 ，格 拉 姆 并 不 是 很 愿 意 参 与 实 验 ，格 拉 姆 或 许 知 道 亚 佐 是 否 与 暗 灰 之 钥 共 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10007</ID>
+			<DefaultText>我 看 到 一 个 近 乎 发 疯 的 ，名 叫 格 拉 姆 的 病 人 的 灵 魂 ，知 道 在 北 侧 病 房 尽 头 有 一 个 男 孩 的 行 为 十 分 异 常 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10008</ID>
+			<DefaultText>我 了 解 到 病 人 尤 斯 格 里 姆 就 在 我 要 找 的 人 那 里 。他 一 定 是 被 控 制 了 ，我 从 他 身 上 可 以 知 道 ，我 该 如 何 解 除 我 的 觉 醒 。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10013</ID>
+			<DefaultText>亚 佐 自 己 的 记 录 表 明 他 曾 多 次 强 迫 病 人 进 行 试 验 。一 个 来 自 北 侧 病 房 的 病 人 ，格 拉 姆 ，是 一 个 常 用 实 验 对 象 。格 拉 姆 或 许 知 道 亚 佐 是 否 与 暗 灰 之 钥 共 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10014</ID>
+			<DefaultText>因 为 我 没 有 得 到 疗 养 院 的 帮 助 ，我 得 自 己 寻 找 暗 灰 之 钥 的 密 探 了 。她 或 他 仍 然 在 疗 养 院 的 某 处 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10015</ID>
+			<DefaultText>暗 灰 之 钥 的 侍 僧 让 我 了 解 到 他 有 一 个 有 钱 的 邻 居 ，同 样 充 满 疯 狂 和 悲 惨 。有 人 在 等 待 ，他 是 “被 选 中 的 犯 人 ”。
+
+如 果 我 要 找 到 这 个 人 ，我 需 要 找 到 这 个 邻 居 。或 许 守 卫 会 知 道 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>莫 德 雷 德 说 疗 养 院 的 病 人 比 平 常 更 焦 躁 ，而 凯 德 曼 亚 佐 就 是 负 责 照 看 他 们 的 人 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>卡 夫 登 认 为 凯 德 曼 亚 佐 在 被 禁 止 做 实 验 的 情 况 下 仍 然 一 直 在 做 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>Audmer告 诉 我 如 果 疗 养 院 发 生 了 奇 怪 的 事 ，那 一 定 会 发 生 在 较 低 的 水 平 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20005</ID>
+			<DefaultText>楠 丝 说 她 对 自 己 的 试 验 他 投 入 了 ，没 有 注 意 到 疗 养 院 发 生 的 其 他 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20008</ID>
+			<DefaultText>我 杀 了 亚 佐 ，但 是 我 或 许 可 以 在 他 的 研 究 笔 记 里 找 到 点 有 用 的 东 西 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20009</ID>
+			<DefaultText>当 我 和 亚 佐 对 峙 时 ，他 承 认 他 对 待 格 拉 姆 的 方 式 很 不 人 道 ，但 他 坚 持 让 我 亲 自 去 和 格 拉 姆 谈 谈 并 看 看 身 体 的 康 复 状 况  。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20011</ID>
+			<DefaultText>弗 雷 尤 尔 提 到 凯 德 曼 亚 佐 是 唯 一 一 个 可 以 进 入 北 侧 病 房 的 人 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20012</ID>
+			<DefaultText>弗 雷 尤 尔 提 到 凯 德 曼 亚 佐 是 唯 一 一 个 可 以 进 入 北 侧 病 房 的 人 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20013</ID>
+			<DefaultText>贝 拉 塞 杰 伊 声 称 如 果 想 知 道 别 人 的 行 为 不 应 该 去 问 她 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20014</ID>
+			<DefaultText>我 从 亚 佐 那 里 得 到 了 北 侧 病 房 的 钥 匙 ，他 非 常 不 情 愿 地 给 了 我 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20015</ID>
+			<DefaultText>我 从 亚 佐 那 里 得 到 了 北 侧 病 房 的 钥 匙 ，他 非 常 不 情 愿 地 给 了 我 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20016</ID>
+			<DefaultText>我 找 到 了 一 个 病 人 记 录 ，上 面 说 凯 德 曼 亚 佐 强 迫 一 个 叫 格 拉 姆 进 行 试 验 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 发 现 了 暗 灰 之 钥 在 疗 养 院 的 行 动 。他 可 以 控 制 哪 些 灵 魂 不 强 的 人 ，并 利 用 其 中 一 个 病 人 去 参 与 凯 德 曼 亚 佐 的 灵 魂 研 究 实 验 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
+

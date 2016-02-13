@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\13_twin_elms_elms_reach\13_cv_rymrgand_coalition</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>135</EntryCount>
@@ -79,7 +78,7 @@ Though they throw their bodies into their labor, not one of them so much as scra
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Edér calls out to the elves, "Hey! You might wanna hold off on that!" but that howling wind seems to swallow up his voice.</DefaultText>
+      <DefaultText>Ed&#233;r calls out to the elves, "Hey! You might wanna hold off on that!" but that howling wind seems to swallow up his voice.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

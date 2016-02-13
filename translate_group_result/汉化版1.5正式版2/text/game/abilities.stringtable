@@ -1,0 +1,6921 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\abilities</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1377</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>干 扰 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>折 磨 之 触 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>神 圣 光 辉 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>火 球 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>神 圣 光 环 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>阿 克 米 尔 的 闪 耀 之 光 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>迅 捷 之 足 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>电 爪 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>油 腻 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>魔 法 飞 弹 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>魔 法 飞 弹 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>稳 固 瞄 准 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>禁 锢 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>非 凡 恐 惧 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>迅 捷 攻 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>晕 眩 重 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>超 越 苦 难 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>超 越 苦 难  2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>WoundsTrait</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>旋 转 之 轮 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>缚 体 之 网 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>烈 焰 煽 动 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>灵 刃 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>阴 暗 迷 雾 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>精 神 护 盾 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>奥 术 壁 障 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>谴 罪 倒 刺 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>弱 点 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>近 战 训 练 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>防 卫 者 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>持 续 恢 复 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>击 倒 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>装 甲 恩 赐 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>自 信 瞄 准 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>终 结 一 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>偷 袭 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>召 唤 队 友 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>慈 悲 杀 戮 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>冲 刺 射 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>从 容 夹 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>致 残 打 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>卑 鄙 战 斗 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>召 唤 队 友 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>致 残 射 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>爆 炸 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>爆 炸 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>击 倒 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>标 记 猎 物 特 性 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>标 记 猎 物 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>追 猎 者 之 链 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>爆 裂 箭 矢 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>苏 醒 箴 言 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>狂 热 攻 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>信 仰 和 信 念 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>火 焰 射 线 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>神 圣 之 地 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>神 圣 印 记 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>蛛 网 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>神 圣 之 力 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>神 圣 之 力 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>魔 符 投 射 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>协 同 攻 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>自 由 箴 言 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>欢 欣 鼓 舞 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>狂 热 迅 捷 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>狂 暴 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>狂 野 冲 刺 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>厚 皮 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>屠 杀 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>屠 杀 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>野 蛮 反 抗 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>浴 血 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>野 蛮 之 力 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>自 然 印 记 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>缚 足 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>日 光 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>自 然 抗 性 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>腐 坏 之 触 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>暴 风 雪 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>虫 群 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>木 皮 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>雄 鹿 之 角 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>自 然 之 息 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>闪 电 风 暴 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>甲 壳 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>灌 输 怀 疑 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>祝 福 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>神 圣 闪 光 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>治 疗 之 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>痛 苦 压 制 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>悲 惨 祝 福 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>信 仰 支 柱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>沮 丧 重 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>守 护 封 印 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>缓 慢 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>有 害 速 行 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>伦 格 拉 斯 的 移 形 换 影 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>灵 魂 转 变 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>吸 收 耐 力 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>毒 素 爆 裂 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>揭 示 弱 点 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>兰 格 里 姆 的 丑 恶 面 貌 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>专 注 特 性 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>灵 魂 鞭 挞 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>脆 弱 之 握 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>心 灵 反 冲 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>灵 魂 冲 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>反 感 立 场 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>精 神 之 波 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>精 神 吸 血 护 盾 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>精 神 剑 刃 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>痛 苦 回 忆 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>灵 魂 点 燃 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>心 灵 回 音 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>痛 苦 连 接 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>上 古 记 忆 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>护 盾 开 裂 治 疗 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>诗 人 特 性 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>利 斧 莫 可 砍 ，风 暴 莫 可 摧 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>亡 者 蛆 涌 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>咏 唱 样 本  1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>咏 唱 样 本  2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>武 器 专 精 ：冒 险 者 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>奥 术 抑 制 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>腐 蛆 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>撤 退 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>撤 退 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>瘟 疫 蔓 延 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>火 焰 之 环 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>高 级 再 生 药 水 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>守 望 之 灵 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>元 素 抗 性 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>战 斗 精 神 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>大 步 流 星 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>生 命 泉 源 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>猎 人 直 觉 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>高 大 如 塔 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>健 壮 体 质 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>距 离 优 势 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>死 亡 使 者 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>次 级 威 胁 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>挑 衅 决 心 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>为 战 而 生 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>银 色 潮 汐 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>信 仰 之 铠 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>火 球 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>奥 术 抑 制 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>腐 蛆 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>缚 体 之 网 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>腐 蚀 之 云 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>犹 豫 不 决 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>冷 酷 凝 视 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>镜 影 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>火 焰 射 线 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>吸 收 耐 力 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>灵 刃 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>电 爪 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>魔 法 飞 弹 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>信 仰 之 铠 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>撤 退 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>神 圣 之 力 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>魔 符 投 射 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>保 护 圈 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>信 仰 支 柱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>瘟 疫 蔓 延 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>甲 壳 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>风 暴 再 临 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>火 焰 之 环 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>甲 壳 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>闪 电 风 暴 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>信 仰 之 铠 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>撤 退 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>神 圣 之 力 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>魔 符 投 射 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>保 护 圈 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>信 仰 支 柱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>瘟 疫 蔓 延 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>电 爪 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>米 诺 莱 塔 的 次 级 魔 法 飞 弹 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>缚 体 之 网 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>冷 酷 凝 视 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>镜 影 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>火 焰 射 线 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>康 赛 浩 特 腐 蚀 虹 吸 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>奥 术 抑 制 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>火 球 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>残 废 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>命 中 打 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>重 击 防 御 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>清 除 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>守 护 矗 立 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>加 入 战 斗 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>伪 装 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>威 胁 存 在 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>清 晰 痛 苦 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>超 越 苦 难  3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>超 越 苦 难  4</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>衰 弱 重 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>根 植 痛 苦 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>凡 人 对 立  - 偏 斜 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>凡 人 对 立  - 其 他 防 御 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>鞭 笞 者 之 道 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>驾 驭 飞 行 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>捆 绑 之 根 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>邪 恶 瞄 准 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>捕 食 者 意 识 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>主 人 的 召 唤 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>骚 扰 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>千 斩 之 死 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>重 新 定 向 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>无 情 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>随 它 滚 动 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>无 情 投 机 者 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>穿 刺 攻 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>骇 人 暴 行 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>邪 恶 重 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>畏 惧 打 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>鲁 莽 步 伐 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>铁 皮 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>次 级 魔 法 书 印 记 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>阿 克 米 尔 的 惊 奇 折 磨 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>米 诺 莱 塔 的 震 荡 魔 法 飞 弹 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>死 亡 之 环 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>火 焰 护 盾 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>次 级 奥 术 反 射 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>[TEMP]暂 时 性 法 术 描 述 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>空 间 移 动 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>火 墙 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>C创  造  一  面  信  仰  之  盾  ，提  升  影  响  范  围  内  友 军   的  伤 害 减 免 。
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>P惩  戒  目  标  所  犯  罪  孽 ，降  低  他  们  的  偏 斜 ，坚 韧 ，反 射  及  意 志 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>A召  唤  神  的  青  睐 ，增  加  提  升  影  响  范 围  内  友  军  的  命 中  及  伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>S引  发  敌  人  心  中  的  恐  惧  ，减  少  影  响  范  围  内  敌 人  的  命 中 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>C喝  令  一  个  敌  人  停 滞 ，使  其  暂  时  无  法  移  动 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>I将  目  标  隔  离 至  一  个  保  护  性  的  球  体 中  ，避  免  受  到  伤  害  并  恢  复  耐 力 ，但  同  时  目  标  也  无  法  做  出  任  何  行  动 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>C产  生  一  个  持  久  的 治  疗  之  环 ，为  队  友  恢  复  耐 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>M标  记  并  惩  罚 目  标  ，造  成  灼 烧  伤  害 ，并  降  低  偏 斜 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>C召  唤  神  的  青  睐 ，增  加  作  用  范  围  内  队 友   的  威 力  及  决 心 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>C坚  定  信  念 ，创  造  出  一  股  移  动 缓  慢  的  能  量 ，恢  复  队  友  的  耐 力 ，对  敌  人  造  成  冰 冻  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>T引  起  内  心  疑  惑 ，减  少  影  响  范  围  内  所  有  敌  人 的  速  度 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>M通  过  纯  粹  的  意  志  力  扼  杀 了  不   利  条  件 ，影  响  范  围  内  暂  停  对  队  友  的  敌  对  状  态 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>B以  仁  慈  之 心  祝  福  队  友 ，当  其  耐 力  低 时  回  复  耐 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>C创  造  一  个  巨  大  的  神  圣  庇  佑  区  域 ，给  予  所  有  队  友  防  御  加  成 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>N说  服  影  响  范  围  内  的  敌  人  使  他  们  怀  疑  人  生 ，降  低  近  战  命 中  和  重 击 。
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>S在  战  斗  中  增  强  队  友  的  决  心 ，增  加  他  们  发  动  重 击  的  概  率 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>C召  唤  审  判  之  柱 ，使  影  响  范  围  内  的  敌  人  倒  地  并  造  成  钝 击  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>I用  衰  弱  的  疾 病  和  剧  毒  感  染  对  象 ，在  散  布  给  其  他  敌  人  之  前  拖  慢  和  擦  伤  他  们 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>G当  敌  人  接  触  到  它  时  产  生  魔  力  封  印 ，以  电  能  波  爆  裂 ，造  成  电 击  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>O用  眼  花  缭  乱  的  表  演  让  范  围   内  的  敌  人  目  瞪  口  呆 ，降  低  他  们  的  意 志  并  使  其  晕 眩 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>C在  施  法  者  面  前  产  生  锥  形  火  焰 ，对  影  响  范  围  内  的  所  有  人  造  成  灼 烧  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>E赋  予  目  标  反  常 速   度 ，增 加  其  移  动  速  度 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>C召  唤  剑  阵 ，对  影  响  范  围  内  目  标  造  成  穿 刺  伤  害  及  并  使  其  蹒 跚 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>A从  投  掷  者  的  手  指  喷  出  跳  跃  电  流 ，对  最  近  的  敌  人 ，次  近  的  敌  人 ，依  次  造  成  渐  减  的  电 击  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>C用  油  状  物  质  覆  盖  地  面 ，使  影  响  范  围  内  的  任  何  人  倒 地 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>S召  唤  三  个  魔  法  飞  弹  撞  向  目  标 ，造  成  钝 击  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>S在  施  法  者  周  围  产  生  能  量  护  盾 ，增  加  减  伤  及  额  外  专 注 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>S在  影  响  范  围  内  制  造  强  力  蛛  网 ，降  低 受  困  者  移  动  速  度 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>T投  掷  手  能  够  看  到 敌  人  的  弱  点  和  缺  陷 ，就  好  像  它  们  是  物  理  实  体  的  一  样 ，增  加  致  命  一  击  的  机  会 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>C制  造  自  身  的  幻  像  使  敌  人  分  心 ，大  幅  增  加  偏 斜 ，加  成  效  果  随  受  到  攻  击  次  数  而  减  弱 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>C在  施  法  者  和  目 标  之  间  产  生  火  焰  灼  热  射  线 ，对  目  标 和  被  射  线  击  中  的  人  造  成  连  续  灼 烧  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>E吸  收  目  标  的  精  神 ，造  成  腐 蚀  伤  害  并  将  其  转  化  为  施  法  者  的  耐 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>C在  目  标  周  围  建  立  反  魔  法  区 ，压  制  影  响  范  围  内  敌  人  身  上  的  增  益  效  果 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>C施  法  者  成  为  带  电  的  强  力  发  动  机 ，横  冲  直  撞 ，对  接  触  的  目  标  造  成  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>B洞  察  敌  人  的  战  斗  弱  点 ，削  弱  其  伤  害  减  免  ，偏 斜  及  专 注 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>S在  目  标  位  置  召  唤  熔  岩  爆  裂 ，在  固  定  位  置  爆  炸 ，对  影  响  范  围  内  的  一  切  造  成  灼 烧  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>C使  施  法  者  产  生  视  觉  偏  差 ，增  加  其  偏 斜  及  反 射 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>C施  法  者  消  耗  生 命  来  增  加  速  度 ，同  时  会  耗  尽  其  耐 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>B改  变  有  效  范  围  内  敌  人  的  时  间  知  觉 ，降  低  他  们  的  速  度  和  移  动 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>S喷  出  腐 臭  纠  缠   的  毒  云 ，使  陷  于  其  中  的  每  个  人  作  呕 ，造  成  少  量  腐 蚀  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>T施  法  者  的  脸  变  成  腐  肉  面  具  或  其  他  恐  怖  形  象 ，对  附  近  所  有  敌  人  造  成  恐 惧  及  恶 心  效  果 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>C对  灵  能  师  和  敌  人  目  标  造  成  连  带  的  中  毒  物  理  症  状 。两  人  中  有  任  何  一  个  被  困  都  会  造  成  腐 蚀  攻  击 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>T目  标  变  成  心  灵  爆  震  的  对  象 ，遭  受  真 实  伤  害 。目  标  后  锥  形  区  域  内  的  人  如  果  坚 韧  豁  免  失  败 ，该  爆  震  将  会  使  其  倒  地 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>B短  暂  的  将  队  友  的  灵  魂  转  变  为  能  量  ，释  放  电  力  冲  击  。范  围  内  的  目  标  受  到  电 击  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>C吸  收  目  标  的  源  力 ，生  成  一  柄  利  刃  攻  击  目  标  及  最  多  5 个  额  外  单  位 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>T灵  能  师  利  用  目  标  思  想  的  威  力  对  抗  他 ，为  了  更  好  地  偏 斜  到  来  的  攻  击  偷  盗  其  目  标  的  一  部  分  决 心 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>C受  到  影  响  后  造  成  目  标  产  生  之  前  受  到  损  伤  的  精  神  创  伤 ，再  一  次  承  受  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>G在  灵  能  师  和  一  名  友  军  之  间  制  造  灵  能  回  弹  波 ，在  其  中  的  任  何  敌  人  都  会  受  到  钝 击  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>M对  附  近  敌  人  精  神  连  接  到  目  标 ，使  其  遭  受  与  目  标  同  样  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>F强  迫  敌  人  的  灵  魂  “ 渗  出  ” 能  量  ，点  燃  他  们  周  围  的  空  气  并  持  续  灼 烧 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>T战  士  适  合  穿  厚  重  的  护  甲 ，大  幅  降  低  回  复  消  耗 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>S将  战  士  的  近  战  武  器  横  扫  一  周 ，使  敌  人  倒 地 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>S平  稳  战  士  手  臂 ，使  其  一  部  分  行  动  变  为  攻  击 ，并  增  加  近  战  武  器  的  最  小  伤  害  值 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>T被  战  斗  所  激  励 ，战  士  将  持  续  的  以  适  中  速  度  回  复  耐  力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>G战  士  施  展  额  外  努  力  来  防  御  敌  方  攻  击 ，将  受  到  攻  击  中  的  部  分  重 击  转  为  击 中 ，将  击 中  转  为  擦 伤 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>T战  士  选  择  防  守  策  略 ，专  注  防  御  来  袭 。战  士  得  到  了  偏 斜  加  成 ，将  他  / 她  的  交  战  对  象  数  量   增  加  到  3 个 ，但  是  会  降  低  攻  击  速  度 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>S将  战  士  的  武  器  攻  击  而  对  抗  目  标  意 志  豁  免 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>T战  士  将  加  入  战  斗 ，对  敌  人  发  动  近  战 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>S用  巨  大  威  力  推  开  敌  人 ，使  敌  人  倒 地 ，但  是  只  能  略  微  造  成  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>R降  低  速  度  但  增  加  命 中 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+    <DefaultText>C在  牧  师  周  围  产  生  神  圣  光  环 ，燃 烧  附  近  所  有  敌  人 ，并  为  队  友  回  复  一  定  耐 力 。神  圣  光  环  的  威  力  决  定  于  牧  师  的  名  誉  与  其  信  念  的  匹  配  度 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>A牧  师  附  近  的  队  友  增  加  命 中 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>C使  昏 迷  的  队  友  苏  醒 ，并  给  予  大  量  但  短  暂  的  耐  力  回  复  - 之  后  会  损  失  一  半  耐  力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>C召  唤  队  友  攻  击  敌  人 ，减  少  圣  武  士  及  其  队  友  的  回  复  时  间 。无  法  与  其  他  狂 热  光  环  同  时  使  用 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>I激  励  圣  武  士  及  附  近  所  有  队  友  英  勇  战  斗 ，增  加  其  移  动  速  度  及  对  借  机  攻  击  的  防  御  能  力 。无  法  与  其  他  狂  热  光  环  同  时  使  用 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+    <DefaultText>A圣  武  士  的  防  御  直  接  受  到  其  对  命  令  的  信  仰  与  行  动  的  一  致  程  度  的  影  响 。命  令  是  首  选  行  为  与  骑  士  声  誉  的  匹  配  度  决  定  了  防  御  增  强  还  是  减  弱 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>T圣  武  士  与  攻  击  相  同  敌  人 的  最  近  队  友  完  美  地  协  同  作  战  ，为  队  友  带  来  精  度 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>I当  圣  武  士  击  败  敌  人  会  激  励  左  右  附  近  的  队  友 ，为  所  有  防  御  带  来  短  暂  奖  励 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>S命  令  一  名  友  军  召  唤  所  有  威  力 ，暂  时  无  视  所  有  已  存  负  面  效  果 。自  由  箴  言  结  束  后  效  果  恢  复 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>S使  得  灵  能  师  的  武  器  积  聚  能  量  并  鞭  笞  目  标 ，增  加  造  成  的  伤  害  并  恢  复  灵  能  师  的  集  点 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>I减  弱  目  标  精  确  度 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>I发  动  报  复  攻  击 ，震 慑  任  何  胆  敢  挑  战  灵  能  师  意 志  豁  免  的  敌  人 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>C召  唤  魔  法  盾  牌 ，显  著  提  升  巫  师  的  偏 斜 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>C巫  师  在  使  用  魔  杖 ，权  杖 ，长  杖  时  会  对  指  定  目  标  周  围  的  敌  人  造  成  钝 击  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>狂 热 精 准 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>T圣  武  士  及  其  队  友  的  信  念  逐  渐  强  化 ，增  加  其  命 中 。无  法  与  其  他  狂  热  光  环  同  时  使  用 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>献 身 火 焰 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>C召  唤  圣  武  士  内  心  之  火 ，使  其  武  器  化  为  烈  焰 ，下  次  攻  击  附  加  灼 烧  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>圣 疗 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>F单  纯  的  信  念  使  圣  武  士  具  有  治  疗  之  触 ，为  范  围  内  的  圣  武  士  及   队 友  回   复 一  定  的  耐  力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>更 伟 大 的 保 护 之 手 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>强 化 箴 言 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>C激 励 一 名 队 友 ，全 力 奋 战 ，提 高 偏 斜 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>狂 热 耐 力 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>F强  化  圣  武  士  及  队  友  的  信  念 ，增  加  其  减  伤 。无  法  与  其  他  狂  热  光  环  同  时  使  用 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>急 速 箴 言 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>I激  励  圣  武  士  的  一  名  队  友 ，增  加  其  攻  击  速  度 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>死 敌 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>SwornEnemyTrait</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>火 墙 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>震 动 波 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>传 染 孢 子 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>轮 唱 再 生 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>心 灵 冲 击 波  - 晕 眩 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>心 灵 冲 击 波  - 震 慑 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>野 蛮 吼 叫 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>野 蛮 呐 喊 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>有 力 防 御 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>T战 士 变 得 非 常 坚 定 地 偏 斜 所 有 攻 击 ，短 时 间 内 显 著 增 加 所 有 防 御 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>大 步 流 星 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>封 锁 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>可 怕 攻 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>野 蛮 挥 砍 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>T德  鲁  伊  野  兽  方  面  的  知  识  让  其  能  够  在  下  轮  攻  击  中  造  成  额  外  的  挥 砍  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>野 蛮 穿 刺 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>T德  鲁  伊  野  兽  方  面  的  知  识  让  其  能  够  在  下  轮  攻  击  中  造  成  额  外  的  穿 刺  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>野 蛮 碎 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>T德  鲁  伊  野  兽  方  面  的  知  识  让  其  能  够  在  下  轮  攻  击  中  造  成  额  外  的  钝 击  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>野 蛮 灼 烧 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>T德  鲁  伊  的  自  然  威  力  使  其  在  精  神  强  化  时  能  产  生  额  外  的  灼 烧  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>野 蛮 腐 蚀 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>T德  鲁  伊  的  自  然  威  力  使  其  在  精  神  强  化  时  能  产  生  额  外  的  腐 蚀  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>野 蛮 冻 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>T德  鲁  伊  的  自  然  威  力  使  其  在  精  神  强  化  时  能  产  生  额  外  的  冰 冻  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>野 蛮 电 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>T德  鲁  伊  的  自  然  威  力  使  其  在  精  神  强  化  时  能  产  生  额  外  的  电 击  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>鲁 莽 突 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>逃 跑 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>协 同 布 置 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>灵 巧 瞄 准 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>流 血 射 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>邪 恶 瞄 准 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>武 器 专 精 ：骑 士 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>武 器 专 精 ：贵 族 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>武 器 专 精 ：农 民 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>武 器 专 精 ：流 氓 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>武 器 专 精 ：军 人 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>偷 袭 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>终 结 一 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>致 盲 攻 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>防 御 带 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>熟 练 回 避 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>重 伤 口 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>致 命 打 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>坚 定 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>T战  士  从  其  不  屈  的  斗  志  中  获  得  威  力 ，使  其  回  复 50%的  在  战  斗  中  失  去  的  耐  力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>消 弱 防 御 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>牢 不 可 破 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>T战  士  决  绝  失  败 。耐  力  为  0 时 ，战  士  将  退  后  并  回  复  50% 的  最  大  耐  力 ，并  暂  时  增  加  防  御  及  减  伤 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>杀 戮 欲 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>复 仇 征 服 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>狂 怒 之 心 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>严 酷 考 验 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>痛 苦 原 力 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>弓 箭 直 觉 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>晕 眩 射 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>还 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>灵 魂 之 镜 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>正 义 灵 魂 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>孑 然 一 身 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>荆 棘 之 壁 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>冷 雾 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>C产  生  炫  目  的  白  色  冷  雾 ，使  影  响  范  围  的  所  有  人  目 盲 ，并  持  续  造  成  冰 冻  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>惊 骇 瞄 准 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>G使  施  法  者  拥  有  超  凡  视  力 ，短  时  间  内  提  高  精  确  度 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>K卡 拉 克 斯 的 阴 暗 之 握 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>T施  法  者  的  双  手  变  得  能  冰  冻  他  们  触  碰  的  东  西 ，对  单  一  目  标  造  成  冰 冻  伤  害 ，并  降  低  命 中 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>T施  法  者  的  双  手  变  得  能  冰  冻  他  们  触  碰  的  东  西 ，对  单  一  目  标  造  成  冰 冻  伤  害  ，并  降  低  命 中 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>康 赛 浩 特 寄 生 杖 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>穿 透 壁 障 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>A产  生  一  次  迅  速  的  冲  击 ，伤  害  不  高  但  有  很  大  几  率  打  断  敌  方  施  法  者 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>造 影 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>C创  造  一  个  自  己  的  镜  像  使  敌  人  分  心 ，大  幅  提  高  偏 斜  抵  御  一  次  攻  击 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>困 惑 奇 观 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>C产  生  奇  异  复  杂  的  视  觉  干  扰 ，困 惑  影  响  范  围  内  的  敌  人 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>元 素 壁 垒 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>C在  施  法  者  周  围  产  生  神  秘  护  盾 ，使  其  获  得  灼 烧 ，冰 冻 ，腐 蚀  和  电 击  减  伤 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>点 燃 伤 口 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>C点  燃  影  响  范  围  内  敌  人  的  伤  口 ，使  其  每  次  受  伤  都  将  受  到  额  外  的  灼 烧  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>致 盲 之 咒 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>S用  黑  暗  遮  蔽  目  标  视  野 ，使  其  目 盲 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>恶 臭 爱 抚 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>T目  标  被  麻 痹 ，皮  肤  受  到  腐 蚀  液  腐 蚀 ，削  弱  附  近  目  标 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>贯 体 活 力 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>I为  施  法  者  灌  输  能  量 ，短  暂  增  加  其  当  前  及  耐 力 值  上  限 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>愚 钝 之 瘴 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>A精  神  迷  雾  覆  盖  影  响  范  围  内  敌  人  的  心  智 ，使  其  迟 钝  愚 蠢 。降  低  直 觉 、智 力  和  决 心 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>腐 蚀 之 枪 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>C创  造  一  把  由  纯  粹  的  腐  蚀  之  力  形  成  的  长  枪 ，持  续  造  成  腐 蚀  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>滚 动 火 焰 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>C产  生  一  个  可  以  反  弹  的   火  焰  球 ，对  其  路  径  上  的  任  何  人  造  成  灼 烧  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>缓 慢 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>R减  弱  目  标  的  速  度  和  移  动 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>康 赛 浩 特 的 吸 血 鬼 之 触 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>T施  法  者  双  手  成  为  剧  毒  之  源 ，对  目  标  造  成  腐 蚀  伤  害 ，削  弱  敌  人  并  吸  收  耐 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>米 诺 莱 塔 的 跳 跃 魔 法 飞 弹 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>卡 拉 克 斯 的 次 级 枯 萎 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+    <DefaultText>C在  施  法  者  手  中  创  造  一  个  能  量  球 ，投  向  敌  人 ，使  影  响  范  围  内  敌  人  遭  受  灼 烧 、冰 冻 、腐 蚀  和  电 击  伤  害  - 这  种  折  磨  持  续  至  法  术  结  束 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>困 惑 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>I使  影  响  范  围  内  的  敌  人  精  神  错  乱 ，困 惑  他  们 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>霜 爆 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>C创  造  一  道  寒  气 ，对 锥  形  区  域  内  的  敌  人  造  成  冰 冻  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>西 族 的 精 神 长 矛 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>冷 格 拉 斯 的 护 卫 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>剧 毒 云 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>G产  生  毒  雾 ，每  几  秒  就  对  雾  中  目  标  产  生  毒  伤 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>雷  恩  格  里  姆  令  人  萎  靡  的  恐  怖 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>C使  影  响  范  围  内  的  敌  人  深  深  畏  惧 ，使  他  们  虚  弱  并  恐  惧 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>火 焰 奔 流 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>I在  施  法  者  周  围  产  生  骇  人  的  地  狱  烈  焰 ，对  附  近  任  何  人  造  成  灼 烧  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>威 力 之 墙 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>威 力 之 墙 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>奥 术 反 射 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>连 锁 闪 电 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>阿 克 米 尔 的 无 常 妖 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>U对  范  围  内  敌  人  释  放  诡  变  的  妖  术 ，根  据  其  自  身  的  奇  思  妙  想  造  成  晕 眩 、恶 心  或  者  麻 痹 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>西 族 的 战 争 威 力 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>艾 德 拉 贡 的 凝 视 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>G给  予  施  法  者  艾  德  拉  贡  生  物  同  名  的  凝  视  攻  击 ，石 化  影  响  范  围  内  的  敌  人 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>米 诺 莱 塔 的 精 确 穿 刺 波 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>C在  施  法  者  周  围  爆  发  致  命  冲  击 ，对  附  近  敌  人  产  生  穿 刺  伤  害  - 无  视  其  伤  害  减  免 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>妮 娜 高 斯 的 冰 冻 柱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>神 圣 冥 想 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>T牧  师  摒  除  杂  念 ，将  其  清  晰  的  思  维  灌  输  至  周  围  友  方 ，增  加  其  专 注  及  意 志 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>克 服 恐 惧 祈 祷 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+    <DefaultText>S使  影  响  范  围  内  所  有  队  友  能  够  克  服  外  界  恐  惧 ，加  强  他  们  对  惊  慌  和  恐  惧  效  果  的  抵  抗  力 ，并  减  少  已  陷  入  该  状  态  目  标  的  持  续  时  间 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>次 级 耐 力 恢 复 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>S施  法  者  分  享  一  定  的  神  圣  威  力 ，为  范  围  内  的  所  有  队  友  回  复  耐 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>克 服 虚 弱 祈 祷 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+    <DefaultText>F增  强  影  响   范  围  内  队  友  的  健  康  值 ，加  强  他  们  对  带  有  恶 心  或  虚 弱  效  果  攻  击  的  抵  抗  力 ，减  少  已  陷  入  该  状  态  的  目  标  的  状  态  持  续  时  间 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>P在  敌  人  脚  下  释  放  魔  法  封  印 ，使  其  倒 地 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>驱 逐 封 印 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>轻 微 耐 力 恢 复 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>保 护 之 环 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>抵 御 抑 制 祈 祷 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>F解  除  影  响  范  围  内  友  军  的  束  缚 ，加  强  他  们  对  造  成  蹒 跚  和  定 身  的  攻  击  的  抵  抗  力 ，减  少  已  陷  入  该  状  态  目  标  的  持  续  时  间 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>中 级 耐 力 恢 复 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>防 护 死 亡 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>虔 诚 信 仰 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>I乞  求  神  明  的  赐  福 ，给  予  队  友  精  准  和  威  力 ，同  时  消 弱  敌  人 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>闪 耀 信 标 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>C发  出  亮  光 ，削  弱  作  用  范  围  内  敌  人  的  防  御 ，并  造  成  一  定  的  灼 烧  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>抵 御 困 惑 祈 祷 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+    <DefaultText>B加  强  影  响  范  围  内  队  友  的  精  神  力 ，加  强  他  们  对  带  有  困 惑  或  晕 眩  效  果  攻  击  的  抵  抗  力 ，减  少  已  陷  入  该  状  态  的  目  标  的  状  态  持  续  时  间 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>高 级 耐 力 恢 复 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>灼 烧 之 印 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>P将  一  个  魔  法  刻  印  布  置  于  地  面 ，只  要  有  敌  人  接  触  它 ，就  会  喷  射  出  火  焰 ，遮  蔽  他  们  的  视  野 ，并  造  成  烧  伤 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>十 字 军 的 凯 旋 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>I在  战  斗  中  赋  予  队  友  正  义  之  力 。作  用  范  围  的  队  友  每  次  击  杀  都  会  回  复  耐 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>冠 军 之 恩 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>G赋  予  队  友  神  圣  青  睐 ，增  加  其  威 力 ，意 志  及  所  有  减  伤 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText>圣 火 之 柱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>S召  唤  狂  怒  火  焰 ，灼  烧  影  响  范  围  内  的  所  有  目   标 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>解 放 祈 祷 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+    <DefaultText>I将  解  放  之  灵  灌  输  进  区  域  范  围  内  的  友  军 ，加  强  他  们  对  带  有  麻 痹  和  石 化  效  果  攻  击  的  抵  抗  力 ，减  少  已  陷  入  该  状  态  的  目  标  的  状  态  持  续  时  间 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>超 级 耐 力 恢 复 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>逝 者 复 生 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>G唤  醒  影  响  范  围  内  处  于  昏  迷  状  态  的  队  友 ，并  恢  复  少  量  耐 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>时 之 救 赎 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>B向  神  祈  求  更  多  的  时  间 ，延  长  影  响  范  围  内  队  友  身  上  的  增  益  效  果 。
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>忠 诚 之 盾 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>C召  唤  一  面  强  力  的  圣  盾 ，加  强  影  响  范  围  内  队  友  的  偏 斜 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>净 化 之 炎 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+    <DefaultText>T牧  师  向  敌  群  掷  出  一  个  圣  火  之  球  来  破  除  它  们  的  防  御 ，加  速  它  们  的  灭  亡 。持  续  烧 伤  5 秒 ，并  加  速  目  标  增  益  效  果  减  退 （ 除  了  治  愈 ），包  括  其  他  持  续  伤  害 。最  多  能  对  周  围  的  两  个  敌  人  造  成  溅  射  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>忠 诚 之 冠 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>500</ID>
+      <DefaultText>C赐  予  友  军  神  的  荣  耀  之  冠 ，加  强  影  响  范  围  内  友  军  的  直 觉 力 、智 力 和 决 心 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>次 级 调 解 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>C召  唤  神  之  援  手 ，回  复  耐 力 ，减  弱  附  近  队  友  的  所  有  负  面  伤  害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>忠 诚 祈 祷 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>S唤 起 范 围 内 友 军 的 奉 献 精 神 ，加 强 对 魅 惑 、受 控 的 抵 抗 力 ，减 少 已 陷 入 该 状 态 的 目 标 的 状 态 持 续 时 间 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>闪 烁 正 义 之 魂 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>506</ID>
+      <DefaultText>I在 友 军 体 内 点 燃 正 义 的 热 情 ，生 成 一 个 能 够 电 击 邻 近 敌 人 的 光 环 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText>虫 害 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText>地 爪 之 拥 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>魅 惑 野 兽 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>T德 鲁 伊 利 用 他 或 她 天 生 的 与 自 然 世 界 的 联 系 来 魅 惑 影 响 范 围 内 的 动 物 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>跳 跃 闪 电 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>S召 唤 一 连 串 闪 电 ，对 影 响 范 围 内 的 敌 人 造 成 电 击 伤 害 。
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText>利 爪 之 触 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>C召 唤 一 对 锋 利 的 巨 爪 ，对 影 响 范 围 内 的 所 有 敌 人 造 成 挥 砍 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>邪 恶 荆 棘 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>S向 地 面 发 射 长 有 尖 刺 的 藤 蔓 ，对 影 响 范 围 内 敌 人 造 成 穿 刺 伤 害 ，并 有 几 率 使 其 恶 心 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText>寒 冬 之 风 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>C召 唤 一 道 强 力 的 寒 风 ，推 回 影 响 范 围 内 所 有 敌 人 ，并 造 成 冰 冻 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>秋 日 之 蚀 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>521</ID>
+      <DefaultText>S创 造 一 个 会 造 成 腐 败 的 圆 锥 体 ，对 影 响 范 围 内 敌 人 造 成 腐 蚀 性 伤 害 并 持 续 造 成 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>夏 炎 爆 破 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>523</ID>
+      <DefaultText>小 型 枯 萎 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText>限 制 野 兽 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText>F施 法 者 会 发 出 凄 厉 的 哀 嚎 ，对 最 凶 猛 的 动 物 造 成 麻 痹 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText>狩 猎 之 味 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText>腐 蛆 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>528</ID>
+      <DefaultText>E使 影 响 范 围 内 敌 人 的 皮 肤 滋 生 蛆 虫 ，造 成 擦 伤 。目 标 受 伤 越 严 重 ，伤 害 越 大 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText>清 除 毒 素 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>P清 除 目 标 体 内 的 毒 素 ，加 强 对 毒 和 疾 病 效 果 的 抵 抗 力 ，减 少 其 持 续 时 间 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>孪 生 之 石 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText>S德 鲁 伊 会 召 唤 两 块 致 命 的 巨 石 飞 向 敌 阵 ，对 道 路 上 的 敌 人 造 成 钝 击 伤 害 ，接 触 地 面 爆 炸 后 ，碎 片 会 对 周 围 的 人 造 成 穿 刺 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>沸 腾 喷 雾 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>E对 范 围 内 所 有 人 造 成 灼 烧 和 击 退 效 果 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText>唤 世 之 胃 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>S召 唤 地 面 尖 石 ，造 成 穿 刺 伤 害 并 使 目 标 倒 地 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>枯 萎 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>冰 雹 风 暴 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>C召 唤 猛 烈 的 冰 雪 风 暴 ，对 影 响 范 围 内 的 人 造 成 钝 击 和 冰 冻 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>540</ID>
+      <DefaultText>月 井 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>541</ID>
+      <DefaultText>惊 涛 骇 浪 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>543</ID>
+      <DefaultText>C召 唤 一 道 巨 浪 ，冲 开 道 路 上 的 所 有 东 西 ，造 成 钝 击 伤 害 和 晕 眩 效 果 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>544</ID>
+      <DefaultText>邪 恶 荆 棘 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>荆 棘 之 壁 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>546</ID>
+      <DefaultText>净 化 之 风 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>547</ID>
+      <DefaultText>C产 生 神 圣 之 雾 ，为 队 友 回 复 耐 力 ，并 击 退 敌 人 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>548</ID>
+      <DefaultText>地 爪 之 拥 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>549</ID>
+      <DefaultText>纵 火 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>550</ID>
+      <DefaultText>A一 团 能 在 敌 人 之 间 最 多 反 弹 8次 的 可 怕 火 球 ，造 成 灼 烧 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>551</ID>
+      <DefaultText>自 然 恐 惧 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>552</ID>
+      <DefaultText>C召 唤 风 暴 之 力 ，产 生 闪 电 光 环 并 造 成 电 击 伤 害 ，震 慑 附 近 目 标 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>553</ID>
+      <DefaultText>虫 害 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>S召 唤 一 大 群 的 毒 虫 ，逐 渐 造 成 擦 伤 ，减 少 影 响 范 围 内 的 人 的 集 点 并 使 其 生 病 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>555</ID>
+      <DefaultText>无 情 风 暴 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>高 等 枯 萎 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>557</ID>
+      <DefaultText>生 命 花 园 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>558</ID>
+      <DefaultText>H加 速 贝 拉 斯 之 轮 ，让 死 者 尸 体 中 生 出 能 够 使 人 焕 发 耐 力 的 植 物 ，并 治 愈 影 响 范 围 内 的 友 军 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText>烈 日 之 枪 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>560</ID>
+      <DefaultText>C从 天 空 召 唤 一 把 烈 日 之 枪 ，对 单 个 目 标 造 成 穿 刺 和 灼 烧 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>561</ID>
+      <DefaultText>剧 毒 绽 放 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>562</ID>
+      <DefaultText>腐 烂 颅 骨 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText>眼 袭 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>564</ID>
+      <DefaultText>S对 敌 人 造 成 感 官 冲 击 ，对 敌 人 及 周 围 目 标 造 成 晕 眩 和 目 盲 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>565</ID>
+      <DefaultText>脆 弱 之 握 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>566</ID>
+      <DefaultText>A撼 动 目 标 的 实 体 ，对 其 造 成 惊 慌 和 困 惑 效 果 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText>背 叛 低 语 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>568</ID>
+      <DefaultText>I向 敌 人 灌 输 蛊 惑 的 言 语 是 他 们 转 变 阵 营 ，在 效 果 时 间 内 魅 惑 他 们 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>569</ID>
+      <DefaultText>DEBUG stun Spell</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>570</ID>
+      <DefaultText>强 化 突 刺 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>571</ID>
+      <DefaultText>B将 目 标 的 精 神 能 量 反 弹 给 邻 近 的 敌 人 ，造 成 穿 刺 伤 害 ，并 将 其 击 退 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>572</ID>
+      <DefaultText>缚 神 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>573</ID>
+      <DefaultText>O压 制 目 标 精 神 与 身 体 的 连 接 ，使 其 麻 痹 ，并 使 其 灵 魂 散 发 出 一 个 能 使 领 近 敌 人 停 滞 的 冲 击 波 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>574</ID>
+      <DefaultText>魅 影 之 敌 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>575</ID>
+      <DefaultText>I入 侵 影 响 范 围 内 目 标 的 精 神 ，使 其 认 为 他 们 被 幻 影 敌 人 所 包 围 了 -使 其 在 时 间 范 围 内 易 被 侧 面 突 袭 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>576</ID>
+      <DefaultText>破 碎 意 识 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>577</ID>
+      <DefaultText>V侵 犯 敌 人 的 记 忆 ，使 之 清 晰 地 回 想 起 过 去 失 败 的 经 历 ，使 他 们 蹒 跚 、虚 弱 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>578</ID>
+      <DefaultText>傀 儡 大 师 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>579</ID>
+      <DefaultText>D摧 毁 目 标 的 精 神 防 线 ，让 他 们 在 持 续 时 间 受 到 受 控 效 果 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>580</ID>
+      <DefaultText>秘 密 恐 惧 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>581</ID>
+      <DefaultText>C使 敌 人 万 念 俱 灰 ，对 其 造 成 持 续 的 惊 慌 及 恶 心 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>582</ID>
+      <DefaultText>身 体 协 调 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>T看 穿 敌 人 的 思 想 灵 魂 ，发 现 其 防 御 优 势 并 据 为 己 有 。吸 收 目 标 的 减 伤 并 增 加 同 等 的 自 身 减 伤 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>584</ID>
+      <DefaultText>心 灵 穿 刺 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>585</ID>
+      <DefaultText>I用 纯 粹 以 精 神 力 构 成 的 长 枪 刺 穿 敌 人 ，对 所 有 位 于 攻 击 线 上 的 敌 人 造 成 严 重 穿 刺 伤 害 ，并 有 高 几 率 造 成 打 断 效 果 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>586</ID>
+      <DefaultText>忘 却 苦 痛 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>587</ID>
+      <DefaultText>P使 队 友 忘 却 苦 痛 ，增 加 其 减 伤 并 回 复 耐 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>588</ID>
+      <DefaultText>沉 默 尖 啸 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>589</ID>
+      <DefaultText>P在 指 定 地 区 传 播 一 阵 精 神 尖 啸 ，对 其 中 敌 人 造 成 伤 害 并 使 之 震 慑 。造 成 打 断 效 果 几 率 很 高 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>590</ID>
+      <DefaultText>野 性 榨 取 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>591</ID>
+      <DefaultText>L依 附 目 标 的 精 神 并 加 以 吸 取 ，并 将 吸 取 的 能 量 给 施 术 者 。影 响 一 点 随 机 属 性 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>592</ID>
+      <DefaultText>天 赋 借 用 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>593</ID>
+      <DefaultText>R洗 劫 敌 人 的 智 力 和 直 觉 力 ，对 该 敌 人 的 这 些 属 性 造 成 伤 害 并 提 升 施 术 者 的 防 御 力 和 命 中 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>594</ID>
+      <DefaultText>引 爆 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>S钝 击 敌 人 的 灵 魂 ，造 成 腐 蚀 伤 害 。如 果 目 标 耐 力 过 低 则 会 爆 炸 ，对 周 围 造 成 钝 击 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>596</ID>
+      <DefaultText>魁 首 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>597</ID>
+      <DefaultText>M将 一 种 阴 险 而 强 大 的 冲 动 投 射 于 影 响 范 围 内 的 敌 人 ，使 之 屈 服 于 施 术 者 ，使 目 标 受 控 ，并 魅 惑 其 余 人 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>598</ID>
+      <DefaultText>强 化 冲 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>599</ID>
+      <DefaultText>I具 象 化 目 标 友 军 的 精 神 力 并 强 有 力 地 投 射 出 去 ，生 成 一 道 能 造 成 钝 击 伤 害 的 冲 击 波 ，并 使 影 响 范 围 内 的 敌 人 倒 地 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>600</ID>
+      <DefaultText>心 灵 瘟 疫 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>601</ID>
+      <DefaultText>D命 中 地 摧 毁 敌 人 的 记 忆 ，使 其 困 惑 和 晕 眩 ，并 能 溅 射 五 个 敌 人 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>瓦 解 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>603</ID>
+      <DefaultText>B摧 毁 敌 人 的 精 神 及 身 体 ，受 到 腐 蚀 伤 害 。耐 力 降 为 零 的 敌 人 将 彻 底 钝 击 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>604</ID>
+      <DefaultText>战 略 融 合 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText>C将 施 术 者 的 精 神 和 友 军 连 接 来 获 得 其 正 在 战 斗 的 敌 人 的 知 识 ，对 友 军 正 在 战 斗 的 敌 人 有 伤 害 加 成 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>606</ID>
+      <DefaultText>源 质 幻 影 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>607</ID>
+      <DefaultText>C创 造 施 术 者 的 分 身 ，对 任 何 被 其 攻 击 的 敌 人 造 成 电 击 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>608</ID>
+      <DefaultText>小 鬼 燃 烧 攻 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>609</ID>
+      <DefaultText>爆 炸 死 亡 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>610</ID>
+      <DefaultText>精 灵 重 生 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>611</ID>
+      <DefaultText>精 灵 闪 电 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>612</ID>
+      <DefaultText>精 灵 之 触 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>613</ID>
+      <DefaultText>传 送 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>614</ID>
+      <DefaultText>C谴 责 牧 师 的 敌 人 ，使 影 响 范 围 内 的 敌 人 晕 眩 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>615</ID>
+      <DefaultText>缚 足 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>616</ID>
+      <DefaultText>魅 惑 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>617</ID>
+      <DefaultText>石 化 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>618</ID>
+      <DefaultText>受 控 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>619</ID>
+      <DefaultText>震 聋 尖 啸 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>620</ID>
+      <DefaultText>巨 蛇 区 域 烧 伤 效 果 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>621</ID>
+      <DefaultText>巨 蛇 远 程 烧 伤 效 果 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>622</ID>
+      <DefaultText>幼 年 飞 龙 远 程 烧 伤 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>623</ID>
+      <DefaultText>腐 蚀 吐 息 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>624</ID>
+      <DefaultText>致 命 冻 结 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>625</ID>
+      <DefaultText>幽 灵 死 爆 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>626</ID>
+      <DefaultText>哀 嚎 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>627</ID>
+      <DefaultText>恐 吓 光 环 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>628</ID>
+      <DefaultText>死 亡 一 指 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>629</ID>
+      <DefaultText>衰 弱 撕 裂 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>630</ID>
+      <DefaultText>吐 血 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>631</ID>
+      <DefaultText>麻 痹 之 触 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>632</ID>
+      <DefaultText>法 皮 尔 远 程 魅 惑 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>633</ID>
+      <DefaultText>DEBUG Knockdown Spell</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>634</ID>
+      <DefaultText>灵 魂 变 换 ：熊 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>635</ID>
+      <DefaultText>灵 魂 变 换 ：猫 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>636</ID>
+      <DefaultText>灵 魂 变 换 ：鹿 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>637</ID>
+      <DefaultText>灵 魂 变 换 ：狼 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>638</ID>
+      <DefaultText>B吾 友 之 武 ，裹 灵 之 炎 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>639</ID>
+      <DefaultText>B为 友 军 的 武 器 加 上 烧 伤 效 果 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>640</ID>
+      <DefaultText>I受 祈 福 的 是 温 格 里 德 ，族 中 最 速 者 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>641</ID>
+      <DefaultText>I增 加 影 响 范 围 内 友 军 的 移 动 速 度 和 反 射 豁 免 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>642</ID>
+      <DefaultText>D钝 其 刀 ，锈 其 箭 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>643</ID>
+      <DefaultText>D降 低 影 响 范 围 内 敌 人 的 挥 砍 和 穿 刺 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>644</ID>
+      <DefaultText>R减 少 影 响 范 围 内 敌 人 集 点 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>645</ID>
+      <DefaultText>T长 大 舌 头 ，变 成 口 吃 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>646</ID>
+      <DefaultText>D吸 取 范 围 内 敌 人 的 一 部 分 耐 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>647</ID>
+      <DefaultText>C来 吧 ，来 吧 ，死 亡 微 风 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>648</ID>
+      <DefaultText>喷 吐 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>649</ID>
+      <DefaultText>B丹 瑞 尼 •达 瑞 特 的 灵 魂 ，他 不 会 安 息 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>650</ID>
+      <DefaultText>T在 黑 海 轰 雷 滚 滚 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>651</ID>
+      <DefaultText>T她 被 误 解 三 次 ，也 报 复 回 来 三 次 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>652</ID>
+      <DefaultText>I没 人 知 晓 他 们 的 骸 骨 是 否 沉 睡 于 山 脚 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>653</ID>
+      <DefaultText>T爱 人 向 被 爱 者 哭 喊 ：“我 是 你 的 ！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>654</ID>
+      <DefaultText>G吉 尼 斯 克 杀 掉 了 野 兽 ，却 要 面 对 整 个 部 族 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>655</ID>
+      <DefaultText>R瑞 尼 •达 瑞 特 的 幽 灵 说 ：“我 会 抓 住 你 的 ，本 •菲 德 尔 ”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>656</ID>
+      <DefaultText>S撼 动 他 们 的 枷 锁 ，去 下 他 们 的 链 条 ！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>657</ID>
+      <DefaultText>M我 的 儿 子 ，你 有 在 荒 野 看 见 你 的 姐 妹 了 吗 ？</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>658</ID>
+      <DefaultText>A一 听 到 他 的 声 音 ，杀 手 们 立 刻 不 动 了 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>659</ID>
+      <DefaultText>S白 风 轻 抚 ，她 等 了 整 整 七 夜 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>660</ID>
+      <DefaultText>T新 郎 在 三 十 个 人 在 大 厅 里 走 到 一 半 之 时 便 把 他 们 全 部 杀 光 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>661</ID>
+      <DefaultText>T新 娘 识 破 了 他 们 的 诡 计 并 发 誓 让 他 们 复 仇 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>662</ID>
+      <DefaultText>R再 起 吧 ，再 起 吧 ，安 东 的 后 裔 ！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>663</ID>
+      <DefaultText>O哦 ，但 不 要 敲 乌 迪 尔 和 古 德 尔 的 门 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>664</ID>
+      <DefaultText>G吉 尼 斯 克 的 野 兽 用 他 的 呼 吸 点 亮 了 夜 晚 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>665</ID>
+      <DefaultText>T狐 狸 从 农 夫 那 里 跑 了 出 来 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>666</ID>
+      <DefaultText>L啊 ，他 们 无 尽 的 主 人 ，先 驱 的 末 路 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>667</ID>
+      <DefaultText>R霜 冻 与 寒 冰 紧 随 卡 斯 的 步 伐 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>668</ID>
+      <DefaultText>G稳 手 伊 拉 迅 速 拉 弓 上 箭 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>669</ID>
+      <DefaultText>O一 打 人 对 抗 圣 人 的 威 力 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>670</ID>
+      <DefaultText>S七 人 走 向 了 甲 板 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>671</ID>
+      <DefaultText>T龙 被 鞭 打 而 哭 叫 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>672</ID>
+      <DefaultText>T银 色 骑 士 的 盾 牌 无 论 是 弓 箭 还 是 刀 刃 都 无 法 打 破 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>673</ID>
+      <DefaultText>A看 到 同 志 的 那 刻 ，他 们 的 心 变 得 勇 敢 起 来 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>674</ID>
+      <DefaultText>灵 魂 变 换 ：野 猪 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>675</ID>
+      <DefaultText>受 控 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>676</ID>
+      <DefaultText>复 活 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>677</ID>
+      <DefaultText>次 级 再 生 药 水 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>678</ID>
+      <DefaultText>次 级 耐 力 药 水 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>679</ID>
+      <DefaultText>高 级 耐 力 药 水 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>680</ID>
+      <DefaultText>次 级 耐 力 药 水 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>681</ID>
+      <DefaultText>717</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>682</ID>
+      <DefaultText>防 御 卷 轴 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>683</ID>
+      <DefaultText>漩 涡 卷 轴 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>684</ID>
+      <DefaultText>复 活 卷 轴 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>685</ID>
+      <DefaultText>精 力 卷 轴 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>686</ID>
+      <DefaultText>布 拉 斯 科 恩 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>687</ID>
+      <DefaultText>DEBUG prevent death</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>688</ID>
+      <DefaultText>群 体 赞 美 诗 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>689</ID>
+      <DefaultText>致 命 狂 暴 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>690</ID>
+      <DefaultText>灵 魂 变 换 加 成 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>691</ID>
+      <DefaultText>击 倒 加 成 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>692</ID>
+      <DefaultText>精 准 流 血 射 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>693</ID>
+      <DefaultText>强 力 冲 刺 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>694</ID>
+      <DefaultText>顽 强 抵 抗 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>695</ID>
+      <DefaultText>挚 爱 之 灵 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>696</ID>
+      <DefaultText>刺 骨 鞭 笞 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>697</ID>
+      <DefaultText>吸 血 鞭 笞 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>698</ID>
+      <DefaultText>机 警 卫 士 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>699</ID>
+      <DefaultText>快 速 恢 复 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>700</ID>
+      <DefaultText>邪 恶 伙 伴 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>701</ID>
+      <DefaultText>邪 恶 伙 伴 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>702</ID>
+      <DefaultText>迅 捷 稳 固 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>703</ID>
+      <DefaultText>偏 斜 突 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>704</ID>
+      <DefaultText>邪 恶 战 斗 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>705</ID>
+      <DefaultText>强 化 壁 障 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>706</ID>
+      <DefaultText>野 蛮 反 冲 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>707</ID>
+      <DefaultText>闪 电 打 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>708</ID>
+      <DefaultText>烈 火 之 炎 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>709</ID>
+      <DefaultText>重 击 集 中 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>710</ID>
+      <DefaultText>稳 固 一 线 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>711</ID>
+      <DefaultText>稳 固 一 线 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>712</ID>
+      <DefaultText>精 确 屠 杀 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>713</ID>
+      <DefaultText>授 权 禁 止 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>714</ID>
+      <DefaultText>武 器 专 精 ：冒 险 者 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>715</ID>
+      <DefaultText>武 器 专 精 ：骑 士 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>716</ID>
+      <DefaultText>武 器 专 精 ：贵 族 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>717</ID>
+      <DefaultText>武 器 专 精 ：农 民 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>718</ID>
+      <DefaultText>武 器 专 精 ：流 氓 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>719</ID>
+      <DefaultText>武 器 专 精 ：军 人 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>720</ID>
+      <DefaultText>武 器 专 精 ：冒 险 者 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>721</ID>
+      <DefaultText>武 器 专 精 ：骑 士 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>722</ID>
+      <DefaultText>武 器 专 精 ：贵 族 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>723</ID>
+      <DefaultText>武 器 专 精 ：农 民 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>724</ID>
+      <DefaultText>武 器 专 精 ：流 氓 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>725</ID>
+      <DefaultText>武 器 专 精 ：军 人 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>726</ID>
+      <DefaultText>轻 微 创 伤 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>727</ID>
+      <DefaultText>坚 定 信 念 （圣 武 士 ）</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>728</ID>
+      <DefaultText>坚 定 信 念 （牧 师 ）</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>729</ID>
+      <DefaultText>毁 灭 一 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>730</ID>
+      <DefaultText>穿 透 爆 破 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>731</ID>
+      <DefaultText>附 加 灵 魂 变 换 ：熊 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>732</ID>
+      <DefaultText>附 加 灵 魂 变 换 ：野 猪 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>733</ID>
+      <DefaultText>附 加 灵 魂 变 换 ：猫 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>734</ID>
+      <DefaultText>附 加 灵 魂 变 换 ：管 理 者 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>735</ID>
+      <DefaultText>附 加 灵 魂 变 换 ：鹿 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>736</ID>
+      <DefaultText>附 加 灵 魂 变 换 ：狼 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>737</ID>
+      <DefaultText>高 等 野 蛮 灼 烧 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>738</ID>
+      <DefaultText>高 等 野 蛮 腐 蚀 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>739</ID>
+      <DefaultText>高 等 野 蛮 碎 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>740</ID>
+      <DefaultText>高 等 野 蛮 冻 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>741</ID>
+      <DefaultText>高 等 野 蛮 穿 刺 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>742</ID>
+      <DefaultText>高 等 野 蛮 电 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>743</ID>
+      <DefaultText>高 等 野 蛮 挥 砍 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>744</ID>
+      <DefaultText>孢 子 疾 病 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>745</ID>
+      <DefaultText>C对 所 有 在 影 响 范 围 内 的 人 造 成 疾 病 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>746</ID>
+      <DefaultText>分 裂 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>747</ID>
+      <DefaultText>S分 裂 为 两 个 更 小 的 幻 象 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>748</ID>
+      <DefaultText>痛 苦 抵 抗 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>749</ID>
+      <DefaultText>R减 少 异 常 状 态 持 续 时 间 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>750</ID>
+      <DefaultText>瞬 间 传 送 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>751</ID>
+      <DefaultText>I瞬 间 传 送 到 一 个 新 地 点 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>752</ID>
+      <DefaultText>大 地 传 送 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>753</ID>
+      <DefaultText>T通 过 土 地 传 送 到 一 个 新 地 点 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>754</ID>
+      <DefaultText>猛 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>755</ID>
+      <DefaultText>卡 洛 •格 兰 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>756</ID>
+      <DefaultText>哥 德 罗 特 •丘 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>757</ID>
+      <DefaultText>涟 漪 海 绵 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>758</ID>
+      <DefaultText>雪 顶 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>759</ID>
+      <DefaultText>思 唯 果 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>760</ID>
+      <DefaultText>白 叶 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>761</ID>
+      <DefaultText>奶 酪 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>762</ID>
+      <DefaultText>可 可 粉 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>763</ID>
+      <DefaultText>龙 蛋 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>764</ID>
+      <DefaultText>龙 肉 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>765</ID>
+      <DefaultText>蛋 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>766</ID>
+      <DefaultText>鱼 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>767</ID>
+      <DefaultText>水 果 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>768</ID>
+      <DefaultText>肉 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>769</ID>
+      <DefaultText>油 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>770</ID>
+      <DefaultText>家 禽 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>771</ID>
+      <DefaultText>米 饭 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>772</ID>
+      <DefaultText>糖 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>773</ID>
+      <DefaultText>蔬 菜 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>774</ID>
+      <DefaultText>啤 酒 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>775</ID>
+      <DefaultText>牛 奶 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>776</ID>
+      <DefaultText>黑 暗 拉 瓦 台 饼 干 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>777</ID>
+      <DefaultText>龙 蛋 料 理 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>778</ID>
+      <DefaultText>龙 肉 料 理 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>779</ID>
+      <DefaultText>乡 下 面 包 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>780</ID>
+      <DefaultText>卡 斯 塔 砂 锅 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>781</ID>
+      <DefaultText>公 爵 的 牛 肉 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>782</ID>
+      <DefaultText>珠 木 鸡 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>783</ID>
+      <DefaultText>可 口 派 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>784</ID>
+      <DefaultText>炖 菜 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>785</ID>
+      <DefaultText>拉 瓦 台 甜 派 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>786</ID>
+      <DefaultText>伊 泽 米 特 尔 甜 点 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>787</ID>
+      <DefaultText>火 球 陷 阱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>788</ID>
+      <DefaultText>灵 魂 变 换 ：斯 提 尔 盖 尔 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>789</ID>
+      <DefaultText>C召 唤 幻 影 为 团 队 战 斗 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>790</ID>
+      <DefaultText>R削 弱 范 围 内 敌 人 的 减 伤 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>791</ID>
+      <DefaultText>I增 加 范 围 内 队 友 对 挥 砍 及 电 击 的 伤 害 减 免 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>792</ID>
+      <DefaultText>C使 附 近 一 个 倒 地 的 敌 人 爆 炸 ，喷 出 三 条 白 蛆 ，对 邻 近 敌 人 造 成 钝 击 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>793</ID>
+      <DefaultText>C造 成 一 场 雷 暴 ，使 影 响 范 围 内 的 敌 人 受 到 震 慑 效 果 和 电 击 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>794</ID>
+      <DefaultText>D从 环 境 中 吸 收 电 能 制 造 三 束 闪 电 攻 击 敌 人 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>795</ID>
+      <DefaultText>S召 唤 三 具 骸 骨 士 兵 为 团 队 战 斗 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>796</ID>
+      <DefaultText>R降 低 影 响 范 围 内 敌 人 发 动 借 机 攻 击 时 的 精 准 度 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>797</ID>
+      <DefaultText>G生 成 一 个 恐 惧 力 场 ，使 影 响 范 围 内 的 敌 人 惊 慌 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>798</ID>
+      <DefaultText>A队 友 留 下 冰 霜 足 迹 ，对 敌 人 造 成 冰 冻 伤 害 和 蹒 跚 状 态 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>799</ID>
+      <DefaultText>D减 少 重 装 时 间 并 增 加 队 列 攻 击 速 度 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>800</ID>
+      <DefaultText>D降 低 影 响 范 围 内 友 军 惊 慌 和 恐 惧 状 态 的 持 续 时 间 ，增 加 对 其 的 抗 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>801</ID>
+      <DefaultText>S煽 动 影 响 范 围 敌 人 的 内 心 ，魅 惑 他 们 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>802</ID>
+      <DefaultText>C召 唤 三 只 亚 龙 为 团 队 战 斗 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>803</ID>
+      <DefaultText>C使 影 响 范 围 内 的 敌 人 恐 惧 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>804</ID>
+      <DefaultText>D降 低 影 响 范 围 内 友 军 蹒 跚 、定 身 、麻 痹 和 石 化 状 态 的 持 续 时 间 ，并 增 加 对 其 的 抗 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>805</ID>
+      <DefaultText>A蓄 积 迷 失 的 灵 魂 碎 片 来 形 成 两 个 为 团 队 战 斗 的 幽 灵 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>806</ID>
+      <DefaultText>P使 影 响 范 围 内 的 敌 人 麻 痹 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>807</ID>
+      <DefaultText>A范 围 内 队 友 获 得 冰 冻 和 电 击 伤 害 减 免 ，以 及 对 倒 地 的 抵 抗 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>808</ID>
+      <DefaultText>G生 成 灾 厄 力 场 ，对 影 响 范 围 内 的 敌 人 造 成 灼 烧 和 挥 砍 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>809</ID>
+      <DefaultText>I提 升 影 响 范 围 内 所 有 友 军 的 偏 斜 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>810</ID>
+      <DefaultText>E鼓 励 影 响 范 围 内 的 所 有 友 军 ，获 得 坚 韧 与 意 志 豁 免 加 成 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>811</ID>
+      <DefaultText>A用 寒 冰 霹 雳 从 攻 击 诗 人 周 围 七 个 方 向 的 敌 人 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>812</ID>
+      <DefaultText>E提 升 影 响 范 围 内 友 军 的 威 力 、体 质 和 决 心 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>813</ID>
+      <DefaultText>E增 加 范 围 内 队 友 的 灵 巧 ，直 觉 及 智 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>814</ID>
+      <DefaultText>R为 影 响 范 围 内 的 队 友 回 复 少 量 耐 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>815</ID>
+      <DefaultText>S在 效 果 时 间 内 召 唤 两 只 骇 人 的 食 人 魔 为 团 队 战 斗 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>816</ID>
+      <DefaultText>C从 天 空 召 唤 一 只 巨 蛇 为 团 队 战 斗 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>817</ID>
+      <DefaultText>C使 影 响 范 围 内 敌 人 发 出 幽 光 ，更 易 遭 受 攻 击 。受 影 响 的 敌 人 降 低 偏 斜 和 反 射 豁 免 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>818</ID>
+      <DefaultText>C召 唤 一 束 强 烈 的 日 光 ，灼 烧 并 可 能 使 影 响 范 围 内 的 敌 人 目 盲 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>819</ID>
+      <DefaultText>R快 速 种 植 出 一 丛 扭 曲 的 藤 蔓 ，纠 缠 住 任 何 踏 入 着 。误 入 影 响 范 围 的 角 色 将 会 导 致 蹒 跚 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>820</ID>
+      <DefaultText>T施 法 者 释 放 出 凋 零 之 力 ，对 影 响 范 围 内 的 目 标 造 成 直 接 以 及 持 续 的 腐 蚀 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>821</ID>
+      <DefaultText>C召 唤 一 股 冰 雪 风 暴 ，对 影 响 内 的 敌 人 持 续 冰 冻 伤 害 ，并 降 低 他 们 的 攻 击 频 率 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>822</ID>
+      <DefaultText>Q火 光 一 闪 旋 即 爆 炸 ，对 影 响 范 围 的 所 有 人 造 成 灼 烧 伤 害 。施 法 时 间 很 短 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>823</ID>
+      <DefaultText>G收 集 一 些 流 浪 的 灵 魂 碎 块 ，将 它 们 聚 合 成 小 型 火 焰 、风 、雨 或 是 大 地 瘟 疫 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>824</ID>
+      <DefaultText>F施 法 者 手 中 出 现 烈 火 之 刃 ，可 造 成 灼 烧 伤 害 。切 换 武 器 将 结 束 咒 语 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>825</ID>
+      <DefaultText>A吸 引 一 群 极 具 攻 击 性 的 昆 虫 ，对 影 响 范 围 内 的 所 有 人 造 成 真 实 伤 害 ，并 降 低 其 集 点 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>826</ID>
+      <DefaultText>C施 法 者 的 近 战 武 器 变 成 理 想 的 猎 杀 工 具 ，产 生 持 续 的 摩 擦 伤 害 ，每 次 攻 击 都 会 回 复 耐 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>827</ID>
+      <DefaultText>C为 影 响 范 围 内 的 队 友 覆 盖 一 层 防 护 层 ，增 加 穿 刺 ，灼 烧 及 电 击 伤 害 减 免 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>828</ID>
+      <DefaultText>E将 目 标 包 裹 在 保 护 罩 中 ，在 吸 收 了 一 定 伤 害 后 保 护 罩 会 破 裂 ，但 会 阻 止 目 标 采 取 任 何 行 动 （包 括 移 动 ）。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>829</ID>
+      <DefaultText>D吸 收 大 自 然 的 治 愈 之 力 ，让 团 队 成 员 快 速 恢 复 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>830</ID>
+      <DefaultText>B创 造 一 场 强 力 的 风 暴 ，周 期 性 释 放 闪 电 箭 打 击 影 响 范 围 内 的 敌 人 ，造 成 晕 眩 效 果 和 电 击 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>831</ID>
+      <DefaultText>C召 唤 巨 大 的 鹿 角 攻 击 目 标 ，造 成 穿 刺 伤 害 ，削 弱 其 偏 斜 和 反 射 豁 免 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>832</ID>
+      <DefaultText>S使 地 上 长 出 荆 棘 藤 蔓 ，对 影 响 范 围 内 所 有 人 造 成 穿 刺 伤 害 ，并 使 其 蹒 跚 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>833</ID>
+      <DefaultText>G收 集 中 等 数 量 的 流 浪 灵 魂 碎 块 ，聚 合 成 火 焰 、风 、雨 或 是 大 地 瘟 疫 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>834</ID>
+      <DefaultText>C将 纯 洁 之 力 转 为 威 力 之 源 ，回 复 范 围 内 队 友 耐 力 ，获 得 额 外 防 御 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>835</ID>
+      <DefaultText>B创 造 一 场 致 命 的 风 暴 ，频 繁 地 用 雷 电 攻 影 响 范 围 内 的 敌 人 ，造 成 震 慑 效 果 和 电 击 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>836</ID>
+      <DefaultText>C创 造 一 面 长 满 荆 棘 的 厚 墙 ，造 成 穿 刺 伤 害 。并 使 坚 韧 豁 免 失 败 的 敌 人 中 毒 ，变 得 虚 弱 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>837</ID>
+      <DefaultText>G收 集 大 量 的 流 浪 灵 魂 碎 块 ，聚 合 成 大 规 模 火 焰 、风 、雨 或 是 大 地 瘟 疫 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>838</ID>
+      <DefaultText>C在 施 术 者 手 中 创 造 腐 烂 、致 病 的 颅 骨 ，可 作 远 程 武 器 造 成 钝 击 伤 害 ，并 对 影 响 范 围 内 造 成 持 续 腐 蚀 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>839</ID>
+      <DefaultText>G长 出 一 片 美 丽 但 令 人 恐 惧 的 毒 花 ，使 影 响 范 围 内 敌 人 陷 入 惊 慌 、虚 弱 状 态 ，并 不 断 造 成 真 实 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>840</ID>
+      <DefaultText>S施 法 者 分 享 神 圣 威 力 ，为 范 围 内 的 所 有 队 友 回 复 耐 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>841</ID>
+      <DefaultText>S施 法 者 分 享 神 圣 威 力 ，为 范 围 内 的 所 有 队 友 回 复 适 量 耐 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>842</ID>
+      <DefaultText>S施 法 者 分 享 大 量 神 圣 威 力 ，为 范 围 内 的 所 有 队 友 回 复 大 量 耐 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>843</ID>
+      <DefaultText>C为 法 师 提 供 纯 力 之 杖 以 使 用 ，获 得 额 外 的 攻 击 机 会 ，并 在 每 次 击 中 后 回 复 耐 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>844</ID>
+      <DefaultText>S交 换 施 术 者 和 一 个 友 军 的 位 置 ，在 他 们 之 间 造 成 一 个 冲 击 波 ，并 震 慑 所 有 挡 路 的 敌 人 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>845</ID>
+      <DefaultText>魔 导 书 重 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>846</ID>
+      <DefaultText>C用 魔 力 充 填 巫 师 的 魔 导 书 ，使 其 在 下 一 次 近 战 攻 击 时 造 成 额 外 的 钝 击 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>847</ID>
+      <DefaultText>E以 火 焰 包 围 施 法 者 ，增 加 其 冰 冻 减 伤 ，并 对 近 战 攻 击 者 造 成 灼 烧 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>848</ID>
+      <DefaultText>T施 法 者 皮 肤 变 为 钢 铁 ，极 大 增 加 减 伤 。效 果 将 持 续 十 次 攻 击 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>849</ID>
+      <DefaultText>魔 导 书 重 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>850</ID>
+      <DefaultText>G使 施 术 者 能 获 取 目 标 巫 师 魔 导 书 里 未 使 用 的 一 则 咒 文 ，使 之 能 够 施 放 不 存 在 于 施 术 者 魔 导 书 中 三 级 或 以 下 的 咒 文 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>851</ID>
+      <DefaultText>F向 目 标 发 射 五 颗 源 力 飞 弹 ，产 生 的 冲 击 波 对 周 围 的 的 人 造 成 钝 击 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>852</ID>
+      <DefaultText>C在 施 术 者 周 围 创 造 一 道 神 秘 力 场 ，使 三 级 及 以 下 的 咒 语 反 弹 回 去 。（最 多 反 弹 十 次 ）</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>853</ID>
+      <DefaultText>G生 成 一 道 垂 直 的 火 焰 之 幕 ，对 任 何 穿 越 此 幕 敌 人 造 成 烧 伤 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>854</ID>
+      <DefaultText>D吸 收 目 标 的 决 断 力 和 智 力 ，当 效 果 结 束 后 ，会 溅 射 到 邻 近 敌 人 两 次 ，但 效 果 会 变 弱 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>855</ID>
+      <DefaultText>C创 造 一 根 纯 粹 由 魔 力 长 矛 ，造 成 穿 刺 伤 害 ，并 如 魔 杖 效 果 一 样 对 敌 人 印 发 爆 炸 攻 击 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>856</ID>
+      <DefaultText>A当 施 法 者 耐 力 为 50%时 会 触 发 隐 秘 魔 法 。迅 速 使 附 近 敌 人 倒 地 ，增 加 减 伤 并 获 得 短 暂 额 外 防 御 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>857</ID>
+      <DefaultText>C创 造 一 道 选 择 性 屏 障 ，对 任 何 穿 过 该 屏 障 的 敌 人 造 成 钝 击 伤 害 ，并 使 其 蹒 跚 ，但 友 军 不 受 影 响 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>858</ID>
+      <DefaultText>C在 施 术 者 周 围 创 造 一 道 神 秘 力 场 ，使 五 级 及 以 下 的 咒 语 反 弹 回 去 。（最 多 反 弹 十 五 次 ）</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>859</ID>
+      <DefaultText>C施 术 者 暂 时 牺 牲 法 术 能 力 换 取 武 技 。巫 师 的 偏 斜 、命 中 、威 力 、体 质 和 灵 巧 获 得 提 升 ，但 在 咒 语 持 续 时 间 内 无 法 施 法 或 更 换 魔 导 书 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>860</ID>
+      <DefaultText>C召 唤 黑 色 能 量 环 四 处 扩 散 ，造 成 腐 蚀 伤 害 ，并 消 灭 低 耐 力 目 标 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>861</ID>
+      <DefaultText>C召 唤 强 大 冰 刺 ，对 范 围 内 目 标 造 成 冰 冻 伤 害 ，产 生 一 圈 冰 环 ，使 接 触 的 目 标 蹒 跚 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>862</ID>
+      <DefaultText>灵 魂 跳 跃 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>863</ID>
+      <DefaultText>S使 野 蛮 人 进 入 暴 怒 状 态 ，获 得 额 外 的 威 力 ，体 质 及 攻 击 速 度 ，但 偏 斜 降 低 。野 蛮 人 在 暴 怒 时 将 不 再 显 示 耐 力 和 生 命 值 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>864</ID>
+      <DefaultText>T野 蛮 人 的 攻 击 非 常 强 力 ，可 以 影 响 周 围 敌 人 。每 次 攻 击 成 功 ，会 使 因 战 敌 人 的 攻 击 力 减 弱 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>865</ID>
+      <DefaultText>T野 蛮 人 会 变 得 狂 怒 野 蛮 ，无 视 约 束 ，增 加 对 借 机 攻 击 的 防 御 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>866</ID>
+      <DefaultText>T野 蛮 人 决 不 屈 服 ，回 复 大 量 的 耐 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>867</ID>
+      <DefaultText>C使 野 蛮 人 在 受 伤 时 攻 击 力 增 强 ，耐 力 低 于 50%时 获 得 额 外 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>868</ID>
+      <DefaultText>T强 化 野 蛮 人 的 厚 皮 肤 ，增 加 其 减 伤 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>869</ID>
+      <DefaultText>T野 蛮 人 的 攻 击 力 压 千 钧 。攻 击 具 有 偏 斜 豁 免 的 目 标 时 ，野 蛮 人 可 以 转 而 对 抗 其 坚 韧 豁 免 ，如 果 坚 韧 豁 免 更 低 的 话 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>870</ID>
+      <DefaultText>T野 蛮 人 勇 敢 地 与 所 有 的 攻 击 者 战 斗 。当 野 蛮 人 与 两 个 及 以 上 敌 人 战 斗 时 ，近 战 伤 害 增 加 。并 且 除 非 是 被 三 个 以 上 敌 人 攻 击 ，野 蛮 人 不 可 被 侧 袭 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>871</ID>
+      <DefaultText>L发 出 一 声 吓 人 的 嚎 叫 ，使 影 响 范 围 内 所 有 敌 人 惊 慌 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>872</ID>
+      <DefaultText>T野 蛮 人 出 战 将 会 震 慑 全 场 敌 人 。只 要 有 野 蛮 人 存 在 ，附 近 敌 人 可 能 获 得 恶 心 效 果 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>873</ID>
+      <DefaultText>L发 出 一 声 恐 怖 的 吼 叫 ，使 影 响 范 围 内 的 敌 人 恐 惧 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>874</ID>
+      <DefaultText>I将 无 法 抑 制 的 嗜 血 欲 望 灌 输 给 野 蛮 人 ，当 他 击 杀 至 少 两 个 敌 人 后 ，便 会 暂 时 增 加 移 动 速 度 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>875</ID>
+      <DefaultText>E野 蛮 人 在 耐 力 为 0时 将 发 动 最 终 复 仇 ，使 其 对 范 围 内 目 标 发 动 强 力 攻 击 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>876</ID>
+      <DefaultText>T野 蛮 人 快 速 旋 转 ，攻 击 所 有 敌 人 。每 次 使 用 装 备 的 武 器 进 攻 ，都 会 造 成 额 外 的 伤 害 ，并 进 入 屠 杀 状 态 （如 果 可 能 的 话 ）。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>877</ID>
+      <DefaultText>I召 唤 原 始 之 力 ，只 要 诗 人 持 续 吟 唱 ，范 围 内 队 友 将 获 得 持 续 的 耐 力 回 复 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>878</ID>
+      <DefaultText>D由 于 德 鲁 伊 与 熊 的 自 然 联 系 ，使 其 具 有 熊 之 属 性 。熊 之 强 化 具 有 很 高 减 伤 ，并 可 发 动 恐 惧 咆 哮 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>879</ID>
+      <DefaultText>D由 于 德 鲁 伊 与 野 猪 的 自 然 联 系 ，使 其 具 有 野 猪 属 性 。野 猪 强 化 可 以 回 复 耐 力 ，并 增 加 近 战 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>880</ID>
+      <DefaultText>D由 于 德 鲁 伊 与 猫 的 自 然 联 系 ，使 其 具 有 猫 之 属 性 。猫 之 强 化 攻 击 速 度 快 ，并 可 在 短 时 间 内 进 一 步 提 升 攻 击 速 度 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>881</ID>
+      <DefaultText>D由 于 德 鲁 伊 与 牡 鹿 的 自 然 联 系 ，使 其 具 有 牡 鹿 属 性 。牡 鹿 强 化 具 有 高 防 御 ，可 对 成 群 敌 人 发 动 杀 戮 攻 击 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>882</ID>
+      <DefaultText>D由 于 德 鲁 伊 与 狼 的 自 然 联 系 ，使 其 具 有 狼 之 属 性 。狼 之 强 化 移 动 速 度 快 ，可 使 敌 人 倒 地 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>883</ID>
+      <DefaultText>T战 士 利 用 想 要 突 破 的 敌 人 ，瞄 准 他 们 的 脚 攻 击 。被 脱 离 攻 击 的 敌 人 将 会 蹒 跚 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>884</ID>
+      <DefaultText>T战 士 会 竭 力 保 护 队 友 。降 低 命 中 但 会 增 加 附 近 队 友 的 偏 斜 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>885</ID>
+      <DefaultText>A照 头 一 击 来 使 敌 人 失 去 反 应 能 力 。被 成 功 击 中 的 敌 人 被 震 慑 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>886</ID>
+      <DefaultText>T僧 侣 进 入 极 限 ，出 拳 如 影 ，短 时 间 增 加 攻 击 速 度 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>887</ID>
+      <DefaultText>M僧 侣 历 经 劫 难 ，发 掘 自 身 极 限 。他 们 的 基 础 徒 手 伤 害 高 于 其 他 职 业 ，每 升 三 级 ，会 永 久 提 升 徒 手 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>888</ID>
+      <DefaultText>T僧 侣 历 经 劫 难 ，获 得 超 脱 。每 升 一 级 ，永 久 提 升 徒 手 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>889</ID>
+      <DefaultText>T僧 侣 历 经 劫 难 ，获 得 超 脱 。每 升 一 级 ，永 久 提 升 徒 手 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>890</ID>
+      <DefaultText>T僧 侣 历 经 劫 难 ，获 得 超 脱 。每 升 一 级 ，永 久 提 升 徒 手 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>891</ID>
+      <DefaultText>T经 年 累 月 的 修 行 让 僧 侣 能 够 在 战 局 中 凌 波 微 步 来 去 自 如 。在 战 斗 中 ，僧 侣 的 移 动 速 度 显 著 提 升 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>892</ID>
+      <DefaultText>I佛 法 有 云 ，患 难 与 共 。猛 击 一 个 目 标 造 成 钝 击 伤 害 ，其 身 后 的 敌 人 也 会 遭 受 钝 击 伤 害 并 被 削 弱 威 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>893</ID>
+      <DefaultText>T僧 侣 履 行 因 果 报 偿 。当 僧 侣 有 伤 痛 存 在 时 ，近 战 附 加 额 外 的 灼 烧 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>894</ID>
+      <DefaultText>T业 障 苦 果 洗 涤 身 心 ，减 益 效 果 的 持 续 时 间 减 半 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>895</ID>
+      <DefaultText>T僧 侣 洞 悉 自 身 潜 力 ，当 一 个 有 害 效 果 结 束 时 将 短 暂 增 加 坚 韧 ，反 射 及 意 志 豁 免 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>896</ID>
+      <DefaultText>A神 龙 摆 尾 一 脚 踹 飞 目 标 。目 标 会 撞 开 沿 路 的 敌 人 ，如 若 半 路 碰 壁 ，则 倒 地 不 起 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>897</ID>
+      <DefaultText>B通 过 瞄 准 穴 位 ，僧 侣 使 敌 人 气 血 瘀 滞 。近 战 重 击 可 使 目 标 虚 弱 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>898</ID>
+      <DefaultText>T僧 侣 耳 听 八 方 ，获 得 偏 斜 加 成 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>899</ID>
+      <DefaultText>T僧 侣 浑 然 入 境 ，增 加 坚 韧 ，反 射 及 意 志 豁 免 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>900</ID>
+      <DefaultText>C僧 侣 运 用 禅 力 ，可 将 半 数 攻 击 自 身 的 箭 只 回 弹 原 主 。只 有 未 命 中 的 攻 击 才 有 机 会 被 反 弹 回 去 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>901</ID>
+      <DefaultText>G僧 侣 每 次 积 累 伤 痛 ，都 会 运 气 震 慑 四 围 ，造 成 少 量 伤 害 ，并 有 可 能 打 断 敌 人 动 作 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>902</ID>
+      <DefaultText>I眨 眼 之 间 ，僧 侣 瞬 步 奔 袭 远 处 目 标 ，造 成 惊 人 的 钝 击 伤 害 ，并 降 低 奔 袭 路 径 上 敌 人 的 防 御 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>903</ID>
+      <DefaultText>M将 一 个 敌 人 标 记 为 圣 武 士 之 怒 的 主 要 目 标 ，增 加 对 该 敌 人 的 命 中 和 伤 害 ，直 到 他 死 亡 为 止 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>904</ID>
+      <DefaultText>T圣 武 士 的 纯 净 灵 魂 能 够 抗 拒 所 有 不 洁 之 力 ，加 强 对 毒 药 、疾 病 、魅 惑 、受 控 、惊 慌 和 恐 惧 效 果 的 抵 抗 力  - 并 减 少 其 持 续 时 间 5秒 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>905</ID>
+      <DefaultText>A猎 人 瞄 准 逃 跑 中 的 猎 物 的 弱 点 ，减 慢 他 的 速 度 ，让 目 标 蹒 跚 并 持 续 受 到 擦 伤 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>906</ID>
+      <DefaultText>T游 侠 的 移 动 变 得 迅 捷 、流 畅 而 具 攻 击 性 ，在 降 低 命 中 的 同 时 远 程 武 器 的 射 击 频 率 和 重 装 填 时 间 和 近 战 武 器 的 攻 击 频 率 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>907</ID>
+      <DefaultText>T游 侠 和 动 物 队 友 之 间 的 感 情 羁 绊 使 游 侠 对 来 犯 危 险 获 得 超 常 的 直 觉 力 ，当 两 者 同 时 被 效 果 攻 击 时 显 著 提 升 防 御 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>908</ID>
+      <DefaultText>D标 记 目 标 为 猎 物 ，增 加 游 侠 与 动 物 队 友 对 目 标 的 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>909</ID>
+      <DefaultText>H加 强 游 侠 的 动 物 队 友 的 掠 食 直 觉 ，在 效 果 时 间 结 束 前 提 升 对 任 何 受 到 持 续 伤 害 的 敌 人 的 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>910</ID>
+      <DefaultText>L长 时 间 作 战 经 验 使 游 侠 与 动 物 队 友 配 合 默 契 。游 侠 在 攻 击 被 动 物 吸 引 的 目 标 时 ，命 中 提 高 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>911</ID>
+      <DefaultText>I使 游 侠 的 动 物 队 友 向 一 个 目 标 冲 锋 ，使 其 倒 地 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>912</ID>
+      <DefaultText>E游 侠 释 放 的 远 程 攻 击 ，可 以 直 接 击 穿 第 一 个 目 标 ，并 打 击 该 目 标 身 后 的 敌 人 ，并 造 成 少 量 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>913</ID>
+      <DefaultText>C在 目 标 脚 下 的 土 地 召 唤 树 根 ，使 其 陷 入 粘 滞 状 态 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>914</ID>
+      <DefaultText>C游 侠 获 得 动 物 伙 伴 本 能 的 赐 礼 ，对 针 对 偏 斜 的 远 程 攻 击 十 分 敏 锐 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>915</ID>
+      <DefaultText>T通 过 降 低 攻 击 和 重 装 填 速 率 ，游 侠 能 够 更 仔 细 地 瞄 准 ，提 升 命 中 和 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>916</ID>
+      <DefaultText>B召 唤 动 物 队 友 来 到 游 侠 身 边 ，使 队 友 快 速 回 到 游 侠 身 边 ，无 视 锁 定 ，并 使 沿 途 敌 人 倒 地 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>917</ID>
+      <DefaultText>C当 动 物 队 友 攻 击 敌 人 时 ，利 用 这 份 空 隙 ，当 游 侠 攻 击 或 重 击 时 ，震 慑 敌 人 （作 为 副 攻 击 ）。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>918</ID>
+      <DefaultText>T游 荡 者 可 以 使 用 强 力 攻 击 终 结 对 手 ，目 标 耐 力 越 低 ，攻 击 伤 害 越 高 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>919</ID>
+      <DefaultText>C使 游 荡 者 毫 不 犹 豫 地 投 入 战 局 ，降 低 偏 斜 的 同 时 提 升 命 中 和 武 器 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>920</ID>
+      <DefaultText>T游 荡 者 拥 有 很 多 秘 密 技 能 ，可 讲 普 通 攻 击 转 为 重 击 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>921</ID>
+      <DefaultText>A使 游 荡 者 能 够 打 破 锁 定 ，并 避 过 下 一 次 攻 击 ，脱 离 敌 人 射 程 ，退 到 指 定 位 置 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>922</ID>
+      <DefaultText>T游 荡 者 削 弱 敌 人 的 移 动 能 力 ，造 成 额 外 伤 害 并 使 被 击 中 的 敌 人 蹒 跚 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>923</ID>
+      <DefaultText>U利 用 游 荡 者 技 能 潜 行 接 近 ，对 陷 入 如 下 异 常 状 态 的 敌 人 造 成 额 外 伤 害 ，包 括 ：目 盲 ，夹 击 ，蹒 跚 ，麻 痹 ，石 化 ，倒 地 ，定 身 ，晕 眩 ，虚 弱 以 及 战 斗 开 始 2秒 内 猝 不 及 防 的 敌 人 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>924</ID>
+      <DefaultText>T游 荡 者 寻 觅 反 戈 一 击 的 机 会 。对 可 偏 斜 及 未 命 中 的 近 战 攻 击 ，有 几 率 发 动 全 力 反 击 。只 可 在 装 备 近 战 武 器 时 发 动 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>925</ID>
+      <DefaultText>A偷 袭 敌 人 并 使 其 无 法 观 察 ，造 成 额 外 伤 害 并 使 目 标 目 盲 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>926</ID>
+      <DefaultText>T游 荡 者 精 通 闪 躲 ，可 将 反 射 转 为 未 命 中 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>927</ID>
+      <DefaultText>E作 为 痛 苦 艺 术 的 大 师 ，游 荡 者 可 以 在 造 成 挥 砍 ，穿 刺 和 钝 击 伤 害 时 附 加 持 续 的 真 实 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>928</ID>
+      <DefaultText>T游 荡 者 瞄 准 要 害 区 域 ，会 对 目 标 造 成 额 外 伤 害 并 虚 弱 对 手 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>929</ID>
+      <DefaultText>I游 荡 者 可 以 与 附 近 目 标 瞬 间 交 换 位 置 ，脱 离 险 境 。对 队 友 使 用 将 自 动 成 功 ，对 敌 使 用 则 需 对 抗 其 反 射 豁 免 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>930</ID>
+      <DefaultText>A命 令 游 荡 者 评 估 目 标 的 战 场 位 置 ，使 潜 行 姿 态 在 目 标 受 到 两 个 以 上 状 态 影 响 下 更 具 效 率 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>931</ID>
+      <DefaultText>T游 荡 者 试 图 阻 碍 对 手 的 目 标 区 域 ，他 们 的 战 斗 能 力 至 关 重 要 ，会 对 目 标 造 成 额 外 伤 害 ，虚 弱 对 手 并 使 其 蹒 跚 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>932</ID>
+      <DefaultText>G使 用 魔 杖 ，长 杖 或 权 杖 造 成 重 击 ，会 对 目 标 附 近 小 范 围 敌 人 造 成 少 量 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>933</ID>
+      <DefaultText>T训 练 角 色 使 用 长 柄 斧 ，长 剑 ，链 枷 ，魔 杖 和 战 弓 ，会 增 加 此 类 武 器 的 精 确 度 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>934</ID>
+      <DefaultText>T训 练 角 色 使 用 战 斧 ，剑 ，流 星 锤 及 十 字 弩 ，增 加 使 用 该 类 武 器 的 命 中 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>935</ID>
+      <DefaultText>T训 练 角 色 使 用 匕 首 ，细 剑 ，钉 锤 ，权 杖 及 长 杖 ，增 加 使 用 该 类 武 器 的 命 中 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>936</ID>
+      <DefaultText>T训 练 角 色 使 用 短 柄 斧 ，长 枪 ，铁 头 长 棍 ，猎 弓 及 徒 手 ，增 加 使 用 该 类 武 器 的 命 中 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>937</ID>
+      <DefaultText>T训 练 角 色 使 用 军 刀 ，短 剑 ，棍 棒 ，手 枪 及 火 铳 ，增 加 使 用 该 类 武 器 的 命 中 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>938</ID>
+      <DefaultText>T训 练 角 色 使 用 巨 剑 ，长 矛 ，战 锤 ，劲 弩 和 火 绳 枪 ，会 增 加 此 类 武 器 的 精 确 度 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>939</ID>
+      <DefaultText>T训 练 角 色 新 的 防 御 技 巧 ，使 角 色 能 够 面 对 多 一 个 敌 人 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>940</ID>
+      <DefaultText>C增 加 野 蛮 人 怒 气 ，在 暴 怒 状 态 获 得 额 外 增 益 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>941</ID>
+      <DefaultText>T野 蛮 人 习 得 列 队 技 能 ，提 高 第 二 次 杀 戮 攻 击 的 准 确 性 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>942</ID>
+      <DefaultText>T野 蛮 冲 刺 速 度 被 增 加 。野 蛮 人 冲 撞 会 变 的 更 加 残 暴 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>943</ID>
+      <DefaultText>S加 强 野 蛮 抗 争 ，提 升 所 有 防 御 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>944</ID>
+      <DefaultText>I增 强 诗 人 与 灵 魂 碎 片 的 联 系 ，增 加 远 古 记 忆 的 治 愈 能 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>945</ID>
+      <DefaultText>T灵 能 师 的 灵 魂 鞭 挞 插 入 越 深 ，会 累 计 触 发 攻 击 加 成 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>946</ID>
+      <DefaultText>E增 强 灵 魂 鞭 挞 的 吸 收 能 力 ，集 中 再 生 更 为 迅 速 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>947</ID>
+      <DefaultText>T灵 能 师 的 心 灵 反 弹 变 得 更 加 具 体 ，反 弹 物 理 伤 害 ，一 次 攻 击 对 目 标 造 成 少 量 的 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>948</ID>
+      <DefaultText>D加 剧 德 鲁 伊 的 野 生 型 态 转 换 速 度 ，每 回 合 提 供 额 外 的 形 态 转 变 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>949</ID>
+      <DefaultText>I加 剧 德 鲁 伊 的 野 性 爆 发 ，增 加 额 外 伤 害 加 成 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>950</ID>
+      <DefaultText>G每 次 遭 遇 奖 励 战 士 额 外 一 次 击 倒 能 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>951</ID>
+      <DefaultText>I防 御 状 态 下 提 升 战 士 的 意 识 ，对 所 有 防 御 加 成 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>952</ID>
+      <DefaultText>B迅 速 提 高 战 士 的 强 壮 ，提 升 主 角 的 持 续 恢 复 能 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>953</ID>
+      <DefaultText>L降 低 僧 侣 的 治 疗 冷 却 时 间 ，允 许 主 角 更 快 获 得 治 疗 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>954</ID>
+      <DefaultText>E激 发 僧 侣 的 快 速 攻 击 ，任 何 敌 人 被 攻 击 都 会 触 发 额 外 的 电 击 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>955</ID>
+      <DefaultText>S强 化 巫 师 的 奥 术 障 壁 ，提 供 一 定 的 偏 斜 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>956</ID>
+      <DefaultText>A队 友 被 圣 武 士 的 热 情 感 染 。热 情 感 染 会 触 发 队 友 5%的 几 率 由 普 通 一 击 转 为 重 击 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>957</ID>
+      <DefaultText>T圣 武 士 的 信 仰 使 他 忽 略 所 有 负 面 的 影 响 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>958</ID>
+      <DefaultText>T牧 师 的 信 仰 使 他 忽 略 所 有 负 面 的 影 响 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>959</ID>
+      <DefaultText>T牧 师 谴 责 敌 人 变 得 更 容 易 ，增 加 他 或 她 的 拦 截 能 力 的 准 确 性 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>960</ID>
+      <DefaultText>T用 凶 残 的 战 术 训 练 游 侠 的 动 物 伙 伴 ，使 它 每 次 伤 害 更 多 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>961</ID>
+      <DefaultText>T游 侠 攻 击 更 为 致 命 ，使 其 伤 害 射 击 更 准 确 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>962</ID>
+      <DefaultText>T游 侠 的 攻 击 会 变 得 更 快 ，但 会 减 少 迅 速 瞄 准 的 准 确 性 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>963</ID>
+      <DefaultText>B拓 宽 游 荡 者 的 解 剖 知 识 ，增 加 游 荡 者 终 结 一 击 的 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>964</ID>
+      <DefaultText>I增 加 游 荡 者 的 注 意 力 ，减 少 使 用 冒 死 突 袭 时 的 偏 斜 惩 罚 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>965</ID>
+      <DefaultText>I提 高 了 游 荡 者 的 迂 回 机 动 技 能 ，提 高 游 荡 者 在 潜 行 姿 态 中 重 击 的 几 率 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>966</ID>
+      <DefaultText>A增 强 圣 武 士 忠 诚 火 焰 的 威 力 ，增 加 自 身 的 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>967</ID>
+      <DefaultText>C汇 集 冲 击 力 ，使 目 标 减 伤 无 效 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>968</ID>
+      <DefaultText>A命 令 巫 师 用 精 神 力 使 用 魔 导 书 电 击 敌 人 ，造 成 大 量 伤 害 并 使 震 爆 目 标 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>969</ID>
+      <DefaultText>恐 吓 光 环 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>970</ID>
+      <DefaultText>火 焰 之 环 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>971</ID>
+      <DefaultText>木 皮 术 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>972</ID>
+      <DefaultText>弹 幕 投 射 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>973</ID>
+      <DefaultText>沉 重 之 语 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>974</ID>
+      <DefaultText>触 发 睡 眠 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>975</ID>
+      <DefaultText>C令 一 群 敌 人 立 即 陷 入 睡 眠 状 态 ，短 时 间 内 处 于 倒 地 状 态 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>976</ID>
+      <DefaultText>阿 什 伍 德 的 贝 壳 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>977</ID>
+      <DefaultText>青 铜 号 角 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>978</ID>
+      <DefaultText>乌 木 蜘 蛛 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>979</ID>
+      <DefaultText>闪 光 圣 甲 虫 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>980</ID>
+      <DefaultText>象 牙 亚 龙 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>981</ID>
+      <DefaultText>橡 木 圣 甲 虫 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>982</ID>
+      <DefaultText>黑 曜 石 灯 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>983</ID>
+      <DefaultText>召 唤 贵 族 生 物 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>984</ID>
+      <DefaultText>S召 唤 贵 族 生 物 与 你 并 肩 作 战 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>985</ID>
+      <DefaultText>召 唤 阴 影 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>986</ID>
+      <DefaultText>受 控 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>987</ID>
+      <DefaultText>羚 羊 伙 伴 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>988</ID>
+      <DefaultText>熊 伙 伴 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>989</ID>
+      <DefaultText>野 猪 伙 伴 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>990</ID>
+      <DefaultText>狮 子 伙 伴 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>991</ID>
+      <DefaultText>牧 鹿 伙 伴 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>992</ID>
+      <DefaultText>狼 伙 伴 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>993</ID>
+      <DefaultText>白 狐 伙 伴 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>994</ID>
+      <DefaultText>重 创 横 扫 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>995</ID>
+      <DefaultText>法 官 判 决 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>996</ID>
+      <DefaultText>罚 者 之 悯 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>997</ID>
+      <DefaultText>重 伤 导 致 短 时 间 内 流 血 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>998</ID>
+      <DefaultText>死 亡 之 舞 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>999</ID>
+      <DefaultText>沉 默 奴 隶 的 咒 语 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1000</ID>
+      <DefaultText>W武 器 强 化 为 所 有 武 器 增 加 指 定 强 化 。冒 险 者 武 器 包 括 长 剑 ，链 枷 ，长 柄 斧 ，魔 杖 和 战 弓 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1001</ID>
+      <DefaultText>W武 器 强 化 为 所 有 武 器 增 加 指 定 强 化 。骑 士 武 器 包 括 战 斧 ，剑 ，流 星 锤 及 十 字 弩 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1002</ID>
+      <DefaultText>W武 器 强 化 为 所 有 武 器 增 加 指 定 强 化 。贵 族 武 器 包 括 匕 首 ，钉 锤 ，细 剑 ，长 杖 及 权 杖 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1003</ID>
+      <DefaultText>W武 器 强 化 为 所 有 武 器 增 加 指 定 强 化 。农 夫 武 器 包 括 短 柄 斧 ，长 枪 ，铁 头 长 棍 ，猎 弓 及 徒 手 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1004</ID>
+      <DefaultText>W武 器 专 精 会 根 据 你 选 择 的 专 精 种 类 提 升 该 类 型 下 所 有 武 器 的 伤 害 。暴 徒 类 武 器 包 括 火 铳 ，棍 棒 ，手 枪 ，军 刀 及 短 剑 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1005</ID>
+      <DefaultText>W特 定 职 业 的 武 器 专 精 使 用 下 列 被 选 中 的 武 器 会 获 得 额 外 伤 害 奖 励 。军 人 的 武 器 种 类 包 含 了 巨 剑 ，长 矛 ，战 锤 ，劲 弩 和 火 绳 枪 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1006</ID>
+      <DefaultText>野 猪 形 态 再 生 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1007</ID>
+      <DefaultText>T精 神 变 身 为 野 猪 形 态 能 使 得 德 鲁 伊 以 一 定 的 速 度 持 续 恢 复 耐 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1008</ID>
+      <DefaultText>猫 形 态 急 速 攻 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1009</ID>
+      <DefaultText>B在 德 鲁 伊 猫 形 态 下 暂 时 提 高 攻 击 速 度 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1010</ID>
+      <DefaultText>德 鲁 伊 雄 鹿 形 态 防 御 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1011</ID>
+      <DefaultText>W在 雄 鹿 形 态 下 ，德 鲁 伊 会 获 得 所 有 类 型 的 防 御 加 成 （偏 斜 、坚 韧 、反 射 和 意 志 豁 免 ）。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1012</ID>
+      <DefaultText>德 鲁 伊 雄 鹿 状 态 杀 戮 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1013</ID>
+      <DefaultText>W在 牧 鹿 状 态 下 ，德 鲁 伊 会 冒 死 攻 击 大 片 敌 人 ，每 次 近 战 将 会 降 低 附 近 1m目 标 内 的 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1014</ID>
+      <DefaultText>德 鲁 伊 熊 形 态 恐 惧 咆 哮 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1015</ID>
+      <DefaultText>L发 出 恐 惧 咆 哮 ，使 影 响 范 围 内 的 敌 人 惊 慌 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1016</ID>
+      <DefaultText>A羚 羊 天 生 就 有 着 顶 级 防 御 能 力 。(偏 斜 ，坚 韧 、反 射 和 意 志 豁 免 )。
+
+所 有 游 侠 都 会 与 他 们 的 动 物 伙 伴 建 立 强 大 的 精 神 联 系 。这 种 联 系 使 得 游 侠 和 动 物 队 友 能 够 协 同 攻 击 ，有 效 追 捕 猎 物 。大 多 数 情 况 下 ,当 游 侠 远 程 攻 击 时 ，动 物 队 友 则 负 责 干 扰 敌 人 。
+
+尽 管 有 这 些 优 点 ,人 与 动 物 的 这 种 关 系 还 是 有 风 险 。游 侠 将 自 己 的 生 命 与 他 们 的 动 物 伙 伴 绑 在 一 起 。当 一 方 受 伤 时 ,另 一 方 则 可 以 感 受 到 ，并 承 受 着 强 烈 的 情 感 痛 苦 。如 果 游 侠 或 羚 羊 有 一 方 失 去 了 知 觉 ，在 其 恢 复 之 前 ，另 一 方 会 一 直 承 受 捆 绑 悲 痛 ,其 精 准 度 和 其 他 状 态 都 会 受 影 响 。如 果 游 侠 被 杀 害 ,他 的 动 物 同 会 立 即 忧 郁 而 死 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1017</ID>
+      <DefaultText>B熊 的 伤 害 免 疫 异 常 的 高 ,这 使 得 他 们 能 够 保 护 自 己 免 受 各 种 形 式 的 损 伤 。
+
+所 有 游 侠 都 会 与 他 们 的 动 物 伙 伴 建 立 强 大 的 精 神 联 系 。这 种 联 系 使 得 游 侠 和 动 物 队 友 能 够 协 同 攻 击 ，有 效 追 捕 猎 物 。大 多 数 情 况 下 ,当 游 侠 远 程 攻 击 时 ，动 物 队 友 则 负 责 干 扰 敌 人 。
+
+尽 管 有 这 些 优 点 ,人 与 动 物 的 这 种 关 系 还 是 有 风 险 。游 侠 将 自 己 的 生 命 与 他 们 的 动 物 伙 伴 绑 在 一 起 。当 一 方 受 伤 时 ,另 一 方 则 可 以 感 受 到 ，并 承 受 着 强 烈 的 情 感 痛 苦 。如 果 游 侠 或 熊 有 一 方 失 去 了 知 觉 ，在 其 恢 复 之 前 ，另 一 方 会 一 直 承 受 捆 绑 悲 痛 ,其 精 准 度 和 其 他 状 态 都 会 受 影 响 。如 果 游 侠 被 杀 害 ,他 的 动 物 同 会 立 即 忧 郁 而 死 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1018</ID>
+      <DefaultText>B当 野 猪 的 耐 力 低 于 50%时 ，它 们 能 造 成 更 多 伤 害 。
+
+所 有 游 侠 都 会 与 他 们 的 动 物 伙 伴 建 立 强 大 的 精 神 联 系 。这 种 联 系 使 得 游 侠 和 动 物 队 友 能 够 协 同 攻 击 ，有 效 追 捕 猎 物 。大 多 数 情 况 下 ,当 游 侠 远 程 攻 击 时 ，动 物 队 友 则 负 责 干 扰 敌 人 。
+
+尽 管 有 这 些 优 点 ,人 与 动 物 的 这 种 关 系 还 是 有 风 险 。游 侠 将 自 己 的 生 命 与 他 们 的 动 物 伙 伴 绑 在 一 起 。当 一 方 受 伤 时 ,另 一 方 则 可 以 感 受 到 ，并 承 受 着 强 烈 的 情 感 痛 苦 。如 果 游 侠 或 野 猪 有 一 方 失 去 了 知 觉 ，在 其 恢 复 之 前 ，另 一 方 会 一 直 承 受 捆 绑 悲 痛 ,其 精 准 度 和 其 他 状 态 都 会 受 影 响 。如 果 游 侠 被 杀 害 ,他 的 动 物 同 会 立 即 忧 郁 而 死 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1019</ID>
+      <DefaultText>受 伤 野 猪 的 伤 害 加 成 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1020</ID>
+      <DefaultText>A所 有 野 猪 类 型 的 动 物 伙 伴 只 要 处 于 耐 力 不 足 50%的 情 况 下 ，就 会 获 得 伤 害 加 成 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1021</ID>
+      <DefaultText>L狮 子 伙 伴 能 发 出 威 力 十 足 的 咆 哮 使 敌 人 进 入 恐 惧 状 态 。
+
+游 侠 都 会 与 一 个 生 物 个 体 建 立 强 大 的 精 神 联 系 即 他 们 的 动 物 伙 伴 。这 种 联 系 让 游 侠 和 他 们 的 动 物 伙 伴 能 相 互 协 作 进 行 攻 击 从 而 十 分 有 效 率 地 捕 获 猎 物 。在 绝 大 多 数 情 况 下 ，当 游 侠 在 射 程 内 进 行 攻 击 时 ，动 物 伙 伴 会 立 刻 跑 向 猎 物 挡 在 前 面 。
+
+尽 管 有 这 些 益 处 ，同 时 这 种 关 系 也 会 伴 随 一 些 风 险 。游 侠 们 与 他 们 的 动 物 伙 伴 的 生 命 捆 绑 在 一 起 。当 其 中 一 方 受 伤 ，另 一 方 能 感 受 到 并 会 承 受 强 烈 的 精 神 痛 苦 。如 果 一 名 游 侠 或 者 他 的 动 物 伙 伴 进 入 昏 迷 状 态 ，另 外 一 方 会 因 为 悲 痛 而 受 到 影 响 ，精 准 和 其 他 属 性 都 会 有 所 下 降 ，直 到 昏 迷 的 一 方 恢 复 。如 果 一 名 游 侠 被 杀 ，他 的 动 物 伙 伴 会 因 为 悲 痛 立 即 死 亡 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1022</ID>
+      <DefaultText>S牡 鹿 能 激 活 一 次 近 身 攻 击 ，对 主 要 目 标 周 围 的 一 个 较 小 范 围 内 的 所 有 敌 人 造 成 溅 射 伤 害 。
+
+游 侠 都 会 与 一 个 生 物 个 体 建 立 强 大 的 精 神 联 系 即 他 们 的 动 物 伙 伴 。这 种 联 系 让 游 侠 和 他 们 的 动 物 伙 伴 能 相 互 协 作 进 行 攻 击 从 而 十 分 有 效 率 地 捕 获 猎 物 。在 绝 大 多 数 情 况 下 ，当 游 侠 在 射 程 内 进 行 攻 击 时 ，动 物 伙 伴 会 立 刻 跑 向 猎 物 挡 在 前 面 。
+
+尽 管 有 这 些 益 处 ，同 时 这 种 关 系 也 会 伴 随 一 些 风 险 。游 侠 们 与 他 们 的 动 物 伙 伴 的 生 命 捆 绑 在 一 起 。当 其 中 一 方 受 伤 ，另 一 方 能 感 受 到 并 会 承 受 强 烈 的 精 神 痛 苦 。如 果 一 名 游 侠 或 者 他 的 动 物 伙 伴 进 入 昏 迷 状 态 ，另 外 一 方 会 因 为 悲 痛 而 受 到 影 响 ，精 准 和 其 他 属 性 都 会 有 所 下 降 ，直 到 昏 迷 的 一 方 恢 复 。如 果 一 名 游 侠 被 杀 ，他 的 动 物 伙 伴 会 因 为 悲 痛 立 即 死 亡 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1023</ID>
+      <DefaultText>W狼 伙 伴 有 很 高 的 伤 害 同 时 能 更 容 易 地 避 免 借 机 攻 击 。
+
+游 侠 都 会 与 一 个 生 物 个 体 建 立 强 大 的 精 神 联 系 即 他 们 的 动 物 伙 伴 。这 种 联 系 让 游 侠 和 他 们 的 动 物 伙 伴 能 相 互 协 作 进 行 攻 击 从 而 十 分 有 效 率 地 捕 获 猎 物 。在 绝 大 多 数 情 况 下 ，当 游 侠 在 射 程 内 进 行 攻 击 时 ，动 物 伙 伴 会 立 刻 跑 向 猎 物 挡 在 前 面 。
+
+尽 管 有 这 些 益 处 ，同 时 这 种 关 系 也 会 伴 随 一 些 风 险 。游 侠 们 与 他 们 的 动 物 伙 伴 的 生 命 捆 绑 在 一 起 。当 其 中 一 方 受 伤 ，另 一 方 能 感 受 到 并 会 承 受 强 烈 的 精 神 痛 苦 。如 果 一 名 游 侠 或 者 他 的 动 物 伙 伴 进 入 昏 迷 状 态 ，另 外 一 方 会 因 为 悲 痛 而 受 到 影 响 ，精 准 和 其 他 属 性 都 会 有 所 下 降 ，直 到 昏 迷 的 一 方 恢 复 。如 果 一 名 游 侠 被 杀 ，他 的 动 物 伙 伴 会 因 为 悲 痛 立 即 死 亡 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1024</ID>
+      <DefaultText>亚 龙 吐 息 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1025</ID>
+      <DefaultText>食 晶 者 冰 柱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1026</ID>
+      <DefaultText>攻 击 所 有 4米 外 的 敌 人 时 ，你 会 获 得 命 中 率 、偏 斜 与 反 射 豁 免 的 加 成 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1027</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1028</ID>
+      <DefaultText>Kamoa行 军 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1029</ID>
+      <DefaultText>疾 风 步 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1030</ID>
+      <DefaultText>灵 蛇 的 反 射 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1031</ID>
+      <DefaultText>巨 熊 的 坚 韧 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1032</ID>
+      <DefaultText>公 牛 的 意 志 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1033</ID>
+      <DefaultText>遁 入 阴 影 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1034</ID>
+      <DefaultText>A能 使 人 物 暂 时 进 入 隐 身 状 态 。敌 人 无 法 侦 测 隐 形 下 的 人 物 ，隐 形 状 态 下 作 出 的 攻 击 自 动 转 变 为 偷 袭 。攻 击 ，使 用 法 术 ，使 用 特 殊 技 能 或 者 使 用 物 品 都 会 结 束 隐 形 状 态 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1035</ID>
+      <DefaultText>I增 强 角 色 的 坚 韧 豁 免 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1036</ID>
+      <DefaultText>I增 强 角 色 的 意 志 豁 免 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1037</ID>
+      <DefaultText>I增 强 角 色 的 反 射 豁 免 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1038</ID>
+      <DefaultText>狂 暴 攻 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1039</ID>
+      <DefaultText>B使 用 不 羁 之 力 进 行 攻 击 ，角 色 会 牺 牲 近 战 的 命 中 率 ，来 换 取 巨 大 的 伤 害 加 成 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1040</ID>
+      <DefaultText>谨 慎 攻 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1041</ID>
+      <DefaultText>T角 色 寓 守 于 攻 ，不 暴 露 任 何 弱 点 。这 个 姿 态 会 降 低 角 色 的 速 度 ，但 会 增 强 他 们 的 偏 斜 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1042</ID>
+      <DefaultText>淬 毒 攻 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1043</ID>
+      <DefaultText>深 化 信 仰 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1044</ID>
+      <DefaultText>T强 化 圣 武 士 的 信 念 ，使 坚 定 信 仰 带 来 的 防 御 能 力 得 到 加 成 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1045</ID>
+      <DefaultText>心 灵 壁 垒 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1046</ID>
+      <DefaultText>痛 苦 封 锁 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1047</ID>
+      <DefaultText>P牧 师 能 够 通 过 封 锁 之 力 传 达 他 们 的 怒 火 ，在 攻 击 上 附 加 一 种 痛 苦 的 削 弱 诅 咒 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1048</ID>
+      <DefaultText>B增 强 角 色 抵 御 魅 惑 、困 惑 、受 控 、惊 慌 和 恐 惧 效 果 的 能 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1049</ID>
+      <DefaultText>控 制 躯 体 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1050</ID>
+      <DefaultText>B增 强 角 色 抵 御 麻 痹 、石 化 、恶 心 、震 慑 和 虚 弱 效 果 的 能 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1051</ID>
+      <DefaultText>无 人 能 挡 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1052</ID>
+      <DefaultText>B增 强 角 色 对 目 盲 、晕 眩 、蹒 跚 、倒 地 和 定 身 的 能 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1053</ID>
+      <DefaultText>野 蛮 冲 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1054</ID>
+      <DefaultText>T游 侠 训 练 他 的 动 物 伙 伴 能 在 冲 击 敌 人 的 同 时 施 加 钝 击 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1055</ID>
+      <DefaultText>棘 刺 之 根 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1056</ID>
+      <DefaultText>T使 游 侠 的 缠 绕 之 根 上 生 长 出 扎 人 的 棘 刺 ，对 目 标 造 成 额 外 的 穿 刺 和 挥 砍 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1057</ID>
+      <DefaultText>忠 诚 的 伙 伴 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1058</ID>
+      <DefaultText>T游 侠 的 动 物 伙 伴 提 高 抵 御 魅 惑 、困 惑 、受 控 效 果 的 能 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1059</ID>
+      <DefaultText>坚 韧 的 伙 伴 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1060</ID>
+      <DefaultText>T游 侠 的 动 物 伙 伴 提 高 对 所 有 类 型 伤 害 的 减 免 能 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1061</ID>
+      <DefaultText>W将 动 物 和 植 物 的 毒 液 混 合 ，涂 于 自 己 的 武 器 之 上 ，使 角 色 能 够 施 放 带 毒 的 攻 击 ，并 在 一 定 时 间 内 造 成 持 续 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1062</ID>
+      <DefaultText>T角 色 提 升 灵 巧 和 回 避 力 ，提 高 移 动 能 力 且 提 高 抵 御 借 机 攻 击 的 能 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1063</ID>
+      <DefaultText>麦 芽 酒 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1064</ID>
+      <DefaultText>蜂 蜜 酒 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1065</ID>
+      <DefaultText>烈 酒 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1066</ID>
+      <DefaultText>战 争 颜 料 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1067</ID>
+      <DefaultText>双 持 武 器 姿 态 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1068</ID>
+      <DefaultText>武 器 持 盾 姿 态 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1069</ID>
+      <DefaultText>凶 暴 双 持 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1070</ID>
+      <DefaultText>盾 牌 强 化 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1071</ID>
+      <DefaultText>S专 精 训 练 ，使 角 色 在 双 持 武 器 时 ，增 加 攻 击 速 度 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1072</ID>
+      <DefaultText>E装 备 盾 牌 获 得 的 偏 斜 加 成 也 会 等 值 加 成 到 反 射 豁 免 上 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1073</ID>
+      <DefaultText>S专 精 训 练 ，使 角 色 在 双 持 武 器 时 ，增 加 攻 击 速 度 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1074</ID>
+      <DefaultText>E装 备 盾 牌 获 得 的 偏 斜 加 成 也 会 等 值 加 成 到 反 射 豁 免 上 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1075</ID>
+      <DefaultText>神 射 手 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1076</ID>
+      <DefaultText>I使 用 远 程 武 器 攻 击 远 处 目 标 时 ，增 加 角 色 的 命 中 率 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1077</ID>
+      <DefaultText>近 身 射 手 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1078</ID>
+      <DefaultText>I使 用 远 程 武 器 攻 击 近 处 目 标 时 ，增 加 角 色 的 命 中 率 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1079</ID>
+      <DefaultText>乐 章 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1080</ID>
+      <DefaultText>永 恒 积 累 之 戒 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1081</ID>
+      <DefaultText>魂 之 禁 欲 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1082</ID>
+      <DefaultText>T僧 侣 立 即 对 自 身 造 成 伤 害 来 得 到 一 层 创 伤 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1083</ID>
+      <DefaultText>危 险 器 物 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1084</ID>
+      <DefaultText>I增 加 器 物 （魔 杖 ，权 杖 ，长 杖 ）造 成 的 伤 害 ，但 每 次 攻 击 时 也 会 对 自 己 造 成 少 量 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1085</ID>
+      <DefaultText>移 动 射 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1086</ID>
+      <DefaultText>T减 少 移 动 时 使 用 远 程 武 器 的 冷 却 恢 复 时 间 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1087</ID>
+      <DefaultText>黑 暗 之 路 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1088</ID>
+      <DefaultText>W每 当 圣 武 士 击 败 一 个 敌 人 ，附 近 的 敌 人 就 会 陷 入 惊 慌 状 态 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1089</ID>
+      <DefaultText>迷 之 怜 悯 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1090</ID>
+      <DefaultText>W每 当 圣 武 士 击 败 一 个 敌 人 ，就 会 恢 复 附 近 队 友 耐 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1091</ID>
+      <DefaultText>铭 记 拉 汗 之 域 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1092</ID>
+      <DefaultText>T圣 武 士 的 牺 牲 烈 焰 造 成 额 外 的 腐 蚀 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1093</ID>
+      <DefaultText>剑 与 牧 羊 人 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1094</ID>
+      <DefaultText>T圣 武 士 的 牺 牲 烈 焰 会 恢 复 附 近 队 友 的 耐 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1095</ID>
+      <DefaultText>护 佑 之 火 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1096</ID>
+      <DefaultText>T圣 武 士 的 牺 牲 烈 焰 会 为 附 近 的 队 友 提 供 暂 时 的 偏 斜 加 成 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1097</ID>
+      <DefaultText>不 灭 之 火 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1098</ID>
+      <DefaultText>T圣 武 士 的 牺 牲 烈 焰 会 造 成 持 续 性 的 灼 烧 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1099</ID>
+      <DefaultText>闪 耀 圣 光 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1100</ID>
+      <DefaultText>E牧 师 的 圣 光 会 对 敌 人 造 成 灼 烧 伤 害 （躯 壳 受 到 更 多 的 灼 烧 伤 害 ）。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1101</ID>
+      <DefaultText>小 型 免 伤 法 术 启 发 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1102</ID>
+      <DefaultText>D减 少 精 神 护 盾 ，元 素 屏 障 ，镜 影 术 ，伦 格 拉 斯 的 移 形 换 影 的 施 法 时 间 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1103</ID>
+      <DefaultText>D减 少 火 焰 屏 障 ，铁 皮 术 ，次 级 奥 术 反 射 ，兰 戈 拉 斯 护 身 和 奥 术 反 射 的 施 法 时 间 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1104</ID>
+      <DefaultText>高 级 免 伤 法 术 启 发 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1105</ID>
+      <DefaultText>野 蛮 痛 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1106</ID>
+      <DefaultText>T野 蛮 人 施 放 一 次 重 击 ，提 升 重 击 和 杀 戮 攻 击 的 重 击 率 和 伤 害 。杀 戮 的 范 围 也 会 提 升 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1108</ID>
+      <DefaultText>枪 手 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1109</ID>
+      <DefaultText>R提 升 十 字 弩 ，劲 弩 和 所 有 火 器 的 装 填 速 度 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1110</ID>
+      <DefaultText>无 情 的 伙 伴 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1111</ID>
+      <DefaultText>A动 物 伙 伴 对 满 足 条 件 的 目 标 造 成 少 量 的 潜 行 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1112</ID>
+      <DefaultText>强 化 联 合 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1113</ID>
+      <DefaultText>I提 高 联 合 防 御 的 共 享 数 值 加 成 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1114</ID>
+      <DefaultText>单 手 武 器 姿 态 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1115</ID>
+      <DefaultText>W当 攻 击 者 只 装 备 一 把 单 手 武 器 时 ，会 将 部 分 擦 伤 的 攻 击 转 化 为 命 中 攻 击 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1116</ID>
+      <DefaultText>双 手 武 器 姿 态 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1117</ID>
+      <DefaultText>G当 装 备 一 把 双 手 武 器 时 ，提 升 武 器 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1118</ID>
+      <DefaultText>优 雅 撤 退 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1119</ID>
+      <DefaultText>G提 升 所 有 抵 御 借 机 攻 击 的 防 御 能 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1120</ID>
+      <DefaultText>屠 兽 者 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1121</ID>
+      <DefaultText>G提 升 对 所 有 野 兽 造 成 的 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1122</ID>
+      <DefaultText>原 始 之 祸 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1123</ID>
+      <DefaultText>G提 升 对 所 有 原 始 造 成 的 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1124</ID>
+      <DefaultText>猎 魂 者 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1125</ID>
+      <DefaultText>G提 升 对 所 有 灵 魂 造 成 的 伤 害 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1126</ID>
+      <DefaultText>净 化 者 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1127</ID>
+      <DefaultText>G提 升 对 所 有 魔 兽 造 成 的 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1128</ID>
+      <DefaultText>阻 断 打 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1129</ID>
+      <DefaultText>I攻 击 造 成 伤 害 的 同 时 ，提 升 打 断 的 几 率 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1130</ID>
+      <DefaultText>烈 焰 之 子 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1131</ID>
+      <DefaultText>I提 升 灼 烧 造 成 的 伤 害 和 对 灼 烧 的 伤 害 减 免 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1132</ID>
+      <DefaultText>风 暴 之 心 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1133</ID>
+      <DefaultText>I提 升 电 击 造 成 的 伤 害 和 对 电 击 的 伤 害 减 免 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1134</ID>
+      <DefaultText>腐 蚀 之 灵 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1135</ID>
+      <DefaultText>I提 升 腐 蚀 造 成 的 伤 害 和 对 腐 蚀 的 伤 害 减 免 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1136</ID>
+      <DefaultText>冰 晶 之 谜 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1137</ID>
+      <DefaultText>I提 升 冰 冻 造 成 的 伤 害 和 对 冰 冻 的 伤 害 减 免 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1138</ID>
+      <DefaultText>背 刺 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1139</ID>
+      <DefaultText>D急 剧 提 升 潜 行 或 隐 身 状 态 下 造 成 的 伤 害 。游 荡 者 能 够 使 用 近 战 或 远 程 武 器 攻 击 ，但 必 须 在 目 标 2米 之 内 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1140</ID>
+      <DefaultText>要 害 攻 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1141</ID>
+      <DefaultText>V角 色 放 慢 攻 击 速 度 来 无 视 敌 人 部 分 的 伤 害 减 免 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1142</ID>
+      <DefaultText>穿 透 射 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1143</ID>
+      <DefaultText>C牺 牲 远 程 攻 击 的 攻 速 来 换 取 更 多 的 伤 害 减 免 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1144</ID>
+      <DefaultText>强 化 药 水 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1145</ID>
+      <DefaultText>A提 升 所 有 药 水 的 恢 复 能 力 和 持 续 时 间 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1146</ID>
+      <DefaultText>命 中 陷 阱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1147</ID>
+      <DefaultText>A提 升 你 设 置 的 所 有 陷 阱 的 命 中 率 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1148</ID>
+      <DefaultText>魔 兽 猎 手 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1149</ID>
+      <DefaultText>G提 升 对 所 有 躯 壳 造 成 的 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1150</ID>
+      <DefaultText>财 力 雄 厚 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1151</ID>
+      <DefaultText>G获 得 两 个 额 外 的 快 捷 栏 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1152</ID>
+      <DefaultText>武 器 携 带 者 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1153</ID>
+      <DefaultText>G获 得 一 个 额 外 的 武 器 栏 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1154</ID>
+      <DefaultText>海 莉 亚 之 赐 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1155</ID>
+      <DefaultText>A女 神 海 莉 亚 的 护 佑 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1156</ID>
+      <DefaultText>贝 拉 斯 之 赐 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1157</ID>
+      <DefaultText>A贝 拉 斯 神 的 护 佑 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1158</ID>
+      <DefaultText>加 拉 维 恩 之 赐 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1159</ID>
+      <DefaultText>A加 拉 维 恩 神 的 护 佑 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1160</ID>
+      <DefaultText>里 姆 甘 德 之 赐 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1161</ID>
+      <DefaultText>A里 姆 甘 德 神 的 护 佑 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1162</ID>
+      <DefaultText>斯 卡 恩 之 赐 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1163</ID>
+      <DefaultText>A斯 卡 恩 神 的 护 佑 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1164</ID>
+      <DefaultText>瓦 尔 之 赐 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1165</ID>
+      <DefaultText>A瓦 尔 神 的 护 佑 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1166</ID>
+      <DefaultText>贝 拉 斯 之 赐 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1167</ID>
+      <DefaultText>加 拉 维 恩 之 赐 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1168</ID>
+      <DefaultText>海 莉 亚 之 赐 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1169</ID>
+      <DefaultText>里 姆 甘 德 之 赐 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1170</ID>
+      <DefaultText>斯 卡 恩 之 赐 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1171</ID>
+      <DefaultText>瓦 尔 之 赐 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1172</ID>
+      <DefaultText>贝 拉 斯 神 的 护 佑 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1173</ID>
+      <DefaultText>加 拉 维 恩 神 的 护 佑 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1174</ID>
+      <DefaultText>女 神 海 莉 亚 的 护 佑 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1175</ID>
+      <DefaultText>里 姆 甘 德 神 的 护 佑 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1176</ID>
+      <DefaultText>斯 卡 恩 神 的 护 佑 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1177</ID>
+      <DefaultText>瓦 尔 神 的 护 佑 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1178</ID>
+      <DefaultText>双 层 保 护 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1179</ID>
+      <DefaultText>T炼 狱 骑 士 的 训 练 使 得 你 能 够 从 护 甲 中 获 得 更 多 防 御 能 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1180</ID>
+      <DefaultText>无 情 之 手 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1181</ID>
+      <DefaultText>T德 梅 内 尔 的 训 练 使 得 你 能 够 提 升 重 击 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1182</ID>
+      <DefaultText>暴 民 的 正 义 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1183</ID>
+      <DefaultText>T卫 帮 十 二 人 众 知 道 怎 么 对 付 敌 人 ：联 合 你 所 有 的 人 力 来 干 掉 他 们 。现 在 你 也 知 道 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1184</ID>
+      <DefaultText>核 心 里 的 盎 卓 之 礼 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1185</ID>
+      <DefaultText>Y你 从 泰 尔 •诺 尼 斯 的 机 关 中 获 得 了 这 个 神 秘 的 威 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1186</ID>
+      <DefaultText>冷 血 猎 手 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1187</ID>
+      <DefaultText>T尖 牙 的 独 门 知 识 能 让 你 更 轻 松 地 潜 近 猎 物 ，同 时 减 免 猎 物 发 现 你 造 成 的 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1188</ID>
+      <DefaultText>天 堂 之 歌 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1189</ID>
+      <DefaultText>T翎 羽 族 的 秘 笈 能 增 强 的 你 直 觉 能 力 ，同 时 强 化 你 抵 御 闪 电 的 能 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1190</ID>
+      <DefaultText>荒 野 行 者 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1191</ID>
+      <DefaultText>T这 些 格 兰 芬 瑟 人 的 技 巧 能 助 你 抵 抗 束 缚 效 果 ，并 躲 避 借 机 攻 击 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1192</ID>
+      <DefaultText>地 牢 探 索 者 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1193</ID>
+      <DefaultText>D迪 伍 德 劫 掠 者 发 明 了 一 些 在 古 老 英 格 维 斯 废 墟 之 中 穿 行 自 如 的 技 巧 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1194</ID>
+      <DefaultText>艾 斐 济 之 殇 ：艾 德 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1195</ID>
+      <DefaultText>T你 能 在 斯 卡 恩 神 庙 的 血 池 通 过 牺 牲 一 只 你 的 动 物 伙 伴 来 获 得 这 个 奖 励 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1196</ID>
+      <DefaultText>艾 斐 济 之 殇 ：亚 禄 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1197</ID>
+      <DefaultText>艾 斐 济 之 殇 ：杜 兰 斯 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1198</ID>
+      <DefaultText>艾 斐 济 之 殇 ：哀 恸 之 母 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1199</ID>
+      <DefaultText>艾 斐 济 之 殇 ：希 拉 维 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1200</ID>
+      <DefaultText>艾 斐 济 之 殇 ：卡 纳 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1201</ID>
+      <DefaultText>艾 斐 济 之 殇 ：帕 勒 吉 娜 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1202</ID>
+      <DefaultText>艾 斐 济 之 殇 ：萨 加 尼 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1203</ID>
+      <DefaultText>平 衡 破 坏 者 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1204</ID>
+      <DefaultText>P看 穿 一 条 龙 的 弱 点 和 要 害 ，短 时 间 内 降 低 它 们 的 伤 害 减 免 、命 中 和 各 类 防 御 能 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1205</ID>
+      <DefaultText>强 力 陷 阱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1206</ID>
+      <DefaultText>A提 升 所 有 设 置 陷 阱 的 伤 害 或 持 续 时 间 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1207</ID>
+      <DefaultText>血 腥 杀 戮 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1208</ID>
+      <DefaultText>A对 低 耐 力 的 敌 人 进 行 攻 击 ，其 中 一 些 攻 击 会 转 化 为 重 击 ，那 些 重 击 会 造 成 额 外 的 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1209</ID>
+      <DefaultText>快 速 切 换 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1210</ID>
+      <DefaultText>R减 少 切 换 武 器 或 切 换 在 魔 导 书 中 法 术 的 冷 却 时 间 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1211</ID>
+      <DefaultText>防 护 之 触 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1212</ID>
+      <DefaultText>W每 次 圣 武 士 对 队 友 使 用 保 护 之 手 时 ，队 友 会 获 得 偏 斜 加 成 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1213</ID>
+      <DefaultText>职 责 所 制 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1214</ID>
+      <DefaultText>W每 次 圣 武 士 对 队 友 使 用 解 放 箴 言 时 ，队 友 获 得 抵 御 魅 惑 、困 惑 和 受 控 的 强 效 加 成 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1215</ID>
+      <DefaultText>虚 弱 之 手 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1216</ID>
+      <DefaultText>T贝 拉 斯 的 信 徒 会 提 升 钉 锤 和 巨 剑 的 命 中 率 ，同 时 能 施 放 一 种 特 殊 效 果 的 康 赛 浩 特 腐 蚀 虹 吸 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1217</ID>
+      <DefaultText>希 望 永 存 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1218</ID>
+      <DefaultText>T奥 萨 斯 的 信 徒 会 提 升 链 枷 和 流 星 锤 的 命 中 率 ，同 时 能 施 放 一 种 减 短 惊 慌 、恐 惧 持 续 时 间 的 治 疗 法 术 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1219</ID>
+      <DefaultText>灵 感 之 火 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1220</ID>
+      <DefaultText>T玛 格 兰 的 信 徒 会 提 升 剑 和 火 绳 枪 的 命 中 率 ，同 时 能 施 放 一 种 特 殊 效 果 的 夏 炎 爆 发 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1221</ID>
+      <DefaultText>猎 杀 弱 者 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1222</ID>
+      <DefaultText>T斯 卡 恩 的 信 徒 会 提 升 短 剑 和 棍 棒 的 命 中 率 ，同 时 获 得 游 荡 者 的 偷 袭 能 力 ，但 效 果 较 次 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1223</ID>
+      <DefaultText>神 谕 启 示 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1224</ID>
+      <DefaultText>T瓦 尔 的 信 徒 会 提 升 铁 头 长 棍 和 长 杖 的 命 中 率 ，同 时 能 施 放 一 种 特 殊 效 果 的 阿 克 米 尔 的 闪 耀 之 光 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1225</ID>
+      <DefaultText>振 奋 圣 光 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1226</ID>
+      <DefaultText>A牧 师 的 圣 光 会 增 加 队 友 的 命 中 率 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1227</ID>
+      <DefaultText>强 化 圣 光 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1228</ID>
+      <DefaultText>E每 个 人 从 牧 师 圣 光 普 照 中 获 得 治 疗 量 减 少 ，但 牧 师 会 获 得 全 属 性 和 移 动 的 加 成 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1229</ID>
+      <DefaultText>1级 法 术 强 化 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1230</ID>
+      <DefaultText>G获 得 一 个 额 外 的 1级 法 术 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1231</ID>
+      <DefaultText>2级 法 术 强 化 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1232</ID>
+      <DefaultText>G获 得 一 个 额 外 的 2级 法 术 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1233</ID>
+      <DefaultText>3级 法 术 强 化 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1234</ID>
+      <DefaultText>G获 得 一 个 额 外 的 3级 法 术 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1235</ID>
+      <DefaultText>4级 法 术 强 化 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1236</ID>
+      <DefaultText>G获 得 一 个 额 外 的 4级 法 术 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1237</ID>
+      <DefaultText>专 注 增 益 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1238</ID>
+      <DefaultText>T提 升 咒 师 的 最 大 集 中 值 上 限 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1239</ID>
+      <DefaultText>次 级 阿 克 米 晕 眩 之 光 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1240</ID>
+      <DefaultText>次 级 康 赛 浩 特 腐 蚀 虹 吸 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1241</ID>
+      <DefaultText>次 级 偷 袭 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1242</ID>
+      <DefaultText>次 级 夏 炎 爆 发 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1243</ID>
+      <DefaultText>H治 愈 并 减 短 惊 慌 和 恐 惧 的 持 续 时 间 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1244</ID>
+      <DefaultText>振 奋 解 放 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1245</ID>
+      <DefaultText>W每 次 圣 武 士 对 队 友 施 放 解 放 箴 言 时 ，队 友 会 提 升 命 中 率 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1246</ID>
+      <DefaultText>达 寇 兹 圣 殿 之 火 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1247</ID>
+      <DefaultText>W每 次 圣 武 士 施 放 牺 牲 烈 焰 时 ，自 己 会 获 得 一 个 弱 效 的 火 焰 屏 障 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1248</ID>
+      <DefaultText>运 动 达 人 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1249</ID>
+      <DefaultText>R跑 步 ，跳 跃 ，游 泳 ，攀 爬  - 你 无 所 不 能 。这 项 天 赋 能 增 强 角 色 体 能 ，提 高 运 动 能 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1250</ID>
+      <DefaultText>大 学 者 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1251</ID>
+      <DefaultText>Y你 饱 读 史 书 ，通 晓 艾 欧 拉 东 域 的 各 种 历 史 和 传 说 。这 项 天 赋 能 提 升 你 角 色 的 学 识 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1252</ID>
+      <DefaultText>机 械 专 家 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1253</ID>
+      <DefaultText>Y你 具 有 开 锁 ，陷 阱 和 制 作 所 有 机 械 设 备 的 高 超 技 艺 。这 项 天 赋 能 提 升 你 角 色 的 技 术 技 能 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1254</ID>
+      <DefaultText>隐 秘 探 员 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1255</ID>
+      <DefaultText>Y你 拥 有 不 被 发 现 和 在 高 度 戒 备 地 区 悄 然 移 动 的 诀 窍 。这 项 天 赋 能 提 升 你 角 色 的 潜 行 技 能 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1256</ID>
+      <DefaultText>生 存 专 家 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1257</ID>
+      <DefaultText>Y你 是 大 自 然 的 学 徒 ，掌 握 了 艾 欧 拉 东 域 上 所 有 动 植 物 的 秘 密 。这 项 天 赋 能 提 升 你 的 生 存 技 能 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1258</ID>
+      <DefaultText>强 效 偏 斜 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1259</ID>
+      <DefaultText>I提 升 角 色 的 偏 斜 能 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1260</ID>
+      <DefaultText>强 效 偏 斜 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1261</ID>
+      <DefaultText>I提 升 角 色 的 偏 斜 能 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1262</ID>
+      <DefaultText>包 扎 伤 口 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1263</ID>
+      <DefaultText>A能 够 为 使 用 者 恢 复 中 量 的 生 命 值 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1264</ID>
+      <DefaultText>野 外 伤 员 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1265</ID>
+      <DefaultText>A能 够 为 队 友 恢 复 少 量 的 生 命 值 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1266</ID>
+      <DefaultText>野 外 伤 员 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1267</ID>
+      <DefaultText>A能 够 为 队 友 恢 复 少 量 的 生 命 值 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1268</ID>
+      <DefaultText>包 扎 伤 口 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1269</ID>
+      <DefaultText>A能 够 为 使 用 者 恢 复 中 量 的 生 命 值 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1270</ID>
+      <DefaultText>S召 唤 三 枚 贯 穿 目 标 的 飞 弹 ，每 一 枚 飞 弹 都 会 弹 至 额 外 两 个 目 标 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1271</ID>
+      <DefaultText>麻 痹 卷 轴 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1272</ID>
+      <DefaultText>庇 护 卷 轴 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1277</ID>
+      <DefaultText>谷 物 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1278</ID>
+      <DefaultText>击 退 封 印 陷 阱 攻 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1279</ID>
+      <DefaultText>防 护 封 印 陷 阱 攻 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1280</ID>
+      <DefaultText>灼 烧 封 印 陷 阱 攻 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1281</ID>
+      <DefaultText>T苍 白 精 灵 长 期 居 住 在 荒 凉 的 气 候 环 境 中 ，使 得 他 们 天 生 具 有 抵 御 灼 烧 和 冰 冻 伤 害 的 能 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1282</ID>
+      <DefaultText>粘 滞 陷 阱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1283</ID>
+      <DefaultText>光 锥 陷 阱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1284</ID>
+      <DefaultText>毒 雾 陷 阱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1285</ID>
+      <DefaultText>毒 镖 陷 阱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1286</ID>
+      <DefaultText>圣 焰 之 柱 陷 阱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1287</ID>
+      <DefaultText>毒 液 炸 弹 陷 阱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1288</ID>
+      <DefaultText>噩 雾 陷 阱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1289</ID>
+      <DefaultText>冻 矢 陷 阱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1290</ID>
+      <DefaultText>艾 德 拉 根 之 凝 视 陷 阱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1291</ID>
+      <DefaultText>冻 结 冰 柱 陷 阱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1292</ID>
+      <DefaultText>火 焰 漩 涡 陷 阱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1293</ID>
+      <DefaultText>飞 镖 陷 阱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1294</ID>
+      <DefaultText>晕 眩 飞 弹 陷 阱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1295</ID>
+      <DefaultText>锁 链 闪 电 陷 阱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1296</ID>
+      <DefaultText>弹 射 导 弹 陷 阱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1297</ID>
+      <DefaultText>沸 腾 喷 雾 陷 阱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1298</ID>
+      <DefaultText>弓 箭 陷 阱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1299</ID>
+      <DefaultText>挖 洞 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1300</ID>
+      <DefaultText>气 息 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1301</ID>
+      <DefaultText>动 物 伙 伴 作 战 增 益 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1302</ID>
+      <DefaultText>气 息 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1303</ID>
+      <DefaultText>怒 号 挥 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1304</ID>
+      <DefaultText>背 部 冲 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1305</ID>
+      <DefaultText>飞 翼 猛 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1306</ID>
+      <DefaultText>A在 遭 受 意 志 攻 击 后 ，荒 野 羽 精 会 暂 时 获 得 所 有 类 型 的 防 御 加 成 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1307</ID>
+      <DefaultText>W虽 然 熔 火 若 神 族 的 耐 力 不 高 ，但 他 们 的 身 体 得 到 硬 化 ，获 得 额 外 的 伤 害 减 免 ，且 他 们 的 灵 魂 会 痛 击 敌 人 ，对 近 战 攻 击 他 的 敌 人 造 成 灼 烧 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1308</ID>
+      <DefaultText>铁 皮 药 水 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1309</ID>
+      <DefaultText>威 力 药 水 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1310</ID>
+      <DefaultText>高 级 恢 复 药 水 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1311</ID>
+      <DefaultText>恢 复 药 水 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1312</ID>
+      <DefaultText>W当 高 炉 羽 精 攻 击 一 个 同 时 也 被 队 友 作 为 目 标 的 敌 人 时 ，他 们 的 一 部 分 攻 击 会 转 化 为 重 击 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1313</ID>
+      <DefaultText>野 猪 再 生 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1314</ID>
+      <DefaultText>幽 灵 再 生 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1315</ID>
+      <DefaultText>全 副 武 装 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1316</ID>
+      <DefaultText>A所 有 的 岛 居 奥 玛 人 获 得 一 个 额 外 武 器 栏 位 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1317</ID>
+      <DefaultText>羚 羊 防 御 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1318</ID>
+      <DefaultText>I提 升 羚 羊 的 全 部 防 御 能 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1319</ID>
+      <DefaultText>雄 鹿 屠 杀 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1320</ID>
+      <DefaultText>W每 次 近 战 攻 击 命 中 时 ，雄 鹿 会 对 目 标 周 围 小 范 围 内 的 其 他 敌 人 造 成 较 少 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1321</ID>
+      <DefaultText>惊 慌 怒 吼 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1322</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1323</ID>
+      <DefaultText>奥 术 攻 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1324</ID>
+      <DefaultText>U从 魔 导 书 中 施 放 一 道 魔 法 能 量 ，造 成 真 实 伤 害 并 晕 眩 范 围 内 的 敌 人 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1325</ID>
+      <DefaultText>耐 高 司 的 痛 苦 之 缚 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1326</ID>
+      <DefaultText>T攻 击 目 标 ，使 其 陷 入 缚 身 效 果 ，并 成 为 巫 师 冰 冻 光 线 的 最 终 目 标 ，对 路 径 上 所 有 敌 人 造 成 冰 冻 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1327</ID>
+      <DefaultText>自 然 活 力 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1328</ID>
+      <DefaultText>D吸 收 大 自 然 的 活 力 ，为 队 友 施 加 一 层 弱 效 的 再 生 效 果 ，并 提 升 他 们 的 耐 力 上 限 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1329</ID>
+      <DefaultText>万 弹 齐 发 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1330</ID>
+      <DefaultText>T战 士 投 入 认 真 的 训 练 之 中 ，短 时 间 内 显 著 提 升 命 中 率 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1331</ID>
+      <DefaultText>物 归 称 主 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1332</ID>
+      <DefaultText>T圣 武 士 会 暂 时 性 地 夺 取 某 一 敌 人 身 上 的 有 效 增 益 效 果 。物 归 称 主 效 果 结 束 后 ，增 益 也 会 随 之 消 失 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1333</ID>
+      <DefaultText>无 觅 行 踪 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1334</ID>
+      <DefaultText>A艾 维 安 神 裔 天 生 就 难 以 被 远 程 武 器 击 中 ，增 加 其 对 远 程 攻 击 的 偏 斜 。在 耐 力 低 于 50%时 ，艾 维 安 神 裔 的 直 觉 能 力 和 移 动 能 力 会 增 加 ，能 增 加 直 觉 和 对 借 机 攻 击 的 防 御 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1335</ID>
+      <DefaultText>背 后 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1336</ID>
+      <DefaultText>D鬼 魅 若 神 族 好 像 天 生 就 能 察 觉 敌 人 的 弱 点 ，好 似 死 神 降 临 。在 攻 击 低 耐 力 目 标 时 ，鬼 魅 若 神 族 造 成 的 伤 害 会 上 升 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1337</ID>
+      <DefaultText>A在 形 式 严 峻 之 时 ，所 有 民 众 都 有 直 面 挑 战 的 不 屈 精 神 。每 当 他 们 的 耐 力 不 足 50%时 ，他 们 的 命 中 率 和 伤 害 值 会 提 高 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1338</ID>
+      <DefaultText>M山 地 矮 人 是 全 艾 欧 拉 地 区 游 历 最 广 的 种 族 。他 们 长 足 的 旅 程 使 他 们 经 历 过 各 种 各 样 的 致 命 毒 伤 和 可 怕 灾 难 。这 也 导 致 了 每 一 个 或 者 的 山 地 矮 人 对 它 们 都 有 极 强 的 抵 御 能 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1339</ID>
+      <DefaultText>I在 北 方 矮 人 的 故 地 ，原 始 生 物 （软 泥 怪 ，sentient，菌 菇 和 植 物 ）和 魔 兽 （食 人 魔 ，斯 库 德 ，巨 魔 ，vithrack和 蜥 蜴 人 ）一 直 捕 食 落 单 的 猎 人 。作 为 与 这 些 生 物 斗 争 的 后 代 ，北 方 矮 人 在 对 付 它 们 时 ，天 生 就 具 有 命 中 能 力 的 加 成 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1340</ID>
+      <DefaultText>T所 有 新 月 若 神 族 的 灵 魂 都 与 治 愈 的 能 量 紧 密 相 连 。在 战 斗 中 ，每 当 新 月 若 神 族 的 耐 力 首 次 降 至 75%，50%，25%时 ，他 们 会 自 动 在 自 身 周 围 发 出 治 愈 波 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1341</ID>
+      <DefaultText>C岸 居 奥 玛 人 以 他 们 天 生 的 “抗 晕 船 ”能 力 和 强 健 体 质 出 名 。不 知 道 这 是 因 为 他 们 悠 久 的 航 海 历 史 还 是 因 为 他 们 体 内 天 生 就 具 备 这 种 特 质 ，所 有 的 岸 居 奥 玛 人 都 具 有 抵 御 缚 身 和 失 衡 的 能 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1342</ID>
+      <DefaultText>T当 面 临 灾 难 或 身 体 临 近 崩 溃 之 时 ，自 然 若 神 族 的 灵 魂 都 会 剧 烈 地 发 出 回 应 。当 自 然 若 神 族 的 耐 力 不 足 50%时 ，他 们 会 提 升 自 己 的 威 力 ，体 质 和 灵 巧 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1343</ID>
+      <DefaultText>A每 当 游 侠 升 级 时 ，他 们 的 动 物 伙 伴 也 会 获 得 额 外 的 伤 害 减 免 ，命 中 率 和 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1344</ID>
+      <DefaultText>凡 人 二 元 性 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1345</ID>
+      <DefaultText>T僧 侣 领 悟 两 仪 之 式 ，允 许 他 切 换 选 择 提 高 偏 斜 ，或 者 提 高 其 他 豁 免 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1346</ID>
+      <DefaultText>恐 惧 光 环 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1347</ID>
+      <DefaultText>Gau的 誓 言 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1348</ID>
+      <DefaultText>R每 次 使 用 时 ，为 佩 戴 者 恢 复 中 量 的 耐 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1349</ID>
+      <DefaultText>W武 器 精 通 代 表 了 一 位 战 士 对 所 选 武 器 的 不 断 磨 练 ，对 技 艺 的 不 断 追 求 。武 器 精 通 会 提 升 武 器 专 精 下 提 供 的 武 器 攻 击 力 上 限 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1350</ID>
+      <DefaultText>武 器 精 通 ：冒 险 者 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1351</ID>
+      <DefaultText>武 器 精 通 ：骑 士 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1352</ID>
+      <DefaultText>武 器 精 通 ：贵 族 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1353</ID>
+      <DefaultText>武 器 精 通 ：农 民 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1354</ID>
+      <DefaultText>武 器 精 通 ：流 氓 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1355</ID>
+      <DefaultText>武 器 精 通 ：军 人 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1356</ID>
+      <DefaultText>清 晨 之 礼 赞 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1357</ID>
+      <DefaultText>海 之 潮 起 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1358</ID>
+      <DefaultText>不 安 者 之 号 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1359</ID>
+      <DefaultText>T通 魂 者 直 接 与 他 或 她 的 敌 人 的 灵 魂 对 话 ，告 诉 他 们 在 轮 回 中 等 待 他 们 的 是 无 尽 的 恐 惧 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1360</ID>
+      <DefaultText>灵 魂 试 炼 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1361</ID>
+      <DefaultText>T通 魂 者 会 释 放 他 或 她 的 敌 人 的 元 气 在 这 过 程 中 获 得 耐 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1362</ID>
+      <DefaultText>流 亡 女 皇 之 愤 怒 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1363</ID>
+      <DefaultText>单 脚 怪 之 哀 鸣 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1364</ID>
+      <DefaultText>Pames i Masek Lleow</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1365</ID>
+      <DefaultText>Nae Wrytan Nir Syn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1366</ID>
+      <DefaultText>悲 恸 残 焰 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1367</ID>
+      <DefaultText>夜 半 钟 声 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1368</ID>
+      <DefaultText>冷 雨 风 削 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1369</ID>
+      <DefaultText>鼓 声 依 旧 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1370</ID>
+      <DefaultText>孤 犬 之 吠 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1371</ID>
+      <DefaultText>冲 击 波 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1372</ID>
+      <DefaultText>群 星 之 纱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1373</ID>
+      <DefaultText>海 上 之 光 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1374</ID>
+      <DefaultText>沉 没 之 路 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1375</ID>
+      <DefaultText>黄 金 海 岸 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1376</ID>
+      <DefaultText>努 伊 坦 利 尖 牙 与 怒 吼 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1377</ID>
+      <DefaultText>沉 睡 者 的 统 治 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1378</ID>
+      <DefaultText>T通 魂 者 会 探 寻 前 世 中 沉 睡 的 记 忆 ，凭 借 这 威 力 提 升 他 或 她 的 全 属 性 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1379</ID>
+      <DefaultText>步 入 轮 回 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1380</ID>
+      <DefaultText>T通 魂 者 通 过 替 换 他 或 她 的 敌 人 的 灵 魂 来 瞥 见 他 们 的 未 来 ，暂 时 让 敌 人 麻 痹 并 恶 心 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1381</ID>
+      <DefaultText>猛 冲 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1383</ID>
+      <DefaultText>搜 寻 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1384</ID>
+      <DefaultText>治 疗 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1385</ID>
+      <DefaultText>P防 止 受 到 重 伤 的 角 色 的 生 命 值 掉 至 0点 并 造 成 角 色 死 亡 。不 过 如 果 角 色 消 耗 过 多 耐 力 的 话 ，还 是 会 进 入 昏 迷 状 态 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1386</ID>
+      <DefaultText>先 知 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1387</ID>
+      <DefaultText>E在 佩 戴 者 周 围 的 敌 人 精 准 会 下 降 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1388</ID>
+      <DefaultText>T施 法 者 能 在 多 个 目 标 之 间 施 放 威 力 强 大 的 闪 电 链 ，但 不 会 伤 害 目 标 区 域 内 的 队 友 。在 击 中 第 一 个 目 标 后 ，闪 电 链 会 跳 至 下 一 个 最 近 的 敌 人 身 上 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1389</ID>
+      <DefaultText>次 级 恶 臭 爱 抚 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1390</ID>
+      <DefaultText>G它 苏 醒 后 会 放 出 一 波 恶 臭 使 被 困 的 所 有 人 中 毒 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1391</ID>
+      <DefaultText>A3个 一 组 的 石 爪 从 地 上 钻 出 ，对 区 域 中 所 有 人 造 成 石 化 并 受 到 挥 砍 伤 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1392</ID>
+      <DefaultText>远 古 传 说 之 仪 式 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1393</ID>
+      <DefaultText>隐 世 传 奇 之 仪 式 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1394</ID>
+      <DefaultText>不 羁 狂 野 之 仪 式 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1395</ID>
+      <DefaultText>鬼 影 迷 踪 之 仪 式 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1396</ID>
+      <DefaultText>新 生 灵 魂 之 仪 式 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1397</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1398</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1399</ID>
+      <DefaultText>DEBUG Petrify Spell</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

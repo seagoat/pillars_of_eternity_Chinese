@@ -1,0 +1,38 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\companions\poi\poi_bs_caed_library</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>6</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>Bank Node 1</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“给 我 来 一 本 不 错 的 史 诗 和 一 瓶 鹿 丛 白 兰 地 ，我 就 可 以 在 这 呆 一 段 时 间 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“看 看 这 些 书 ！我 们 不 能 在 这 呆 一 会 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“难 怪 迪 伍 德 都 是 没 文 化 的 酒 鬼 ——所 有 的 优 秀 书 籍 都 藏 在 这 里 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>“这 里 作 为 一 潭 死 水 倒 是 有 出 乎 意 料 的 充 足 备 货 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>“这 里 能 睡 下 一 半 马 苏 克 人 。包 括 我 们 的 狐 狸 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

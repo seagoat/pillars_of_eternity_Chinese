@@ -1,0 +1,97 @@
+<StringTableFile>
+  <Name>quests\companions\companion_qst_durance</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>杜 蘭 斯 的 試 煉 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>和 杜 蘭 斯 一 起 旅 行 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>和 杜 蘭 斯 談 談 你 的 幻 覺 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>繼 續 了 解 杜 蘭 斯 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>從 杜 蘭 斯 那 裡 弄 清 楚 符 號 的 意 義 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>繼 續 和 杜 蘭 斯 旅 行 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>和 杜 蘭 斯 談 談 沃 迪 卡 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>我 在 Magran『s Fork見 到 了 一 個 奇 怪 的 牧 師 ，他 聲 稱 我 們 可 以 從 向 別 人 提 問 中 學 到 一 些 東 西 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>杜 蘭 斯 說 他 和 我 注 定 一 起 旅 行 ，我 們 之 間 可 以 相 互 學 習 。他 是 一 個 話 很 多 ，提 出 的 問 題 比 回 答 的 要 多 ，但 是 如 果 我 和 他 一 起 旅 行 得 足 夠 遠 ，也 許 我 能 找 到 一 些 值 得 學 習 的 東 西 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我 做 了 一 個 和 杜 蘭 斯 有 關 的 夢 。我 好 像 根 本 不 能 盯 著 他 看 ，他 的 手 杖 爆 發 出 刺 眼 的 光 芒 。這 個 夢 中 的 一 切 似 乎 過 於 真 實 ——就 像 他 的 一 部 分 靈 魂 想 要 告 訴 我 什 麼 一 樣 。我 應 該 問 問 他 我 看 到 的 東 西 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>杜 蘭 斯 告 訴 我 他 曾 是 聖 錘 炸 彈 的 工 程 師 之 一 。除 此 之 外 他 肯 定 還 有 很 多 東 西 沒 告 訴 我 ——至 少 目 前 還 沒 有 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我 又 做 了 一 個 關 於 杜 蘭 斯 的 夢 。我 在 他 的 手 杖 上 看 到 一 個 燃 燒 的 符 號 ——十 二 個 小 圓 圈 組 成 了 一 個 大 圓 圈 ，而 且 就 在 我 盯 著 看 的 時 候 ，其 中 的 十 一 個 漸 漸 地 消 失 了 。在 我 的 夢 裡 ，杜 蘭 斯 好 像 要 重 新 點 亮 它 們 ，但 沒 能 做 到 。也 許 杜 蘭 斯 知 道 這 是 什 麼 意 思 ，就 像 他 在 最 後 一 個 夢 裡 所 做 的 那 樣 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>當 我 向 他 詢 問 手 杖 上 的 圓 圈 的 時 候 ，他 在 逃 避 。他 聲 稱 這 代 表 著 他 失 去 了 和 那 些 在 伊 歐 薩 斯 毀 滅 之 後 被 走 自 己 的 路 的 他 所 拋 棄 的 其 他 Godhammer工 程 師 的 聯 系 。如 果 時 間 合 適 的 話 ，我 會 看 看 能 不 能 找 到 更 多 相 關 信 息 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>得 知 沃 迪 卡 要 為 維 德 文 的 遺 贈 負 責 讓 我 對 聖 戰 的 環 境 和 伊 歐 薩 斯 的 毀 滅 產 生 了 更 多 的 疑 問 。杜 蘭 斯 可 能 有 更 深 的 見 解 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>杜 蘭 斯 並 不 想 討 論 沃 迪 卡 的 事 情 和 伊 歐 薩 斯 的 死 亡 。看 起 來 馬 格 蘭 可 能 和 沃 迪 卡 結 盟 了 ，因 為 聖 錘 炸 彈 就 是 馬 格 蘭 的 作 品 。但 是 杜 蘭 斯 仍 然 不 願 承 認 。如 果 我 能 用 他 自 己 的 話 作 為 證 據 來 讓 他 相 信 ，也 許 我 就 能 打 破 馬 格 蘭 對 他 的 控 制 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我 能 讓 杜 蘭 斯 明 白 馬 格 蘭 和 沃 迪 卡 密 謀 制 作 出 聖 錘 炸 彈 ，而 且 她 拒 絕 和 他 說 話 不 是 因 為 他 對 她 的 誹 謗 ，而 是 因 為 她 希 望 他 和 其 他 聖 錘 工 程 師 一 起 死 去 ，這 樣 自 己 曾 直 接 參 與 過 伊 歐 薩 斯 的 毀 滅 這 個 秘 密 就 永 遠 都 不 會 洩 露 。雖 然 女 神 間 的 結 盟 並 不 穩 定 ，但 是 這 進 一 步 導 致 了 聖 戰 和 接 下 來 無 魂 兒 的 大 量 出 現 。杜 蘭 斯 ，本 人 親 自 宣 布 ，放 棄 自 己 的 信 仰 ，並 發 誓 一 定 要 報 仇 。作 為 一 個 已 經 殺 死 過 一 位 神 的 男 人 ，看 起 來 也 只 有 他 的 威 脅 會 起 到 一 些 作 用 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>杜 蘭 斯 死 了 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>這 個 事 永 遠 也 解 決 不 了 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,32 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\02_defiance_bay_first_fires\02_si_assassination_vision</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“要我为你结束它吗？”这句话一直回响在你耳边。你发现自己气喘吁吁的，想要保持自己的平衡。她跪了下来，看着赛奥斯快速的跑出这个建筑。世界暗了下来，尖叫声和武器声都平息下来。剩下的只有这句话了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>要我为你结束它吗？赛奥斯站高高在上在讲台上，地下是一群穿布袍的观众，你在他们之中，围绕着一个宽的，圆的，刻在石头上的深坑。
+
+他说一个女人向后跳过了一个巨大的铁轮，无视这个巨大的石头深坑。这个女人大部分的手指和脚趾都被切掉，她的脚底也被烧焦。她脸上的一边皮肤看起来像是融化的蜡，黑红而泛光，她背部的角度说明她的脊柱也坏了。尽管如此，她的表情暴露了她的痛苦。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>她的眼睛几乎闭着，她的话从哽咽的呼吸中出来，但是稳定，连续。我已经处于平静状态了，大审判官。是吗？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>那好吧。如果你渴望没有结尾，你就不会有。我发现你犯了宗教异端罪。也许永恒监狱会阻止你的灵魂通过，因为那是不可挽回的。
+
+他对着戴头巾的逝者点点头，他开始把她从轮子上解开。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

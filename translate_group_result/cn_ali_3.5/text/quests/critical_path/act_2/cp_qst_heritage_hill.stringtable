@@ -1,0 +1,128 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\critical_path\act_2\cp_qst_heritage_hill</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>22</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>永恒的遗产</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>进入传承山的高塔。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>前往传承山高塔的顶部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>查明传承山上的因格维斯机器是如何运转的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>找到伊坎莎。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>解决因格维斯机器。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>找到高塔。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>侍僧让我看到在反抗湾一个废弃的地区有一座古老的高塔。有一个怪人在塔里鼓捣某种机器。我还看到一个心上有伤疤的女人。我不知道她在哪儿，但我猜想她知道那里发生事情的关键。
+
+暗灰之钥对这塔感兴趣是有原因的。如果我想找出他们的计划就需要弄明白。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>我看到的高塔就在传承山四周的围墙后若隐若现。我希望在那里能找到下一个难题。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>侍僧的窥测没有告诉我该在这里找到什么。整个地区到处都是复活的尸体。杀出一条前往塔顶的路-以及路上等待着我的怪物-都不是什么容易的事。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我在塔顶找到一个古老的机械。而且侍僧告诉我的，上面还有其他人。
+
+他或许能告诉我更多关于发生在这里的事。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我得到传承山去和伊坎莎谈谈。他好像知道关于塔的一些重要的事，那会成为我了解暗灰之钥任务的关键。
+
+那可以说明侍僧问什么担心这个女人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10006</ID>
+			<DefaultText>既然我懂因格维斯语，我可以回到泰尔瑙内斯上面的机器那，想想办法来解决传承山的诅咒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10007</ID>
+			<DefaultText>暗灰之钥侍僧告诉我有一个古老的塔坐落在一个墓地旁边，墓地邻近一片破败的土地。
+
+寻找这些线索需要知道塔的位置。应该先问问周围的人，或许那些很了解这城市的patrolling justiciars会知道。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>驻守传承山大门的守卫说我需要在最初之火的薇拉的特殊许可我才能放行。
+
+当然，一大堆的钱或着使用些武力也会说服他让我进去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>我杀了那个透过侍僧的视线在塔上看到的亡者。我想他当时是在想弄清楚怎么操作因格维斯机械。他现在一直没弄清楚，不过他或许知道些什么，我也会因此得到些机会。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>奥尔德海姆是个被放逐的灵魂学者，他就在塔上，他保证，如果我得到了伊坎莎的允许以及他需要的支持，他就会帮我提高自己。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20005</ID>
+			<DefaultText>奥尔德海姆已经堕落了- 当我找他说话时他看起来好像要冲上来打我。如果我需要他的帮助，我得给他一个受害者。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20006</ID>
+			<DefaultText>我透过侍僧的视野看到了一个女子，但是她不怎么想帮我。或许利用这个视野找到一个男人或许会让我找到一个更好的办法来搞定她。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我知道了戴尔森林里的因格维斯机械可以用来移动灵魂。我还了解因格维斯语，所以我可以操作它们。我把泰尔瑙内斯上的机器关掉，那样传承山的灵魂就可以回到循环状态。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我知道了戴尔森林里的因格维斯机械可以用来移动灵魂。我还了解因格维斯语，所以我可以操作它们。为了避免机械被别人使用，我用那些被困在传承山的灵魂毁灭了机械。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我知道了戴尔森林里的因格维斯机械可以用来移动灵魂。我还了解因格维斯语，所以我可以操作它们。我用这机械吸收了传承山里那些灵魂的力量。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

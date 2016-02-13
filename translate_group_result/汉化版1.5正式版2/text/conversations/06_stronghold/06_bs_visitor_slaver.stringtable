@@ -1,0 +1,23 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_bs_visitor_slaver</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>3</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“我 期 待 与 您 的 业 务 ，主 人 …”</DefaultText>
+			<FemaleText>“我 期 待 与 您 有 业 务 ，夫 人 …” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“要 我 说 的 话 ，您 周 围 确 实 有 不 错 的 样 品 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“我 觉 得 您 不 会 愿 意 离 开 …不 ，算 了 。呵 呵 。我 们 别 贪 心 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

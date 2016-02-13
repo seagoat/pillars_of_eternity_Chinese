@@ -1,0 +1,580 @@
+<StringTableFile>
+  <Name>conversations\companions\companion_cv_durance_scripted_sequences</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>103</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>你醒了，看到杜蘭斯，他的法杖被雙手握在身前。一道火焰在它的頂部末端，在他凝視沉思的臉上投下一道長長的影子。
+
+因為火焰的光，你還是不能看清他……也許是從沉睡中醒來的緣故，或者一種光影的戲法，但他看起來……模糊不清，在身體邊緣很模糊，除了他的法杖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>那法杖……他看起來是在研究它的雕刻。在你看的時候，雕刻變得微微有些紅，就像從那瀰漫著熱的木頭裂縫裡散發出來。
+
+那些線條像熔化的金屬一樣流動出來，沿著法杖邊緣燒灼，然後伸展出錯綜複雜的的一系列暴躁的脈絡，在他的手抓住法杖的地方聚集變密，搏動著就像是心跳。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>在你看的時候，那些脈絡螺旋成很多分離的圓……很多繼續螺旋的圓直到它們被安排成自己組成的圓。他們搏動，等待，然後一切都奇怪的安靜了……然後……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>然後那時，突然地出現了從火中冒出的強光，一陣氣浪，和一道閃光……然後你再次醒來，看到杜蘭斯還在原處，仍然握著他的法杖，但是他已經成了實體，真實的存在。
+
+他看起來沒注意到你……和發生了的事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>杜蘭斯很安靜，盯著你，鎖定目光。「告訴我你看到了什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「就像一道爆炸一樣的閃光……一陣氣浪，難以想像的明亮。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>離懶死聽進了每一個字。他奇怪地安靜了一會兒，然後當他說話時，他的聲音很低沉。
+
+「你看到的是神錘的光芒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「神錘？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「神錘？那是什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「那是迪伍德人民的武器。他們獨立的象徵。它救了迪伍德。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「關於它你瞭解什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「你說你們有十二個人作為橋上十二個人的敵人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「當神錘降臨時橋上發生了什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「你說的像你和神錘祭司分享了十二個人的命運。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「之後你做了什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「在我看你的法杖的時候，你看起來……模糊了，不清楚了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「我想問點別的的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Trigger Conv Node 30</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>杜蘭斯的聲音還是很低，很穩，好想在說之前就說過很多次的話-或者對他自己來說已經很大聲了。「那讓聖者之戰畫上了個句號……把一個神從他的神壇上擊落。
+
+杜蘭斯的臉變像石頭一樣。「沒什麼人會否認伊歐薩斯-逾越了。神錘提醒了他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「你看到光是因為我幫助塑造了它，給它生命……然後把它釋放到世界上。」杜蘭斯嚥了一口，點了點頭。「一旦被看到……它的輝煌幾乎太明亮以至於不能被相信-也太明亮以至於難以忘記。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「你幫助建造了神錘？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「我們有十二個人。」杜蘭斯點點頭。「我們讓武器成型，起草方案，祈禱阿希法的引導，然後它就到來了……每個人都被給與了一根用黑樹製成的法杖，閃耀著灰燼和火焰遠勝於這根……分支的樹木。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「感覺好像這法杖就是馬格蘭的手指- 指引我的手，指引其他十一個人，十二個在橋上阻止伊歐薩斯的影子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「十二個影子？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「我也看到了很多明亮的圈，來自於你的法杖。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「告訴我那座橋的事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「我還有關於神錘的別的問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>杜蘭斯皺皺眉。「什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「即使在那一次，也有一個儀式，除了十二個站在橋上的人，還有很多影子被投下，很多馬格蘭的忠實信徒-她的最狂熱的信徒和神錘的塑造者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>杜蘭斯停下了身前的法杖，和上面的火焰……旋轉了一會兒，光微弱的變亮……它分開成一個小火環，一個又一個……直到有了十二個……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「神錘之火投下的陰影，也許……」那火焰一眨眼就消失了，煙都沒有。「……我們也分享了他們的命運，現在迪伍德的脊樑上已經打上了神錘的記號。由馬格蘭打上的記號。」杜蘭斯皺皺眉，把目光移向他的法杖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「你說『分享了他們的命運』是什麼意思？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「並不是所有的死亡都伴隨著停止的呼吸或者停跳的心臟。」杜蘭斯咕噥了一聲，調整了下袍子上的細繩。「或者其他腰部附近平靜的激情。有些死亡來自沉默。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「我們曾經與馬格蘭的聯繫……在神錘之光之後，不一樣了。」
+
+「那就好像是我們失去了我們的感覺……還有對目標的感覺。除了勝利……被歡迎，還有沉默-從裡到外。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「沒有多少人能聲稱殺了一個神。這並不是什麼你會想到的英雄故事。這樣的死亡，它改變了我們的信仰。一切信仰，我是指。」
+
+杜蘭斯收回目光到它法杖死去的尖端。「質疑接踵而至。而且世界變得……我不相信馬格蘭會因為我們做的感到高興。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「這是為什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「世界是破碎的，輪迴靜止了。」杜蘭斯撓撓他的梅毒傷疤，然後停下，收回手，研究著它，皺著眉。「世界的心臟生病了。也許是違逆神的代價。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>他咕噥著。「違逆了兩個神……計時馬格蘭塑造了我們的雙手，也許我們也執行了超過她意志太多了。」他停下，盯著法杖。「就像懷德溫做的。『聖者』懷德溫。」杜蘭斯啐了一口。「凡人的自大配上凡人的自大。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「然而如果世界改變了……那我就尋求改變它。如果我忘記了一些馬格蘭的教導，我會再次找到他們的。我會讓她再次看到我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「你做了什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「我記得馬格蘭的教導-對肉身的提醒要比容器的死亡更重要。」杜蘭斯皺皺眉。「我很好奇如果殺死伊歐薩斯……也許那只是簡單的釋放他自由。那是不是允許他逃脫它的懲罰和被送入輪迴？」
+
+杜蘭斯的聲音奇怪地升高了……第一次，感覺像是他真的在問問題。「就像一個凡人？」他搖了搖頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「在我踏上現在被祝福的神錘橋時，我想起阿希法，我想起黑樹戰爭，好奇我是不是需要被燃燒來找回自我。那是馬格蘭的心意。
+
+「至少那是我的願望。」杜蘭斯皺眉。「這些都是我身後的疑惑。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「當你回到阿希法之後發生了什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「通往阿希法的路很長，給人時間去思考。」他的手握得更緊了。「如果你思考了足夠長時間，你就不會回家了。
+
+「我沒告訴任何人就離開了，只穿著我從海哥特得到的衣服，我的法杖，和我的名字……已經被早早掩埋的名字。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「至於我的隨從七個工匠，門徒……我不知道他們發生了什麼。如果他們也有我這樣的疑慮的話。但是……我被騙了。這是錯的。我們完成了所有那個……婊子要求的，從失敗中奪取勝利，然後……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「你覺得好想你的神背叛了你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「你覺得你的神背叛了你？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「告訴我橋上發生了什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「有些事……關於被使用和拋棄。」杜蘭斯瞇起眼，好像在集中注意力到一個更內在的想法。
+
+「也許懷德溫感受到了，在神錘衝擊結束時。證明你的神是空洞的就像它佔據的容器。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「我試圖找到目標……並與其他一切馬格蘭祭司避免聯絡。沒有搜索阿希法的牆……尋求通過行動向我的神贖罪。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「我加入了除穢運動一段時間……不久之後，傳來了空心種的第一個預兆。」他皺了皺眉。「這麼多罪行……擅闖，侵犯……」他啐了一口。「『救贖』。通靈師是另一個從聖戰中產生的疾病……創新的故態復萌，或者對治療我們引起的結果的鋌而走險。
+
+「一切都看起來比橋上的事發生之前要糟糕了，而不是更好。隨著一年年過去……世界因為那次勝利變得甚至更糟了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「我們選擇那座橋是因為能控制它。」杜蘭斯的雙手緊握住法杖頂端，就像掐住脖頸。「那是個我們能在他行走中掐死伊歐薩斯的地方，我們知道他的腳會陷落的地方-一處狹窄的石頸。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「但是不止如此-那也是迪伍德的脊樑，它的支柱的象徵。這樣的象徵在對武器的建造上很重要……」杜蘭斯研究了一下他的法杖，他的眼睛在上面的蝕刻之間游移。「任何武器。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>杜蘭斯表情變得堅硬，他的眼睛燃燒起來，眉頭緊蹙。「我懷疑伊歐薩斯也知道這一點……他的容器也是，充滿了……傲慢。」他的手握緊了法杖。「他執意要走上那座橋就像走上迪伍德的後背上。
+
+「我們打算用我們-和他的信仰的光芒燒死他。十二個橋上的人，十二個陰影中的人，也投入於其中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「自己投入其中？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「我們投入了很多……我們自身進入了神錘。
+
+「這樣的設備部只是簡單的機器。裡面也有靈魂的元素。」杜蘭斯皺眉。「甚至懷德溫的靈魂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「靈魂的元素？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「懷德溫？為什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「我們十二個推動神錘進展的人裡每一個都願意做一切事情來拯救迪伍德，拯救它的人民。那就是為什麼我們被選中。
+
+「我們中每個人……」杜蘭斯的臉扭曲成一團。「我們中每個人都憎恨這個偽裝者。那憤怒，那精神，那反叛，被帶入我們的工作。
+
+「也被帶入了研究他之中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「我們都研究了懷德溫-他是我們的敵人，他給神提供了肉身就像穿在身上的斗篷。那肉身讓他很脆弱。
+
+「我知道他的手耕作過哪些土地，他的家族。他收穫過什麼，他從哪裡出生。我們尋求瞭解他，這讓他與我們戰鬥。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「那有什麼重要的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「你沒有殺死神，你只是殺死了它佔據的人。然後你讓那個人崩潰，把他燒成灰燼。
+
+「這武器並不只是要燒燬他的肉身，也要燒燬他的靈魂。而且它做到了，代價就是我們自己，代價還有我們女神的幫助……那個婊子被詛咒了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「聽起來感覺你成了自己武器的受害者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「那就是你在夢裡形象那麼模糊的原因嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>杜蘭斯皺皺眉頭，目光銳利地看著你。「也許你的眼睛被神錘的真相蒙蔽了，通魂者。」他嗤之以鼻。「我有時候覺得自己不如之前了，但也比大多數人要強得多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>杜蘭斯皺皺眉頭，目光銳利地看著你。「也許你的眼睛被神錘的真相蒙蔽了，通魂者。」他嗤之以鼻。「我有時候覺得自己不如之前了，但也比大多數人要強得多。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>杜蘭斯搖了搖頭，但是明顯有些緊張，他的臉紅了。「如果你擔心我的靈魂，你的擔心毫無根據。神錘……只會從我的憤怒汲取能量，會讓我更強，讓我重新檢測馬格蘭的教導……讓他們重煥光芒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「看起來這裡只有一部分的你，就像你的靈魂被……剪掉一半。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「是你尋找杜蘭斯教導的時候嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>杜蘭斯咆哮著，他的臉因憤怒而發紅。「我不需要你來問我任何問題，通魂者……也不需要你來照看我。消失吧，讓我留在這兒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>杜蘭斯都快咬你了，然後停了下來，點點頭。「看起來是時候尋找我失落的教導了。並在除穢運動中執行女神的一直……伊歐薩斯的信仰仍然存在。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「也許除穢運動也不是馬格蘭想要的呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>汗水在他額頭的褶皺上聚集然後流下他紅潤的面頰。也從他的鼻尖滴落。
+
+他的嘴動了動，但是他的表達沒發出任何聲音。他頭一次迷路了。他快速的整理了一下自己，用髒手背擦了擦額頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>他的聲音不平靜，很急促。「哼。崇拜一些反覆無常婊子奇想出來的東西那你們就永遠不會比她腳下的塵土更高貴。
+
+「信仰她信仰的，把她的火種據為己有，她的尊敬也會到來的。
+
+「當然，那時你已不再需要它了試練和變形，就像杜蘭斯教的一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>杜蘭斯盯著你，看進他的眼睛讓你覺得像是看下一個大懸崖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「現在我知道為什麼你叫你的女神是婊子了。她遺棄了你而你仍然渴望她。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「你犯下了殘暴行為而你的女神把你關在外面。誰說馬格蘭不正義的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「也許杜蘭斯就像你不知道怎樣侍奉馬格蘭一樣出在陰影中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「聽起來不像是你的女神有可能原諒你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「看起來馬格蘭的沉默是對你的試練。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「你犯下了殘暴行為而你的女神把你關在外面。正是你應得的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>你睜開雙眼看到熟悉的一幕。杜蘭斯坐著，法杖放在膝蓋上惡意的火焰從一端抽芽而出。
+
+他很難理解。他的特點溫柔，在一起流血。但是你能看得很清楚，他的法杖上的蝕刻發出熔化的橙光。儘管杜蘭斯的臉難以辨認，無疑他正有著嚴肅的表情，緊皺的眉毛。他的聲音激動地嘶嘶作響，又低沉又難以理解，好像他正跟他的法杖在爭吵。他從嘴上飛出的吐沫在火光的照耀下像是火花一樣</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>一個符號有些奇怪。一個十二個小圓組成的大圓。其中一個小圓變得明亮，但是其他十一個仍然只發出一點光芒。他們閃爍淡去就像快熄滅的餘燼。
+
+在他嘶嘶的詛咒聲中，杜蘭斯低下臉去接近法杖，恐慌並迅速地吹動消失的圓圈想再把它們弄亮，但是他們沒被點燃。一個又一個，圓圈的光芒消失了，從他們的灰燼中升起煙霧。只有一個還在燃燒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>杜蘭斯用力把他的法杖扔到腳下，它卡噠醫生掉在地上。它的邊緣變得柔和，難以辨別。就像它的主人，法杖變成了一團模糊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>你閉上眼並重新睜開，杜蘭斯在那裡，從地上撿起法杖，但是模糊消失了，你醒來了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>杜蘭斯看著你，挑戰著。「你看到過很多並不在那裡的事物，通魂者。也許那符號就是你消失的理智。我們必須告別因為你還有傷心的智慧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「那是神錘的記號。我看到十二個圓環。十一個褪去了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「我看到十二個圓環組成的圖案。那代表什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Trigger Conv Node 133</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「哼，不用猜謎語，通魂者。我們十二個人建立了神錘。之後我離開了他們想看看馬格蘭為我準備了什麼。我之後就沒見過他們了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「你確定故事裡沒有別的了嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「如果你要這麼說的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>杜蘭斯用眼睛鎖定了你。
+
+「你們這種人有種方法能解釋它的視野和你最喜歡的版本混為一談。但是馬格蘭的烈焰不會讓你們解釋的。
+
+「用你的歪曲和狂熱的夢浪費別人的時間。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「我知道我看到了什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「烈焰扭曲所有他們身邊的東西，而你看起來從來都離烈焰不遠。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「烈焰不會讓人們質疑他們是什麼或者他們在哪裡。但是人們都會猜測他們為什麼在那裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「我比較關心真相，其他的都不重要。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>「不正常的人都是這樣，試圖把他的現實強加給別人。但當你信仰真理的話，其實不需要過多的說服，只需要一雙真誠的眼睛。」
+
+「通魂者，我我會將你淨化的，要是我覺得有這個必要的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>[檢查物品。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>……讓你意外的是，他的身後有一尊女人的石像。這讓你不禁大吃一驚，你回想起這就是當初在三岔路遇見杜蘭斯的時候見到的那尊馬格蘭的石像……
+
+那石像……一剎那間彷彿是活了一樣……她的印在地上的影子在移動著，像要遮蔽周圍似得，之後又靜住，融入黑夜中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>「……十二人很快將伊歐薩斯壓制住，我們十二人將祈禱著盡數解放，並放下了神錘。」
+
+……一度綻放出耀眼的強光，之後又恢復到燭光程度的光亮。結果，在那周圍，影子似乎更加尖銳了，彷彿是有稜有角的，你快速的眨了眨眼以恢復視覺……杜蘭斯依舊盯著那團燭光般的火焰，心無旁鷲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「你以為能讓我重新燃起鬥志，但那些一度燃盡的殘渣，是絕無可能再度燃燒的。」
+
+「這些對話是對你的試煉，通魂者。你是無法改變一個被那真理所淨化的人對真理的認知的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

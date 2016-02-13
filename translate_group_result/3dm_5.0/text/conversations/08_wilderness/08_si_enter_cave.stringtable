@@ -1,0 +1,84 @@
+<StringTableFile>
+  <Name>conversations\08_wilderness\08_si_enter_cave</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>悬崖边吹来了阵阵凉风，峭壁下有一张巨嘴正在打呵欠，它离你很近，但是风化的岩石太光滑了，不易攀爬。
+
+在峭壁上有一块大石头，似乎很牢固。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[离开。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>你把绳子系在石头上，挂在悬崖边。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[将绳子系到石头上，用爪钩固定，然后往下爬。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>你将绳子系在石头上，然后开始往下爬，突然间从港湾吹来了一阵强风，你只能抓紧绳子，任由强风把你吹来吹去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>强风呼啸而来，但你紧紧地抓住绳子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>风力突增，将 [SkillCheck 1] 撞到了峭壁上， [SkillCheck 1] 抓绳子的手一松，开始下坠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>飓风不断，[SkillCheck 0]和[SkillCheck 1] 越来越吃力了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>过了一会儿，风力开始减小，你终于成功地进入了峭壁上的洞穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>风力突增，将 [SkillCheck 0] 撞到了峭壁上，但是 [SkillCheck 0] 仍然牢牢抓紧着绳子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>飓风不断，[SkillCheck 0]、[SkillCheck 1]和  [SkillCheck 2]越来越吃力了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>飓风不断，[SkillCheck 0]、[SkillCheck 1]、  [SkillCheck 2]和 [SkillCheck 3] 越来越吃力了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>飓风不断，[SkillCheck 0]越来越吃力了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>飓风不断，大家伙越来越吃力了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>千钧一发之际， [SkillCheck 0] 丝毫没有犹豫，他猛地抓住 [SkillCheck 1]，虽说 [SkillCheck 0] 的肩膀因此受了一些小伤，但是至少救下了 [SkillCheck 1] 。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

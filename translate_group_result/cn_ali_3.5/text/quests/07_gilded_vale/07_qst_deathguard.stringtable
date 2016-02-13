@@ -1,0 +1,72 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\07_gilded_vale\07_qst_deathguard</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>12</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>贝拉斯的冠军</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>回到莱德里克要塞并找到你的挑战者</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>击败莱德里克七世</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>回到莱德里克要塞并找到你的挑战者</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>杀死莱德里克领主后，我想丰饶之谷终于摆脱了他的影响。但似乎那座伟大的堡垒里还有什么事情。这可能是一个新篡位者干的好事，或者只是纯粹的迷信。不管怎样，这应该值得调查一下。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>在双榆城的天空树苗，我遇到了一个丰饶之谷的前守卫。他声称莱德里克领主本人回到他的堡垒——尽管他确实已经死在了我的手里。
+
+显然莱德里克为了报复我杀死他而发出了挑战。不管怎样这都值得好好调查一下。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>看来是莱德里克的决心将他一直拴在这副凡人躯壳内而不得转生。想再次分离出他的灵魂可不是件容易的事。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>看来我已经收到了一个挑战——是被我杀死的莱德里克七世。
+
+莱德里克想和我在他的要塞来一场决定性的最终遭遇战- 否则就要冒险进一步攻击我自己的大本营。不管是黑魔法还是骗局，他确实复活了，而答案似乎只能去莱德里克堡垒揭晓了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>似乎内德马在政变中幸存了下来。他告诉我莱德里克领主在塔顶等我。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>看来欧丝丽亚在莱德里克回归的混乱中幸存了下来，回到了她最喜欢的位置上。尽管如此，她还是尽快告诉我他的位置：堡垒的最高点。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>此任务中的某个重要人物已死亡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我已经打败了莱德里克七世，一劳永逸。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

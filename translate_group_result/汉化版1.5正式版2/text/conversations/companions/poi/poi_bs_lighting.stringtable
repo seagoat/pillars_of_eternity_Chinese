@@ -1,0 +1,48 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\companions\poi\poi_bs_lighting</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>8</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>Bank Node 1</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“到 处 是 惊 喜 啊 ，对 吧 [Player Name]？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“看 看 这 地 方 的 大 小 …”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“看 看 这 个 ！一 座 足 以 羞 辱 同 类 的 城 市 。已 经 失 落 许 久 …”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“真 是 难 以 置 信 ！我 知 道 建 筑 者 可 以 创 造 奇 迹 ，但 这 …太 惊 人 了 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“这 里 有 许 多 游 荡 的 灵 魂 …愤 怒 而 粗 暴 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“你 能 再 做 一 次 吗 ？我 眼 睛 进 了 沙 子 ，大 部 分 都 没 看 到 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“现 在 我 们 点 亮 自 己 的 路 ，通 魂 者 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

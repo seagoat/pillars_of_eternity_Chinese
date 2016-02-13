@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\01_defiance_bay_copperlane\01_bs_children</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“我不想和陌生人说话……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“你说话方式和别人不同。你来自森林吗？你真的住在古老的建筑物里吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“父母告诉我丛林人都用血在脸上化妆，把自己的牙齿磨尖。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

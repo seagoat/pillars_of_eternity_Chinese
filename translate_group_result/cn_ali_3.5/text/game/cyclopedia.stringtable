@@ -1,0 +1,1685 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>game\cyclopedia</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>302</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>地点</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>迪福特村</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>人物</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>样点位置</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>哑元文本是纯粹仿制的印刷行业文本。哑元文本从16世纪左右就是此工业的标准文本，当时一名未知的印刷匠制出了一种典型的印刷手段。它不仅沿用至今，还演变为电气化印刷。随着拉图激光印字系统的发行，其在20世纪60年代十分流行，包括连最近的桌面印刷软件如Aldus PageMaker等都包括了哑元文本的版本。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>博学</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>铁匠骑士</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>顿瑞德街道</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>十二人众</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>自然哲理</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>尖牙</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>德梅尼尔家族</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>迪伍德</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>鹿丛帝国</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>格兰法斯国</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>炼狱骑士</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>艾德迈斯·哈德雷特</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>埃德朗·哈德雷特</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>可汗雷德</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>圣维德文：农夫成神</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>圣战：从开端至圣锤</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>伊欧拉众月</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>灵魂研究</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>活化之地的真实故事</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>日历</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>鹿丛的习俗</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>格兰法斯的习俗</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>纳斯塔克诗集</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>格兰法斯诗集</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>斯凯奈特圣典</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>玛格岚圣典</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>贝拉斯圣典</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>沃迪卡圣典</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>伊欧萨斯圣典</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>迪伍德的笑剧</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>里德赛拉斯的寓言剧</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>维拉的悲剧</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>潘德格拉姆的生命与探索</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>亡焰群岛众兽</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>白茫冰地</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>雄伟的西部之鹿</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>甲虫虽然没有一个人那么大，但却也足够令大多数的旅客不寒而栗了。这些大的惊人的虫子总是能够使游客印象深刻，屁滚尿流，同时也加强了迪伍德在人们心目中“文明之死地”的烙印。迪伍德（以及格兰法斯）周围广阔的原野给了甲虫富裕的空间进行繁殖。其中生长到顶级的甲虫已经不仅仅是用周围的环境来伪装自己，身上甚至都会长出一些类似木头、石头和绿萤的常见的坚硬耐寒的矿物。这些甲虫的四肢和甲壳也曾在格兰法斯部落风靡一时，人们用这些坚硬的东西打造护盾以及兵器。
+
+尽管外表看起来简单，但常见的甲虫都有着某种潜在的复杂性。当甲虫在选择进化甲壳的材料时，会刻意的选择那些富有艺术感的原料。木甲虫常常会在甲壳上挖一下令人捉摸不透的小洞。通过向这些临时形成的小洞中吹气，它们就可以演奏出各种奇特的音乐来吸引配偶。石甲虫更喜欢使用简陋的象牙或者牛角，这样他们就可以更好的保护自己、攻击猎物。而人们对绿萤甲虫却知之甚少，唯一知道的就是它们难以被杀死。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>幻影是那些死后未能正常的从尸体中分离出来的灵魂。这种情况常常在受到重创或者暴毙时发生。不同于不能和物理世界互动的灵魂，幻影（就像是暗影和血妖一样）是可以和物理世界接触的。他们会无差别的攻击生物。
+
+幻影可能会以失魂落魄的邻居，比如那些暴力犯罪或者神经不正常的人的形式存在于世。所有人都有可能在正确的情况下变成幻影，但是幻影的恐惧——还有他们和精神类疾病的关联——会导致许多地方的弱势群体退避三舍。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>食人魔是皮糙肉厚的大型生物，通常有10至12英尺高。它们的肌肉十分发达，喜欢用猎物的毛皮装饰自己。棍棒，斧头和钉头锤是它们最喜欢用的武器。
+
+食人魔的智力和“文明”种族相差不多，但它们对外的过分敌意使其种族数量始终维持在较低水平。除了智力之外，它们不稳定的脾气也让它们没办法集中创造出有文化价值的东西。它们大部分过着游牧生活，居住在野外，很少遇到其他人。它们只有在交配时节才会聚集起来，这时它们人口减少的数量和增加的数量大致相当。有更加“和平”条纹的食人魔特别不喜欢交流。
+
+食人魔在很偶然的场合会共同工作，而且一般会服从于同一位总管。食人魔总管比一般的食人魔个头更大，不过对同类的敌意更小。当食人魔们联结在一起时，它们通常对其他类群是个很大的威胁。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>当灵魂受到重创，且无法进入轮回时，暗影便产生了。由于这些灵魂受到了损坏，他们会汲取其他生物的本源以试图进行自我修复。窃取的本源越多，他们就越强大。由于他们摄取的大量的本源，于是他们就逐渐有了可视的，甚至独特的肉身。幸运的是，暗影通常只能从其他生物体内提取一点点的本源。他们主要是靠叶魔体内排出的灵魂来获取他们梦寐以求的本源。
+
+当人睡着时，他们的灵魂和身体会相对的不是那么紧密，这时暗影就会汲取他们的灵能了。这就是令人筋疲力竭的噩梦的来源。假如一个镇子的人突然同时做了噩梦，那很可能就是因为一只十分强大的暗影降临。
+
+由于暗影汲取灵能，所以对于依靠灵能来看东西的生物来说，它们是透明的。这使人们开始试着将它们附到盔甲上，这样对于某些生物来说它们就是不可见的了。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>幼龙以亚龙的形态出生，然而他们之中的大部分也只能活到这个阶段。亚龙十分的聪明和狡猾，不然就是具有高度智慧。一只亚龙必须有足够的空间和资源以成为伪龙（或最终成为一只龙）。假如他们生活的地方已经有伪龙或者龙的话，他们就不会成长。他们必须要寻找一个没有同类的地方生存。
+
+由于进一步成长的机会比较小，亚龙会抱团求生。要是没有高度的智慧，他们就会为了生存的食物和领土而表现出奋不顾身和极具攻击性的特性。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>伊斯特里奇的所有巨型的、有攻击性的蜘蛛都有着吓人的形状、颜色和大小。这些蜘蛛远比它们的小型同族来得猛，它们最喜欢捕猎人类和动物。即便是里面最脆弱的矛蜘蛛也足以在人类大意时将其杀死。尽管矛蜘蛛没有毒性，然而它矛一般的四肢却是各种猎物的噩梦。
+
+比矛蜘蛛更致命的还有象牙吐丝者和寡妇制造者，这两者都有着十分致命的毒液。象牙吐丝者还拥有向猎物喷射蛛网减慢其速度的技能。寡妇制造者并不会织网，然而它们的剧毒的毒液却可以轻松地弥补这一缺陷。
+
+在格兰法斯的偏远地区，人们少有地能见到传说中的水晶吞噬者，这种生物巨大强力，能够释放出一些魔法，巫师认为这种施法能力是来源于绿萤和附魔宝石。除了能够在一个范围内释放知名的水晶尖刺之外，它们的毒液也能够使受害者的血肉临时的变成石头。在变成石头之后，水晶吞噬者可以轻松的将其杀死。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>潜伏者其实是由几种不同的食虫植物和真菌为了捕捉共同的猎物合体而成。它们合体后高达数十英尺，身上尽是各种藤，叶，根和土。这么多不同的生物共存可以使他们难以被彻底杀死，最好是能将其运动部分切成数段，或者只是单单用火照亮整个殖民地也能够防范它们。
+
+人们对潜伏者的信息知之甚少，有人推测这些食肉植物是来自于同一个宿主，比如潮湿孢子的猎物，而且当达到足够强大时就可以移动。这个理论得到了许多潜伏者的验证，当人们把它切开时，可以在里面发现和根与孢子相缠的骨头残渣。
+
+潜伏者以其潜伏在树丛或草丛中捕猎的习性而臭名昭著。它们看起来还有一点点的智慧，有时会刻意保存一些食物。人们常常能够见到潜伏者将一个不小心的猎物包裹在藤蔓中，而不去消化它。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>狮子曾经在格兰法斯平原东部和南部尤为常见，直到东部河段的移民人数上升后，这些大猫就被迫搬离到了相对安全的格兰法斯和迪伍德之间的区域。除了它们巨大的力量以外，这些狮子的吼功也是一绝，他们所发出的震天动地的吼声令恐惧深入每一个听到的人心中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>“鹿行于林，狼必从之。”这句鹿丛人的谚语经常会只说半句，用以描述在东河段早期定居者危险的处境。这也要追溯到鹿丛人（字面意思为“鹿人”）与他们四条腿的天敌颇有渊源的联系，这些天敌在迪伍德和在鹿丛帝国一样多。
+
+狼以他们的速度与卓越的充满破坏力的捕猎能力闻名。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>这些长着巨大的、五彩缤纷的菌盖的蘑菇几乎和奥玛人一样高大。它们巨大的重量仅由底部的几个根茎所支撑。
+
+潮湿孢子是一种十分特殊的菌类，因为它们喜欢以其他生物的灵魂为食。它们往往沿着森林地面移动，寻找着无力反抗的疲惫不堪的旅行者。一旦它们发现了一个合适的宿主，它们就会缠到他身上汲取他体内的养分。一旦潮湿孢子发现了宿主，它们就会变的十分具有侵略性，并且用带有毒性和倒刺的根部发起猛烈的攻击。
+
+潮湿孢子会最先吞噬宿主灵魂中腐败分裂的部分，然后会一直吞噬，直到宿主只剩下一副空壳。这种猎食习惯使得潮湿孢子的菌肉对经验丰富的药剂师进行灵魂净化尤为的有帮助。值得注意的是，这种治疗方式很容易导致健忘，甚至是精神分裂。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>小孢子是潮湿孢子的幼生形态。与成熟体相比，这些人形的小孢子更加的具有移动性，却也更加的脆弱。它们从潮湿孢子上被产下，通过强大的移动性寻求滋养。正如潮湿孢子一样，小孢子靠食用腐烂的有机物和灵魂本源为生，而且必须吃到一定的数量才会变成潮湿孢子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>这些瘦长的植物通常有人类高度的两倍。它们浑身恶臭，长满脓包和真菌。它们手脚上的巨爪可以轻松地将一个人撕成两半。好几条卷曲的卷须从头部松散的垂了下来，它们的胃部都是锯齿状的锋利牙齿。巨魔的脸很长，下巴很长，鼻子很长，头顶上的乱糟糟地长着几根真菌感染的头发。它们从来没使用过武器、工具或者是衣服。
+
+看着一个巨魔，你很难分辨它们到底是已经和苔藓、藓沼和霉菌共生了，还是被寄生了。巨魔潮湿的身体为这些菌类提供了良好的生存环境。它们和一些元素一样，为巨魔提供了掩护，它们所产生的酶也为饥肠辘辘的巨魔提供了补给。
+
+因为他们与这些植物共生，所以巨魔一般会住在树林茂密的地区。它们在一些长着地衣和真菌的潮湿的地下环境中也会出现。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>蛛人十分的稀少，而且是一种具有自然灵能的危险生物。它们大部分都是人形的，比人高了一点点，但是却长着带有毒牙的蜘蛛头。和蜘蛛一样，它们也有织网的能力。相对于织网，他们更喜欢用这种能力来编制复杂精致的长袍。
+
+雄性和雌性的蛛人截然不同。尽管有时会用獠牙近距离的攻击敌人，但它们主要是像灵能师一样的施法者和精神操纵者。蛛人的灵能让它们可以用意念沟通。和许多群居的昆虫一样，它们也有着明确的社会分工，比如说探子和守卫。
+
+尽管蛛人有着极高的智慧与力量，但由于繁殖能力低下，蛛人的族群并不能成为一个主要的族群。即便这种低下的繁殖能力也可能和它们对其他种族高度的敌视有关，但它们也以护短而闻名。它们将为了捍卫自己的巢穴而奋斗至死。
+
+
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>这些无定形的云内蕴含着狂暴的能量漩涡。数十个人形的东西在漩涡内忽隐忽现。面孔十分痛苦地无声的尖叫着，双手拼命的在空气中抓着什么。
+
+噬魂风暴（灵能风暴）是一种已知的天灾。假如灵魂被从体内分离出来，并被夹在风暴的中心，他们就会和其他的元素被绞在一起。灵魂会陷入纯粹的混乱和困惑，消亡对它们是一种怜悯。
+
+使用丧魂生物做实验给灵魂学者们带来了很臭的名声。有人认为这很危险的，而且是不人道的，也有人认为他们不择手段丧心病狂。丧魂的制造使许多人将灵魂学者当成了批评的目标。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>叶魔是一种树屋或者绿萤石被破坏了之后的叶精。它们长得和叶精一样丑，细长而憔悴，拥有冷色调的皮肤。它们的头发像枯草一般，黑呼呼，粘糊糊的，长着扭曲的五官和锋利的牙齿。与叶精不同的是，它们并没有被光尘所包围，也十分喜欢用它们的长爪子供给长途跋涉的不幸的旅人。叶魔用它们所杀的动物的头骨、表皮和皮毛装饰自己。
+
+和尝试着保持森林的健康的叶精类似的是，它们会尽力破坏森林，这就使它们成了不共戴天的敌人。它们身上的腐物使它们在攻击时带有毒性，却也使它们的身体变得十分虚弱，对于穿刺等攻击的抗性十分低下。
+
+由于它们已经不能够再从健康的森林中汲取精华了，所以它们不得不从森林中的动植物身上汲取养分。这使得它们天生与具有类似捕食手段的暗影成为了盟友。
+
+它们对所有的生物都充满了敌意，但是游侠和德鲁伊是他们最常见的敌人。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>叶精是一种伴生在古树或者绿萤石上的格兰法斯林精。似乎它们中的大多数都是半精灵体，但它们的皮肤是由木头组成的，头发很长，而且很像植物（绿萤裔貌似拥有绿萤皮肤）。叶精的身体周围飘着发光的小颗粒。虽然它们长得像人，但却不穿衣服，也没有性器官。叶精是一种十分神奇的生物，它们不用物理武器攻击。它们的媚术通过魔法施放出来，会令攻击者停止攻击，甚至死亡。
+
+这些生物会从环境中获取精华。除了可以通过摧毁它们的物理躯体杀死它们之外，它们的生存也依赖于环境的血量。它们对其他生物并没有恶意，但会凶猛地保卫自己的领地。因此，叶精与绿萤裔（“由绿萤而生”）根据它们的生活状况，与探险家的善恶，或多或少会有敌意。它们是大规模开发的天然障碍。伊尔格兰法斯的乡下部落常会与他们和平相处，但要是拓展或开发城镇就会受到敌对叶精的围攻。有些人也反对摧毁叶精的栖息地。城市居住者一般都支持这种想法，他们认为他们的灵魂会转世到其他森林或回到同类之中。
+
+叶精对游侠和德鲁伊一贯是友好的。它们和树木的灵魂链接甚至强于游侠与其动物伙伴之间的链接，虽然并没有出现明确的实体连接。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>发育成熟的巨龙非常庞大，即使在休息时都比人类的大部分建筑都要高。而当它们用后腿站立时，则能轻松达到两倍的高度。
+
+巨龙已经到达了它们生命循环的成熟阶段。像伪龙一样，它们已经适应了融入环境，甚至更加广阔。它们的颜色，纹饰，甚至身体结构都能反映出它们挑选出的领地，以及它们所能承受的攻击与防御。因为它们已经拥有自己的领地，并且很少会面对其他巨龙或伪龙的威胁，所以它们天性都比较保守，很少会招惹不必要的麻烦。
+
+只有巨龙才能交配。一般只有这种情况下，一条龙才会离开它的领地，去寻找它的同类。到达巨龙阶段之后，这些生物会给自己假设一个性别。然而，如果周围环境过于扭曲的话，个别的龙也会转变性别。鉴于这一族的生物过于罕见，这项能力对其种族的延续至关重要。
+
+巨龙的智商要高于大部分生物，但是它们独来独往的天性让它们不会和其他种族有效互动交流。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>伪龙是龙族生命循环的中间阶段。它们从亚龙发展而来，但是还未到达（也许永远都不会到达）巨龙阶段。伪龙会带有侵略性地保护领地，并尽可能地试图拓展它。伪龙一般对其他同类抱有敌意，因为它们之间会竞争资源。
+
+它们的颜色表明了它们的领地。比如，一条沼泽中的伪龙会有绿棕黑的渐变色，还会有开闭的隔膜，扁平的鼻子和外扩的鼻孔。除了所有的伪龙都能喷火之外，它们还会有许多带有其他元素的吐息攻击。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>德鲁伊相信在连接到自然世界时，精华是最强大与和谐的。大部分生命都有活了数十乃至上百次轮回的灵魂（或部分灵魂），它们已经与自然世界有了连接。学习与练习变身就是要回到前世中去，体验动物王国的灵魂先祖们掌握的力量与技能（如果没有实体记忆）。德鲁伊还相信变身能使一个人通过与前世“校准”而找到更加强大与平衡的精华。这一练习能避免德鲁伊认为是非正常强迫式完全觉醒带来的创伤。
+
+熟练的德鲁伊可以学习多种变身形态，他们认为每种形态都代表着一层独特的体验，让练习者的精华更加平衡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>游侠通常会将与其具有强大自然亲和力的动物作为伙伴。游侠与动物伙伴间的灵魂绑定程度之深，以至于二者会分享耐力，血量，甚至同生共死。据说游侠会将自己与最能体现自身的动物绑定在一起。一旦绑定之后，二者便永不分离。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>由于矛蜘蛛的速度与独特的攻击方式，只有非常勇敢（或愚蠢）的男女剑士，尤其是尖牙的成员，才会与它们战斗作为对打练习。到今天，只有狂野而粗犷的见习武士才会遵守这项传统。矛蜘蛛也被称作最大胆的蜘蛛猎手之一，因其并不依赖蛛网，而是靠其带有倒刺的蛛腿捕捉猎物。而结果就是这种生物的活动范围比其他蜘蛛距离巢穴都要远。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>蝎虎狮是大型猫科掠食动物。幼年蝎虎狮一般独来独往，但成年蝎虎狮则会结群出动，保卫领地，捕杀猎物，以及照顾幼仔。这些大家伙具有高度侵略性与适应性，而且分布非常广泛，从炎热的平原到寒冷的冻土地带。人类的定居者将它们驱逐出了反抗湾的大部分领地。结果是，它们在伊尔格兰法斯更加常见了。作为致命掠食者，它们是加拉维恩的追随者显著的战利品。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>泥怪是一种移动的食肉性霉菌，一般在阴暗潮湿，人烟稀少的地方繁殖。泥怪在生长过程中会以周围的细菌，真菌与小昆虫为食。当它们长到一只狗的大小后，它们会逐渐寻找更大的猎物，包括人类。
+
+像所有的活体生命一样，它们也有着某种灵魂精华，但它们的智商低下与神经质系统让它们充满了无脑的侵略性，并很难阻止。它们的粘度与机动性使它们能发出令人惊讶的敏捷攻击，并且还能“喷出”腐蚀性酶，破坏肉体与护甲。这种生物中的一些更加危险的变异体就是疾病携带者，与它们的任何对抗都是十分危险的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>血妖是粗暴而困惑的灵魂，它们不能或不愿意离开灵界。更多的情况下，它们都是死于悲剧或创伤环境下的女人的灵魂，因而有了“血妖”的名字，其意为“鲜血之母”。血妖原有的作为被抛弃的情人形象在近年来已经得到改变，这都是维德文的遗赠逐渐广为人知的缘故。有如此多的无魂儿产生，同时伴随着血妖的急剧增加，因此许多人认为这些灵魂属于分娩中死去的母亲们。事实上，血妖的产生就是来自于在暴力罪行和事故中死亡的女性，或者特别是那些过着暴力生活的人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>在迪伍德的城市中，鬼火被认为是神话的象征，并且常出现在老太太的故事之中。最有名的故事之一讲到鬼火是迷失孩子们的灵魂，向着来生徘徊。在乡下，真正接触过鬼火的人都把这些故事当成笑话来听。
+鬼火常出没在遗弃的废墟或其他被遗忘的地方。它们常被认为是种好奇的生物，因其经常会短暂跟随旅行者们。鬼火一般很平静，但一旦会激怒就会充满侵略性，并且察觉到受威胁时就会带有敌意地保护自身领地。因此，鬼火唱呗形容为灵魂世界的杂草——很微小，能迅速再生，并且大量存在时几乎是不可阻止的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>灵魂机甲一开始被创造用于守卫皇家墓穴。它们最初的创造者将最强大的战士与仆人的灵魂绑结在一起使其成为复杂的结构，并根据占据其中的灵魂等级而使用了多种多样的材料。随着此技术的广泛传播，强大的灵魂学者也开始使用手边的一切武器与材料创造自己的灵魂机甲作为私人护卫。
+
+只有带着强大的奉献精神保护其主的忠诚灵魂才能被制作为灵魂机甲。除了这种创造仪式仍可以用在并不乐意的主体身上之外，参与的灵魂本身缺乏决心的话也会导致怨恨，并将立刻尝试以暴力手段摧毁自身，并在此过程中出现连带伤害。即使是成功的作品出现怀疑时也会变得脆弱，大部分灵魂机甲的制造者们都极其小心不让这些怀疑出现。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>半亡者是有灵魂能量维持的名义上已死的尸体向腐化踏出的不可逆转的第一步。在这一阶段，它们丧失了部分记忆与精神能力，但其仍有自我意识，能知晓自身的衰退。永不知足的饥饿与明显的腐化让半亡者比起近亡者更加鲁莽好斗，即使它们要被迫使寻找隐蔽的环境，以避开人群的视线与文明的怒火。一些近亡者对这一阶段尤其恐惧，因其知道它们将保留足够的感官能力全面体验自身的堕落。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>近亡者是生命非正常拓展的人类。尽管他们还有大部分正常的人类外表，但他们不过是即将要成为无脑怪物的口中之餐，对此他们再明白不过。虽然近亡者还保留着人格与记忆，这份病态的知识或许会以许多方式发展下去。有些会谨慎地隐遁起来，避免任何削弱或杀死他们的威胁，而其他人则成了外向的享乐主义者，寻找着世界留给他们的一切消遣。每一名近亡者（除非被杀）迟早都将屈服于腐化中。
+
+近亡者需要鲜活的精华以存活下去，而人类的血能提供最丰富最直接的资源，因此大部分人群都会躲开他们。而结果则是近亡者要想参与社会就只能活在社会的边缘。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>与灵魂机甲一样，肉体构装生物也是灵魂学者们用捕捉的灵魂创造加强的。与灵魂几家不同，它们不依靠灵魂的意志与忠诚。因此，肉体构装生物不会有怀疑，也只能听懂简单的指令。它们的寿命也比灵魂机甲短上许多。灵魂机甲灵魂中的能量与信念可以维持它数十年，而肉体构装生物的物理形态会逐渐枯萎，最终身体将会无法对灵魂能量作出回应。反对灵魂研究，特别是灵魂构造体的人把这看作是灵魂对不恰当身体的拒绝，并且也说明肉体构装生物十分令人厌恶。
+
+即使在灵魂学者中间，肉体构装生物的制作也是充满争议的。有的人将其看作是“灵魂隔断”，并相信灵魂应当去往来生，而不是成为身体的无脑燃料。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>一般认为亡者仍有足够的狡猾来作为猎人或敌手，但因其快速的退化所以不必过于担心。向半亡者一样，亡者也要寻找隐秘的环境，尽管有一些被吸引到寻找新鲜的肉体。死人的肉能解决亡者的部分饥饿，但无法满足其对灵魂精华的需求。占据墓场也许会加速亡者的腐化，因为这减少了它们寻找食物的动力。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>亡魂是已经低于亡者智慧的不死生物。亡魂只保有其本能的饥饿，但并没有懂得满足的意志或智慧。它们会被吸引到任何能找到尸体的地方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>骷髅不再需要肉体或精华，但它们杀戮的渴望经历了数个腐化阶段后仍然保存了下来。因此，它们会攻击一切靠近的生物，但不会在其死后试图进食。驱动它们的精华是最基本的等级，因为骷髅已经丧失了所有意志，智慧，和人格。如果没有被杀死，骷髅最终会变成尘埃，或者其精华会最终蒸发为虚无。
+
+骷髅专家是武士，法师或其他冒险者的遗骸。它们大体上与其他骷髅相近，但更擅长战斗，并且还保留着生前的基本技能。
+
+死亡守卫是这些骷髅的变异形态，它们强大，熟练而富有智慧。当近亡者想避免逐渐腐化时，他们可以通过一种冒险，昂贵而极度痛苦的方法将组织与骨骼分离开来，留下一具有着完美意识的骷髅。这样的话，精华不会在肉体中腐化，而是会存留在更加坚硬的骨骼之中。鉴于新创造的死亡守卫不需要任何物质存活，并且不会再腐化，它们的“生命”只有到被杀死时才会终止。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>根据维德文的遗赠，绝望的家庭们都去找灵魂学者寻求帮助。将迷失的灵魂转换进存活的身体中是不可能的（基本上如此），因为此类移植最终都会导致灵魂的觉醒。灵魂会想起前世，而没有新生小孩的记忆。
+
+灵魂学者们被迫想出一个应急之策，尽管他们对这种轻率十分谨慎：如果将动物的灵魂放入失去灵魂的小孩身体中，这个孩子也许会获得意识，本能，还有意志。据说因为动物的灵魂比起人类拥有更少的性格与记忆，孩子才能得以随着时间获得自己的灵魂，并覆盖掉弱小的动物灵魂——因此孩子就会变得健康起来。移植疗法在迪伍德广受使用，数万名受折磨的孩子接受了这一方法的治疗。
+
+这些孩子确实好像重获了意识与意志，在一段时间内这些被“拯救”的孩子一度被认为已经痊愈。然而随着年龄的增长，被拯救者愈发变得和其他孩子不同。他们对社会规范表现出极少的理解和关心，并且行为诡异。成为青少年后，这些不同逐渐产生在身体变化中，使其成为了完全不同的一个物种——这些孩子变为了魔婴。
+
+第一个起变化的是一名孤儿。随着年龄的增长，她长出了怪物般的尖牙，并有着凶猛的食性。尽管她的家人尽力想掩盖她的情况，她最终还是将他们屠杀在了床上，并逃向了野外。其他被拯救的孩子不久也跟随其步伐，大量破碎的家庭被迫目睹他们的孩子成为了贪婪掠食的野兽。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>蝠魔是大型哺乳动物，居住在几乎完全黑暗的洞穴之中。因此，它们的视力低下，只靠听觉追踪并捕杀猎物。它们耳朵上的突出与毛发让它们能感知到空气的流动，这也是在地下了解方向的关键。它们用尖叫与咔嗒声交流，并以回声的方式发音。它们是群居生物，会一起筑巢并抚养幼仔。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>蛇蜥人是羽精大小的爬行类人生物。它们用死掉敌人的骨头装饰自己——大部分是敌对部落的蛇蜥人。它们也很喜欢大片羽毛，并将其挂在自己的服装上。蛇蜥人的肤色在浅绿色到棕色之间。它们伸长的口鼻部（所以不能演讲）与过分好斗的行为成为其与世界其他文明种族之间交流的障碍。它们居住在隐秘的部落领地，并会无情地攻击任何穿过其范围的愚蠢家伙。
+
+蛇蜥人将巨龙作为神明敬畏，并将自己的部落建在这些强大生物的巢穴附近。一般一个小部落不会随意迁移，除非其找到了一条伪龙或巨龙敬拜。一旦一个部落将其奉献给一条巨龙，其将会不惜一切代价守护自己的神。巨龙吃掉蛇蜥人祭品是十分常见的精心策划的仪式。随着巨龙年龄与体形的增长，祭品的数量也在逐渐增多，甚至一次就需要数百蛇蜥人的生命。蛇蜥人部落的力量与声望直接与其巨龙的年龄相关。最强大的部落一般都有上百年，乃至上千年。这些大型部落的战士与萨满都会涂抹自己的身体以看起来像它们的龙神。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>命中率</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>命中率关系到几乎每次攻击。它影响这次攻击是否能击中目标。命中率主要取决于角色的职业和等级，但也受到直觉、天赋和其他主动效果，比如法术或物品的影响。当攻击完成时，命中率与目标的相对防御值作比较，从而决定攻击判定如何修改。如果命中率高于目标的防御值，这次攻击很可能命中或重击，擦过或未命中的几率很小。
+任何不使用武器作为攻击的技能或天赋根据角色的等级获得少量命中率加成。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>偏转</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+			<DefaultText>偏转用于抵抗对角色造成的直接近战和远程攻击，而不是效果范围攻击。偏转取决于角色的职业，等级和决断，但也会受到盾牌，特定武器，天赋和其他法术或物品导致的效果影响。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+			<DefaultText>强韧</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>强韧根据角色的内部身体系统抵抗攻击（比如中毒，疾病等等）。
+取决于角色的职业，等级，力量和体质，但也受到其他效果的影响。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+			<DefaultText>反射</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>反射防御允许角色躲闪对身体造成伤害的AoE攻击（比如爆炸，闪电箭）。取决于角色的职业，等级，敏捷和直觉，但也受到其他效果的影响。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+			<DefaultText>意志</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+			<DefaultText>意志防御可抵抗基于精神上的攻击（比如精神上瘫痪目标的法术）。取决于角色的职业，等级，智力和决断，但也受到其他效果的影响。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+			<DefaultText>致盲</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>94</ID>
+			<DefaultText>命中率因各种因素降低25。直觉降低4。移速降低2。反射和偏转降低20。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>95</ID>
+			<DefaultText>魅惑</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>96</ID>
+			<DefaultText>被魅惑的目标在属性下降的情况下代表敌人作战。速度，命中率和所有防御降低25。魅惑是唯一的，意味着角色一次只能有一个被魅惑对象。新魅惑的目标将替代任何之前魅惑的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>97</ID>
+			<DefaultText>困惑</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>98</ID>
+			<DefaultText>困惑会使角色行为错乱。每6秒钟，目标随机的选择一种行为模式：举止正常，攻击友方，随机走动，或者什么都不做。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>99</ID>
+			<DefaultText>晕眩</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>100</ID>
+			<DefaultText>被晕眩的目标命中率下降10。敏捷，直觉和智力全部减少2，攻击速度下降15%。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>101</ID>
+			<DefaultText>控制</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>102</ID>
+			<DefaultText>主目标已向敌人屈服，并且会不遗余力的对抗自己的前队友。覆盖魅惑效果。主伤害是唯一的，意思是一个角色一次正能承受一次主伤害。新来的人会排斥所有现有比他资历深的人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>103</ID>
+			<DefaultText>夹击</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>104</ID>
+			<DefaultText>偏转降低10。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>105</ID>
+			<DefaultText>受惊</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>106</ID>
+			<DefaultText>决断，敏捷度降低2，精准度降低10。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>107</ID>
+			<DefaultText>迟缓</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>108</ID>
+			<DefaultText>迟缓的角色敏捷减少2，移动速度下降1.5，反应下降20。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>109</ID>
+			<DefaultText>麻痹</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>110</ID>
+			<DefaultText>陷于麻痹状态的目标无法行动。他们的敏捷度是0，他们的反射和偏转降低40。覆盖震惊，缚足，倒地效果。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>111</ID>
+			<DefaultText>石化</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>112</ID>
+			<DefaultText>被石化角色的灵魂会暂时将其身体变为固定易碎的石头。其效果与麻痹相同，但攻击伤害会极大增加。此状态会覆盖麻痹，晕眩，缚足和倒地。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>113</ID>
+			<DefaultText>倒地</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>114</ID>
+			<DefaultText>倒地的角色无法行动。敏捷度降低2。反射和偏转降低10。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>115</ID>
+			<DefaultText>恶心</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>116</ID>
+			<DefaultText>患病角色的所有属性值降低1。强韧和意志降低10。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>117</ID>
+			<DefaultText>被困</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>118</ID>
+			<DefaultText>被缚足地角色无法移动，可以活动但是无法离开他们原来的位置。敏捷度降低2。所有来源的精准度均降低5。反射和偏转降低20。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>119</ID>
+			<DefaultText>震慑</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>120</ID>
+			<DefaultText>受惊的角色无法行动。敏捷,直觉,智力值均降低4。反射和偏转降低30。覆盖缚足和倒地效果。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>121</ID>
+			<DefaultText>恐惧</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>122</ID>
+			<DefaultText>决断和敏捷度降低4。所有来源的精准度均降低20。覆盖受惊效果。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>123</ID>
+			<DefaultText>虚弱</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>124</ID>
+			<DefaultText>虚弱的角色力量和体质减少2。移动速度下降1。强韧和意志减少20。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>125</ID>
+			<DefaultText>肋骨挫伤</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>126</ID>
+			<DefaultText>肋骨损伤的角色的强韧防御值和体制会受到惩罚。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>127</ID>
+			<DefaultText>震荡</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>128</ID>
+			<DefaultText>强烈的震荡会使角色的智力和意志抵御值都受到惩罚。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>129</ID>
+			<DefaultText>手腕扭伤</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>130</ID>
+			<DefaultText>手腕扭伤会使偏转和准确度收到惩罚。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>131</ID>
+			<DefaultText>眼睛浮肿</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>132</ID>
+			<DefaultText>角色的眼球肿胀会使准确度和直觉收到惩罚。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>133</ID>
+			<DefaultText>脚踝扭伤</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>134</ID>
+			<DefaultText>扭伤脚踝会降低反射和敏捷度。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>135</ID>
+			<DefaultText>膝盖扭伤</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>136</ID>
+			<DefaultText>扭伤膝盖的角色的移动速度和敏捷会受到惩罚。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>137</ID>
+			<DefaultText>肩膀扭伤</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>138</ID>
+			<DefaultText>扭伤肩膀会使行动速度和力量收到惩罚。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>139</ID>
+			<DefaultText>重击</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>140</ID>
+			<DefaultText>重击是任何强度在100以上的连续攻击。一次造成伤害的重击会使总伤害值上升50%。持续的重击（典型伤害为患病或者麻痹）将提高50%的持续时间。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>141</ID>
+			<DefaultText>擦过</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>142</ID>
+			<DefaultText>擦过是任何强度在16-50之间的连续攻击。擦过会使伤害和持续度降低50%。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>143</ID>
+			<DefaultText>命中</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>144</ID>
+			<DefaultText>命中是任何强度在51-100之间的连续攻击。当一次攻击命中之后，它会造成标准伤害，持续一段标准时间。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>145</ID>
+			<DefaultText>防御</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>146</ID>
+			<DefaultText>在永恒之柱中有四种防御。偏转，强韧，反射和意志。每一种防御都是用来抵御一种不同类型的连续攻击。偏转是用来抵御直接武器攻击或者是类似于武器的攻击。强韧可以抵御物理攻击，或者可以作用于他们的身体内部（例如通过毒药）。反射可以防御诸如火球和闪电球之类的物理区域效果攻击。意志可以防御几乎所有的心理攻击。
+
+强韧，反射和意志都是基于成对的属性。力量和体质定义强韧，敏捷和直觉定义反射，智力和决断定义意志。基础偏转由角色的职业和决断决定。所有的角色在每一级的防御上面都能得到固定的奖励。另外，法术，能力，伤害和物品都能修改一个角色的防御值。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>147</ID>
+			<DefaultText>痛苦效果</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>148</ID>
+			<DefaultText>痛苦效果是一些明确的状态效果集合，可以在一个角色身上被应用，被暂停，或者完全移走。虽然有些痛苦有明确的覆盖或者独占规则，但大多数痛苦都可以同时存在。
+
+当一种法术被作用在一个目标之上，法术本身，从属效果和痛苦效果都被绑定在一个由该法术制造的程序预装容器之内。
+
+如果当这些程序预装容器被应用的时候一个相同的版本已经在发挥作用了（例如将祝福术施加在某个已经被施加了祝福术的人之上），新的版本会替代旧的版本。
+
+不论一个目标身上被施加了多少效果，总的来说，只有最强的奖励和最严重的处罚才会发生作用。
+
+有些生物对以一种或多种伤害免疫。如果这样的话，这些伤害就不能被施加到这些生物身上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>149</ID>
+			<DefaultText>被动</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>150</ID>
+			<DefaultText>当角色获得了自动的奖励的时候，他将获得一种被动的专长或者能力。例如，当反射自动保存之后，一个拥有蛇的反射的角色会得到奖励。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>151</ID>
+			<DefaultText>主动</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>152</ID>
+			<DefaultText>主动的专长或者能力是角色必须选择用的。例如，选择击倒的战士必须从行动条中选择击倒图标并选择一个目标作用该能力。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>153</ID>
+			<DefaultText>攻击决断</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>154</ID>
+			<DefaultText>永恒之柱之中的所有攻击都会将攻击者的准确度和四种防御之一进行比较。偏转(近距离或者远程攻击)，强韧（例如毒药或者疾病之类的身体攻击），反射（效果区域伤害攻击），意志（心理攻击）。
+
+一个从1-100之间的数字会产生并加到准确度和防御之间的不同之上，这个数字将判决攻击的结果。≤15=未命中，16-50=擦过，51-100=命中，＞100=重击。
+
+在一个攻击好防御均等的情境中，多数攻击最后会变成命中或者擦过。当准确度高于防御时，更易造成重击。当防御高于准确度时，更易造成错失。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>155</ID>
+			<DefaultText>错失</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>156</ID>
+			<DefaultText>错失是任何强度等于或者小于15的连续攻击。错失不造成任何伤害，也不会带来任何状态效果或者伤害。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>157</ID>
+			<DefaultText>伤害减免</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>158</ID>
+			<DefaultText>当一次攻击命中时，只有一种主要的手段可以降低伤害：伤害减免。伤害减免值通常来自于盔甲，但是大多数生物具有天然的伤害减免值或者可以通过使用魔法，能力，天赋或者其他设备来增强。
+
+伤害减免是直接从所有的伤害中减免。例如，当一次初始伤害值为20的攻击作用于伤害减免值为7的目标上的时候，该伤害值会降低至13。
+
+伤害不会降低至初始总量的20%以下。当到达最低值时，你将会在进攻线上的作战记录上收到提醒。
+
+需要注意，许多盔甲和生物拥有不同的伤害减免值来应对不同类型的伤害。较低的伤害减免值只能抵抗较低程度的伤害，使得目标更易受该种类型的攻击。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>159</ID>
+			<DefaultText>专注</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>160</ID>
+			<DefaultText>角色的专注决定了他们在战斗中如何打断他们的法术或者是攻击。每一点的决断都会增加角色的专注，打断等级。像连续攻击一样，打断使用一种随机序列来判决该打断是否成功。如果专注优于打断等级，打断有可能不会发生。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>161</ID>
+			<DefaultText>耐力</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>162</ID>
+			<DefaultText>耐力体现了一个角色的短期生命力。没有被角色的伤害减免所吸收的伤害会直接影响他们的耐力和生命。药剂和治愈魔法（例如来自圣武士，牧师或者德鲁伊）能够在战斗中恢复耐力。当一个角色的耐力值是0的时候，他或者她将被踢出局。使用复活能力可以使被踢出局的角色重新回到战斗中来。或者，角色可以在战斗结束时恢复所有的耐力（假设他们赢了）。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>163</ID>
+			<DefaultText>生命</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>164</ID>
+			<DefaultText>生命是一种长期伤害（只能通过休息或者特定的能力恢复）。没有被角色伤害减免所吸收的伤害会直接影响他们的耐力和生命。当一个角色的生命值降至0时，他们要么会被重伤要么会死亡（取决于游戏设置）。不管游戏怎么设定，一个生命值降至0的重伤角色会死亡。不像耐力，一个角色的生命不会在战斗后恢复，不过角色的生命值要远远高于耐力值。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>165</ID>
+			<DefaultText>重伤</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>166</ID>
+			<DefaultText>一个重伤的角色的生命值会被降至0。他们能在战斗结束后恢复1生命值，不过也会比所有的防御和准确度受到更多的惩罚。如果他们再一次被命中而受到了1生命值的伤害，他们会直接被杀死。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>167</ID>
+			<DefaultText>受伤</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>168</ID>
+			<DefaultText>受伤是一种长期的伤害。“长期”意味着他们会持续到角色得到休息为止。受伤通常是因为语言交流。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>169</ID>
+			<DefaultText>搜索</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>170</ID>
+			<DefaultText>搜索模式有两种用途：潜行和搜索。在面对难缠的敌人时，潜行可以使你避免他们或者获得一种战术上的优势。搜索使你能够察觉陷阱和隐藏的目标。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>171</ID>
+			<DefaultText>储物箱</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>172</ID>
+			<DefaultText>储物箱存储有玩家所有没有放入物品栏的物品。储物箱也存储有特殊的物品，像手工艺物资和探索物品。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>173</ID>
+			<DefaultText>打断</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>174</ID>
+			<DefaultText>打断决定了一次攻击将有多大几率延迟对手当前或下一次行动。
+ 掷骰使用攻击者的打断值（取决于直觉）并将其与目标的专注（取决于决断）对比。完成了一次1-100的掷骰，附加打断。如果结果比专注要高，那么目标将会做出被攻击反应并延迟当前行动。
+
+延迟的时间取决于武器或者攻击上标明的打断力量。对一个已经受到打断影响的角色再次使用打断时，如果当前效果时间小于之前则技能无效。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>175</ID>
+			<DefaultText>每次遭遇</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>176</ID>
+			<DefaultText>每次遭遇能力在每次战斗中能够被使用的次数是固定的。例如，能力值为3时，可以在每次战斗中使用3次每次遭遇。在战斗的最后，使用量会再次充满，为了下次遭遇。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>177</ID>
+			<DefaultText>每次休息</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>178</ID>
+			<DefaultText>每次休息能力能够被使用的次数是固定的。例如，能力值为3时，只能使用3次每次休息。要想重新获得使用权，角色必须休息。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>179</ID>
+			<DefaultText>模态</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>180</ID>
+			<DefaultText>模态能力指的是在激活后能够不断产生效果的一种能力。例如，圣武士的狂热光环只要处于激活状态，就能给周围的所有人赋予加成。模态能力通常是分组的，因此任何时候，每种类别都只能同时激活一种能力。这些群组即是操作栏中能力组织的反映。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>181</ID>
+			<DefaultText>死亡</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>182</ID>
+			<DefaultText>在特定的难度设置中，如果一个角色的生命值为0，他或者她会倒下，而且要么被重伤，如果已被重伤则会被杀死。一个死亡的角色会被立刻杀死且不能被带回来。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>183</ID>
+			<DefaultText>毒素</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>184</ID>
+			<DefaultText>毒素的效果可以是一系列的状态效果或者是伤害，一般来自某种生物的攻击，但也往往会来自某个法术。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>185</ID>
+			<DefaultText>疾病</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>186</ID>
+			<DefaultText>疾病会带来一系列的状态效果或者是伤害。疾病效果一般来自法术，但也往往会来自于某种生物的攻击。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>187</ID>
+			<DefaultText>恢复</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>188</ID>
+			<DefaultText>恢复是角色在两次行动之间所花的时间。行为时间和恢复时间成正比。盔甲同样对恢复有较大的影响。总的来说，更重的盔甲也会导致更长时间的恢复惩罚。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>189</ID>
+			<DefaultText>据点</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>190</ID>
+			<DefaultText>据点，也叫做塞德努亚，是储藏，休息，组织，队伍管理和投资的行为基础。据点需要先升级，它的很多性能才可以使用。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>191</ID>
+			<DefaultText>二级防御</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>192</ID>
+			<DefaultText>二级防御是用在第二阶段的攻击中，例如，匕首上的毒药。在这个例子中，第一阶段的攻击（挥舞匕首）瞄准一种防御（偏转），并且只有在第一阶段攻击命中之后才会发动毒药攻击。如果攻击命中，这时会发动二级防御（在这个例子里，是强韧对毒药）来判决效果。如果第一次的攻击错失了，二级防御不会被启动。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>193</ID>
+			<DefaultText>伤害类型</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>194</ID>
+			<DefaultText>在永恒之柱中有八种伤害类型：挥砍，刺穿，粉碎，燃烧，电击，腐蚀，冰冻，纯粹。伤害类型是用来判决目标抵抗基于他们伤害减免值的伤害的难易程度。特定的生物或者盔甲可能对一种类型的伤害有极强的抵御能力，但是却很难抵御另一种能力。
+
+有些武器或者攻击拥有多重伤害类型或者会在他们的伤害类型之间用“或者”标出。当一个“或者”被标出时，总是会选择目标最难抵抗的伤害类型进行攻击。纯粹攻击是唯一会忽略所有的伤害减免的伤害类型，一般来说是和毒药和一些类似的效果联系在一起。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>195</ID>
+			<DefaultText>打断</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>196</ID>
+			<DefaultText>羚羊常见于伊斯特里奇。虽然殖民活动和由此导致的狩猎导致他们的数量在下降，他们在迪伍德的浅草区依然很活跃。羚羊生性温和，但是某些和凶猛动物为伍的独行的羚羊可能会比较好斗。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>197</ID>
+			<DefaultText>迪伍德熊的数量比较稳定，不过他们大多数都生活在远离人类聚居的区域。贵族们有时候会狩猎熊来作为休闲活动，但大多数格兰法斯的旧时代的殖民者一般不会这么做。伊斯特里奇的森林里有各种猎物，捕猎他们远远比对付一只愤怒的熊容易。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>198</ID>
+			<DefaultText>在殖民者的聚居区，野猪被看做是一种讨厌的和危险的动物。野猪极具进攻性又无所畏惧，他们杀死了许多成年人，11个小孩，和一些成年的羽精。成群的野猪绝对是旅行者和探险家的威胁。他们极难被制伏，但是对商人和附魔师来说，他们的獠牙是极具价值的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>199</ID>
+			<DefaultText>极其罕见的死亡守卫有时是通过一位极其坚定拒绝去往来生的死者而创造的。圣武士一般是这种变异体最常见的原形，但牧师与其他例外的狂信徒常常也会遭受同样的命运。死亡守卫会占据之前的身体，但是能量会使灵魂留在现实世界迅速吞噬肉体，最终只剩下骨架。死亡守卫常常会因其状态而发疯。它们是可怕的敌人，会将恐惧传播给任何挡路的人。它们与来生有限的连接使其能召唤可怕的火球，暗影，甚至一句话便能抹杀活人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>200</ID>
+			<DefaultText>切下——伤害减免</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>201</ID>
+			<DefaultText>切下——当攻击命中任何伤害时，首先它会被目标的伤害临界值所降低，接着会被伤害减免进一步降低。
+
+伤害减免是对外来伤害进行减免的百分数，如果一次命中释放出高强度的伤害，这种能力就会显得更加珍贵。就像伤害临界值一样，伤害减免不能降低超过初始总量的20%。当到达最低值时，你将会在进攻线上的作战记录上收到提醒。
+
+需要注意，许多盔甲和生物拥有不同的伤害减免值和伤害临界值来应对不同类型的伤害。较低的伤害减免值只能抵抗较低程度的伤害，使得目标更易受该种类型的攻击。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>202</ID>
+			<DefaultText>遇敌</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>203</ID>
+			<DefaultText>当一位角色用近战武器近距离攻击敌人时便会触发遇敌。只要攻击者离得够近，便会触发遇敌。当一位角色一开始遇敌时，会停止移动。角色也可以再次移动，但这样做会引发脱战攻击。如果角色放弃交战，短时间内他们放弃交战的敌人不会再次交战。
+
+一些负面状态会使得角色不能遇敌。麻痹，石化，倒地与晕眩状态都会自动放弃交战，可以用此解决麻烦。
+
+注意有许多天赋与能力可以改变交战规则，比如优雅撤退，坚守战线，战士的防御者，野蛮人的野蛮冲刺，以及游荡者的逃离。一些生物，特别是大型生物，可能会一次遇到多只。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>204</ID>
+			<DefaultText>夹击</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>205</ID>
+			<DefaultText>两位攻击者从相反方向与同一个对手交战时会触发夹击。当这一情况出现时，防御者处于被夹击状态，会给予多种减益，并使其可以被潜行攻击。攻击者任何结束交战的行为同样也会结束防御者无法被维持的被夹击状态。
+
+注意有许多能力会使夹击规则出现例外，比如野蛮人的一夫当关，游侠的追踪者链接，以及灵能师的幻觉诱饵。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>206</ID>
+			<DefaultText>叠加</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>207</ID>
+			<DefaultText>叠加规定了增益与减益如何累计。简单来说，游戏中有四种不同的加成：被动，武器，主动/模态，以及装备。
+
+所有来自被动和武器的增益与减益会叠加。
+
+主动与模态增益（比如来自能力与消耗品）只会采用对数值增益与减益的最大值。比如，一项法师法术赋予+3至偏转，而一位圣武士的光环会赋予+5，那么主动/模态的增益就是+5。如果此法术同时也为力量赋予增益，其效果将会保留，直至更高级的力量增益将其覆盖。
+
+装备增益也采用对数值增益与减益的最大值。这包括除武器外所有用于角色的物品。装备是独立于主动/模态的，因此每项增益与减益的最大值将叠加。
+
+负面状态(如晕眩，倒地）也被认为是主动效果。如果一项负面状态释放到已有此状态的角色身上，将会刷新持续时间。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>208</ID>
+			<DefaultText>疲惫</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>209</ID>
+			<DefaultText>疲惫代表角色进行活动时身体与心理上的损耗。它随着角色旅行，探索，特别是战斗而累积。一些剧情互动的特别惩罚也会导致疲惫。体能技能会自动降低一切活动的疲惫累积。
+
+疲惫会经历数个阶段，一开始只有极小的减益，但会逐渐变得十分严重。
+
+休息是解除疲惫的最好方法，另外一些消耗品也能降低角色的疲惫值。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>210</ID>
+			<DefaultText>露营物资</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>211</ID>
+			<DefaultText>露营物资是在野外和地下城中休息的必须物品。此物品代表一系列物品，包括野营休息，准备食物，包扎伤口，与其他休息恢复的物品。许多商品都会出售野营物资，但偶尔也会在箱子里或敌人身上找到它。游戏的难度等级将限定你一次能携带的野营物资最大数。低等级难度允许你携带更多。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>212</ID>
+			<DefaultText>工具</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>213</ID>
+			<DefaultText>你在伊斯特里奇的旅行中会找到各种各样的专门工具。像杠杆与抓钩就可用于某些剧情互动。这些物品不需要装备，但在使用后会从物品栏中移除。
+
+开锁器是一种用来撬锁的特殊工具。如果角色的机械学足够高，在撬锁时将不再需要开锁器（也不会消耗）。然而，对于有挑战的开锁，你可能会需要数根开锁器才能成功。与其他工具一样，开锁器不会出现在单个角色的物品栏中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>214</ID>
+			<DefaultText>全力攻击</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>215</ID>
+			<DefaultText>许多能力都会说明他们是使用全力攻击还是主武器攻击。当使用这种类型的能力时，角色在攻击中应用效果时，要么是使用所有现在已经装备了的所有武器（全力攻击），要么是使用他们主要装备的武器（主武器攻击）。
+
+这意味着该武器的所有数据依然适用，这些数据包括它们能提供的伤害和其他一些效果。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>216</ID>
+			<DefaultText>主武器攻击</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>217</ID>
+			<DefaultText>艾比顿</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>218</ID>
+			<DefaultText>魔像，机械，工业，力量，希望与抱负之神。最喜欢劳动阶级。据说“魔像”曾与其他众神一样拥有人类的形态，但之后被杀死，只能将自己重塑于一尊魔像之中。对他的死亡众说纷纭，但都不明确。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>219</ID>
+			<DefaultText>贝拉斯</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>220</ID>
+			<DefaultText>死亡，轮回，门廊，亡运与必然之神。作为生死轮回的守护者，贝拉斯据说会寻找并带走那些超脱轮回的生命。根据民俗学，贝拉斯一半回忆苍白骑士或指引者的形态出现，以欺骗或挑战的方式引导人们走向死亡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>221</ID>
+			<DefaultText>伊欧萨斯</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>222</ID>
+			<DefaultText>重生，救赎，黎明，春天与光明之神。传统形象是一个擎着蜡烛，带着银色王冠的男人。据说其在圣战中占据了里德塞拉斯农民维德文的躯体，并在战争结束后与维德文一同被毁灭了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>223</ID>
+			<DefaultText>加拉维恩</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>224</ID>
+			<DefaultText>狩猎，刺杀，追捕，野性与掠食之神。有时会幻化成穿着毛皮大衣的猎人或是一条巨大的猎犬。加拉维恩喜欢让强者存活，而淘汰掉弱者。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>225</ID>
+			<DefaultText>海莉亚</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>226</ID>
+			<DefaultText>天空，母性，创造，鸟类，歌曲，发明，语言与艺术之女神。不清楚其身体形态，但据说能变成各种鸟类的样子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>227</ID>
+			<DefaultText>玛格岚</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>228</ID>
+			<DefaultText>战争，火焰，变形，净化，消耗与审判之女神。也是迪伍德的庇护女神。据说她祝福了圣锤炸弹，使其摧毁了维德文，可能还有伊欧萨斯。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>229</ID>
+			<DefaultText>昂德拉</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>230</ID>
+			<DefaultText>海洋，遗忘，失落，无情与哀悼之女神。据说曾爱上月亮，并试图将其拉近，而导致了灾难性的后果。人们带着想遗忘事物的表征去她的神殿，而她的牧师将这些表征投进海中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>231</ID>
+			<DefaultText>里姆甘德</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>232</ID>
+			<DefaultText>熵，寒冷，冬天，厄运，饥荒与天灾之神。一般以一头巨大白色原牛形象出现，在一片暴风雪中移动，而跟随着里姆甘德脚步的则是死亡与瓦解。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>233</ID>
+			<DefaultText>斯卡恩</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>234</ID>
+			<DefaultText>反抗，叛乱，秘憎，阴谋，怨恨与嫉妒之神。常被描绘成带有伤疤的丑陋奴隶，并为被征服者与穷困者所敬拜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>235</ID>
+			<DefaultText>瓦尔</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>236</ID>
+			<DefaultText>秘密，启示，幻觉，密码，模糊，直觉，梦境与视界之神。瓦尔本身便是一个谜，没有固定形态与性别。它的追随者们致力于创造与解读谜团。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>237</ID>
+			<DefaultText>沃迪卡</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>238</ID>
+			<DefaultText>正义，法律，誓言，承诺，规则，复仇，记忆与阶级之女神。被形容为一位老年贵妇，头上戴着破损的皇冠。据说曾统治过其他诸神，但已经被推翻。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>239</ID>
+			<DefaultText>鹿丛帝国</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>240</ID>
+			<DefaultText>四百年前人类与精灵王国合并的产物，由一位人类帝王（“第一帝王”）或帝后（“辉煌女王”）统治。迪伍德与里德塞拉斯都起源于鹿丛帝国的殖民地。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>241</ID>
+			<DefaultText>迪伍德</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>242</ID>
+			<DefaultText>由鹿丛帝国的移民建立的殖民地国家。在一系列与鹿丛帝国的冲突之后，这片土地在伊洛希奥历2672年得以独立，并由几位伯爵选举并监督的公爵负责治理。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>243</ID>
+			<DefaultText>格兰法斯国</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>244</ID>
+			<DefaultText>这片领地在巴埃尔河东南部的森林，由一群被称为格兰法斯人的本地土著建立，并由六个最强部落组成的议会共同治理。伊尔格兰法斯有着众多因格维斯遗迹，格兰法斯人对其视若珍宝。这些遗迹成为与迪伍德殖民者的一系列冲突的中心，这些移民常常侵犯格兰法斯领地，并试图掠夺遗迹中的圣物。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>245</ID>
+			<DefaultText>因格维斯</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>246</ID>
+			<DefaultText>一个两百万年前就已灭绝的文明。他们的人口中心据说就在今天的伊尔格兰法斯与迪福特。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>247</ID>
+			<DefaultText>里德赛拉斯</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>248</ID>
+			<DefaultText>迪伍德的北方邻国。里德塞拉斯这个国家深深扎根于其对伊欧萨斯的信仰——这份热情在圣战中占有主导地位，甚至是在伊欧萨斯明显的死亡之后仍有留存。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>249</ID>
+			<DefaultText>维拉共和国</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>250</ID>
+			<DefaultText>商业大国，前身是一个更大与更古老的国家前维拉的殖民地。共和国在迪伍德与伊尔格兰法斯的南方，被一位公爵所统治，其由“幻想乡议会”所选举出，这个议会由14名公爵组成，其中包括五位最杰出者，即“大公爵”。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>251</ID>
+			<DefaultText>绿萤</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>252</ID>
+			<DefaultText>一种贝壳状的有机材料，工匠因其易于塑形而使用，而灵魂学者则被其独特的牵引，包含与改变灵魂的能力所吸引。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>253</ID>
+			<DefaultText>灵魂研究</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>254</ID>
+			<DefaultText>操纵灵魂的科学。这片领域才产生不久，却充满争议。其在鹿丛等国已被禁止，但在迪伍德与维拉共和国却仍可继续开展。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>255</ID>
+			<DefaultText>觉醒的灵魂</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>256</ID>
+			<DefaultText>一般情况下，人们不会想起自己前世的生活。然而，具有觉醒灵魂的人，其前世的记忆和人格会在这一世出现。与一般记忆相同，觉醒常常是由于看到当前的某些事物而回想起从前的经历。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>257</ID>
+			<DefaultText>贝拉斯的命运之轮</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>258</ID>
+			<DefaultText>贝拉斯的命运之轮也被称为“生死命运之轮”或单纯为“命运之轮”，是一种比喻性的概念，用于描述灵魂在死亡时离开身体，通过绿萤支柱离开这个世界，并在新的躯体中重生。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>259</ID>
+			<DefaultText>噬魂风暴</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>260</ID>
+			<DefaultText>伊尔格兰法斯当地野外的一种风暴。被卷入风暴的人会被剥离灵魂。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>261</ID>
+			<DefaultText>精华</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>262</ID>
+			<DefaultText>灵魂由净化构成。这种灵魂物质作为一种资源深受灵魂学者追捧，因其为实验中的重要材料。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>263</ID>
+			<DefaultText>无魂儿</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>264</ID>
+			<DefaultText>生下来就没有灵魂的孤儿。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>265</ID>
+			<DefaultText>迷失灵魂</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>266</ID>
+			<DefaultText>死亡之后，灵魂会寻找进入绿萤支柱的道路，以重新回到伊欧拉世界的生死轮回之中。有些时候，灵魂没有找到这些支柱，或者被拒绝进入。这些灵魂被称为“迷失灵魂”。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>267</ID>
+			<DefaultText>净化</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>268</ID>
+			<DefaultText>圣战开始时，迪伍德的暴民，特别是在乡村区域，杀死了所有伊欧萨斯的追随者。据说一开始是在寒晓镇，维德文部队没有遭到任何抵抗后，将所有的伊欧萨斯信徒进行了追捕，折磨与屠杀。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>269</ID>
+			<DefaultText>圣战</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>270</ID>
+			<DefaultText>一开始是里德塞拉斯的农民起义，其领袖是一名叫维德文的农民，其自称是伊欧萨斯在凡世的容器。在推翻里德塞拉斯政权后，维德文又开始侵略邻近的迪伍德，并被打败——被一种名为“圣锤炸弹”的武器摧毁了。从此伊欧萨斯便杳无音讯。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>271</ID>
+			<DefaultText>残酷救赎</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>272</ID>
+			<DefaultText>灵魂学者在维德文的遗赠期间试图减少无魂儿死亡的一次尝试，将动物的灵魂转入无魂儿的身体中，希望他们能自我痊愈。这次实验的失败成了一场灾难，并导致了魔婴的诞生，被称为“残酷救赎”。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>273</ID>
+			<DefaultText>维德文的遗赠</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>274</ID>
+			<DefaultText>一种未知起源而广泛传播的丧魂，使迪伍德的婴儿在出生时就失去了灵魂。取这个名字是因为它的起源与圣战中的圣维德文有着重要关系。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>275</ID>
+			<DefaultText>通魂者</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>276</ID>
+			<DefaultText>一些非常罕见的人，通过先天或后天能看到灵魂，有时甚至能阅读或与其交流。关于通魂者的天赋获取有很多种说法，不过最常见的是有人伪称自己是一名通魂者。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>277</ID>
+			<DefaultText>魔婴</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>278</ID>
+			<DefaultText>经过灵魂研究学而成为动物灵魂容器的无魂儿。这些孩子迟早都会变得凶猛而残暴。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>279</ID>
+			<DefaultText>神祇</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>280</ID>
+			<DefaultText>地点</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>281</ID>
+			<DefaultText>博学</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>282</ID>
+			<DefaultText>其它</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>283</ID>
+			<DefaultText>快速贮藏</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>284</ID>
+			<DefaultText>快捷键</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>285</ID>
+			<DefaultText>募捐者内容</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>286</ID>
+			<DefaultText>行动队列</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>287</ID>
+			<DefaultText>按住shift键时点击容器中的物品将会直接将其移动到您的储物箱中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>288</ID>
+			<DefaultText>你可以通过将鼠标指针停留在能力上方并按下任何键来设置其成为该能力的热键。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>289</ID>
+			<DefaultText>永恒之柱的成功离不开成千上万慷慨的支持者，他们中有不少人做出了杰出贡献。
+
+带有金色名牌的NPCs就是支持者设计的。与他们进行互动将能体会到每个人独特的历史。
+
+墓碑的标志象征着一个纪念。这些都是我们的支持者个性化写作的信息。这些角色中有不少都突破了二次元的限制，所以想要专心游戏的玩家最好不要点击他们。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>290</ID>
+			<DefaultText>按shift然后点击一系列行为或者路径点将会使角色按照顺序完成这些动作。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>291</ID>
+			<DefaultText>误伤</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>292</ID>
+			<DefaultText>不少效果范围覆盖一片区域的法术和能力可能会对友军造成伤害。
+
+如果一个能力标明了范围伤害半径，则标明该能力将会对区域内的所有目标造成影响。被友军和敌军符号区分开的范围伤害将只会影响到标注的一方。
+
+然而，即使是带有杀伤效果的范围伤害也不会影响到由高等智力庇佑的区域外围的友军。你可以使用之歌外围来在不伤害友军的情况下攻击敌军。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>293</ID>
+			<DefaultText>被覆盖</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>294</ID>
+			<DefaultText>法术绑定</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>295</ID>
+			<DefaultText>装备具有魔法属性的物品后可以使用某种能力或法术。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>296</ID>
+			<DefaultText>法术持续</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>297</ID>
+			<DefaultText>装备法术持续属性的物品后会在战斗中重击时自动触发列出的能力或法术。法术持续在每次遭遇中不会触发多于两次。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>298</ID>
+			<DefaultText>法术攻击</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>299</ID>
+			<DefaultText>有打击法术属性的武器会在持有者对敌人造成重击时触发列出的能力或法术。打击法术每次遭遇只能触发一次。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>300</ID>
+			<DefaultText>牡鹿在鹿丛与格兰法斯文明中一直是不可或缺的一部分。它们因其角，皮和肉而被猎杀，又因其力量与速度而被敬拜。母鹿和小鹿对猎人与旅行者而言不成问题，但迪伍德的成年公鹿具有十分强的侵略性。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>313</ID>
+			<DefaultText>免疫</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>314</ID>
+			<DefaultText>敌人小团体可能对一个或多个损伤类型免疫。在这些情况下,防御者不会受到该类型的伤害。由伤害带来的激发效应仍然会影响目标。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>316</ID>
+			<DefaultText>苍运高原</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>317</ID>
+			<DefaultText>在伊斯特里奇早期的殖民时代，矮人们在一系列下沉的帕格卢宁领土上定居。最著名的住所矮人军械所因为高质量的青铜艺术品和无与伦比的钢铁武器、盾牌和护甲而被久负盛名。几十年之后，苍运高原上的多个住处不是被掠夺者抢占就是因为年久失修而倒闭。矮人军械所的大本营自然而然也被抛弃，封锁了两个世纪之久，这也标记着苍运高原的终结。
+
+苍运国的青铜与银制军械精品仍然在伊斯特里奇流传着。象征山脉的标志很显眼，顶端的连环意为帕格卢宁的众多殖民地关系亲密无间。黄色的部分在金属制品上不常见，它表示苍运国最初是因青铜器而闻名天下的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>320</ID>
+			<DefaultText>法术命中率</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>321</ID>
+			<DefaultText>带有法术命中率的武器可以触发列表、能力或者法术，通常就是打击或者致命一击。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

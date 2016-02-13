@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\02_defiance_bay_first_fires\02_cv_vicent</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>58</EntryCount>
@@ -301,7 +300,7 @@
       <ID>87</ID>
       <DefaultText>"These Dyrwoodans are mad. Their duc is murdered, and so they nearly burn down the city?"
 
-He raises his hands and looks to the ceiling. "Such sciòderie. It will be a relief to return to Ozia after this."</DefaultText>
+He raises his hands and looks to the ceiling. "Such sci&#242;derie. It will be a relief to return to Ozia after this."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

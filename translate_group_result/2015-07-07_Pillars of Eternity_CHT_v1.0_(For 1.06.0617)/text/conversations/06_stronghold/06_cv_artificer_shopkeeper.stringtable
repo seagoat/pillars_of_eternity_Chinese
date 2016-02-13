@@ -1,0 +1,33 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_cv_artificer_shopkeeper</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>5</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>「你好，主人。你會在這看到最精妙的陷阱裝置。油和套網，以及幻術設計，皆用於束縛和阻礙你的敵人。你想看看嗎？」</DefaultText>
+			<FemaleText>「你好，夫人。你會在這看到最精妙的陷阱裝置。油和套網，以及幻術設計，皆用於束縛和阻礙你的敵人。你想看看嗎？」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>「我看看你有什麼。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>&quot;再見。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>「早上好，主人。我們今天需要陷阱嗎？」</DefaultText>
+			<FemaleText>「早上好，夫人。我們今天需要陷阱嗎？」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>「晚上好，主人。我們今晚需要陷阱嗎？」</DefaultText>
+			<FemaleText>「晚上好，夫人。我們今晚需要陷阱嗎？」</FemaleText>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

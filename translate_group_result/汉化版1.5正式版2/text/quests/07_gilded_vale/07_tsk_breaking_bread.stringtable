@@ -1,0 +1,158 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\07_gilded_vale\07_tsk_breaking_bread</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>30</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>粮 食 之 争 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>化 解 特 鲁 姆 贝 尔 和 斯 维 努 尔 之 间 的 夙 怨 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>化 解 特 鲁 姆 贝 尔 和 斯 维 努 尔 之 间 的 夙 怨 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>向 斯 维 努 尔 汇 报 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>向 特 鲁 姆 贝 尔 汇 报 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>调 查 他 们 之 间 的 矛 盾 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>向 斯 维 努 尔 汇 报 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>向 特 鲁 姆 贝 尔 汇 报 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>丰 饶 之 谷 的 一 些 农 夫 指 责 磨 坊 主 特 鲁 姆 贝 尔 ，说 他 在 磨 粮 食 时 总 会 偷 藏 一 些 。这 些 本 来 就 吃 不 饱 肚 子 的 农 夫 群 情 激 愤 ，情 况 看 样 子 越 来 越 糟 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>我 在 黑 猎 犬 旅 店 里 与 斯 维 努 尔 交 谈 。他 说 磨 坊 主 特 鲁 姆 贝 尔 一 直 霸 占 着 村 里 的 粮 食 储 备 。我 提 议 先 和 特 鲁 姆 贝 尔 谈 谈 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我 已 经 和 丰 饶 之 谷 的 磨 坊 主 特 鲁 姆 贝 尔 谈 过 话 了 。他 正 担 心 他 的 家 人 受 到 一 群 村 民 的 伤 害 ，这 群 村 民 坚 持 说 他 在 收 购 谷 物 时 有 欺 诈 行 为 。他 请 我 去 找 领 头 人 斯 维 努 尔 商 量 商 量 ，想 办 法 解 决 矛 盾 。斯 维 努 尔 很 可 能 在 旅 店 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我 已 经 说 服 磨 坊 主 放 弃 控 制 粮 食 供 给 了 。斯 维 努 尔 会 很 高 兴 听 到 这 些 ，虽 然 粮 食 够 用 多 久 是 个 问 题 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我 已 经 说 服 斯 维 努 尔 不 再 威 胁 特 鲁 姆 贝 尔 及 其 家 人 了 。特 鲁 姆 贝 尔 应 该 会 为 此 感 到 安 心 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>看 来 磨 坊 主 和 部 分 村 民 之 间 的 冲 突 要 白 热 化 了 。值 得 深 入 调 查 一 番 。磨 坊 主 已 经 躲 到 他 的 磨 坊 里 了 ，那 些 农 夫 们 眼 下 正 在 前 往 村 里 的 旅 店 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10006</ID>
+			<DefaultText>我 杀 死 了 磨 坊 主 特 鲁 姆 贝 尔 。斯 维 努 尔 会 为 此 开 心 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10007</ID>
+			<DefaultText>我 杀 掉 了 斯 维 努 尔 和 他 那 帮 人 。 特 鲁 姆 贝 尔 会 为 此 感 激 不 尽 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>我 杀 掉 了 特 鲁 姆 贝 尔 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>我 杀 掉 了 斯 维 努 尔 和 他 的 同 伙 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>我 已 经 杀 掉 了 磨 坊 主 。斯 维 努 尔 会 为 此 开 心 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>我 已 经 杀 掉 了 斯 维 努 尔 和 他 的 同 伙 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>我 已 经 杀 掉 了 磨 坊 主 特 鲁 姆 贝 尔 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20005</ID>
+			<DefaultText>我 已 经 杀 掉 了 农 夫 斯 维 努 尔 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 把 特 鲁 姆 贝 尔 和 斯 维 努 尔 都 杀 了 。无 论 村 里 的 粮 食 以 后 会 怎 样 ，他 们 两 个 都 不 用 再 多 嘴 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我 劝 特 鲁 姆 贝 尔 说 公 平 地 对 待 斯 维 努 尔 及 村 民 才 能 最 大 程 度 上 保 护 他 自 己 的 利 益 。斯 维 努 尔 对 结 果 很 满 意 ，允 许 我 在 旅 店 呆 一 轮 ，还 给 了 我 一 些 钱 币 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我 说 服 了 斯 维 努 尔 不 再 打 扰 磨 坊 主 和 他 的 家 人 。斯 维 努 尔 和 他 的 伙 伴 们 似 乎 对 事 情 的 结 局 很 失 望 ，但 磨 坊 主 不 用 再 担 心 自 己 家 人 的 安 全 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我 杀 死 了 斯 维 努 尔 ，确 保 他 不 再 能 危 害 特 鲁 姆 贝 尔 。磨 坊 主 应 该 安 全 了 ，村 民 们 已 经 没 了 闹 事 的 领 头 羊 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText>我 杀 掉 了 特 鲁 姆 贝 尔 ，丰 饶 之 谷 的 磨 坊 主 。斯 维 努 尔 和 他 那 伙 人 被 我 挑 衅 性 的 举 动 吓 住 了 ，打 算 转 而 去 粮 仓 看 能 不 能 找 到 点 残 留 的 谷 物 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30008</ID>
+			<DefaultText>我 杀 掉 了 特 鲁 姆 贝 尔 和 斯 维 努 尔 。无 论 他 们 在 争 论 什 么 ，都 不 关 我 事 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30009</ID>
+			<DefaultText>我 已 经 杀 掉 了 他 们 中 的 一 个 人 ，谈 判 无 疑 已 经 行 不 通 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30010</ID>
+			<DefaultText>我 改 变 想 法 ，杀 死 了 特 鲁 姆 贝 尔 。村 里 没 有 他 很 重 要 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

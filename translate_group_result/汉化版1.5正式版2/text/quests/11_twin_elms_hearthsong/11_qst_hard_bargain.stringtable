@@ -1,0 +1,121 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\11_twin_elms_hearthsong\11_qst_hard_bargain</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>22</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>艰 难 的 交 易 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>去 炉 火 乐 曲 区 市 场 和 阿 拉 赫 利 谈 话 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>把 钱 给 里 纳 托 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>说 服 里 纳 托 离 开 双 榆 城 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>告 诉 阿 拉 赫 利 你 已 经 与 里 纳 托 做 交 易 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>在 阿 拉 赫 利 位 于 炉 火 乐 曲 区 的 住 所 找 到 她 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>从 阿 拉 赫 利 那 里 拿 到 里 纳 托 的 钱 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>我 在 炉 火 乐 曲 区 遇 到 了 一 位 忿 怒 不 已 的 维 拉 商 人 里 纳 托 。事 情 的 原 委 是 他 购 买 了 一 批 昂 贵 的 Elardh Golah，一 种 采 集 自 伊 尔 格 兰 法 斯 丛 林 深 处 的 植 物 类 壮 阳 药 。可 是 ，有 人 告 诉 他 ，那 个 格 兰 法 斯 的 药 草 商 阿 拉 赫 利 ，卖 给 他 的 是 劣 质 品 。里 纳 托 决 定 不 惜 一 切 代 价 挽 回 损 失 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>里 纳 托 告 诉 我 说 炉 火 乐 曲 区 市 场 的 一 个 商 人 阿 拉 赫 利 ，卖 给 他 一 批 质 量 低 劣 的 Elardh Golan。我 应 该 去 和 那 位 格 兰 法 斯 女 人 谈 谈 ，劝 她 把 钱 还 给 维 拉 人 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我 帮 里 纳 托 找 回 了 他 付 给 阿 拉 赫 利 买 Elardh Golan的 钱 。我 应 该 去 炉 火 乐 曲 区 找 里 纳 托 了 ，上 Celestial Sapling去 ，然 后 在 那 里 把 钱 给 他 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>阿 拉 赫 利 声 称 维 拉 人 买 Elardh Golan是 为 了 自 己 用 ，并 不 是 为 了 做 生 意 ，而 且 在 他 用 后 觉 得 效 果 不 理 想 后 还 当 众 侮 辱 了 她 。
+
+不 过 ，这 个 格 兰 法 斯 女 人 还 想 继 续 这 笔 买 卖 ，但 不 愿 和 里 纳 托 直 接 接 触 。阿 拉 赫 利 认 为 如 果 我 威 胁 以 交 易 因 格 维 斯 文 物 罪 控 告 维 拉 人 的 话 ，维 拉 人 将 自 行 离 开 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>告 诉 阿 拉 赫 利 你 已 经 与 里 纳 托 做 交 易 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>伊 文 ，阿 拉 赫 利 的 徒 弟 ，告 诉 我 药 草 商 现 在 正 在 她 位 于 炉 火 乐 曲 区 的 住 所 。如 果 我 要 当 面 揭 穿 阿 拉 赫 利 骗 里 纳 托 钱 的 事 ，就 应 该 去 那 里 找 她 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10006</ID>
+			<DefaultText>在 阿 拉 赫 利 位 于 炉 火 乐 曲 区 的 住 所 ，我 决 定 用 武 力 拿 回 里 纳 托 的 钱 。我 应 该 把 钱 从 她 的 尸 体 上 拿 走 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>阿 拉 赫 利 已 经 离 开 了 炉 火 乐 曲 区 市 场 ，估 计 是 已 经 知 道 我 在 帮 助 里 纳 托 追 究 壮 阳 药 的 事 。我 该 去 找 药 草 商 的 藏 身 之 所 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>伊 文 告 诉 我 阿 拉 赫 利 住 在 炉 火 乐 曲 区 的 最 北 边 ，从 市 场 向 上 走 几 级 台 阶 就 到 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>我 在 阿 拉 赫 利 位 于 炉 火 乐 曲 区 的 住 所 找 到 了 她 。她 周 围 是 一 群 格 兰 法 斯 武 士 ，看 来 是 要 竭 尽 全 力 保 护 她 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 成 功 地 从 阿 拉 赫 利 那 里 拿 回 了 里 纳 托 的 钱 ，这 位 药 草 商 曾 欺 骗 里 纳 托 用 高 价 买 了 一 批 劣 质 的 壮 阳 药 。我 把 钱 还 给 了 里 纳 托 。作 为 我 努 力 的 回 报 ，他 卖 给 我 一 些 特 殊 的 货 物 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我 决 定 帮 助 阿 拉 赫 利 甩 掉 里 纳 托 ，打 算 正 面 和 维 拉 商 人 对 抗 。在 压 力 下 他 屈 从 了 ，匆 匆 离 开 了 这 座 格 兰 法 斯 城 市 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我 打 算 帮 助 阿 拉 赫 利 ，正 面 和 维 拉 商 人 对 抗 。里 纳 托 死 去 了 ，他 再 也 不 会 麻 烦 格 兰 法 斯 人 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>阿 拉 赫 利 和 里 纳 托 都 死 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
+

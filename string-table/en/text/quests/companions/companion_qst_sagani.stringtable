@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>quests\companions\companion_qst_sagani</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>23</EntryCount>
@@ -65,7 +64,7 @@ When Sagani is traveling with me, my unique sensitivities will allow me to see t
     </Entry>
     <Entry>
       <ID>20003</ID>
-      <DefaultText>Edér had seen the arch before. He said it's on the shores of Bael Lake, on the opposite side as Twin Elms.</DefaultText>
+      <DefaultText>Ed&#233;r had seen the arch before. He said it's on the shores of Bael Lake, on the opposite side as Twin Elms.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

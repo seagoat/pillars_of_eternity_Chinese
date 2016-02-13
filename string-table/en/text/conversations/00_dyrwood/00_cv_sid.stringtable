@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\00_dyrwood\00_cv_sid</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>32</EntryCount>
@@ -125,7 +124,7 @@
       <ID>56</ID>
       <DefaultText>"It started back in the colonial days, almost thirty years after the Broken Stone War. Even though isolated conflicts still broke out between the settlers and the Glanfathans, both sides had officially agreed to peace. 
 
-"Edrang Hadret, Admeth's father, was gréf at the time. As part of peace negotiations, he'd signed treaties prohibiting Aedyran colonists from looting Engwithan ruins. However, he'd been unable to outlaw the use of captured Glanfathans as slaves."</DefaultText>
+"Edrang Hadret, Admeth's father, was gr&#233;f at the time. As part of peace negotiations, he'd signed treaties prohibiting Aedyran colonists from looting Engwithan ruins. However, he'd been unable to outlaw the use of captured Glanfathans as slaves."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -135,14 +134,14 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"What's a gréf?"</DefaultText>
+      <DefaultText>"What's a gr&#233;f?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"A gréf is the governor of a colony and is subservient to the Aedyran emperor. The early leaders of the Aedyre colony in the Dyrwood, including Edrang and Admeth Hadret, were gréfs. 
+      <DefaultText>"A gr&#233;f is the governor of a colony and is subservient to the Aedyran emperor. The early leaders of the Aedyre colony in the Dyrwood, including Edrang and Admeth Hadret, were gr&#233;fs. 
 
-"At the start of the War of Defiance, Admeth Hadret declared himself duc of an independent Dyrwood rather than gréf of the emperor's colony. It was the same term used for leaders of the newly-independent Vailian Republics. Anyway, we haven't had a gréf since."</DefaultText>
+"At the start of the War of Defiance, Admeth Hadret declared himself duc of an independent Dyrwood rather than gr&#233;f of the emperor's colony. It was the same term used for leaders of the newly-independent Vailian Republics. Anyway, we haven't had a gr&#233;f since."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,7 +155,7 @@
       <ID>61</ID>
       <DefaultText>"The looting sparked a brutal slave uprising and a guerrilla campaign among the Glanfathans. Edrang Hadret was too old to lead forces into battle, and so he sent his son, Admeth.
 
-"Admeth made a costly but effective decision that ended the war faster than anyone could have imagined. He burned the forest near the Isce Îen River to keep the Glanfathan war bands from retreating."</DefaultText>
+"Admeth made a costly but effective decision that ended the war faster than anyone could have imagined. He burned the forest near the Isce &#206;en River to keep the Glanfathan war bands from retreating."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

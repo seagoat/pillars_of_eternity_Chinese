@@ -1,0 +1,64 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\14_burial_isle\14_cv_assignment_vision</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>10</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“当其他人的信念动摇时，你始终对我们的事业坚定不移，审判官。对于每一个忏悔的异教徒，每一个烧死的背叛者，仍会有新人蜂拥向伊奥瓦拉·恩西欧斯。但并不是你。我一开始低估了你，但现在再也不会了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“我很荣幸，大审判官。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“我今天召唤你不是为了荣誉，而是为了使命。
+
+“我们有太多人在命运之轮上忏悔，或随风而去，或焚烧殆尽。有太多信徒的心灵被巫婆克莱塔姆所毒害。现在的情势对我们不利。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“我们只有一个选择。伊奥瓦拉的追随者们必须要看到她暴露本性。她必须在我的庭审中为其邪说而忏悔。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“我们怎么找到她？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“显然在克莱塔姆不会这样。他们的主子接受了她的异教信仰，还用军队来保护她。但是在欧希奥努斯，事情就不一样了。
+
+“欧希奥努斯的国王是个有罪的人。我们曾经帮助他看清自己方式的错误，现在他非常担心自己的灵魂的安危。为了获得赦免，他愿意付出任何价码。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>“但是我们要怎么把伊奥瓦拉带到欧希奥努斯去？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>赛奥斯把手放在你的肩膀上。“你为了审判已经做了非常多。如果还有别的选择的话，我也不会问这个...”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>“你以前告诉我你从来没见过伊奥瓦拉。现在你要告诉我实话。“
+
+赛奥斯盯着你的眼睛。他好像永远不会眨眼。一股恐惧的寒流迅速在你体内流窜，你能感觉到冷汗正在从你体内慢慢分泌出来。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>Trigger Conv Node 17</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

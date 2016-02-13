@@ -1,0 +1,83 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\12_oldsong\12_si_maw_thorns</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>15</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>通道被一层厚厚的、缠绕在一起的匕首状的尖刺和藤蔓组成的墙挡住了。你看到“墙”似乎在有节奏地动着，就象在呼吸一样。粗大卷曲的藤蔓在裂口处扭动着、翻滚着，叶子摩擦，发出那种安静的沙沙声。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>你注意到当两条藤蔓向两边移动时，会短暂地出现一条路，你小心翼翼地踏步向前。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>[强行穿过。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>[试着潜行穿过有生命的墙。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>[离开]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>你大胆地踏进缠绕的藤蔓中- 看到它们又粗又结实象树干一样。一旦碰到这些藤蔓，它们就立刻快速地搅动起来，很快你就发现自己被翻滚着的尖刺和锋利的叶子包围了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>[查看藤蔓。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>穿过了那堵“活”的墙，你看到的是一间开阔的圆形房间。房间里到处是黄褐色的兽皮，藤蔓发出的沙沙声被低吼声掩盖了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>你屏息凝神向前走，尽量不碰到身边的枝叶。曾有只植物的尖刺斜着向你刺来，但它不够长，没有能够刺到你，终于，你通过了这堵墙。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>你开始小心翼翼地伺机通过藤蔓组成的网。半路上，[SkillCheck 0]踩上了一根干枯的枝条，一条藤蔓以快得难以置信的速度弹了过来。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>那条藤蔓无情地缠紧了[SkillCheck 0]的一条腿，[SkillCheck 0]的挣扎碰到了周围的植物，它们都疯狂地翻滚起来。[SkillCheck 0]最终扯开了那些藤蔓，一瘸一拐地走了出来。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>你屏息凝神向前走，尽量不碰到身边的枝叶。尽管你很小心，但不一会儿你的肩膀还是被一根长满花朵的枝条卡住了，一条藤蔓以快得难以置信的速度卷向你的双腿。你快速跳开，顺势倒下翻滚出了这堵“墙”。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>你走了出去，进入了紧邻的房间。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>你抓住[SkillCheck 0]，把他猛地拉向一边，避开了藤蔓的攻击。这一连串动作刺激了周围的植物，你们两个手忙脚乱地快速冲向墙外。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>终于，一条藤蔓象舞动的棍棒一样击中了你，你被打得退了回去。藤蔓安静的沙沙声变成了一声咆哮，回荡在无底洞中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

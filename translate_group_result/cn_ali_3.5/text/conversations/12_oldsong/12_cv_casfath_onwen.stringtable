@@ -1,0 +1,509 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\12_oldsong\12_cv_casfath_onwen</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>91</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>两位木精灵，一男一女，穿着五颜六色的布袍，上面绣着一个带有翅膀的蛋。
+
+除了他们的衣服外，他们几乎没有任何不同。她收起双臂，对着破损的墙壁怒目而视。而他则在默默祷告，带有暗斑的脸如同万里无云的天空一样平静。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“我想了解更多关于海莉亚的事。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“这里是海莉亚的神殿？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“事实上，海莉亚曾让我看到一幅景象。她禁止我向你谈论关于她的神殿受到威胁的事。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“再见。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“语言对我们的女神同样神圣。你还想说点什么别的吗？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“关于巨龙的事顺利吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>昂文渴望地凝视着你。“我们看到你上了高山。嗯？都发生了什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>“巨龙怎么到这来的？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>“巨龙和它的孩子都死了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>“从女神自己那里得到的景象？”卡斯法斯用毫不掩饰的惊讶目光盯着你。“真是罕有而幸运的祝福。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>卡斯法斯的脸明亮起来。“她是歌曲，艺术，天空与母性的女神。她既温和又美好，会在梦中，灵感中与鸟语中与她的信徒们交谈。据说她穿着的斗篷是她亲自用百鸟的羽毛制作的……”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>她转动着天蓝色的眼睛，用臂肘捅捅同伴。“你听到这家伙的饶舌吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>他做出抚慰的手势。“放轻松，昂文，我想他没什么恶意。”
+
+他转向你。“请原谅我的伙伴。她对于迟到比较激动。”他没在意昂文的尖锐目光。
+
+“这并不是你认为的，我们真正的神殿。这只是我们处理完巨龙的事情后建造的一个神龛。”</DefaultText>
+			<FemaleText>He makes a placating gesture. &quot;Relax, Onŵen, I&apos;m sure she meant nothing by it.&quot;
+
+He turns to you. &quot;Forgive my consort. She&apos;s been rather excitable of late.&quot; He ignores a pointed look from Onŵen.
+
+&quot;This is not, as you seem to recognize, our actual temple. It&apos;s merely a shrine we&apos;ve set up after this business with the dragon.&quot;</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>她又一次打断。“激动！我当然激动了！我现在很生气，卡斯法斯你也应该这样。在我们女神的庇护所中有条龙！如果你一开始就听我的，我们就可以把尖牙叫来，让他们去追捕这野兽了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>他叹了口气。“我告诉过你，大规模的小队不会有机会的。前一半人到达山顶时，后一半人还卡在半山腰。他们会被活活烧死的。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>“我可以去追捕这条巨龙。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>“我问你些别的吧。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>“祝你好运。我该走了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>昂文眯眼看着你。“你看到的景象说威胁来自一条龙，对吧？”
+
+她往后退了退，给你一个意味深长的目光。“说实话，我曾希望天空之母会召唤一整群战士去对抗这只怪物……我害怕人少的话就会像以卵击石。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>昂文仔细盯着你。“你可以……”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>“你对这条龙有什么了解？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>卡斯法斯笑了笑，走到她前面。“那是只危险的野兽，但我们会感谢你提供的任何援助。百鸟女皇也一样。
+
+“事实上，如果你想对抗这条龙，也许你需要得到海莉亚的亲自指导。泰尔埃弗隆是众神的神圣之地，而且从最近发生的事件来看，那里也是和海莉亚交流的最好场所。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>卡斯法斯轻轻推了她一下。“她是说那不仅仅是条伪龙，而是一条货真价实的成年巨龙，并且很愿意移到人口密集的区域。你需要各种条件任你使用，包括来自天空之母之神的祝福。我建议你直接去泰尔埃弗隆向她请愿，如果你还没准备好的话。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>“如果你要问这一切为什么会发生，大概只有天知道了。我猜可能是海莉亚自己设置的信仰试练，但谁敢说呢？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>“有着强劲的双翼与狂暴的怒吼！谁知道这些野兽何来何往？它现在就在这，这才是关键。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>“赞美天空之母，也感谢你，[Player Race]。”她捶在卡斯法斯的后背上。“我告诉过你只有攻击才是唯一的手段。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>“而且百鸟女皇认为用一位强大的战士给我们带来祝福很适合。”他向你点头，叠起双手。“很遗憾一位如此罕有的天空斗士即将陨落。所有飞翔的生命对我们的女神而言都是神圣的。
+
+“不过，我们能回到鸟巢祭拜自然是好的。谢谢你。不用准备太多，不过你也许需要去泰尔埃弗隆向海莉亚祷告。她会感激每一位援助她的人。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>“能再次敬拜海莉亚感觉真好。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>“一位叫叶的吟唱者告诉我他可以用圣歌恢复这片区域，只要我能找些异国的鸟给他吃……”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>她冷笑了一下。“如果他说你从马德米尔桥跳下去就能长出翅膀，你也相信吗？
+
+“这不过是愚蠢的迷信罢了。百鸟女皇让她的助手用歌声给我们带来祝福，而不是吃掉它们的肉体。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>“冷静一点。我们应该为她从有翼凶兽的手中白虎了我们而心怀感激。此外……”他转向你。
+
+“我们在这有位访问者。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>她抬头看着天，摇了摇头。“不，你建议小心谨慎。现在有传言说巨龙已经吃掉了一些信徒，当初说要杀掉它的人现在都在向灵魂王子索要工作赎金呢。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>他叠起双手。“和昂文的想法不同，我希望派人去杀掉这条龙。不过我建议人不要太多，并且要愿意寻求海莉亚的祝福。”
+
+他给你一个好奇的目光。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>“那么就去吧。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>她向你扬起眉毛。“或者说亡焰群岛的人会吃掉他们的老师吗？反正我听说你们都听粗犷的。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>她向你扬起眉毛。“或者说活化之地的人会吃掉他们的老师吗？我想关于那地方的事我什么都信……”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>她向你扬起眉毛。“或者说白茫冰地的人会吃掉他们的老师吗？想到这个，我真不敢想象那里还有什么别的能吃的东西……”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>她向你扬起眉毛。“或者说劳亚泰海湾的人会吃掉他们的老师吗？我确实听说过你们会吃些奇怪的东西……”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>Bank Node 47</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>“海莉亚见过形形色色的人。问两个助产士，你就会得到五个故事，每个都不一样。”
+
+“羽精的分娩是个大麻烦。我想他们吃掉天空之母的孩子做为回报挺公平。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>女人转向她的同伴。“我们该怎么从一堆杂草之中敬拜天空之母呢，嗯？真丢脸。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>“它很大，能喷出火焰，并且还占据了我们女神在山顶的神殿。”昂文耸耸肩。“你还想知道什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>“……啊，还有分娩时的尖叫，我可以保证那不是什么美好的事。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>卡斯法斯缓缓点头。“没错，所以海莉亚的牧师一般都是助产士。像诗人和艺术家一样多。
+
+“不管怎样，我们这些跟随她的人汇聚在一个地方分享光明，圣歌，还有被祝福过的天空。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>“但如果海莉亚给了你任务，我们还能怀疑什么呢？不过昂文是对的。你必须要准备好面对这样一个狡猾的强敌。
+
+“鸟巢——和巨龙——都在北部旷野的一座高山之上。”他指向小路的北方。“沿着它去往原野，然后寻找悬崖上的另一条路。愿天空之母的祝福伴随着你。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>卡斯法斯微微前倾。“她是说我们都非常希望你平安归来。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>她不耐烦地挥挥手。“是的，没错。也有这个意思。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>“鸟巢又安全了。我打伤巨龙后，它带着孩子逃走了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>“我决定把巨龙和它的孩子留在鸟巢。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>“你放它走了？嗯，如果它真的走了，那也没关系。”她捶在卡斯法斯的后背上。“我告诉过你只有攻击才是唯一的手段。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>“而且百鸟女皇认为用一位强大的战士给我们带来祝福很适合。”他向你点头，叠起双手。“也谢谢你向那只野兽和它的孩子网开一面。所有飞翔的生命对我们的女神而言都是神圣的。
+
+“多亏了你，我们又能向海莉亚敬拜了。不用准备太多，不过你也许需要去泰尔埃弗隆向她祷告。她会感激每一位援助她的人。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>“你疯了吗？”她吃惊地看着你。“那些怪物不知道还要杀死多少人。你怎么能让它们活下去？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>卡斯法斯把一只手放在她的背后。“如果百鸟女皇愿意在自己的天空中接纳这只生物，我们又凭什么去摧毁它呢？”
+
+他看向半山腰。“这不是我所祷告的结果，但也许这也是海莉亚的意志。也许去泰尔埃弗隆和她交谈会弄明白整件事。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>Bank Node 62</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>“说得好，”希拉维亚斯笑着插话进来。“这两人的心中也有一点瓦尔的精神！”
+
+他深深吸气，微微一笑，好像身处在新出炉烤面包的香气之中。“这是一片被未知神明掌控的神秘场地——有很多事情要操心，而不只是关于……嗯，一切的方式和原因。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>昂文向你怒目而视，但卡斯法斯平静的微笑着。“别介意她。有天空的地方就可以敬拜百鸟女皇。有什么我们能帮忙的吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>“那么我该开始去做了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>她指向右边的一条通向北方山坡的小路。“你应该从这边走。你会穿过北部旷野，并从那里上山。就在建造者们放置的一个巨圈附近。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>“大部分都是鱼类。不过我们在期待格兰法斯人。”卡纳敲敲牙齿，劈啪作响——然后转转眼睛。“也许我们不应该和这家伙讨论鸟类。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>“我们不能呆在这下面！必须得有人前往鸟巢。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>她转转天蓝色的眼睛。“真是牙尖嘴利。”她用臂肘捅捅同伴。“你听到这家伙的饶舌吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>“我该相信你的谎言吗？你不能——”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>卡斯法斯瞪了她一眼。“为什么不呢？你的礼节也跟着希望逃走了吗？”卡斯法斯带着毫不掩饰的惊讶转向你。“你受到了一份罕有而幸运的祝福。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>卡斯法斯的脸明亮起来。“她是歌曲，艺术，天空与母性的女神。也许你已经通过自己的努力得到了她的祝福。”
+
+她既温和又美好，会在梦中，灵感中与鸟语中与她的信徒们交谈。据说她穿着的斗篷是她亲自用百鸟的羽毛制作的……”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>昂文眯眼看着你。“你看到的景象说威胁来自一条龙，对吧？”
+
+她往后退了退，给你一个意味深长的目光。“说实话，我希望天空之母会召唤你在尖牙所有的队友……我害怕人少的话就会像以卵击石。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>昂文眯眼看着你。“你看到的景象说威胁来自一条龙，对吧？”
+
+她往后退了退，给你一个意味深长的目光。“说实话，我曾希望天空之母会召唤一整群战士去对抗这只怪物……尽管你们的名声很高，我还是害怕人少的话就会像以卵击石。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>她又一次打断。“激动！我当然激动了！我现在很生气，卡斯法斯你也应该这样。在我们女神的庇护所中有条龙！如果你一开始就听我的，我们就可以把这个外来者的尖牙队友们叫来，让他们去追捕这野兽了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>昂文仔细盯着你。“像你这种……凶猛的人可以……”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>“你们说的‘有翼凶兽’是什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>“一条龙。它占据了海莉亚真正的神殿——鸟巢，并且屠杀了许多信徒。”
+
+他畏缩着看向昂文。“昂文一开始就想杀掉它。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>“我对这条龙还有疑问。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>“我们会把知道的都告诉你。”他给了昂文一个严厉的目光。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>“这条龙一开始是从哪里出现的？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>他看向天空，思考着。“那是好几周之前了。那怪物像一片雷云一般遮天蔽日，立刻便降到了我们的头上……”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+			<DefaultText>“没有任何警告。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+			<DefaultText>“以前发生过这种事情吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>“能给我讲讲这条龙别的事吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+			<DefaultText>她张开嘴，露出一丝冷笑，但好像对接下来要说的事又想了想。停了一下之后，她说道，“没有了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>“我们真心希望能告诉你更多。但是我们和其他海莉亚的信徒一样，都在疲于奔命。我们只是比大多数人都幸运一些。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+			<DefaultText>“没有过。否则教会很早之前就会召集尖牙了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+			<DefaultText>“也许现在发生的事情会有个理由……”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+			<DefaultText>她满面愁容。“让我们说清楚。你说我们中间有人犯下了罪行。我们对女神大人犯下了罪过还是别的什么，因而受到了惩罚。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>94</ID>
+			<DefaultText>“昂文，别说了……”他把一只手放在她的肩上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>95</ID>
+			<DefaultText>她甩开了他的手。“我不知道是怎么回事。为什么我们的母神会让她的追随者们在火焰中枯萎。”
+
+她眯起眼睛，从牙缝中挤出几个字。“如果你弄清楚了，希望你能回来告诉其他人。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>96</ID>
+			<DefaultText>“我知道这些就可以了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>97</ID>
+			<DefaultText>“你现在要做什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>98</ID>
+			<DefaultText>“我们会重建鸟巢，但这需要时间。有太多需要修复的地方。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>99</ID>
+			<DefaultText>“我们会像以前一样敬拜海莉亚。虽然我们把鸟巢作为建造者的遗赠而珍惜，但它也不过只是一个地方。”他举起双手。
+
+“我们仍然有着头顶上的天空，一如既往。谁知道呢？也许我们会在这找到更多信徒。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>100</ID>
+			<DefaultText>昂文还是很愤怒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>101</ID>
+			<DefaultText>“还有许多要治疗的。不过多亏了你，这些事我们都会在女神最神圣的地方做好。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

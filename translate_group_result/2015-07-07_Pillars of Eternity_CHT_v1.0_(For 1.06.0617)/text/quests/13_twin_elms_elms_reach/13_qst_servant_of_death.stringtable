@@ -1,0 +1,81 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\13_twin_elms_elms_reach\13_qst_servant_of_death</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>14</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>死亡之僕</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>將貝拉斯幻象的兩個畫面中的生命終結。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>返回到泰爾埃弗隆的貝拉斯處。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>貝拉斯厭倦了凡人逃避死亡和再生的自然循環。他向我特別展示了兩類人——矮人男人和精靈女人——他們都給自己延長了幾個世紀的生命。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>貝拉斯，死亡和重生之神，你向我展示了一個精靈女人和一個矮人男子在一條道路上停下來的幻象。我的觸摸殺死了他們，然後我只能繼續沿著小路走下去。
+
+這是神為了告訴我這兩個人騙過了死神太長時間了。毫無疑問，結束他們的生命會令貝拉斯感到愉快。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>大德魯伊萊斯丁和高階願靈艾羅娜都死了。我可以在泰爾埃弗隆向貝拉斯祈禱以獲得我的賞賜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>幻象中面色蒼老的矮人似乎在用他人的血液更新自己。他說了一些關於&quot;Ethik Nol&quot;的事。當我得知這是誰（或什麼）的時候，他無疑就在附近。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>幻象中的這個樹形精靈女人很奇怪。她提到一個叫&quot;Golden Grove&quot;的地方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>我殺了貝拉斯幻象中的矮人大德魯伊萊斯丁。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>精靈高階願靈艾羅娜現在已經死了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20005</ID>
+			<DefaultText>Golden Grove的德魯伊告訴我高階願靈艾羅娜常常會冒險去榆樹海濱尋求補救措施以延長她的生命。我懷疑艾羅娜是幻象中的精靈女人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20006</ID>
+			<DefaultText>我瞭解到了金叢是在榆樹之地南部末端的一片樹林。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20007</ID>
+			<DefaultText>Ethik Nol 駐留在一個被稱為「血色沙漠」的山洞裡。它在榆樹之地區北部，離giant trees不遠的地方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>貝拉斯感到高興的是這兩個德魯伊的領導人又回到了生死輪迴中。神答應我在我穿過暗影之陽時保我安全，並且支持我追隨賽奧斯。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
+

@@ -1,0 +1,43 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\06_stronghold\06_tsk_boss_chanter</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>悬 赏 ：桑 史 密 丝 •罗 丝 卡 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>杀 了 桑 史 密 丝 •罗 丝 卡 ，把 她 的 头 带 回 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>把 罗 丝 卡 的 头 交 给 塞 德 努 亚 的 费 尔 根 典 狱 长 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>臭 名 昭 著 的 诺 维 奇 吟 唱 者 ，桑 史 密 丝 •罗 丝 卡 ，因 为 掠 夺 因 格 维 斯 废 墟 而 被 通 缉 。她 最 后 的 出 现 地 点 是 卡 里 班 利 莱 格 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>桑 史 密 丝 •罗 丝 卡 在 卡 里 班 利 莱 格 之 外 有 个 营 地 。如 果 我 想 拿 这 份 赏 金 ，我 就 要 去 那 杀 了 她 ，并 带 回 她 的 头 作 为 她 死 亡 的 证 明 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>罗 丝 卡 死 了 -作 为 回 报 ，费 尔 根 会 给 我 承 诺 的 赏 金 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 拿 到 了 桑 史 密 丝 •罗 丝 卡 的 赏 金 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

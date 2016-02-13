@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>1452</EntryCount>
@@ -3819,7 +3818,7 @@
     </Entry>
     <Entry>
       <ID>780</ID>
-      <DefaultText>Casità Casserole</DefaultText>
+      <DefaultText>Casit&#224; Casserole</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5925,7 +5924,7 @@ Despite these advantages, there are risks to the relationship. Rangers share a l
     </Entry>
     <Entry>
       <ID>1194</ID>
-      <DefaultText>Effigy's Resentment: Edér</DefaultText>
+      <DefaultText>Effigy's Resentment: Ed&#233;r</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

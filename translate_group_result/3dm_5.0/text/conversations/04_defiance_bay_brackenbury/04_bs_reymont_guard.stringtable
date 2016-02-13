@@ -1,0 +1,17 @@
+<StringTableFile>
+  <Name>conversations\04_defiance_bay_brackenbury\04_bs_reymont_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“你听到了吗？窗外有声音。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“闯入者！”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,423 @@
+﻿<StringTableFile>
+  <Name>conversations\companions\companion_cv_kana</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>77</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>就 在 通 往 凯 德 ·努 阿 的 路 旁 ，站 着 一 个 高 大 的 人 影 ：是 个 奥 玛 人 ，他 身 材 高 大 ，胡 须 浓 密 ，穿 着 饱 经 风 霜 的 战 甲 ，双 眼 直 直 地 盯 着 城 堡 的 外 墙 。他 的 手 里 拿 着 一 支 炭 笔 ，正 一 刻 不 停 地 在 一 张 小 纸 片 上 作 着 笔 记 。当 他 抬 头 仰 望 时 ，好 几 次 都 要 伸 手 盖 住 头 上 那 顶 漂 亮 的 帽 子 ，不 让 它 掉 下 来 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“路 上 能 有 个 伴 ，我 求 之 不 得 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Leave] “再 见 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“实 话 实 说 吧 ，在 打 发 时 间 呢 ！我 已 经 绕 着 它 走 了 两 回 了 。”
+
+“那 儿 有 些 砖 头 上 刻 了 名 字 。我 猜 都 是 些 工 人 和 石 匠 。想 着 能 名 垂 千 古 吧 。”他 有 抬 头 看 着 高 墙 ，露 出 赞 赏 的 神 情 。“这 城 堡 真 不 错 ，凯 德 ·努 阿 。闻 名 于 世 了 两 百 年 ……又 给 遗 弃 了 两 百 年 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“你 在 那 做 什 么 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>卡 纳 正 低 声 哼 着 欢 快 的 小 调 。他 的 脸 上 满 是 炭 笔 沾 上 的 污 点 。你 朝 他 走 去 ，他 也 转 身 面 向 你 ，脸 上 又 露 出 了 愉 快 又 让 人 忧 虑 的 笑 容 。
+
+“嗨 ，又 见 面 了 ！你 运 气 真 好 啊 ？我 已 经 将 名 册 上 绝 大 多 数 名 字 编 目 分 类 了 ——但 还 有 一 些 没 有 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“你 一 定 走 过 千 山 万 水 了 吧 ，[Player Name]？真 希 望 有 朝 一 日 你 能 给 我 们 说 说 呢 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>“你 在 那 做 什 么 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[离 开 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>“实 话 实 说 吧 ，在 打 发 时 间 呢 ！我 已 经 绕 着 它 走 了 两 回 了 。”
+
+“那 儿 有 些 砖 头 上 刻 了 名 字 。我 猜 都 是 些 工 人 和 石 匠 。想 着 能 名 垂 千 古 吧 。”他 有 抬 头 看 着 高 墙 ，露 出 赞 赏 的 神 情 。“这 城 堡 真 不 错 ，凯 德 ·努 阿 。闻 名 于 世 了 两 百 年 ……又 给 遗 弃 了 两 百 年 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>“为 什 么 你 这 次 不 跟 来 看 看 呢 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Leave] “再 见 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>“那 栋 老 旧 的 砖 楼 一 定 可 迷 人 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>“但 好 戏 就 在 里 面 呢 。”他 用 炭 笔 指 了 指 大 门 内 。“……我 运 气 不 佳 ，不 能 进 入 城 堡 里 边 。我 想 要 找 这 地 方 的 主 人 ——一 个 叫 梅 沃 德 的 男 人 ——不 过 看 来 他 将 这 里 视 如 至 宝 ，不 愿 分 享 ，否 则 这 里 早 就 门 庭 若 市 啦 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>“我 来 这 也 是 为 了 找 梅 沃 德 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>“你 找 梅 沃 德 做 什 么 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>“你 为 什 么 没 有 进 去 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>“没 错 ！好 吧 ，可 能 不 是 墙 本 身 。这 里 采 用 的 是 非 常 传 统 的 建 筑 方 法 。”
+
+“那 儿 有 些 砖 头 上 刻 了 名 字 。我 猜 都 是 些 工 人 和 石 匠 。想 着 能 名 垂 千 古 吧 。”他 有 抬 头 看 着 高 墙 ，露 出 赞 赏 的 神 情 。“这 城 堡 真 不 错 ，凯 德 ·努 阿 。闻 名 于 世 了 两 百 年 ……又 给 遗 弃 了 两 百 年 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>“真 的 ？那 我 们 就 可 以 互 帮 互 助 啦 ！这 地 方 栖 息 着 各 种 各 样 的 野 兽 。我 从 没 见 过 这 样 的 东 西 。我 不 想 独 自 冒 险 ——不 过 你 看 起 来 还 挺 可 靠 的 。我 相 信 要 是 我 俩 齐 心 协 力 ，一 定 可 以 成 功 的 ！到 时 候 我 们 都 可 以 问 问 梅 沃 德 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>“我 在 找 一 份 珍 贵 的 宝 藏 。不 是 金 子 也 不 是 银 子 ，而 是 Tanvii ora Toha。你 也 可 以 称 之 为 ‘美 德 之 书 。’”
+
+“这 是 拉 瓦 台 的 一 本 圣 书 ——但 我 们 只 有 它 的 一 小 部 分 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>“我 在 找 一 份 珍 贵 的 宝 藏 。不 是 金 子 也 不 是 银 子 ，而 是 美 德 之 书 。我 们 人 民 的 圣 书 ，朋 友 ，它 就 在 那 里 ！
+……就 在 那 里 的 某 个 角 落 。就 在 城 堡 的 下 面 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>“真 的 ？那 我 们 就 可 以 互 帮 互 助 啦 ！这 地 方 栖 息 着 各 种 各 样 的 野 兽 。我 从 没 见 过 这 样 的 东 西 。我 不 想 独 自 冒 险 ——不 过 你 看 起 来 还 挺 可 靠 的 。我 相 信 要 是 我 俩 齐 心 协 力 ，一 定 可 以 成 功 的 ！到 时 候 我 们 都 可 以 问 问 梅 沃 德 了 。”</DefaultText>
+      <FemaleText>"Truly? Then perhaps we can help one another! The grounds are infested with all manner of beasts. I have never seen the like. I did not want to risk it alone, but a son and daughter of Rauatai, together - I am sure we could manage it! And then we can both ask our questions of Maerwald." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>“为 什 么 这 本 美 德 之 书 会 在 迪 尔 伍 德 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>“问 得 好 ！问 题 就 在 这 里 。”他 大 笑 起 来 。“就 像 其 他 动 人 的 乐 章 一 样 ，这 也 是 个 长 而 曲 折 的 故 事 ，朋 友 。要 是 你 想 听 ，我 现 在 就 可 以 再 给 你 讲 讲 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>“嗯 ……就 是 到 城 堡 的 这 段 路 上 有 许 许 多 多 危 险 的 生 物 。我 当 然 尝 试 过 去 过 ！……但 我 被 黑 暗 之 灵 赶 了 出 来 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>“知 识 。”他 咧 嘴 笑 道 。“简 单 来 说 ，是 一 本 书 。我 是 来 寻 找 一 份 珍 贵 宝 物 的 。不 是 金 子 也 不 是 银 子 ，而 是 Tanvii ora Toha。你 也 可 以 称 之 为 ‘美 德 之 书 。’”
+
+“这 是 拉 瓦 台 的 一 本 圣 书 ——但 我 们 只 有 它 的 一 小 部 分 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>“有 一 年 ，我 正 在 寻 找 剩 余 部 分 的 旅 途 之 中 。然 后 我 找 到 了 一 些 证 据 ，使 我 坚 信 书 的 原 件 就 在 那 里 ——城 堡 的 下 面 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>“我 们 必 须 得 找 到 它 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>“有 一 年 ，我 正 在 寻 找 剩 余 部 分 的 旅 途 之 中 。然 后 我 找 到 了 一 些 证 据 ，使 我 坚 信 书 的 原 件 就 在 那 里 ——城 堡 的 下 面 。我 想 问 问 梅 沃 德 知 不 知 道 这 本 书 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>“还 有 你 ，朋 友 ？你 来 这 做 什 么 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>“人 们 好 像 一 直 称 呼 我 为 通 魂 者 ——梅 沃 德 能 告 诉 那 是 什 么 意 思 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>“没 什 么 特 别 的 理 由 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>“通 魂 者 ？”他 好 奇 地 打 量 着 你 。“你 能 和 灵 体 对 话 ？如 果 我 要 是 也 能 这 么 做 ，我 会 打 破 砂 锅 问 到 底 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>“那 我 们 就 去 见 梅 沃 德 吧 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>“我 不 是 来 挖 什 么 古 老 的 遗 物 的 。你 自 己 去 吧 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>“好 极 了 ！带 路 吧 ，我 的 朋 友 ，我 就 在 你 的 后 面 。……啊 ，等 等 ——说 到 那 个 ，首 先 我 该 警 告 一 下 你 。盎 卓 之 牙 ，我 差 点 忘 了 。”
+
+“我 好 几 次 都 被 跟 踪 了 ——起 初 在 鹿 丛 ，随 后 在 以 扎 米 托 他 们 直 接 就 袭 击 了 我 ……我 相 信 他 们 不 想 让 我 找 到 我 在 找 的 东 西 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>“那 不 关 你 的 事 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>“我 也 想 和 梅 沃 德 谈 谈 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>“真 的 ？那 我 们 就 可 以 互 帮 互 助 啦 ！这 地 方 栖 息 着 各 种 各 样 的 野 兽 。我 从 没 见 过 这 样 的 东 西 。我 不 想 独 自 冒 险 ——不 过 你 看 起 来 还 挺 可 靠 的 。我 相 信 要 是 我 俩 齐 心 协 力 ，一 定 可 以 成 功 的 ！到 时 候 我 们 都 可 以 问 问 梅 沃 德 了 。”</DefaultText>
+      <FemaleText>"Truly? Then perhaps we can help one another! The grounds are infested with all manner of beasts. I've never seen the like. I didn't want to risk it alone, but a son and daughter of Rauatai, together - I'm sure we could manage it! And then we can both ask our questions of Maerwald." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>“噢 。我 ……我 明 白 了 。”他 垂 头 丧 气 道 。“我 理 解 。嗯 ，我 会 继 续 努 力 的 。也 许 我 们 会 再 见 的 ，到 时 候 就 有 别 的 故 事 讲 了 。祝 你 一 路 顺 风 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>“那 就 是 个 流 浪 的 旅 人 啰 ？你 很 有 欣 赏 风 景 的 眼 光 。对 我 很 有 好 处 ——也 许 你 该 跟 我 一 起 旅 行 ？我 相 信 只 要 我 们 齐 心 协 力 ，就 能 轻 轻 松 松 到 达 城 堡 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>“恐 怕 现 在 我 帮 不 了 你 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>“噢 。我 无 意 冒 犯 ！我 只 想 互 相 帮 助 。我 相 信 只 要 我 们 齐 心 协 力 ，就 能 轻 轻 松 松 到 达 城 堡 的 。或 者 稍 微 花 点 功 夫 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>“真 的 ？那 我 们 就 可 以 互 帮 互 助 啦 ！这 地 方 栖 息 着 各 种 各 样 的 野 兽 。我 从 没 见 过 这 样 的 东 西 。我 不 想 独 自 冒 险 ——不 过 你 看 起 来 还 挺 可 靠 的 。我 相 信 要 是 我 俩 齐 心 协 力 ，一 定 可 以 成 功 的 ！到 时 候 我 们 都 可 以 问 问 梅 沃 德 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>“我 说 我 ‘相 信 ’，但 那 些 马 上 就 要 下 手 刺 杀 我 的 人 可 没 有 跟 我 说 太 多 ……”他 哼 了 哼 鼻 子 。
+
+“我 没 怎 么 注 意 他 们 。他 们 穿 着 长 袍 ，一 副 不 苟 言 笑 的 样 子 。那 这 就 是 我 买 刀 的 原 因 。这 种 事 情 是 你 唯 一 应 该 看 出 来 的 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>“你 好 像 对 此 非 常 冷 静 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>“我 不 想 掺 和 其 中 。我 有 自 己 的 路 要 走 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>“要 是 你 的 朋 友 中 混 了 入 几 个 刺 客 ，算 什 么 嘛 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>“我 会 留 意 的 。我 们 走 吧 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>“嗯 ，我 才 不 会 应 为 他 们 的 驱 赶 就 打 道 回 府 呢 ！要 是 之 前 他 们 就 已 经 使 出 了 浑 身 解 数 ，那 根 本 就 没 什 么 好 担 心 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>他 笑 了 起 来 。“很 高 兴 你 没 有 打 退 堂 鼓 。来 吧 。鬼 知 道 我 们 能 在 里 面 找 到 什 么 呢 ！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>“我 也 是 ！迪 尔 伍 德 是 个 激 动 人 心 的 地 方 ……但 有 时 也 有 些 奇 怪 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>“太 好 了 ！我 可 不 喜 欢 一 直 坐 在 一 个 地 方 不 动 。我 们 去 找 找 看 吧 ！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>就 在 通 往 凯 德 ·努 阿 的 路 旁 ，站 着 一 个 高 大 的 人 影 ：是 个 奥 玛 人 ，他 身 材 高 大 ，胡 须 浓 密 ，穿 着 饱 经 风 霜 的 战 甲 ，双 眼 直 直 地 盯 着 城 堡 的 外 墙 。他 的 手 里 拿 着 一 支 炭 笔 ，正 一 刻 不 停 地 在 一 张 小 纸 片 上 作 着 笔 记 。当 他 抬 头 仰 望 时 ，好 几 次 都 要 伸 手 盖 住 头 上 那 顶 漂 亮 的 帽 子 ，不 让 它 掉 下 来 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>“那 栋 老 旧 的 砖 楼 一 定 可 迷 人 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[离 开 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>“我 想 要 找 这 地 方 的 主 人 ——一 个 叫 梅 沃 德 的 男 人 。但 我 听 说 已 经 太 迟 了 ……”
+
+“要 是 能 和 他 的 继 承 者 说 句 话 ，我 也 是 很 高 兴 的 。你 是 他 的 继 承 者 吗 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>“梅 沃 德 死 了 ，这 是 真 的 。你 找 他 做 什 么 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>“我 是 凯 德 ·努 阿 的 新 领 主 。我 能 帮 你 吗 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>“看 来 我 有 一 栋 要 塞 了 ，对 我 好 处 颇 多 呢 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>“没 错 ！好 吧 ，可 能 不 是 墙 本 身 。这 里 采 用 的 是 非 常 传 统 的 建 筑 方 法 。”
+
+“那 儿 有 些 砖 头 上 刻 了 名 字 。我 猜 都 是 些 工 人 和 石 匠 。想 着 能 名 垂 千 古 吧 。”他 有 抬 头 看 着 高 墙 ，露 出 赞 赏 的 神 情 。“这 城 堡 真 不 错 ，凯 德 ·努 阿 。闻 名 于 世 了 两 百 年 ……又 给 遗 弃 了 两 百 年 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>“啊 ，可 惜 。”他 停 了 停 。“我 还 希 望 他 能 给 我 点 消 息 呢 。我 在 找 一 份 珍 贵 的 宝 藏 。不 是 金 子 也 不 是 银 子 ，而 是 Tanvii ora Toha。你 也 可 以 称 之 为 ‘美 德 之 书 。’”
+
+“这 是 拉 瓦 台 的 一 本 圣 书 ——但 我 们 只 有 它 的 一 小 部 分 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>“啊 ，可 惜 。”他 停 了 停 。“我 来 看 看 他 知 不 知 道 我 在 寻 找 的 东 西 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>“那 就 祝 贺 你 了 。不 是 每 天 都 有 人 继 承 一 座 城 堡 的 。”他 停 了 停 。
+
+“我 来 看 看 他 知 不 知 道 我 在 寻 找 的 东 西 。我 在 找 一 份 珍 贵 的 宝 藏 。不 是 金 子 也 不 是 银 子 ，而 是 Tanvii ora Toha。你 也 可 以 称 之 为 ‘美 德 之 书 。’”
+
+“这 是 拉 瓦 台 的 一 本 圣 书 ——但 我 们 只 有 它 的 一 小 部 分 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>“那 就 祝 贺 你 了 。不 是 每 天 都 有 人 继 承 一 座 城 堡 的 。”他 停 了 停 。
+
+“我 来 看 看 梅 沃 德 知 不 知 道 我 在 寻 找 的 东 西 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>卡 纳 正 低 声 哼 着 欢 快 的 小 调 。他 的 脸 上 满 是 炭 笔 沾 上 的 污 点 。你 朝 他 走 去 ，他 也 转 身 面 向 你 ，脸 上 又 露 出 了 愉 快 又 让 人 忧 虑 的 笑 容 。
+
+“嗨 ，又 见 面 了 ！我 希 望 你 在 凯 德 ·努 阿 受 到 了 热 情 款 待 。我 已 经 将 名 册 上 绝 大 多 数 名 字 编 目 分 类 了 ——但 还 有 一 些 没 有 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>“和 我 一 同 旅 行 吧 ，也 许 我 们 能 找 到 它 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>“嗯 ，我 才 不 会 应 为 他 们 的 驱 赶 就 打 道 回 府 呢 ！要 是 之 前 他 们 就 已 经 使 出 了 浑 身 解 数 ，那 根 本 就 没 什 么 好 担 心 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>他 笑 了 起 来 。“很 高 兴 你 没 有 打 退 堂 鼓 。来 吧 。鬼 知 道 我 们 能 在 里 面 找 到 什 么 呢 ！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>“也 许 我 们 该 互 相 帮 助 。这 地 方 栖 息 着 各 种 各 样 的 野 兽 。我 从 没 见 过 这 样 的 东 西 。我 不 想 独 自 冒 险 ——不 过 你 看 起 来 还 挺 可 靠 的 。我 相 信 要 是 我 俩 齐 心 协 力 ，一 定 可 以 成 功 的 ！到 时 候 我 们 都 可 以 问 问 梅 沃 德 了 。”</DefaultText>
+      <FemaleText>"Maybe we can help one another. The grounds are infested with all manner of beasts. I have never seen the like. I didn't want to risk it alone, but a son and daughter of Rauatai, together - I'm sure we can manage it! And then we can both ask our questions of Maerwald." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>“嗯 ，也 许 我 们 该 互 相 帮 助 。这 地 方 栖 息 着 各 种 各 样 的 野 兽 。我 从 没 见 过 这 样 的 东 西 。我 不 想 独 自 冒 险 ——不 过 你 看 起 来 还 挺 可 靠 的 。我 相 信 要 是 我 俩 齐 心 协 力 ，一 定 可 以 成 功 的 ！到 时 候 我 们 都 可 以 问 问 梅 沃 德 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>“我 也 是 ！迪 尔 伍 德 是 个 激 动 人 心 的 地 方 ……但 有 时 也 有 些 奇 怪 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>那 人 打 量 着 你 ，露 出 惊 异 之 色 。他 咧 开 嘴 ，露 齿 一 笑 ，然 后 挥 了 挥 羊 皮 纸 以 示 问 候 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>那 人 打 量 着 你 ，露 出 惊 异 之 色 。他 咧 开 嘴 ，露 齿 一 笑 ，然 后 挥 了 挥 羊 皮 纸 以 示 问 候 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>那 人 打 量 着 你 ，露 出 惊 异 之 色 。他 咧 开 嘴 ，露 齿 一 笑 ，然 后 挥 了 挥 羊 皮 纸 以 示 问 候 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>那 人 打 量 着 你 ，露 出 惊 异 之 色 。他 咧 开 嘴 ，露 齿 一 笑 ，然 后 挥 了 挥 羊 皮 纸 以 示 问 候 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Trigger Conv Node 80</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

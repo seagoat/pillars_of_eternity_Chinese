@@ -1,0 +1,57 @@
+<StringTableFile>
+  <Name>conversations\07_gilded_vale\07_cv_black_hound</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>猎犬专注地盯着被遮住的窗户，头笔直翘起，似乎期待听到什么特别的声音。当你接近的时候，它呜咽着抬起头，尾巴轻轻地摇着。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“抱歉，姑娘。不要指望他回来了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“一条好狗可以为我所用。给你，姑娘。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[留下这条狗.] </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>猎犬继续监视着窗户。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“好吧，你可以跟着我。也许路上我们能找到他。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>这只狗又轻轻地摇着头呜咽起来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>狗的耳朵立了起来。它乐颠颠的绕着你小跑并快乐的叫着。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[爱抚狗。] </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>狗的尾巴开心的敲打着地板。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

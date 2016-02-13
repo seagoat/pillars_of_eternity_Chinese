@@ -1,0 +1,102 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\04_defiance_bay_brackenbury\04_qst_elder_archives</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>18</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>潘 德 格 拉 姆 定 理 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>前 往 科 博 萊 茵 的 揭 秘 堂 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>找 到 先 祖 卷 宗 室 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>使 用 潘 德 格 拉 姆 定 理 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>為 格 裡 姆 達 取 回 的 名 冊 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>返 回 布 拉 肯 伯 裡 療 養 院 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>內 戴 恩 ，一 個 靈 魂 研 究 人 ，我 曾 在 布 拉 肯 伯 裡 療 養 院 前 見 過 他 ，他 告 訴 我 說 ，老 年 人 的 卷 宗 和 稀 有 的 手 稿 他 們 都 有 ，還 包 括 一 個 叫 潘 德 格 拉 姆 的 靈 魂 研 究 員 。
+
+她 需 要 用 潘 德 格 拉 姆 定 理 繼 續 她 的 研 究 ，但 檔 案 保 管 員 不 給 她 這 個 許 可 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>老 年 人 的 卷 宗 就 藏 匿 在 科 博 萊 茵 的 揭 秘 堂 裡 ，我 發 現 老 年 人 的 卷 宗 在 那 裡 一 個 巨 大 的 藏 書 庫 裡 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>在 這 個 密 室 大 廳 裡 我 找 到 一 條 路 ，但 是 先 祖 卷 宗 在 很 多 被 鎖 住 大 門 的 後 面 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我 走 入 老 年 人 卷 宗 檔 案 室 ，內 戴 恩 所 要 的 手 稿 也 許 就 在 這 裡 的 某 個 地 方 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>格 裡 姆 達 要 我 找 回 被 偷 的 瓦 爾 畫 卷 。
+
+如 果 我 為 她 做 這 件 事 ，也 許 我 能 得 到 去 往 老 年 人 檔 案 室 的 通 行 證 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>在 老 年 人 檔 案 室 裡 我 找 到 了 潘 德 格 拉 姆 定 理 ，內 戴 恩 看 到 它 一 定 會 很 驚 喜 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>我 了 解 到 格 裡 姆 達 是 唯 一 一 個 有 權 准 許 進 入 檔 案 局 的 人 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>格 裡 姆 達 已 經 准 許 我 進 入 檔 案 局 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 為 內 戴 恩 得 到 了 潘 德 格 拉 姆 定 理 ，他 狂 喜 的 把 它 捏 在 手 心 裡 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我 為 內 戴 恩 得 到 了 潘 德 格 拉 姆 定 理 ，對 於 密 室 廣 場 上 的 殺 戮 她 不 是 很 高 興 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我 通 知 格 裡 姆 達 ，內 戴 恩 對 潘 德 格 拉 姆 定 理 感 興 趣 ，為 此 格 裡 姆 達 很 感 謝 我 ，並 對 日 後 可 能 的 破 壞 做 了 保 護 措 施 ，她 因 為 我 的 正 直 獎 勵 了 我 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>內 戴 恩 被 殺 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

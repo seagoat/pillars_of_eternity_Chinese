@@ -1,0 +1,68 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\03_defiance_bay_ondra_gift\03_cv_bragan_thug</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>12</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“他 们 有 权 去 妓 院 泡 妹 ，我 就 有 权 站 在 这 里 。他 们 不 喜 欢 我 说 的 话 ，可 以 去 别 处 玩 啊 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>[把 你 在 德 林 找 到 的 匕 首 给 他 看 。]“这 是 你 的 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“算 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“你 两 天 前 在 这 里 杀 死 了 一 个 男 孩 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“你 他 妈 在 胡 说 些 什 么 ？即 使 我 真 的 杀 了 这 些 小 畜 生 ，也 不 会 让 你 发 现 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“那 是 我 的 ，是 啊 。那 些 摸 过 我 匕 首 的 人 都 死 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>[攻 击 ] “我 很 乐 意 你 来 一 试 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>“省 省 吧 。只 要 花 些 小 钱 ，你 就 会 收 起 你 的 匕 首 和 傲 气 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>“布 拉 甘 ，给 他 钱 。他 看 起 来 比 那 小 孩 难 搞 多 了 。”</DefaultText>
+			<FemaleText>&quot;Just pay her, Bragan. She looks a lot tougher than that kid.&quot;</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>“好 。“给 你 ，收 下 吧 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>“我 们 两 清 了 。去 死 吧 。”布 拉 甘 捡 起 匕 首 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>“快 离 开 。我 们 没 什 么 好 谈 的 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

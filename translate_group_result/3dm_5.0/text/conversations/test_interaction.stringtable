@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\test_interaction</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>&lt;temp&gt;你看到一个断桥。似乎可以跃过缝隙。你要怎样做？</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>&lt;temp&gt;尝试跃过。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>&lt;temp&gt;离开</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>&lt;temp&gt; &lt;Success&gt; 团队顺利跃过。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>&lt;temp&gt; &lt;Fail&gt; 缝隙比你想象的需要大。你要重新考虑这次跳跃尝试。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

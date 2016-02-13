@@ -1,0 +1,128 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\critical_path\act_2\cp_qst_heritage_hill</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>22</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>永恆的遺產</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>進入傳承山的高塔。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>前往傳承山高塔的頂部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>查明傳承山上的英格維斯機器是如何運轉的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>找到伊坎莎。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>解決英格維斯機器。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>找到高塔。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>侍僧讓我看到在反抗灣一個廢棄的地區有一座古老的高塔。有一個怪人在塔裡鼓搗某種機器。我還看到一個心上有傷疤的女人。我不知道她在哪兒，但我猜想她知道那裡發生事情的關鍵。
+
+暗灰之鑰對這塔感興趣是有原因的。如果我想找出他們的計劃就需要弄明白。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>我看到的高塔就在傳承山四周的圍牆後若隱若現。我希望在那裡能找到下一個難題。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>侍僧的窺測沒有告訴我該在這裡找到什麼。整個地區到處都是復活的屍體。殺出一條前往塔頂的路-以及路上等待著我的怪物-都不是什麼容易的事。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我在塔頂找到一個古老的機械。而且侍僧告訴我的，上面還有其他人。
+
+他或許能告訴我更多關於發生在這裡的事。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我得到傳承山去和伊坎莎談談。他好像知道關於塔的一些重要的事，那會成為我瞭解暗灰之鑰任務的關鍵。
+
+那可以說明侍僧問什麼擔心這個女人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10006</ID>
+			<DefaultText>既然我懂英格維斯語，我可以回到泰爾瑙內斯上面的機器那，想想辦法來解決傳承山的詛咒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10007</ID>
+			<DefaultText>暗灰之鑰侍僧告訴我有一個古老的塔坐落在一個墓地旁邊，墓地鄰近一片破敗的土地。
+
+尋找這些線索需要知道塔的位置。應該先問問周圍的人，或許那些很瞭解這城市的patrolling justiciars會知道。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>駐守傳承山大門的守衛說我需要在最初之火的薇拉的特殊許可我才能放行。
+
+當然，一大堆的錢或著使用些武力也會說服他讓我進去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>我殺了那個透過侍僧的視線在塔上看到的亡者。我想他當時是在想弄清楚怎麼操作英格維斯機械。他現在一直沒弄清楚，不過他或許知道些什麼，我也會因此得到些機會。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>奧爾德海姆是個被放逐的靈魂學者，他就在塔上，他保證，如果我得到了伊坎莎的允許以及他需要的支持，他就會幫我提高自己。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20005</ID>
+			<DefaultText>奧爾德海姆已經墮落了- 當我找他說話時他看起來好像要衝上來打我。如果我需要他的幫助，我得給他一個受害者。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20006</ID>
+			<DefaultText>我透過侍僧的視野看到了一個女子，但是她不怎麼想幫我。或許利用這個視野找到一個男人或許會讓我找到一個更好的辦法來搞定她。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我知道了戴爾森林裡的英格維斯機械可以用來移動靈魂。我還瞭解英格維斯語，所以我可以操作它們。我把泰爾瑙內斯上的機器關掉，那樣傳承山的靈魂就可以回到循環狀態。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我知道了戴爾森林裡的英格維斯機械可以用來移動靈魂。我還瞭解英格維斯語，所以我可以操作它們。為了避免機械被別人使用，我用那些被困在傳承山的靈魂毀滅了機械。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我知道了戴爾森林裡的英格維斯機械可以用來移動靈魂。我還瞭解英格維斯語，所以我可以操作它們。我用這機械吸收了傳承山裡那些靈魂的力量。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

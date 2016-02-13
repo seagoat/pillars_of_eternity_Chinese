@@ -1,0 +1,20 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\11_hearthsong\11_cv_rinatto_huntress</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>2</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“我们的传统是不和外来者多嘴。”女猎手转过身去，但脸仍朝着你。她的唇边浮现出了一丝笑意。“我想你一定能理解。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>还没等你回答，她就迈着自信的步伐大踏步离开了。
+
+躺在血泊中的里纳托肥胖的身体痉挛着，吐出了最后一口气。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

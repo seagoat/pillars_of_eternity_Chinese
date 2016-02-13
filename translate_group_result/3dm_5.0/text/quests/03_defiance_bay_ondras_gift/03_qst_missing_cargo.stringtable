@@ -1,0 +1,97 @@
+<StringTableFile>
+  <Name>quests\03_defiance_bay_ondras_gift\03_qst_missing_cargo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>全员就位</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>找到马赛诺遗失的箱子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>回到马赛诺处。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>打败沃德和他的同伙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>在探索盎卓之礼时，我发现一艘停靠在码头边的船上，有一个水手储物箱被窃了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>马赛诺是一位年轻的水手，他告诉我他一个不留神，弗塔内卢船长的储物箱就被偷了。好在马赛诺的船长此刻正在岸上潇洒，对此事尚未察觉。马赛诺恳请我在船长回来之前找到箱子。窃贼不可能已经将箱子运出了盎卓之礼，我应该在附近找找。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10028</ID>
+      <DefaultText>我找到了马赛诺船上失窃的箱子。得知我找到箱子并解决了窃贼，他高兴极了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10032</ID>
+      <DefaultText>从马赛诺的看护下偷去箱子的窃贼们并不打算乖乖交出箱子再束手就擒呢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我好像找到了窃贼。要追回箱子，就必须解决他们。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>我打开箱子，发现弗塔内卢船长在其中收藏了一顶船长帽和一柄长剑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>窃贼们死了，我可以去拿箱子了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>得知了我将箱子完璧归赵，马赛诺高兴极了。我确信他今后一定会对它多加看护了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我把失窃的储物箱交还给了马赛诺，他万分感激。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>我把箱子还给了马赛诺，但是把里面的帽子和长剑收入了自己囊中。他的船长发现了恐怕会大发雷霆吧。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>我解决了那些偷了弗塔内卢储物箱的窃贼们，并告诉了马赛诺箱子的所在地。他万分感激。看来他没有后顾之忧了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>马赛诺死了，就算我找到了箱子，他也不能给我奖赏了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30010</ID>
+      <DefaultText>我告诉马赛诺说我拿走了船长的帽子和长剑。他马上开溜了，唯恐船长找他算账，新帽子戴着真不错呀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30011</ID>
+      <DefaultText>任务关键人物已死亡。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

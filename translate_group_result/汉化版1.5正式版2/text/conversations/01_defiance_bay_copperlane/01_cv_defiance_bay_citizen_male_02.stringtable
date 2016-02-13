@@ -1,0 +1,28 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\01_defiance_bay_copperlane\01_cv_defiance_bay_citizen_male_02</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“嗯 。那 些 维 拉 人 似 乎 打 算 买 下 任 何 一 张 他 们 能 买 下 的 贸 易 契 约 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“这 些 天 ，有 很 多 乡 下 的 人 到 这 里 来 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“我 的 邻 居 说 他 听 见 了 歌 声 ，穿 过 高 墙 一 直 到 传 承 山 ……”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>“你 听 说 过 是 谁 用 匕 首 砍 下 那 个 小 孩 的 手 指 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

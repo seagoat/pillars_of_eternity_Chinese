@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\04_defiance_bay_brackenbury\04_cv_animancer_demonstration</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>11</EntryCount>
@@ -11,7 +10,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"This man's soul was torn asunder by a bîaŵac."</DefaultText>
+      <DefaultText>"This man's soul was torn asunder by a b&#238;a&#373;ac."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

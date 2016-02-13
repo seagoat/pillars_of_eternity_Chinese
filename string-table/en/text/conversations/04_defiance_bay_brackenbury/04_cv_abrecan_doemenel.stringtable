@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\04_defiance_bay_brackenbury\04_cv_abrecan_doemenel</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>171</EntryCount>
@@ -761,7 +760,7 @@ His crooked grin widens. "It's also the subject of a bidding war between the Kni
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>Edér whispers to you. "Maybe you should pay him a compliment to help patch things up."</DefaultText>
+      <DefaultText>Ed&#233;r whispers to you. "Maybe you should pay him a compliment to help patch things up."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

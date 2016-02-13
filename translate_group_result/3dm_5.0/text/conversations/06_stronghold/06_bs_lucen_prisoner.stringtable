@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\06_stronghold\06_bs_lucen_prisoner</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“求你了，主人…我很抱歉。放我走，以后我不会再说谎了！”</DefaultText>
+      <FemaleText>"Please, my lady... I'm sorry I did it. Let me go and I'll live an honest life!" </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“我没有伤害过任何人！求你了，放了我吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“不-不，别过来…”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“你…残忍的混蛋！我又怎么损害到你了？”</DefaultText>
+      <FemaleText>"You... she-wolf! What harm have I caused you?" </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“盎卓啊，快来制伏你，你真是疯了！”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

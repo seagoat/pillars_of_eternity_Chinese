@@ -1,0 +1,91 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\12_twin_elms_oldsong\12_qst_the_streamstilled</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>16</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>进 入 White Void</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>在 双 榆 城 找 到  Noonfrost。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>在  Noonfrost 中 找 到 Frost-Hewn Breach。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>封 印 Frost-Hewn Breach。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>返 回 到 双 榆 城 领 土 内 的 泰 尔 埃 弗 隆 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>返 回 到 双 榆 城 领 土 内 的 泰 尔 埃 弗 隆 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>里 姆 甘 德 向 我 展 示 了 传 送 门 的 幻 象 ——所 谓 的 Frost-Hewn Breach，而 苍 白 的 精 灵 正 在 试 图 打 开 它 。在 幻 象 中 ，精 灵 碎 成 了 雪 ，而 我 用 我 醒 着 的 时 候 就 拥 有 的 一 块 水 晶 将 传 送 门 封 了 起 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>Frost-Hewn Breach似 乎 是 Noonfrost神 殿 的 一 部 分 。如 果 我 能 在 双 榆 城 找 到 里 姆 甘 德 做 礼 拜 的 地 方 ，我 就 可 能 发 掘 出 幻 象 背 后 的 含 义 。
+
+当 地 人 一 定 知 道 关 于 这 个 地 方 的 事 情 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我 发 现 了  Noonfrost，古 老 乐 曲 区 中 里 姆 甘 德 的 神 殿 。Frost-Hewn Breach 一 定 就 在 这 儿 。当 我 找 到 它 时 ，根 据  里 姆 甘 德 的 愿 望 ，我 可 以 使 用 幻 象 里 的 碎 片 来 关 闭 它 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我 终 于 找 到 了 Frost-Hewn Breach。把 碎 片 放 在 冷 冻 传 送 门 的 门 口 以 关 闭 它 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我 已 经 完 成 了 里 姆 甘 德 给 我 的 任 务 。现 在 ，我 可 以 回 到 泰 尔 埃 弗 隆 让 他 施 放 祝 福 术 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>我 把 碎 片 给 了 格 拉 斯 瓦 尔 ，使 他 能 够 进 入 White Void。碎 片 消 失 了 ，而  Frost-Hewn Breach仍 处 于 打 开 状 态 ，现 在 除 了 回 到 里 姆 甘 德 之 外 也 没 有 什 么 选 择 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>Noonfrost 位 于  古 老 乐 曲 区 。很 显 然 ，它 冻 结 了 那 里 的 湖 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 关 上 了 Noonfrost的 Frost-Hewn Breach以 防 Glaswal 和 他 的 族 群 通 过 它 。里 姆 甘 德 、Ondra和  斯 卡 恩 感 到 十 分 开 心 ，答 应 帮 助 我 进 入 the pit to 暗 影 之 阳 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我 允 许 了 Glaswal 和 他 的 族 群 通 过 Frost-Hewn Breach，并 且 说 服 了 里 姆 甘 德 ，让 他 相 信 这 会 给 他 荣 耀 。里 姆 甘 德 、Ondra和  斯 卡 恩 发 誓 要 帮 助 我 进 入 the pit to 暗 影 之 阳 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>Glaswal 和 他 的 族 群 通 过 了 Frost-Hewn Breach。里 姆 甘 德  感 到 不 悦 并 拒 绝 帮 助 我  - 我 不 得 不 寻 求 另 一 个 神 的 帮 助 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
+

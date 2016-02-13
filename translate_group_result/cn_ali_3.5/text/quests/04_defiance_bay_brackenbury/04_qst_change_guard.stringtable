@@ -1,0 +1,82 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\04_defiance_bay_brackenbury\04_qst_change_guard</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>14</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>守卫的变动</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>在第一次交火中暗杀艾德里德-温菲尔德。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>回去找德梅尼尔。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>炼狱骑士团的马歇尔·温菲尔德，曾在迪法恩基斯港发动个人改革运动，破坏并摧毁了德梅尼尔的商业活动，盖德马尔想要他死，并想他因太多杀戮而受惩罚。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>盖德马尔想要温菲尔德元帅在最后一次反对房子德梅尼尔集会之前死去。加德尔曼暗示我将独自在小教堂找到最终目标。
+
+德梅尼尔大人想把暗杀的责任推给卫邦十二人团。他给了我一个地图，是关于卫邦十二人团在教堂里通往祭坛的路线。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>温菲尔德被除掉了，德梅尼尔大人听到我成功的消息，他也同样要我在教堂的祭坛上栽种大量的有纪念意义的东西。
+
+换句话说，爱波里肯告诉我不要留下任何和卫邦十二人团暗杀有关系的线索。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>爱波里肯走近我，跟我说不要责怪卫邦十二人团的抨击。他认为他的父亲已经非常谨慎，他想回到整个城市一听到德梅尼尔这个名字就恐惧的日子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>我按盖德马尔·德梅尼尔所说的把圆环放到祭坛上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>加德尔曼对我杀了艾德里德却没惊动任何人感到震惊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我杀了艾德里德，但有些损害，加德尔曼对此不满。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我提醒艾德里德，加德尔曼德梅尼尔有刺杀行动。他奖赏了我。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我杀了温菲尔德，把证据指向卫邦十二人团，此举将增加卫邦十二人团与炼狱骑士之间的冲突，而这一切正是加德尔曼德梅尼尔想要的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText>我杀了温菲尔德，没留下指向卫邦十二人团的证据，炼狱骑士有可能会怀疑是家庭谋杀，这将加深宗族的罪恶，而这正是Abreca想要的结果。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30005</ID>
+			<DefaultText>我杀了德梅尼尔大人，成为了德梅尼尔家族残余势力的死敌。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

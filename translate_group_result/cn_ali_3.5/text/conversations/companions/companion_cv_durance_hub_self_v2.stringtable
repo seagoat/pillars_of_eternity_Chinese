@@ -1,0 +1,604 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\companions\companion_cv_durance_hub_self_v2</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>106</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>他嘀嘀咕咕的说到。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>“告诉我更多有关艾什法的事情。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>Trigger Conv Node 16</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>“杜兰斯，这是个奇怪的名字。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>“比起‘通魂者’来说好多了。杜兰斯不是个名字，是一个头衔。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>“那么这个头衔的意义是什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>“你说过杜兰斯是一个头衔而不是一个名字。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>“我说过吗？确实我说过。”他嘲笑着。“你的记性真是敏锐——你是不是很想听我这么恭维？
+
+“它确实是一个头衔。名字是无用的，行为和集中……那些才是值得荣耀的。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>“那么这个头衔的意义是什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>杜兰斯抽动了一下鼻子。“‘通魂者’有意味着什么？杜兰斯对玛格岚来说是神圣的东西……她的一段记忆，或许一段教义。”他轻敲这他的法杖，似乎想了某些事情，然后耸耸肩。
+
+“我们就别浪费时间来说这个了。我们并没有分享很长时间的道路和圣火，而有关杜兰斯的教义……好吧，杜兰斯并不是很流行的信仰。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>“你穿得不像祭司……而且你的袍子像是被火烧过。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>“这些布袍就是你在哈尔格特穿过的？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>“你能给我说说你的那根法杖吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>“我问你些别的吧。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>“就这些了。再见。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>“我对你还有些疑问。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>Trigger Conv Node 30</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>“看得出来这就是为什么你是通魂者。”他的鼻子喷出轻蔑的气息。“一个通魂者通常会问两种‘为什么’。对我来说，更重要的是‘什么’。
+
+“我一度根本不愿花时间思考你说的话，甚至懒得想起你这个人……但现在找出通魂者是我的任务，找出他们的真相以及他们所要选择的两条道路。”他嘲讽地笑了笑。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>“真相？什么真相？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>“你要么象收割后满是麦茬的旱田，需要被火焰焚烧...”他眉头紧皱，眼睛直勾勾的。“…要么是在黑暗中迷失了方向。无论哪种情况，你看起来都会和他人不同。”他挤出一丝笑容，用谴责性的语气开口了。“我从一开始你看我法杖的样子就分辨出来了。
+
+“没几个人会首先注意到它，看它上面的蚀刻或者火焰，但你的眼...”他注视着你，几乎是急切地点了点头。“...你的眼睛细细地打量了它。我注意到了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>“你是哪一种呢？是旱田呢还是迷失在了黑暗中？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>杜兰斯绷紧了脸。“等到什么时候我们不用就这个问题问来问去时，就是我们的生活轨迹不再有连系的时候了，而这个对你身份的鉴别...”杜兰斯抓紧了法杖。“...鉴别已经完成。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>“这么说你不知道属于哪一种了？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>“你要知道这个国家已经不正常了。不需要一个通魂者从孩子的灵魂中看出来，政局，路上带着刀趾高气扬满眼杀气的男人，都能说明这一点。
+
+“这块土地需要新生命，新的种子埋进焚烧过的大地。”他的声音低沉下来，带着嘲弄的意味，眼睛眯成了一条缝。“有人告诉我说你们能看到实现这些美好未来的方法，通魂者。你们这类人总是万能的。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>“那么...我们现在要确定一下你们说的是不是真话了。这个国家，以及它的人民，不需要更多的谎言了，我也是如此。真相是需要证明的，而不是一味的接受。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>“你打算怎么测试我呢？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>“当然是齐步走...如果你真能读心，就能和另一个人，或者任一个人同步行走，保持同样的节奏。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>“其它的牧师也许会咆哮出大堆的说教...但我的信仰，我的说教...齐步走就是个简单明了的真相。”他笑得更开了，双手轻拍腰部，一下，两下。“如果你迈步迈对了，将会走得很稳。”
+
+“但，如果你迈错了的话...”他的笑容消失了，眼睛眯起。“...那么，你就会象个跛子一样单腿立着。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>“那就是你为什么拄根法杖的原因？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>“那是为什么我...”杜兰斯正要再次滔滔不绝时，忽然停了下来，眨眨眼，接着仰面大笑起来，一直笑得似乎都快喘不过气来，简直象失去了...控制。
+
+“也许你的话值得一听，。”他皱了皱眉，一点轻松的样子也没有。“但真相能证明一切。齐步走吧，让我们看看。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>“你会发现我不是一个骗子。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>“这是条新路。跟你的话一样不成熟。
+
+“真相能证明一切。齐步走吧，让我们看看。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>“那么，你是在审讯我吗。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>“省省你的判决吧，我们谁都不需要它。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>“你的灵魂需要这个判决。如果你在这个国家东奔西走，散布谎言...只会火上浇油。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>“那两种情况是什么意思？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>“杜兰斯？”杜兰斯扫了你一眼，似乎想耸耸肩，但又停了一来，又扫了你一眼，皱了皱眉。“嗯。我们共同度过了这么多难关，已经有足够的了解知道你是一个能忍辱负重的人。
+
+“每一位神灵的信徒都有他们专有的磨难，无论他们是否意识到了。杜兰斯皱紧了眉头。“我知道。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>“这些磨难不是指想要做的事，而是指摆脱不了的折磨。每个人对教义、圣诗和仪式都会有不同的感触，不论承认与否，那些触及你灵魂的部分终会熊熊燃烧，最终成为你的信仰。你的生活方式。你的路。
+
+“崇敬者从神那里获得他们想要的信念，然后理解它...杜兰斯也是如此。在他成为信仰之前，只是个凡人。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>“杜兰斯是一个圣人吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>“我对杜兰斯的教导不怎么熟悉。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>“我想我了解玛格岚的所有教义，但这个对我来说前所未闻。这些教导是什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>“杜兰斯，一个圣人？”杜兰斯笑了。“不，他为谋生而工作。”
+
+他的笑声慢慢停下了，然后扫视了一下你。“老兵的笑话...但也还适用于圣人。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>“不，他的教导没有什么神圣的。他的门徒做了很多工作，就象士兵在战场上奋战。”杜兰斯嘲讽地笑了。“他的教导就是...&apos;朴直&apos;...它的内容是一些磨炼和课程，编排在一起用来验证信念。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>“这些教导究竟是什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>杜兰斯的眉头皱紧了，轻敲着手里的法杖。“没有经文，没有诗歌或者绕口令来解释它。它的信徒经常不为人接受，所以他们跋涉在路上...一种肉体的奉献。”杜兰斯嘟哝着。“修辞手法能害死人的，本应简单明了阐述真理的言辞，可能因此而变得有歧义。
+
+“在杜兰斯之前，我用很多妙语来宣扬信仰，还鼓励他人这样做。效果更糟了。没有说服力。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>杜兰斯的脸阴郁起来。“这种奉献从刚入教就开始了，玛格岚并不简单地接受新入者。
+
+“她通常不为自称忠诚者所动，而是要求他们四处游历来证明他们的献身精神。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>“这些磨练基于各种测验和评价，然后方可获得神的...恩典。但对于新入者来说，问题的关键是发现他们胸中的激情，而那种激情...”
+
+杜兰斯皱紧了眉头。“那种激情在他们第一次敲玛格岚的门寻求接受时是少有出现的...乞求不可能使一个人改观。不过这样说的话，是会令那些新入者不快的。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>“为什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>“这道理不是靠简单一句话两句话能说清的。”杜兰斯的眼眯紧了眼，似乎在注视远方。“但杜兰斯的教导也会将已确认的教士置于这种境地，通常是在某位教士有必要回顾一下这种奉献的时候。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>“对那些享受惯了的人来说，这些磨难是...根本承受不了的。他皱了皱眉，眼里露出不快的神色。“他们视杜兰斯的这些磨炼为...加深信念所不必要的。甚至认为是‘引起麻烦的。’他们坚持认为有别的途径传播玛格岚的圣火，而没必要留下杜兰斯教导的标记。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>“留下标记是什么意思？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>“当门徒们在游历时，他们经受的杜兰斯的磨炼- 和分派的任务- 也是评判的一部分。
+
+“所有可能的皈依者...甚至&apos;信徒&apos;...都要经受测试，如果他们失败了，那就算了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>“如果他们承受过来了，他们就因此而被改造得更强，就象玛格岚所期望的那样。
+
+“在我接受杜兰斯的教导之前，我没有测试过自己。也没有测试过别人。我充满了软弱和不公正，原因是我放任自己那样。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>莎加妮正在忙着磨利一只骨制箭头，要不是她抬眼看了看并摇摇头，没人知道她在听。
+
+“关于一件事我始终无法理解你们这些北方人们。你们生活在安全，物产丰富的土地上。但你们却给彼此设定一堆玩意儿来证明什么价值。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>莎加妮吹去箭头上的骨粉。“我永远无法理解。”我们在马苏克就从来不会互相要求对方达成什么。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>“所以这些杜兰斯的磨炼- 他的教导实际上取代了沃迪卡的角色。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>“为什么教士们要听任你施行这些？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>杜兰斯皱紧了眉头。“审判不被看作是我们的责任。审判是沃迪卡的事。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>杜兰斯嘟哝着。“关于它的辩论变得白热化了。众神不得不在争辩中控制自己的情绪。就象我说的，一种...不受欢迎的观念。”杜兰斯轻声笑起来，却没有一点欢乐的意思。“权力会象火一样失控，必须限制。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>“...杜兰斯还提醒我们沃迪卡曾被玛格岚处以火刑过，而且理由正当。如果正义女神还有必要被玛格岚用火刑的方式提醒她的本分...那么，所玛格岚的教士也可以用同样的方式提醒他人。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>“所以你要...惩罚其他人。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>141</ID>
+			<DefaultText>杜兰斯笑了。“我的工作还未完成，通魂者，你的也同样。我们还有很多路要走...你还没完成磨炼就打算放弃吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>147</ID>
+			<DefaultText>“离开吧，乘你现在还活着。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>149</ID>
+			<DefaultText>“留着这些...‘宝物。’我不需要它们，我扔掉它们就象忘掉你一样。”他哼了一声。“就让你的朴素思想成为你的重担吧。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>151</ID>
+			<DefaultText>杜兰斯嘟哝着。“你跟我见过的其它通魂者都不一样。是那样使你不同吗？他皱皱眉，抬起一只手示意。“不用回答。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>153</ID>
+			<DefaultText>“这些布袍...你也受过火刑吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>160</ID>
+			<DefaultText>杜兰斯沉默了片刻，研究着你。
+
+“有很多方式能给玛格岚带来荣耀。我的布袍...”他低头看看，然后撩起磨损的下摆。“...这些布料可能不是什么圣物，但它们伴随我为神服务。它们同时也是一种纪念品。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>161</ID>
+			<DefaultText>杜兰斯耸耸肩。“除了裁缝，很少有人注意衣服，甚至旗子的颜色都要比穿的衣服的颜色要正。”
+
+“这些有焦痕的布袍比起那些花哨的衣服来说，更适合我，所以我就一直保留着。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>162</ID>
+			<DefaultText>杜兰斯皱紧了眉头。“为什么我...”他绷紧的脸迅速变得充满了愤怒。“你的记忆既是回忆也是痛苦。
+
+“在我们去哈尔格特城堡的朝圣之旅中我穿的就是这个- 我还会穿下去的。”他扫了它们一眼。“我们的旅途必须保持低调，要保证没人知道我们的宗教信仰。或者意图。就象行刑者那样，要穿挡住全身的长袍而不是简单的套头衫。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>163</ID>
+			<DefaultText>“它们怎么会被烧到呢？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>164</ID>
+			<DefaultText>“这些布袍就是我在城堡穿的，当圣锤被点燃的时候。”
+
+“想象一堆营火- 然后迅速扩大。他的手握住了法杖。“很快形成一个大火球，膨大起来胀满了天地之间。”他咽了口唾沫，仿佛喉咙很干似的。“它那象一百道闪电一样的强力穿过我的身体和灵魂，包围着我的...是一片火海。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>165</ID>
+			<DefaultText>“火焰噬咬着我，有些地方皮肤都烧焦了。”他抬起袖子。“但是布袍没有完全烧坏。”
+
+他咧嘴笑了，脸上的疤痕在粗乱的胡须下面皱成一团。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>166</ID>
+			<DefaultText>“从那之后你就一直穿着吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>167</ID>
+			<DefaultText>“如果玛格岚认为我应该穿这些布袍执行她的正义，那就这样吧。我们因她而存在...也为她而存在。”杜兰斯耸耸肩。
+
+“她用两种方式回应我的召唤，安静的或者响亮的，相对于花哨的衣服来说，她更喜欢以她的名义做的那些正义之事。”
+
+“我更喜欢安静的。我发现我的...同道...要不是我用胸中的火焰使法杖闪耀，似乎不愿看我第二眼...”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>168</ID>
+			<DefaultText>亚洛斯噘起了嘴。“我希望他洗过那些衣服。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>169</ID>
+			<DefaultText>Trigger Conv Node 169</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>171</ID>
+			<DefaultText>“改造他们。如果他们不行，那就算了。他们的肉体和灵魂受到的打击越多，他们获得救赎的希望越大。这是一种能使他们强大的奋斗。
+
+“在你让一个唠唠叨叨的傻瓜见血之前总是要费不少口舌的...无论这些傻瓜是信还是不信玛格岚。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>172</ID>
+			<DefaultText>“所以虔诚的磨炼被制止了？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>173</ID>
+			<DefaultText>“通过的人不多。”杜兰斯咆哮着说。“我是最后一个，由于为了防止歪曲杜兰斯的教导，没有口头或者书面的记录，所以它的存续就成了问题...但这本身就是一种考验。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>174</ID>
+			<DefaultText>“圣战曾一度给了杜兰斯教导重新流行的机会。一个圣人对另一个圣人，残酷对残酷？”杜兰斯耸耸肩。“我们中最狂热的...参加了与伊欧萨斯...里德赛拉斯...要打击异教徒的信仰需要费大力气，我很怀疑玛格岚那些高级教士们是否能做同样的事。”
+
+“随之而来教导被消弱了，灭亡了...就象大多数光辉事业那样。”杜兰斯凝视着他的法杖。“但他们还是留下了印迹。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>175</ID>
+			<DefaultText>“神和信仰能驱使人做出常人看来不可思议的壮举。”杜兰斯舔舔嘴唇，似乎觉得有点干，一层汗珠出现在他的眉毛上，闪闪发光。
+
+“杜兰斯也承认过，他并不渴望那些任务。但也绝不回避它。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>177</ID>
+			<DefaultText>“你遵循这些教导吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>178</ID>
+			<DefaultText>“所有的生命都该是，无论信仰玛格岚与否。
+
+“圣战只是使它成为必须，虽然看起来令人反感...是的，所有与伊欧萨斯相关的、每一个将我们的弱点暴露给敌人的弱者...都应该为那些倒下的士兵和玛格岚的教士负责。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>179</ID>
+			<DefaultText>“我惩罚那些人，是的。男人，女人，孩子，我不吝惜使用法杖或其它工具来研究他们和强化他们。清洗不能仅仅包括伊欧萨斯的人，还应该包括懦弱者。就象旱田下次播种前需要焚烧。
+
+“一个邪神祭坛的牺牲品。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>180</ID>
+			<DefaultText>“当有她的光明照亮前途时，谁还需要指示呢？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>190</ID>
+			<DefaultText>“没有一个牧师情愿失去舒适的生活，无论是美味的食物，舒适的床，还是给他吹箫的妓女。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>191</ID>
+			<DefaultText>Trigger Conv Node 191</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>193</ID>
+			<DefaultText>Trigger Conv Node 193</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>195</ID>
+			<DefaultText>Trigger Conv Node 195</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>196</ID>
+			<DefaultText>Trigger Conv Node 196</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>197</ID>
+			<DefaultText>Trigger Conv Node 197</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>201</ID>
+			<DefaultText>“你从哪里来？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>202</ID>
+			<DefaultText>“我来自何方？”杜兰斯叹了口气，他的手握了握法杖。“来自玛格岚的一处圣火...一个大教堂，艾什法，它由熏黑的木头建造而成。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>203</ID>
+			<DefaultText>“我在那里学习经文，到处刻有火焰的标记，地上、烧过的树干上以及那些工厂里，这些工厂加工步枪和弹药筒。都是些小教堂，以其它的形式奉献着。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>204</ID>
+			<DefaultText>“其它形式的奉献？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>205</ID>
+			<DefaultText>杜兰斯点点头。“对玛格岚来说，任何火光都值得崇拜，物理的或者其它。铁匠们的铁砧上、工匠们的工作台上，竞技场中那些等待点燃的火...
+
+杜兰斯打了个响指。“只需一颗火花。就象炼金术的火花...或者弹药筒里的一颗火花，来使他们加速达到目标。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>206</ID>
+			<DefaultText>“他们的目的？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>207</ID>
+			<DefaultText>杜兰斯侧过头，思考着。“是，他们那时的目标。那是很久前的事了。”杜兰斯挠了挠胡须。“那时的胡须比现在有光泽。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>208</ID>
+			<DefaultText>“是的，弹药筒、枪都有它们的用途，那就是在法师身上开些洞，给他们的自我膨胀放点气。”
+
+杜兰斯微微一笑，点了点头。“让你们这些人醒过来躺到棺材里去，而不是天天生活在梦里，这是肯定的。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>209</ID>
+			<DefaultText>亚洛斯转转眼珠。“自大浮夸，没错。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>210</ID>
+			<DefaultText>“一点小小的暴力，作为对不加控制的法力的回应或者说清算，嗯...玛格岚对那些法力的回应。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>211</ID>
+			<DefaultText>“玛格岚对士兵和法师一视同仁？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>212</ID>
+			<DefaultText>杜兰斯又点了点头。“那个时候的作为一名法师是很痛苦的...火器使每个人都变成了法师，而奥术护盾对此几乎没有防御力。
+
+“火器使普通人都变成了能喷火的野兽。它使战场上的力量对比平衡了，可以肯定的是，有很多法师因此进了坟墓。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>213</ID>
+			<DefaultText>“是的，弹药筒、枪都有它们的用途，那就是在法师身上开些洞，给他们的自我膨胀放点气。”
+
+杜兰斯微微一笑，点了点头。“让他们那些人醒过来躺到棺材里去，而不是天天生活在梦里，这是肯定的。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>214</ID>
+			<DefaultText>“非常好。我会继续忍受你的存在。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>215</ID>
+			<DefaultText>“下次别避开挑战，通魂者。“看看当面对哪怕是玛格岚最轻的考验时，是你叫的厉害，还是我。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

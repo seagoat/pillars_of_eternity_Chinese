@@ -1,0 +1,223 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\prototype_2\p2_si_shrine</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>43</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>Y你 站 在 神 龕 的 廢 墟 中 。你 面 前 是 苔 蘚 覆 蓋 的 古 代 雕 像 的 殘 骸 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>[檢 查 雕 像 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>[離 開 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>O雕 像 只 剩 下 斷 腿 了 。旁 邊 的 凹 槽 表 明 ，它 可 以 移 動 。 在 雕 像 基 座 附 近 ，你 發 現 了 石 頭 裡 雕 刻 著 一 個 頭 骨 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>[檢 查 頭 骨 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>A幾 次 嘗 試 後 ，你 意 識 到 自 己 對 這 把 生 銹 的 鎖 無 能 為 力 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>[推 動 雕 像 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>A骷 髏 雕 刻 在 石 頭 上 的 樣 子 很 奇 特 ，嘴 巴 大 張 著 。仔 細 觀 察 後 ，你 發 現 下 顎 中 央 有 個 鑰 匙 孔 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>[用 骷 髏 把 手 的 鑰 匙 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>[撬 鎖 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>[SkillCheck 0] 插 入 幾 個 撬 鎖 工 具 ，鎖 裡 傳 來 一 系 列 生 銹 的 滴 答 聲 。突 然 ，雕 像 殘 骸 開 始 移 動 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>A幾 次 嘗 試 後 ，你 意 識 到 自 己 和 同 伴 對 這 把 生 銹 的 鎖 無 能 為 力 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>T底 座 移 動 後 出 現 了 一 條 通 向 地 下 的 黑 暗 通 道 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>T鑰 匙 一 下 子 就 插 入 孔 中 。你 轉 動 鑰 匙 ，雕 像 開 始 移 動 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>T底 座 似 乎 是 幾 百 磅 重 的 石 頭 。你 考 慮 讓 誰 去 推 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>[叫  [Slot 0] 推 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>[叫  [Slot 1] 推 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>[叫  [Slot 2] 推 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>[叫  [Slot 3] 推 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>[叫  [Slot 4] 推 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>[叫  [Slot 5] 推 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>[Slot 0]倚 身 推 雕 像 。石 頭 發 出 隆 隆 巨 響 ，開 始 沿 著 凹 槽 移 動 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>[Slot 0]用 盡 全 身 力 氣 推 雕 像 。雕 像 一 動 不 動 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>[Slot 1]倚 身 推 雕 像 。石 頭 發 出 隆 隆 巨 響 ，開 始 沿 著 凹 槽 移 動 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>[Slot 1]用 盡 全 身 力 氣 推 雕 像 。雕 像 一 動 不 動 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>[Slot 2]倚 身 推 雕 像 。石 頭 發 出 隆 隆 巨 響 ，開 始 沿 著 凹 槽 移 動 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>[Slot 2]用 盡 全 身 力 氣 推 雕 像 。雕 像 一 動 不 動 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>[Slot 3]倚 身 推 雕 像 。石 頭 發 出 隆 隆 巨 響 ，開 始 沿 著 凹 槽 移 動 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>[Slot 3]用 盡 全 身 力 氣 推 雕 像 。雕 像 一 動 不 動 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>[Slot 4]倚 身 推 雕 像 。石 頭 發 出 隆 隆 巨 響 ，開 始 沿 著 凹 槽 移 動 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>[Slot 4]用 盡 全 身 力 氣 推 雕 像 。雕 像 一 動 不 動 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>[Slot 5]倚 身 推 雕 像 。石 頭 發 出 隆 隆 巨 響 ，開 始 沿 著 凹 槽 移 動 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>[Slot 5]用 盡 全 身 力 氣 推 雕 像 。雕 像 一 動 不 動 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>[不 推 雕 像 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>Y你 退 後 ，又 觀 察 了 一 下 雕 像 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>[用 錘 子 和 鑿 子 在 雕 像 旁 邊 鑿 個 洞 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>Y你 鑿 開 了 雕 像 底 座 。無 數 次 錘 擊 後 ，你 手 臂 發 麻 ，鑿 出 了 個 3個 手 指 寬 的 洞 。風 從 縫 隙 中 呼 嘯 著 吹 過 ，不 管 另 一 邊 是 什 麼 ，你 都 沒 法 挖 通 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>[用 撬 棍 撬 動 雕 像 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>Y你 把 撬 棍 插 入 剛 剛 鑿 出 的 孔 中 。你 用 全 身 重 量 壓 上 去 ，感 覺 到 雕 像 沿 著 凹 槽 移 動 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>[自 己 推 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>Y你 倚 身 推 雕 像 。石 頭 發 出 隆 隆 巨 響 ，開 始 沿 著 凹 槽 移 動 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>Y你 用 盡 全 身 力 氣 推 雕 像 。雕 像 一 動 不 動 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>Trigger Conv Node 55</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

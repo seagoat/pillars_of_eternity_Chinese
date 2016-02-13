@@ -1,0 +1,43 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_bs_nyrid_prisoner</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“感到骄傲，是吗？离我远点。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“这是个不错的计划，你不得不承认…但被你的出现搞砸了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“等我离开这里时我会让你的余生在坑里腐烂！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“趁还有机会我应该杀了她，你这自以为是的混蛋。”</DefaultText>
+			<FemaleText>&quot;I should have killed her while I had the chance, you self-righteous bitch.&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“我…受到更残酷的家庭暴力。你却越来越软了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“嘿！嘿，别把我落下，我不想和那…禽兽呆在一起！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“我的天…你真的对他造成不小影响。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\companions\companion_cv_gm_02</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>107</EntryCount>
@@ -255,7 +254,7 @@ She stops, her hand frozen in the air. "The storm."</DefaultText>
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"I encountered a bîaŵac, yes... and it did something to me."</DefaultText>
+      <DefaultText>"I encountered a b&#238;a&#373;ac, yes... and it did something to me."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

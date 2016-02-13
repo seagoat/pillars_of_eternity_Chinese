@@ -1,0 +1,77 @@
+<StringTableFile>
+  <Name>quests\07_gilded_vale\07_tsk_late_for_dinner</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>赴宴迟到</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>找到邓福瑞斯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>与黑猎犬旅馆老板交谈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>镀金溪谷的黑色猎狗酒吧的高明厨师失踪了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>镀金溪谷的酒馆和村子没什么不同——都过过好日子。虽然生意不多，但酒馆的主厨总能吸引一批常客光顾——但他却在最近往北边取补给品时消失不见了。酒馆老板表示他可能在穿过溪谷林地时遇害了，他希望有人能帮他找回主厨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>邓福瑞斯非常感谢我把他从盗匪营寨中解救了出来。他建议我和镀金溪谷黑色猎狗酒吧的老板谈谈，他会给我不错的奖励。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>邓福瑞斯已经被杀了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我把矮人邓福瑞斯从饥饿的盗匪手中救了出来。他非常感谢我的帮助，建议我到镀金溪谷黑色猎狗酒吧拿奖赏。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我告诉黑色猎狗酒吧老板帕斯卡，邓福瑞斯落到了溪谷林地盗匪的手里。她心烦意乱，对酒馆的未来忧心忡忡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>黑色猎狗酒吧老板帕斯卡很感谢我把邓福瑞斯安全带了回来。为了感谢我的帮助，她承诺提供就餐和住宿的折扣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>我告诉黑色猎狗酒吧老板帕斯卡，邓福瑞斯在穿越溪谷林地时被杀了。她听到这个消息很难过，对酒馆的未来忧心忡忡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>帕斯卡死了，黑色猎狗酒吧又一次没了老板。现在厨师也无事可做了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>我把矮人邓福瑞斯从饥饿的盗匪手中救了出来。他说自己是黑色猎狗酒吧的厨师。等他回去后将会收到一个可怕的惊喜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>任务关键人物已死亡。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

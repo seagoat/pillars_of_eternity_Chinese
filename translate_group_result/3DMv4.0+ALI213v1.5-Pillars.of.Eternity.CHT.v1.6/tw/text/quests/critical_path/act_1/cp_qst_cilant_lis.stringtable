@@ -1,0 +1,166 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\critical_path\act_1\cp_qst_cilant_lis</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>15</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>希 蘭 特 裡 斯 遺 跡</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry><StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\critical_path\act_1\cp_qst_cilant_lis</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>15</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>希 蘭 特 裡 斯 遺 跡 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>逃 離 廢 墟 </DefaultText>
+			<FemaleText/>
+		</Entry>	
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>趕 到 豐 饒 之 谷 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>我 曾 幸 運 地 逃 過 了 那 肆 虐 山 谷 的 詭 異 而 奪 命 的 風 。現 在 卻 又 被 困 在 古 老 的 廢 墟 中 ，車 隊 主 人 已 告 誡 過 我 們 要 遠 離 這 廢 墟 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>我 必 須 找 到 走 出 廢 墟 的 路 ，到 安 全 的 地 方 去 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我 已 經 出 廢 墟 了 。有 希 望 找 到 通 往 豐 饒 之 谷 的 路 ，那 個 山 谷 應 該 離 這 兒 不 遠 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>這 裡 可 能 還 有 別 人 。也 許 我 該 找 個 什 麼 當 作 武 器 ...</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>希 奧 丹 需 要 休 息 。也 許 在 廢 墟 哪 個 安 靜 的 角 落 我 們 可 以 搭 起 帳 篷 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>我 碰 到 了 一 群 穿 長 袍 的 怪 人 ，圍 在 一 台 象 是 某 種 機 器 的 東 西 旁 邊 。還 有 一 個 人 在 那 裡 ，說 著 儀 式 用 語  -  也 許 是 他 們 的 首 領 ？他 離 開 了 ，但 其 它 人 還 擋 著 路 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>希 奧 丹 需 要 休 息 。也 許 在 廢 墟 哪 個 安 靜 的 角 落 我 們 可 以 搭 起 帳 篷 。然 而 ，卡 莉 絲 卡 認 為 我 們 應 該 繼 續 前 進 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>希 奧 丹 做 不 到 了 。看 來 卡 莉 絲 卡 和 我 不 得 不 繼 續 趕 路 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20005</ID>
+			<DefaultText>我 那 些 車 隊 的 伙 伴 做 不 到 了 。我 不 得 不 繼 續 趕 路 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20006</ID>
+			<DefaultText>卡 莉 絲 卡 做 不 到 了 。看 來 希 奧 丹 和 我 不 得 不 繼 續 趕 路 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20009</ID>
+			<DefaultText>我 偶 然 發 現 一 部 分 瓷 片 上 標 有 獨 特 的 符 號 。附 近 也 許 能 找 到 與 這 些 符 號 意 義 有 關 的 線 索 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 已 經 逃 出 了 廢 墟 。有 希 望 找 到 通 往 豐 饒 之 谷 的 路 ，那 個 山 谷 應 該 離 這 兒 不 遠 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
+
+			<ID>1</ID>
+			<DefaultText>逃離廢墟</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>趕到豐饒之谷</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>我 曾 幸 運 地 逃 過 了 那 肆 虐 山 谷 的 詭 異 而 奪 命 的 風。現 在 卻 又 被 困 在 古 老 的 廢 墟 中，車 隊 主 人 已 告 誡 過 我 們 要 遠 離 這 廢 墟。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>我 必 須 找 到 走 出 廢 墟 的 路，到 安 全 的地 方 去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我 已 經 出 廢 墟 了。有 希 望 找 到 通 往 豐 饒 之 谷 的 路，那 個 山 谷 應 該 離 這 兒 不 遠 了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>這 裡 可 能 還 有 別 人。也 許 我 該 找 個 什 麼 當 作 武 器...</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>希 奧 丹 需 要 休 息。也 許 在 廢 墟 哪 個 安 靜 的 角 落 我 們 可 以 搭 起 帳 篷。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>我 碰 到 了 一 群 穿 長 袍 的 怪 人，圍 在 一 台 象 是 某 種 機 器 的 東 西 旁 邊。還 有 一 個 人 在 那 裡，說 著 儀 式 用 語 -  也 許 是 他 們 的 首 領？他 離 開 了，但 其 它 人 還 擋 著 路。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>希 奧 丹 需 要 休 息。也 許 在 廢 墟 哪 個 安 靜 的 角 落 我 們 可 以 搭 起 帳 篷。然 而，卡 莉 絲 卡 認 為 我 們 應 該 繼 續 前進。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>希 奧 丹 做 不 到 了。看 來 卡 莉 絲 卡 和 我 不 得 不 繼 續 趕 路。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20005</ID>
+			<DefaultText>我 那 些 車 隊 的 伙 伴 做 不 到 了。我 不 得 不 繼 續 趕 路。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20006</ID>
+			<DefaultText>卡 莉 絲 卡 做 不 到 了。看 來 希 奧 丹 和 我 不 得 不 繼 續 趕 路。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20009</ID>
+			<DefaultText>我 偶 然 發 現 一 部 分 瓷 片 上 標 有 獨 特 的 符 號。附 近 也 許 能 找 到 與 這 些 符 號 意 義 有 關 的 線 索。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 已 經 逃 出 了 廢 墟。有 希 望 找 到 通 往 豐 饒 之 谷 的 路，那 個 山 谷 應 該 離 這 兒 不 遠 了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

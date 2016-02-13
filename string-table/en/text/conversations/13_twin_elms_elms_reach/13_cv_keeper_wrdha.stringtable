@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\13_twin_elms_elms_reach\13_cv_keeper_wrdha</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>18</EntryCount>
@@ -11,7 +10,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Wrdha's head turns to you, but she seems to look past you through clouded eyes. "I have heard the screams of the others and smelled their blood in the air. A grim irony that the Ethik Nôl should perish alongside a millennium of sacrifices."
+      <DefaultText>Wrdha's head turns to you, but she seems to look past you through clouded eyes. "I have heard the screams of the others and smelled their blood in the air. A grim irony that the Ethik N&#244;l should perish alongside a millennium of sacrifices."
 
 The ancient dwarf inhales deeply. "Your doing. Come to finish an old blind woman, too? Or have you other business?"</DefaultText>
       <FemaleText />

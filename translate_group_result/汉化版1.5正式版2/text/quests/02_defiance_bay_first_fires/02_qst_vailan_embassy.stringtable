@@ -1,0 +1,68 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\02_defiance_bay_first_fires\02_qst_vailan_embassy</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>12</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>遗 忘 者 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>去 艾 德 尔 万 大 桥 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>在 艾 德 尔 万 大 桥 上 冒 充 巴 克 兹 先 生 的 买 家 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>击 败 遗 忘 者 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>回 到 最 初 之 火 的 大 使 馆 中 的 维 森 特 •阿 格 斯 蒂 那 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>维 森 特 •阿 格 斯 蒂 想 让 我 阻 止 在 因 格 维 斯 废 墟 中 拾 荒 的 冒 险 队 ，并 引 起 一 场 外 交 风 波 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>遗 忘 者 在 艾 德 尔 万 大 桥 等 待 巴 克 兹 先 生 的 买 家 。阿 格 斯 蒂  想 让 我 去 买 家 那 里 ，以 此 揭 露 有 关 遗 忘 者 的 因 格 维 斯 圣 物 走 私 活 动 的 详 细 信 息 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>和 遗 忘 者 谈 话 ，伪 装 成 巴 克 兹 先 生 的 买 家 。查 出 遗 忘 者 是 如 何 在 反 抗 湾 走 私 因 格 维 斯 的 神 器 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>遗 忘 者 不 会 让 我 活 着 离 开 艾 德 尔 万 大 桥 。我 该 在 他 们 杀 了 我 之 前 杀 了 他 们 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我 应 该 回 到 维 森 特 •阿 格 斯 蒂 那 里 ，让 大 使 知 道 遗 忘 者 将 不 会 给 他 添 乱 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>听 到 遗 忘 者 不 会 在 因 格 维 斯 的 废 墟 中 搜 刮 ，并 面 临 着 一 大 堆 外 交 问 题 后 ，维 森 特 •阿 格 斯 蒂 感 到 十 分 宽 慰 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>在 维 森 特 •阿 格 斯 蒂 完 成 任 务 之 前 ，我 把 他 杀 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

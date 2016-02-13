@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\11_hearthsong\11_cv_iwen</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>10</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Alarhî handles all of the trades. I'm just her apprentice."</DefaultText>
+      <DefaultText>"Alarh&#238; handles all of the trades. I'm just her apprentice."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23,7 +22,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Alarhî's not here, so I'm running the shop while she's away." She glides her hands in front of the display cases of poultices and remedies. "If you are looking for herbs, tinctures, oils, or ointments then I've got everything you'll ever need!"</DefaultText>
+      <DefaultText>"Alarh&#238;'s not here, so I'm running the shop while she's away." She glides her hands in front of the display cases of poultices and remedies. "If you are looking for herbs, tinctures, oils, or ointments then I've got everything you'll ever need!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -43,7 +42,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"I'm looking for Alarhî - where might I find her?"</DefaultText>
+      <DefaultText>"I'm looking for Alarh&#238; - where might I find her?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -1,0 +1,33 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\11_hearthsong\11_cv_rhanet</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>5</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“外来者，你看起来是个猎手吧。德尔温的武器或许能保护好那些总是遭遇不幸的人—但是我的东西，可以帮助你独自在野外存活下来。”</DefaultText>
+			<FemaleText>&quot;You have the look of a hunter, estramor. Derwn&apos;s weapons may protect the woman who seeks out misfortune - but my supplies will help you to survive out in the wilds.&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“陷阱设置得好在狩猎中就可以化劣为优了。我非常清楚。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“我能看看你的货物吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>&quot;再见。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>拉内特点点头，挥了挥胳膊露出他的货物。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

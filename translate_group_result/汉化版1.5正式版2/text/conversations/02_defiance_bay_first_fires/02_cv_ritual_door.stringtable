@@ -1,0 +1,73 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\02_defiance_bay_first_fires\02_cv_ritual_door</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>13</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>你 听 到 了 门 另 一 侧 的 细 语 。正 在 举 行 某 种 仪 式 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>[穿 戴 上 兜 帽 和 面 具 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>[示 意 队 伍 跟 随 你 前 往 隔 间 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>[独 自 一 人 前 往 隔 间 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>[离 开 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>你 脱 下 兜 帽 和 面 具 ，返 回 大 厅 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>你 返 回 大 厅 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>你 套 上 兜 帽 和 面 具 。你 可 以 闻 到 织 物 开 始 燃 烧 的 气 味 。你 拍 打 着 头 上 的 材 料 ，才 没 着 火 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>你 套 上 兜 帽 和 面 具 。它 们 很 不 舒 适 ，但 能 遮 住 你 的 脸 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>你 打 开 门 ，进 入 隔 间 ，示 意 小 队 其 他 成 员 一 并 陪 同 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>你 打 开 门 ，进 入 隔 间 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>你 套 上 兜 帽 和 面 具 。它 们 勉 强 合 身 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>你 听 到 了 门 另 一 侧 的 细 语 。正 在 举 行 某 种 仪 式 。但 是 ，当 下 你 唯 一 的 伪 装 手 段 正 被 人 使 用 着 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

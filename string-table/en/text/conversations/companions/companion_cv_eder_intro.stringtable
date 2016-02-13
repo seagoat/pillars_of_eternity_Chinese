@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\companions\companion_cv_eder_intro</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>89</EntryCount>
@@ -48,7 +47,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>He extends his hand. "Name's Edér.
+      <DefaultText>He extends his hand. "Name's Ed&#233;r.
 
 "Though to the people around here, might as well be 'Nineteen.'"
 
@@ -406,7 +405,7 @@ He turns his attention away, watching the village around him.</DefaultText>
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>Something kindles in Edér's eyes, and the vigor of purpose finds its way into his voice. "A man such as that... there'd be things I'd wanna ask him. Don't know why I never thought of it before."</DefaultText>
+      <DefaultText>Something kindles in Ed&#233;r's eyes, and the vigor of purpose finds its way into his voice. "A man such as that... there'd be things I'd wanna ask him. Don't know why I never thought of it before."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -465,7 +464,7 @@ He looks you directly in the eye, but the look is not aggressive. He regards you
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>Something kindles in Edér's eyes, and the vigor of purpose finds its way into his voice. "Say, they've got something there I'd like to take a look at, if it's not too much trouble. Something I've been meaning to do for a long time."</DefaultText>
+      <DefaultText>Something kindles in Ed&#233;r's eyes, and the vigor of purpose finds its way into his voice. "Say, they've got something there I'd like to take a look at, if it's not too much trouble. Something I've been meaning to do for a long time."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

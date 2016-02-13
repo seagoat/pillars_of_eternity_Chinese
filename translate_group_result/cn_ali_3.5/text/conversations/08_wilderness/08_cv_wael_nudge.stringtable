@@ -1,0 +1,47 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\08_wilderness\08_cv_wael_nudge</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>当你接过卷轴时，你听到某人的低语。“你终于找到了。但又要拱手相送了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“高阶档案保管员格里姆达要我把这带回去。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“那起初找到它就没意义了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“不！这是再次找到它的开始。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>低语声笑了起来。“换了你会安抚矮人还是神？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“你觉得这次偷窃是意外？”
+
+声音似乎转变了，就好像说话者持续更变着年轻，种族和性别。“我的遗物永远不会过久停留在一个地方。它们本该频繁经历遗失和找到。给予其价值的是研究。”
+
+“把东西带给黑草甸。找到面对东边的伪龙并将其藏在它的头骨下。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

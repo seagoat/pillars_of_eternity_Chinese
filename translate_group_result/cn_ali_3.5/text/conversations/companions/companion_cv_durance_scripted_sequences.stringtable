@@ -1,0 +1,582 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\companions\companion_cv_durance_scripted_sequences</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>103</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>你醒了过来，看到杜兰斯，他双手把法杖拿在身前。在他陷入沉思的时候，法杖前端闪动的火焰在他的脸上形成了一道长长的阴影。
+
+即便有火焰照亮，你仍然不能把目光集中在他的身上……大概是因为刚刚醒来，或者是因为光的原因，但是他看起来……很模糊，边缘上一切都是模糊的，除了法杖以外。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>法杖……他看起来是在研究它的雕文。当你看的时候，法杖上的雕纹微微泛着红光，像是柴火裂纹中的红光。
+
+线条如熔化的金属一般，在法杖的边缘上燃烧着，然后分成错综复杂的经络，厚厚的凝聚着，他抓住木头的手像心跳一般脉冲着。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>在你的眼前，经络螺旋着形成12个独立的圆形……然后继续螺旋旋转直到按照一个圆形排列。它们跳动着，等一下，然后突然奇怪的停止了……然后……</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>然后，突然间，火焰中放出一道强光，一股气流，一道闪光……然后你再一次醒来，看见杜兰斯还在同一个地方，仍然拿着他的法杖，但是他是真实的。
+
+他似乎没有注意到你……也没有对发生的事情做出反应。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>杜兰斯安静的，死死地盯着你。“告诉你看到了什么。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>“有一道爆炸一样的闪光……一股猛烈的气流，非常地刺眼。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>杜兰斯听到了每一个字。他怪异的安静了一会儿，然后他低声说。
+
+“你看见的是圣锤的光芒。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>“圣锤？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>“圣锤？那是什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>“那是迪伍德人民的武器。象征着他们的独立。它拯救了迪伍德。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>“你都知道什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>“你说你们总共有十二的人，与桥上的十二个相符？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>“圣锤坠落时都发生了什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>“你说你感觉你和圣锤教父和十二人众共享命运。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>“在那之后你做了什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>“在幻象中我看到了你的法杖，你看起来……很模糊。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>“我想问些别的事。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>“再见。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>Trigger Conv Node 30</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>杜兰斯依然平稳的低声说着，就像是他以前说过多次一样- 要么大声说要么是对自己说。“它结束了圣战……打倒了一个神。
+
+杜兰斯的表情石化了。“没有多少人会不承认伊欧萨斯- 越界了。圣锤时刻提醒着伊欧萨斯人。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>“你会看见它的光芒是因为我帮忙制造了它，赋予它生命……并且把他释放到世界中。”杜兰斯吞了吞口水，点点头。“一旦现身……它的荣耀几乎耀眼的难以置信- 耀眼的不可遗忘。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>“你帮忙制造了圣锤？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>“我们总共有12个人。”杜兰斯点点头。“我们对武器完成了塑形，起草了方案，在艾什法祈求指引，然后我发现……我们每个人都被赋予了一个由周围的黑树森林制成的法杖，闪耀着火苗，比起现在的这个跟树杈来，要厉害的多了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>“法杖感觉就像是玛格岚的手指一样- 指引着我，指引着其他11个人，十二人众在桥上阻止伊欧萨斯的阴影。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>“十二人众的阴影？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>“我还看见了12个明亮的圆环出现在你的法杖上。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>“给我讲讲那座桥。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>“关于圣锤，我还有个问题。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>“杜兰斯皱着眉头。那有什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>“就连哪么一站，都有一个仪式。对于站在桥上的十二人众，有12个暗影法术，十二个玛格岚的信徒- 她最凶猛的支持者，圣锤的制造者。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>杜兰斯把法杖放在身前，火焰置于上方……卷曲了一会，亮光一点点扩散……然后分裂成火圈，一个接着一个……直到形成了12个……</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>“暗影大概是由圣锤的火焰形成的……”火焰突然熄灭了，一点烟也没有。“……不久我们也会重复他们的命运。现在迪伍德的脊背被圣锤标记了。被玛格岚标记了。”杜兰斯皱着眉头，然后从法杖上移开了目光。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>“你说重复他们的命运是什么意思？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>“不是所有死亡都是停止呼吸和停止心跳。”杜兰斯咕噜着，调整着他袍子的绳子。“还有的下半身仍有感觉。有的死亡静悄悄的来临。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>“我们和玛格岚的连接……在圣锤的发光之后，那不一样。
+
+“感觉就像是我们失去了所有的感知……目的性也拾取了。除了胜利……受欢迎，一片沉寂- 由内而外。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>“没多少人能声称他杀了一个神。那并不算是一个你以为的英雄事迹。而且那样的死亡，改变了我们的信仰。所有的信仰，我想。”
+
+杜兰斯重新凝视着法杖的尖端。“疑惑接踵而至。然后整个世界改变了……我不认为玛格岚对我们的所作所为感到高兴。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>“为什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>“世界残缺破碎，但是命运之轮依旧在转。”杜兰斯抓了抓他的痘疤，停了下来，收回手，皱着眉头研究着。“世界的心病了，大概就是得罪神的代价吧。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>他咕噜着。“得罪两个神……即便是玛格岚指引着我们的双手，也许我们把他的意志执行的过火了。”他停了下来，看着法杖。“就像维德文做的。‘圣人’维德文。”杜兰斯吐了口口水。“凡人的傲慢对上凡人的傲慢。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>“但是如果世界变了……那么我就随他一起变。如果我忘记了玛格岚的一些教诲，我会重新找到它们的。我会让她再次看到我。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>“你做了什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>“我记得玛格岚的教诲- 活生生的提醒比死去的容器更加重要。杜兰斯皱着眉头。“我怀疑杀了伊欧萨斯……如果那简单的让他自由。有没有帮助他他逃离命运之轮的惩罚？”
+
+杜兰斯的声调出了一个奇怪的升调……终于有一次，他看起来是在正式的提出一个问题了。“像凡人一样？”他摇摇头。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>“当我从受到圣锤庇佑的桥上走开的时候，我想起了艾什法，我想起了黑树森林的战争，内心怀疑着是否应该被烧死来重寻自我。那是玛格岚在她的心中。”
+
+“至少那是我的冤枉。”杜兰斯皱着眉头。“那些是降临在我面前的疑虑。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>“当你返回艾什法的时候都发生了什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>“回到艾什法的路途很长，给人很多思考的时间。”他的手绑在他的法杖上。“如果你思考的时间足够长，你就不会回家了。
+
+“我悄悄的离去，只带着我在哈尔格特城堡穿着的布袍，我的法杖，还有我尘封已久的名字。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>“跟随着我11个制作者，我的门徒……我不知道他们发生了什么。他们是否和我一样感到疑惑。但是……那真是不够周到。那是不对的。我们都那样做过……问过妓女，从失败中抢夺胜利，还有……”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>“你感觉好像你的神背叛了你。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>“你觉得你背叛了你的神吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>“告诉我桥上发生了什么。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>“有什么东西……关于被使用和一同施放。”杜兰斯视线变窄了，像是在集中精神思考。
+
+“大概维德文感觉到了，在圣锤攻击的最后一刻。”成为你的神其实如同他寄生的躯壳一样空洞的证据。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>“我试着找到目的……避开了所有和其他玛格岚牧师的接触，不找艾什法的墙壁……试着通过行动对我的神赎罪。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>“我参与赎罪了一段时间……不久之后，出现了第一个无魂儿。”他皱着眉头。“如此多的罪恶……”他吐了口痰。“‘救赎。’灵魂学者是圣战的另一个畸形产物……革新的二次堕落，对拟补我们的过错的绝望心理。
+
+“一切看起来比桥上事情发生前还要糟糕，没有变好。一年一年过去了……世界因为那场胜利而变得更糟。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>“我们关闭那座桥是因为我们能够控制它。”杜兰斯的手紧握着法杖的上端，就像是握着它的脖子一样。“那是一个我们可以让伊欧萨斯在他自己的脚步中窒息的地方，一个我们知道他会落脚的地方- 一个细颈石。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>“但是不仅如此- 那是迪伍德的脊椎，决心的象征。这样的象征对于一个武器的构造十分重要……”杜兰斯研究着他的法杖，他的眼睛验证雕纹移动。“所有武器。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>杜兰斯表情严肃，他的眼睛放佛在燃烧，他的眉毛皱在一起。“我怀疑伊欧萨斯也知道……他的躯壳也知道，知道他的……傲慢自大。”他的手紧握法杖。“他打算想在迪伍德的背上一样在桥上走。
+
+“我们打算用他信仰的圣光- 还有他的，烧死他。桥上十二个，暗影中十二个，把自身投入进去。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>“把自身投入进去？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>“我们把自己……绝大部分投入圣锤中。
+
+“这样的装置可不是什么简单的机器。里面有灵魂的元素。”杜兰斯皱着眉头。“甚至还有维德文的灵魂。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>“灵魂元素？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>“维德文？”“为什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>“带着圣锤前进的十二人中的每一个愿意做任何事情来拯救迪伍德，拯救它的人民。这也就是我们被选中的原因。
+
+“我们中的每一个人……”杜兰斯的脸扭曲着咆哮着。“我们中的每一个人都痛恨这个冒牌货。那份愤怒，那份紧身，那份反叛，进入了我们的杰作。
+
+“而它也对他进行了研究。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>“我们都研究了维德文- 他是我们的敌人，而且他给神提供了像斗篷一样使用的肉体。那样的肉体使他变得脆弱。”
+
+“我知道他耕过哪一块地，他的家庭。他收获了什么。他在哪里出生。我们需要了解他，知道是什么引导着他与我们战斗。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>“那为什么这么重要？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>“你杀不死神，你只能杀死神寄生的那个人。所以你把那个人烧做灰烬。
+
+“我们要制造的武器不光烧他的肉体，还烧他的灵魂。而且它做到了，赔上了我们自己的灵魂，赔上了我们女神的喜好……那个可恶的婊子。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>“听起来好像你成了你自己武器的受害者。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>“所以你的形象在我的梦中才是模糊的么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>杜兰斯皱起眉头，用锐利的目光盯着你。“也许你的眼睛被圣锤的真理蒙蔽了，通魂者。”他不屑的说道。“我有时会感到自己只是半个人，但即使是这样，也是其他大多数人的两倍了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>杜兰斯皱起眉头，用锐利的目光盯着你。“也许你的眼睛被圣锤的光芒蒙蔽了，通魂者。”他不屑的说道。“我有时会感到自己只是半个人，但即使是这样，也是其他大多数人的两倍了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>杜兰斯摇摇头，但脸因为紧张而涨红了。“如果你担心我的灵魂，你的恐惧是毫无根据的。圣锤…看到它的光芒只会点燃我的愤怒，让我更强大，让我重新审视玛格岚的教诲…用新的眼光来看待它们了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>“看起来好像只是你的一部分，好像你的灵魂…被剪成了两半。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+			<DefaultText>“是在你寻求杜兰斯教义的时候吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+			<DefaultText>杜兰斯语塞了，脸变得通红。“我不需要你再问我什么问题，通魂者…我也没有要你不经我允许就这样盯着我看。走吧，离我远点。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>杜兰斯好像要大声斥责你，然后停下来点了点头。“似乎是时候去找我丢失的教义了。还有将女神的意志展现于净化之中…伊欧萨斯的信仰依在。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>115</ID>
+			<DefaultText>“也许净化也不是玛格岚想要的。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>116</ID>
+			<DefaultText>汗水从他漆黑的前额流向涨红的脸颊，最后从鼻尖上滴落下来。
+
+他的嘴在蠕动，但没有发出声音。这一次，他若有所失。感觉到你的目光，他迅速回过神来，用脏手背擦拭着额头。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>117</ID>
+			<DefaultText>他的声音是起伏而匆忙的。“呃…敬拜这种反复无常的婊子，你不过会是她脚下的尘埃。
+
+“崇拜她所崇拜的，另一方面，自己点燃她的激情，便会赢得她的尊重。
+
+“当然，那时你就不再需要它了。试验和转换，就像杜兰斯教的一样。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>118</ID>
+			<DefaultText>杜兰斯瞪着你，凝视他的眼睛让你感觉在悬崖的边缘张望。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>119</ID>
+			<DefaultText>“现在我明白为什么你把你的女神叫做婊子了。她甩了你，而你仍然渴望她。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>120</ID>
+			<DefaultText>“你犯下了暴行，女神因此关了你的禁闭。谁说正义不属于玛格岚？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>121</ID>
+			<DefaultText>“也许杜兰斯在效忠玛格岚方面和你一样抓瞎。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>122</ID>
+			<DefaultText>“听起来你的女神永远不会原谅你。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>123</ID>
+			<DefaultText>“似乎玛格岚的沉默就是对你的审判。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>125</ID>
+			<DefaultText>“你犯下了暴行，女神因此关了你的禁闭。这是你自找的”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>126</ID>
+			<DefaultText>你的眼睛看到一个熟悉的场景。杜兰斯坐着，法杖放在膝盖上，一簇恶意的火焰从一端开始蔓延。
+
+很难辨认他的身形，他逐渐变得模糊而渗出。但你能清楚地看到法杖，它的蚀刻发着炽热的橙红色光芒。尽管很难分辨杜兰斯的脸，但那坚定的表情和有沟痕的眉毛是不会错的。他的声音唏嘘，低沉而错乱，仿佛在和法杖进行私人争论。他嘴里喷出的唾沫映在火光中好像火花一般。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>127</ID>
+			<DefaultText>有一个符号十分古怪。一圈共十二个小圆圈。一个小圆圈明亮地发光，但是其他十一个都很暗淡。他们闪烁着逐渐消失，像垂死的余烬。
+
+在悄声诅咒中，杜兰斯把脸接近法杖，带着恐慌迅速的向熄灭的圆圈吹气，想再次燃起光芒，但它们不为所动。圆圈的光芒一个接一个消失，烟雾从它们的灰烬中升起。只有一个仍在燃烧。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>128</ID>
+			<DefaultText>杜兰斯将他的法杖扔到脚下，在地上滚动。它的边缘已经模糊，很难找到。像它的主人一样，法杖已成为一片模糊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>129</ID>
+			<DefaultText>你闭上你的眼睛再次睁开，杜兰斯从地上拾起他的法杖，但模糊不见了，而你是醒着的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>130</ID>
+			<DefaultText>杜兰斯挑衅地看着你。“你看到了很多没有的东西，通魂者。也许这符号是为了你消失的理智，我们要趁你还有智慧悲伤的时候向它告别。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>131</ID>
+			<DefaultText>“那是圣锤的符号。我看见了十二个圆圈。十一个消失了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>132</ID>
+			<DefaultText>“我看到一个符号与十二个圆圈。它代表什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>133</ID>
+			<DefaultText>Trigger Conv Node 133</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>134</ID>
+			<DefaultText>“嗯，这不是个谜，通魂者。我们用了十二个人建造圣锤。后来我离开他们去看看玛格岚给我准备了什么。从那以后我就再也没有见过他们。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>135</ID>
+			<DefaultText>“你确定没有更多的故事了？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>136</ID>
+			<DefaultText>“如果你这么说的话。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>137</ID>
+			<DefaultText>杜兰斯的眼睛死盯着你。
+
+“你可以按你最喜欢的真理解释这景象。但玛格岚的火焰没有解释的余地。
+
+“浪费别人的时间在你的扭曲和狂热梦想上。”
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>138</ID>
+			<DefaultText>“我知道我看见了什么。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>139</ID>
+			<DefaultText>“火焰扭曲了所有的谎言。而且你从未似乎远离火焰。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>140</ID>
+			<DefaultText>“火焰是什么或者在哪里可能毫无疑问。但并没有人知道它们为什么这样。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>141</ID>
+			<DefaultText>“当我的真理更有趣时，并不是什么丢脸的事。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>142</ID>
+			<DefaultText>“疯子总是试图用只有他们自己才能看到的现实说服别人。但当你的教义是真理时，它不需要说服别人——只需要一双睁开的眼睛。
+
+“我会净化你，通魂者，只要我觉得它会有所帮助。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>143</ID>
+			<DefaultText>[检查法杖]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>144</ID>
+			<DefaultText>…令你吃惊的是，他身后还有一个女人。你准备发出警告，因为你意识到这是你在玛格岚岔口见到杜兰斯时的玛格岚雕像…
+
+然而…她看起来几乎活过一阵…她的影子似乎在隐匿地移动，然后又在夜色中静止。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>145</ID>
+			<DefaultText>“因为十二与伊欧萨斯紧紧贴合，所以我们十二人释放我们的祈祷，让圣锤坠落。”
+
+…然后它明亮地绽放，就那么一瞬，之后又变回烛火微光。在这之后，附近的影子似乎更加清晰，好像他们有了边缘轮廓，于是你眨眨眼清除你的视野…杜兰斯仍专心地盯着蜡烛般的微小火焰。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>146</ID>
+			<DefaultText>“你想把煤堆在我的脚上，但已燃烧殆尽的东西永远不会再烧一次。
+
+“这些会谈是你的审判，通魂者。你不能转移已经净化的人的真理。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

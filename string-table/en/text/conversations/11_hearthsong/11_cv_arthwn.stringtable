@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\11_hearthsong\11_cv_arthwn</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>39</EntryCount>
@@ -11,7 +10,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"My tribesmen have told me that you're to speak the truth about Fîorm's exile." He combs his sparse stubble, darting a glance to the elven woman. "Well, Arthwn doesn't hide from the truth. Ask, and I'll answer."</DefaultText>
+      <DefaultText>"My tribesmen have told me that you're to speak the truth about F&#238;orm's exile." He combs his sparse stubble, darting a glance to the elven woman. "Well, Arthwn doesn't hide from the truth. Ask, and I'll answer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +30,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"What happened to Fîorm?"</DefaultText>
+      <DefaultText>"What happened to F&#238;orm?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,12 +45,12 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Arthwn looks down and licks his lips. "Fîorm..." He pushes the blonde bristles away from the edges of his mouth. "Every tribe knows his prowess. A hunter of great name. But, this time he fell behind."</DefaultText>
+      <DefaultText>Arthwn looks down and licks his lips. "F&#238;orm..." He pushes the blonde bristles away from the edges of his mouth. "Every tribe knows his prowess. A hunter of great name. But, this time he fell behind."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"I know you're lying. Fîorm tricked you and fought the stelgaer alone. They killed each other."</DefaultText>
+      <DefaultText>"I know you're lying. F&#238;orm tricked you and fought the stelgaer alone. They killed each other."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,12 +95,12 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Arthwn puffs his chest and pounds it with a fist. "We're true Glanfathans, true hunters. I've proven our worth." His patches of golden stubble sparkle alongside a glowing smile. "It was me, not Fîorm, who killed the giant stelgaer."</DefaultText>
+      <DefaultText>Arthwn puffs his chest and pounds it with a fist. "We're true Glanfathans, true hunters. I've proven our worth." His patches of golden stubble sparkle alongside a glowing smile. "It was me, not F&#238;orm, who killed the giant stelgaer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"We spotted the giant stelgaer on the Sentinel's Ridge, above the waterfall of The Northweald. It was stalking for prey." Arthwn lightly shakes his head. "Fîorm wanted us to split. He'd lure the beast to the river and I'd flank it."</DefaultText>
+      <DefaultText>"We spotted the giant stelgaer on the Sentinel's Ridge, above the waterfall of The Northweald. It was stalking for prey." Arthwn lightly shakes his head. "F&#238;orm wanted us to split. He'd lure the beast to the river and I'd flank it."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +110,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"...and, it was dead." The hunter pushes his mustache back and looks up. "Fîorm couldn't believe he didn't earn the kill, not even a cut. He said he'd not return with the shame of losing to a Twice-Split Arrow." Arthwn sighs. "I pleaded, but he was a Keeper of the Stone. He'd not listen. And, now he's... exiled. Who knows where."</DefaultText>
+      <DefaultText>"...and, it was dead." The hunter pushes his mustache back and looks up. "F&#238;orm couldn't believe he didn't earn the kill, not even a cut. He said he'd not return with the shame of losing to a Twice-Split Arrow." Arthwn sighs. "I pleaded, but he was a Keeper of the Stone. He'd not listen. And, now he's... exiled. Who knows where."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -1,0 +1,197 @@
+<StringTableFile>
+  <Name>quests\04_defiance_bay_brackenbury\04_qst_final_act</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>最后一幕</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>与三个联络人交谈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>质询铜巷区内的拉姆达拉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>寻找隐藏的剧院。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>返回位于布拉肯伯里内哈德莱特宅邸的卡伦处。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>去布拉肯伯里哈德莱特宅邸寻找卡伦，了解详情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>返回布拉肯伯里的卡伦处。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>去见卡达尔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>卡伦，一名敦里德间谍机构的咒术师，他实在忙不过来，因此希望我去调查几件失踪案。卡伦怀疑通灵师们是幕后黑手，他希望我尽我所能解决这件事情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>卡伦告诉我，有三人失踪了，还有三人前来报告了这三起失踪案。分别是奥雷、罗拉还有艾尔卡，与他们交谈一定会得到线索。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>证据指向了一个名叫拉姆达拉的女人和一个名为“群星璀璨”的剧组。他们在铜巷区有个圆形剧场；也许我该去那里找她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我应该能通过拉姆拉达家的密道前往隐藏的剧院，并找到失踪者的下落。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我发现失踪者已经被拉姆拉达杀害了，他们死于剧场中举办的特殊“表演”中，隐藏的剧院就在布拉肯伯里地下墓穴中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>我告诉卡伦我没有时间帮他。他说如果我改变主意的话，就回来找他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>我收集的线索都指向了拉姆拉达，“群星璀璨”剧团的团长。然而，她一死，我的调查就陷入了僵局。我该回到布拉肯伯里内的哈德莱特宅邸，把我的发现告诉卡伦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>卡达尔是同拉姆拉达一伙的演员之一，他想在铜巷区内的拉姆拉达宅邸内和我秘密会晤。他透露说拉姆拉达与失踪案的联系要比她表现出来的深的多。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>奥雷告诉我说他最后一次见到兰德里，就是他和一个名叫拉姆拉达的女人离开的时候。他们去了位于铜巷区的她的宅邸中，宅邸就坐落在该区的最北面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>罗拉告诉我说她的姐妹科拉在失踪前加入了一个叫作群星璀璨的演出剧组。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>在我问起失踪者的事情时，拉姆拉达不愿再和我谈下去了。也许我该去她的住处寻找线索。她就住在铜巷区的北门附近。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>阿尔卡说肯德尔是个有抱负的演员。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>拉姆拉达告诉了我她最重要的保护人，一个布拉肯伯里贵族，嘉德曼勋爵。敦里德间谍机构肯定对他有兴趣，但是我也可以自己去会会他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>嘉德曼勋爵求我将杀人犯的罪名归到琳妮特雷蒙特头上。他给我她的印章作为证据。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>我无意间听到拉姆拉达和一个叫卡达尔的人之间的激烈争吵。听起来好像卡达尔想要什么东西——我不确定是什么——并且同意一会在她房子里见面继续讨论这件事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>阿尔卡提到肯德尔开始跟一个演出剧团里的女人在一起。她不能告诉我那个女人的名字。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>奥雷经常出现在盎卓之礼里的妓院。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>罗拉是铜巷的一个商人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>阿尔卡经常在布拉肯伯里消磨时光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>我杀了拉姆达拉。她不会再给她的客户提供任何特殊服务了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>嘉德曼勋爵死了。他对地陵里的杀人行为的保护结束了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>在遇到嘉德曼勋爵之后，我决定放了他。然而，我仍然可以选择告诉卡伦他的事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我告诉卡伦拉姆拉达杀死了那三个失踪的人。他感谢我在这件事上提供的帮助并且给了我奖励。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我诬蔑琳妮特雷蒙特是杀人犯。卡伦感谢我在这件事上提供的帮助并且给了我奖励。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我杀了卡伦。为他的调查画上了终点。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>我供出了嘉德曼勋爵，拉姆拉达最重要的保护人。卡伦感谢我在这件事上提供的帮助并且给了我奖励。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>我供出了嘉德曼勋爵和拉姆拉达。卡伦感谢我在这件事上提供的帮助并且给了我奖励。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>任务关键人物已死亡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>任务关键人物已死亡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>任务关键人物已死亡。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

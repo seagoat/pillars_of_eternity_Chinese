@@ -1,0 +1,87 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\01_defiance_bay_coppleane\01_qst_mercenaries_for_hire</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>15</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>湖前的铜器</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>到林端平原与巨人猎杀者见面。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>通过风暴墙大峡谷进入废墟。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>找到楼从的武器。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>到铜径的探险大厅把武器给维南。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>维南很害怕炼狱骑士的新计划，并在寻找一个强大的武器拖住他们。他要我到楼从的废墟里找到因格维斯的强大武器。
+
+拜恩的巨人猎杀者探险队被拍了出去，但没有成功。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>据维南所说，巨人猎杀者没要找到可以去废墟的路。他想要我到他们在林端平原的营地里见见他们，看看他们有没有得到一些关于那个地方的有用消息，那个地方就在东边的风暴墙大峡谷。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>巨人猎杀者找到了他们所谓的通往林端平原的风暴墙大峡谷的“钥匙”，但是他们不知道怎么使用。既然我拿到了，我来试试运气吧。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>如果维南是对的，那么楼从的废墟里会有大量的强悍武器。我敢肯定当我看到它们时我就会知道。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我在楼从找到了维南在寻找的古老武器。
+
+它们很老旧，无法修理它们似乎里面还有一些灵魂的能量，我可以到探险大厅告诉维南。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>巨人猎杀者说炼狱骑士在风暴墙大峡谷巡逻得更加频繁了。我得小心行事。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>我找到了一个现在还很好用的长矛。一件武器或许没法引起维南的兴趣，但我可以给它注入我得精华并把它收为己用。好像很久以前有人在这些废墟里做过同样的事。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我已经得到了维南需要的武器，但现在我要杀死一群炼狱骑士。至少我已经获得了十二人众的信任。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我已经得到了维南需要的武器，但现在我要杀死一群炼狱骑士和巨人猎杀者。至少我已经获得了十二人众的信任。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>维南死了。我不知道还会与谁对因格维斯的武器感兴趣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

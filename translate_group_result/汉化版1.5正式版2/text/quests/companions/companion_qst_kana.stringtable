@@ -1,0 +1,80 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\companions\companion_qst_kana</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>14</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>时 间 和 潮 汐 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>找 到 马 尔 瓦 德 </DefaultText>
+			<FemaleText/>
+		</Entry>	
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>和 卡 纳 探 索 无 尽 之 路 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>找 到 Gabrannos或 者 石 碑 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>找 到 塞 德 努 瓦 之 下 的 废 墟 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>卡 纳 •鲁 亚 ，一 个 来 自 北 方 劳 亚 泰 的 奥 玛 人 ，来 到 迪 伍 德 寻 找 一 段 神 圣 的 文 字 ，Tanvii ora Toha，或 者 说 Book of Virtues。经 过 多 年 的 寻 找 ，他 找 到 了 在 塞 德 努 瓦 的 守 护 下 的 废 墟 中 的 石 碑 。
+
+他 迫 不 及 待 要 探 索 废 墟 了 ，还 要 我 帮 助 他 。那 个 时 候 ，他 看 起 来 很 乐 意 有 我 的 陪 伴 ——虽 然 他 胆 怯 地 承 认 了 ，被 神 秘 凶 手 追 杀 是 一 部 分 原 因 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>卡 纳 •鲁 亚 一 直 徘 徊 在 主 楼 门 口 ，希 望 能 找 到 助 手 一 起 穿 越 危 险 重 重 的 城 堡 。他 相 信 马 尔 瓦 德 会 回 答 关 于 他 正 在 找 的 那 座 碑 的 疑 问 。似 乎 我 们 两 个 都 在 找 老 通 魂 者 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>卡 纳 •鲁 亚 认 定 我 们 会 在 地 牢 “无 尽 之 路 ”的 深 处 找 到 那 座 碑 。他 不 知 道 碑 究 竟 在 哪 里 ，但 他 能 肯 定 它 和 Gabrannos（一 位 因 格 维 斯 学 者 ）的 遗 物 在 一 起 。致 力 于 研 究 因 格 维 斯 人 多 年 ，卡 纳 对 他 们 的 或 者 说 他 们 中 的 遗 迹 激 动 不 已 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我 们 已 经 穿 过 了 封 印 之 门 ，门 后 就 是 通 往 Endless Paths下 层 区 域 的 通 道 。卡 纳 •鲁 亚 认 为 这 就 是 藏 有 Gabrannos作 品 的 地 点 。这 是 一 个 险 恶 的 地 方 ，尽 管 卡 纳 •鲁 亚 很 高 兴 到 这 里 来 ，但 我 们 最 好 还 是 快 点 找 到 Gabrannos的 遗 物 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>马 尔 瓦 德 遥 不 可 及 ，无 法 回 答 我 们 的 问 题 。我 们 必 须 靠 自 己 穿 越 主 楼 下 的 废 墟 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>从 结 果 看 ，卡 纳 •鲁 亚 寻 找 的 碑 已 经 被 摧 毁 很 久 了  - 是 谁 干 的 或 为 了 什 么 ，已 经 无 从 知 晓 了 。真 相 似 乎 给 了 卡 纳 沉 重 打 击 。我 试 着 鼓 励 他  - 无 论 怎 么 说 ，最 终 答 案 还 在 前 头 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>寻 找 Tanvil ora Toha之 旅 结 束 了 ，我 们 已 经 找 到 了 卡 纳 要 找 的 那 块 碑 的 碎 片 。卡 纳 明 显 对 碑 的 破 碎 痛 心 不 已 ，先 前 的 狂 热 已 经 明 显 降 温 了 。鉴 于 我 们 看 到 的 那 些 ，这 也 许 是 最 好 的 结 局 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>卡 纳 被 杀 了 ，他 的 远 大 抱 负 也 随 之 烟 消 云 散 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

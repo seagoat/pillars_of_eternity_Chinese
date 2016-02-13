@@ -1,0 +1,43 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_bs_nyrid_prisoner</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“感 到 骄 傲 ，是 吗 ？离 我 远 点 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“这 是 个 不 错 的 计 划 ，你 不 得 不 承 认 …但 被 你 的 出 现 搞 砸 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“等 我 离 开 这 里 时 我 会 让 你 的 余 生 在 坑 里 腐 烂 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“趁 还 有 机 会 我 应 该 杀 了 她 ，你 这 自 以 为 是 的 混 蛋 。”</DefaultText>
+			<FemaleText>“趁 还 有 机 会 我 应 该 杀 了 她 ，你 这 自 以 为 是 的 贱 人 。” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“我 …受 到 更 残 酷 的 家 庭 暴 力 。你 却 越 来 越 软 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“嘿 ！嘿 ，别 把 我 落 下 ，我 不 想 和 那 …禽 兽 呆 在 一 起 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“我 的 天 …你 真 的 对 他 造 成 不 小 影 响 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

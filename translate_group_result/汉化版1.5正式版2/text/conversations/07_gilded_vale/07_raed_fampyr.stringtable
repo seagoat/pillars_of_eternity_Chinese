@@ -1,0 +1,107 @@
+﻿<StringTableFile>
+  <Name>conversations\07_gilded_vale\07_raed_fampyr</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>当 你 接 近 这 路 边 微 笑 着 的 女 人 时 ，你 感 到 一 股 强 烈 的 不 安 。在 这 个 距 离 你 能 看 到 她 的 皮 肤 有 一 种 病 态 的 光 泽 ，她 的 眼 睛 是 死 尸 般 的 苍 白 。她 的 表 情 怪 异 ，似 乎 在 挣 扎 着 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“如 果 你 愿 意 的 话 ，我 会 护 送 你 到 他 那 里 去 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“好 的 。带 我 去 他 那 里 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“你 是 什 么 生 物 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[攻 击 ]“和 他 一 起 死 吧 ，怪 物 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“一 位 忠 实 的 仆 人 ，因 她 出 色 的 服 务 得 到 奖 赏 。我 的 主 人 ，我 会 继 续 超 脱 循 环 ，永 远 的 行 走 在 这 片 大 地 上 。只 从 他 那 里 寻 求 答 案 ，如 果 您 愿 意 的 话 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[离 开 ]“还 不 到 时 候 ，我 需 要 时 间 准 备 ”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“那 就 来 吧 。他 在 等 你 。”她 指 了 指 高 塔 顶 端 ，并 带 你 穿 越 吊 桥 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>“够 久 了 。准 备 好 接 受 我 主 人 的 挑 战 了 么 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>“莱 德 里 克 大 人 在 恭 候 你 。”女 人 笑 着 说 。“幸 好 你 没 有 拒 绝 他 的 挑 战 。如 果 发 现 你 其 实 是 个 懦 夫 ，他 会 很 失 望 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>“如 你 所 愿 。但 请 记 住 -你 躲 不 过 他 的 复 仇 的 ，无 论 你 逃 到 哪 里 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>“莱 德 里 克 大 人 在 塔 上 等 候 你 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>“那 么 看 来 是 真 的 了 。 你 受 到 了 贝 拉 斯 的 恩 宠 。”这 苍 白 的 生 物 望 着 你 。“接 引 之 神 的 强 大 的 勇 士 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>“比 我 曾 服 侍 的 人 更 强 大 。”她 跪 了 下 来 。“我 愿 忠 诚 的 服 侍 您 ，大 人 ，如 果 您 愿 意 ，我 愿 作 您 忠 实 的 仆 人 。”</DefaultText>
+      <FemaleText>“比 我 曾 服 侍 的 人 更 强 大 。”她 跪 了 下 来 。“我 愿 忠 诚 的 服 侍 您 ，夫 人 ，如 果 您 愿 意 ，我 愿 作 您 忠 实 的 仆 人 。” </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>“很 好 。到 我 凯 德 -努 阿 的 城 堡 去 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>“让 一 具 尸 体 做 仆 人 ？还 是 算 了 吧 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The fampyr站 起 身 ，优 雅 的 行 礼 。“谢 谢 您 ，大 人 。我 这 就 出 发 。”</DefaultText>
+      <FemaleText>The fampyr 站 起 身 ，优 雅 的 行 礼 。“谢 谢 您 ，夫 人 。我 这 就 出 发 。” </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>“你 将 行 双 子 神 的 意 旨 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>“你 胜 利 了 ，勇 士 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>“我 懂 了 。”the fampyr缓 缓 站 起 身 来 ，低 着 头 。“那 么 愿 双 子 神 保 佑 你 。 我 将 走 我 自 己 的 路 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

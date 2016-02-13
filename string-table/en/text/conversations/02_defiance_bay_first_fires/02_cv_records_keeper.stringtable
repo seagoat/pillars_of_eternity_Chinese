@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\02_defiance_bay_first_fires\02_cv_records_keeper</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>53</EntryCount>
@@ -33,7 +32,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Edér frowns at you and slaps his forehead, but says nothing.</DefaultText>
+      <DefaultText>Ed&#233;r frowns at you and slaps his forehead, but says nothing.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,7 +135,7 @@ He nods, looking away as he does so.
 
 "The rosters are in the front, the inventories of the dead in back."
 
-He passes it into Edér's outstretched hands.</DefaultText>
+He passes it into Ed&#233;r's outstretched hands.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -158,7 +157,7 @@ He passes it into Edér's outstretched hands.</DefaultText>
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Edér leafs through the book for some time anxiously, running his thick farmhand's fingers over page after page of names.
+      <DefaultText>Ed&#233;r leafs through the book for some time anxiously, running his thick farmhand's fingers over page after page of names.
 
 At last, his hand stops, his fingers just below one name.</DefaultText>
       <FemaleText />
@@ -172,7 +171,7 @@ At last, his hand stops, his fingers just below one name.</DefaultText>
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Woden Teylecg, Died 18 Majiverno, 2808. Third Battle of... Clee- Clee-ah- Clîaban Rilag. 
+      <DefaultText>"Woden Teylecg, Died 18 Majiverno, 2808. Third Battle of... Clee- Clee-ah- Cl&#238;aban Rilag. 
 
 "Blazing Glanfathan names, I swear-"</DefaultText>
       <FemaleText />
@@ -230,7 +229,7 @@ He stares at the page, his jaw agape before suddenly looking up at you.
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>A strange look comes over Edér.
+      <DefaultText>A strange look comes over Ed&#233;r.
 
 "We gotta go there. That battlefield. Clee-uh- The one I said. I don't know how else I'm gonna make sense of all this. I gotta see what he saw."</DefaultText>
       <FemaleText />

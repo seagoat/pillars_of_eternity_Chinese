@@ -1,0 +1,131 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\01_defiance_bay_coppleane\01_qst_two_story</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>22</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>雙重情節的工作</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>把計劃告訴其他人</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>恢復艾佈雷肯德梅尼爾的筆記。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>把筆記還給艾佈雷肯.</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>偷取蒼運國知心。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>偷取蒼運國知心。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>把蒼運之心給艾佈雷肯。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>我聽到了一個搶劫布拉肯伯裡貴族雷蒙特領主的計劃，還找到了一個詳細描述該計劃的信件。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>我偶然間發現了一處自稱為賊的人的藏匿處，而且無意中挫敗了他們。他們的筆記裡記錄了他們闖入雷蒙特領主的領地並偷取蒼運之心的過程。
+
+這信件可能會引起雷蒙特領主和那些名字前綴「AD」的人的興趣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>艾佈雷肯德梅尼爾鼓了一群小偷進入了雷蒙特領主的領地。不幸的是，他們的信件暴露了他們的罪行。
+
+他告訴我他們在科博萊茵有一個藏身處。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我從小偷的手裡得到了艾佈雷肯的筆記。他希望我把這個帶給他。
+
+如果我告訴雷蒙德領主這個偷竊蒼運之心的計劃，他或許又會獎賞我的誠實了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我歸還了那個記錄艾佈雷肯德梅尼爾搶劫計劃的信件。現在，他派我去偷蒼運之心。艾佈雷肯堅信寶石就在二樓的某個地方；有一個窗戶，我可以從街上通過那裡進去。他想要避免所有的殺戮。
+
+蒼運之心可能會賣給熔爐騎士或者十二人眾。那兩派都想用寶石來換取與蒼運國矮人的友誼。德梅尼爾家族絕不希望他們任何一方獲得如此強大的盟友。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>德梅尼爾罪惡帝國的繼承人艾佈雷肯德梅尼爾對於我殺了他的手下和強盜感到很不高興。他給我下了最後通牒：把蒼運之心偷來，要不然就去面對德梅尼爾家族的憤怒吧。
+
+我同意去偷寶石。艾佈雷肯堅信寶石在二樓的某個地方；有一個窗戶，我可以從街上通過那裡進去。
+
+蒼運之心可能會賣給熔爐騎士或者十二人眾。那兩派都想用寶石來換取與蒼運國矮人的友誼。德梅尼爾家族絕不希望他們任何一方獲得如此強大的盟友。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10006</ID>
+			<DefaultText>我已經在雷蒙特領主那裡偷來了蒼運之心。為了兌現我與艾佈雷肯的承諾，我必須到布拉肯伯裡把寶石給他。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我已經在雷蒙特領主的領地那裡偷來了蒼運之心。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我告訴了雷蒙特領主偷取他寶石- 蒼運之心的計劃，就在他的家裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>在我把信件交給艾佈雷肯德梅尼爾之後準備離開時，他不是很高興。我至少把針對雷蒙特領主的計劃完成了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我把蒼運之心給了艾佈雷肯德梅尼爾。作為回報，艾佈雷肯保證會向他的父親- 蓋德馬爾‧德梅尼爾替我美言幾句。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText>我把寶石給了熔爐騎士，那樣他們就可以和矮人結盟了。艾佈雷肯對此肯定很不開心。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30005</ID>
+			<DefaultText>我把寶石給了十二人眾，那樣他們就可以和矮人結盟了。艾佈雷肯對此肯定很不開心。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30006</ID>
+			<DefaultText>我已經殺了艾佈雷肯德梅尼爾。他不會在需要蒼運之心了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30007</ID>
+			<DefaultText>雷蒙特領主和艾佈雷肯德梅尼爾都死了，就沒有人會知道偷盜雷蒙特領主的計劃了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
+

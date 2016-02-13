@@ -1,0 +1,104 @@
+<StringTableFile>
+  <Name>quests\02_defiance_bay_first_fires\02_qst_winds_of_steel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>鋼 之 風 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>前 往 安 斯 羅 格 海 岸 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>在 碼 頭 與 雅 蘭 洛 德 碰 面 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>回 到 煉 獄 堡 壘 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>擊 敗 鍛 爐 騎 士 叛 軍 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>回 到 煉 獄 堡 壘 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>與 高 級 騎 士 克 萊 韋 爾 談 話 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>高 級 騎 士 克 萊 韋 爾 的 鍛 爐 騎 士 似 乎 已 經 成 功 了 。事 實 上 ，最 高 審 判 者 想 要 通 過 讓 他 自 己 的 鍛 造 大 師 在 福 裡 布 雷 克 堡 造 出 更 多 的 鍛 爐 騎 士 來 擴 大 自 己 的 勢 力 。 
+
+高 級 騎 士 克 萊 韋 爾 讓 我 把 研 究 交 給 最 高 司 法 在 安 斯 羅 格 海 岸 指 揮 官 之 一 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>安 斯 羅 格 海 岸 是 反 抗 灣 北 部 的 一 個 瀉 湖 。高 級 騎 士 克 萊 韋 爾 告 訴 我 ，一 個 名 為  雅 蘭 洛 德 的 最 高 審 判 者 傳 訊 者 會 在 那 裡 等 著 我 。將 一 艘 船 直 接 送 到 反 抗 灣 可 能 會 引 起 十 二 人 眾 的 注 意 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>雅 蘭 洛 德  會 在 碼 頭 等 著 接 收 我 的 研 究 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我 已 經 把 研 究 交 給 了 雅 蘭 洛 德 ，她 現 在 正 在 回  福 裡 布 雷 克  城 堡 的 路 上 。我 應 該 回 到 在 最 初 之 火 的 煉 獄 堡 壘  - 高 級 騎 士 克 萊 韋 爾 想 知 道 研 究 是 否 被 成 功 傳 遞 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我 回 到 了 煉 獄 堡 壘 ，卻 發 現 鍛 爐 騎 士 正 在 胡 作 非 為 。煉 獄 騎 士 似 乎 打 輸 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>雅 蘭 洛 德 死 後 ，鍛 爐 騎 士 的 研 究 將 永 遠 不 會 到 達  福 裡 布 雷 克  城 堡 。無 論 如 何 ，我 應 該 在 最 初 之 火 的 煉 獄 堡 壘 ，並 回 到 高 級 騎 士 克 萊 韋 爾 那 裡 向 他 報 告 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>隨 著 鍛 爐 騎 士 的 威 脅 結 束 ，我 應 該 和 高 級 騎 士 克 萊 韋 爾 談 談 ，弄 清 這 裡 發 生 了 什 麼 事 ，並 報 告 在  安 斯 羅 格 海 岸 所 發 生 的 事 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我 從 十 二 人 眾 為 了 竊 取 薇 安 娜 的 研 究 所 進 行 伏 擊 中 逃 了 出 來 。他 們 似 乎 不 想 讓 它 到 達 福 裡 布 雷 克 城 堡 。雅 蘭 洛 德 現 在 正 在 交 接 研 究 的 路 上 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我 不 知 道 鍛 爐 騎 士 抽 了 什 麼 瘋 ，但 高 級 騎 士 克 萊 韋 爾 可 以 解 釋  - 如 果 他 活 下 來 了 的 話 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>在 交 接 的 過 程 中 ，十 二 人 眾 的 成 員 帕 德 巴 爾 德 伏 擊 了 煉 獄 騎 士 和 我 。十 二 人 眾 企 圖 制 止 煉 獄 騎 士 建 立 一 支 鍛 爐 騎 士 大 軍 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我 在 煉 獄 堡 壘 一 同 抵 抗 鍛 爐 騎 士 。克 萊 韋 爾 感 謝 了 我 ，並 承 諾 在 未 來 他 會 支 持 我 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>高 級 騎 士 克 萊 韋 爾 死 了 。我 不 能 指 望 煉 獄 騎 士 會 支 持 我 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,33 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_bs_lucen_prisoner</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>5</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“求你了，大人...我对我做得事感到抱歉。放我走吧。我会做个诚实的人！”</DefaultText>
+			<FemaleText>&quot;Please, my lady... I&apos;m sorry I did it. Let me go and I&apos;ll live an honest life!&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“我没伤害到任何人！求你了，放了我吧。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“不，别靠近我...”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“你这残忍的混蛋！我伤到你了？”</DefaultText>
+			<FemaleText>&quot;You... she-wolf! What harm have I caused you?&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“下地狱去吧，你这疯子！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

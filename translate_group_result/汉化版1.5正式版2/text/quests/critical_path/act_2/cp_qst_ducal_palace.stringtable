@@ -1,0 +1,170 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\critical_path\act_2\cp_qst_ducal_palace</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>31</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>哈 德 雷 特 宅 邸 的 隐 士 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>在 哈 德 雷 特 宅 邸 与 韦 伯 夫 人  谈 话 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>被 邀 请 加 入 灵 魂 研 究 听 证 会 代 表 团 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>回 到 布 拉 肯 伯 里 的 哈 德 雷 特 宅 邸 和 韦 伯 夫 人  说 参 加 听 证 会 的 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>到 最 初 之 火 的 公 爵 宫 殿 出 席 听 证 会 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>回 到 布 拉 肯 伯 里 的 哈 德 雷 特 宅 邸 和 韦 伯 夫 人  说 发 生 了 什 么 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>回 到 哈 德 雷 特 宅 邸 和 韦 伯 夫 人  说 你 没 被 邀 请 参 加 灵 魂 研 究 听 证 会 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>告 知 韦 伯 夫 人  关 于 暗 灰 之 钥 的 活 动 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>我 被 韦 伯 夫 人  召 集 到 顿 瑞 德 街 道 办 ，比 起 我 对 她 的 了 解 ，这 个 隐 居 的 女 人 似 乎 更 加 了 解 我 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>我 被 召 集 到 布 拉 肯 伯 里 的 哈 德 雷 特 宅 邸 与 韦 伯 夫 人  会 面 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>为 了 在 宫 殿 参 加 灵 魂 研 究 听 证 会 ，我 需 要 出 席 听 证 会 的 三 个 主 要 派 系 之 一 支 持 我 ：炼 狱 骑 士 ，德 梅 尼 尔 家 族 或 者 十 二 人 众 。
+
+炼 狱 骑 士 在 最 初 之 火 有 一 座 堡 垒 。
+
+德 梅 尼 尔 家 族 在 布 拉 肯 伯 里 有 一 个 庄 园 。
+
+十 二 人 众 的 基 地 在 科 博 莱 茵 的 远 征 军 大 厅 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>现 在 ，我 正 式 被 邀 请 参 加 灵 魂 研 究 听 证 会 ,我 应 该 回 到 韦 伯 夫 人  身 边 ，告 诉 她 最 新 进 展 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我 应 该 前 往 最 初 之 火 的 宫 殿 并 尽 快 参 加 听 证 会 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>公 爵 被 暗 杀 在 反 抗 湾 之 中 引 起 一 片 恐 慌 。韦 伯 夫 人  可 能 是 唯 一 可 以 重 建 秩 序 的 人 。我 需 要 前 往 哈 德 雷 特 宅 邸 ，告 诉 她 发 生 了 什 么 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10007</ID>
+			<DefaultText>我 已 经 惹 恼 了 炼 狱 骑 士 ，德 梅 尼 尔 家 族 和 十 二 人 众 ，所 以 加 入 灵 魂 研 究 听 证 会 是 不 可 能 的 了 。我 需 要 回 到 哈 德 雷 特 宅 邸 并 告 诉 韦 伯 夫 人  我 的 处 境 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10008</ID>
+			<DefaultText>韦 伯 夫 人  要 我 随 时 通 知 她 关 于 暗 灰 之 钥 在 迪 伍 德 的 活 动 。我 在 Woedican教 堂 的 地 下 墓 穴 中 发 现 的 东 西 应 该 对 她 很 有 用 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>我 为 德 梅 尼 尔 家 族 做 了 一 些 工 作 ,但 如 果 我 想 加 入 他 们 的 代 表 团 还 需 要 给 德 梅 尼 尔 领 主 本 人 留 下 深 刻 印 象 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>十 二 人 众 的 领 袖 维 南 愿 意 让 我 加 入 他 们 的 代 表 团 ，但 前 提 是 我 要 为 他 们 做 足 够 多 的 事 情 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>炼 狱 骑 士 的 高 级 骑 士 克 莱 韦 尔 会 让 我 进 入 听 证 会 ，条 件 是 为 他 们 做 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>我 已 经 被 邀 请 加 入 德 梅 尼 尔 家 族 的 代 表 团 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>我 已 经 被 邀 请 加 入 十 二 人 众 的 代 表 团 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20005</ID>
+			<DefaultText>我 已 经 被 邀 请 加 入 炼 狱 骑 士 的 代 表 团 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20006</ID>
+			<DefaultText>我 引 起 了 德 梅 尼 尔 家 的 愤 怒 ，他 们 将 不 再 考 虑 与 我 合 作 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20007</ID>
+			<DefaultText>我 的 行 为 不 可 挽 回 地 切 断 了 我 与 十 二 人 众 的 关 系 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20008</ID>
+			<DefaultText>炼 狱 骑 士 不 再 愿 意 与 我 合 作 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20009</ID>
+			<DefaultText>韦 伯 夫 人  要 我 随 时 通 知 她 关 于 暗 灰 之 钥 在 迪 伍 德 的 活 动 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20010</ID>
+			<DefaultText>我 告 诉 了 韦 伯 夫 人  的 暗 灰 之 钥 在 传 承 山 的 活 动 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20011</ID>
+			<DefaultText>我 告 诉 了 她 我 在 卡 里 班 利 莱 格 从 暗 灰 之 钥 成 员 灵 魂 中 收 集 的 东 西 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20012</ID>
+			<DefaultText>在 布 拉 肯 伯 里 疗 养 院 遇 到 赛 奥 斯 后 ，我 让 韦 伯 夫 人  知 道 了 他 似 乎 在 试 图 破 坏 灵 魂 学 者 的 声 誉 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>韦 伯 夫 人  被 赛 奥 斯 杀 死 在 她 自 己 的 床 上 ，但 在 此 之 前 ，她 弄 清 了 他 要 去 哪 。她 帮 了 我 很 大 的 忙 ，尽 管 我 怀 疑 她 是 否 意 识 到 了 这 一 点 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>韦 伯 夫 人  被 杀 后 ，我 失 去 了 一 份 重 要 关 系 。没 有 她 的 指 导 和 联 系 ，我 没 有 成 功 的 希 望 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
+

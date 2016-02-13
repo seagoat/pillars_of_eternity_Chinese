@@ -1,0 +1,91 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\12_twin_elms_oldsong\12_qst_the_streamstilled</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>16</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>進入White Void</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>在雙榆城找到Noonfrost。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>在Noonfrost 中找到Frost-Hewn Breach。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>封印Frost-Hewn Breach。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>返回到雙榆城領土內的泰爾埃弗隆。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>返回到雙榆城領土內的泰爾埃弗隆。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>裡姆甘德向我展示了傳送門的幻象——所謂的Frost-Hewn Breach，而蒼白的精靈正在試圖打開它。在幻象中，精靈碎成了雪，而我用我醒著的時候就擁有的一塊水晶將傳送門封了起來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>Frost-Hewn Breach似乎是Noonfrost神殿的一部分。如果我能在雙榆城找到裡姆甘德做禮拜的地方，我就可能發掘出幻象背後的含義。
+
+當地人一定知道關於這個地方的事情。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我發現了Noonfrost，古老樂曲區中裡姆甘德的神殿。Frost-Hewn Breach 一定就在這兒。當我找到它時，根據裡姆甘德的願望，我可以使用幻象裡的碎片來關閉它。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我終於找到了Frost-Hewn Breach。把碎片放在冷凍傳送門的門口以關閉它。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我已經完成了裡姆甘德給我的任務。現在，我可以回到泰爾埃弗隆讓他施放祝福術。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>我把碎片給了格拉斯瓦爾，使他能夠進入White Void。碎片消失了，而Frost-Hewn Breach仍處於打開狀態，現在除了回到裡姆甘德之外也沒有什麼選擇了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>Noonfrost 位於古老樂曲區。很顯然，它凍結了那裡的湖。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我關上了Noonfrost的Frost-Hewn Breach以防Glaswal 和他的族群通過它。裡姆甘德、Ondra和斯卡恩感到十分開心，答應幫助我進入the pit to 暗影之陽。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我允許了Glaswal 和他的族群通過Frost-Hewn Breach，並且說服了裡姆甘德，讓他相信這會給他榮耀。裡姆甘德、Ondra和斯卡恩發誓要幫助我進入the pit to 暗影之陽。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>Glaswal 和他的族群通過了Frost-Hewn Breach。裡姆甘德感到不悅並拒絕幫助我- 我不得不尋求另一個神的幫助。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
+

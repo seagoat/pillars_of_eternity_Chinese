@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\test_prisoner</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>DEBUG PRISONER</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>关押</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>不关押</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,22 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\08_wilderness\08_cv_rhemen_entry_head</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>2</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>你 听 到 你 头 顶 上 的 石 头 脑 袋 传 来 刺 耳 的 刮 擦 声 。它 脑 袋 上 凹 陷 下 去 的 绿 萤 眼 窝 闪 过 一 道 绿 光 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>它 的 石 头 嘴 传 出 一 个 低 沉 的 声 音 来 。它 吐 出 的 句 子 是 你 的 母 语 ，但 是 句 子 混 乱 咬 字 不 清 。
+
+
+
+“没 有 比 青 铜 锻 造 的 刀 刃 内 核 更 精 华 的 兵 器 了 。向 左 转 两 个 弯 ，准 备 接 受 你 灵 魂 的 最 终 审 判 吧 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

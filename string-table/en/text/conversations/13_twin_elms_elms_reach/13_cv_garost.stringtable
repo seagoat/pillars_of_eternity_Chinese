@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\13_twin_elms_elms_reach\13_cv_garost</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>18</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"The Ethik Nôl welcome your presence, supplicants."</DefaultText>
+      <DefaultText>"The Ethik N&#244;l welcome your presence, supplicants."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +30,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Tell me about the Ethik Nôl."</DefaultText>
+      <DefaultText>"Tell me about the Ethik N&#244;l."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +45,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"The Glanfathans call this place Blood Sands. We call it home. The Ethik Nôl have tended the land from within this cave since before the arrival of the tribes to Twin Elms."</DefaultText>
+      <DefaultText>"The Glanfathans call this place Blood Sands. We call it home. The Ethik N&#244;l have tended the land from within this cave since before the arrival of the tribes to Twin Elms."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

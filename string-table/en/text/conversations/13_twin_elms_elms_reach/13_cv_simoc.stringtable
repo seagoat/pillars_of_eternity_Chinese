@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\13_twin_elms_elms_reach\13_cv_simoc</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>138</EntryCount>
@@ -107,7 +106,7 @@ As he straightens, his chest heaves with thick, bubbling breaths. "It seems the 
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>He gives you an appraising eye. "But you and the Ethik Nôl are already well-acquainted."</DefaultText>
+      <DefaultText>He gives you an appraising eye. "But you and the Ethik N&#244;l are already well-acquainted."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,14 +135,14 @@ He raises his chin. "We have always been the border tribe. And it has always fal
       <ID>31</ID>
       <DefaultText>"As anamfath of Three-Tusk Stelgaer, I guide our tribe in all matters."
 
-He looks to the main room of the hut, where others have gathered. "I am in Twin Elms to confer with some of the other anamfatha about the onolfên - your Hollowborn. We only have such births here on occasion, but it has made us more vigilant about our neighbors."
+He looks to the main room of the hut, where others have gathered. "I am in Twin Elms to confer with some of the other anamfatha about the onolf&#234;n - your Hollowborn. We only have such births here on occasion, but it has made us more vigilant about our neighbors."
 
 One stelgaer stretches, flexing its claws.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Simoc's eyes narrow. "There are some of us who believe your onolfên to be a punishment for the defilement of the Builders' sites. Others say it's a plague carried by the estramorwn."</DefaultText>
+      <DefaultText>Simoc's eyes narrow. "There are some of us who believe your onolf&#234;n to be a punishment for the defilement of the Builders' sites. Others say it's a plague carried by the estramorwn."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -173,7 +172,7 @@ One stelgaer stretches, flexing its claws.</DefaultText>
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>His hunched shoulders straighten. "I fought in the Broken Stone War and the War of Black Trees. I saw my brethren cut down defending the places of the Builders, and I shed blood alongside Galven Rêgd himself."</DefaultText>
+      <DefaultText>His hunched shoulders straighten. "I fought in the Broken Stone War and the War of Black Trees. I saw my brethren cut down defending the places of the Builders, and I shed blood alongside Galven R&#234;gd himself."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -225,14 +224,14 @@ His gaze darkens. "And I've seen what happens when they set their sights on Glan
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>The old man's hair is in disarray, his face twisted by old scars and fresh fury. "Murdered. Nearly every druid of the Ethik Nôl, slaughtered by their altars in Blood Sands. And none know who to blame."
+      <DefaultText>The old man's hair is in disarray, his face twisted by old scars and fresh fury. "Murdered. Nearly every druid of the Ethik N&#244;l, slaughtered by their altars in Blood Sands. And none know who to blame."
 
 He shakes his head, snarling. "Those fools in the Guided Compass rejoice. They don't understand what we've lost."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"It belonged to the druids of the Ethik Nôl. While many found their practices and sacrifices disturbing, they gave us war paints of great power."
+      <DefaultText>"It belonged to the druids of the Ethik N&#244;l. While many found their practices and sacrifices disturbing, they gave us war paints of great power."
 
 He shakes his head. "Losing this place with the estramorwn at our gates... it shall cost us."</DefaultText>
       <FemaleText />
@@ -289,12 +288,12 @@ His voice drops to a growl. "I've sired a dozen children, but none have been dee
       <ID>61</ID>
       <DefaultText>"Not entirely. We believe that the souls of our ancestors come back to us, that a strong soul may bear many more. But all souls must be tested by our elders.
 
-"The rîow looked first among my children for a successor, but their souls were weak. Ordinarily, they would turn to others in my tribe, to clan heads and their families."</DefaultText>
+"The r&#238;ow looked first among my children for a successor, but their souls were weak. Ordinarily, they would turn to others in my tribe, to clan heads and their families."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Ordinarily, the rîow would turn to others in my tribe, to clan heads and their families."</DefaultText>
+      <DefaultText>"Ordinarily, the r&#238;ow would turn to others in my tribe, to clan heads and their families."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -303,7 +302,7 @@ His voice drops to a growl. "I've sired a dozen children, but none have been dee
 
 "But we share a tradition of fostering the children of other tribes, and the anamfath of Fisher Crane has trusted his youngest to my care." 
 
-He grimaces. "And as none of my own blood are fit to take my place, the rîow will look next to this bog child, the kin of another anamfath and my foster daughter, to take my place."</DefaultText>
+He grimaces. "And as none of my own blood are fit to take my place, the r&#238;ow will look next to this bog child, the kin of another anamfath and my foster daughter, to take my place."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -349,7 +348,7 @@ He crosses his arms. "But this will not deter the estramorwn on open ground."</D
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>He considers you. "There is a way you could help. Especially since the Ethik Nôl already know and respect you."</DefaultText>
+      <DefaultText>He considers you. "There is a way you could help. Especially since the Ethik N&#244;l already know and respect you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -502,7 +501,7 @@ He nods once. "Consider it well, estramor. I am not above rewarding those who ar
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>Edér pays no attention to the elf, and instead has locked eyes with the stelgaer in front of him. He whispers to you, "Do you think he'd mind if I pet his stelgaer?"</DefaultText>
+      <DefaultText>Ed&#233;r pays no attention to the elf, and instead has locked eyes with the stelgaer in front of him. He whispers to you, "Do you think he'd mind if I pet his stelgaer?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -581,7 +580,7 @@ Hiravias folds his arms and shrugs. "He's got all the reason in Eora to worry."<
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>Edér rubs the bridge of his nose. He rattles his head, as if to clear cobwebs. "So all we have to do is steal a baby's soul? What's the catch?"</DefaultText>
+      <DefaultText>Ed&#233;r rubs the bridge of his nose. He rattles his head, as if to clear cobwebs. "So all we have to do is steal a baby's soul? What's the catch?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

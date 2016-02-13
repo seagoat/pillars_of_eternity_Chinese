@@ -1,0 +1,43 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\companions\poi\poi_bs_great_hall</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>Bank Node 1</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“你 说 他 知 道 我 们 坐 在 他 的 椅 子 上 会 发 疯 吗 ？他 还 是 别 知 道 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“嗯 ，这 …很 不 寻 常 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“显 然 是 鹿 丛 人 弄 的 ……他 们 喜 欢 他 们 的 拱 门 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“这 个 地 方 散 发 出 发 霉 腐 烂 的 木 头 味 。他 们 真 是 豆 腐 渣 工 程 …和 因 格 维 斯 人 不 一 样 ……”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>“这 么 简 陋 的 堡 垒 中 这 样 一 个 不 祥 的 宝 座 …”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>“如 果 我 是 你 的 话 ，我 不 会 坐 在 那 里 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

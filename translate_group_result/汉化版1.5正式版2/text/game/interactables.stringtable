@@ -1,0 +1,3902 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>game\interactables</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>765</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>光 辉 之 柱 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>这 具 身 体 向 前 倾 ，好 像 在 看 着 自 己 流 尽 了 最 后 一 滴 血 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>这 个 男 人 自 胳 膊 肘 到 手 腕 一 处 都 被 切 开 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>他 被 切 开 的 喉 咙 处 血 液 已 经 凝 结 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>酷 刑 架 倒 在 血 泊 中 ，上 面 全 是 指 甲 留 下 的 痕 迹 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>这 条 凌 乱 又 肮 脏 的 被 褥 似 乎 最 近 刚 有 人 使 用 过 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>电 线 缠 绕 着 墙 面 穿 过 天 花 板 连 接 到 一 间 反 射 着 亮 光 的 玻 璃 小 房 内 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>浓 稠 的 液 体 在 水 缸 里 冒 出 许 多 水 泡 ，并 散 发 出 刺 鼻 的 气 味 。掉 落 的 尘 埃 在 混 合 液 体 中 打 旋 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>一 把 项 饰 装 扮 着 这 具 石 棺 。棺 盖 上 的 名 字 似 乎 被 人 划 过 难 以 辨 别 名 字 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>一 座 黑 石 眼 的 小 柳 条 雕 像 摆 放 在 微 弱 的 烛 光 中 间 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>洞 穴 内 是 一 些 人 和 野 兽 的 头 骨 和 骨 头 。那 些 骨 头 被 压 碎 ，刮 划 ，腐 蚀 ，并 且 还 被 奥 玛 人 手 指 般 粗 的 尖 牙 药 穿 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>桌 子 也 和 其 它 的 东 西 一 样 ，树 干 部 分 被 人 横 切 开 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>厚 实 的 兽 皮 摊 在 架 子 上 ，似 乎 是 蝎 虎 狮 的 皮 。固 化 剂 和 防 水 剂 涂 满 了 表 面 ，散 发 着 一 股 浓 重 的 药 味 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>蝠 魔 的 头 部 似 乎 和 旅 店 一 样 古 老 。它 坚 韧 的 皮 肤 经 久 泡 在 药 水 里 ，一 触 就 碎 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>浓 重 的 香 味 从 水 桶 里 弥 漫 开 来 。狭 板 接 合 处 被 玷 污 成 了 深 棕 色 和 暗 紫 色 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>木 桶 里 装 满 了 燃 料 。它 们 闻 起 来 就 像 粪 便 和 腐 烂 植 物 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>这 幅 画 描 绘 了 苍 运 高 山 下 广 阔 的 山 麓 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>静 止 的 画 面 中 画 了 各 种 水 果 和 鲜 花 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>这 幅 画 描 绘 了 活 化 之 地 某 处 的 森 林 峡 谷 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>这 扇 窗 户 的 玻 璃 碎 了 。弯 曲 的 ，多 节 的 木 板 钉 在 上 面 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>壁 龛 里 的 图 像 描 绘 出 的 是 一 排 苍 白 的 石 群 围 绕 着 一 套 盔 甲 。有 液 体 从 石 群 中 流 到 盔 甲 里 ，使 它 看 起 来 散 发 着 金 色 的 光 环 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>绿 萤 从 中 柱 里 长 出 并 爬 满 了 台 阶 。发 光 的 ，鸡 蛋 形 状 的 石 头 夹 杂 在 波 纹 状 的 绿 萤 之 中 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>四 块 鸡 蛋 形 状 的 石 头 布 置 在 狭 窄 底 座 上 。全 部 面 对 这 房 间 中 央 的 祭 坛 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>所 有 民 间 风 俗 的 图 片 都 钉 在 了 这 块 板 上 ，此 外 还 刻 上 了 一 些 难 懂 的 笔 记 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>这 张 地 图 展 现 了 反 抗 湾 周 围 的 环 境 。旗 帜 标 记 着 进 入 城 市 的 战 略 关 口 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>板 上 雕 刻 的 笔 记 隐 晦 难 懂 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>风 干 的 薰 衣 草 和 迷 迭 香 在 厨 房 里 散 发 着 香 味 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>卷 轴 紧 紧 地 楔 入 架 子 里 。每 张 卷 轴 封 面 上 都 潦 草 地 写 上 了 一 个 名 字 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>底 部 的 大 理 石 已 经 被 成 百 双 脚 磨 得 发 亮 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>珍 贵 的 前 维 拉 酒 馆 画 像 被 一 层 一 英 尺 厚 的 玻 璃 隔 绝 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>这 是 著 名 鹿 丛 人 画 家 的 杰 作 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>受 到 炉 火 的 高 温 影 响 ，小 刀 都 存 有 温 度 。他 们 看 起 来 非 常 锋 利 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>烧 黑 的 木 桶 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>这 幅 森 林 峡 谷 画 有 种 说 不 上 感 觉 的 舒 适 效 果 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>桌 子 上 摆 放 着 一 些 册 子 和 说 明 单 ，写 的 是 类 似 于 “灵 魂 研 究 的 实 际 价 值 ”和 “从 容 灵 魂 的 灵 魂 调 节 。”一 类 的 标 题 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>一 名 战 士 石 像 盯 着 她 举 起 的 手 。手 里 什 么 也 没 ，只 能 看 到 乌 黑 的 手 掌 和 手 指 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>雕 像 盯 着 一 团 火 。火 苗 那 边 传 来 的 热 量 让 你 感 觉 满 是 暖 意 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>该 日 程 略 述 了 一 个 关 于 反 抗 湾 不 断 增 加 的 难 民 的 会 议 。该 会 议 的 的 决 议 非 常 具 有 争 议 性 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>桶 底 结 了 一 层 厚 厚 的 灰 尘 。旁 边 挂 着 的 毛 巾 散 发 出 一 股 恶 心 的 臭 气 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>这 是 艾 比 顿 的 象 征 ——一 把 巨 大 的 锻 造 锤 ，装 在 一 个 圆 形 的 齿 轮 上 面 。在 抛 光 油 的 作 用 下 ，它 平 滑 光 亮 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>熔 炉 中 喷 出 火 舌 ，伴 随 着 与 巨 龙 的 呼 吸 一 样 炽 热 的 烟 雾 发 出 嘶 嘶 声 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>传 承 山 墓 地 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>传 承 山 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>最 初 之 火 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>该 地 下 室 也 被 撬 开 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>交 叉 的 抓 痕 布 满 了 地 下 室 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>这 个 陵 墓 已 经 密 封 好 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+      <DefaultText>旗 子 上 画 着 瓦 里 安 共 和 国 的 标 志 ——一 艘 船 航 行 在 五 颗 闪 亮 的 星 星 下 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>这 座 古 塔 的 石 头 已 经 被 几 个 世 纪 以 来 的 大 火 熏 黑 。包 围 在 野 花 之 中 ，看 起 来 就 像 纪 念 碑 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>坛 装 货 物 ，过 期 的 食 品 ，曾 经 无 价 的 花 屏 ——现 已 破 裂 ——填 满 了 货 车 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+ 
+			<ID>86</ID>
+			<DefaultText>黑 暗 中 ，有 什 么 东 西 在 木 板 之 间 抽 动 。一 股 腐 烂 的 味 道 从 那 房 子 里 冒 出 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+      <DefaultText>底 座 的 小 牌 匾 上 写 着 ：“自 由 胜 过 一 切 ——阿 德 麦 •哈 德 莱 特 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+  
+			<ID>88</ID>
+			<DefaultText>亨 黛 娜 的 杂 货 店 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+			<DefaultText>温 弗 里 斯 的 兵 械 店 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>一 堆 光 滑 的 头 盖 骨 被 小 心 的 堆 放 在 这 个 棺 材 上 。上 刻 铭 文 ：“贝 拉 斯 的 信 念 在 此 。通 往 某 处 的 终 点 ……”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+			<DefaultText>头 盖 骨 之 间 点 放 的 蜡 烛 散 发 出 麝 香 的 味 道 。棺 材 上 写 道 ：“……开 拓 一 条 新 路 。贝 拉 斯 的 信 念 重 生 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			 <ID>92</ID>
+      <DefaultText>借 还 书 记 录 填 满 了 小 房 间 的 孔 洞 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>不 可 能 ，每 当 你 背 对 时 画 面 上 的 眼 睛 都 似 乎 在 移 动 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>这 些 页 面 上 的 符 号 翻 滚 变 换 着 ，令 人 目 不 暇 接 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+			<ID>98</ID>
+			<DefaultText>数 不 尽 的 头 盖 骨 镶 嵌 在 你 背 后 的 墙 上 面 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>99</ID>
+			<DefaultText>桌 子 上 有 一 本 书 ，里 面 充 满 了 莫 名 其 妙 地 密 码 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>101</ID>
+			<DefaultText>狂 热 的 信 徒 放 置 了 各 种 各 样 的 钥 匙 ，他 们 的 牙 齿 卷 入 了 蜡 流 之 中 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>102</ID>
+			<DefaultText>昂 德 拉 之 地 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>103</ID>
+			<DefaultText>最 初 之 火 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>104</ID>
+			<DefaultText>海 风 怒 吼 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>105</ID>
+			<DefaultText>科 博 莱 茵 区 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>106</ID>
+			<DefaultText>咸 桅 杆 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>107</ID>
+			<DefaultText>码 头 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>108</ID>
+			<DefaultText>藤 壶 怒 吼 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>109</ID>
+			<DefaultText>科 博 莱 茵 区 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>110</ID>
+			<DefaultText>悬 挂 在 吊 车 上 的 绳 子 随 着 海 洋 微 风 摇 摆 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>111</ID>
+			<DefaultText>搁 浅 的 船 上 布 满 了 结 壳 的 藤 壶 。不 知 什 么 东 西 -有 可 能 是 参 差 不 齐 的 绿 莹 指 状 物 -从 木 头 的 裂 缝 处 爬 向 深 处 。那 些 驶 到 此 处 的 人 ，要 么 是 绝 望 求 死 ，要 么 是 没 经 验 的 新 手 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>112</ID>
+			<DefaultText>这 个 女 人 似 乎 是 从 山 墙 背 后 显 现 了 出 来 。她 就 像 是 一 具 穿 着 布 袍 的 尸 体 ，她 的 目 光 盯 着 空 旷 的 门 厅 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>113</ID>
+			<DefaultText>一 个 脸 色 惨 白 的 男 人 看 着 通 往 大 山 的 路 ，一 只 手 举 起 ，另 外 一 只 指 向 门 口 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>114</ID>
+			<DefaultText>德 拉 科 根 旅 店 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>115</ID>
+			<DefaultText>一 堆 各 种 各 样 的 生 锈 的 刀 片 装 饰 这 个 桌 子 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>116</ID>
+			<DefaultText>尘 土 和 蜘 蛛 网 被 扫 到 一 边 ，好 用 来 堆 放 各 种 各 样 的 炼 金 术 设 备 。虽 然 布 满 尘 土 ，但 是 看 上 去 像 是 被 刚 使 用 过 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+		 <ID>118</ID>
+      <DefaultText>这 些 分 散 而 狂 热 的 记 录 详 述 了 各 种 各 样 的 通 灵 术 步 骤 和 仪 式 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+			<ID>119</ID>
+			<DefaultText>他 们 脚 下 的 花 瓶 里 有 两 个 用 绿 萤 石 雕 刻 的 人 ，一 男 一 女 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>120</ID>
+			<DefaultText>厚 厚 的 蜘 蛛 网 在 洞 穴 微 风 中 摇 荡 。像 木 乃 伊 残 骸 一 样 的 东 西 和 他 们 纠 缠 在 一 起 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+		 <ID>124</ID>
+      <DefaultText>“……意 想 不 到 的 结 果 。犬 类 主 人 无 精 打 采 且 反 应 迟 钝 ，但 它 被 确 定 为 注 入 了 猫 的 灵 魂 。纱 线 起 到 了 有 力 的 刺 激 作 用 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>这 本 瓦 里 安 爱 情 短 诗 在 第 一 页 有 一 处 献 词 ：“献 给 我 亲 爱 的 凯 恩 拉 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+			<ID>128</ID>
+			<DefaultText>书 籍 凌 乱 地 散 落 着 ，看 上 去 像 是 有 人 来 匆 忙 的 翻 找 过 什 么 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>129</ID>
+			<DefaultText>这 些 罐 子 已 经 裂 开 ，好 像 是 掉 到 了 地 上 ，又 被 放 回 了 原 地 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>130</ID>
+			<DefaultText>有 人 已 经 在 一 张 临 时 的 床 上 铺 好 了 床 单 ，放 上 了 毛 巾 。这 些 凌 乱 的 织 物 上 面 留 有 血 迹 和 未 清 洗 的 汗 渍 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>131</ID>
+			<DefaultText>倒 置 的 花 瓶 的 一 侧 有 血 色 污 点 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>132</ID>
+			<DefaultText>账 本 打 开 着 ，放 在 桌 子 上 。上 面 列 着 买 卖 各 种 炼 金 术 材 料 的 数 量 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>133</ID>
+			<DefaultText>磨 在 谷 槽 上 慢 慢 地 磨 着 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			 <ID>134</ID>
+      <DefaultText>这 个 空 壁 龛 下 的 文 字 写 道 ：“埃 米 洛 •瓦 塔 斯 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>这 个 空 壁 龛 下 的 文 字 写 道 ：“伊 瑟 •梅 丽 斯 ，瓦 塔 斯 小 姐 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>这 个 空 壁 龛 下 的 文 字 写 道 ：“瓦 莱 里 奥 •瓦 塔 斯 ，豪 斯 •瓦 塔 斯 小 姐 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+			<ID>140</ID>
+			<DefaultText>那 些 年 代 久 远 的 碎 骨 头 是 不 计 其 数 的 遇 难 者 留 下 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>141</ID>
+			<DefaultText>苍 蝇 在 这 具 腐 烂 的 食 人 魔 头 颅 上 盘 旋 ，聚 集 再 它 的 眼 窝 处 和 脱 臼 的 下 巴 处 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>142</ID>
+			<DefaultText>这 个 木 质 脚 手 架 已 经 腐 烂 ，是 被 自 重 压 垮 的 。在 它 周 围 有 明 显 的 挖 掘 痕 迹 ，很 明 显 已 经 被 遗 弃 很 久 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>143</ID>
+			<DefaultText>虽 然 遭 受 了 长 年 累 月 的 磨 损 ，这 些 壁 龛 上 还 是 刻 着 鹿 丛 人 的 姓 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>144</ID>
+			<DefaultText>一 个 腐 朽 的 盾 牌 ，装 饰 有 枝 繁 叶 茂 的 树 ，装 饰 着 这 面 墙 。底 座 的 雕 刻 物 上 面 写 着 ：“岩 伍 德 伯 爵 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>145</ID>
+			<DefaultText>这 些 骨 头 被 清 洗 过 ，有 些 已 经 被 敲 碎 用 来 取 得 其 中 的 骨 髓 。都 有 牙 齿 的 印 记 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>147</ID>
+			<DefaultText>这 个 壁 龛 边 缘 排 有 稻 草 ，成 束 的 皮 革 和 羽 毛 。空 气 中 有 麝 香 的 味 道 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>148</ID>
+			<DefaultText>这 座 石 棺 曾 经 被 盗 走 ，里 面 的 东 西 被 移 动 过 。尸 骨 在 ，但 是 却 被 毁 坏 了 ，头 盖 骨 被 敲 成 碎 片 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>149</ID>
+			<DefaultText>一 尊 玛 格 岚 的 雕 像 ，她 是 战 争 与 火 焰 之 神 。许 多 名 字 被 刻 在 她 脚 下 的 石 头 上 ，乞 求 者 在 寻 求 她 的 保 佑 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>151</ID>
+			<DefaultText>这 些 巢 穴 显 然 已 被 废 弃 ，被 蜘 蛛 占 领 。一 些 定 身 骨 和 残 骸 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>152</ID>
+			<DefaultText>八 双 闪 闪 发 光 的 眼 睛 看 着 你 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>153</ID>
+			<DefaultText>这 些 大 的 巢 穴 似 乎 是 用 一 种 厚 重 的 ，坚 忍 的 丝 编 织 而 成 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>154</ID>
+			<DefaultText>一 只 小 蜘 蛛 蜷 缩 在 巢 穴 的 后 部 。它 发 出 嘶 嘶 声 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>157</ID>
+			<DefaultText>卵 石 和 砖 堆 满 了 那 辆 腐 朽 的 旧 马 车 ，上 面 覆 盖 着 厚 厚 的 蜘 蛛 网 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>158</ID>
+			<DefaultText>这 精 心 雕 琢 的 柱 子 被 风 化 过 后 ，上 面 覆 盖 着 一 层 沉 闷 的 铜 绿 ，看 上 去 远 远 比 其 周 围 的 结 构 要 古 老 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>159</ID>
+			<DefaultText>即 使 在 远 处 ，这 些 瓶 瓶 罐 罐 散 发 出 的 异 味 都 能 被 问 到 。一 些 小 的 ，怪 诞 的 东 西 漂 浮 在 暗 色 的 液 体 之 中 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>160</ID>
+			<DefaultText>绿 萤 就 像 青 苔 一 样 覆 盖 着 洞 穴 的 墙 壁 。有 一 种 奇 怪 的 温 暖 的 触 感 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>161</ID>
+			<DefaultText>这 些 遗 骸 又 老 有 脆 ，沿 着 洞 穴 地 板 上 散 落 的 碎 片 表 明 他 们 是 被 拖 到 这 里 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>162</ID>
+			<DefaultText>桌 子 上 有 一 本 书 ，里 面 充 满 了 莫 名 其 妙 地 文 字 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>163</ID>
+			<DefaultText>一 股 腐 朽 的 甜 味 从 这 个 吃 了 一 半 的 水 果 上 散 发 出 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>164</ID>
+			<DefaultText>这 些 远 古 骨 骼 的 周 围 长 满 了 树 木 和 灌 木 ，加 拉 维 恩 的 纪 念 碑 被 覆 盖 在 它 们 的 叶 子 下 面 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>166</ID>
+			<DefaultText>池 边 的 尸 体 呈 痛 苦 的 扭 曲 状 ，这 一 定 是 他 生 前 最 后 的 挣 扎 。腐 烂 了 的 手 的 骸 骨 还 掐 着 他 的 喉 咙 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>167</ID>
+			<DefaultText>蛇 蜥 人 把 硬 币 堆 起 来 ，丢 弃 珠 宝 ，击 碎 装 饰 性 武 器 和 盔 甲 的 碎 片 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>168</ID>
+			<DefaultText>肢 体 和 器 官 在 这 个 血 液 和 软 骨 的 泥 潭 中 上 下 跳 动 。残 杀 激 起 了 从 上 面 的 隧 道 偶 尔 吹 来 的 阵 风 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>169</ID>
+			<DefaultText>布 满 墙 边 的 绿 萤 颜 色 暗 淡 ，摸 上 去 很 冰 冷 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>170</ID>
+			<DefaultText>这 份 文 件 估 算 了 过 去 三 个 月 的 难 民 流 。数 量 每 周 增 长 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>173</ID>
+			<DefaultText>钳 子 ，方 柄 凿 ，榔 头 ，套 锤 ，以 及 钻 孔 工 具 悬 挂 在 墙 上 。摸 起 来 沉 重 且 坚 固 ，但 他 们 被 火 焰 熏 黑 的 表 面 证 明 它 们 被 频 繁 使 用 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>176</ID>
+			<DefaultText>枕 头 蓬 松 ，充 满 了 软 毛 。在 此 睡 觉 的 人 ，一 定 会 睡 得 很 香 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>177</ID>
+			<DefaultText>名 字 从 上 到 下 充 满 了 真 个 卷 轴 。名 字 后 面 是 付 款 金 额 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>179</ID>
+			<DefaultText>该 桌 子 镶 有 银 色 框 板 ，上 面 有 金 色 烛 台 。显 然 ，游 荡 者 会 非 常 喜 爱 此 处 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>181</ID>
+			<DefaultText>烟 雾 缭 绕 着 这 些 烧 焦 的 骨 架 。气 味 令 人 作 呕 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>182</ID>
+			<DefaultText>池 子 里 不 断 冒 着 热 气 ，热 量 足 以 把 你 脸 上 的 肉 烧 焦 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>184</ID>
+			<DefaultText>煎 鱼 和 牡 蛎 的 气 味 残 留 在 炉 子 上 。该 计 数 器 溅 有 油 污 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>185</ID>
+			<DefaultText>褪 色 的 绸 缎 床 单 上 面 染 有 污 渍 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>186</ID>
+			<DefaultText>有 人 在 床 单 下 多 塞 了 很 多 填 充 物 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>187</ID>
+			<DefaultText>如 果 好 好 使 用 的 话 ，这 床 会 很 舒 服 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>188</ID>
+			<DefaultText>床 是 干 净 的 ，覆 盖 着 光 滑 的 丝 绸 。软 毛 床 垫 轻 如 空 气 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>189</ID>
+			<DefaultText>一 大 杯 半 发 酵 的 燕 麦 酒 和 许 多 酒 瓶 在 吧 台 上 留 下 了 湿 的 印 记 。装 着 鱼 骨 和 油 脂 的 盘 子 散 落 在 各 处 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>190</ID>
+			<DefaultText>红 褐 色 的 血 痕 和 一 小 滩 组 织 工 作 慢 慢 变 成 石 头 了 上 的 微 小 沟 槽 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>192</ID>
+			<DefaultText>稻 草 编 织 的 动 物 骨 头 花 环 挂 在 架 子 上 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>193</ID>
+			<DefaultText>这 些 破 了 的 蛋 壳 坚 硬 但 脆 。绝 大 多 数 已 经 被 践 踏 成 粉 末 ，上 面 布 满 了 小 型 的 爪 印 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>194</ID>
+			<DefaultText>尘 封 千 年 的 财 富 填 满 了 这 些 骸 骨 的 裂 缝 处 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>196</ID>
+			<DefaultText>这 个 柱 子 拉 扯 着 你 的 元 气 。一 发 来 自 世 界 本 身 的 脉 冲 穿 过 了 它 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>197</ID>
+			<DefaultText>古 老 的 阿 德 拉 仍 然 给 人 留 下 成 千 上 万 的 灵 魂 在 其 中 支 离 破 碎 的 印 象 。你 的 灵 魂 在 回 忆 中 的 苦 难 中 饱 受 折 磨 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>200</ID>
+			<DefaultText>残 破 的 椅 子 ，倒 置 的 桌 子 和 破 碎 的 花 瓶 挡 住 了 楼 梯 。碎 裂 的 木 板 摇 摇 欲 坠 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>202</ID>
+			<DefaultText>苍 白 的 光 纤 从 地 图 后 面 照 进 来 。有 一 个 通 往 外 面 的 洞 ，好 像 是 有 人 挖 通 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>203</ID>
+			<DefaultText>容 器 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>204</ID>
+			<DefaultText>酒 架 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>205</ID>
+			<DefaultText>这 个 梯 子 已 经 开 裂 破 损 ，已 无 法 使 用 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>206</ID>
+			<DefaultText>一 股 馊 臭 味 从 这 些 粮 食 中 散 发 出 来 。呈 糊 状 ，颜 色 中 夹 杂 着 绿 色 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>207</ID>
+			<DefaultText>一 本 叫 《切 尔 德 格 拉 斯 哥 海 漂 流 记 》的 破 损 的 折 页 书 。有 一 张 巨 大 的 有 鳍 怪 兽 的 蚀 刻 插 图 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>208</ID>
+			<DefaultText>这 些 倒 塌 的 石 头 上 布 满 了 小 洞 和 狭 窄 的 缝 隙 。爪 印 和 粪 便 暗 示 了 野 兽 的 踪 迹 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>209</ID>
+			<DefaultText>马 车 碾 过 之 后 的 草 地 依 然 平 整 。一 桶 桶 的 卷 心 菜 的 ，土 豆 和 南 瓜 被 推 翻 在 地 并 遗 弃 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>211</ID>
+			<DefaultText>板 条 箱 的 碎 片 散 落 在 泥 土 中 ，周 边 有 一 些 沾 满 泥 巴 的 蔬 菜 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>212</ID>
+			<DefaultText>桌 子 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>213</ID>
+			<DefaultText>架 子 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>214</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>215</ID>
+			<DefaultText>这 羊 皮 纸 破 破 烂 烂 ，上 面 的 墨 水 痕 迹 也 已 经 褪 色 了 。“在 这 困 难 时 刻 ……我 们 一 定 要 对 自 己 充 满 信 心 ……”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>216</ID>
+			<DefaultText>这 些 因 格 维 斯 符 号 已 经 磨 损 和 褪 色 ，上 面 的 词 语 是 一 首 熟 悉 的 歌 谣 ：“责 任 第 一 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>217</ID>
+			<DefaultText>尸 体 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>218</ID>
+			<DefaultText>抽 屉 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>219</ID>
+			<DefaultText>石 棺 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>220</ID>
+			<DefaultText>书 架 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>221</ID>
+			<DefaultText>螺 旋 形 箱 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>222</ID>
+			<DefaultText>大 型 衣 橱 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>223</ID>
+			<DefaultText>壁 橱 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>224</ID>
+			<DefaultText>板 条 箱 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>225</ID>
+			<DefaultText>桶 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>226</ID>
+			<DefaultText>硬 币 堆 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>227</ID>
+			<DefaultText>颠 倒 了 车 刷 和 弩 箭 。血 迹 染 红 了 破 碎 地 木 条 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>228</ID>
+			<DefaultText>残 骸 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>229</ID>
+			<DefaultText>一 个 冉 冉 升 起 的 太 阳 和 三 颗 晨 星 ：伊 欧 萨 斯 的 象 征 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>230</ID>
+			<DefaultText>坐 在 这 里 的 人 是 匆 匆 离 开 的 ；墨 水 滴 在 整 个 卷 轴 上 ，模 糊 了 它 的 内 容 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>231</ID>
+			<DefaultText>一 堆 家 具 被 烙 上 了 烧 焦 的 痕 迹 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>233</ID>
+			<DefaultText>红 棕 色 的 污 点 从 你 的 靴 子 前 段 剥 落 了 下 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>234</ID>
+			<DefaultText>其 中 的 一 道 菜 散 发 出 浓 郁 的 香 料 的 味 道 。其 他 的 里 面 充 满 了 明 亮 的 染 料 和 粮 食 的 种 子 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>235</ID>
+			<DefaultText>虽 然 害 虫 已 经 清 理 过 这 些 盘 子 ，绿 黑 色 团 块 的 霉 菌 仍 然 布 满 了 这 个 桌 子 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>236</ID>
+			<DefaultText>奇 怪 的 符 号 就 像 红 色 的 粗 糙 结 痂 一 样 被 深 深 的 刻 在 了 这 些 树 上 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>237</ID>
+			<DefaultText>静 止 的 深 色 水 域 ，反 射 着 光 芒 ，看 上 去 就 像 黑 色 玻 璃 一 样 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>238</ID>
+			<DefaultText>镜 子 的 碎 片 堆 在 凹 部 的 边 缘 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>239</ID>
+			<DefaultText>“致 他 的 恩 典 ——我 写 信 以 恳 求 ——”这 封 信 的 剩 余 部 分 删 掉 了 很 多 地 方 ，最 后 被 遗 弃 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>240</ID>
+			<DefaultText>这 些 卷 的 紧 紧 地 卷 轴 上 面 是 逝 去 的 伊 欧 萨 斯 的 信 徒 。许 多 人 都 被 撕 裂 和 践 踏 时 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>241</ID>
+			<DefaultText>这 里 的 这 些 符 号 获 得 了 一 些 火 盆 的 光 。“荣 誉 属 于 那 些 为 了 因 格 维 斯 的 荣 耀 献 出 了 自 己 的 人 。” 
+
+在 房 间 里 的 这 些 浅 色 的 石 头 看 起 来 沉 闷 ，毫 无 生 气 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>242</ID>
+			<DefaultText>墙 上 的 符 号 获 得 了 一 些 从 绿 萤 晶 体 散 发 出 来 的 光 线 ，上 面 写 着 ：“我 们 将 崛 起 并 成 为 一 体 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>244</ID>
+			<DefaultText>“你 的 威 力 和 愿 望 的 鉴 证 。挺 起 胸 膛 ，在 死 亡 中 ，你 得 到 升 华 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>245</ID>
+			<DefaultText>“我 们 不 是 生 来 就 会 原 谅 的 。寻 求 救 赎 的 路 是 一 条 漫 长 而 曲 折 的 道 路 。这 是 一 条 把 我 们 带 至 我 们 灵 魂 的 深 处 的 路 ，要 求 我 们 反 思 不 完 整 的 那 一 部 分 自 我 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>246</ID>
+			<DefaultText>网 袋 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>247</ID>
+			<DefaultText>水 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>248</ID>
+			<DefaultText>砖 砌 建 筑 物 上 的 门 铰 链 旁 有 细 微 的 抓 痕 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>249</ID>
+			<DefaultText>这 些 遗 物 上 的 金 箔 有 些 已 经 被 削 去 ，露 出 了 底 下 的 木 头 。其 中 一 只 碗 上 有 牙 印 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>250</ID>
+			<DefaultText>这 个 看 台 会 在 地 基 上 不 稳 定 地 摇 晃 。看 起 来 这 机 器 故 障 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>251</ID>
+			<DefaultText>箱 子 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>252</ID>
+			<DefaultText>沙 子 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>253</ID>
+			<DefaultText>花 瓶 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>254</ID>
+			<DefaultText>瓮 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>256</ID>
+			<DefaultText>这 条 小 径 蜿 蜒 穿 过 狭 宰 的 峡 谷 ，就 是 你 们 来 的 那 条 路 。路 上 的 沟 见 证 了 数 百 辆 篷 车 经 过 这 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>257</ID>
+			<DefaultText>Essence shimmers and pulsates within the strange device.</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>259</ID>
+			<DefaultText>藏 好 的 保 险 箱 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>260</ID>
+			<DefaultText>“困 在 永 恒 中 的 灵 魂 ”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>261</ID>
+			<DefaultText>盔 甲 架 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>262</ID>
+			<DefaultText>武 器 架 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>263</ID>
+			<DefaultText>破 碎 的 陶 器 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>264</ID>
+			<DefaultText>尸 体 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>266</ID>
+			<DefaultText>倒 下 的 树 不 会 动 。树 液 从 枝 干 上 锯 齿 状 的 伤 口 渗 出 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>267</ID>
+			<DefaultText>篝 火 旁 的 脚 印 不 明 显 ，可 能 已 经 有 数 天 或 更 久 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>268</ID>
+			<DefaultText>The door seems to be barred from the other side.</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>269</ID>
+			<DefaultText>木 盒 子 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>271</ID>
+			<DefaultText>这 壁 画 一 定 很 古 老 了 ，然 而 它 的 颜 色 仍 然 明 亮 而 鲜 艳 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>272</ID>
+			<DefaultText>药 剂 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>273</ID>
+			<DefaultText>石 盒 子 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>274</ID>
+			<DefaultText>向 北 是 塞 德 努 亚 
+向 西 是 反 抗 湾 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>276</ID>
+			<DefaultText>这 张 桌 子 用 了 数 十 年 ，布 满 了 疤 痕 和 污 迹 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>277</ID>
+			<DefaultText>桌 上 散 乱 地 摊 着 脏 碟 子 和 半 空 的 瓶 子 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>278</ID>
+			<DefaultText>画 像 描 述 了 一 个 男 人 和 一 个 女 人 ，穿 着 鹿 丛 人 也 许 一 个 世 纪 前 时 髦 的 服 装 。沉 重 的 框 架 已 经 被 打 坏 ，刻 有 主 人 名 字 的 板 也 已 经 被 刮 花 。
+
+他 们 热 烈 地 拥 抱 着 ，这 与 他 们 脸 上 的 厌 恶 神 情 大 相 径 庭 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>279</ID>
+			<DefaultText>死 维 拉 人 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>281</ID>
+			<DefaultText>通 往 废 墟 下 的 阶 梯 被 落 石 挡 住 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>282</ID>
+			<DefaultText>松 动 的 石 板 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>283</ID>
+			<DefaultText>&quot;留 下 他 们 的 身 躯 献 出 他 们 的 灵 魂 ,
+
+放 弃 血 肉 之 躯 的 虚 弱 。不 信 神 的 野 蛮 人 最 终 屈 服 了 。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>285</ID>
+			<DefaultText>&quot;时 间 是 无 神 论 者 的 托 词 。收 获 不 了 保 佑 也 播 种 不 了 怜 悯 。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>286</ID>
+			<DefaultText>&quot;穿 着 铁 甲 的 战 士 ，面 对 同 样 无 情 而 凶 猛 的 数 千 敌 人 。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>287</ID>
+			<DefaultText>这 个 巨 大 的 物 件 由 石 头 、绿 萤 和 铜 组 成 ，覆 盖 着 奇 怪 的 雕 文 。附 近 的 空 气 因 为 某 种 不 寻 常 的 能 量 而 产 生 回 响 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>288</ID>
+			<DefaultText>图 阿 塔 奴 的 销 售 账 目 。页 面 几 乎 是 空 白 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>289</ID>
+			<DefaultText>地 下 室 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>290</ID>
+			<DefaultText>尸 体 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>291</ID>
+			<DefaultText>火 焰 在 散 乱 的 祭 品 中 间 跳 舞 。钥 匙 、钱 币 以 及 鸟 的 小 头 骨 陷 在 融 化 后 又 变 硬 的 蜡 中 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>292</ID>
+			<DefaultText>这 只 蝎 虎 狮 的 厚 皮 上 布 满 了 灰 尘 和 飞 蛾 。这 只 野 兽 下 面 的 牌 子 上 写 着 ：“处 女 瀑 布 ，2682。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>293</ID>
+			<DefaultText>埃 罗 尔 •利 瓦 伊 令 人 费 解 地 盯 着 画 布 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>296</ID>
+			<DefaultText>头 骨 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>297</ID>
+			<DefaultText>架 子 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>298</ID>
+      <DefaultText>店 主 从 世 界 各 地 收 集 了 大 量 的 瓶 子 ，从 艾 迪 尔 酸 红 酒 到 拉 瓦 台 夏 日 甜 酒 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>这 些 脚 本 和 道 具 是 “法 维 亚 和 伯 纳 特 最 不 幸 的 传 说 ”中 的 产 品 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>每 个 盘 子 和 器 皿 都 被 擦 得 一 尘 不 染 。高 脚 酒 杯 被 指 甲 击 打 后 发 出 悦 耳 的 声 音 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+			<ID>301</ID>
+			<DefaultText>葡 萄 酒 架 上 有 来 自 伊 欧 拉 各 地 的 葡 萄 酒 ，全 都 十 分 昂 贵 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>302</ID>
+			<DefaultText>德 拉 科 根 旅 店 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>303</ID>
+			<DefaultText>(String Not Found)</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>304</ID>
+			<DefaultText>Black Hammer Smithy</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>305</ID>
+			<DefaultText>Black Hound Inn</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>306</ID>
+			<DefaultText>The Goose and Fox</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>307</ID>
+			<DefaultText>The Celestial Sapling</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>308</ID>
+			<DefaultText>烧 黑 的 木 桶 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>309</ID>
+			<DefaultText>死 亡 的 冒 险 者 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>310</ID>
+			<DefaultText>工 人 休 息 之 地 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>311</ID>
+			<DefaultText>迪 伍 德 的 骄 傲 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>312</ID>
+			<DefaultText>商 贾 驻 留 之 地 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>313</ID>
+			<DefaultText>泼 妇 地 洞 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>314</ID>
+			<DefaultText>尘 世 奇 景 套 房 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>315</ID>
+			<DefaultText>箭 商 据 点 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>316</ID>
+			<DefaultText>亚 龙 的 巢 穴 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>317</ID>
+			<DefaultText>伪 龙 的 巢 穴 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>318</ID>
+			<DefaultText>龙 的 巢 穴 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>319</ID>
+			<DefaultText>罪 犯 天 堂 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>320</ID>
+			<DefaultText>贵 族 领 地 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>321</ID>
+			<DefaultText>往 西 进 入 丰 饶 之 谷 
+往 南 进 入 安 斯 罗 格 海 岸 
+往 东 进 入 黑 草 甸 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>322</ID>
+			<DefaultText>流 浪 者 暂 缓 地 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>323</ID>
+			<DefaultText>神 仙 套 房 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>324</ID>
+			<DefaultText>大 光 束 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>325</ID>
+			<DefaultText>闪 光 的 珍 珠 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>326</ID>
+			<DefaultText>咸 桅 杆 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>327</ID>
+			<DefaultText>亨 黛 娜 的 杂 货 店 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>328</ID>
+			<DefaultText>温 弗 里 斯 的 兵 械 店 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>329</ID>
+			<DefaultText>艾 德 迈 斯 的 巢 穴 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>330</ID>
+			<DefaultText>技 师 大 厅 加 成 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>331</ID>
+			<DefaultText>植 物 花 园 加 成 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>332</ID>
+			<DefaultText>礼 拜 堂 加 成 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>333</ID>
+			<DefaultText>锻 冶 店 加 成 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>334</ID>
+			<DefaultText>会 议 所 加 成 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>335</ID>
+			<DefaultText>树 篱 迷 宫 加 成 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>336</ID>
+			<DefaultText>图 书 馆 加 成 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>337</ID>
+			<DefaultText>塔 楼 加 成 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>338</ID>
+			<DefaultText>训 练 场 加 成 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>339</ID>
+      <DefaultText>看 门 人 的 小 屋 加 成 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>林 地 小 路 加 成 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+
+			<ID>341</ID>
+			<DefaultText>无 加 成 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>342</ID>
+			<DefaultText>光 明 屋 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>343</ID>
+			<DefaultText>&quot;武 士 应 叫 来 两 个 目 击 者 ,他 们 应 站 在 徽 章 上 为 他 的 灵 魂 品 性 承 担 证 明 之 责 。武 士 应 走 上 讲 台 ，手 拿 灵 魂 容 器 ，经 受 转 移 。
+
+&quot;拿 着 灵 魂 容 器 以 及 镶 有 绿 萤 的 一 件 武 器 ,武 士 就 可 以 走 到 瓮 那 里 去 了 。这 样 ，他 就 能 把 一 只 手 变 得 与 他 的 技 能 和 野 心 匹 配 了 。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>344</ID>
+			<DefaultText>锻 治 大 厅 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>345</ID>
+			<DefaultText>古 玩 店 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>346</ID>
+			<DefaultText>礼 拜 堂 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>347</ID>
+			<DefaultText>新 鲜 的 血 从 女 人 划 开 的 喉 咙 里 流 下 ，浸 湿 身 下 的 床 单 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>348</ID>
+			<DefaultText>祭 坛 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>349</ID>
+			<DefaultText>向 西 北 是 戈 兰 之 爪 向 南 是 丰 饶 之 谷 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>350</ID>
+			<DefaultText>希 奥 丹 的 补 给 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>351</ID>
+			<DefaultText>尸 体 摸 上 去 已 经 冰 冷 ，还 飘 来 了 一 阵 阵 腐 臭 的 味 道 。在 亚 麻 衣 服 上 映 衬 着 一 块 暗 褐 色 的 血 迹 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>352</ID>
+			<DefaultText>里 纳 托 的 货 物 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>353</ID>
+			<DefaultText>阿 拉 赫 利 的 药 草 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>354</ID>
+			<DefaultText>拉 内 特 的 进 口 商 品 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>355</ID>
+			<DefaultText>马 斯 登 的 补 给 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>356</ID>
+			<DefaultText>德 尔 温 的 武 器 和 盔 甲 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>357</ID>
+			<DefaultText>塔 姆 拉 皮 草 和 兽 皮 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>358</ID>
+			<DefaultText>科 伦 的 药 草 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>359</ID>
+			<DefaultText>麻 布 袋 已 经 烂 掉 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>360</ID>
+			<DefaultText>描 绘 昂 德 拉 之 地 周 围 海 湾 的 泛 黄 褪 色 地 图 上 ，标 着 穿 过 防 波 堤 之 间 重 重 水 闸 的 路 线 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>361</ID>
+			<DefaultText>这 根 断 成 两 截 的 矛 ，两 根 杆 子 上 都 有 华 丽 的 格 兰 法 斯 蚀 刻 。湿 木 的 凹 痕 长 满 苔 藓 ，可 能 是 因 为 与 河 里 的 石 头 碰 撞 而 留 下 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>362</ID>
+			<DefaultText>霜 雾 陷 阱 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>363</ID>
+			<DefaultText>这 个 皮 袋 里 的 东 西 已 经 被 水 流 冲 走 ，而 它 则 像 湿 石 头 一 样 闪 着 光 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>364</ID>
+			<DefaultText>尸 体 旁 边 的 潮 湿 和 还 包 覆 着 血 的 深 深 的 伤 痕 使 这 一 切 看 起 来 很 玄 乎 。他 那 损 毁 的 肉 体 会 引 发 许 多 对 此 事 件 实 质 的 遐 想 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>365</ID>
+			<DefaultText>靴 子 半 埋 在 岸 上 泥 土 中 ，就 像 被 从 上 游 冲 刷 下 来 似 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>366</ID>
+			<DefaultText>石 头 上 刻 着 记 号 和 标 志 。你 不 知 道 怎 么 解 读 它 们 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>367</ID>
+			<DefaultText>挥 舞 着 榔 头 在 火 炉 旁 打 铁 的 人 们 的 画 像 布 满 了 这 个 壁 龛 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>368</ID>
+			<DefaultText>一 排 图 形 文 字 描 述 了 人 们 站 成 一 排 走 进 一 个 池 子 里 。下 面 池 子 里 的 人 伸 开 双 臂 站 着 ，脸 上 露 出 志 得 意 满 的 安 详 神 情 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>369</ID>
+			<DefaultText>这 个 壁 龛 上 的 象 形 图 展 示 了 走 向 祭 坛 的 一 列 队 伍 。其 中 一 个 人 独 自 躺 到 祭 坛 上 ，而 队 伍 里 的 另 一 个 人 把 匕 首 插 进 他 的 心 脏 。某 种 东 西 从 这 个 将 死 之 人 身 体 里 流 出 来 到 放 在 祭 坛 上 的 一 块 白 石 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>370</ID>
+			<DefaultText>这 个 壁 龛 上 刻 着 一 系 列 简 单 而 清 楚 的 象 形 字 。画 面 上 方 刻 着 举 着 手 臂 的 人 们 。最 底 下 刻 着 同 样 姿 势 的 盔 甲 套 装 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>371</ID>
+			<DefaultText>这 块 格 子 里 是 战 斗 的 场 景 。一 群 缠 着 腰 布 的 士 兵 聚 在 一 起 ，上 方 则 是 十 来 个 身 穿 铠 甲 的 人 。接 下 来 的 画 面 显 示 ，穿 铠 甲 的 击 败 了 缠 腰 布 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>372</ID>
+			<DefaultText>这 根 柱 子 上 全 是 诗 歌 。你 不 知 道 它 们 说 的 是 什 么 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>373</ID>
+			<DefaultText>“纯 良 的 人 们 怎 样 才 能 抵 御 目 无 法 纪 的 粗 俗 之 人 ？
+
+榆 树 要 在 哪 生 根 才 能 抵 住 洪 流 ？&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>374</ID>
+			<DefaultText>&quot;他 们 一 直 对 领 土 和 金 钱 垂 涎 欲 滴 ，因 而 很 是 残 忍 而 大 胆 。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>375</ID>
+			<DefaultText>&quot;野 人 们 拿 着 弓 箭 、利 剑 和 长 矛 聚 集 在 大 门 处 ，
+
+渴 望 着 征 服 和 掠 夺 。他 们 的 首 领 和 战 士 不 怕 
+
+神 的 报 复 和 敌 人 的 愤 怒 。死 亡 根 本 无 法 惩 戒 他 们 。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>376</ID>
+			<DefaultText>&quot;派 克 斯 与 酋 长 总 是 合 不 来 。当 太 阳 落 山 带 来 黑 暗 而 天 空 中 没 有 指 示 方 向 的 星 星 的 时 候 ,
+
+这 个 民 族 还 能 获 得 秩 序 吗 ?&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>377</ID>
+			<DefaultText>&quot;品 味 低 俗 的 民 族 永 远 超 脱 不 了 肉 体 的 迷 茫 去 得 到 精 神 指 引 &quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>378</ID>
+			<DefaultText>死 亡 的 冒 险 者 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>379</ID>
+			<DefaultText>财 宝 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>380</ID>
+			<DefaultText>这 座 雕 像 的 五 官 大 都 被 打 掉 了 ,它 的 部 分 双 手 也 一 样 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>381</ID>
+			<DefaultText>有 人 把 这 个 羽 精 剥 了 皮 吊 了 起 来 。干 枯 的 肌 肉 硬 的 像 革 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>382</ID>
+			<DefaultText>这 个 肖 像 是 由 几 根 弯 棒 用 粗 糙 的 麻 绳 绑 在 一 起 做 出 来 的 。它 在 墙 上 投 射 出 一 个 不 祥 的 摇 曳 着 的 影 子 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>383</ID>
+			<DefaultText>这 个 木 质 肖 像 上 捆 着 骷 髅 头 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>384</ID>
+			<DefaultText>这 张 画 布 上 用 像 是 血 的 东 西 画 着 一 个 粗 野 的 标 志 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>385</ID>
+			<DefaultText>一 个 男 人 死 在 桌 上 ，布 袍 上 全 是 血 。他 的 嘴 巴 和 眼 睛 周 围 全 是 凝 结 的 血 块 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>386</ID>
+			<DefaultText>这 件 橱 柜 是 用 一 块 长 得 不 错 的 大 木 头 制 作 的 。然 而 ，许 多 搁 板 已 经 因 长 久 恶 劣 使 用 而 破 损 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>387</ID>
+			<DefaultText>尽 管 如 今 已 是 破 败 褪 色 ，它 曾 近 可 以 算 得 上 是 贵 族 的 收 藏 品 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>388</ID>
+			<DefaultText>这 个 高 雅 的 花 瓶 已 经 破 裂 并 有 缺 口 。它 看 上 去 像 是 出 自 鹿 丛 的 古 董 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>389</ID>
+			<DefaultText>鹿 的 内 脏 上 爬 满 了 蠕 动 的 蛆 虫 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>390</ID>
+			<DefaultText>潮 水 带 来 的 螃 蟹 和 小 鱼 堆 在 池 子 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>391</ID>
+			<DefaultText>你 在 绿 萤 里 的 映 像 弯 弯 扭 扭 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>393</ID>
+			<DefaultText>这 本 大 书 的 书 页 在 一 层 厚 霜 下 闪 着 光 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>394</ID>
+			<DefaultText>这 口 井 的 井 水 已 经 被 冻 住 ，困 住 了 神 殿 下 的 湖 里 游 来 的 小 鱼 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>395</ID>
+			<DefaultText>雕 像 背 后 的 镜 面 因 结 冰 而 使 得 光 线 折 射 ，显 得 斑 斑 点 点 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>396</ID>
+			<DefaultText>这 个 战 士 饱 经 风 霜 的 面 部 表 情 因 结 冰 被 更 清 晰 地 刻 画 了 出 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>397</ID>
+			<DefaultText>壁 龛 边 沿 滴 下 水 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>398</ID>
+			<DefaultText>尽 管 摸 起 来 很 冷 ，这 些 手 铐 并 没 结 冰 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>399</ID>
+			<DefaultText>这 些 青 铜 手 铐 在 雾 气 中 闪 着 光 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>400</ID>
+			<DefaultText>帐 篷 的 皮 革 上 覆 盖 着 厚 厚 的 毛 皮 块 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>401</ID>
+			<DefaultText>尽 管 凉 意 绵 绵 ，但 床 单 里 面 还 是 感 觉 很 温 暖 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>402</ID>
+			<DefaultText>椅 子 散 发 出 不 自 然 ，刺 骨 的 凉 意 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>403</ID>
+			<DefaultText>被 手 印 弄 脏 的 霜 布 满 了 这 些 书 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>404</ID>
+			<DefaultText>冰 块 像 石 头 一 样 坚 硬 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>405</ID>
+			<DefaultText>晶 莹 的 冰 墙 似 乎 吸 收 了 屋 子 里 所 有 的 温 暖 。寒 冷 刺 骨 ，你 在 触 到 它 之 前 退 缩 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>406</ID>
+			<DefaultText>冰 刃 缺 口 正 处 于 休 眠 状 态 ，只 显 露 出 一 个 光 滑 的 冰 墙 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>407</ID>
+			<DefaultText>这 塑 弯 曲 的 雕 像 用 原 木 ，有 鳞 片 的 兽 皮 和 骨 头 拼 凑 而 成 。一 具 人 类 的 头 骨 装 饰 在 顶 部 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>408</ID>
+			<DefaultText>破 碎 且 烧 焦 的 石 头 挡 住 了 通 往 暗 影 之 阳 的 通 道 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>409</ID>
+			<DefaultText>你 看 到 了 一 张 写 给 一 些 家 务 人 员 的 便 条 ：
+
+“请 注 意 清 扫 家 族 陵 墓 以 及 对 大 理 石 进 行 抛 光 。钥 匙 像 往 常 一 样 挂 在 厨 房 的 烤 箱 旁 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>410</ID>
+			<DefaultText>这 似 乎 是 信 中 提 到 的 钩 子 ，但 陵 墓 钥 匙 不 见 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>411</ID>
+			<DefaultText>这 块 表 面 似 乎 因 为 活 着 的 绿 萤 变 形 了 。每 块 山 脊 都 又 平 又 直 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>413</ID>
+			<DefaultText>大 部 分 书 籍 变 黑 且 碎 成 粉 末 ，可 能 是 发 霉 腐 烂 了 。这 些 清 晰 的 字 迹 似 乎 是 鹿 丛 长 老 留 下 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>414</ID>
+			<DefaultText>*temp*</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>415</ID>
+			<DefaultText>技 师 大 厅 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>416</ID>
+			<DefaultText>马 赛 诺 被 挂 在 船 首 斜 桅 上 ，他 的 眼 睛 和 舌 头 肿 胀 凸 起 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>417</ID>
+			<DefaultText>黏 糊 糊 的 液 体 散 发 出 刺 鼻 的 金 属 味 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>418</ID>
+			<DefaultText>这 个 桶 里 洒 出 的 血 似 乎 侵 蚀 了 石 块 。绑 在 桶 上 的 绳 子 看 上 去 长 到 可 以 降 到 坑 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>419</ID>
+			<DefaultText>峡 谷 边 缘 的 石 块 很 光 滑 ，上 面 还 有 水 珠 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>420</ID>
+			<DefaultText>这 个 桶 装 满 了 血 液 ，而 且 散 发 出 一 股 刺 鼻 的 臭 味 。液 体 表 面 漂 浮 着 深 色 的 薄 膜 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>421</ID>
+			<DefaultText>骨 针 插 在 兽 皮 地 图 上 沿 着 巴 尔 河 格 兰 法 斯 侧 的 很 多 点 位 上 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>422</ID>
+			<DefaultText>法 典 收 藏 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>423</ID>
+			<DefaultText>劳 拉 的 神 秘 道 具 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>424</ID>
+			<DefaultText>伊 格 伦 的 武 器 和 盔 甲 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>425</ID>
+			<DefaultText>粗 糙 的 沙 粒 成 就 适 中 的 软 垫 。它 变 形 后 在 脚 下 叹 气 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>426</ID>
+			<DefaultText>纳 尔 默 的 杂 货 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>427</ID>
+			<DefaultText>佩 瑞 刚 德 的 货 物 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>428</ID>
+			<DefaultText>炼 狱 要 塞 军 械 库 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>429</ID>
+			<DefaultText>煽 动 后 面 的 小 山 谷 上 铺 着 一 簇 黄 褐 色 的 毛 皮 和 被 压 倒 的 草 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>430</ID>
+			<DefaultText>从 深 处 升 起 的 薄 雾 感 觉 浓 密 而 温 暖 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>433</ID>
+			<DefaultText>尽 管 表 面 建 造 很 粗 糙 ，但 草 皮 屋 顶 的 角 度 完 全 对 称 。里 面 一 动 就 会 发 出 嗡 嗡 声 并 振 动 起 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>434</ID>
+			<DefaultText>木 烟 的 气 味 弥 漫 ，聚 集 的 亲 朋 好 友 慢 慢 走 出 这 幢 建 筑 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>435</ID>
+			<DefaultText>基 座 的 阴 影 覆 盖 了 讲 台 的 四 周 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>436</ID>
+			<DefaultText>滑 轮 和 支 柱 在 头 顶 上 一 百 英 尺 处 消 失 于 大 型 榆 树 的 树 干 中 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>437</ID>
+			<DefaultText>一 股 潮 湿 ，闷 热 的 气 流 从 野 兽 的 脑 洞 里 流 出 。凝 结 物 从 石 缝 中 滴 下 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>438</ID>
+			<DefaultText>石 头 上 布 满 了 古 代 雕 刻 痕 迹 的 斑 点 ，且 覆 盖 着 苔 藓 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>439</ID>
+			<DefaultText>一 股 凉 意 盘 旋 于 冻 结 的 湖 面 ，吸 收 了 空 气 中 的 温 暖 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>440</ID>
+			<DefaultText>普 尔 尼 斯 克 的 药 剂 师 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>441</ID>
+			<DefaultText>普 尔 尼 斯 克 的 药 剂 师 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>442</ID>
+			<DefaultText>普 尔 尼 斯 克 的 药 剂 师 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>444</ID>
+			<DefaultText>空 气 中 弥 漫 着 水 珠 和 烟 雾 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>445</ID>
+			<DefaultText>树 皮 感 觉 很 温 暖 。树 根 似 乎 差 点 缠 绕 住 你 的 手 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>446</ID>
+			<DefaultText>金 色 的 树 叶 在 从 树 上 掉 落 时 闪 闪 发 光 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>447</ID>
+			<DefaultText>普 尔 尼 斯 克 的 药 剂 师 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>450</ID>
+			<DefaultText>日 常 用 品 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>451</ID>
+			<DefaultText>这 个 桶 装 满 了 血 液 ，而 且 散 发 出 刺 鼻 的 臭 味 。你 认 出 了 莫 克 加 的 眼 泪 。一 种 强 效 毒 素 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>453</ID>
+			<DefaultText>磨 损 的 绳 子 和 一 些 燧 石 屑 散 落 在 这 张 工 作 台 上 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>454</ID>
+			<DefaultText>只 有 杂 草 会 在 这 布 满 灰 尘 的 土 地 上 生 长 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>455</ID>
+			<DefaultText>生 长 在 蓬 松 土 堆 上 的 树 篱 盖 满 了 杂 草 和 高 茎 草 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>456</ID>
+			<DefaultText>缠 在 一 起 的 电 线 和 破 掉 的 工 具 散 落 在 这 些 木 制 盒 子 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>457</ID>
+			<DefaultText>蜥 蜴 皮 ，肘 部 骨 和 不 同 尺 寸 的 牙 齿 散 落 在 杂 草 中 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>458</ID>
+			<DefaultText>这 扇 活 板 门 被 各 种 工 具 猛 击 过 。用 力 拉 生 锈 的 把 手 只 会 产 生 剧 烈 的 嘎 嘎 声 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>459</ID>
+			<DefaultText>一 个 破 碎 的 木 桶 依 旧 散 发 出 轻 微 的 麦 芽 酒 味 ，但 早 已 洒 到 泥 土 里 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>460</ID>
+      <DefaultText>变 质 的 食 物 和 水 果 发 出 的 腐 臭 气 味 弥 漫 在 空 中 。满 是 灰 尘 与 锈 迹 的 器 皿 摆 在 台 面 上 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>书 架 发 出 嘎 吱 声 。很 多 书 的 封 面 上 霉 菌 斑 驳 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>石 之 守 护 者 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>蜘 蛛 网 布 在 一 个 破 碎 的 蒸 馏 器 ，一 个 裂 开 的 研 钵 ，和 各 种 碎 瓶 子 的 残 骸 上 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+			<ID>464</ID>
+      <DefaultText>石 荆 棘 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>三 叉 箭 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>三 牙 拖 拉 机 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>渔 夫 升 降 机 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>指 南 针 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>墙 体 上 写 着 一 串 亵 渎 神 灵 的 潦 草 文 字 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+ 
+			<ID>470</ID>
+			<DefaultText>龙 骨 随 着 时 间 变 成 褐 色 ，且 被 磨 得 更 光 滑 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>471</ID>
+      <DefaultText>蜘 蛛 已 经 占 据 了 空 荡 荡 的 书 架 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>这 张 地 图 显 示 了 迪 伍 德 旧 殖 民 地 边 界 。一 个 被 称 为 “敦 里 德 ”的 定 居 点 标 记 在 现 在 的 挑 战 港 处 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>诗 蔻 蒂 头 骨 上 的 一 个 玻 璃 眼 睛 和 几 颗 牙 齿 不 见 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+ 
+			<ID>475</ID>
+			<DefaultText>闪 烁 的 绿 萤 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>476</ID>
+			<DefaultText>因 格 维 斯 机 器 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>479</ID>
+			<DefaultText>布 雷 达 的 药 剂 和 材 料 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>480</ID>
+			<DefaultText>炼 狱 要 塞 军 械 库 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>481</ID>
+			<DefaultText>切 基 尔 的 制 革 厂 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>482</ID>
+      <DefaultText>玻 璃 完 全 被 污 垢 和 盐 渍 覆 盖 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>肮 脏 的 铜 锈 和 甲 虫 尸 体 堆 积 着 ，几 乎 要 触 碰 到 天 花 板 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>刻 在 柱 子 上 的 是 一 个 名 字 “马 维 兹 ”和 一 串 数 字 刻 痕 。最 低 的 刻 痕 是 “4”，最 高 的 刻 痕 是 “17”。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+ 
+			<ID>489</ID>
+			<DefaultText>伪 龙 骨 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>490</ID>
+			<DefaultText>这 些 瓶 子 里 的 液 体 被 分 离 成 独 特 的 层 面 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>491</ID>
+			<DefaultText>小 块 的 白 色 石 头 从 岩 石 中 钻 了 出 来 。它 们 都 感 觉 到 被 固 定 得 很 死 ，但 其 中 有 一 处 空 缺 似 乎 被 人 移 动 过 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>492</ID>
+			<DefaultText>黯 淡 ，不 知 所 云 的 神 秘 符 号 刻 满 了 这 块 表 面 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>493</ID>
+			<DefaultText>维 拉 贸 易 行 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>494</ID>
+			<DefaultText>发 出 微 光 的 能 量 墙 像 窗 帘 一 样 盖 住 了 门 道 。它 以 不 寻 常 的 威 力 击 退 前 进 的 步 伐 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>495</ID>
+			<DefaultText>梅 瑞 克 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>496</ID>
+			<DefaultText>Drafden</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>497</ID>
+			<DefaultText>Iŵen&apos;s Herbs</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>498</ID>
+			<DefaultText>骨 堆 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>499</ID>
+			<DefaultText>骨 架 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>500</ID>
+			<DefaultText>维 拉 贸 易 行 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>501</ID>
+			<DefaultText>黑 市 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>502</ID>
+			<DefaultText>空 心 的 书 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>503</ID>
+			<DefaultText>德 梅 尼 尔 家 族 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>504</ID>
+			<DefaultText>粗 糙 且 绑 着 明 亮 羽 毛 的 箭 从 尸 体 上 突 出 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>505</ID>
+			<DefaultText>长 而 浅 的 脚 印 朝 东 延 伸 。上 面 还 有 血 迹 斑 点 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>506</ID>
+      <DefaultText>当 你 接 近 卫 奥 圣 地 时 耳 边 传 来 刺 耳 的 铃 声 。除 此 之 外 并 无 其 他 回 应 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText>当 你 接 近 沃 伊 迪 卡 圣 地 时 并 无 任 何 事 发 生 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+ 
+			<ID>508</ID>
+			<DefaultText>克 里 维 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>509</ID>
+			<DefaultText>艾 德 迈 斯 的 巢 穴 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>510</ID>
+			<DefaultText>乌 尔 瓦 的 货 物 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>511</ID>
+			<DefaultText>这 根 柱 子 的 一 侧 雕 刻 着 几 百 条 螺 纹 和 棱 线 。就 算 覆 盖 着 一 层 尘 垢 和 苔 藓 ，绿 萤 还 是 散 发 微 光 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>512</ID>
+			<DefaultText>尖 牙 的 补 给 品 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>513</ID>
+			<DefaultText>旧 马 厩 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>514</ID>
+			<DefaultText>一 圈 齿 状 石 头 的 中 心 ，这 块 卵 石 在 太 阳 升 到 头 顶 时 将 阴 影 发 射 到 沙 子 上 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>515</ID>
+			<DefaultText>一 个 圆 柱 形 的 洞 ，稍 稍 比 武 器 的 轴 宽 一 点 ，穿 过 其 底 座 的 中 心 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>516</ID>
+			<DefaultText>脚 印 和 血 迹 继 续 延 伸 至 东 边 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>517</ID>
+			<DefaultText>帐 篷 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>518</ID>
+			<DefaultText>“强 驱 所 得 ，其 心 不 诚 ；尚 德 服 人 ，方 为 上 策 …”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>519</ID>
+			<DefaultText>这 些 皮 革 散 发 出 浓 重 的 油 性 气 味 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>520</ID>
+			<DefaultText>盾 牌 的 细 粒 木 料 已 经 打 磨 光 滑 ，几 近 完 成 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>521</ID>
+			<DefaultText>这 些 的 水 果 在 你 的 手 中 显 得 成 熟 而 多 汁 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>522</ID>
+			<DefaultText>这 些 奇 怪 的 树 根 和 草 药 的 芳 香 弥 漫 在 货 架 之 间 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>523</ID>
+			<DefaultText>这 些 石 头 经 历 了 几 个 世 纪 的 风 雨 打 磨 ，无 比 光 滑 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>524</ID>
+			<DefaultText>公 共 休 息 室 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>525</ID>
+			<DefaultText>入 口 处 的 每 块 木 板 都 完 全 一 致 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>526</ID>
+			<DefaultText>这 些 坚 固 的 铁 棒 挡 住 了 一 条 黑 暗 通 道 。它 们 纹 丝 不 动 ，似 乎 也 没 有 任 何 机 械 能 从 外 面 将 它 们 升 起 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>529</ID>
+			<DefaultText>碑 文 族 徽 下 面 写 着 “瓦 尔 塔 斯 ”。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>530</ID>
+			<DefaultText>看 起 来 有 人 用 锤 子 打 碎 了 这 个 陵 墓 的 族 徽 。下 面 的 铭 文 已 经 难 以 辨 认 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>531</ID>
+			<DefaultText>在 漆 黑 一 片 的 残 砖 败 瓦 间 依 稀 可 见 模 糊 的 人 形 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>532</ID>
+			<DefaultText>褪 色 的 因 格 维 斯 符 文 碎 片 沿 着 这 些 破 碎 支 柱 而 下 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>533</ID>
+			<DefaultText>展 示 柜 下 面 的 铭 牌 写 着 ：
+
+“这 把 传 奇 的 寂 灭 金 刃 能 够 一 击 打 倒 任 何 敌 人 。它 在 护 塔 之 战 中 损 坏 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>534</ID>
+			<DefaultText>这 些 祈 祷 卷 轴 外 面 覆 盖 着 一 层 厚 厚 的 污 垢 和 灰 尘 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>535</ID>
+			<DefaultText>厚 厚 的 铜 脉 在 绿 萤 表 面 下 奔 腾 ，提 供 了 一 个 骨 骼 框 架 ，像 是 从 腐 肉 中 凸 出 的 骨 头 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>536</ID>
+			<DefaultText>这 些 华 丽 的 石 棺 内 衬 有 绿 萤 。棺 盖 中 心 有 一 个 镶 有 宝 石 的 球 体 ，旁 边 围 绕 着 奇 特 的 符 文 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>537</ID>
+			<DefaultText>这 架 熟 悉 的 机 械 上 的 符 文 与 雕 刻 意 外 地 保 存 十 分 完 好 。但 机 器 本 身 却 毫 无 生 气 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>538</ID>
+			<DefaultText>这 块 绿 萤 已 经 出 现 了 沉 闷 的 深 红 色 阴 影 。整 个 部 分 已 经 从 墙 壁 和 天 花 板 上 塌 落 下 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>539</ID>
+			<DefaultText>雕 像 的 剩 余 部 分 表 明 它 曾 经 描 绘 了 一 个 年 轻 的 战 士 。衣 服 细 节 已 经 消 磨 殆 尽 ，只 留 下 了 模 糊 的 形 状 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>540</ID>
+			<DefaultText>雕 像 的 剩 余 部 分 表 明 它 曾 经 描 绘 了 一 个 年 轻 的 战 士 。雕 像 被 符 文 环 绕 着 ，脚 部 刻 有 一 个 名 字 ：“马 络 ”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>541</ID>
+			<DefaultText>破 裂 的 灵 魂 机 甲 护 甲 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>542</ID>
+			<DefaultText>损 坏 的 机 器 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>543</ID>
+			<DefaultText>水 晶 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>545</ID>
+			<DefaultText>咸 桅 杆 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>546</ID>
+			<DefaultText>这 些 奇 怪 的 机 械 有 几 个 地 方 已 经 裂 开 ，一 些 组 件 似 乎 已 经 被 拆 除 。并 不 清 楚 如 何 激 活 它 们 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>547</ID>
+			<DefaultText>绿 萤 在 这 些 风 化 的 货 架 之 间 的 裂 缝 中 像 霉 菌 一 样 生 长 ，在 石 头 与 铜 块 间 随 处 可 见 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>548</ID>
+			<DefaultText>这 些 高 大 的 镜 绿 色 支 柱 看 起 来 好 像 已 经 从 地 球 上 发 芽 。有 闪 烁 的 火 苗 在 其 间 的 阴 影 中 起 舞 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>549</ID>
+			<DefaultText>平 静 的 水 面 上 有 微 弱 的 垃 圾 味 道 传 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>550</ID>
+			<DefaultText>食 物 残 渣 和 飞 行 物 碎 片 漂 浮 在 水 面 上 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>551</ID>
+			<DefaultText>这 座 原 始 天 然 的 建 筑 已 经 被 繁 忙 而 快 速 发 展 的 城 市 烟 尘 和 恶 臭 污 染 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>552</ID>
+			<DefaultText>这 些 盾 牌 在 很 久 以 前 的 战 斗 中 伤 痕 累 累 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>553</ID>
+			<DefaultText>长 凳 上 布 满 了 鸡 骨 头 ，破 碎 的 酒 瓶 和 油 腻 的 纸 屑 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>554</ID>
+			<DefaultText>这 座 建 筑 潮 湿 而 破 烂 的 外 砖 墙 不 时 会 喷 出 下 水 道 气 体 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>555</ID>
+			<DefaultText>床 单 上 到 处 都 是 泥 泞 的 靴 印 和 麦 芽 酒 的 污 渍 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>556</ID>
+			<DefaultText>这 幅 画 中 的 花 园 场 景 被 长 而 锯 齿 状 的 眼 泪 从 中 划 开 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>557</ID>
+			<DefaultText>一 些 铺 盖 和 衣 服 堆 捆 在 角 落 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>558</ID>
+			<DefaultText>硬 梆 梆 的 床 板 上 是 薄 毯 子 和 更 薄 的 床 垫 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>559</ID>
+			<DefaultText>一 股 令 人 作 呕 的 恶 臭 从 盆 里 升 上 来 。盘 子 堆 的 顶 部 还 有 零 星 肉 类 和 奶 酪 的 污 渍 。底 部 的 盘 子 则 是 一 片 狼 藉 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>560</ID>
+			<DefaultText>倾 洒 的 茶 水 ，空 空 的 墨 水 罐 和 一 张 详 细 的 口 吐 火 焰 的 老 矮 人 草 图 就 是 这 个 研 究 会 议 剩 下 的 全 部 东 西 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>561</ID>
+			<DefaultText>有 人 撕 掉 了 这 些 瓶 子 的 标 签 。它 们 装 满 了 黑 暗 而 油 腻 的 纸 浆 ，散 发 出 刺 鼻 的 气 味 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>562</ID>
+			<DefaultText>一 些 简 易 的 临 时 小 床 上 还 有 些 破 旧 的 毯 子 和 枕 头 。上 面 还 沾 着 一 些 深 色 液 体 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>563</ID>
+			<DefaultText>这 些 锅 有 不 少 年 头 了 ，上 面 有 些 无 法 辨 认 的 黏 性 物 质 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>564</ID>
+			<DefaultText>阴 冷 的 火 苗 照 亮 了 最 近 的 简 陋 饭 菜 残 渣 ：鱼 骨 头 ，奶 酪 壳 和 熏 黑 的 面 包 皮 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>565</ID>
+			<DefaultText>摇 摇 晃 晃 的 小 帐 篷 几 乎 要 垮 下 去 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>566</ID>
+			<DefaultText>一 些 肥 大 的 幼 虫 在 这 些 绿 色 液 体 里 蠕 动 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>567</ID>
+			<DefaultText>这 条 沟 渠 下 面 都 是 又 臭 又 黏 的 烂 泥 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>568</ID>
+			<DefaultText>窗 帘 另 一 边 是 一 个 矮 人 和 一 个 羽 精 在 辩 论 哲 学 。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>569</ID>
+			<DefaultText>这 幅 画 描 绘 了 格 兰 法 斯 废 墟 ，一 位 才 华 横 溢 的 业 余 爱 好 者 在 画 布 上 留 下 了 粗 糙 的 笔 迹 。“伊 博 瑞 尔 之 井 ：2665年 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>570</ID>
+			<DefaultText>这 条 龙 由 炭 笔 勾 勒 而 出 。厚 而 锯 齿 状 的 线 与 淡 淡 的 硫 磺 味 道 都 表 明 这 位 艺 术 家 匆 忙 地 完 成 了 这 张 草 图 。“崖 龙 。2685年 ，苍 运 国 。 ”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>571</ID>
+			<DefaultText>六 本 旅 行 日 志 用 麻 绳 串 了 起 来 ，上 面 有 许 多 分 散 的 标 题 比 如 “活 化 之 地 的 植 物 群 ”，“不 团 结 的 统 一 ：亡 焰 群 岛 ”和 “关 于 库 尔 金 人 的 论 述 ”。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>572</ID>
+			<DefaultText>这 根 绿 萤 支 柱 似 乎 突 然 从 地 板 下 冲 出 ，包 裹 着 黑 暗 而 模 糊 于 其 中 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>573</ID>
+			<DefaultText>“前 维 拉 南 海 岸 。伊 洛 希 奥 历 2670年 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>574</ID>
+			<DefaultText>这 些 古 书 的 书 页 十 分 脆 弱 易 碎 ，上 面 有 着 海 风 的 咸 味 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>575</ID>
+			<DefaultText>这 些 匕 首 标 示 了 许 多 不 同 因 格 维 斯 废 墟 的 位 置 。地 图 周 围 的 题 注 应 该 是 当 时 探 险 队 所 留 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>576</ID>
+			<DefaultText>这 些 剑 的 剑 刃 已 经 磨 钝 以 用 于 练 习 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>577</ID>
+			<DefaultText>有 人 用 粉 笔 在 这 个 傀 儡 上 潦 草 地 写 下 了 “指 挥 官 克 莱 韦 尔 ”。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>578</ID>
+			<DefaultText>这 个 靶 子 的 外 环 上 千 疮 百 孔 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>579</ID>
+			<DefaultText>“箭 术 只 能 在 探 险 大 厅 练 习 。在 索 尼 尔 德 处 购 买 供 个 人 使 用 的 武 器 。没 有 例 外 。——奥 斯 里 克 ”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>580</ID>
+			<DefaultText>这 些 书 架 上 的 书 涵 盖 了 前 维 拉 的 历 史 和 神 话 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>581</ID>
+			<DefaultText>这 些 标 题 都 提 到 了 格 兰 法 斯 先 进 的 数 学 和 几 何 学 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>582</ID>
+			<DefaultText>“Erol of Levi的 旅 行 ，2662 - 268？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>583</ID>
+			<DefaultText>这 些 货 架 上 有 来 自 世 界 各 地 的 戏 剧 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>584</ID>
+			<DefaultText>在 锡 制 头 盔 与 护 胸 甲 之 间 有 几 把 匕 首 ，感 觉 锋 利 无 比 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>585</ID>
+			<DefaultText>这 幅 画 描 绘 了 “黎 明 之 光 ”的 著 名 场 景 ，一 个 饥 饿 的 人 遇 到 了 旅 行 者 和 灵 魂 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>586</ID>
+			<DefaultText>这 是 迪 伍 德 自 由 领 的 官 方 象 征 ——一 个 中 间 有 牡 鹿 头 的 六 芒 星 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>587</ID>
+			<DefaultText>杂 草 生 长 得 繁 杂 而 茂 密 ，没 有 为 行 人 所 打 扰 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>588</ID>
+			<DefaultText>这 幅 画 展 描 绘 了 一 排 战 士 站 在 反 抗 湾 的 高 墙 上 ，而 鹿 丛 船 只 正 在 远 去 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>589</ID>
+			<DefaultText>这 里 有 一 份 昂 德 拉 之 地 的 活 动 巡 逻 队 与 犯 罪 活 动 的 报 告 。后 者 的 数 量 远 远 超 过 前 者 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>590</ID>
+			<DefaultText>这 些 刀 刃 十 分 锋 利 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>591</ID>
+			<DefaultText>这 把 木 头 椅 子 感 觉 很 坚 硬 ，坐 着 不 舒 服 。椅 垫 在 无 数 的 听 证 会 中 已 经 磨 薄 了 ，粗 糙 的 木 料 可 能 会 刮 到 衣 服 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>592</ID>
+			<DefaultText>这 份 提 议 展 示 了 迪 伍 德 与 维 拉 的 灵 魂 学 者 之 间 协 作 安 排 的 细 节 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>593</ID>
+			<DefaultText>两 种 不 同 风 格 的 笔 迹 显 示 了 一 系 列 讨 价 还 价 以 阻 止 另 一 个 代 表 向 灵 魂 研 究 基 金 会 的 请 求 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>594</ID>
+			<DefaultText>不 管 是 设 计 还 是 烛 光 映 照 的 效 果 ，连 帽 雕 像 的 脸 都 几 乎 无 法 看 清 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>595</ID>
+			<DefaultText>一 家 共 和 国 的 商 业 公 司 和 一 家 迪 伍 德 羊 毛 集 团 正 在 就 一 项 贸 易 谈 判 ，其 草 案 铺 满 了 整 张 桌 子 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>596</ID>
+			<DefaultText>这 些 记 录 显 示 了 当 前 一 系 列 大 宗 商 品 的 价 格 ，与 维 拉 Lusce的 汇 率 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>597</ID>
+			<DefaultText>这 些 账 单 和 发 票 显 示 了 玛 伊 娅 员 工 的 工 资 以 及 她 花 在 啤 酒 ，鱼 ，和 新 床 单 上 的 费 用 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>598</ID>
+			<DefaultText>这 是 一 份 对 一 个 叫 “赛 瑞 尔 ”的 人 的 相 当 形 象 的 表 白 宣 言 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>599</ID>
+			<DefaultText>近 距 离 来 看 ，这 些 看 起 来 比 人 们 想 象 的 更 舒 适 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>600</ID>
+			<DefaultText>一 次 顿 瑞 德 抽 签 游 戏 似 乎 突 然 被 中 断 了 ，留 下 了 散 落 的 卡 片 和 布 拉 科 森 管 子 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>601</ID>
+			<DefaultText>令 人 吃 惊 的 事 ，这 些 垫 子 之 间 没 有 交 换 空 隙 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>602</ID>
+			<DefaultText>赛 奥 斯 的 灵 魂 在 挥 之 不 去 的 沉 重 空 气 中 扭 曲 翻 滚 着 ，似 乎 想 要 努 力 留 下 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>604</ID>
+			<DefaultText>一 张 航 运 清 单 上 列 有 “Prìncipa me Ciamena”的 如 下 货 物 ——400张 劳 亚 泰 的 鲨 鱼 皮 ，20捆 活 化 之 地 的 黑 木 ，72桶 鹿 丛 麦 芽 酒 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>605</ID>
+			<DefaultText>成 包 的 航 运 表 和 海 上 地 图 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>606</ID>
+			<DefaultText>“立 刻 运 输 至 巴 达 。小 心 轻 放 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>607</ID>
+			<DefaultText>“警 告 ：易 燃 物 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>608</ID>
+			<DefaultText>“活 标 本 ：切 勿 打 开 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>609</ID>
+			<DefaultText>“尊 敬 的 维 萨 诺 先 生 ——
+
+你 的 野 心 将 使 任 何 共 和 国 的 子 民 与 有 荣 光 ，但 你 的 方 法 并 不 可 行 。公 爵 们 已 经 要 求 过 你 为 全 共 和 国 的 商 业 利 益 着 想 。同 一 句 话 不 会 说 两 次 。
+
+——维 森 特 •阿 格 斯 蒂 ”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>610</ID>
+			<DefaultText>有 一 个 安 静 不 动 的 东 西 被 肮 脏 的 破 布 和 虫 蛀 的 毛 巾 包 裹 着 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>611</ID>
+			<DefaultText>有 张 饼 上 已 经 长 出 了 浅 绿 色 的 绒 毛 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>612</ID>
+			<DefaultText>这 些 桶 子 和 板 条 箱 的 木 料 好 像 被 水 泡 过 而 变 得 肿 胀 扭 曲 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>613</ID>
+			<DefaultText>从 这 扇 窗 户 就 能 窥 见 外 面 的 昂 德 拉 之 地 。落 霞 与 孤 鹜 齐 飞 ，秋 水 共 长 天 一 色 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>614</ID>
+			<DefaultText>这 些 柱 子 周 围 的 厚 玻 璃 冰 冷 而 不 透 光 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>615</ID>
+			<DefaultText>有 些 小 东 西 在 饭 锅 里 不 停 蠕 动 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>616</ID>
+			<DefaultText>床 就 和 木 板 一 样 硬 。破 旧 肮 脏 的 毯 子 感 觉 一 洗 就 会 支 离 破 碎 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>617</ID>
+			<DefaultText>粘 乎 乎 的 迷 草 纸 袋 存 放 在 黑 色 污 点 的 毯 子 下 面 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>618</ID>
+			<DefaultText>有 人 把 一 副 熏 黑 的 扑 克 牌 藏 在 床 底 下 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>619</ID>
+			<DefaultText>圆 形 被 单 刚 好 能 坐 下 三 个 人 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>620</ID>
+			<DefaultText>缠 绕 在 椅 子 上 的 绳 子 有 痛 苦 的 刮 擦 感 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>621</ID>
+			<DefaultText>桶 里 的 水 混 杂 着 鲜 血 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>622</ID>
+			<DefaultText>背 面 的 旋 钮 表 明 这 张 桌 子 是 由 一 扇 废 弃 的 门 做 成 的 。一 丁 点 压 力 就 会 使 其 在 桶 顶 摇 摆 不 定 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>623</ID>
+			<DefaultText>肮 脏 的 窗 户 从 内 部 被 掩 盖 住 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>624</ID>
+			<DefaultText>屋 顶 十 分 怪 异 ，有 的 木 瓦 还 缺 失 了 ，看 起 来 就 像 一 个 赏 金 猎 人 没 有 门 牙 的 微 笑 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>625</ID>
+			<DefaultText>这 艘 船 的 周 围 散 落 着 木 板 ，目 前 还 不 清 楚 它 是 在 建 还 是 被 遗 弃 或 是 被 当 作 木 料 拆 除 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>626</ID>
+			<DefaultText>泥 浆 在 脚 下 不 停 压 碎 。螃 蟹 从 碎 片 中 四 散 而 逃 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>627</ID>
+			<DefaultText>蚌 贝 粘 在 砖 头 和 木 板 上 ，它 们 的 壳 锋 利 到 可 以 割 开 鲜 肉 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>628</ID>
+			<DefaultText>这 些 迷 人 的 窗 户 都 用 加 厚 玻 璃 和 铁 棒 钢 筋 加 固 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>629</ID>
+			<DefaultText>大 理 石 十 分 凉 爽 光 滑 。清 澈 的 水 滴 落 在 雕 像 上 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>630</ID>
+			<DefaultText>没 有 那 些 橘 子 会 像 这 些 一 样 满 是 污 点 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>631</ID>
+			<DefaultText>有 一 封 卷 宗 贴 在 墙 壁 上 ，显 然 有 一 支 商 队 在 去 新 希 奥 马 途 中 失 踪 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>632</ID>
+			<DefaultText>这 些 笔 记 都 是 以 密 码 形 式 所 写 ，或 者 是 作 者 自 己 的 笔 迹 糟 糕 透 顶 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>633</ID>
+			<DefaultText>有 些 葡 萄 酒 的 年 份 甚 至 比 反 抗 湾 还 久 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>634</ID>
+			<DefaultText>一 堆 笔 记 在 推 测 一 个 反 抗 湾 秘 密 教 派 的 身 份 和 位 置 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>635</ID>
+			<DefaultText>“你 的 灵 魂 想 告 诉 你 的 ”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>636</ID>
+			<DefaultText>这 些 看 起 来 像 因 格 维 斯 废 墟 和 手 工 品 的 现 场 勘 绘 图 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>637</ID>
+			<DefaultText>笼 子 里 的 边 缘 处 有 爪 痕 的 凹 损 痕 迹 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>638</ID>
+			<DefaultText>这 个 奇 怪 的 装 置 中 似 乎 有 威 力 在 振 荡 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>639</ID>
+			<DefaultText>铜 制 电 线 和 导 管 在 闪 闪 发 光 。这 件 装 置 摸 起 来 很 温 暖 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>640</ID>
+			<DefaultText>这 个 水 箱 里 培 养 着 某 种 东 西 ，不 断 有 气 泡 产 生 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>641</ID>
+			<DefaultText>弯 曲 的 板 子 上 有 深 深 的 凿 痕 。它 们 彼 此 隔 开 ，就 像 人 类 或 精 灵 的 指 甲 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>642</ID>
+			<DefaultText>桶 内 散 发 着 垃 圾 的 臭 气 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>643</ID>
+			<DefaultText>锁 链 因 为 额 外 的 重 量 而 不 断 呻 吟 。床 边 有 一 块 新 月 形 齿 痕 凹 陷 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>644</ID>
+			<DefaultText>这 张 桌 子 表 面 都 是 怪 异 的 粉 笔 标 记 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>645</ID>
+			<DefaultText>这 些 标 签 角 度 都 完 美 向 外 ，以 其 作 为 一 批 上 等 葡 萄 酒 而 自 豪 。然 而 它 们 已 经 尽 染 尘 埃 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>646</ID>
+			<DefaultText>这 些 红 色 果 皮 是 如 此 明 亮 ，看 来 有 人 花 时 间 把 每 个 水 果 都 单 独 擦 过 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>647</ID>
+			<DefaultText>这 本 账 簿 上 列 有 大 量 的 小 麦 、铜 和 羊 毛 。书 脊 深 深 的 折 痕 表 明 这 本 书 从 没 有 合 上 过 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>648</ID>
+			<DefaultText>这 些 深 红 色 的 苹 果 看 起 来 简 直 不 像 是 真 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>649</ID>
+			<DefaultText>虽 然 这 个 双 人 小 沙 发 设 计 精 良 ，坐 起 来 仍 然 觉 得 僵 硬 而 不 舒 服 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>650</ID>
+			<DefaultText>这 张 被 单 感 觉 像 进 口 的 鹿 丛 丝 绸 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>651</ID>
+			<DefaultText>虽 然 这 景 观 很 不 错 ，绘 画 却 显 然 是 匆 匆 完 成 的 。艺 术 家 似 乎 花 了 更 多 的 时 间 在 他 的 签 名 “A.德 梅 尼 尔 ”上 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>652</ID>
+			<DefaultText>整 幅 画 的 用 色 都 因 为 底 部 的 超 大 号 签 名 “爱 波 里 肯 •德 梅 尼 尔 ”而 黯 然 无 光 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>653</ID>
+			<DefaultText>烤 箱 里 有 烤 鸡 和 面 包 的 味 道 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>654</ID>
+			<DefaultText>这 张 迪 伍 德 和 伊 尔 •格 兰 法 斯 的 地 图 似 乎 早 于 东 部 发 现 的 一 些 遗 迹 。制 图 师 签 署 了 名 字 “斯 凯 里 昂 ”。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>655</ID>
+			<DefaultText>这 张 地 图 绘 制 了 通 过 苍 运 国 的 路 线 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>656</ID>
+			<DefaultText>一 个 白 粘 土 做 成 的 以 撒 弥 陀 水 壶 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>657</ID>
+			<DefaultText>这 个 烟 灰 缸 涂 上 了 五 颜 六 色 的 海 浪 ，呈 现 出 劳 亚 泰 的 风 格 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>658</ID>
+			<DefaultText>淡 黄 色 和 深 琥 珀 色 的 迪 伍 德 和 活 化 之 地 的 威 士 忌 并 排 摆 在 一 起 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>659</ID>
+			<DefaultText>那 几 瓶 臭 名 昭 著 的 亡 焰 群 岛 &quot;燃 魂 &quot;就 放 在 透 明 的 Naasitaqi和 格 拉 姆 法 伦 烈 酒 旁 边 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>660</ID>
+			<DefaultText>在 这 里 ，宅 邸 似 乎 被 遗 弃 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>661</ID>
+			<DefaultText>精 华 虽 然 被 抽 空 ，但 是 绿 萤 装 置 在 那 里 仍 然 很 安 静 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>662</ID>
+			<DefaultText>这 个 垫 子 已 经 结 成 了 块 ，还 有 稻 草 的 味 道 ，但 是 最 后 一 个 睡 在 这 上 面 的 人 把 它 弄 干 净 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>663</ID>
+			<DefaultText>拍 拍 这 张 脏 乱 的 床 单 ，空 气 里 立 刻 充 满 了 灰 尘 。最 近 几 个 星 期 都 没 有 人 睡 过 这 张 床 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>664</ID>
+			<DefaultText>机 器 运 行 时 的 能 量 在 这 里 会 更 加 强 烈 地 感 受 到 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>665</ID>
+			<DefaultText>卷 轴 里 有 一 支 笔 和 绿 萤 装 置 在 塔 里 运 行 的 图 表 。除 了 一 大 堆 尺 寸 和 精 心 绘 制 的 细 节 之 外 ，里 面 没 有 提 到 这 个 机 器 的 用 途 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>666</ID>
+			<DefaultText>“第 二 天 ：我 们 完 成 了 机 器 的 测 量 工 作 （多 亏 了 Trindig那 不 老 的 活 力 ！）。为 了 弄 明 白 它 的 使 用 目 的 ，我 们 还 需 要 更 深 入 的 研 究 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>667</ID>
+			<DefaultText>“第 七 天 ：经 过 了 一 个 星 期 的 研 究 ，我 们 对 这 个 装 置 还 是 一 无 所 知 。Trindig仍 然 很 乐 观  - 如 果 没 有 他 的 意 志 力 我 不 知 道 我 们 能 做 成 什 么 事 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>668</ID>
+			<DefaultText>“第 10天 ：Patrons迟 迟 得 不 到 量 化 结 果 而 变 得 耐 心 不 足 。如 果 他 们 觉 得 这 事 简 单 的 话 ，他 们 可 以 走 出 宅 邸 来 这 里 待 上 几 个 晚 上 试 试 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>669</ID>
+			<DefaultText>“第 11天 ：我 们 最 终 走 出 了 塔 ，来 清 醒 一 下 头 脑 。Beasts take the patrons - 我 们 会 靠 我 们 自 己 的 威 力 ，用 我 们 自 己 的 时 间 来 完 成 研 究 。就 像 我 跟 Trindig说 过 的 一 样 ，天 空 会 随 着 会 漫 射 照 明 恢 复 生 机 。我 说 这 是 个 好 兆 头 ，但 是 那 个 可 怜 的 家 伙 吓 坏 了 。唯 一 能 让 他 正 常 的 办 法 就 是 好 好 睡 一 觉 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>670</ID>
+			<DefaultText>“因 格 维 斯 人 的 作 品  - 综 合 指 南 ”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>671</ID>
+			<DefaultText>站 在 装 置 旁 边 的 感 觉 就 好 像 有 一 阵 狂 风 吹 来 。石 头 都 因 为 这 能 量 开 始 震 动 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>672</ID>
+			<DefaultText>蜘 蛛 网 被 微 风 吹 得 晃 来 晃 去 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>673</ID>
+			<DefaultText>这 些 秘 藏 被 封 印 了 ，上 面 沾 满 了 蜘 蛛 网 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>674</ID>
+			<DefaultText>在 蜡 烛 之 中 摆 放 着 一 些 家 族 纪 念 品  - Vailian lusces，一 个 刻 有 身 着 华 丽 服 饰 的 女 子 的 宝 石 ，还 有 一 个 绿 松 石 项 链 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>675</ID>
+			<DefaultText>这 些 土 豆 已 经 腐 烂 了 ，上 面 都 是 潮 湿 又 难 闻 的 斑 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>676</ID>
+			<DefaultText>这 些 发 霉 的 面 包 跟 石 头 一 样 硬 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>677</ID>
+			<DefaultText>某 个 东 西  - 或 者 某 个 人  - 把 这 烛 台 折 成 了 两 截 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>678</ID>
+			<DefaultText>丰 富 又 美 味 的 汤 在 灶 台 边 沸 腾 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>679</ID>
+			<DefaultText>在 新 的 柜 子 上 可 以 闻 到 新 鲜 木 材 的 味 道 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>680</ID>
+			<DefaultText>老 鼠 在 坏 掉 的 楼 梯 上 蹦 来 跳 去 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>681</ID>
+			<DefaultText>窗 帘 后 面 的 窗 户 外 是 一 堆 乱 糟 糟 的 树 篱 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>682</ID>
+			<DefaultText>窗 帘 后 面 的 窗 户 外 是 一 排 整 洁 的 树 篱 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>683</ID>
+			<DefaultText>这 些 厚 厚 的 羊 毛 感 觉 又 柔 软 又 温 暖 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>684</ID>
+			<DefaultText>屋 子 周 围 就 是 迪 伍 德 的 荒 野 。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>685</ID>
+			<DefaultText>有 一 瓶 未 开 的 酒 ，上 面 附 了 个 纸 条 ：
+
+&quot;下 次 你 来 布 拉 肯 伯 里 的 时 候 ，我 们 一 起 来 打 开 。
+
+干 杯 ，
+爱 波 里 肯 &quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>686</ID>
+			<DefaultText>有 一 瓶 未 开 的 酒 ，上 面 附 了 个 纸 条 ：
+
+&quot;为 了 向 我 们 的 新 盟 友 表 示 敬 意 ，鄙 人 不 才 的 儿 子 从 我 的 酒 窖 里 酿 出 了 我 们 家 最 好 的 葡 萄 酒 。为 了 美 好 的 未 来 干 杯 。
+
+你 的 朋 友 
+G.德 梅 尼 尔 &quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>687</ID>
+			<DefaultText>抽 屉 里 有 一 个 纸 条 ，上 面 有 个 善 良 的 红 唇 印 。还 散 发 着 令 人 作 呕 的 香 水 味 。
+
+&quot;谢 谢 你 帮 助 科 尔 费 格 。有 一 个 会 办 事 的 朋 友 真 好 。以 后 再 来 。
+
+-布 里 坎 塔 &quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>688</ID>
+			<DefaultText>棕 灰 色 皮 毛 的 老 鼠 在 木 板 之 间 穿 梭 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>689</ID>
+			<DefaultText>火 盆 里 的 铁 链 已 经 变 得 僵 硬 ，且 布 满 了 灰 尘 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>690</ID>
+			<DefaultText>银 色 的 弹 头 在 请 管 理 闪 闪 发 光 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>691</ID>
+			<DefaultText>墙 上 有 一 排 粉 笔 画 出 的 清 晰 的 短 线 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>692</ID>
+			<DefaultText>有 人 在 一 个 看 起 来  - 或 者 闻 起 来  - 像 粪 便 的 东 西 上 找 到 了 一 个 满 是 星 星 和 螺 旋 状 东 西 的 笔 画 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>693</ID>
+			<DefaultText>这 张 小 床 表 面 很 粗 糙 ，上 面 布 满 了 碎 片 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>694</ID>
+			<DefaultText>感 觉 好 像 只 有 蜘 蛛 网 在 连 接 着 这 些 摇 摇 欲 坠 的 破 烂 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>695</ID>
+			<DefaultText>有 东 西 用 干 草 和 床 垫 布 做 了 个 窝 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>696</ID>
+			<DefaultText>床 单 下 面 有 三 张 满 是 油 渍 的 纸 牌 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>697</ID>
+			<DefaultText>画 上 有 一 个 长 着 大 大 的 眼 睛 和 小 巧 的 鼻 子 的 女 性 精 灵 ，它 蜷 缩 在 枕 头 下 面 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>698</ID>
+			<DefaultText>这 是 一 本 关 于 一 个 勇 敢 的 年 轻 灵 魂 学 者 和 一 个 沉 默 寡 言 ，肌 肉 僵 硬 的 格 兰 法 斯 人 之 间 风 流 韵 事 的 小 说 。在 封 面 里 夹 着 一 个 字 条 ：
+
+&quot;我 在 清 理 书 架 时 看 到 了 这 个 ，然 后 想 到 了 你 （我 是 说 不 是 你 想 象 的 那 样 ）。我 想 到 你 在 旅 途 中 或 许 会 有 时 间 来 欣 赏 一 下 。一 个 朋 友 告 诉 我 这 样 很 好 。说 真 的 ，我 其 实 还 没 有 看 。
+
+-内 戴 恩 &quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>699</ID>
+			<DefaultText>书 架 上 有 几 本 书 。这 些 书 之 间 夹 着 一 个 伊 塞 默 尔 写 的 字 条 ：
+
+“这 些 书 是 赞 美 布 拉 肯 伯 里 疗 养 院 的 。保 管 好 它 们  - 有 很 多 在 鹿 丛 帝 国 是 违 法 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>700</ID>
+			<DefaultText>这 些 日 志 里 有 艾 德 迈 斯 花 ，迪 菇 ，还 有 其 他 植 物 的 图 鉴 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>701</ID>
+			<DefaultText>“希 望 马 格 岚 的 信 徒 会 发 现 自 己 在 她 的 试 炼 中 得 到 了 改 变 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>702</ID>
+			<DefaultText>“希 望 贝 拉 斯 的 信 徒 在 每 个 终 点 处 都 会 发 现 新 的 起 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>703</ID>
+			<DefaultText>“希 望 伊 欧 萨 斯 的 光 芒 再 次 照 耀 到 他 的 信 徒 身 上 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>704</ID>
+			<DefaultText>“希 望 沉 默 奴 隶 可 以 指 引 并 隐 瞒 他 追 随 者 的 计 划 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>705</ID>
+			<DefaultText>“瓦 尔 的 探 求 者 是 被 问 题 指 引 ，并 给 谜 题 给 出 答 案 的 人 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>706</ID>
+			<DefaultText>“愿 上 帝 会 指 引 并 保 护 那 些 寻 求 自 己 幸 福 的 人 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>707</ID>
+			<DefaultText>干 果 ，熏 肉 ，什 锦 坚 果 都 在 展 示 柜 里 分 类 列 了 出 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>708</ID>
+			<DefaultText>弹 簧 ，楚 仑 ，还 有 各 种 线 在 一 个 箱 子 里 吵 闹 地 工 作 着 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>710</ID>
+			<DefaultText>连 锁 环 上 刻 着 奇 怪 的 标 志 。它 们 相 互 交 错 ，还 发 出 细 小 的 咔 嚓 声 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>711</ID>
+			<DefaultText>这 东 西 看 上 去 好 像 是 鹿 丛 饮 酒 大 赛 的 东 西 ，那 个 比 赛 里 会 有 几 个 瓶 子 装 满 水 ，还 有 一 个 瓶 子 装 着 浓 缩 的 森 里 德 液 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>712</ID>
+			<DefaultText>“潮 湿 孢 子 松 露  - 免 费 样 品 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>713</ID>
+			<DefaultText>精 华 在 这 些 瓶 子 里 闪 烁 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>714</ID>
+			<DefaultText>瓶 口 伸 出 了 十 几 条 蜘 蛛 的 腿 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>715</ID>
+			<DefaultText>那 叠 放 整 齐 的 上 衣 摸 上 去 很 轻 柔 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>716</ID>
+			<DefaultText>有 一 本 书 的 封 面 很 恐 怖 ，在 书 丛 中 闲 得 很 显 眼 。书 脊 上 写 着 “马 格 岚 的 勇 士 ”。在 那 满 是 水 渍 的 第 一 页 上 写 着 一 句 话 ：
+
+&quot;战 争 总 会 剥 夺 一 些 自 由 ，但 是 在 哈 尔 格 特 城 堡 发 生 的 事 还 是 比 较 圆 满 的 。我 的 一 个 朋 友 在 几 年 前 把 这 些 事 写 了 下 来 ，但 是 公 爵 的 档 案 管 理 员 一 本 都 没 有 买 。来 让 你 看 看 炼 狱 骑 士 隐 藏 的 有 多 深 。
+
+-维 南 &quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>717</ID>
+			<DefaultText>架 子 上 放 着 一 把 炼 狱 骑 士 的 仪 式 剑 。这 是 高 级 骑 士 克 莱 韦 尔 的 礼 物 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>718</ID>
+			<DefaultText>架 子 上 放 着 一 把 炼 狱 骑 士 的 仪 式 锤 。这 是 邓 斯 坦 带 来 的 礼 物 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>719</ID>
+			<DefaultText>这 垃 圾 又 黏 又 油 ，谁 碰 它 它 就 会 黏 在 谁 身 上 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>720</ID>
+			<DefaultText>和 一 只 鸡 差 不 多 大 的 蝙 蝠 被 困 在 了 网 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>721</ID>
+			<DefaultText>这 些 支 柱 足 够 大 ，都 可 以 成 为 龙 的 肋 骨 和 脊 柱 了 。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>722</ID>
+			<DefaultText>帐 篷 里 飘 出 了 烤 肉 的 味 道 。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>723</ID>
+			<DefaultText>帐 篷 里 什 么 都 没 有 ，除 了 一 张 很 脏 的 小 床 和 一 股 未 清 洗 过 的 尸 体 的 臭 味 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>724</ID>
+			<DefaultText>勺 子 挂 在 火 焰 上 方 ，上 面 全 是 泥 点 子 。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>725</ID>
+			<DefaultText>一 种 褐 色 液 体 凝 固 在 了 盘 子 上 。闻 上 去 有 一 股 焦 味 。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>726</ID>
+			<DefaultText>地 板 上 全 是 水 渍 ，没 人 清 理 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>727</ID>
+			<DefaultText>这 些 骨 头 上 面 全 是 咬 痕 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>728</ID>
+			<DefaultText>书 后 面 是 一 幅 画 ，内 容 是 伊 欧 萨 斯 和 莱 德 里 克 大 人 的 处 境 很 不 利 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>729</ID>
+			<DefaultText>蟑 螂 在 箱 子 底 下 四 下 奔 逃 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>730</ID>
+			<DefaultText>冲 着 熔 炉 怒 吼 ，但 是 煤 仍 然 在 燃 烧 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>731</ID>
+			<DefaultText>这 些 剑 又 旧 又 钝 ，急 需 打 磨 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>732</ID>
+			<DefaultText>蛤 壳 和 蟹 壳 都 用 来 烧 煤 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>733</ID>
+			<DefaultText>鱼 和 一 团 一 团 的 海 草 在 汤 里 搅 拌 ，它 们 加 热 后 绿 得 发 亮 。尝 起 来 有 点 咸 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>734</ID>
+			<DefaultText>苔 藓 和 霉 菌 像 毯 子 一 般 覆 盖 着 骨 头 。围 起 来 很 潮 湿 ，还 有 泥 土 的 味 道 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>735</ID>
+			<DefaultText>老 鼠 在 眼 眶 里 和 股 骨 上 爬 来 爬 去 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>736</ID>
+			<DefaultText>松 鼠 在 树 枝 间 跳 来 跳 去 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>737</ID>
+			<DefaultText>那 受 损 的 绳 子 一 端 漂 在 水 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>738</ID>
+			<DefaultText>床 下 有 一 个 装 满 东 西 的 小 背 包 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>739</ID>
+			<DefaultText>老 鼠 在 布 袋 后 面 乱 窜 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>740</ID>
+			<DefaultText>这 里 有 半 瓶 森 里 德 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>741</ID>
+			<DefaultText>树 上 刻 着 的 守 护 者 标 志 就 像 伤 疤 一 样 又 红 又 粗 糙 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>742</ID>
+			<DefaultText>这 些 刻 痕 上 还 闪 着 树 液 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>743</ID>
+			<DefaultText>尽 管 下 着 雨 ，但 是 这 些 植 物 的 茎 还 是 和 蚱 蜢 的 皮 肤 一 样 干 燥 坚 硬 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>744</ID>
+			<DefaultText>在 藤 的 下 面 粗 糙 的 刻 着 一 个 冉 冉 升 起 的 太 阳 ，旁 边 还 有 三 颗 星 星 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>745</ID>
+			<DefaultText>窗 户 上 布 满 了 累 积 的 烟 雾 和 做 饭 时 的 油 脂 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>747</ID>
+			<DefaultText>在 树 根 之 间 散 落 着 一 些 手 镯 的 细 绳 和 珠 子 ，枯 萎 的 花 和 一 个 被 雨 水 冲 刷 的 字 条 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>748</ID>
+			<DefaultText>连 接 处 边 缘 生 了 锈 。胸 甲 上 的 标 志 是 一 个 长 着 宽 大 的 心 形 树 叶 的 树 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>749</ID>
+			<DefaultText>枕 头 下 面 是 一 个 木 制 的 大 奖 章 ，上 面 刻 着 升 起 的 太 阳 和 三 颗 星 。它 用 皮 带 拴 了 起 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>750</ID>
+			<DefaultText>银 色 的 刀 叉 上 被 侵 蚀 除 了 污 点 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>751</ID>
+			<DefaultText>烤 羊 肉 只 飘 出 了 微 弱 的 烟 味 和 脂 肪 的 焦 味 。大 块 的 肉 从 尸 体 上 被 割 了 下 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>752</ID>
+			<DefaultText>有 一 本 满 是 灰 尘 的 账 本 ，上 面 记 录 了 丰 饶 之 谷 从 2632年 到 现 在 的 农 场 征 税 情 况 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>753</ID>
+			<DefaultText>火 焰 把 纸 张 烧 黑 ，使 其 卷 曲 起 来 。那 刻 着 太 阳 和 星 星 皮 质 封 皮 ，在 火 焰 里 几 乎 看 不 到 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>754</ID>
+			<DefaultText>“双 子 之 神 的 千 面 ”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>755</ID>
+			<DefaultText>&quot;崇 拜 沉 默 之 神 贝 拉 斯 &quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>756</ID>
+			<DefaultText>祭 坛 下 面 有 一 盒 带 有 麝 香 味 的 焚 香 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>757</ID>
+			<DefaultText>平 整 的 盆 地 经 过 几 年 的 风 吹 日 晒 变 成 了 平 地 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>758</ID>
+			<DefaultText>座 位 后 边 裂 开 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>759</ID>
+			<DefaultText>破 旧 的 布 袍 有 一 股 焚 香 味 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>760</ID>
+			<DefaultText>肉 体 上 的 血 液 和 斑 点 结 成 了 硬 皮 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>761</ID>
+			<DefaultText>杯 子 摸 起 来 比 较 温 。里 面 的 水 不 停 的 冒 泡 ，杯 子 也 跟 着 震 动 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>762</ID>
+			<DefaultText>墙 上 有 些 用 血 写 成 的 字 母 。但 是 这 些 字 母 被 鲜 红 的 手 印 盖 住 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>763</ID>
+			<DefaultText>几 个 沾 血 的 指 甲 插 进 了 土 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>764</ID>
+			<DefaultText>骨 头 上 的 咬 痕 好 像 是 叉 子 和 精 灵 的 牙 齿 咬 出 来 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>765</ID>
+			<DefaultText>盖 子 边 缘 有 一 些 凿 痕 和 抓 痕 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>766</ID>
+			<DefaultText>污 水 里 冒 出 一 股 浓 重 的 臭 味 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>767</ID>
+			<DefaultText>雨 水 ，伴 着 些 小 虫 子 ，流 进 了 桶 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>768</ID>
+			<DefaultText>罐 子 里 装 满 了 潮 湿 的 火 药 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>769</ID>
+			<DefaultText>桶 底 的 木 板 很 黑 ，但 很 干 。桶 里 的 东 西 很 久 以 前 就 流 光 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>770</ID>
+			<DefaultText>马 厩 里 全 是 蝙 蝠 粪 便 的 味 道 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>771</ID>
+			<DefaultText>死 亡 的 贼 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>772</ID>
+			<DefaultText>到 处 都 是 老 鼠 ，它 们 在 怪 兽 的 牙 齿 之 间 乱 爬 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>773</ID>
+			<DefaultText>帐 篷 里 有 个 闲 置 的 铺 盖 卷 ，但 是 似 乎 没 有 其 他 人 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>774</ID>
+			<DefaultText>有 人 在 木 头 上 刻 下 了 缩 写 “TRS”。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>775</ID>
+			<DefaultText>鸡 骨 头 在 箱 子 里 晃 动 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>776</ID>
+			<DefaultText>一 块 木 瓦 从 摇 摇 欲 坠 的 屋 顶 上 掉 了 下 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>777</ID>
+			<DefaultText>潮 湿 的 石 头 上 长 出 了 苔 藓 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>778</ID>
+			<DefaultText>石 头 下 有 一 只 蜥 蜴 跑 过 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>779</ID>
+			<DefaultText>在 还 玩 下 面 ，巨 浪 涌 向 反 抗 湾 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>780</ID>
+			<DefaultText>隧 道 很 深 ，不 过 肉 眼 还 可 以 见 底 。结 晶 水 非 常 透 明 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>781</ID>
+			<DefaultText>烟 灰 染 黑 了 洞 口 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>782</ID>
+			<DefaultText>掉 落 的 水 晶 都 被 脚 踩 碎 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>783</ID>
+			<DefaultText>骨 头 一 部 分 被 腐 蚀 了 。上 面 布 满 了 污 泥 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>784</ID>
+			<DefaultText>床 下 放 着 一 个 拐 杖 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>785</ID>
+			<DefaultText>尽 管 烧 着 火 ，但 是 寒 冷 的 气 流 还 是 能 穿 过 摇 摇 欲 坠 的 屋 子 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>786</ID>
+			<DefaultText>酒 里 的 渣 滓 在 土 罐 里 打 转 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>787</ID>
+			<DefaultText>铺 盖 卷 下 面 是 一 个 遗 物  - 一 个 缠 满 了 海 草 的 小 贝 壳 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>788</ID>
+			<DefaultText>板 条 之 间 有 一 个 麻 雀 窝 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>789</ID>
+			<DefaultText>一 阵 热 浪 升 起 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>790</ID>
+			<DefaultText>骨 头 被 巨 大 的 牙 齿 咬 过 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>791</ID>
+			<DefaultText>骨 头 像 石 头 一 样 硬 ，但 是 很 轻 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>792</ID>
+			<DefaultText>这 是 一 个 关 于 闹 鬼 晚 宴 的 鹿 丛 恐 怖 故 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>793</ID>
+			<DefaultText>盒 子 上 方 刻 着 象 形 文 字 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>794</ID>
+			<DefaultText>长 钉 很 锋 利 ，足 以 划 破 石 头 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>795</ID>
+			<DefaultText>头 骨 当 时 的 表 情 很 痛 苦 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>796</ID>
+			<DefaultText>袋 子 边 缘 闪 烁 着 水 珠 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>797</ID>
+			<DefaultText>发 光 的 蘑 菇 散 发 出 麝 香 的 味 道 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>798</ID>
+			<DefaultText>缝 隙 里 飘 出 了 热 气 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>799</ID>
+			<DefaultText>绿 萤 的 脚 趾 就 像 钢 铁 盾 牌 一 样 坚 硬 光 滑 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>800</ID>
+			<DefaultText>绿 萤 很 光 滑 ，你 都 感 觉 不 到 雕 刻 的 痕 迹 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>801</ID>
+			<DefaultText>你 把 你 的 手 伸 了 下 去 ，但 还 没 有 触 底 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>802</ID>
+			<DefaultText>你 认 为 你 听 到 头 骨 里 传 出 了 不 清 晰 的 低 语 ，但 是 说 的 内 容 是 无 法 理 解 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>805</ID>
+			<DefaultText>火 球 陷 阱 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>806</ID>
+			<DefaultText>火 焰 扇 陷 阱 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>807</ID>
+			<DefaultText>缠 足 根 须 陷 阱 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>808</ID>
+			<DefaultText>一 堆 荆 棘 堵 住 了 路 。藤 蔓 蜿 蜒 延 伸 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>809</ID>
+			<DefaultText>灶 台 闻 起 来 好 像 是 刚 使 用 过 。油 脂 散 落 在 了 发 黑 的 砖 块 上 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>810</ID>
+			<DefaultText>种 子 和 碎 皮 散 落 得 满 地 都 是 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>811</ID>
+			<DefaultText>书 架 边 缘 布 满 了 粘 鸟 胶 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>812</ID>
+			<DefaultText>那 一 堆 干 草 下 的 毯 子 出 奇 的 柔 软 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>813</ID>
+			<DefaultText>你 手 指 间 干 枯 的 药 草 ，散 发 出 清 新 的 花 香 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>815</ID>
+			<DefaultText>水 很 清 凉 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>816</ID>
+			<DefaultText>一 阵 凉 风 吹 过 树 叶 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>817</ID>
+			<DefaultText>床 随 着 树 轻 微 晃 动 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>818</ID>
+			<DefaultText>这 块 不 寻 常 的 石 头 散 发 着 热 气 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>819</ID>
+			<DefaultText>有 东 西 在 那 堆 金 子 里 钻 了 个 洞 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>820</ID>
+			<DefaultText>骨 头 的 边 缘 很 黑 ，而 且 易 碎 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>821</ID>
+			<DefaultText>桌 子 使 用 了 很 多 年 ，上 面 全 是 伤 痕 和 污 点 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>822</ID>
+			<DefaultText>箱 子 里 有 一 些 格 兰 法 斯 旅 行 团 的 必 需 品  - 皮 衣 和 毯 子 ，发 硬 的 布 ，还 有 些 被 雕 刻 的 绿 萤 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>823</ID>
+			<DefaultText>虽 然 这 把 刀 没 有 任 何 雕 饰 ，但 是 用 的 钢 是 最 锋 利 的 ，淬 火 也 是 最 好 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>824</ID>
+			<DefaultText>“牺 牲 者 的 血 液 浇 灌 了 伊 尔 •格 兰 法 斯 的 土 地 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>825</ID>
+			<DefaultText>“勇 敢 的 子 女 们 没 有 死 在 外 来 者 的 剑 下 ，而 是 被 同 胞 的 刀 剑 所 杀 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>826</ID>
+			<DefaultText>“体 内 的 精 华 是 用 来 滋 养 身 体 的 ，抽 取 精 华 可 以 使 身 体 变 强 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>827</ID>
+			<DefaultText>骨 头 和 杂 草 已 经 被 灶 台 的 煤 灰 熏 黑 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>828</ID>
+			<DefaultText>火 焰 冒 出 了 一 股 浓 重 的 烧 煤 的 味 道 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>829</ID>
+			<DefaultText>干 净 的 水 喝 起 来 很 清 甜 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>830</ID>
+			<DefaultText>岁 月 在 沃 迪 卡 雕 像 上 刻 下 的 每 一 处 痕 迹 都 有 种 痛 苦 的 熟 悉 感 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>831</ID>
+			<DefaultText>那 些 石 头 里 的 生 物 身 体 很 冷 ，长 满 了 霉 菌 。他 的 角 很 锋 利 ，足 以 锯 开 木 板 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>832</ID>
+			<DefaultText>城 市 很 宽 广 ，几 乎 延 伸 到 了 视 线 之 外 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>833</ID>
+			<DefaultText>苍 白 的 骨 头 碎 片 在 你 的 指 间 粉 碎 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>834</ID>
+			<DefaultText>狂 风 旋 转 着 从 深 处 吹 过 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>836</ID>
+			<DefaultText>雕 像 摸 上 去 很 温 暖 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>837</ID>
+			<DefaultText>机 器 伴 随 着 灵 魂 的 能 量 正 在 运 作 。站 在 旁 边 你 的 脑 袋 都 会 晕 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>838</ID>
+			<DefaultText>往 东 是 莱 德 里 克 的 要 塞 
+往 西 是 丰 饶 之 谷 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>839</ID>
+			<DefaultText>往 东 是 咸 桅 杆 
+往 南 是 码 头 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>840</ID>
+			<DefaultText>往 北 是 最 初 之 火 
+往 南 是 咸 桅 杆 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>841</ID>
+			<DefaultText>Mud</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>842</ID>
+			<DefaultText>卡 莉 丝 卡 的 身 体 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>843</ID>
+			<DefaultText>石 头 上 粗 糙 的 雕 刻 着 巨 浪 。它 们 抓 着 昂 德 拉 心 爱 的 月 亮 ，仿 佛 弯 曲 的 手 指 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>844</ID>
+			<DefaultText>死 亡 的 朝 圣 者 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>845</ID>
+			<DefaultText>先 祖 卷 宗 室 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>846</ID>
+			<DefaultText>祭 坛 上 的 铭 文 是 对 海 莉 亚 的 敬 意 ，但 是 它 被 一 层 厚 厚 的 苔 藓 遮 住 ，几 乎 看 不 到 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>847</ID>
+			<DefaultText>北 部 旷 野 悬 崖 上 的 云 彩 映 在 了 绿 萤 柱 子 那 闪 光 的 表 面 上 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>848</ID>
+			<DefaultText>哭 泣 女 妖 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>849</ID>
+			<DefaultText>布 袍 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>850</ID>
+			<DefaultText>厚 重 ，锈 红 色 的 死 亡 绿 萤 血 管 缠 绕 在 了 雕 像 的 手 腕 上 ，并 延 伸 进 了 前 方 的 黑 暗 中 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>851</ID>
+			<DefaultText>黑 猎 犬 旅 店 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>852</ID>
+			<DefaultText>Black Hammer Smithery</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>853</ID>
+			<DefaultText>Statue</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>854</ID>
+			<DefaultText>松 动 的 砖 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>855</ID>
+			<DefaultText>铺 盖 卷 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>856</ID>
+			<DefaultText>麻 袋 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>857</ID>
+			<DefaultText>疗 养 院 
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>858</ID>
+			<DefaultText>这 些 散 落 的 碎 片 似 乎 是 一 块 碑 的 一 部 分 ，就 在 这 石 桌 上 被 粉 碎 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>859</ID>
+			<DefaultText>啤 酒 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>860</ID>
+			<DefaultText>炉 火 歌 曲 市 场 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>861</ID>
+			<DefaultText>The Celestial Sapling</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>862</ID>
+			<DefaultText>ether里 有 东 西 在 你 牙 齿 之 间 嗡 嗡 的 叫 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>863</ID>
+			<DefaultText>又 深 又 长 的 伤 口 开 始 溃 烂 ，还 引 来 了 苍 蝇 ，说 明 这 个 蝎 虎 师 已 经 死 了 一 段 时 间 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>864</ID>
+			<DefaultText>维 拉 大 使 馆 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>865</ID>
+			<DefaultText>笼 子 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>866</ID>
+			<DefaultText>一 个 绿 萤 圆 盘 插 入 进 了 一 个 石 头 的 裂 缝 里 。上 面 闪 烁 着 符 文 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>867</ID>
+			<DefaultText>商 店 </DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

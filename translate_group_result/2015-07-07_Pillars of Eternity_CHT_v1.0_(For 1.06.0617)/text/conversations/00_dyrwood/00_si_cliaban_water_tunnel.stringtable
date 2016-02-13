@@ -1,0 +1,283 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Name>conversations\00_dyrwood\00_si_cliaban_water_tunnel</Name>
+<NextEntryID>1</NextEntryID>
+<EntryCount>55</EntryCount>
+<Entries>
+<Entry>
+<ID>1</ID>
+<DefaultText>Y你聽到了流水聲並看見一條小溪伸向大山深處。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>2</ID>
+<DefaultText>[查看溪流。]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>3</ID>
+<DefaultText>[涉水到達隧道。]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>4</ID>
+<DefaultText>[離開]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>5</ID>
+<DefaultText>A溪岸下的淺底水波搖曳閃爍，但你望向隧道，淺底變成了深淵。從這裡無法判斷溪流有多深。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>6</ID>
+<DefaultText>H然而隧道牆壁上一束微弱的光芒時隱時現。隧道和溪流延綿很長一段距離使得奔騰的水流激起了回聲。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>7</ID>
+<DefaultText>Y你邁著晃蕩的慢步朝隧道口走去，努力地在水流中站直。冰冷的水使你直喘氣，而當它漫過你的腰，你開始奮力控制呼吸。很快你就雙腳離開了河床，漸漸增大的水流把你推向隧道。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>8</ID>
+<DefaultText>[游進隧道。]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>9</ID>
+<DefaultText>[返回淺灘。]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>10</ID>
+<DefaultText>T水流在隧道中越來越快地推動著你前進。你頭頂的隧道變得狹窄而低垂，只剩下一點空氣。在水流把你拖至深處前你最後深吸一口氣。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>11</ID>
+<DefaultText>R光束穿透黑暗，但是因水流移動過快你只能看到一旁水波閃爍的瞬間。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>12</ID>
+<DefaultText>Y你把手保持在身體前方小心避讓黑暗中從牆上伸出的參差不平的石頭。一道光在你前方閃爍。你正快速接近它，但它看起來是另一個更小的隧道的入口。你也許能抵達它，但是你的肺已經開始疼了。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>13</ID>
+<DefaultText>W隨著快速而猛力的划動，你掙脫了水流的束縛回到岸上。在你身後，溪流衝進了隧道。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>14</ID>
+<DefaultText>[抓住隧道的邊緣。]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>15</ID>
+<DefaultText>[繼續漂流。]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>16</ID>
+<DefaultText>Y你手握隧道上的岩石並往裡面凝視。它有一個封閉的終點，但遠處的石頭中有東西閃爍。對於任何沒有大肺活量的人來說要到達它都是一種挑戰。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>17</ID>
+<DefaultText>Y你衝過旁邊的隧道時看到前方有個螺旋形轉彎。你及時在水流中調整身軀避開了正迎面而來的牆壁。這個轉彎逼得你吐出了肺裡最後一點空氣。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>18</ID>
+<DefaultText>T最後的光芒在你身後消失了。你無法判斷是隧道變黑了還是你正因缺少空氣而開始昏迷。不管怎樣，你已經無法看清周圍的牆體。你向前展開四肢並祈禱好運。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>19</ID>
+<DefaultText>Y你的腳撞到了石頭。你的手臂擦到了另一塊石頭。雖然你疼得咬牙切齒，但情況還沒像你害怕的那樣糟。要麼冷水已經使你皮膚麻木了，要麼你速度慢了下來。你快憋不住氣了。你閉緊嘴巴繃緊喉嚨來防止嗆水，但你的身體反射很快佔了上風。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>20</ID>
+<DefaultText>A你上方出現了一圈光暈。水流已經停止了，因此你手腳並用，扭動身軀向上游，但水面似乎遙不可及。最後，你終於從水面伸出了頭。你大吸空氣並爬到水池岸上。爬出水面後，你一邊按摩疼痛麻木的四肢一邊打量所處的洞穴。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>21</ID>
+<DefaultText>[派遣[Slot 0]。]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>22</ID>
+<DefaultText>[派遣[Slot 1]。]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>23</ID>
+<DefaultText>[Slot 0]爬入水中，隨著通道變窄靈活地在水中翻騰。在他到達終點前，屏氣到了極限，於是不得不返回。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>24</ID>
+<DefaultText>[Slot 0]爬入水中，隨著通道變窄靈活地在水中翻騰。最後，他發現了一具肋骨有把手的骷髏。[Slot 0]拔出把手推離石壁，游回了主隧道。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>27</ID>
+<DefaultText>[繼續漂流。]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>28</ID>
+<DefaultText>[Slot 0]爬入水中，隨著通道變窄靈活地在水中翻騰。最後，她發現了一具肋骨有把手的骷髏。[Slot 0]拔出把手推離石壁，游回了主隧道。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>29</ID>
+<DefaultText>[Slot 0]爬入水中，隨著通道變窄靈活地在水中翻騰。在她到達終點前，屏氣到了極限，於是不得不返回。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>30</ID>
+<DefaultText>[Slot 1]爬入水中，隨著通道變窄靈活地在水中翻騰。最後，他發現了一具肋骨有把手的骷髏。[Slot 1]拔出把手推離石壁，游回了主隧道。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>31</ID>
+<DefaultText>[Slot 1]爬入水中，隨著通道變窄靈活地在水中翻騰。在他到達終點前，屏氣到了極限，於是不得不返回。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>32</ID>
+<DefaultText>[Slot 1]爬入水中，隨著通道變窄靈活地在水中翻騰。最後，她發現了一具肋骨有把手的骷髏。[Slot 1]拔出把手推離石壁，游回了主隧道。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>33</ID>
+<DefaultText>[Slot 1]爬入水中，隨著通道變窄靈活地在水中翻騰。在她到達終點前，屏氣到了極限，於是不得不返回。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>34</ID>
+<DefaultText>[Slot 2]爬入水中，隨著通道變窄靈活地在水中翻騰。最後，他發現了一具肋骨有把手的骷髏。[Slot 2]拔出把手推離石壁，游回了主隧道。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>35</ID>
+<DefaultText>[Send[Slot 2].]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>36</ID>
+<DefaultText>[Send[Slot 3].]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>37</ID>
+<DefaultText>[Send[Slot 4].]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>38</ID>
+<DefaultText>[Send[Slot 5].]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>39</ID>
+<DefaultText>[Slot 2]他進入隧道的時候，通道十分狹窄，不過還能靈活地蹬著剪刀腳。在他到達終點之前，他的肺已經到達上限，身子也轉了過去。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>40</ID>
+<DefaultText>[Slot 2]她進入隧道的時候，通道十分狹窄，不過還能靈活地蹬著剪刀腳。在終點，她在自己的肋骨處摸到一塊突起。[Slot 2]蹬離逼仄的牆壁時，那股推力把自己推到了主隧道裡。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>41</ID>
+<DefaultText>[Slot 2]她進入隧道的時候，通道十分狹窄，不過還能靈活地蹬著剪刀腳。在她到達終點之前，她的肺已經到達上限，身子也轉了過去。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>42</ID>
+<DefaultText>[Slot 3]他進入隧道的時候，通道十分狹窄，不過還能靈活地蹬著剪刀腳。最後，他在自己的肋骨處摸到一塊突起。[Slot 2]蹬離逼仄的牆壁時，那股推力把自己推到了主隧道裡。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>43</ID>
+<DefaultText>[Slot 3]他進入隧道的時候，通道十分狹窄，不過還能靈活地蹬著剪刀腳。在他到達終點之前，他的肺已經到達上限，身子也轉了過去。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>44</ID>
+<DefaultText>[Slot 3]她進入隧道的時候，通道十分狹窄，不過還能靈活地蹬著剪刀腳。最後，她在自己的肋骨處摸到一塊突起。[Slot 3]蹬離逼仄的牆壁時，那股推力把自己推到了主隧道裡。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>45</ID>
+<DefaultText>[Slot 3]她進入隧道的時候，通道十分狹窄，不過還能靈活地蹬著剪刀腳。在她到達終點之前，她的肺已經到達上限，身子也轉了過去。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>46</ID>
+<DefaultText>[Slot 4]他進入隧道的時候，通道十分狹窄，不過還能靈活地蹬著剪刀腳。最後，他感覺自己的肋骨能摸到一塊突起。[Slot 2]蹬離逼仄的牆壁時，那股推力把自己推到了主隧道裡。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>47</ID>
+<DefaultText>[Slot 4]他進入隧道的時候，通道十分狹窄，不過還能靈活地蹬著剪刀腳。在他到達終點之前，他的肺已經到達上限，身子也轉了過去。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>48</ID>
+<DefaultText>[Slot 4]她進入隧道的時候，通道十分狹窄，不過還能靈活地蹬著剪刀腳。最後，她在自己的肋骨處摸到一塊突起。[Slot 4]蹬離逼仄的牆壁時，那股推力把自己推到了主隧道裡。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>49</ID>
+<DefaultText>[Slot 4]她進入隧道的時候，通道十分狹窄，不過還能靈活地蹬著剪刀腳。在她到達終點之前，她的肺已經到達上限，身子也轉了過去。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>50</ID>
+<DefaultText>[Slot 5]他進入隧道的時候，通道十分狹窄，不過還能靈活地蹬著剪刀腳。最後，他在自己的肋骨處摸到一塊突起。[Slot 2]蹬離逼仄的牆壁時，那股推力把自己推到了主隧道裡。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>51</ID>
+<DefaultText>[Slot 5]他進入隧道的時候，通道十分狹窄，不過還能靈活地蹬著剪刀腳。在他到達終點之前，他的肺已經到達上限，身子也轉了過去。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>52</ID>
+<DefaultText>[Slot 5]她進入隧道的時候，通道十分狹窄，不過還能靈活地蹬著剪刀腳。最後，她在自己的肋骨處摸到一塊突起。[Slot 5]蹬離逼仄的牆壁時，那股推力把自己推到了主隧道裡。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>53</ID>
+<DefaultText>[Slot 5]她進入隧道的時候，通道十分狹窄，不過還能靈活地蹬著剪刀腳。在她到達終點之前，她的肺已經到達上限，身子也轉了過去。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>54</ID>
+<DefaultText>你在黑暗的隧道裡翻來滾去，終於看到頭頂上亮起的一抹光暈，你奮力地蹬著腿朝那抹光暈游去。終於，你的腦袋浮了出來。你大口大口地呼吸著，新鮮的空氣把肺刺得生疼，你努力挪到池塘邊緣。你爬出了睡眠，環顧了一下周圍的洞穴，麻木冰冷的四肢漸漸恢復了知覺，繼而是一陣陣疼痛。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>55</ID>
+<DefaultText>[游向亮光。]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>56</ID>
+<DefaultText>Y你進入隧道以後，隧道牆壁向你擠來，你靈活地蹬著剪刀腳努力避開牆壁。在終點的時候，你感覺自己的肋骨凸出來一塊凸起。你不斷地蹬開牆壁，把自己推回到隧道中央。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>57</ID>
+<DefaultText>Y你進入隧道以後，隧道牆壁向你擠來，你靈活地蹬著剪刀腳努力避開牆壁。還沒到達終點，你感覺自己的肺已經達到極限，無法繼續工作了。</DefaultText>
+<FemaleText/>
+</Entry>
+</Entries>
+</StringTableFile>
+

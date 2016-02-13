@@ -1,0 +1,42 @@
+<StringTableFile>
+  <Name>quests\06_stronghold\06_tsk_boss_xaurip</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>懸 賞 ：伊 克 拉 克 酋 長 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>殺 死 伊 克 拉 克 酋 長 ，把 他 的 頭 帶 回 來 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>把 伊 克 拉 克 酋 長 的 頭 交 給 塞 德 努 亞 的 費 爾 根 典 獄 長 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>伊 克 拉 克 酋 長 是 一 個 在 韋 爾 伍 德 徘 徊 的 蛇 蜥 人 頭 目 。當 地 人 提 供 了 賞 金 ，希 望 他 從 該 地 區 永 遠 消 失 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>伊 克 拉 克 酋 長 在 韋 爾 伍 德 建 立 了 營 地 。如 果 我 可 以 殺 了 他 並 帶 回 他 的 頭 ，我 就 能 拿 到 賞 金 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我 已 經 殺 了 伊 克 拉 克 酋 長 。現 在 我 只 需 要 把 他 的 頭 帶 給 費 爾 根 典 獄 長 換 取 賞 金 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我 拿 到 了 伊 克 拉 克 酋 長 的 賞 金 。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

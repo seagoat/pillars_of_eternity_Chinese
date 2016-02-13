@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>2092</EntryCount>
@@ -11,7 +10,7 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Cönyngsdag</DefaultText>
+      <DefaultText>C&#246;nyngsdag</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,17 +30,17 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Fonivèrno</DefaultText>
+      <DefaultText>Foniv&#232;rno</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Tarivèrno</DefaultText>
+      <DefaultText>Tariv&#232;rno</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Préprima</DefaultText>
+      <DefaultText>Pr&#233;prima</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +60,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Préëstu</DefaultText>
+      <DefaultText>Pr&#233;&#235;stu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +80,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Préauton</DefaultText>
+      <DefaultText>Pr&#233;auton</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,12 +100,12 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Préïvèrno</DefaultText>
+      <DefaultText>Pr&#233;&#239;v&#232;rno</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Majivèrno</DefaultText>
+      <DefaultText>Majiv&#232;rno</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,7 +160,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Clîaban Rilag</DefaultText>
+      <DefaultText>Cl&#238;aban Rilag</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -341,7 +340,7 @@
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>μ</DefaultText>
+      <DefaultText>&#956;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2581,7 +2580,7 @@ Wounds - As monks are damaged, their pain generates Wounds. Wounds can be used t
     </Entry>
     <Entry>
       <ID>505</ID>
-      <DefaultText>A recent discovery in the Eastern Reach, ciphers were once called "brîshalgwin" ("mind hunters") by the Glanfathans. Ciphers have the ability to directly contact and manipulate another person's soul and psyche, using an ally's or enemy's essence as the focus for their magic. Though most ciphers are still found in the Eastern Reach, practitioners of the techniques have spread throughout the known world. They are gaining acceptance over time, but are generally distrusted, especially by the uneducated. 
+      <DefaultText>A recent discovery in the Eastern Reach, ciphers were once called "br&#238;shalgwin" ("mind hunters") by the Glanfathans. Ciphers have the ability to directly contact and manipulate another person's soul and psyche, using an ally's or enemy's essence as the focus for their magic. Though most ciphers are still found in the Eastern Reach, practitioners of the techniques have spread throughout the known world. They are gaining acceptance over time, but are generally distrusted, especially by the uneducated. 
 
 Starting Ability:
 
@@ -3136,7 +3135,7 @@ Invocations - Powerful magical effects that chanters can create after they have 
     </Entry>
     <Entry>
       <ID>615</ID>
-      <DefaultText>The Western Barbican bars the passage of invaders coming across the Isce Îen river.</DefaultText>
+      <DefaultText>The Western Barbican bars the passage of invaders coming across the Isce &#206;en river.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3726,7 +3725,7 @@ Invocations - Powerful magical effects that chanters can create after they have 
     </Entry>
     <Entry>
       <ID>738</ID>
-      <DefaultText>Frermàs mes Canc Suolias</DefaultText>
+      <DefaultText>Frerm&#224;s mes Canc Suolias</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3756,7 +3755,7 @@ Invocations - Powerful magical effects that chanters can create after they have 
     </Entry>
     <Entry>
       <ID>744</ID>
-      <DefaultText>Frermàs mes Canc Soulias Description</DefaultText>
+      <DefaultText>Frerm&#224;s mes Canc Soulias Description</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4961,12 +4960,12 @@ Invocations - Powerful magical effects that chanters can create after they have 
     </Entry>
     <Entry>
       <ID>985</ID>
-      <DefaultText>Cean Gŵlas and Spectres.</DefaultText>
+      <DefaultText>Cean G&#373;las and Spectres.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>986</ID>
-      <DefaultText>A host of Cean Gŵlas and Spectres has reached the outskirts of the keep, and will attack the stronghold soon!</DefaultText>
+      <DefaultText>A host of Cean G&#373;las and Spectres has reached the outskirts of the keep, and will attack the stronghold soon!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6986,12 +6985,12 @@ Invocations - Powerful magical effects that chanters can create after they have 
     </Entry>
     <Entry>
       <ID>1392</ID>
-      <DefaultText>Ethik Nôl Keepers and Chanters</DefaultText>
+      <DefaultText>Ethik N&#244;l Keepers and Chanters</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1393</ID>
-      <DefaultText>A group of Ethik Nôl Keepers and Chanters have been spotted approaching Caed Nua!</DefaultText>
+      <DefaultText>A group of Ethik N&#244;l Keepers and Chanters have been spotted approaching Caed Nua!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7700,7 +7699,7 @@ Despite these advantages, there are risks to the relationship. Rangers share a l
     </Entry>
     <Entry>
       <ID>1536</ID>
-      <DefaultText>{0}° Cone</DefaultText>
+      <DefaultText>{0}&#176; Cone</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

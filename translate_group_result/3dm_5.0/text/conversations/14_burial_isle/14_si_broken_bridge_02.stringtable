@@ -1,0 +1,34 @@
+<StringTableFile>
+  <Name>conversations\14_burial_isle\14_si_broken_bridge_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一段桥梁在古城遗址中升起。看起来足够稳定。但这巨大的裂缝未留下半点犯错的余地。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[跳到独立的桥段上。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[离开。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>你开始助跑然后向另一边跃起。当你在裂缝上飞跃时，你冒着危险低头看到下面遗弃的城市发出光芒。
+
+你落到了桥的破裂处然后滑到了目的地。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[SkillCheck 0]开始助跑然后向另一边跃起。然而，[SkillCheck 0]在落地那一瞬间哭喊了出来然后四肢扭曲地瘫倒在地。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

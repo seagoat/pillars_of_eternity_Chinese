@@ -1,0 +1,32 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\12_oldsong\12_cv_noonfrost_breach_altar</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>一个黑冰的基座从地板上升起。长长的、如同钻石般坚硬清澈的手指状冰晶，抓持着圣坛。
+
+圣坛的中央有个凿出的洞。虽然洞不过几英寸深，但周围的空气不停地被它吸入。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>[将里姆甘德的碎片插入洞中。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>[离开]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>碎片正好能放入洞中。
+
+当安放到位后，圣坛周围的寒意消散了。同样的，面前的入口似乎变得清晰，神秘的渗液也逐渐消失了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

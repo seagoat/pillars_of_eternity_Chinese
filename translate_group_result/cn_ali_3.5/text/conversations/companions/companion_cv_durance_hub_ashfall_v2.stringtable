@@ -1,0 +1,411 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\companions\companion_cv_durance_hub_ashfall_v2</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>75</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>杜兰斯咕哝着。“你比别的玛格岚信徒对此更好奇。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>杜兰斯挑起一边眉毛，哼了一声。“问了那么多，你应该明白你比我更怀念它。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>杜兰斯耸耸肩。“不是最美的地方...”他咧开嘴笑了，挠着脸上的一个痘疤。“话说回来，我们都不是玛格岚的信徒。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>杜兰斯咕哝着。“你比别的玛格岚信徒对此更好奇。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“你能告诉我有关黑树之战的事吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“那个大教堂是个什么样？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>“关于艾什法你还有要说的吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>“那个法杖似乎是你的神圣象征。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>“艾什法存储了大量的枪支、爆炸物，以及炼金术用的炉火，听起来很危险吧。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>“我想问些别的事。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>[离开]“我们继续吧。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>Trigger Conv Node 14</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>“该说什么呢？”杜兰斯皱紧了眉头，手又紧握住了法杖，指头似乎都要攥紧到木头里去。“它是玛格岚的最大圣火所在地之一，有着崇高的地位。”他耸耸肩。“有人说它黑...不是因为邪恶，而是由于灰烬，它的一切饱受战火洗礼。”
+
+他顿了一下。“我先前称它为大教堂，是不确切的。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>“它更像一个战场...位于黑树之战的心脏地区，建造它用的木材都来自那片焚烧过的森林，每一根木材都被战火烧过，就是那场玛格岚亲自参与的，最伟大的战斗。
+
+“我们都为战争付出了努力- 制造炸弹和火器。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>“哦，现在...”杜兰斯一只手挠着腮边的痘疤，另一只手仍然紧握着法杖。“几十年前的事了...烈焰席卷了整个森林，就象丰收的麦田，玛格岚制造的景色...”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>“她的手平放在那边，就象人背上留下的掌印。”杜兰斯腮边的手放了下来，两手紧握住了法杖。“森林此后再也没长出来，从她将这里变为圣地后就一直如此。
+
+“烧黑的树干仍然保留着，就象从地下伸向天空的黑手。”他低声地笑了。“事实比我说的可浪漫多了，通魂者。毕竟那是只女性的手。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>“这个地方如此巨大。美丽。有过女神的赐福，从此再也不会有战火了。”
+
+杜兰斯的双眼扫向他灰色的苍灰色的法杖，盯着上面的蚀刻。“地下呢？充满了隧道和房间，到处是风箱和火盆...信徒们正在努力寻找将圣火燃遍整个世界的方式。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>他的眼光从法杖转向了你。“枪支、炸药、炼金术...所有这些都是我们的神圣标志，是我们热切要分享的东西。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>这个...杜兰斯眨眨眼似乎有点惊讶。“某种程度上，这个...他耸耸肩。这不仅仅是战火之后的残余物那么简单。
+
+“如果艾什法是一个由这样的木棒支撑和围挡起来的教堂，那这一支，嗯- 就是支撑我走在磨炼之路上的拐杖，也许有一天我会建成另一座艾什法。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>他把它放在面前，打量着。“它的木材取自黑树之战。很结实...一路上很好用，是我的好伙计。“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>“法杖上刻的是什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>“传说，纪念物。需要思考的事，当吟诵圣诗疲劳时可以振奋精神的祷文。”他嘟囔着。“圣诗有时会失去力量，但这些标记是用手刻上的，被圣火祝福过...”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>杜兰斯用手指轻抚杖上的刻痕，被他触到的那个符号闪出微弱的光，就象火焰红色的余烬。当他把手拿开后，它依然发着光，他凝视着它，眼里里反射着光。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>“我发现符号比语言更能激发人的献身意识...当然我们本来就没那么多文本。”他嘟囔道，皱了皱鼻子。“文本使我想起了鹿丛人，一股贵族统治的气息。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>他挺直腰叹了口气，又把法杖抱在胸前。“黑树之战和这根法杖是我唯一需要的圣诗和祷文。而且法杖还是个标志，无论信徒还是无信仰者都能理解。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>亚洛斯打了个哈欠。“如果他真的不爱说话的话...”杜兰斯似乎没有注意到。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>“你能告诉我你法杖一些符号的意思吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>“生命是危险的。你将比大多数人博学。”杜兰斯嘟囔着。“火焰总是饥渴的，如果你缺乏尊重，它会象反抗湾柜台旁的妓女一样狠狠咬你一口。”
+
+杜兰斯闭了一会儿眼，似乎在回想什么。“有的地方年久废弃了，有的地方毁坏了，但艾什法不会。如果哪一天我能回去看看他就好了。”他耸耸肩。“我怀疑我会不会。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>“为什么呢？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>杜兰斯睁大眼睛怒目而视。“因为家只会带来失望，那就是为什么...永远不要安家，通魂者，这就是我的忠告- 流浪最好。家是一种诅咒- 呆在一个地方会害死你...”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>你注意到艾德正在留心听。他小声说着。
+
+“不知道是不是因为那个大教堂给他印象太深的缘故，就象蝙蝠盘旋在钟楼上空...”
+
+“确实很伤心，我怀念那个小队，它肯定在他走后不久就解散了。现在全是失望。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>“...当你走出门的时候呢？它就再也不是你心目中那个大教堂了。”杜兰斯嘟囔着，他的手握紧了法杖。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>“那就是你流浪的原因吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>“我还有别的关于艾什法的问题。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>“我希望你能理解，通魂者- 你似乎对家也不那么重视，你不怕孤独，可能比我更甚。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>“所以如果你问为什么，通魂者，为什么我不需要一座教堂来帮助我维持信仰，或者我没必要时时怀念它。“我不讨厌它，也不轻视它，我不是那种被抛弃的哭哭啼啼的傻子- 我流浪是为了我的信仰，并传播它。”他嘟囔着。“在通过杜兰斯磨炼之前我恐怕还有几十年的光阴要度过。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>“如果我就这么和你不正经地逗趣下去，我会永远通过不了...但谁更傻-  是问的那个，还是回答的那个呢？”他哼了一声。“我已经厌倦了听你卖弄文字，让我干点别的吧。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>杜兰斯小心翼翼地扫视着你，探询地看着你的眼睛。
+
+过了片刻，他摇摇头，皱起眉，激怒了。“我不想劝人皈依，也不想传教...我们可以边走边谈些简单的。此外，我们没有同道过，所以交流一下并不算浪费时间。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>“我想再听你谈谈这些，如果你愿意的话。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>“看上去它原来不是这样，烧坏了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>“上面刻的那些是什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>“哦，是的。”杜兰斯皱起了眉，不屑地撇撇嘴。“如果你别有所图的话，不会有好果子吃...”他皱了皱眉。“看看就行了，通魂者。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>“但那些符号，是什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>“提到奉献的热情，你就象只固执的母狗。”杜兰斯的脸气得发红。“有些事对我个人来说是神圣的。留着你的好奇心去问路上别的傻瓜吧，我不想听。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>杜兰斯恼怒地打量着你- 看起来要大骂你一番，不过还是忍住了，皱起了眉。他转动着法仗，扫视着它...在他这样做的时候，上面的符号闪出红色余烬般的光。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>杜兰斯扫视着它的法杖，然后又看看你，满面笑容。“很吸引你的眼睛吧？”他轻声笑了。“杜兰斯自己就很喜欢上面烧出的扭曲的节疤，从不觉得它难看。”</DefaultText>
+			<FemaleText>Durance glances at his staff, then at you, and gives a crooked smile. &quot;Can&apos;t take your eyes from it?&quot; He chuckles.</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>“你说过这法杖来自艾什法。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>“你的法杖上为什么刻有那些符号？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>“只有通魂者能看到这些符号是怎么回事？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>“这一大片印迹- 12个圆环。是什么意思？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>“我在你的法杖上没有看到玛格岚的标志。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>“是啊，最虔诚的玛格岚的信徒只会跪在那里。”他哼了一声。“它的大厅比沃迪卡烧焦的逼还狭窄，还令人不舒服。”
+
+他在手中转动着法杖。“但...说实话，木头来自发生过黑树之战的森林。它比别的拐杖可强多了。握着它能感觉到玛格岚的力量，比在艾什法里的感觉还强烈。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>“雕刻过？”杜兰斯嘲弄地一笑，声音低沉下来，带着一种骄傲的力量。“这根法杖就是历史。它经历过的事都留下了标记。一些标记湮没不见了，而其它的则更加夺目。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>“它们是灵魂的力量，一个人信仰的通道。”他皱了皱眉。“很难说。曾有段时间它们辉煌过，但现在...他们只是我工作中的助手。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>“你知道为什么会此消彼长吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>“记忆。意义。”他轻轻的哼着，自言自语。“这些比你脑袋中的记忆还要可靠。
+
+看似随意的行为，因本能而做出的事情……他们就像野火一样，一旦点燃就会烧着整片森林。你的行为是由你设计和计划并执行的……他们就像你的标志一样，诉说着你的故事。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>“就像所有的记忆那样，当你完善了一个想法后，你会发现它的闪光之处……一旦你忘记它……它就会被深深地埋在你的脑海中。但就像这圈在森林里的火堆一样……余烬的蚀刻标记总是留存。”他嘀嘀咕咕的说到。“让我坐下来。”他因为放松而露齿一笑。“当然这也是根不错的拐杖。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>“因为这根杖子上的标记可以探察出通魂者的身份……有时，他们自己也会表明身份。”他微微皱眉。“而有时候，他们也会对杖子视而不见。或许这是玛格岚的一件礼物，当没人发现时可以将其隐藏起来。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>杜兰斯皱着眉头缓缓地说出这番话。“那个标记。圣锤。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>“圣锤是什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>“桥上的12个圆环是十二人众的标示，而十二个我们让锤子落到了他们的头上、桥上、神的身上，所有的地方。
+
+“这或许是世界上唯一一个永不消逝的标记。我猜这或许是我保有的最后一根杖子了。伊欧萨斯陨落那天我就拿着它站在这桥上。”他微蹙眉头，目光凝视着杖子。“比起圣锤来说它就是个小火花。在伊欧萨斯被火焰吞噬前这或许是他能看到的最后一个光点。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>杜兰斯说到。“在……那里，但印记不同。
+
+“我跟随杜兰斯和他的教导，仅仅是一点火苗就足够了。”他的双眉更加紧蹙，他的手轻轻的敲打着杖子。“杜兰斯集中精力到一点火苗就可以进入冥想，并且为其带来意义。集中精力对付将要到来的事情。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>“什么事情将要到来？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>“这个火焰是给他人带来惩罚的印记……
+
+“……它被蚀刻在那些受惩罚的人的印记之上，表明玛格岚会一直盯着他们不放。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>131</ID>
+			<DefaultText>Trigger Conv Node 131</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>132</ID>
+			<DefaultText>Trigger Conv Node 309</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>133</ID>
+			<DefaultText>Trigger Conv Node 309</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>134</ID>
+			<DefaultText>Trigger Conv Node 309</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>135</ID>
+			<DefaultText>Trigger Conv Node 309</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>136</ID>
+			<DefaultText>Trigger Conv Node 309</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>137</ID>
+			<DefaultText>Trigger Conv Node 309</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>138</ID>
+			<DefaultText>Trigger Conv Node 309</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>139</ID>
+			<DefaultText>“我稍后看到了圣锤的标志在你的法杖上熄灭。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>140</ID>
+			<DefaultText>Trigger Conv Node 140</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>143</ID>
+			<DefaultText>“你还能看到它们。”他的话锋一遍，一改之前的颓废变得好奇而富有挑战的意味。“并不是所有人都能看到。”他眉毛一扬说到。“但依然有些通魂者具有这种……天赋。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

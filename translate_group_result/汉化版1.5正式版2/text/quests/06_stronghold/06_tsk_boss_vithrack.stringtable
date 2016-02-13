@@ -1,0 +1,43 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\06_stronghold\06_tsk_boss_vithrack</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>悬 赏 ：赛 尔 凯 尔 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>杀 死 赛 尔 凯 尔 ，取 走 他 的 头 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>把 赛 尔 凯 尔 的 头 交 给 塞 德 努 亚 的 费 尔 根 典 狱 长 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>一 个 蛛 人 主 教 出 现 在 珍 珠 林 峭 壁 ，有 一 份 赏 金 提 供 给 能 杀 掉 他 的 人 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>赛 尔 凯 尔 是 一 个 强 大 的 蛛 人 主 教 ，他 和 他 的 亲 戚 出 现 在 珍 珠 林 峭 壁 。他 们 的 存 在 让 当 地 人 感 到 紧 张 ，他 们 提 供 赏 金 希 望 我 能 终 结 他 。我 要 带 回 他 的 头 来 换 取 奖 励 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>把 赛 尔 凯 尔 的 头 交 给 旅 馆 的 费 尔 根 典 狱 长 并 换 取 赏 金 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 拿 到 了 赛 尔 凯 尔 的 赏 金 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

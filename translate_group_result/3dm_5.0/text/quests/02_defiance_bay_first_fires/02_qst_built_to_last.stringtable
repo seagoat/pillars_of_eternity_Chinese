@@ -1,0 +1,87 @@
+<StringTableFile>
+  <Name>quests\02_defiance_bay_first_fires\02_qst_built_to_last</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>直到永远</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>前往铜巷区的抄写员居所。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>找到维安娜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>在盎卓之礼寻找维安娜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>从十二团众那里拿回维安娜的研究成果。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>把维安娜的研究成果给邓斯坦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>试炼骑士团的指挥官克莱维想了一个办法来就解决缺乏训练有素的士兵的问题。他要铸造大师邓斯坦为他制造熔铸骑士——以护甲铸成的士兵。邓斯坦已经把护甲锻造好了，现在他只要能得到维安娜的研究成果，他就可以制造出熔铸骑士了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>克莱文要我去找维安娜，她是一个研究通灵术的学者。邓斯坦需要她的一个研究成果来完成熔铸骑士的制造。克莱维说她和其他抄写员一起住在宿舍里，但是他的人找不到她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我找到了抄写员居所，根据克莱维所说，维安娜和她的研究成果应该都在这里。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我得知维安娜到盎卓之礼和一个叫柯莱茜娅的人见面去了。她们约定在那片区域北面的一栋空房子中见面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>维安娜被十二团众的成员骗了，现在他们正在审问她有关她为试炼骑士团进行的研究，他们一定也把她的笔记拿走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>我找到了维安娜的笔记，可以拿回起始之火的试炼城堡交给邓斯坦了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我问了下邓斯坦关于熔铸骑士的进度问题，他似乎对此有所隐瞒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>我听说有些抄写员在讨论维安娜失踪的事情，她的房间好像是右手边最后一个。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我把维安娜的研究成果交给了邓斯坦，现在他可以完成熔铸骑士了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>邓斯坦已经死了，死人是不能为试炼骑士团制造熔铸骑士的。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

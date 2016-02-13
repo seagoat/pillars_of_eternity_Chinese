@@ -1,0 +1,62 @@
+<StringTableFile>
+  <Name>quests\critical_path\act_1\cp_qst_clearing_stronghold</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>清 理 道 路 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>修 理 東 方 甕 城 ，前 往 林 端 平 原 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>與 管 事 交 談 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>前 往 反 抗 灣 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>馬 爾 瓦 德 去 世 後 ，留 給 我 一 個 年 久 失 修 的 據 點  - 塞 德 努 亞 。可 是 ，如 果 我 想 繼 續 冒 險 ，就 必 須 先 修 整 它 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>塞 德 努 亞 現 在 屬 於 我 ，但 路 被 碎 石 土 堵 住 了 。如 果 我 想 繼 續 前 往 林 端 平 原 ，那 是 這 裡 與 反 抗  灣 的 交 叉 路 口 ，就 必 須 修 好 東 方 甕 城 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>老 通 魂 者 已 經 離 世 ，荒 廢 的 主 樓  - 即 塞 德 努 亞 ，也 在 棄 置 中 。或 許 我 應 該 跟 管 事 談 談 怎 樣 才 能 找 到 去 反 抗 灣 的 路 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>已 經 清 理 了 去 反 抗 灣 的 路 。我 應 該 盡 快 趕 往 城 裡 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我 已 經 修 好 了 塞 德 努 亞 通 往 外 面 的 路 。長 路 漫 漫 ，不 過 我 還 是 抵 達 了 反 抗 灣 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我 打 算 集 中 財 力 ，修 好 通 往 反 抗 灣 的 路 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

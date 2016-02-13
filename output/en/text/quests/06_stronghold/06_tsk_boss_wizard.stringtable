@@ -1,0 +1,42 @@
+<StringTableFile>
+  <Name>quests\06_stronghold\06_tsk_boss_wizard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>懸 賞 ：High Arcanist 雅 斯 莉 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>殺 了 雅 斯 莉 ，把 她 的 頭 帶 回 來 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>把 雅 斯 莉 的 頭 交 給 塞 德 努 亞 的 費 爾 根 典 獄 長 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>有 一 份 賞 金 是 關 於 法 師 雅 斯 莉 。她 和 她 的 盟 友 在 傳 承 山 高 塔 避 難 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>High Arcanist 雅 斯 莉 顯 然 激 怒 了 錯 誤 的 人 ，因 為 她 頭 上 有 一 份 高 額 賞 金 。如 果 我 殺 了 她 並 把 她 的 頭 作 為 證 明 ，我 就 可 以 拿 到 賞 金 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>雅 斯 莉 已 經 死 了 。我 只 需 要 把 她 的 頭 帶 給 費 爾 根 典 獄 長 換 取 賞 金 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我 拿 到 了 雅 斯 莉 的 賞 金 。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

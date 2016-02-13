@@ -1,0 +1,33 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Name>conversations\14_burial_isle\14_si_broken_bridge</Name>
+<NextEntryID>1</NextEntryID>
+<EntryCount>5</EntryCount>
+<Entries>
+<Entry>
+<ID>1</ID>
+<DefaultText>T橋樑的邊緣與下方發光的城市對比，顯得更加黑暗。一股氣流從深處升起，使你肌膚發涼。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>2</ID>
+<DefaultText>[跳到另一邊。]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>3</ID>
+<DefaultText>[離開]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>4</ID>
+<DefaultText>Y你跳過缺口，安全地在另一頭著陸。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>5</ID>
+<DefaultText>[SkillCheck 0]誤算距離，在近處掉下。[SkillCheck 0]設法抓住了橋樑凸出的邊緣，雙腿懸蕩在空中。一段痛苦的掙扎後，[SkillCheck 0]爬到了安全處。</DefaultText>
+<FemaleText/>
+</Entry>
+</Entries>
+</StringTableFile>
+

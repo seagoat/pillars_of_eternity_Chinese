@@ -1,0 +1,564 @@
+<StringTableFile>
+  <Name>conversations\companions\companion_cv_gm_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>107</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>那乡下妇人还在等。她的手垂着，脸上毫无表情，但你感觉到她脑中涌出的思绪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>这中年乡下妇人穿着棕色皮革衣服，长及膝盖。她忙着分开眼前一堆长长的无色的蔬菜，用刨刀削去长杆上的头。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>她一个一个地扔掉长杆，把蔬菜头放入面前的小篮子。你上前时她没有打招呼。你甚至不确定她是否知道你的到来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“打扰了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>“我想问你些问题。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>“再会了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>妇人没有回答，她继续有节奏地剥着蔬菜头。她也许耳聋——没有迹象表明她听到你说话。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>【观察这女人。】</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>第一印象上，她看来不过是个中年妇人，很平凡，也许没有大多数人那么严肃，她看来更专注于膝上编织而不是周遭的事物……你突然发现不是在剥蔬菜头，而是在编织……装蔬菜的容器也不见了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>她还是不管你，身上棕色的衣服破破烂烂，明显不常清洗，就像你见过的很多居民那样。她有一种奇怪的朦胧感……甚至她双手的动作，似乎摆弄着的线……没有颜色……形状毫无兴味。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>也许她智商不全……或是耳聋……但感觉不对劲。你看着她，她以一种奇怪的节奏编织着，你有一个可怕的猜想，你眼睛看到的或许并不真实。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>【注意女人。】</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>她棕色的头发很长，令人难以置信地几乎长到手部……你顺着她的衣服往下看，头发变得又长又黑，分成黑色和银色的丝线，包裹着她的手……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>……她在你面前编织一个灵魂的摇篮，一张网，每个手指尖儿长就像一组织针……几乎是催眠性的。她的黑色和银色的头发织在一起，以银色为主，黑色被背景……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>……忽然之间，你冷静了下来。你在一个高台上，几乎像塔那么高，好几层楼那么高……高台如躺在明净天空下，台下围绕着雾蒙蒙的树林……虽然不知到底是雾……还是距离，还是回忆。
+
+你头上一个天然拱形里是一只巨大的铜钟，半个人那么大，挂在那儿吸引你的注意，似乎它朝下看着你，甚至在你面前展开。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>高台被阳光笼罩，你身下的岩石粗糙而温暖。天空在你周围形成一个摇篮……你感到有些不同，并非灵魂出窍，而是感到你的身体和轮廓随着周遭在变化……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>……你听到一阵温柔的钟声，就像风。随着那声音，周遭景物有了颜色和纹理，那声音似乎在温柔地呼唤你，充盈着你的感官和思维，如薄雾轻柔地涌入一间密闭的房间。然后……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>【细听曲调。】</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>【撕开，往回拉。】</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>……那曲调诱使你深入回忆……你确定那是温暖的回忆。你站在一个石头高台上，双膝跪在温暖的地面上……银色……白色……如阿德拉般闪光？整个高台都由它组成，在阳光下闪耀……你感觉到皮肤、手腕和手上的热度，你的手在挥动……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>……编织，没有线，但收集着，温柔地随着贝拉瑟之轮的首次移动而移动着——你的手很湿……你的手触到一个新生儿的皮肤，你感到一个小小的头出来了，在你手中扭动，它的头滑溜溜，带着母体的湿润。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>这双附体的手显然经历过多次，它们熟练而自信。当那头出来时，你能感到自己脑子里恍惚的疼痛，母体里的一股液体帮助新生儿滑了出来……以及是一个女人的憋气、呼号……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>【注意孩子和你手的动作。】</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>……你的手移动时，你听到钟声，清晰地穿过记忆的迷雾……你看不清是从何而来，但很近，它们是为安慰而来，这一点你很清楚。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>【把孩子往前拉。】</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>……被双手引导，每个动作都让钟声再次响起。孩子几乎是迫不及待地出来了，一出来，你的双手就开始行动，编织、编织……随着一条柔软湿润的绳子而移动……不，你面前是一个裸体的女人，两腿间挂着脐带……你身前抱着一个小小的孩子，依然带着母体的湿润……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>孩子哭了出来，它的哭声充满生命……充满灵魂，钟声回荡于它的思绪，欢迎着它。你仿佛在看着一个灵魂……从一个灵魂内看着它，它的边缘很模糊，但它就在那，它活着。你面前的女人哭泣着，一哭出声就向孩子伸出手……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>【交出孩子。】</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>……你把孩子交给她，和以前很多次一样……你的手动起来，钟声响应着动作，你发现钟声来自挂在你手腕上的脐带……它们曾经回响与记忆中，如今也回响在孩子的脑海中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>钟声是为欢迎孩子而鸣，作为第一个欢迎它来到世上的温柔迎接，由你的手腕温柔地移动而引导的舒缓的声音。你在帮它编织它的心灵、它的感知，和经历……经历……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>女人疲惫地欢笑，从干燥的喉咙里发出……她的情绪似乎舒缓了，但生产消耗的体力让她精疲力竭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>但孩子出生了……孩子很安全……高台上的一切都很安详、平静、遥远，随记忆的持续而变得平整。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>【慢慢从记忆中退出。】</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>经过努力，景象生出色彩，你又恢复了清醒。哀恸之母安静地站在你面前。
+
+她似乎不知道你看到了什么……或是根本不知道你进入了她的记忆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>场景开始发出血色，你的神智又恢复了，耳边仍有铃声的回荡……就好像是记忆中所存在的残存一般……正从你面前女人手上戴的手环传来。
+
+即便你现在正因她的碰触而天旋地转之时，你仍然能够清楚地听到其手环上传来的声音，似乎想要把你拉回真实的世界。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>“我又进入了你的梦境、心灵……还有，我相信是你的记忆。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>“我有话问你。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>妇人一动不动地坐在你面前，但完全不是一开始的模样。她穿着黑色碎片的服饰，像条幅一样挂在身上。她的头发是黑色条纹，穿插着银色。她的年龄几乎无法判断……她只是看起来很老，想一个崩溃的了望塔……
+
+当她抬起手来面对着你，你看到她的头发像面纱一样挂在脸上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>初次见到她，你潜意识感到某种心灵的魅力，你意识到所见之事并非世界原貌，而你或许是见到她真身的第一人。
+
+然而你并没有感觉到威胁……只从她的身影中感觉到如释负重。你可以听到她的想法，她也很高兴有人看到她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>“你对我干了什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>“你是谁？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>“那……那是什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>“走开，管你是什么。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>“你看到我了，但其他的人都不记得。你第一个看到真实的我，被撕裂的胎膜。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>你脑中感到轻轻的抚摸，一种爱抚，她左手做着抚摸的动作，伸向你们之间的空气。你听到她手腕上的钟声，轻柔的，她的手如演哑剧般，远远地抚摸你的面颊，她轻柔缓慢地开口。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>“你的记忆……马车的节奏……河流的问题。”她呜咽着，铃声不断，“午夜篝火的暴行，黑夜中的箭矢……还有……乱石……还有……风暴。”
+
+她停了下来，手停在空中，“风暴。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>“那场吹过你的风暴……它的呼号有没有将你从精神的摇篮中惊醒？”这问题似乎是在问你们两人。
+
+“你的记忆是痛苦的。它的呼喊是……很难忽视的。就像一个孩子……很多孩子，哭喊着。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>“我遇到了灵魂之风，是的……受了些影响。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>“我们去镀金溪谷的路上，在树林里遭到袭击。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>“没有我的许可，小心你在我脑子里看到的东西。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>“我们共有的那段记忆里，我们之间发生了什么事？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>她腼腆地收回手，钟声再次温柔地响起。妇人迟疑地站了起来，似乎她已经坐了太久——或是太虚弱无法承受自己身体的重量。
+
+你看到她的脸颊紧绷，面色憔悴……虽然姿势虚弱，她似乎决心要在你面前站起来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>“见到我是难得的恩赐。一个守望者的恩赐。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>“我从来没能在活着的人身上做到过……除了你。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>“感觉像是我们思想之间的通路……但……奇怪，温柔。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>“我是怎么进入你的梦境的？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>“我在帮一个女人生孩子？我是在……你的脑子里，还有她的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>“你说你在我脑子里听到风暴。你知道什么是灵魂风暴吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>“这么多问题、想法……像暴风般旋转……
+
+“那风暴依然在你思想深处盘旋，但静悄悄的像地下的河流。我无法判断它是否在刻画出新的沟壑……还是在侵蚀掩埋你真正力量的东西。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>“你能够听到它……不被它摧毁，这是很少有人能做到的。
+
+“你每接触一个灵魂，你的力量都会更强大。因为它能让你连接我的灵魂。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>沉默，虽然似乎只是一瞬间，在你脑中它延伸到你们中间，就像你们心灵之间的引力。你眨了眨眼，吸了口气，然后意识到她想问你一个问题，但不知从何说起，好像找到词语是件痛苦的事……或者只是没有足够的词语。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>【理顺思绪。】“你愿意与我一同旅行吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>“你应该同我一起走。你不能留在这里。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>“我必须要走了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>你感到一阵恐慌迸发而出……不过奇怪的是，她脸上的表情并没有变化。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>恐慌消散了，你感到力量和信心，似乎她记忆中的高台就在你脚下，平静的天空俯视着你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>你转向哀恸之母，看到她已经在你身边。她脑中升起一个疑问，就像深渊中升起的气泡，但眼睛依然低垂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>哀恸之母的思绪像湖面一样平静安稳。没有一丝涟漪或激流打扰她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>“你脑子里有疑问，守望者。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>触发 Conv Node 104</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>触发 Conv Node 105</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>“这是什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>“随便问吧——我会尽量减轻你的负担。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>“如你所愿。问或是不问。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>“你不告诉我你的烦恼，我没法帮你。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>“记忆……关于诞生种、空心种、母亲们……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>“即使知道我的行为是正义的、必须的……他们的记忆还是困扰着我。不管我们到了哪里，或是我闭上眼睛，我都能看见那些我无法拯救的生命……梦里那些空洞的孩童和瞎掉的眼睛，依然活灵活现。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>“如今我活在恐怖里，因那些我无法拯救的生命……和那些我无知地困住的生命。我的生活就是活着的梦……好像我曾错待的灵魂脱离了轮回来纠缠我。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>“求你，守望者……我曾试过去忘记，可是那回音依然折磨我的灵魂。但如果你能清除我的灵魂记忆，至少我可以不再受困扰。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>“你会受到什么影响？你还会是原来的你吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>“你没有理由这么痛苦地活着。很好。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>“不。这记忆同是赎罪和教训。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>“我还是原来的我，只是不受记忆困扰。我的忠诚、我的技能——依然献给我们的事业……来帮助你。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>“可是，这些记忆……这痛苦……愤怒……伤心……我怎能带着这些进行前行？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>“你会记住他们，这样才能理解如此极端行为的代价。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>“你记忆中的痛苦对那些你想忘掉的人来说，更加强烈。不要侮辱他们。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>“如果你不记得你犯的错误，你可能会重复犯同样的错。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>“现在它已是你的一部分。改变记忆会改变你。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>她慢慢地点点头。“这是个难以面对的事实……但依然是事实。感谢你的帮助，守望者……即使难以承受。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>她闭上眼睛。“谢谢你，守望者……”
+
+当你进入她的灵魂，你发现关于在诞生钟的空心种的记忆就像她元气里凹凸不平的纹理。探查记忆的锋利边缘，连你都能感觉到她的痛苦，但你仍然强迫自己抓住它。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>即使内心同时遭受着煎熬，你依然磨平了这些尖锐突触。对她而言，在体内承受这样的伤害一定如同胃中满是玻璃渣那样痛苦。终于，Grieving Mother的灵魂就像起伏的草甸一样光滑平坦。你移除了所有惨痛回忆的痕迹，痛苦也随之离你而去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>她睁开了眼睛。她的目光宛如新生，天真纯净，无忧无虑。“Watcher，继续吗？我们还有很多事要做。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>“你能看到我……”这几乎就是一个问句。你突然意识到，她似乎并不知道你在注视她时看到了什么。高原上的景象……那景象是如此清晰，轮廓分明，你惊讶于她并未察觉到你的存在。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>“Watcher，我想与你一起漫步，我想注视你的双眸，聆听你的脚步声回响在我脑海里面。也许，我们能明白彻底破碎的是什么。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>“Watcher，有些事我想问你……这是我想要放下的负担。然而询问这个问题又是另一种负担。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>她像受到攻击一样浑身僵硬。最后，她的肩膀了垮下去，而她回头看着你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Grieving Mother闭上眼睛，简单而又深沉地点了点头：“Thaos死了，但他的罪行……他带来的创伤依然还在。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>她十指交叉，手腕上的风铃随之发出叮响，“你只有先让一切复原，才能治愈Thaos带来的创伤。只有先修复亲属关系——重系父母与孩子间的纽带，重建破碎的代际联系——才能让Dyrwood再次团结在一起。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>她十指交叉，手腕上的风铃随之发出叮响，“并且如果我们想摆脱他的遗留物，你必须先释放被他所困的灵魂。他的成果无法半途而废...把这些灵魂与破碎的生命体链接起来只会延长它的存在。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>“你是对的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>“我不确定我是否同意。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>潮水般的温暖和欣慰之情从她的心中涌出，“人们会一直记得Thaos遗留的伤痕，也让他们铭记抚平伤痕的过程吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>“你已经看到了，强迫整个世界向不合适的方向发展会造成什么后果。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>她的心变得冰冷而遥远，“Watcher，我无法阻止你，也无法完成必须做的事。但我请求你，把这个稀有的机会用于善行和复原。”她低下头鞠躬，“我说完了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>“做这个决定并不简单，守望者，但是强迫这个世界带来了许多副作用，我们必须用仁慈来消灭这些副作用……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>“再会了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>这个女人的视线很快地从你身上穿过，就好像她不知道你在那儿一样。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

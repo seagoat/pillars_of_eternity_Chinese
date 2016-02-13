@@ -1,0 +1,33 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\companions\poi\poi_bs_library</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>5</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>Bank Node 1</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>「我 敢 打 賭 這 裡 有 不 少 禁 書 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>「我 可 以 在 這 裡 消 磨 時 間 。當 然 ，只 要 我 們 有 時 間 …是 吧 ？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>「書 中 自 有 黃 金 屋 ，但 你 不 能 只 是 大 聲 地 向 它 們 問 問 題 。你 必 須 通 覽 全 書 尋 找 自 己 所 需 的 知 識 。我 喜 歡 把 圖 書 館 當 成 瓦 爾 的 神 殿 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>「這 些 書 最 大 的 用 處 就 是 點 火 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

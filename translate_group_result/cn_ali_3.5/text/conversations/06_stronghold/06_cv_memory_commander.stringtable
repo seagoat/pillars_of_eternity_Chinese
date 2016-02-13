@@ -1,0 +1,63 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_cv_memory_commander</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>9</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>一个幽灵穿着装甲，但士官的斗篷研究是一张纸。你可以直接在他的胸甲上看出公爵和鹿丛人的徽章。
+
+他抬起头看你之前似乎看了好几遍纸页。当他抬起头时，表情难以理解。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“告诉说说命令的事。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>[倾听]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>[离开]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“指令都是艾德迈斯·哈德雷特自己下的，这意味着可能都出自公爵。”他将命令纸页卷成薄薄的卷轴。
+
+“我们受令烧死那些木屋居住者。在迪伍德放把火，这样他们便无处可退。当他们出来时逐个杀，或者他们不出来自生自灭。”你在嘴唇前吐出幽灵般的叹息，形成了一团雾气。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“计划有所变化。带上你的小队南下，一路向河里的弓进发。
+
+“带支马车队和十几桶酒。”他的声音支吾起来，然后摇摇头。拿着纸的手放了下来。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>他披着铠甲的拳头捏紧了卷成一团的纸。“这甚至会比碎石之战更短。”他看着你。“我们只能希望这会阻止未来的冲突。”
+
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>他的手落到你肩膀时，你毫无感觉。“我知道这是针对你。针对我们当中很多人。但你要明白- 我们这样做是为了结束这场战争，不是继续上一场。
+
+“记住，我们是要引出敌人，不是为了好玩烧掉村庄。贝拉斯今晚会为他安排好工作的。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>“新命令，中尉。准备好你的小队。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

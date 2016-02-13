@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\00_dyrwood\00_cv_eder_looters</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>23</EntryCount>
@@ -21,7 +20,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Look at his talisman, Paeg." He indicates Edér.
+      <DefaultText>"Look at his talisman, Paeg." He indicates Ed&#233;r.
 
 "Eothasian."</DefaultText>
       <FemaleText />
@@ -42,7 +41,7 @@ He grips his sabre.
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Edér fumes. He opens his mouth to say something, then closes it. He quickly replaces his frown with a polite smile.
+      <DefaultText>Ed&#233;r fumes. He opens his mouth to say something, then closes it. He quickly replaces his frown with a polite smile.
 
 "Actually they never found the body."</DefaultText>
       <FemaleText />

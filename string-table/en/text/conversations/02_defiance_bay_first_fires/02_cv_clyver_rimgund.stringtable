@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\02_defiance_bay_first_fires\02_cv_clyver_rimgund</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>101</EntryCount>
@@ -33,7 +32,7 @@ He opens his mouth to say something to one of his men, but he follows the soldie
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Commander Aranroed is scheduled to arrive at Anslög's Compass presently. The sooner she can return to Fleetbreaker Castle with that research, the better."</DefaultText>
+      <DefaultText>"Commander Aranroed is scheduled to arrive at Ansl&#246;g's Compass presently. The sooner she can return to Fleetbreaker Castle with that research, the better."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -95,14 +94,14 @@ He opens his mouth to say something to one of his men, but he follows the soldie
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"I've made a copy of Vianna's research, and the High Justice has sent a courier to Anslög's Compass to retrieve it. The Dozens have gotten too active for the courier to come to Defiance Bay. And after Vianna's kidnapping, we've got to assume they know about our plans."
+      <DefaultText>"I've made a copy of Vianna's research, and the High Justice has sent a courier to Ansl&#246;g's Compass to retrieve it. The Dozens have gotten too active for the courier to come to Defiance Bay. And after Vianna's kidnapping, we've got to assume they know about our plans."
 
 He points the finger of one polished gauntlet at you. "That's why I'm sending you to deliver the research. You shouldn't be recognizable to the Dozens. Yet."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Anslög's Compass is a small lagoon just north of Defiance Bay. Your contact will be a commander named Aranroed - she'll meet you by the docks.
+      <DefaultText>"Ansl&#246;g's Compass is a small lagoon just north of Defiance Bay. Your contact will be a commander named Aranroed - she'll meet you by the docks.
 
 "Return to me when you've finished. The High Justice has made the expansion of the forge knights his top priority, which means it's mine as well."</DefaultText>
       <FemaleText />

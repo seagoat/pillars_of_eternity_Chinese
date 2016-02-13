@@ -1,0 +1,66 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\07_gilded_vale\07_tsk_ferry_flotsam</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>11</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>渡 船 的 残 骸 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>找 到 残 骸 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>回 到 佩 瑞 刚 德 那 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>我 遇 到 了 一 位 名 叫 佩 瑞 刚 德 的 商 人 ，她 住 在 离 破 败 的 马 德 米 尔 桥 不 远 的 地 方 。她 曾 有 只 渡 船 用 来 摆 渡 ，但 后 来 风 暴 把 船 打 成 了 碎 片 。
+
+佩 瑞 刚 德 希 望 我 能 帮 助 她 把 货 物 从 渡 船 的 残 骸 里 找 回 来 。一 些 盗 匪 正 试 图 把 货 物 捞 出 来 据 为 己 有 ，而 手 无 寸 铁 的 佩 瑞 刚 德 凭 自 己 是 没 指 望 夺 回 货 物 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>我 应 该 立 即 到 马 德 米 尔 的 下 游 去 寻 找 失 事 货 物 的 踪 迹 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我 应 该 返 回 佩 瑞 刚 德 那 里 告 诉 她 货 物 的 下 落 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>想 夺 得 佩 瑞 刚 德 货 物 的 所 谓 “盗 匪 ”原 来 只 是 些 不 名 一 文 的 风 暴 中 的 幸 存 者 。我 告 诉 他 们 说 我 会 撒 谎 没 找 到 任 何 东 西 ，这 样 汉 温 就 可 以 留 下 货 物 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20005</ID>
+			<DefaultText>盗 匪 们 被 消 灭 了 ，货 物 ，至 少 可 以 说 剩 下 的 货 物 ，被 追 回 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 归 还 了 佩 瑞 刚 德 的 物 品 ，她 奖 励 我 了 一 些 钱 币 ，还 保 证 说 以 后 我 可 以 在 她 位 于 反 抗 湾 的 商 店 里 做 交 易 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>为 了 保 护 汉 温 和 她 的 朋 友 们 ，我 对 佩 瑞 刚 德 撒 谎 了 ，说 她 的 货 物 都 被 冲 走 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>佩 瑞 刚 德 死 了 ，完 全 不 用 再 考 虑 归 还 她 货 物 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
+

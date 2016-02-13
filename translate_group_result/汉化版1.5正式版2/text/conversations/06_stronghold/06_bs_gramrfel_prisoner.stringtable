@@ -1,0 +1,38 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_bs_gramrfel_prisoner</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>6</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“嗯 。地 方 不 错 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“你 如 此 善 良 ，不 过 我 估 计 我 说 服 不 了 你 来 放 我 走 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“如 果 这 里 的 战 俘 少 了 ，你 会 觉 得 很 孤 单 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“你 ...对 折 磨 有 着 巨 大 的 兴 趣 。我 懂 得 那 种 折 磨 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“你 就 留 我 在 这 腐 烂 ？放 了 我 吧 ！会 有 你 的 好 处 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“大 人 ，现 在 有 点 不 合 时 宜 。”</DefaultText>
+			<FemaleText>“夫 人 ，现 在 有 点 不 合 时 宜 。” </FemaleText>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

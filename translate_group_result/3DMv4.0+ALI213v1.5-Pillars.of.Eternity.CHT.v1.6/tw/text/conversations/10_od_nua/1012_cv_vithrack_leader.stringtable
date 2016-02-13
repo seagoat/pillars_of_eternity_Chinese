@@ -1,0 +1,447 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\10_od_nua\1012_cv_vithrack_leader</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>88</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>你 覺 得 腦 子 裡 有 一 種 瘙 癢 感 ，緊 接 著 是 一 陣 突 如 其 來 尖 厲 的 叫 聲 。你 的 腦 海 中 閃 過 幾 個 片 段 ：你 看 到 大 量 巢 穴 沿 著 洞 穴 壁 往 進 延 伸 ，慢 慢 延 伸 入 黑 暗 。密 密 麻 麻 的 一 張 巨 網 ，無 限 延 伸 到 地 下 。你 也 看 到 了 ，你 剛 剛 殺 掉 的 那 幾 個 哨 兵 就 躺 在 洞 穴 地 上 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>「跟 我 說 說 蛛 人 的 細 節 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>「是 想 知 道 關 於 肉 和 骨 頭 的 事 情 麼 ？還 是 關 於 這 座 城 市 ，關 於 閃 閃 發 亮 的 銀 子 ？蛛 人 是 這 裡 的 居 民 。會 織 出 很 多 很 棒 的 東 西 。」蛛 人 發 出 奇 怪 的 嘶 嘶 聲 。「蛛 人 找 不 到 家 了 。沒 有 巢 穴 ，蛛 人 什 麼 都 不 是 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>這 群 生 物 發 出 高 昂 尖 厲 的 警 報 聲 ，發 出 不 詳 的 嘶 叫 聲 。你 身 邊 所 有 生 物 ，都 開 始 前 行 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>蛛 人 歪 著 頭 問 候 了 一 聲 。「[Player Race]生 物 回 歸 。在 下 游 活 動 一 定 要 小 心 謹 慎 一 些 。那 邊 有 好 多 雙 眼 睛 看 著 呢 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>「Tcharek 向 您 致 意 ，[Player Race]。它 已 經 下 去 了 嗎 ？它 有 我 們 要 找 的 東 西 嗎 ？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>「[Player Race]回 歸 。」蛛 人 引 起 了 你 的 好 奇 心 。「它 想 要 什 麼 ？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>「歡 迎 ， [Player Race]。這 裡 永 遠 歡 迎 你 。需 要 的 話 休 息 休 息 吧 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>[把 東 西 給 了 Tcharek。]「我 有 全 部 的 綠 螢 樣 本 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>[離 開 ]「我 很 快 就 會 回 來 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>「你 現 在 要 做 什 麼 ？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>[離 開 ]「再 會 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>「我 們 得 看 看 這 個 遷 居 地 能 給 我 們 帶 來 些 什 麼 朋 友 。我 們 很 快 就 會 找 到 答 案 的 。把 他 們 帶 回 家 吧 。把 那 個 小 的 也 帶 上 。他 們 …會 成 長 起 來 的 ，等 我 們 到 達 Sstravek&apos;narith。」蛛 人 發 出 低 沉 的 嘶 嘶 聲 。你 感 覺 他 們 在 笑 。「Tcharek終 會 老 去 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>[離 開 ]「再 會 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>「Tcharek也 給 過 這 個 。是 在 隧 道 裡 找 到 的 ，並 不 適 合 蛛 人 。保 護 [Player Race] 的 安 全 ，好 麼 ？會 帶 來 好 運 的 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>「你 在 這 做 什 麼 ？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>「這 個 地 方 的 主 人 …」蛛 人 指 了 指 你 周 圍 的 牆 。「老 綠 螢 。不 要 切 開 不 要 打 破 。慢 慢 生 長 。成 型 。如 果 蛛 人 找 到 秘 訣 …」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>「做 好 這 份 工 作 。雕 像 。機 器 。蛛 人 既 可 以 織 絲 綢 也 可 以 織 綠 螢 。我 們 的 巢 穴 會 變 得 愈 發 堅 固 。遷 居 地 也 會 慢 慢 強 大 。我 們 所 有 人 都 能 織 出 漂 亮 的 東 西 。」你 感 覺 蛛 人 身 上 有 種 淡 淡 的 憂 郁 。「我 們 離 得 不 遠 了 。找 到 機 器 ，寶 石 。還 要 在 下 面 找 到 綠 螢 人 。下 面 多 的 是 。太 多 了 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+      <DefaultText>「你 到 底 在 找 什 麼 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「我 要 想 想 。同 時 我 還 有 另 一 個 問 題 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「用 來 研 究 的 東 西 。阿 德 拉 的 東 西 。全 都 在 下 面 的 廢 墟 裡 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「要 看 看 奧 努 怎 麼 制 造 阿 德 拉 人 。阿 德 拉 ……殼 ，對 嗎 ？動 物 不 用 殺 了 阿 德 拉 人 。只 要 殼 。也 需 要 機 器 零 件 。像 機 器 心 髒 的 零 件 。阿 德 拉 和 發 光 的 金 屬 。」蜘 蛛 人 想 了 想 。「最 後 一 件 是 阿 德 拉 。不 是 牆 上 的 阿 德 拉 。不 一 樣 的 ，純 的 ，很 難 找 。契 拉 克 希 望 下 面 有 有 一 些 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「如 果 [Player Race]-動 物 帶 來 這 些 東 西 ，蜘 蛛 人 欠 動 物 很 大 的 人 情 。能 幫 助 群 族 ，幫 助 我 們 。等 了 這 麼 久 ，終 於 能 回 家 。為 這 件 偉 大 的 事 ，蜘 蛛 人 會 獎 勵 動 物 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「我 去 看 看 能 找 到 什 麼 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「我 不 想 摻 和 這 事 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>蜘 蛛 人 發 出 古 怪 的 咯 咯 聲 ，你 腦 子 裡 感 覺 到 朦 朧 的 感 激 。「那 麼 蜘 蛛 人 很 感 激 。去 廢 墟 的 路 在 東 邊 。衛 兵 已 經 切 開 了 石 頭 。找 到 了 樓 梯 。找 到 了 更 多 東 西 。現 在 ，他 們 保 護 我 們 ，不 受 下 面 東 西 的 傷 害 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>失 望 如 輕 紗 般 落 下 。「蜘 蛛 人 明 白 。」蜘 蛛 人 的 聲 音 很 輕 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Placeholder node for OnAttack function script - Vithrack leader expresses dismay at being attacked and then attacks player in turn]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「能 幫 上 忙 就 好 ，契 拉 克 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「你 的 衛 兵 可 沒 這 麼 感 恩 。他 們 在 我 回 來 的 路 上 試 圖 偷 襲 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「你 的 衛 兵 在 回 來 的 路 上 襲 擊 了 我 。抱 歉 ，但 我 不 得 不 自 我 防 衛 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>你 感 到 失 落 的 回 音 在 腦 中 漸 漸 消 失 。「契 拉 克 看 見 了 。為 科 斯 托 利 克 的 行 為 抱 歉 。是 在 保 護 巢 穴 ，很 多 年 了 。為 很 多 事 。」蜘 蛛 人 停 頓 了 下 。「契 拉 克 希 望 ，[Player Race]沒 有 受 到 傷 害 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>你 感 到 幽 靈 般 的 手 指 劃 過 你 的 思 緒 。「契 拉 克 看 見 ……為 科 斯 托 利 克 的 行 為 抱 歉 。契 拉 克 和 衛 兵 談 話 ，解 釋 。不 傷 害 [Player Race]-動 物 。拿 著 ，契 拉 克 給 你 這 個 。講 和 ，好 嗎 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「我 幫 助 你 的 群 族 就 得 到 這 個 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「蜘 蛛 人 記 得 。太 陽 落 下 海 面 很 久 後 。這 是 ……開 端 。新 的 改 變 。」契 拉 克 轉 向 牆 上 的 巢 穴 。「孩 子 們 會 生 活 在 更 好 的 地 方 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「[Player Race]-動 物 不 滿 意 ？……契 拉 克 有 寶 石 。[Player Race]-動 物 拿 著 這 些 。更 有 用 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「你 知 道 關 於 此 地 大 師 的 事 嗎 ？奧 努 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「是 的 。動 物 不 用 打 架 。」怪 物 伸 開 雙 臂 。「蜘 蛛 人 歡 迎 你 。歡 迎 來 到 巢 穴 。動 物 保 持 和 平 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「你 的 衛 兵 在 回 來 的 路 上 襲 擊 了 我 。蜘 蛛 人 就 這 樣 回 報 幫 助 他 們 的 人 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[離 開 ]「我 這 就 走 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「我 已 經 去 過 下 面 了 。我 有 些 東 西 我 想 你 會 感 興 趣 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>當 畫 面 消 退 ，你 看 見 另 一 個 蜘 蛛 臉 的 怪 物 站 在 你 面 前 。它 舉 起 爪 子 。你 又 感 到 腦 子 裡 一 陣 刺 痛 ，接 著 話 語 以 一 種 空 洞 怪 異 的 聲 音 在 腦 中 浮 現 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「Orech! Duvathi na rot uvraec nat。」怪 物 停 頓 了 一 下 ，它 的 尖 牙 顫 抖 著 。「...Caledina fosta agrengidare？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「抱 歉 ，我 聽 不 懂 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「你 會 說 鹿 叢 語 嗎 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「從 我 腦 子 裡 滾 出 來 ，怪 物 。我 們 沒 什 麼 可 談 的 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[在 它 開 口 前 攻 擊 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>怪 物 發 出 奇 怪 的 嘁 喳 聲 。在 腦 海 中 ，你 聽 到 ：「鹿 叢 語 。自 從 上 次 想 到 它 ，變 了 很 多 ……動 物 入 侵 了 。巢 穴 在 這 裡 。防 衛 太 冒 險 。守 衛 們 死 了 ——動 物 滿 意 了 ？動 物 現 在 聽 話 嗎 ？」怪 物 咯 咯 地 叫 著 。「不 打 了 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「我 不 是 動 物 ！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「我 聽 著 。沒 必 要 再 打 了 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「那 些 守 衛 先 攻 擊 我 的 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>怪 物 沉 默 地 看 了 你 一 會 兒 。「[Player Race]動 物 」它 簡 短 地 更 正 道 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「你 以 前 說 的 什 麼 語 言 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>蜘 蛛 人 發 出 嘁 嘁 喳 喳 的 聲 音 ，卻 不 回 答 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「守 衛 們 沒 有 活 下 來 。」怪 物 平 靜 地 說 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[攻 擊 ]「讓 你 看 看 什 麼 叫 動 物 ，蜘 蛛 臉 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「我 覺 得 你 的 鹿 叢 語 還 得 下 些 功 夫 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「很 多 年 ，沒 有 說 。很 多 ……口 音 。Eld tonge frae ylfen laerds。很 多 忘 了 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「可 是 動 物 開 玩 笑 。說 話 ，對 嗎 ？不 是 打 架 的 地 方 。巢 穴 必 須 平 安 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>怪 物 不 眨 眼 地 盯 著 你 看 了 很 久 。「好 ，」你 聽 見 。「那 麼 蜘 蛛 人 祝 你 旅 途 迅 捷 。」它 後 退 一 步 ，你 腦 中 的 聲 音 漸 漸 消 失 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>你 面 前 怪 物 的 低 吼 清 晰 可 聞 ，但 你 腦 中 的 聲 音 卻 很 平 靜 。「說 鹿 叢 語 的 。動 物 是 很 多 年 來 的 第 一 。動 物 入 侵 了 。」它 用 爪 子 指 著 你 身 後 的 路 。「殺 了 巢 穴 的 守 衛 。動 物 打 完 了 ？……說 話 嗎 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>怪 物 發 出 奇 怪 的 嘁 喳 聲 。在 腦 海 中 ，你 聽 到 ：「說 鹿 叢 語 的 。自 從 上 次 想 到 它 ，變 了 很 多 ……動 物 入 侵 了 。巢 穴 在 這 裡 。防 衛 太 冒 險 。守 衛 們 死 了 ——動 物 打 完 了 ？動 物 現 在 聽 話 嗎 ？不 打 了 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「好 吧 ，我 聽 著 。不 過 你 最 好 別 刷 花 招 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「不 會 ，」怪 物 欣 慰 地 贊 同 。「蜘 蛛 人 歡 迎 你 。歡 迎 來 到 巢 穴 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>蜘 蛛 人 用 爪 子 摸 著 尖 牙 ，思 考 著 。「Eret narek Od Nua。……名 字 穿 透 牆 壁 ，可 是 蜘 蛛 人 不 知 道 長 相 、聲 音 。蜘 蛛 人 看 見 偉 大 的 工 作 。看 見 ……塑 像 ，是 嗎 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「很 多 東 西 的 大 師 。阿 德 拉 的 大 師 。很 多 聲 音 ，困 在 石 頭 裡 。」蜘 蛛 人 往 後 指 著 洞 穴 的 其 他 部 分 。「下 面 的 東 西 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「令 人 敬 仰 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「如 我 所 說 。」蜘 蛛 人 的 嘴 巴 顫 抖 著 。「蜘 蛛 人 來 的 時 候 大 師 的 名 字 老 舊 了 。只 有 工 程 留 著 。偉 大 的 工 程 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>蜘 蛛 人 看 了 你 一 會 兒 ，然 後 低 頭 看 自 己 ，又 看 向 你 。「[Player Race]動 物 是 什 麼 ？蜘 蛛 人 ……看 見 別 人 看 不 到 的 。看 見 黑 殼 裡 的 光 。」它 指 著 你 。「看 見 明 亮 灼 熱 的 光 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「蜘 蛛 人 不 用 聲 音 說 話 ，說 很 多 。幾 百 個 靈 魂 ，在 偉 大 的 城 市 裡 。Sstravek'narith——是 群 族 。很 遠 的 路 。動 物 要 走 很 久 ，才 能 到 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「群 族 是 什 麼 樣 的 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「我 還 有 其 他 問 題 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「那 是 非 常 古 老 的 方 言 。你 懂 鹿 叢 語 嗎 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「永 別 了 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>你 覺 得 腦 中 又 是 一 陣 瘙 癢 ，接 著 泛 起 歡 快 的 漣 漪 。「那 麼 蜘 蛛 人 欠 一 個 大 人 情 。有 了 這 個 ，我 們 研 究 、學 習 大 師 的 秘 密 。我 們 建 造 比 古 老 死 去 的 大 師 更 偉 大 的 塑 像 。Sstravek'narith會 像 海 洋 一 樣 閃 光 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「那 麼 我 這 就 走 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「蜘 蛛 人 感 謝 你 。有 錢 幣 。是 習 俗 ，是 嗎 ？蜘 蛛 人 有 很 多 年 代 的 錢 幣 。會 給 很 多 。」它 想 了 會 兒 。「如 果 [Player Race]-動 物 還 要 進 入 更 深 的 地 方 ，應 該 去 找 科 瑞 裡 。科 瑞 裡 有 補 給 。會 有 幫 助 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>蜘 蛛 人 微 微 點 頭 ，似 乎 在 示 意 你 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「我 們 感 覺 到 變 化 。無 盡 之 路 現 在 很 安 靜 。[Player Race]-動 物 改 變 了 很 多 。契 拉 克 表 達 敬 意 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「明 亮 的 光 ，在 黑 暗 裡 。」蜘 蛛 人 的 聲 音 以 其 特 有 的 空 靈 ，顯 得 十 分 憂 郁 。「很 多 的 心 ，生 命 ，在 一 起 。建 造 。」蜘 蛛 人 低 下 頭 。「有 一 天 ，我 們 回 來 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「經 歷 了 這 麼 多 ，我 不 知 道 你 想 把 這 東 西 帶 回 你 的 群 族 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「不 用 擔 心 。奧 努 大 師 是 有 才 能 的 ，但 ……不 是 蜘 蛛 人 。蜘 蛛 人 建 造 所 有 這 些 ，還 更 好 。不 需 要 很 多 ，只 要 幾 樣 東 西 ，來 學 習 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「蜘 蛛 人 ……探 索 。為 家 園 尋 求 知 識 。為 群 族 ，Sstravek'narith。我 們 探 索 過 很 遠 ，很 久 。我 們 厭 倦 了 ……回 憶 。家 的 回 憶 。建 了 巢 穴 ，建 了 新 的 家 園 。找 到 了 我 們 所 尋 求 的 東 西 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>你 能 感 覺 到 蜘 蛛 人 的 驚 訝 ，就 像 自 己 感 覺 的 回 音 一 般 。「[Player Race]說 實 話 ？它 走 到 哪 裡 都 帶 來 財 富 。讓 契 拉 克 看 看 ……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>它 突 然 饒 有 興 趣 地 看 著 你 。「[Player Race]-動 物 很 堅 強 。打 敗 了 其 他 動 物 。殺 了 守 衛 。能 幫 助 蜘 蛛 人 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「動 物 必 須 說 明 任 務 ，科 斯 托 利 克 讓 你 平 安 通 過 。」契 拉 克 停 頓 了 下 。「科 斯 托 利 克 不 友 善 。動 物 保 重 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Trigger Conv Node 108</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>怪 物 發 出 奇 怪 的 嘁 喳 聲 。在 腦 海 中 ，你 聽 到 ：「說 鹿 叢 語 的 。自 從 上 次 想 到 它 ，變 了 很 多 ……動 物 入 侵 了 。巢 穴 在 這 裡 。防 衛 太 冒 險 。動 物 聽 話 嗎 ？」怪 物 咯 咯 地 叫 著 。「不 打 了 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

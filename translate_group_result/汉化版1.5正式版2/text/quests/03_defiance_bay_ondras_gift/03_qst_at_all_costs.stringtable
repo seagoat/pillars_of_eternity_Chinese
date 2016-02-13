@@ -1,0 +1,110 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\03_defiance_bay_ondras_gift\03_qst_at_all_costs</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>20</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>不 惜 代 价 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>把 包 裹 送 给 科 博 莱 茵 的 加 雷 斯 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>返 回 昂 德 拉 之 地 的 维 萨 诺 那 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>在 昂 德 拉 之 地 仓 库 中 的 维 萨 诺 那 里 得 到 苦 瓜 籽 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>击 败 丹 娜 •德 梅 尼 尔 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>杀 死  维 萨 诺 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>维 萨 诺 先 生 是 反 抗 湾 维 拉 贸 易 公 司 的 老 大 ，他 想 让 我 来 送 包 裹 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>维 萨 诺 先 生 给 了 我 一 个 包 裹 ，让 我 带 给 科 博 莱 茵 鹅 与 狐 旅 店 的 加 雷 斯 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>维 萨 诺 与 当 地 的 犯 罪 企 业 联 合 体 纠 缠 不 清 。不 幸 的 是 ，他 已 经 把 我 拉 上 了 贼 船 。 
+
+他 在 昂 德 拉 之 地 的 维 拉 贸 易 公 司 等 着 我 。当 我 遇 到 他 时 ，我 得 决 定 怎 么 处 理 他 的 反 叛 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10012</ID>
+			<DefaultText>我 告 诉  维 萨 诺  我 对 他 的 交 付 工 作 不 感 兴 趣 。他 告 诉 我 ，如 果 我 回 心 转 意 了 可 以 再 来 找 他 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10013</ID>
+			<DefaultText>我 决 定 从 丹 娜 •德 梅 尼 尔 手 上 保 护 维 萨 诺 。现 在 ，她 和 她 的 手 下 也 跟 我 杠 上 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10014</ID>
+			<DefaultText>我 决 定 要 杀 了 维 萨 诺 。这 还 算 不 上 很 有 挑 战 性 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>我 在 鹅 与 狐 旅 店 打 败 了 丹 娜 和 她 的 手 下 ，这 样 一 来 维 萨 诺 又 少 了 一 件 操 心 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 决 定 从 丹 娜 •德 梅 尼 尔 手 上 保 护 维 萨 诺 。我 得 在 德 梅 尼 尔 家 族 剩 下 的 地 方 中 小 心 行 事 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我 决 定 不 再 插 手 维 萨 诺 先 生 和 德 梅 尼 尔 家 族 之 间 的 争 端 。丹 娜 •德 梅 尼 尔 当 了 一 个 短 期 工 作 的 商 人 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我 杀 了 维 萨 诺 先 生 。反 正 他 也 树 了 这 么 多 敌 人 了 ，早 死 晚 死 都 一 样 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我 决 定 从 丹 娜 •德 梅 尼 尔 手 上 保 护 维 萨 诺 ，但 他 在 战 斗 中 死 了 。我 得 在 德 梅 尼 尔 家 族 剩 下 的 地 方 中 小 心 行 事 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText>我 杀 了 维 萨 诺 先 生 ，但 丹 娜 •德 梅 尼 尔 也 在 战 斗 中 丧 生 。最 好 德 梅 尼 尔 家 族 不 会 让 我 对 她 的 死 负 责 任 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30005</ID>
+			<DefaultText>在 完 成 这 项 工 作 之 前 ，我 杀 了  维 萨 诺 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30006</ID>
+			<DefaultText>我 在 送 出 维 萨 诺 的 包 裹 之 前 杀 了 加 雷 斯 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

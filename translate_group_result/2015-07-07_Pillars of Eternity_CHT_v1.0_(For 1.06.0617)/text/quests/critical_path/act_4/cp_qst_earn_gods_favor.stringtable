@@ -1,0 +1,104 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\critical_path\act_4\cp_qst_earn_gods_favor</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>18</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>諸星會議</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>在泰爾埃弗隆向神祈禱。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>獲得神恩的幫助。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>進入安息島的深坑前往佈雷斯伊曼</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>希薩和裡赫紐恩，榆樹之地的葉精，告訴我賽奧斯摧毀了泰爾埃弗隆去佈雷斯伊曼的路。為了找到他，我必須進入安息島的深坑裡。
+
+這需要諸神的幫助。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>葉精姐妹說沒有人會從通往佈雷斯伊曼的深坑裡裡活下來。不過神可以保證我的安全。
+
+為了得到他們的幫助，我得在泰爾埃弗隆向他們祈禱，他們說那裡可以與凡人交流。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>神也想也想從我這裡得到什麼東西。為了得到幫助，我得完成在視野裡交給我的任務。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我現在得到了幫助，我就可以去安息島去尋找賽奧斯。
+
+然而，貌似在神選擇的過程中，他們願意用巨大的力量來交換一個可以解決被偷走靈魂的承諾。但是如果承諾沒兌現，代價可不小</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>貝拉斯讓我看到了一條可怕的道路上有一個矮人和一個精靈。只要我碰一下，他們都會消亡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>加拉維恩讓我看到了一隻巨大的獅子和一個強壯的熊在打鬥。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>海莉亞讓我看到在一個山頂上有一個神殿飽受威脅。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>在裡姆甘德的神殿裡，我看到一群精靈在一堵冰牆前消失了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>我保證讓那些靈魂回歸循環來交換貝拉斯的力量。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20005</ID>
+			<DefaultText>我同意用靈魂來加強戴爾森林來交換加拉維恩的力量。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20006</ID>
+			<DefaultText>我跟海莉亞保證我會把靈魂還給無魂兒。然後她會給我她的力量。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20007</ID>
+			<DefaultText>我同意把靈魂交給裡姆甘德之熵來交換他的力量。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20008</ID>
+			<DefaultText>我瞭解到可以從古老樂曲區前往安息島。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我為了尋找賽奧斯進入了佈雷斯伊曼。現在沒有退路了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

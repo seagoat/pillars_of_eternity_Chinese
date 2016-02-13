@@ -1,0 +1,75 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\03_defiance_bay_ondra_gift\03_cv_dodwyna</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>11</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>你進入房間，看到幾個人湊在一起。他們站的筆直-全副武裝，但沒有熔爐騎士那樣的配套裝備。在小組中間，站著一個女人，手中拿著鏈枷。她朝那瑟瑟發抖的人一陣咆哮。
+
+
+
+「你想讓我相信這幾頁研究只是你隨手的塗鴉嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>[攻擊]「到此為止了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>「我該離開了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>「真的什麼都沒，我發誓！「只有我的一些註釋……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>女人對她的俘虜反手一耳光，你聽到一陣脆響，下手真狠。「我們知道你在暗中和熔爐騎士保持一定聯繫。你覺得他們是城市裡唯一有權利的人嗎？他們叫我們十二人眾是有原因的。現在，我不會再問你了……」
+
+
+
+人群中有人推擠了一把，女人轉身看到你在偷窺。
+
+
+
+她瞇起雙眼。「你不該來這裡。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>「放她走我就當做自己沒看到這些。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>「放開她！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>「這兒發生什麼了？「</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>「晚了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>她舉起鏈枷衝向你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>她緊緊握著手中的鏈枷。「你什麼也不需要知道。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

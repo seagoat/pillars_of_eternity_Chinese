@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\companions\poi\poi_bs_ondra_docks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bank Node 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“在反抗之战中，十几艘艾迪尔船在堤坝上撞的粉碎。我发现，当涉及到海浪时，最好别把占星师说的话当耳旁风。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“在对的地方，我的脉搏就会跳动。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“这么多幽灵，不过,觉醒的……很少。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

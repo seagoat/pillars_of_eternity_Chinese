@@ -1,0 +1,896 @@
+﻿<StringTableFile>
+  <Name>conversations\companions\companion_cv_sagani_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>167</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>站 在 路 标 下 的 是 一 名 穿 着 动 物 皮 毛 的 矮 人 女 性 ，她 望 着 地 面 的 脸 上 可 见 眼 眶 周 围 涂 这 一 条 暗 色 的 油 彩 。
+
+她 正 在 用 支 贝 壳 柄 的 小 刀 削 尖 一 只 骨 制 箭 头 ，但 她 在 意 的 似 乎 是 两 脚 之 间 的 一 副 熊 状 雕 像 。
+
+站 在 她 脚 旁 的 还 有 一 只 白 毛 的 大 狐 狸 ，随 着 你 走 近 观 察 着 你 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“别 吵 ，依 图 玛 。再 等 会 吧 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“我 穿 得 可 能 不 是 很 好 看 ，但 也 绝 对 不 可 能 是 ‘他 ’啊 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“你 在 等 什 么 人 啊 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“我 能 帮 你 找 到 他 吗 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[离 开 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>她 停 下 削 箭 头 的 双 手 ，慢 慢 双 臂 交 叉 放 在 胸 前 。“这 可 有 意 思 了 。上 次 有 人 说 能 帮 我 ，，最 后 只 是 帮 我 破 了 财 。我 还 是 自 己 来 吧 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“长 话 短 说 ？我 在 寻 找 一 名 非 常 ，非 常 旧 的 相 识 。我 也 不 知 道 他 现 在 长 什 么 样 ，但 看 见 他 我 能 认 出 来 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>“你 的 相 识 和 你 约 了 在 这 里 见 面 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>“站 在 这 里 等 着 也 没 什 么 用 啊 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>“我 是 这 么 听 说 的 。和 我 这 么 说 的 人 拿 着 一 根 法 杖 ，自 称 是 龙 骨 制 的 ，不 过 我 看 见 白 松 木 还 是 能 认 得 出 来 的 。” 
+
+她 摇 着 头 翻 了 翻 白 眼 。“听 他 的 大 概 也 没 用 ，但 我 也 得 试 试 看 啊 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>她 抬 起 头 来 看 着 你 。“这 我 同 意 。不 过 我 找 的 人 不 是 你 而 已 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>“等 等 ，这 陌 生 人 和 你 找 你 的 相 识 有 什 么 关 系 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>“‘试 试 看 ’？你 想 要 试 什 么 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>她 在 裤 子 上 抹 了 抹 那 雕 像 ，用 她 小 而 平 的 手 掌 托 了 起 来 。雕 像 又 小 又 圆 ，看 起 来 是 只 熊 。抛 光 后 的 阿 德 拉 石 在 熊 拱 起 的 背 部 和 卵 形 的 臀 部 处 被 磨 得 缺 了 些 光 泽 。雕 像 的 中 间 隐 隐 发 出 柔 和 的 微 光 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>“好 吧 ，但 如 果 你 想 要 逃 跑 的 话 ，我 的 箭 飞 得 可 比 你 要 快 。”把 雕 像 交 给 你 时 ，她 皲 裂 的 指 节 擦 过 你 的 手 。
+
+她 看 着 你 观 察 雕 像 ，有 些 警 惕 又 有 些 好 奇 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>你 拿 起 阿 德 拉 制 的 石 熊 ，在 近 光 处 转 动 着 它 。当 你 看 见 一 条 闪 着 微 光 的 细 小 划 痕 时 ，你 周 围 的 景 色 渐 渐 融 化 消 失 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>“你 在 想 什 么 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>“你 是 怎 么 被 选 中 去 搜 寻 帕 索 克 的 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>“你 在 纳 斯 塔 克 时 都 做 些 什 么 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>你 站 在 俯 视 着 水 面 的 峭 壁 之 上 ，用 不 属 于 自 己 的 眼 睛 观 察 着 世 界 。在 农 田 新 鲜 蔬 菜 的 味 道 之 中 你 闻 到 了 野 兽 的 浓 重 气 味 ，心 跳 有 些 加 快 。你 在 高 处 得 小 心 脚 步 。
+
+你 向 下 瞄 了 一 眼 ，看 见 苍 白 突 兀 的 峭 壁 到 水 面 有 几 百 英 尺 高 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>【把 雕 像 还 回 。】“我 看 见 了 。他 正 站 在 一 峭 壁 之 上 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>“我 看 见 水 面 上 高 高 的 峭 壁 。你 听 着 熟 悉 吗 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>【闻 闻 微 风 。】</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>帕 勒 吉 娜 点 了 点 头 。“珠 木 湾 的 南 海 岸 有 些 挺 高 的 峭 壁 。我 们 不 久 前 航 入 挑 战 港 的 时 候 我 看 见 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>回 应 你 问 题 的 只 有 沉 默 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>【检 查 附 近 的 道 路 。】</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>你 深 吸 一 口 气 ，闻 到 了 空 气 中 的 咸 味 。不 管 你 ——又 或 帕 索 克 ——在 哪 里 ，一 定 是 在 海 边 ，而 不 是 湖 边 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>被 压 实 的 土 路 上 有 深 深 的 车 辙 。这 路 上 有 无 数 负 了 重 载 的 四 轮 马 车 走 过 。附 近 一 定 有 所 大 型 城 市 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>“你 明 白 即 使 我 相 信 你 ，也 没 钱 能 给 你 吧 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>莎 加 妮 靠 近 你 坐 了 下 来 ，她 的 狐 狸 也 跟 在 脚 边 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>“你 找 帕 索 克 有 五 年 了 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>“你 离 家 很 久 了 吧 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>她 笑 了 。“这 也 是 村 里 的 习 俗 。长 者 们 观 察 驯 鹿 的 迁 徙 ，也 扔 海 豹 骨 占 卜 ，以 此 来 决 定 出 行 的 正 确 时 机 。”
+
+“当 有 了 先 兆 之 后 ，村 里 所 有 人 的 妻 子 用 鲨 齿 抽 签 。本 来 就 是 我 们 去 打 猎 钓 鱼 ，我 们 也 比 较 适 合 做 这 种 差 事 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>“你 在 村 里 有 家 人 吗 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>“那 当 然 。我 们 从 来 不 把 还 没 来 得 及 嫁 人 生 子 的 女 人 派 出 村 去 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>“给 我 讲 讲 依 图 玛 的 事 吧 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>她 挠 了 挠 它 的 耳 后 。“它 猎 技 高 超 ，但 聊 天 不 太 行 。这 我 也 从 来 没 什 么 问 题 。” 
+
+“我 们 在 纳 斯 塔 克 打 猎 的 时 候 ，几 乎 总 是 带 着 狐 狸 。狐 狸 能 帮 我 们 追 踪 ，又 能 把 猎 物 追 出 来 ，面 对 熊 或 者 是 雪 豹 也 毫 无 畏 惧 。依 图 玛 十 分 聪 明 ，总 是 我 最 喜 欢 的 一 只 。”
+
+它 摇 了 摇 蓬 松 的 尾 巴 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>“我 对 你 搜 寻 帕 索 克 的 事 情 有 些 好 奇 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>“你 的 族 人 为 什 么 会 有 这 样 的 习 俗 呢 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>“我 知 道 的 都 会 告 诉 你 。但 我 这 样 的 朝 圣 之 旅 挺 少 见 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>“你 们 长 者 重 生 之 时 都 离 村 子 这 么 远 吗 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>“你 找 到 长 者 之 后 会 怎 样 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>她 从 背 包 内 拽 出 石 熊 像 ，用 一 只 手 指 摸 着 它 光 滑 的 背 部 。“这 也 是 传 统 了 。长 者 们 说 刚 开 始 时 是 为 了 与 其 他 村 庄 建 立 良 好 关 系 。当 对 方 有 我 方 尊 敬 的 人 时 ，也 不 好 为 了 一 群 驯 鹿 争 执 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>“我 想 知 道 的 就 这 些 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>“我 们 继 续 吧 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>“同 时 ，我 们 也 认 为 这 样 传 递 历 史 能 让 族 人 更 加 强 大 。长 者 们 也 能 在 逝 世 许 久 之 后 回 到 我 们 身 边 ，运 用 他 们 往 生 的 经 验 来 带 领 村 人 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>“对 于 我 的 搜 寻 ，你 是 怎 么 想 的 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>莎 加 妮 摇 了 摇 头 。“就 如 大 海 捞 针 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>“有 空 聊 聊 么 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>女 矮 人 还 在 你 上 次 见 到 她 的 地 方 等 待 着 ，很 有 耐 心 地 看 着 石 熊 像 。她 轻 轻 地 对 着 身 边 的 狐 狸 发 出 嘘 声 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>“你 走 了 这 么 远 ，寻 找 帕 索 克 对 你 来 说 一 定 很 重 要 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>“跟 我 来 吧 。我 在 这 附 近 还 有 其 他 事 ，路 上 可 以 找 找 帕 索 克 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>【离 开 】“我 给 的 情 报 你 信 不 信 都 行 ，祝 你 好 运 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>莎 加 妮 双 臂 交 叉 放 在 胸 前 ，看 了 看 你 。“你 可 别 是 开 玩 笑 ，我 可 能 要 一 直 跟 着 你 的 。”
+
+她 把 石 熊 像 放 回 包 里 。她 的 狐 狸 站 了 起 来 ，抖 了 抖 苍 白 的 皮 毛 。“带 路 吧 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>她 点 了 点 头 。“愿 你 狩 猎 顺 利 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>“又 回 来 了 ？”她 将 石 熊 像 在 手 里 转 了 一 转 。“不 管 你 在 找 什 么 ，希 望 你 比 我 好 运 。”
+
+依 图 玛 蜷 在 一 堆 落 叶 中 ，打 了 个 哈 欠 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>“你 不 担 心 你 丈 夫 会 ……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>“你 开 玩 笑 呢 吧 。我 可 是 玛 苏 克 最 好 的 射 手 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>“他 们 经 常 在 纳 斯 塔 克 作 为 其 他 村 庄 的 一 员 转 生 。也 可 能 在 白 行 之 地 作 为 苍 白 精 灵 重 生 。即 便 如 此 ，也 不 好 说 什 么 是 常 事 。”
+
+她 调 皮 地 笑 得 眼 睛 弯 了 起 来 。“我 祖 父 还 是 个 孩 子 的 时 候 ，有 个 长 者 转 生 成 了 北 极 熊 。被 选 中 搜 寻 它 的 女 猎 人 对 它 复 述 村 子 的 事 迹 时 一 半 时 间 都 用 来 逃 跑 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>“跟 我 讲 讲 你 家 儿 女 的 事 情 吧 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>“我 有 五 个 孩 子 。雅 克 那 ，艾 斯 图 亚 ，那 杰 尔 ，安 尼 克 和 玛 拉 克 。艾 斯 图 亚 和 安 尼 克 在 漫 长 缺 食 的 冬 天 去 世 了 ，而 玛 拉 克 在 我 离 开 村 子 时 刚 学 会 说 话 。”她 用 指 甲 抠 着 她 猎 刀 的 刀 柄 。“等 我 回 去 他 大 概 不 认 识 我 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>“你 丈 夫 是 怎 样 的 人 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>“卡 鲁 是 个 好 人 。我 出 门 狩 猎 时 他 尽 心 养 育 儿 女 ，也 建 了 座 牢 固 的 家 。”
+
+“我 们 是 小 时 候 父 母 给 定 的 亲 。在 这 里 不 是 常 有 的 事 ，但 我 们 的 父 母 定 得 非 常 明 智 。”她 笑 了 。“刚 开 始 时 ，我 们 作 为 伙 伴 互 相 欣 赏 ，之 后 成 了 朋 友 ，再 后 来 ……你 也 知 道 是 怎 么 回 事 吧 。”她 脸 上 一 抹 油 彩 之 下 似 乎 有 些 红 晕 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>“就 这 些 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>她 点 了 点 头 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>“我 是 狩 长 猎 的 。我 和 其 他 一 些 人 的 妻 子 们 穿 过 冻 原 追 踪 猎 物 。我 们 经 常 猎 的 是 驯 鹿 或 者 公 牛 ，但 也 能 找 到 野 兔 和 禽 类 。”
+
+“狩 长 猎 这 个 工 作 挺 好 ，也 受 人 尊 敬 。能 在 朋 友 与 姐 妹 的 陪 伴 下 探 索 纳 斯 塔 克 ……这 在 玛 苏 克 可 是 人 生 一 大 乐 事 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>“这 也 是 传 统 了 。长 者 们 说 刚 开 始 时 是 为 了 与 其 他 村 庄 建 立 良 好 关 系 。当 对 方 有 我 方 尊 敬 的 人 时 ，也 不 好 为 了 一 群 驯 鹿 争 执 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>她 的 神 情 变 得 严 肃 。“即 便 如 此 ，也 有 比 我 所 经 历 过 的 旅 程 还 要 长 的 。有 些 旅 程 长 达 数 十 年 ，有 些 猎 人 们 也 再 未 归 来 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>“这 也 得 看 他 变 成 什 么 样 的 人 了 。如 果 转 生 到 纳 斯 塔 克 的 其 他 村 落 ，每 人 都 懂 得 习 俗 ，最 是 容 易 。即 使 是 转 到 了 白 行 之 地 ，或 者 死 火 群 岛 的 南 部 岛 屿 ，人 们 也 懂 得 这 习 俗 ，即 使 他 们 的 灵 魂 不 记 得 你 ，也 会 有 礼 地 接 受 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>她 耸 了 耸 肩 。“但 有 时 候 找 到 的 人 之 灵 魂 根 本 不 记 得 村 子 ，你 也 还 需 告 诉 他 还 记 得 他 的 那 些 人 的 事 情 。尽 管 这 挺 让 人 丧 气 ，你 也 只 能 希 望 你 告 诉 他 的 事 情 能 有 助 于 他 的 某 次 来 生 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>“总 之 ，我 抽 中 了 鲨 齿 签 。”她 皱 了 皱 眉 。“能 作 如 此 远 行 对 我 们 来 说 可 是 特 殊 的 荣 耀 ，但 如 你 所 见 ，这 旅 程 变 幻 莫 测 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>她 两 臂 交 叉 。“追 逐 陶 斯 倒 是 挺 有 意 思 的 。我 搞 不 明 白 的 是 他 到 底 是 在 逃 跑 呢 ，还 是 自 己 也 在 找 些 什 么 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>“我 们 继 续 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>“我 的 鼻 尖 又 作 痒 了 。希 望 你 对 找 到 的 食 物 能 够 满 意 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>她 皱 了 皱 眉 。“若 能 知 道 在 猎 什 么 ，可 就 帮 了 大 忙 。你 能 追 寻 很 多 线 索 ，但 找 到 什 么 可 就 不 好 猜 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>“跟 我 讲 讲 你 家 乡 的 事 情 吧 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>“纳 斯 塔 克 的 事 ？”她 用 一 只 粗 矮 的 手 指 揉 了 揉 鼻 子 。“纳 斯 塔 克 是 死 火 列 岛 中 央 的 一 个 大 岛 屿 ，就 在 白 行 之 地 岸 边 不 远 。大 部 分 都 是 冻 原 ，稍 暖 些 的 地 方 有 些 冰 雪 覆 盖 的 森 林 。”
+
+“我 们 大 部 分 人 都 是 住 在 些 在 这 边 人 看 来 算 是 小 的 村 子 里 。我 的 村 子 是 玛 苏 克 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>“纳 斯 塔 克 是 怎 样 的 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>“都 有 谁 住 在 那 里 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>她 耸 了 耸 肩 。“可 冷 了 ，但 没 有 白 行 之 地 那 么 冷 。其 他 种 族 的 人 来 纳 斯 塔 克 都 觉 得 ……有 些 空 旷 。但 如 果 你 知 道 在 哪 里 找 ，有 足 够 的 资 源 维 持 村 子 的 生 路 。”
+
+她 扳 着 起 了 老 茧 的 手 指 数 着 。“我 们 从 驯 鹿 ，海 豹 ，还 有 小 鲸 鱼 身 上 得 到 皮 毛 和 肉 ，也 有 骨 头 ，能 做 出 挺 好 的 弓 和 箭 头 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>“基 本 上 都 是 些 像 我 一 样 的 冻 原 之 住 人 。‘北 方 矮 人 ’是 这 里 人 的 叫 法 。”
+
+“白 行 之 地 的 苍 白 精 灵 们 有 些 迁 徙 的 部 落 ，他 们 寒 季 会 来 纳 斯 塔 克 度 过 。但 其 他 能 受 得 了 我 们 寒 冷 气 候 的 外 国 人 并 不 常 见 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>她 拍 了 拍 自 己 受 风 吹 日 晒 的 棕 色 手 臂 。“纳 斯 塔 克 人 常 说 我 们 皮 肤 之 下 还 有 一 层 耐 用 的 海 豹 皮 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>“告 诉 我 更 多 关 于 玛 苏 克 的 事 情 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>“我 的 村 子 位 于 冻 原 之 上 。在 外 地 人 看 来 ，大 概 和 其 他 的 村 子 没 什 么 两 样 ，但 我 们 的 长 者 们 讲 述 着 几 百 年 前 的 故 事 。史 诗 般 的 狩 猎 ，与 其 他 村 落 的 斗 争 ，在 海 之 对 岸 的 寄 居 ——我 们 也 互 相 分 享 这 些 故 事 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>“对 我 们 来 说 群 落 十 分 重 要 。我 们 同 生 共 死 ，因 此 我 们 做 的 每 一 件 事 ——每 一 次 整 周 长 的 狩 猎 ，每 一 座 建 筑 的 围 墙 ——都 是 为 了 我 们 的 村 子 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>“往 长 里 说 ？好 好 听 着 。”她 深 吸 一 口 气 ，肩 膀 上 下 浮 动 。
+
+“我 来 自 名 叫 纳 斯 塔 克 的 远 南 岛 屿 。我 来 此 寻 找 村 落 的 长 者 ，名 叫 帕 索 克 。我 在 故 乡 是 狩 猎 的 ，所 以 追 踪 一 个 人 本 不 应 出 问 题 。”
+
+“但 我 却 找 不 到 一 点 帕 索 克 的 行 迹 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>她 皱 了 皱 眉 ，手 从 刀 上 滑 下 。“在 纳 斯 塔 克 ，我 大 部 分 时 间 也 都 用 在 打 猎 上 。但 能 看 到 我 的 家 人 享 受 猎 物 也 让 打 猎 更 轻 松 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>“别 紧 张 ，依 图 玛 。这 人 不 是 他 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>“你 看 起 来 像 是 迷 路 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>她 抬 起 低 下 的 头 看 着 你 。“我 自 己 在 哪 里 清 楚 得 很 。我 这 位 朋 友 可 是 迷 了 路 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>“或 许 不 是 ，但 在 迪 伍 德 到 处 转 悠 也 没 什 么 成 效 。”
+
+她 身 旁 的 狐 狸 打 了 个 哈 欠 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>“也 就 是 说 ，你 花 了 这 五 年 时 间 搜 寻 一 个 你 自 己 也 不 太 记 得 的 陌 生 人 ？这 陌 生 人 长 成 什 么 样 也 不 知 道 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>“你 怎 么 能 找 不 到 他 ？在 迪 伍 德 也 没 多 少 你 的 族 人 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>“你 找 帕 索 克 有 多 长 时 间 了 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>她 画 着 油 彩 的 眉 毛 垂 了 下 来 ，短 小 结 实 的 身 架 一 瞬 似 乎 稍 稍 塌 了 下 来 。“五 年 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>“我 小 时 候 他 就 死 了 。忘 了 跟 你 说 了 。我 在 找 他 的 转 生 ……可 能 是 任 何 人 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>她 思 索 着 慢 慢 对 你 点 了 下 头 。“大 概 就 是 这 样 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>“那 这 职 务 一 定 很 重 要 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>“其 实 我 能 理 解 你 的 心 情 ……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>“听 起 来 简 直 是 浪 费 时 间 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>她 扬 起 一 只 眉 头 。“那 我 也 同 情 你 。希 望 你 找 到 的 线 索 比 我 的 好 些 。”她 低 头 看 着 土 里 的 阿 德 拉 石 像 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>“有 时 我 也 这 么 想 。”她 低 头 看 着 土 里 的 阿 德 拉 石 像 。“特 别 是 这 东 西 连 闪 都 不 闪 的 时 候 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>“我 也 一 直 这 么 告 诉 自 己 。但 要 能 有 点 更 具 体 的 指 示 就 好 了 。”她 低 头 看 着 土 里 的 阿 德 拉 石 像 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>“你 为 什 么 要 寻 找 帕 索 克 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>她 苦 笑 着 。“有 空 烤 着 营 火 再 慢 慢 告 诉 你 。我 现 在 不 太 想 讲 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>“你 拿 的 小 雕 像 和 这 有 什 么 关 系 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>“先 前 你 提 到 过 一 个 没 用 的 陌 生 人 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>“挺 可 爱 的 吧 。这 是 帕 索 克 的 东 西 。他 进 入 命 运 之 轮 前 把 自 己 灵 魂 的 一 小 部 分 放 在 了 里 面 。是 给 我 们 用 来 找 他 的 。”
+
+她 把 雕 像 递 给 你 时 ，你 能 感 觉 到 些 许 不 是 记 忆 ，倒 像 是 有 人 曾 存 在 过 的 痕 迹 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>“我 离 开 纳 斯 塔 克 时 ，它 里 面 漆 黑 一 片 。但 当 我 渐 渐 靠 近 帕 索 克 时 ，它 也 渐 渐 亮 起 来 了 。但 当 我 到 达 迪 伍 德 时 ，这 信 号 有 些 分 辨 不 清 。有 些 日 子 它 闪 几 下 就 变 黑 了 ，也 有 些 日 子 它 非 常 明 亮 ……能 亮 几 个 小 时 。”
+
+“但 大 部 分 时 间 ，看 起 来 就 和 现 在 一 样 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>“可 能 坏 了 吧 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>“帕 索 克 可 能 还 在 更 远 处 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>“你 现 在 要 怎 么 办 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>“我 给 你 看 看 吧 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>她 摇 了 摇 头 。“我 原 本 也 是 这 么 想 的 ，花 了 一 年 时 间 绕 着 这 地 方 走 了 一 圈 。向 南 到 了 奥 西 亚 城 ，向 北 到 了 破 舰 堡 ，才 发 现 雕 像 又 开 始 变 暗 了 。我 穿 过 白 征 国 环 绕 西 部 海 湾 时 也 发 生 了 同 样 的 事 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>她 空 洞 地 笑 着 。“即 便 是 憎 逆 之 神 斯 坎 也 不 会 如 此 残 酷 。我 确 信 这 东 西 没 出 问 题 。只 是 ……没 我 希 望 得 那 么 精 确 而 已 。”即 便 说 出 了 这 些 话 ，她 仍 然 满 面 怀 疑 地 眯 着 眼 看 着 那 雕 像 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>“告 诉 你 ，我 再 也 不 会 相 信 贩 卖 奇 迹 的 骗 子 了 。当 初 就 是 一 个 自 称 ‘通 魂 者 ’的 家 伙 叫 我 到 这 了 无 人 烟 的 十 字 路 口 等 着 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>她 谨 慎 地 看 着 你 。“我 以 前 也 听 过 这 种 话 。我 在 这 里 等 着 也 是 因 为 当 初 就 是 一 个 自 称 ‘通 魂 者 ’的 家 伙 说 他 能 给 ‘看 看 ’的 。自 然 是 花 了 我 好 几 个 金 爵 币 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>“我 在 贝 尔 湿 地 时 听 说 有 个 旅 行 的 潜 修 者 能 看 得 见 灵 魂 。”她 耸 了 耸 肩 。“我 也 知 道 八 成 是 假 的 ，但 试 试 总 没 什 么 错 的 。”
+
+“我 去 见 了 这 人 ，给 他 看 了 看 我 的 雕 像 。他 装 模 作 样 地 又 哀 嚎 又 翻 眼 的 ，让 我 给 他 五 个 金 爵 币 拨 开 迷 雾 ，告 诉 我 去 找 ‘狼 窝 ’和 ‘双 树 ’之 间 空 地 里 的 十 字 路 口 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>“他 自 以 为 聪 明 ，但 我 对 这 周 围 地 势 熟 悉 ，也 知 道 他 说 的 是 这 个 地 方 ——正 好 在 挑 战 港 和 双 生 木 城 之 间 。”
+
+“我 想 想 感 觉 不 太 舒 服 ，但 钱 也 花 了 ，作 为 友 好 的 警 示 ，也 一 箭 射 在 他 包 上 了 。我 告 诉 他 如 果 他 在 和 我 瞎 说 ，让 我 到 处 乱 跑 ，我 就 回 去 再 射 他 一 箭 。”
+
+“我 在 这 里 等 了 有 一 周 了 。这 也 算 是 他 赢 了 吧 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>“继 续 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>“‘狼 窝 ’指 的 是 什 么 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>“‘双 树 ’是 个 真 的 地 名 吗 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>“挑 战 港 。当 地 人 管 现 任 公 爵 叫 ‘狼 奸 笑 ’，和 他 一 起 喝 酒 估 计 有 点 意 思 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>“他 指 的 是 双 生 木 城 。我 还 没 去 过 那 地 方 ，但 听 说 他 们 那 边 树 挺 壮 观 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>“你 现 在 去 找 那 假 通 魂 者 算 账 也 不 迟 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>她 挥 了 挥 手 。“我 只 是 想 吓 唬 他 。我 不 会 为 了 几 个 钱 而 杀 人 ，钱 对 我 来 说 没 多 大 用 处 。”
+
+“而 且 ，就 他 的 个 性 来 说 ，他 现 在 应 该 也 会 被 人 赶 出 镇 子 外 了 ，也 花 掉 了 所 有 的 钱 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>“我 能 看 看 那 雕 像 吗 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>“我 真 的 是 通 魂 者 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>她 看 了 看 那 个 阿 德 拉 熊 然 后 又 看 着 你 ，皱 着 眉 说 ：“为 什 么 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>“我 只 是 想 看 清 楚 一 点 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>“为 什 么 不 可 以 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>她 笑 了 起 来 ：“你 觉 得 我 跟 你 说 了 那 个 故 事 以 后 ，我 会 相 信 你 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>“我 说 真 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>“让 我 试 一 试 你 对 也 没 什 么 损 失 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>“如 果 我 说 的 是 真 的 呢 ？五 年 了 ，这 值 得 一 试 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>“好 吗 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>她 看 着 那 颗 阿 德 拉 熊 ，把 它 翻 转 了 几 次 。“你 在 说 什 么 ？”她 又 把 视 线 转 向 你 。“发 生 了 什 么 事 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>“我 真 的 是 通 魂 者 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>“我 跟 你 说 了 ，我 是 个 通 魂 者 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>她 看 着 你 ，眨 了 眨 眼 ，思 索 着 什 么 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Bank Node 238</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>“我 知 道 这 听 起 来 很 奇 怪 ，但 这 就 是 事 实 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>“如 果 你 见 过 他 看 着 死 人 的 样 子 ，你 就 知 道 他 是 认 真 的 。”</DefaultText>
+      <FemaleText>"If you'd seen the way she stares at dead things, you'd know she's serious."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>“她 的 脑 子 里 充 满 了 疑 虑 ……被 欺 骗 的 心 灵 创 伤 还 没 愈 合 。但 我 们 也 还 有 希 望 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>[离 开 ]“想 留 在 这 就 留 吧 ，与 我 无 关 。我 还 有 别 的 事 情 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>“……如 果 我 就 是 帕 索 克 呢 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>“不 是 想 让 你 失 望 ，但 根 本 不 可 能 。”这 东 西 亮 得 像 个 火 炬 一 样 。”她 摆 弄 着 那 个 小 雕 像 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>“确 实 。但 首 先 我 得 解 释 一 下 这 个 小 雕 像 的 事 情 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>[离 开 ]“我 也 是 ，再 会 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>Trigger Conv Node 276</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>Trigger Conv Node 305</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>Trigger Conv Node 306</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>Trigger Conv Node 307</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>“现 在 想 想 ，几 千 年 前 英 格 维 斯 人 做 的 决 定 对 今 天 依 然 有 着 影 响 。”她 摇 了 摇 头 。“如 果 否 定 他 们 寻 找 出 路 和 目 标 的 勇 气 ，会 是 一 种 遗 憾 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>“我 们 是 谁 ？是 什 么 塑 造 了 我 们 ？这 些 想 法 ……”她 摇 了 摇 头 。“都 不 重 要 ，对 吗 ？然 而 如 果 我 们 能 帮 助 那 些 支 离 破 碎 的 家 庭 ，我 想 我 们 的 旅 程 就 算 是 有 意 义 了 。”依 图 玛 舔 了 舔 脚 趾 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>“经 历 了 这 么 多 ，到 最 后 才 发 现 一 切 都 是 徒 劳 ，真 是 痛 苦 。不 知 为 何 ，我 觉 得 我 们 并 没 有 因 为 理 解 自 己 所 做 的 事 而 感 觉 好 受 一 些 。”她 神 情 黯 然 地 看 着 那 些 阿 德 拉 石 柱 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>“即 便 你 要 欺 骗 我 ，我 也 觉 得 重 新 拥 有 一 支 狩 猎 部 队 是 件 好 事 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>她 摇 着 头 ，为 这 富 丽 堂 皇 的 地 方 惊 叹 着 。“从 没 想 过 我 能 在 旅 途 中 见 识 到 这 样 的 东 西 。真 是 漂 亮 ，对 吗 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>“现 在 又 怎 么 了 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>“我 说 过 我 会 带 你 回 家 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>“我 想 那 得 靠 你 了 ，对 吧 。我 太 矮 了 ，够 不 着 那 东 西 。”她 对 着 那 个 机 器 点 了 点 头 。
+
+“就 我 所 知 ，你 按 下 开 关 之 后 ，那 东 西 就 会 把 我 们 都 传 送 到 纳 斯 塔 克 。不 过 无 论 会 发 生 什 么 事 ，我 都 很 高 兴 我 们 能 曾 经 一 同 旅 行 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>她 笑 了 起 来 ：“确 实 。我 很 荣 幸 ，[Player Name]。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>“谢 谢 你 与 我 一 起 旅 行 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>“是 时 候 解 决 这 件 事 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>“要 是 你 没 有 一 起 来 的 话 ，我 想 我 现 在 还 在 路 边 发 着 呆 呢 。”她 挠 了 挠 依 图 玛 的 头 。
+
+“谢 谢 你 一 路 的 陪 伴 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>她 点 了 点 头 ：“狩 猎 愉 快 ，[Player Name]。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

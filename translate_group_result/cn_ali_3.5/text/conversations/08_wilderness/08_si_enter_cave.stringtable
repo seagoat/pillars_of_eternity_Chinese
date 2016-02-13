@@ -1,0 +1,85 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\08_wilderness\08_si_enter_cave</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>15</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>提神的微风在你靠近悬崖边缘时吹动着你的衣角。悬崖面的洞口裂开了。洞口就在你所处位置下方的几尺处，但风化的岩石太滑了，无法攀爬。
+
+岩石坐落于悬崖边缘。感觉就像是坚固的锚。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>[离开]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>你绑在岩石上的绳子悬挂在悬崖边缘。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>[将绳子绑在岩石上，用抓钩固定住后向下攀爬。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>你抓紧绳子向下攀爬。突然，一阵强风从海湾处刮来。当风吹得你左右摇摆时你捏紧了绳子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>风穿过峭壁啸啸吹来，但你抓紧了绳子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>风力变大并将[SkillCheck 1]吹向壁面。[SkillCheck 1]松开绳子并开始向下坠落。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>当风继续吹时，[SkillCheck 0]和[SkillCheck 1]渐渐抓不住绳子了，呻吟着并努力试图抓紧。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>几分钟后，风平息下来，你可以朝洞口爬去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>一阵突然的大风将[SkillCheck 0]吹向悬崖侧面。[SkillCheck 0]大声喊叫，但紧紧抓住摇晃的绳子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>当风继续吹时，[SkillCheck 0]、[SkillCheck 1]和[SkillCheck 2]渐渐抓不住绳子了，呻吟着并努力试图抓紧。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>当风继续吹时，[SkillCheck 0]、[SkillCheck 1]、[SkillCheck 2]和[SkillCheck 3]渐渐抓不住绳子了，呻吟着并努力试图抓紧。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>当风继续吹时，所有人除了[SkillCheck 0]渐渐抓不住绳子了，呻吟着并努力试图抓紧。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>当风继续吹时，所有人渐渐都抓不住绳子了，呻吟着并努力试图抓紧。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>[SkillCheck 0]毫不犹豫伸出手抓住[SkillCheck 1]。重量扭转了[SkillCheck 0]的肩膀，但无疑救下了[SkillCheck 1]的性命。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

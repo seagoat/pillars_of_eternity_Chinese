@@ -1,0 +1,127 @@
+<StringTableFile>
+  <Name>conversations\03_defiance_bay_ondra_gift\03_si_derrin_soul</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一个男孩的尸体躺在你脚边，上面覆盖着泥土和水草。他的手紧抓着一把匕首。附近有一个灵魂在徘徊，它迷失在海边的雾中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[与灵魂接触]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[离开尸体]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>你试图接触这个灵魂。它向你扑了过来，发光的雾状身形击打着你周围的空气。它无法碰到你，但你隐约感受到它抑制不住的怒火。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[拿起匕首]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>男孩死时手握得很紧，不过你还是抽出了匕首。它看上去太大、太贵重，应该不是他的东西。匕首柄上刻着字母“B”。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>这个男孩倒在烂泥和垃圾中间，蜷曲的手掌放在脆弱的胸膛上，手里什么也没有。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>“别紧张，我是来帮助你的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>“最好别跟我玩什么把戏。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>“冷静下来，告诉我发生了什么。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>这个灵魂闪烁着、律动着靠近你，一开始有些胆怯。它在你周围旋转，你感受到在正午跑过一艘艘船时的惊奇、害怕和乐趣。你感到一阵震动，被拉进了咸桅院周围的街道。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>画着浓妆的女人在灯光下醉醺醺的男人间穿梭。父亲又去喝酒了，每天如此。他说他只待几分钟，却要用几个小时。你向守门的男人解释，他只是哈哈一笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>鬼魂退却了，带着疑问。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>“你死了，你必须明白这一点，抛弃执念。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>“生活本就不公平。再活一次也没有区别。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>“你表现得很勇敢，众神会在来世奖励你。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>面对你的挑衅，灵魂非常愤怒，把你传送到妓院外的街上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>戴因的灵魂吸收了这个想法，飘荡在码头附近的海雾中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>酒馆总是有后面。在一条小巷里，两个男人围住了一个女人。她泪流满面，背靠着墙，脸转向一边。他们步步逼近。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>你走上前去。两个男人没注意你，女人却看到了你，她的眼睛表达着恳求。你在另外的场合看过同样的恳求，在你的虚空种妹妹眼睛里，当她被父亲从破旧的摇篮里抱出，扔进水池的时候。那天你很勇敢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>暴徒的腰带上插着一把匕首，你很快拔出了它，插进他的大腿。你很轻巧，但是这还不够。你被牢牢抓住，一只沾满泥土的靴子猛踢你的脸。之后，你只记得冰冷的、咸咸的海水。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[重温戴因的记忆]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>灵魂再一次把你传送到咸桅院外的街上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Trigger Conv Node 32</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

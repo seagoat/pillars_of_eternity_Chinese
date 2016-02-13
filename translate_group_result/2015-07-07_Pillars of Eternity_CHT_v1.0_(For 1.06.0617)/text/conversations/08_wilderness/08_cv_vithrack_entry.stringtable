@@ -1,0 +1,23 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\08_wilderness\08_cv_vithrack_entry</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>3</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>你感覺腦袋裡蠕動著一種非常不適的感覺。突然響起來一聲尖叫，直透你的耳膜，並伴隨著一聲憤怒的吼叫：</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>「入侵者！小偷！」這聲音陌生又尖厲，如閃電一般闖入你的腦子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>每個音節都敲打著你的腦子，但是這句話說完就聽不到這個聲音了。你腦袋嗡嗡作響的不適感也消失了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

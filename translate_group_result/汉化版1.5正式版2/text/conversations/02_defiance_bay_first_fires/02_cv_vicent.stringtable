@@ -1,0 +1,304 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\02_defiance_bay_first_fires\02_cv_vicent</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>58</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“这 共 和 国 的 卑 微 仆 人 有 什 么 能 帮 上 你 的 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“朋 友 ！很 高 兴 再 见 到 你 ！有 什 么 可 以 为 你 效 劳 的 ？”</DefaultText>
+			<FemaleText>“朋 友 ！很 高 兴 再 见 到 你 ！有 什 么 可 以 为 你 效 劳 的 ？”</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“有 好 消 息 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“很 高 兴 再 见 到 你 ，朋 友 。”</DefaultText>
+			<FemaleText>“很 高 兴 再 见 到 你 ，朋 友 。”</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“帕 勒 吉 娜 说 你 需 要 我 的 帮 助 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“你 在 这 里 干 什 么 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>&quot;再 见 。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>DEBUG：Set Conditions for Quest Resolution = True.</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>“是 的 ！非 常 正 确 ！”他 那 高 兴 的 面 容 阴 了 下 来 。“我 听 说 维 萨 诺 先 生 死 亡 了 。这 虽 然 很 遗 憾 ，不 过 他 在 惹 恼 了 那 些 人 后 ，应 该 预 料 到 有 这 可 能 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>“我 同 遗 忘 者 见 面 了 ，但 事 情 并 没 像 你 预 料 地 那 样 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>“哦 ？你 没 了 解 到 他 们 走 私 的 任 何 情 况 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>“是 的 ！没 错 。”他 那 高 兴 的 面 容 阴 了 下 来 。“我 听 说 就 是 你 杀 死 了 维 萨 诺 先 生 。他 受 到 那 惩 罚 ，并 非 没 有 道 理 。不 过 我 相 信 比 起 德 梅 尼 尔 家 族 的 做 法 ，你 可 以 更 迅 速 得 了 结 他 的 生 命 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>“作 为 维 拉 共 和 国 的 大 使 ，我 的 工 作 是 确 保 同 迪 伍 德 之 间 有 着 牢 靠 ，有 益 的 贸 易 关 系 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>“当 然 ！我 听 说 你 跟 德 梅 尼 尔 家 族 的 人 起 了 争 斗 --你 现 在 安 然 无 恙 地 在 这 里 。真 是 不 可 思 议 ！有 你 出 现 ，维 萨 诺 真 是 十 分 幸 运 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>但 是 ，在 商 业 上 面 。一 个 叫 做 遗 忘 者 的 臭 名 昭 著 的 冒 险 小 队 使 他 们 自 己 出 了 名 ，他 们 入 侵 了 迪 伍 德 的 因 格 维 斯 遗 址 ，然 后 把 文 物 卖 给 了 在 维 拉 共 和 国 的 赞 助 者 们 。
+
+我 要 他 们 停 下 来 。你 知 道 买 卖 因 格 维 斯 文 物 在 迪 伍 德 是 被 禁 止 的 。如 果 共 和 国 的 重 要 贵 族 们 被 知 道 公 然 违 反 公 爵 禁 止 掠 夺 因 格 维 斯 遗 址 的 禁 令 ，那 会 使 很 多 价 值 不 菲 的 贸 易 协 定 处 在 危 险 之 中 ，甚 至 反 抗 湾 会 禁 止 与 维 拉 进 行 贸 易 往 来 。我 不 允 许 那 种 事 发 生 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>&quot;&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>目 前 他 们 鬼 鬼 祟 祟 地 在 桥 区 ，显 然 是 在 准 备 着 另 一 次 探 险 。我 要 他 们 快 读 而 安 静 的 被 处 理 掉 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>如 果 没 有 别 的 事 ，我 要 回 到 我 的 岗 位 上 去 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>跟 我 说 说 维 拉 共 和 国 的 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>他 们 在 各 方 面 都 很 充 足 -财 富 ，风 格 ，文 化 。如 果 你 去 过 共 和 国 ，你 就 不 会 想 离 开 了 。你 为 何 离 开 了 ？那 的 人 漂 亮 又 迷 人 。我 来 这 是 因 为 songretta ducala想 要 我 来 ，但 是 一 旦 我 完 成 我 的 约 定 ，我 会 乘 第 一 艘 船 离 开 ，一 路 唱 歌 到 赛 罗 纳 。 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>我 来 找 你 是 因 为 这 个 。你 有 个 相 当 ...积 极 的 声 望 ，我 希 望 你 能 对 抗 遗 忘 者 。也 许 他 们 会 退 却 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>公 爵 已 经 向 我 正 式 控 诉 了 不 止 一 次 了 ，但 是 我 该 怎 么 做 呢 ？遗 忘 者 不 是 维 拉 市 民 ,就 算 他 们 是 ,他 们 的 赞 助 者 在 共 和 国 也 有 很 大 的 势 力 ,我 会 被 发 配 到 苍 运 高 原 的 偏 远 地 区 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>我 来 找 你 是 因 为 这 个 。你 有 着 能 说 服 别 人 按 你 要 求 做 事 的 本 领 ，而 我 想 要 你 来 对 抗 遗 忘 者 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>我 来 找 你 是 因 为 这 个 。你 有 着 能 说 服 别 人 明 白 事 理 的 本 领 ，而 我 想 要 你 来 对 抗 遗 忘 者 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>你 解 决 了 维 萨 诺 的 这 个 情 况 。我 希 望 你 也 能 再 一 次 解 决 遗 忘 者 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>我 只 是 走 运 。共 和 国 著 名 的 商 人 巴 克 兹 先 生 ，也 对 因 格 维 斯 文 物 产 生 了 兴 趣 ，他 派 了 一 位 买 家 到 反 抗 湾 和 遗 忘 者 见 面 。我 安 排 炼 狱 骑 士 扣 留 了 这 个 买 家 询 问 一 些 问 题 -我 可 能 暗 示 了 这 个 买 家 是 个 通 缉 犯 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>我 需 要 一 个 人 来 代 替 买 家 的 角 色 ，假 扮 成 巴 克 兹 的 代 表 ，去 了 解 遗 忘 者 是 怎 么 通 过 反 抗 湾 走 私 文 物 的 。有 了 这 些 了 解 ，我 就 能 采 取 步 骤 分 解 他 们 的 运 转 ，让 他 们 失 信 于 他 们 的 赞 助 者 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>我 会 考 虑 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>拜 托 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>我 会 帮 你 的 。你 想 让 我 做 什 么 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>为 什 么 不 杀 了 他 们 呢 ？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>我 会 考 虑 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>&quot;&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>我 会 帮 你 的 。你 想 让 我 做 什 么 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>他 如 释 重 负 的 笑 了 。“谢 谢 。共 和 国 著 名 的 商 人 巴 克 兹 先 生 ，也 对 因 格 维 斯 文 物 产 生 了 兴 趣 ，他 派 了 一 位 买 家 到 反 抗 湾 和 遗 忘 者 见 面 。我 安 排 炼 狱 骑 士 扣 留 了 这 个 买 家 询 问 一 些 问 题 -我 可 能 暗 示 了 这 个 买 家 是 个 通 缉 犯 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>我 需 要 你 来 代 替 买 家 的 角 色 ，假 扮 成 巴 克 兹 的 代 表 ，去 了 解 遗 忘 者 是 怎 么 通 过 反 抗 湾 走 私 文 物 的 。有 了 这 些 了 解 ，我 就 能 采 取 步 骤 小 心 的 分 解 他 们 的 运 转 ，让 他 们 失 信 于 他 们 的 赞 助 者 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>为 什 么 不 杀 了 遗 忘 者 呢 ？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>他 摇 了 摇 头 。我 现 在 听 到 城 市 公 告 员 ：维 拉 使 节 雇 佣 了 刺 客 ！
+
+不 ，这 个 选 择 对 我 来 说 太 冒 险 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>我 会 考 虑 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>拜 托 了 ，当 然 ，我 相 信 这 里 说 的 话 不 会 传 到 外 面 去 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>公 爵 已 经 向 我 正 式 控 诉 了 不 止 一 次 了 ，但 是 我 该 怎 么 做 呢 ？遗 忘 者 不 是 维 拉 市 民 ,就 算 他 们 是 ,他 们 的 赞 助 者 在 共 和 国 也 有 很 大 的 势 力 ,我 会 被 发 配 到 苍 运 高 原 的 偏 远 地 区 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>我 来 找 你 是 因 为 这 个 。你 有 个 相 当 ...积 极 的 声 望 ，我 希 望 你 能 对 抗 遗 忘 者 。也 许 他 们 会 退 却 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>目 前 他 们 鬼 鬼 祟 祟 地 在 桥 区 ，显 然 是 在 准 备 着 另 一 次 探 险 。我 要 他 们 快 读 而 安 静 的 被 处 理 掉 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>我 来 找 你 是 因 为 这 个 。你 有 着 能 说 服 别 人 按 你 要 求 做 事 的 本 领 ，而 我 想 要 你 来 对 抗 遗 忘 者 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>我 来 找 你 是 因 为 这 个 。你 有 着 能 说 服 别 人 明 白 事 理 的 本 领 ，而 我 想 要 你 来 对 抗 遗 忘 者 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>你 解 决 了 维 萨 诺 的 这 个 情 况 。我 希 望 你 也 能 再 一 次 解 决 遗 忘 者 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>反 抗 湾 当 局 不 知 道 这 些 走 私 是 怎 么 进 行 的 ？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>我 确 定 他 们 听 到 谣 言 了 ，但 是 如 果 他 们 怀 疑 这 是 真 的 话 ，他 们 会 传 唤 我 去 见 面 的 。那 还 没 有 发 生 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>本 来 挺 顺 利 的 ，但 是 他 们 发 现 了 我 不 是 真 正 的 巴 克 兹 的 代 表 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>他 们 的 羽 精 朋 友 在 错 误 的 时 间 出 现 ，现 在 他 们 死 了 。付 钱 给 我 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>我 攻 击 了 他 们 并 杀 死 了 他 们 。那 样 会 更 简 单 点 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>我 明 白 了 。我 很 高 兴 你 活 了 下 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>我 不 是 很 明 白 那 是 什 么 意 思 ，但 是 你 说 他 们 都 死 了 ？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>也 许 对 你 来 说 是 更 简 单 了 。至 少 我 的 手 在 这 件 事 情 上 是 干 净 的 ，因 为 我 只 是 要 你 去 收 集 信 息 ，而 不 是 杀 了 他 们 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>他 揉 了 揉 他 的 下 巴 。 我 希 望 我 能 巧 妙 的 解 决 这 种 状 况 ，但 是 事 情 已 经 这 样 了 。我 不 知 道 会 发 生 什 么 。
+
+但 是 ，这 是 我 的 问 题 ，不 是 你 的 。这 些 宝 石 是 给 你 的 报 酬 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>如 果 有 什 么 被 禁 运 的 话 ，那 一 定 会 是 我 的 头 ！</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+			<DefaultText>我 决 定 帮 你 解 决 走 私 问 题 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+			<DefaultText>这 些 迪 伍 德 人 发 疯 了 。他 们 的 公 爵 被 杀 害 了 ，所 以 他 们 就 几 乎 烧 光 了 这 个 地 方 ？他 抬 起 他 的 头 看 着 天 花 板 。如 此 的 sciòderie。经 过 这 事 之 后 回 到 奥 兹 是 一 种 解 脱 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

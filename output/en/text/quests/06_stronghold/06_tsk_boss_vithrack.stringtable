@@ -1,0 +1,42 @@
+<StringTableFile>
+  <Name>quests\06_stronghold\06_tsk_boss_vithrack</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>懸 賞 ：賽 爾 凱 爾 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>殺 死 賽 爾 凱 爾 ，取 走 他 的 頭 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>把 賽 爾 凱 爾 的 頭 交 給 塞 德 努 亞 的 費 爾 根 典 獄 長 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>一 個 蛛 人 主 教 出 現 在 珍 珠 林 峭 壁 ，有 一 份 賞 金 提 供 給 能 殺 掉 他 的 人 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>賽 爾 凱 爾 是 一 個 強 大 的 蛛 人 主 教 ，他 和 他 的 親 戚 出 現 在 珍 珠 林 峭 壁 。他 們 的 存 在 讓 當 地 人 感 到 緊 張 ，他 們 提 供 賞 金 希 望 我 能 終 結 他 。我 要 帶 回 他 的 頭 來 換 取 獎 勵 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>把 賽 爾 凱 爾 的 頭 交 給 旅 館 的 費 爾 根 典 獄 長 並 換 取 賞 金 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我 拿 到 了 賽 爾 凱 爾 的 賞 金 。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

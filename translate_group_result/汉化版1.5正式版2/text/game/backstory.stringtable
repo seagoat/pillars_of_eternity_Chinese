@@ -1,0 +1,2028 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>game\backstory</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>404</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>未 选 定 背 景 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>你 的 家 庭 属 于 上 流 社 会 ，对 于 那 些 出 身 低 贱 的 人 来 说 ，你 的 教 养 给 你 带 来 了 很 多 好 处 。你 受 过 一 流 的 教 育 ，对 奢 侈 的 聚 会 ，舞 蹈 和 打 猎 运 动 习 以 为 常 ，关 心 大 地 主 的 政 治 权 益 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>你 天 生 对 美 有 特 殊 的 天 赋 ，你 努 力 通 过 你 那 捕 捉 生 活 中 各 处 之 美 的 工 作 来 培 养 这 种 天 赋 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>你 离 家 已 久 ，背 井 离 乡 致 力 于 探 索 边 疆 未 知 的 地 区 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>你 总 是 对 那 些 颐 指 气 使 的 人 没 有 好 脸 色 。最 初 的 一 点 反 叛 性 格 已 经 演 化 成 对 权 威 人 物 ，权 力 结 构 的 极 度 愤 慨 ，你 不 放 过 任 何 表 达 你 不 满 的 机 会 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>你 从 不 在 任 何 一 个 地 方 久 留 。你 不 停 地 从 一 个 镇 子 到 另 一 个 镇 子 ，随 心 所 欲 地 离 开 ，道 路 就 是 你 的 家 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>你 毕 生 追 求 发 现 和 探 索 的 刺 激 ，世 界 的 边 缘 和 未 知 地 方 总 象 是 在 召 唤 着 你 。许 多 人 满 足 于 一 辈 子 生 活 在 一 个 小 镇 里 ，而 那 样 的 生 活 对 你 来 说 无 异 于 死 刑 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>你 在 旷 野 中 谋 生 ，花 费 大 量 时 间 来 演 绎 捕 猎 的 旋 律 ，耐 心 的 等 待 就 象 幕 间 休 息 ，紧 张 的 追 逐 象 狂 热 的 演 奏 ，还 有 那 最 后 的 休 止 符 -终 结 目 标 的 猎 杀 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>就 象 那 些 强 壮 而 聪 明 的 前 辈 一 样 ，你 学 会 了 复 杂 的 捕 猎 技 巧 ，并 用 自 己 的 方 式 将 之 熟 练 地 运 用 到 工 作 中 去 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>在 这 个 到 处 都 是 未 开 化 的 荒 野 ，各 国 边 境 充 满 战 争 的 世 界 ，懂 得 任 何 一 种 战 斗 技 能 都 是 爱 欢 迎 的 。战 斗 就 是 你 的 职 业 ，你 已 经 是 身 经 百 战 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>无 论 是 因 为 能 说 会 道 ，还 是 精 于 算 计 ，又 或 者 善 于 察 颜 观 色 ，也 可 能 仅 仅 是 碰 巧 ，总 之 你 现 在 已 经 成 为 了 一 个 商 人 ，因 你 主 顾 财 力 的 不 同 而 分 别 待 之 以 不 同 的 嘴 脸 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>有 人 在 书 中 或 者 去 神 坛 寻 找 启 示 ，而 对 另 一 些 人 来 说 这 样 做 只 是 私 生 活 的 一 部 分  - 甚 至 可 能 只 是 不 得 不 。神 灵 启 示 的 火 花 已 经 给 你 指 示 了 一 条 路 ，你 所 要 做 的 是 沿 着 它 走 下 去 ，完 成 你 的 使 命 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>抽 象 思 维 ，理 念 冲 突 ，善 恶 ，是 非 观 念 ，追 求 终 极 真 理  - 这 些 一 直 是 让 你 热 血 沸 腾 ，头 脑 加 速 运 转 的 东 西 ，以 至 于 你 已 经 安 排 好 自 己 的 人 生 ，这 样 你 可 以 消 磨 时 间 考 虑 难 以 捉 摸 的 答 案 和 具 有 挑 战 性 的 信 仰 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>你 回 应 了 更 高 的 使 命 ，放 弃 世 俗 生 活 的 自 由 ，只 为 奉 献 给 神 圣 的 精 神 奖 励  - 法 衣 的 人 生 和 神 圣 主 题 的 研 究 ，以 及 他 们 所 持 真 理 的 传 播 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>你 总 是 夺 走 自 己 想 要 的 一 切  - 不 管 是 什 么 或 是 谁 的 。根 据 大 部 分 法 律 ，这 是 盗 窃 ，但 任 何 法 律 对 你 都 没 多 大 用 处 了 ，除 了 你 自 己 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>很 少 有 人 真 正 了 解 被 迫 为 别 人 服 务 ，剥 夺 自 由 和 尊 严 是 什 么 样 的 感 觉 ，但 直 到 最 近 ，这 一 直 是 你 一 生  - 辛 勤 劳 动 ，锁 链 和 主 人 不 断 的 凝 视 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>你 总 是 被 字 母 和 数 字 ，事 实 和 人 物 ，问 题 和 谋 略 弄 得 眼 花 缭 乱 。在 学 术 界 ，你 发 现 了 一 种 置 身 于 自 己 有 兴 趣 事 物 的 方 法 ，自 那 以 后 你 基 本 上 花 费 所 有 时 间 通 过 习 得 知 识 优 化 自 己 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>自 然 界 的 规 律 对 你 来 说 是 个 谜 ，而 你 奉 献 自 己 只 为 摸 清 端 倪  - 揭 开 其 中 的 奥 秘 ，揭 示 小 真 理 将 精 力 集 中 于 大 真 理 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+      <DefaultText>当 前 故 事  测 试 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>当 前 故 事  测 试 2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>过 去 故 事  测 试 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>过 去 故 事  测 试 2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>你 看 到 了 异 时 空 的 景 象 。你 在 大 法 庭 中 漫 步 ，走 向 一 台 巨 大 的 机 器 ，有 个 男 子 站 在 机 器 前 面 。你 想 问 他 点 什 么 ，但 是 又 不 知 道 该 问 什 么 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>后 来 你 又 看 见 了 那 个 男 子 ——据 梅 沃 德 说 ，那 是 前 世 的 视 象 。从 那 个 男 子 对 你 说 的 话 可 见 ，“你 ”是 一 个 年 轻 的 传 教 士 。你 对 他 说 你 生 于 一 个 名 叫 克 雷 顿 的 地 方 ，你 解 释 了 你 为 何 加 入 他 的 教 团 。然 后 他 请 你 起 誓 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>后 来 你 又 看 见 了 那 个 男 子 ——据 梅 沃 德 说 ，那 是 前 世 的 视 象 。从 那 个 男 子 对 你 说 的 话 可 见 ，“你 ”是 一 个 年 轻 的 传 教 士 。你 对 他 说 你 花 了 很 多 时 间 呆 在 一 个 叫 克 雷 顿 的 城 市 ，你 解 释 了 你 为 何 加 入 他 的 教 团 。然 后 他 请 你 起 誓 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>后 来 你 又 看 见 了 那 个 男 子 ——据 梅 沃 德 说 ，那 是 前 世 的 视 象 。从 那 个 男 子 对 你 说 的 话 可 见 ，“你 ”是 一 个 年 轻 的 传 教 士 。你 对 他 说 你 刚 搬 入 一 个 叫 克 雷 顿 的 城 市 ，你 解 释 了 你 为 何 加 入 他 的 教 团 。然 后 他 请 你 起 誓 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>你 第 三 次 遇 到 这 个 你 正 在 找 的 男 子 的 视 象 似 乎 显 示 出 那 是 在 你 上 次 见 到 他 过 了 一 段 时 间 以 后 的 时 候 。你 正 试 图 离 开 教 团 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>你 对 他 解 释 你 看 到 异 教 徒 正 在 做 不 可 告 人 之 事 ，你 不 在 希 望 面 对 这 些 惨 状 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>你 对 他 解 释 你 和 家 人 关 于 你 的 新 信 仰 发 生 了 争 吵 ，他 们 不 接 受 它 ，最 终 拒 绝 和 你 对 话 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>你 对 他 解 释 你 觉 得 你 应 对 一 事 件 负 责 ，异 教 徒 攻 击 了 教 团 ，很 多 传 教 士 受 伤 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>你 对 他 解 释 你 犯 了 无 法 自 辩 的 错 误 ，严 重 程 度 足 以 让 你 被 赶 出 教 团 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>虽 然 你 想 离 开 ，这 男 子 说 服 你 留 了 下 来 ，并 给 你 卸 除 了 一 项 沉 重 的 负 担 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>在 刺 杀 公 爵 的 事 件 中 ，陶 斯 对 你 说 过 什 么 ，让 你 想 起 前 生 的 事 情 。你 看 到 一 个 被 折 磨 的 女 人 ，她 的 身 体 被 拉 伸 着 绑 在 一 个 铁 轮 的 表 面 上 。陶 斯 在 那 里 ，问 她 是 否 祈 求 饶 恕 ，而 她 则 拒 绝 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>在 慌 乱 中 你 看 到 了 陶 斯 的 视 象 。他 想 知 道 你 是 否 认 识 一 个 异 教 徒 女 人 ，她 和 你 一 样 来 自 克 雷 顿 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>你 承 认 你 曾 经 爱 上 过 这 个 异 教 徒 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>你 承 认 异 教 徒 是 你 的 妹 妹 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>你 承 认 异 教 徒 是 你 的 导 师 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>你 承 认 异 教 徒 是 你 的 友 人 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>你 承 认 你 认 识 异 教 徒 ，但 关 系 并 不 熟 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>你 承 认 你 不 曾 遇 见 过 这 个 异 教 徒 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>你 承 认 你 不 曾 遇 见 过 这 个 异 教 徒 ，但 是 你 对 陶 斯 撒 谎 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>在 你 去 双 榆 城 的 路 上 ，你 看 见 过 陶 斯 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>他 称 你 为 “审 判 官 ”，向 周 围 集 结 的 愈 加 骚 动 的 人 群 呼 喊 一 个 异 教 徒 女 人 的 名 字 艾 瓦 拉 •恩 索 斯 。他 寻 求 她 的 理 解 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>他 说 他 知 道 关 于 这 个 女 人 的 事 你 对 他 撒 谎 了 ，他 命 令 你 告 诉 他 你 和 女 人 的 真 实 关 系 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>你 说 出 了 和 艾 瓦 拉 的 关 系 ，他 要 求 你 和 他 一 道 给 她 以 惩 戒 。他 表 示 她 的 罪 行 中 包 括 背 叛 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>你 第 一 次 在 泰 尔 •埃 夫 隆 之 外 和 艾 瓦 拉 交 谈 。她 欢 迎 你 进 入 她 的 营 帐 ，对 有 机 会 叙 旧 很 高 兴 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>你 又 看 到 了 关 于 艾 瓦 拉 的 视 象 ，那 是 在 葬 身 岛 的 岸 边 。她 对 自 己 的 家 乡 十 分 担 心 ，在 考 虑 建 立 一 支 军 队 来 反 抗 陶 斯 的 审 判 。你 按 陶 斯 所 说 ，告 诉 她 她 应 该 到 欧 西 奥 努 斯 寻 求 庇 护 ，而 那 里 的 国 王 已 经 准 备 好 把 她 交 给 审 判 团 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>在 忏 悔 者 之 厅 ，你 看 到 了 艾 瓦 拉 的 审 判 。陶 斯 将 她 判 为 异 端 ，命 令 折 磨 她 ，但 她 毫 不 忏 悔 ——至 少 ，她 没 有 遂 陶 斯 的 意 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>你 发 现 你 身 处 最 早 在 铅 制 之 钥 废 墟 中 见 过 的 宏 伟 大 厅 中 。在 巨 大 的 阿 德 拉 石 柱 底 部 ，你 对 陶 斯 的 幽 灵 说 话 ——你 曾 想 问 他 问 题 的 人 。这 场 对 质 是 关 于 他 在 挽 留 你 留 在 教 团 中 、赢 得 你 的 忠 诚 时 所 撒 的 谎 。你 想 知 道 这 些 神 明 是 否 是 真 实 存 在 的 。他 没 给 你 直 接 的 答 复 。但 是 他 暗 示 如 果 你 一 直 发 问 ，你 就 要 面 临 教 团 的 审 判 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>你 在 开 往 丰 饶 之 谷 的 篷 车 上 病 了 。篷 车 主 派 你 和 他 的 向 导 卡 利 沙 一 起 去 找 药 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>你 找 药 时 被 人 伏 击 了 ，你 回 到 营 地 发 现 愤 怒 的 当 地 人 杀 光 了 营 地 的 人 们 。你 设 法 反 抗 他 们 ，但 差 点 被 一 道 能 将 灵 魂 抽 离 身 体 的 阴 风 杀 死 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>你 逃 入 古 遗 迹 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>你 和 卡 利 沙 逃 入 古 遗 迹 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>你 和 西 奥 丹 逃 入 古 遗 迹 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>你 同 西 奥 丹 和 卡 利 沙 逃 入 古 遗 迹 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>卡 利 沙 表 示 不 赞 同 在 此 歇 息 ，你 可 能 会 在 睡 梦 中 被 人 杀 死 。你 依 然 决 定 在 此 休 息 ，醒 来 发 现 卡 利 沙 已 经 走 了 ，还 拿 走 了 你 的 水 壶 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>你 在 废 墟 远 处 发 现 了 她 的 尸 体 ，她 是 可 怕 命 运 的 牺 牲 者 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>卡 利 沙 表 示 不 赞 同 在 此 歇 息 ，你 可 能 会 在 睡 梦 中 被 人 杀 死 。你 决 定 继 续 前 进 ，虽 然 西 奥 丹 受 了 伤 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>你 从 废 墟 中 离 开 ，发 现 人 们 在 用 某 种 古 老 的 机 械 执 行 某 种 仪 式 。有 个 男 子 在 指 挥 其 他 人 ，你 看 着 他 觉 得 他 对 你 来 说 有 种 古 怪 的 熟 悉 感 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>他 离 开 后 ，机 械 开 始 旋 转 ，发 出 某 种 能 量 ，紧 接 着 是 挟 带 着 像 是 你 先 前 见 过 的 暴 风 的 爆 炸 。它 将 和 男 子 一 起 执 行 仪 式 的 人 变 成 了 灰 烬 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>他 离 开 后 ，机 械 开 始 旋 转 ，发 出 某 种 能 量 ，紧 接 着 是 挟 带 着 像 是 你 先 前 见 过 的 暴 风 的 爆 炸 。它 将 和 男 子 一 起 执 行 仪 式 的 人 变 成 了 灰 烬 ，西 奥 丹 和 卡 利 沙 都 死 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>他 离 开 后 ，机 械 开 始 旋 转 ，发 出 某 种 能 量 ，紧 接 着 是 挟 带 着 像 是 你 先 前 见 过 的 暴 风 的 爆 炸 。它 将 和 男 子 一 起 执 行 仪 式 的 人 变 成 了 灰 烬 ，西 奥 丹 和 卡 利 沙 都 死 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>他 离 开 后 ，机 械 开 始 旋 转 ，发 出 某 种 能 量 ，紧 接 着 是 挟 带 着 像 是 你 先 前 见 过 的 暴 风 的 爆 炸 。它 将 和 男 子 一 起 执 行 仪 式 的 人 变 成 了 灰 烬 ，西 奥 丹 和 卡 利 沙 都 死 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>你 被 爆 炸 击 倒 失 去 了 意 识 ，当 你 醒 来 时 你 感 到 奇 怪 。你 能 看 到 听 到 某 种 东 西 。你 离 开 了 废 墟 ，试 图 徒 步 到 达 丰 饶 之 谷 ，你 也 许 能 在 那 里 找 到 人 治 疗 你 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>当 你 到 达 丰 饶 之 谷 的 时 候 ，你 发 现 这 小 镇 不 再 是 你 曾 被 告 知 的 繁 荣 之 所 了 。你 发 现 这 里 死 气 沉 沉 ，受 一 种 叫 怀 德 温 遗 留 现 象 的 困 扰 ，地 方 官 员 对 你 的 待 遇 也 十 分 冷 淡 。你 曾 期 望 定 居 于 此 ，但 是 当 雷 德 里 克 要 塞 的 钟 声 敲 响 宣 告 领 主 生 下 的 孩 子 并 不 健 康 时 希 望 才 彻 底 破 灭 了 。地 方 官 员 建 议 你 到 酒 馆 休 息 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>你 试 图 睡 觉 ，但 周 围 环 境 中 一 直 充 斥 着 喋 喋 不 休 的 低 语 ，你 做 了 一 个 噩 梦 。你 看 到 一 个 老 矮 人 女 人 被 吊 在 丰 饶 之 谷 中 心 的 树 上 。她 说 了 一 个 词 。“守 望 者 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>地 方 官 确 认 了 你 将 无 法 定 居 于 丰 饶 之 谷 ，甚 至 不 能 在 这 里 停 留 太 久 。你 走 了 那 么 远 ，却 一 无 所 获 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>你 走 到 梦 中 吊 死 老 矮 人 女 人 的 地 方 ，发 现 你 能 通 过 某 种 方 式 和 她 交 谈 。你 获 知 了 你 是 一 个 守 望 者 ，也 许 和 你 曾 在 废 墟 中 和 死 灵 呆 在 一 起 有 关 ，这 让 你 能 够 看 到 其 他 时 空 的 视 象 ，但 老 矮 人 没 法 告 诉 你 更 多 细 节 了 。她 建 议 你 去 找 一 个 叫 梅 沃 德 的 老 守 望 者 ，他 是 此 地 一 座 城 堡 的 领 主 ，也 许 能 帮 上 你 的 忙 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>你 到 达 了 凯 德 •努 阿 ，找 到 了 闹 鬼 的 地 方 ，此 处 看 守 表 示 主 人 下 落 不 明 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>梅 沃 德 在 自 己 的 城 堡 的 地 窖 中 ，想 藏 起 来 以 躲 避 自 己 幻 想 出 来 的 幽 灵 。他 的 灵 魂 因 为 前 生 而 觉 醒 了 ，他 意 识 中 某 些 来 自 过 去 的 矛 盾 似 乎 让 他 濒 临 疯 狂 。他 让 你 小 心 以 免 也 陷 入 这 种 情 况 。然 而 ，他 也 表 示 也 有 办 法 治 好 这 种 情 况 。他 让 你 去 找 铅 制 之 钥 ，那 是 你 曾 经 在 废 墟 中 见 过 的 人 群 ，你 可 以 向 他 们 讨 教 如 何 去 除 觉 醒 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>梅 沃 德 的 身 体 被 他 众 多 前 生 之 一 所 占 据 ，你 被 迫 杀 掉 了 他 。你 将 他 的 灵 魂 绑 定 在 城 堡 中 ，作 为 一 个 守 卫 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>梅 沃 德 的 身 体 被 他 众 多 前 生 之 一 所 占 据 ，你 被 迫 杀 掉 了 他 。你 放 归 了 他 的 灵 魂 ，让 它 去 寻 求 自 己 的 来 生 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>梅 沃 德 的 身 体 被 他 众 多 前 生 之 一 所 占 据 ，你 被 迫 杀 掉 了 他 。你 在 他 的 灵 魂 中 搜 索 有 用 的 知 识 ，发 现 城 堡 地 底 深 处 有 个 藏 有 值 钱 物 品 的 房 间 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>在 第 法 恩 斯 港 ，你 找 到 了 一 个 沃 伊 迪 卡 的 神 庙 ，那 是 传 说 中 支 持 铅 制 之 钥 的 神 明 。但 是 那 神 庙 很 久 之 前 就 被 烧 毁 了 。那 里 盘 踞 的 灵 魂 表 示 地 下 还 有 神 庙 的 一 部 分 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>你 在 第 法 恩 斯 港 地 下 找 到 了 沃 伊 迪 卡 神 庙 ，你 渗 透 进 铅 制 之 钥 ，发 现 了 某 些 值 得 一 查 的 线 索 。他 们 也 许 能 引 你 找 到 你 在 废 墟 中 见 过 的 启 动 机 器 、造 成 你 觉 醒 的 男 子 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>你 在 第 法 恩 斯 港 地 下 找 到 了 沃 伊 迪 卡 神 庙 ，你 杀 掉 了 盘 踞 于 此 的 铅 制 之 钥 成 员 ，发 现 了 某 些 值 得 一 查 的 线 索 。他 们 也 许 能 引 你 找 到 你 在 废 墟 中 见 过 的 启 动 机 器 、造 成 你 觉 醒 的 男 子 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>你 发 现 传 承 之 山 的 地 区 被 废 弃 了 ，上 面 布 满 了 陷 入 腐 朽 的 生 物 ，那 些 生 物 既 不 是 活 着 ，也 没 有 真 正 死 去 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>一 位 通 灵 师 奥 尔 德 海 姆 和 一 位 古 语 言 专 家 伊 堪 萨 虽 然 都 死 了 ，但 是 他 们 的 帮 助 起 了 效 果 。你 得 知 传 承 山 顶 的 机 器 ——名 叫 泰 尔 •诺 尼 斯 ——有 能 力 将 灵 魂 从 生 物 的 身 体 中 吸 走 ，让 尸 体 在 生 物 实 质 死 亡 后 依 然 保 持 鲜 活 。此 外 ，伊 堪 萨 解 释 说 迪 伍 德 还 分 布 有 类 似 的 机 器 作 为 中 继 器 ，能 将 灵 魂 从 一 处 传 输 到 另 一 个 地 方 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>你 让 泰 尔 •诺 尼 斯 的 机 器 停 止 运 转 ，释 放 了 被 它 囚 禁 的 灵 魂 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>你 摧 毁 了 泰 尔 •诺 尼 斯 的 机 器 ，它 囚 禁 的 灵 魂 也 随 之 毁 灭 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>你 没 有 选 择 解 放 灵 魂 或 者 毁 灭 灵 魂 ，而 是 选 择 了 使 用 泰 尔 •诺 尼 斯 机 器 中 囚 禁 的 灵 魂 来 增 强 你 的 威 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>在 科 利 班 •雷 拉 格 的 废 墟 中 ，你 发 现 了 更 多 铅 制 之 钥 成 员 苍 白 的 尸 体 ，他 们 显 然 是 自 我 牺 牲 而 死 的 ，他 们 的 死 催 动 了 当 地 英 格 维 斯 机 器 的 运 转 。作 为 守 望 者 ，你 复 现 了 这 些 人 的 最 后 一 刻 。从 中 你 得 知 了 这 些 机 器 和 怀 德 温 遗 留 现 象 有 关 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>在 布 拉 肯 伯 里 疯 人 院 ，你 找 到 了 你 要 找 的 人 。他 占 据 了 那 里 一 个 病 人 的 躯 体 ，看 起 来 他 在 用 这 幅 躯 体 来 毁 掉 这 个 曾 致 力 于 研 究 怀 德 温 遗 症 ，且 是 迪 伍 德 最 著 名 的 通 灵 师 之 一 的 职 业 生 涯 。这 个 人 对 帮 助 你 觉 醒 没 兴 趣  - 至 少 不 情 愿 。他 匆 匆 从 疯 人 院 退 出 ，把 灵 魂 在 身 体 之 间 来 回 传 递 ，留 下 你 来 清 理 烂 摊 子 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>你 被 敦 里 德 间 谍 机 构 的 韦 伯 女 士 召 唤 ，她 好 像 知 道 你 是 谁 ，你 做 了 些 什 么 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>你 和 韦 伯 女 士 在 哈 德 莱 特 家 族 她 的 会 所 里 见 了 面 。她 想 知 道 你 为 什 么 在 追 踪 铅 制 之 匙 ，她 还 可 以 给 你 讲 讲 你 在 找 的 那 个 人 -陶 斯 •安 卡 农 -他 转 世 重 生 时 带 有 着 前 世 的 所 有 记 忆 ，并 策 划 了 需 要 几 辈 子 才 能 实 现 的 阴 谋 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>你 用 自 己 知 道 的 一 切 让 韦 伯 女 士 相 信 了 在 怀 德 温 遗 症 的 背 后 是 铅 制 之 匙 ，而 他 们 的 阴 谋 涉 及 到 了 由 通 灵 师 来 承 担 过 错 。她 建 议 你 去 阿 瓦 公 爵 那 儿 ，他 现 在 正 在 宫 里 举 行 关 于 通 灵 术 未 来 走 向 的 听 证 会 。她 认 为 如 果 你 能 找 到 听 证 会 的 请 帖 的 话 ，他 也 许 会 听 听 你 的 故 事 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>你 可 以 说 服 十 二 团 众 让 你 加 入 他 们 在 通 灵 术 听 证 会 的 代 表 团 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>你 可 以 说 服 铸 铁 骑 士 团 让 你 加 入 他 们 在 通 灵 术 听 证 会 的 代 表 团 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>你 可 以 说 服 杜 门 朗 家 族 让 你 加 入 他 们 在 通 灵 术 听 证 会 的 代 表 团 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>因 为 你 疏 远 了 所 有 其 它 去 通 灵 术 听 证 会 的 被 邀 请 人 ，韦 伯 女 士 不 情 愿 地 同 意 了 让 你 作 为 敦 里 德 间 谍 机 构 的 代 表 参 加 听 证 会 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>在 通 灵 术 听 证 会 上 ，尽 管 你 提 出 了 反 对 铅 制 之 匙 的 例 子 ，你 同 样 说 服 了 公 爵 通 灵 术 非 常 危 险 ，应 该 被 禁 止 。在 阿 瓦 公 爵 还 没 来 得 及 宣 布 完 毕 之 前 ，陶 斯 占 据 了 一 个 通 灵 师 的 躯 体 ，刺 杀 了 公 爵 ，让 整 个 挑 战 港 陷 入 疯 狂 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>在 通 灵 术 听 证 会 上 ，尽 管 你 提 出 了 反 对 铅 制 之 匙 的 例 子 ，你 同 样 说 服 了 公 爵 通 灵 术 非 常 珍 贵 ，不 应 该 被 禁 止 。在 阿 瓦 公 爵 还 没 来 得 及 宣 布 完 毕 之 前 ，陶 斯 占 据 了 一 个 通 灵 师 的 躯 体 ，刺 杀 了 公 爵 ，让 整 个 挑 战 港 陷 入 疯 狂 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>你 追 随 着 陶 斯 的 踪 迹 来 到 了 敦 里 德 间 谍 机 构 ，那 里 你 发 现 包 括 韦 伯 女 士 在 内 的 所 有 人 都 被 杀 了 。但 通 过 检 查 她 的 灵 魂 的 最 后 一 刻 ，你 知 道 了 陶 斯 接 下 来 去 了 双 生 榆 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>你 在 暴 民 们 杀 戮 通 灵 师 的 一 片 混 乱 中 逃 出 了 挑 战 港 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>在 双 生 榆 ，你 发 现 大 部 分 区 域 禁 止 外 邦 人 入 内 ，但 你 可 以 说 服 阿 门 法 让 你 进 去 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>在 两 棵 巨 大 树 木 的 根 部 ，你 遇 到 了 一 对 姐 妹 。她 们 说 你 被 误 导 了 ，觉 醒 是 不 会 被 消 除 的 ，但 她 们 仍 可 以 看 见 你 的 探 索 的 价 值 ，说 道 如 果 你 能 找 到 困 扰 你 的 灵 魂 的 根 源 ，你 还 是 有 可 能 解 决 它 的 。不 管 是 哪 种 状 况 ，只 有 陶 斯 有 我 需 要 的 知 识 。我 要 追 随 陶 斯 进 入 一 个 英 格 维 斯 秘 密 城 市 ，叫 做 荫 日 之 地 。姐 妹 给 我 指 出 一 条 路 ，但 走 这 条 路 我 必 须 接 受 神 的 干 涉 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>你 和 在 泰 尔 •埃 夫 隆 的 神 们 交 谈 ，得 知 了 陶 斯 的 阴 谋 没 有 因 为 迪 伍 德 通 灵 术 的 毁 灭 而 告 一 段 落 。他 打 算 把 他 替 换 掉 的 灵 魂 献 给 法 治 之 神 沃 伊 迪 卡 ，这 有 可 能 让 她 再 次 支 配 其 它 的 神 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>灾 瘟 之 神 莱 姆 兰 让 你 去 封 锁 通 往 他 的 领 域 的 一 处 门 径 ，冰 刃 缺 口 ，在 他 冰 封 穹 顶 的 神 庙 里 。那 里 现 在 由 一 队 追 寻 着 终 极 死 亡 和 摆 脱 贝 拉 瑟 之 轮 的 翻 滚 的 苍 白 精 灵 所 开 启 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>你 认 为 最 好 帮 助 精 灵 们 实 现 他 们 追 寻 的 终 极 死 亡 ，尽 你 所 能 把 你 的 决 定 解 释 给 灾 瘟 之 神 莱 姆 兰 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>你 按 照 灾 瘟 之 神 莱 姆 兰 的 命 令 封 锁 了 冰 刃 缺 口 ，让 精 灵 们 沉 思 他 们 继 续 的 存 在 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>寻 狩 之 神 格 拉 文 征 募 你 来 帮 助 解 决 他 不 喜 欢 的 一 场 雌 狮 和 熊 的 对 峙 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>你 确 保 了 厄 尔 诺 斯 的 死 亡 ，让 雌 狮 苏 尔 继 续 她 的 统 治 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>你 确 保 了 雌 狮 苏 尔 的 死 去 ，终 结 了 她 的 统 治 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>你 见 证 了 两 只 动 物 的 死 亡 ，在 你 看 来 哪 个 都 配 不 上 统 治 地 位 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>接 引 之 神 贝 拉 瑟 要 求 大 德 鲁 伊 若 斯 汀 和 伊 楼 娜 -金 色 树 林 的 高 阶 奥 瓦 德 -死 去 ，你 见 证 了 他 们 生 命 的 终 结 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>天 羽 之 神 赫 丽 雅 让 你 看 见 她 的 神 庙 上 一 个 恐 怖 之 物 的 幻 象 ，你 在 那 儿 发 现 了 一 只 保 护 自 己 孩 子 的 龙 。你 可 怜 这 只 龙 ，放 它 走 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>天 羽 之 神 赫 丽 雅 让 你 看 见 她 的 神 庙 上 一 个 恐 怖 之 物 的 幻 象 ，你 在 那 儿 发 现 了 一 只 保 护 自 己 孩 子 的 龙 。你 屠 杀 了 这 只 龙 ，让 赫 丽 雅 的 追 随 者 得 以 返 回 这 里 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>你 和 贝 拉 瑟 达 成 了 条 约 ，他 同 意 返 还 陶 斯 从 轮 回 中 偷 来 的 灵 魂 ，使 他 们 可 以 找 到 新 的 身 体 开 始 新 的 生 活 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>你 和 赫 丽 雅 达 成 了 条 约 ，她 同 意 返 还 空 心 种 的 灵 魂 ，使 他 们 回 到 自 己 的 身 体 ，开 始 新 的 生 活 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>你 和 寻 狩 之 神 格 拉 文 ，战 火 之 神 马 格 兰 ，工 匠 之 神 阿 毕 顿 达 成 条 约 ，他 们 同 意 使 用 陶 斯 偷 取 的 灵 魂 来 加 强 尚 存 的 迪 伍 德 人 的 灵 魂 ，使 他 们 在 各 个 方 面 更 加 强 大 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>你 和 灾 瘟 之 神 莱 姆 兰 ，水 月 之 神 盎 卓 ，憎 逆 之 神 斯 坎 达 成 条 约 ，他 们 同 意 将 陶 斯 偷 取 的 灵 魂 分 解 ，将 它 们 的 元 气 分 散 到 以 太 中 ，永 远 不 再 形 成 灵 魂 或 者 占 据 身 体 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>憎 逆 之 神 斯 坎 悄 悄 接 近 你 ，让 你 背 叛 其 它 神 灵 ，接 管 陶 斯 ，篡 夺 他 的 位 置 以 及 给 予 法 治 之 神 沃 伊 迪 卡 威 力 ，你 接 受 了 提 议 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>憎 逆 之 神 斯 坎 悄 悄 接 近 你 ，让 你 背 叛 其 它 神 灵 ，接 管 陶 斯 ，篡 夺 他 的 位 置 以 及 给 予 法 治 之 神 沃 伊 迪 卡 威 力 ，你 拒 绝 了 提 议 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>憎 逆 之 神 斯 坎 悄 悄 接 近 你 ，让 你 背 叛 其 它 神 灵 ，接 管 陶 斯 ，篡 夺 他 的 位 置 以 及 给 予 法 治 之 神 沃 伊 迪 卡 威 力 ，你 对 他 的 提 议 不 置 可 否 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>在 去 荫 日 之 地 的 路 上 ，你 遇 见 了 玄 秘 之 神 卫 奥 ，他 建 议 你 带 着 陶 斯 偷 取 的 灵 魂 前 往 一 处 未 知 之 地 ，制 造 新 的 秘 密 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>被 神 们 遗 留 给 你 的 灵 魂 包 围 着 ，你 跳 进 了 葬 身 岛 顶 点 的 坑 里 ，在 无 尽 的 坠 落 之 后 ，你 活 着 着 陆 在 了 德 里 甘 告 诉 你 的 永 恒 监 狱 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>在 布 雷 斯 伊 曼 的 尽 头 你 遇 见 了 艾 瓦 拉 ，她 很 早 之 前 就 记 得 你 。她 说 你 在 她 被 宣 判 后 来 看 过 她 一 次 ，你 是 来 问 ，她 的 “神 不 是 真 的 ”的 教 导 是 不 是 对 的 。她 给 了 你 一 个 答 案 ，但 没 有 证 据 ，仍 不 让 人 满 意 ，你 去 荫 日 之 地 和 陶 斯 见 面 。她 建 议 道 ，也 许 你 的 灵 魂 仍 在 寻 找 这 个 问 题 的 解 决 方 法 ，尽 管 陶 斯 不 大 可 能 提 供 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>你 丢 下 艾 瓦 拉 在 监 狱 里 ，她 选 择 留 在 那 里 作 为 对 神 们 的 蔑 视 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>你 说 服 了 艾 瓦 拉 加 入 你 摧 毁 陶 斯 ，她 知 道 只 要 陶 斯 还 活 着 ，她 的 幻 象 就 不 会 成 真 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>你 把 艾 瓦 拉 放 逐 到 了 轮 回 中 ，返 回 新 的 身 体 中 ，对 前 世 毫 不 知 情 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>在 荫 日 之 地 ，你 找 到 了 你 很 久 之 前 遇 见 陶 斯 的 会 所 ，在 这 儿 再 次 挑 战 了 他 的 权 威 ，这 次 更 加 成 功 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>你 把 陶 斯 的 灵 魂 放 回 了 轮 回 ，他 也 许 被 迫 此 生 始 终 铭 记 自 己 的 失 败 ，以 及 了 解 自 己 任 务 的 徒 劳 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>你 把 陶 斯 的 灵 魂 撕 碎 了 ，对 于 一 个 被 铅 制 之 匙 保 护 的 肩 负 如 此 重 担 的 人 来 说 ，是 种 慈 悲 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>你 把 陶 斯 的 灵 魂 送 到 了 布 雷 斯 伊 曼 ，宣 判 它 永 远 地 留 在 那 里 ，给 所 有 他 冤 枉 的 人 平 反 ，防 备 着 他 永 远 不 能 实 施 阴 谋 诡 计 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>你 相 信 陶 斯 配 得 上 一 个 新 的 开 始 ，你 把 他 的 过 往 从 他 的 灵 魂 中 抹 去 ，给 了 他 一 个 机 会 ，也 许 ，过 上 正 常 的 生 活 ，没 有 可 怕 知 识 和 怀 疑 的 生 活 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>作 为 对 他 的 罪 行 和 他 对 你 个 人 的 轻 蔑 ，你 把 陶 斯 的 灵 魂 撕 碎 了 ，永 远 地 摧 毁 了 他 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>随 着 陶 斯 的 死 去 ，最 后 你 收 到 了 神 们 本 性 和 起 源 的 证 实 ，那 个 答 案 给 你 的 灵 魂 带 来 少 许 慰 藉 。幻 象 和 轻 语 消 退 了 。剩 下 需 要 做 的 是 决 定 怎 么 处 理 困 在 荫 日 之 地 的 灵 魂 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>你 来 自 [Player Culture]，你 生 于 王 室 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>你 来 自 [Player Culture]，你 的 家 族 用 财 富 换 来 贵 族 头 衔 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>你 来 自 [Player Culture]，你 的 家 族 身 居 高 位 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>你 是 个 来 自 [Player Culture]的 演 员 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>你 来 自 [Player Culture]，职 业 是 工 匠 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>你 来 自 [Player Culture]，是 名 艺 术 家 ，追 求 着 用 自 己 的 方 式 描 绘 世 界 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>尽 管 你 本 来 属 于 [Player Culture]，你 最 终 为 了 追 寻 财 富 脱 离 了 那 里 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>尽 管 你 本 来 属 于 [Player Culture]，你 为 了 逃 避 迫 害 选 择 在 别 处 定 居 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>尽 管 你 本 来 属 于 [Player Culture]，当 征 服 新 大 陆 的 召 唤 袭 来 时 你 离 去 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>来 自 [Player Culture]，你 加 入 了 那 里 的 反 抗 事 业 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>你 来 自 [Player Culture]，你 是 名 间 谍 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>你 来 自 [Player Culture]，你 因 为 犯 罪 被 起 诉 ，是 名 罪 犯 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>你 来 自 [Player Culture]，你 很 小 就 是 名 孤 儿 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>尽 管 开 始 来 自 [Player Culture]，但 骗 子 的 生 活 方 式 让 你 不 能 一 直 在 一 个 地 方 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>你 来 自 [Player Culture]，你 一 直 在 不 停 搬 家 来 躲 避 追 寻 你 的 人 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>尽 管 你 来 自 [Player Culture]，你 最 近 大 部 分 时 间 在 海 上 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>来 自 [Player Culture]，你 选 择 住 在 边 疆 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>尽 管 你 来 自 [Player Culture]，你 现 在 待 在 海 上 ，在 互 相 征 战 的 人 之 间 生 活 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>你 来 自 [Player Culture]，在 荒 野 里 过 着 独 居 生 活 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>你 来 自 [Player Culture]，你 发 现 了 自 己 被 召 唤 作 为 怪 兽 猎 手 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>你 来 自 [Player Culture]，你 通 过 捕 猎 和 收 集 来 谋 生 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>你 来 自 [Player Culture]，你 通 过 捕 鱼 来 谋 生 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>你 来 自 [Player Culture]，你 被 训 练 为 铁 匠 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>你 来 自 [Player Culture]，你 暂 时 作 为 建 造 者 工 作 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>你 来 自 [Player Culture]，你 作 为 厨 师 被 雇 用 来 准 备 饭 菜 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>你 来 自 [Player Culture]，你 最 终 加 入 了 军 队 ，并 参 与 了 战 争 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>你 来 自 [Player Culture]，你 是 个 雇 佣 兵 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>你 来 自 [Player Culture]，你 追 寻 着 各 种 探 险 ，靠 掠 夺 生 存 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>你 来 自 [Player Culture]，你 在 各 个 港 口 间 走 私 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>你 来 自 [Player Culture]，负 责 给 船 只 领 航 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>在 你 的 家 乡 ，[Player Culture]，你 有 自 己 的 店 面 ，和 当 地 人 交 易 商 品 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>作 为 在 [Player Culture]的 神 学 家 ，你 把 时 间 花 费 在 学 习 宗 教 主 义 上 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>你 来 自 [Player Culture]，当 你 开 始 体 验 到 心 灵 幻 象 时 ，你 的 生 活 改 变 了 方 向 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>在 你 的 家 乡 ，[Player Culture]，你 选 择 了 作 为 僧 侣 的 苦 行 生 活 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>在 你 的 家 乡 ，[Player Culture]，你 选 择 了 作 为 僧 侣 的 苦 行 生 活 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>在 你 的 家 乡 ，[Player Culture]，你 在 教 学 方 面 找 到 了 方 向 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>你 来 自 [Player Culture]，你 逐 渐 开 始 怀 疑 现 实 本 身 ，质 疑 着 有 什 么 值 得 相 信 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>曾 作 为 你 家 乡 [Player Culture]的 牧 师 的 一 员 ，你 最 终 选 择 了 放 弃 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>你 来 自 [Player Culture]，你 引 领 着 一 个 忠 诚 的 崇 拜 者 的 集 会 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>来 自 [Player Culture]，你 内 心 深 深 的 信 仰 激 励 着 你 去 把 它 传 递 给 其 他 人 ，你 成 为 了 传 教 士 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>在 你 的 家 乡 ，[Player Culture]，你 把 信 仰 当 作 了 操 控 的 方 式 ，利 用 他 人 的 信 任 来 剥 削 他 们 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>在 你 的 家 乡 ，[Player Culture]，你 通 过 获 取 他 人 财 产 来 谋 生  - 不 是 交 易 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>你 本 来 来 自 [Player Culture]，然 而 海 上 掠 夺 让 你 过 上 了 海 盗 的 生 活 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>来 自 [Player Culture]，你 是 个 抢 劫 旅 行 者 和 脆 弱 村 子 的 强 盗 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>在 你 的 家 乡 ，[Player Culture]，你 被 贩 卖 为 一 艘 大 帆 船 上 的 奴 隶 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>你 来 自 [Player Culture]，你 在 田 间 努 力 工 作 ，生 活 的 奴 隶 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>你 来 自 [Player Culture]，但 巨 额 债 务 让 你 成 为 了 契 约 劳 役 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>作 为 你 家 乡 [Player Culture]的 一 名 学 者 ，你 沉 浸 在 自 身 文 化 以 及 整 个 世 界 的 历 史 中 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>你 来 自 [Player Culture]，一 个 专 注 与 神 秘 事 物 的 学 生 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>来 自 [Player Culture]，你 受 过 战 斗 艺 术 的 教 育 ，像 其 他 人 学 习 语 言 或 数 学 那 样 学 习 战 争 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>在 你 的 家 乡 ，[Player Culture]，你 使 用 自 己 的 科 学 知 识 来 解 决 犯 罪 以 及 追 踪 罪 犯 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>在 你 的 家 乡 [Player Culture]，你 的 自 然 知 识 使 你 可 以 从 植 物 中 提 取 强 大 的 物 质 来 改 变 人 们 的 精 神 和 肉 体 ，你 用 这 些 物 质 来 和 其 他 人 交 换 来 获 取 好 处 与 利 益 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>在 你 的 家 乡 ，[Player Culture]，你 培 养 了 对 自 然 最 基 本 元 素 ，以 及 它 们 之 间 的 转 化 的 兴 趣 ，这 使 你 成 为 了 一 名 炼 金 术 士 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>但 你 的 王 室 之 血 让 你 成 为 嫉 妒 和 阴 谋 的 对 象 ，一 次 对 你 的 刺 杀 最 终 迫 使 你 背 井 离 乡 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>然 而 ，你 失 宠 了 ，被 剥 夺 了 家 族 的 继 承 权 。身 无 长 物 ，你 收 拾 了 一 下 离 开 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>但 哪 怕 是 皇 室 也 会 在 不 能 保 住 宝 座 时 逃 离 。你 的 家 族 被 颠 覆 了 ，它 的 统 治 终 结 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>但 成 为 王 室 不 是 你 想 要 的 ，你 逃 离 了 你 伴 随 血 脉 而 来 的 责 任 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>然 而 ，王 室 之 血 也 没 什 么 价 值 ，当 你 不 是 宝 座 的 接 班 人 时 ，你 在 那 儿 徘 徊 也 没 什 么 用 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>但 你 的 家 族 的 秘 密 不 会 一 直 保 持 下 去 ，当 你 们 家 族 的 头 衔 的 来 源 公 之 于 众 ，你 就 会 失 宠 ，不 再 和 其 他 的 贵 族 平 起 平 坐 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>但 拥 有 头 衔 和 人 民 知 道 你 的 头 衔 是 两 回 事 。你 的 家 族 从 没 能 说 服 其 他 人 它 的 贵 族 的 正 统 性 ，继 续 假 装 也 没 什 么 希 望 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>但 你 的 家 族 同 样 有 着 敌 人 ，最 终 你 的 对 手 会 用 恶 毒 的 谎 言 玷 污 你 的 家 族 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>但 它 只 立 足 于 名 字 ，财 富 被 浪 费 了 ，而 它 的 衰 退 好 像 是 免 不 的 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>但 你 不 受 你 的 家 族 的 青 睐 ，如 果 可 以 的 话 他 们 早 就 否 认 你 的 存 在 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>但 尽 管 社 会 高 看 他 们 一 眼 ，你 却 没 有 这 种 感 情 ，宁 可 不 和 他 们 有 什 么 牵 连 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>但 是 你 在 的 剧 团 解 散 了 ，你 被 迫 自 己 想 办 法 谋 生 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>但 演 出 只 在 精 彩 的 时 候 才 会 盈 利 ，不 幸 的 是 ，你 的 激 情 和 你 的 才 能 不 相 称 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>但 演 出 也 是 有 风 险 的 ，一 场 糟 糕 的 事 故 让 你 不 得 不 重 新 评 价 你 的 生 涯 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>你 费 尽 全 力 谋 生 ，但 地 主 制 定 的 税 率 让 生 活 对 你 变 得 格 外 艰 难 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>但 当 初 很 有 前 途 的 职 业 ，在 你 付 出 数 年 时 间 却 失 去 学 徒 身 份 时 被 打 断 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>但 你 的 天 赋 招 致 了 憎 恨 ，残 忍 的 破 坏 行 为 让 你 前 途 无 量 的 生 涯 突 然 止 步 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>但 事 实 是 你 看 待 这 个 世 界 的 方 式 让 其 它 人 害 怕 与 困 惑 ，你 通 过 你 的 艺 术 来 谋 生 的 想 法 夭 折 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>当 你 一 天 回 到 工 作 间 ，发 现 数 年 的 心 血 被 偷 走 了 ，一 个 铜 板 都 没 给 你 剩 下 ，所 有 的 一 切 都 改 变 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>但 艺 术 只 在 运 动 的 时 候 才 是 成 功 的 ，而 艺 术 只 在 有 灵 感 的 时 候 才 会 运 动 。你 的 灵 感 来 源 随 着 时 间 流 逝 枯 竭 了 ，发 现 没 什 么 可 以 替 代 它 们 ，你 的 生 涯 倒 塌 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>但 不 管 你 怎 么 寻 找 都 不 会 给 你 带 来 你 想 要 的 财 富 ，最 后 留 在 这 里 也 没 什 么 价 值 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>你 追 寻 着 其 他 人 有 关 财 富 的 故 事 ，却 发 现 自 己 来 得 太 晚 了 ，那 片 土 地 被 扫 空 了 ，所 有 的 资 源 都 耗 尽 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>但 这 种 生 活 方 式 不 让 你 满 意 ，终 于 你 意 识 到 是 时 候 继 续 前 进 下 去 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>这 次 逃 走 还 不 够 ，你 的 迫 害 者 还 会 追 上 来 的 ，你 被 迫 再 次 迁 移 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>但 你 来 到 的 地 方 和 你 离 开 的 地 方 一 个 样 子 ，很 快 你 在 这 儿 也 不 受 欢 迎 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>但 你 选 择 的 地 方 距 离 那 些 会 对 你 不 利 的 人 不 太 远 ，担 心 着 有 一 天 醒 来 发 现 他 们 在 你 门 前 吓 坏 了 你 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>但 这 片 土 地 不 会 被 制 服 。你 的 村 庄 被 一 群 感 觉 受 到 威 胁 的 土 著 烧 毁 了 ，什 么 都 没 给 你 剩 下 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>然 而 吸 引 会 日 益 减 小 ，因 为 你 以 征 服 土 地 的 名 义 犯 下 的 罪 行 让 你 良 心 备 受 谴 责 。最 后 ，你 感 觉 自 己 必 须 把 它 抛 在 身 后 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>但 这 片 土 地 掀 起 了 比 你 设 想 的 更 大 的 战 斗 ，因 为 你 的 移 民 队 对 它 遇 到 的 新 疾 病 没 有 任 何 抵 抗 。人 口 骤 减 ，你 能 活 着 已 经 非 常 幸 运 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>但 很 少 有 反 抗 者 会 胜 利 ，你 的 事 业 在 对 手 的 铁 蹄 下 钝 击 了 ，留 下 你 没 什 么 可 抗 争 的 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>这 个 事 业 开 始 看 起 来 很 高 尚 ，但 一 旦 掌 权 后 ，你 就 发 现 这 个 政 权 和 它 推 翻 的 那 个 别 无 二 致 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>然 而 ，你 很 快 明 白 了 战 争 的 真 相 ，而 你 也 对 它 失 去 了 兴 趣 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>但 你 的 工 作 终 于 招 致 了 危 险 ，你 在 任 务 中 被 发 现 了 。你 逃 脱 了 追 捕 ，但 你 的 身 份 已 经 曝 光 ，你 的 家 已 经 不 再 安 全 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>一 份 充 满 诱 惑 的 提 议 让 你 出 卖 了 你 的 雇 主 ，这 一 举 动 让 继 续 在 家 乡 格 外 危 险 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>但 你 的 工 作 需 要 太 多 的 道 德 上 的 妥 协 ，而 一 旦 你 完 成 不 了 任 务 ，你 的 性 命 就 岌 岌 可 危 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>终 于 ，你 度 过 了 自 己 的 刑 期 ，被 释 放 到 了 世 上 ，寻 找 着 自 己 的 位 置 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>那 里 ，你 感 觉 自 己 的 刑 期 太 长 了 ，通 过 越 狱 来 大 幅 缩 短 了 它 ，相 对 于 在 押 ，你 选 择 了 在 逃 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>你 终 于 被 假 释 了 ，但 自 由 的 诱 惑 太 过 强 烈 ，你 选 择 了 做 一 名 逃 犯 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>但 孤 儿 院 不 是 你 呆 的 地 方 ，你 决 定 有 一 天 要 把 它 彻 底 烧 毁 ，在 任 何 人 发 现 之 前 逃 离 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>没 有 关 心 你 的 父 母 ，你 从 没 有 找 到 过 安 稳 下 来 的 家 和 理 由 ，一 天 又 一 天 你 离 出 生 地 越 来 越 远 ，好 像 是 在 满 足 你 自 己 也 不 明 白 的 什 么 渴 望 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>尽 管 世 上 满 是 孤 儿 ，你 是 那 种 出 于 选 择 没 有 父 母 的 稀 少 孤 儿 ，他 们 都 被 你 亲 手 杀 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>确 实 ，你 被 那 些 为 你 所 骗 的 受 害 者 追 赶 着 ，匆 匆 离 开 最 后 一 个 城 镇 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>欺 骗 他 人 的 艺 术 最 终 对 你 没 了 吸 引 力 ，对 新 的 开 始 的 渴 望 推 动 着 你 踏 上 新 的 道 路 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>但 世 上 确 实 有 那 种 至 死 也 会 追 赶 骗 子 的 人 ，你 碰 巧 骗 了 一 个 这 种 人 。逃 到 遥 远 的 地 方 好 像 是 最 明 智 的 做 法 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>他 们 似 乎 认 为 你 有 什 么 对 他 们 很 宝 贵 的 东 西 ，他 们 决 心 要 从 你 手 中 夺 过 来 。你 唯 一 的 选 择 是 继 续 前 进 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>你 把 那 种 会 无 所 不 为 来 危 害 你 的 人 树 为 敌 人 ，他 们 也 确 实 这 么 做 了 。你 唯 一 的 选 择 是 继 续 前 进 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>但 至 于 他 们 为 什 么 找 你 ，你 不 清 楚 。你 知 道 的 是 ，你 必 须 继 续 前 进 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>然 而 ，你 航 海 的 日 子 很 快 就 结 束 了 ，你 的 船 被 海 盗 攻 击 并 被 摧 毁 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>然 而 ，不 管 你 在 那 儿 找 什 么 ，你 没 有 找 到 ，现 在 你 在 寻 找 新 的 方 向 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>但 海 洋 是 片 孤 独 的 地 方 ，你 发 现 自 己 需 要 在 文 明 的 陪 伴 下 才 能 和 世 界 和 平 相 处 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>但 那 儿 的 情 况 很 不 乐 观 ，逼 着 你 去 生 活 过 的 故 地 大 开 杀 戒 ，还 要 你 去 推 翻 对 周 遭 事 物 的 看 法 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>但 是 ，边 境 的 生 活 就 是 这 么 孤 苦 伶 仃 ，看 来 你 还 承 受 不 住 这 份 空 虚 啊 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>在 这 远 离 文 明 世 界 的 蛮 荒 之 地 居 住 ，你 和 附 近 的 其 他 人 非 常 容 易 遭 受 攻 击 。有 一 天 ，一 群 凶 狠 的 劫 匪 袭 击 了 你 ，你 被 抢 劫 一 空 ，无 家 可 归 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>曾 有 一 时 ，你 和 他 们 一 同 烧 杀 抢 掠 ，但 最 后 你 觉 得 这 无 济 于 事 ，于 是 决 定 动 身 离 开 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>曾 有 一 时 ，你 和 他 们 一 同 烧 杀 抢 掠 ，但 迟 早 你 的 家 乡 就 会 成 为 他 们 下 一 个 下 手 的 目 标 。你 见 不 得 这 样 的 事 情 发 生 ，毫 不 犹 豫 地 离 开 了 他 们 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>曾 有 一 时 ，你 和 他 们 一 同 烧 杀 抢 掠 ，但 你 意 识 到 这 不 能 让 你 满 足 ，你 想 做 一 番 更 大 的 事 业 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>丰 饶 之 谷 之 行 让 你 有 了 安 定 下 来 ，开 始 一 段 新 生 活 的 机 会 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>你 希 望 能 在 丰 饶 之 谷 中 保 持 低 调 ，以 免 惹 来 不 必 要 的 麻 烦 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>到 达 丰 饶 之 谷 后 ，你 便 开 始 计 划 你 的 未 来 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>你 决 定 前 往 丰 饶 之 谷 ，好 与 过 去 的 生 活 一 刀 两 断 ，早 断 早 了 ，你 决 定 尽 快 动 身 离 开 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>丰 饶 之 谷 仅 仅 是 你 的 第 一 站 ，与 此 同 时 ，你 充 满 期 待 地 向 那 座 城 市 走 去 ，想 看 看 前 方 等 待 着 你 的 是 什 么 样 的 生 活 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>对 你 而 言 ，丰 饶 之 谷 仅 仅 是 个 中 转 站 ，不 久 你 就 会 离 开 那 里 ，寻 找 新 的 目 的 地 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>丰 饶 之 谷 仅 仅 是 你 新 生 活 开 始 的 第 一 站 ，你 觉 得 你 不 会 在 此 逗 留 太 久 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>你 怀 揣 着 英 雄 梦 你 前 往 迪 尔 伍 德 ，在 丰 饶 之 谷 定 居 下 来 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>丰 饶 之 谷 对 你 而 言 是 完 全 不 同 的 景 象 ，但 你 并 不 想 因 此 改 变 你 生 活 的 方 式 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>你 前 往 丰 饶 之 谷 ，期 望 着 一 场 大 冒 险 能 让 你 改 头 换 面 ，重 获 新 生 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>到 达 丰 饶 之 谷 后 ，你 不 想 因 卷 入 什 么 麻 烦 而 浪 费 时 间 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>到 达 丰 饶 之 谷 的 第 一 件 是 ，就 是 为 你 自 己 找 些 新 朋 友 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>你 千 辛 万 苦 达 到 了 丰 饶 之 谷 ，但 这 远 不 是 你 期 望 的 终 点 ，你 想 知 道 生 活 到 底 会 把 你 带 向 何 方 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>你 急 于 证 明 自 己 ，把 目 光 瞄 准 了 一 头 非 比 寻 常 的 野 兽 ，但 你 高 估 了 自 己 。你 的 狩 猎 小 队 几 乎 全 军 覆 没 ，你 只 能 一 个 人 战 斗 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>尽 管 你 冒 着 很 大 的 风 险 ，但 你 救 下 的 那 些 人 都 没 表 示 感 谢 。久 而 久 之 ，你 开 始 心 生 厌 恶 ，觉 得 自 己 所 作 的 努 力 一 文 不 值 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>你 急 于 证 明 自 己 ，把 目 光 瞄 准 了 一 头 小 有 名 气 的 野 兽 ，但 最 后 却 发 现 你 的 目 标 已 经 死 去 。你 心 灰 意 冷 ，决 定 离 开 故 乡 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>但 时 逢 饥 馑 ，你 被 迫 前 往 更 远 的 地 方 寻 找 猎 物 。你 周 围 的 许 多 人 都 在 忍 饥 挨 饿 ，这 段 记 忆 在 你 的 脑 海 里 挥 之 不 去 。你 放 手 一 搏 ，希 望 再 也 不 要 生 活 在 这 样 的 苦 难 之 中 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>在 一 次 狩 猎 途 中 ，一 次 意 外 夺 去 了 你 同 伴 的 生 命 。你 因 这 次 事 件 而 备 受 指 责 ，不 久 之 后 ，你 开 始 受 到 周 围 人 的 排 挤 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>但 你 的 抱 负 远 不 止 于 当 一 名 猎 人 。你 的 同 乡 因 为 你 作 出 的 选 择 而 对 你 指 责 再 三 ，你 备 受 屈 辱 ，决 定 离 开 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>但 是 你 的 渔 船 被 几 艘 更 大 的 船 超 越 了 ，鱼 的 储 量 随 着 时 间 的 流 逝 越 来 越 吃 紧 了 。你 不 愿 在 此 忍 饥 挨 饿 ，决 定 收 拾 收 拾 ，离 开 这 里 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>但 一 场 强 劲 的 暴 风 雨 毫 无 征 兆 地 降 临 了 ，你 的 船 被 海 浪 打 翻 。你 的 所 有 努 力 都 化 为 了 泡 影 ，被 迫 去 开 始 新 的 生 活 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>但 养 家 糊 口 的 担 子 越 来 越 重 。你 决 定 离 开 ，把 责 任 都 抛 在 脑 后 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>虽 然 师 傅 给 予 了 你 指 导 ，但 他 丝 毫 没 有 让 你 参 与 竞 争 的 意 思 。由 于 没 有 建 立 贸 易 的 途 径 ，你 不 得 不 把 目 光 抛 向 国 外 去 寻 找 机 会 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>但 你 的 训 练 因 为 师 傅 的 意 外 身 亡 而 中 断 了 。没 有 了 学 成 出 师 的 希 望 ，你 被 迫 动 身 离 开 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>你 有 着 无 与 伦 比 的 天 赋 ，但 你 周 围 的 人 却 都 不 愿 承 认 。你 心 灰 意 冷 ，决 定 动 身 寻 找 一 个 能 更 受 到 赏 识 的 地 方 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>但 由 于 一 个 计 划 上 的 小 失 误 ，你 的 一 座 建 筑 倒 塌 了 ，造 成 了 数 人 死 亡 。你 的 事 业 戛 然 而 止 ，你 也 因 此 离 开 ，去 寻 找 一 个 你 可 以 隐 姓 埋 名 的 新 地 方 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>曾 几 何 时 ，你 也 备 受 瞩 目 ，靠 修 建 大 楼 赚 了 很 多 钱 。但 地 产 市 场 迅 速 萎 靡 ，你 也 被 迫 背 井 离 乡 ，去 寻 找 别 的 工 作 机 会 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>你 结 识 了 一 位 生 意 伙 伴 ，只 要 你 们 同 心 协 力 ，就 一 定 能 过 上 富 足 的 生 活 。丹 但 他 算 计 了 你 ，把 你 的 钱 全 投 进 了 他 自 己 的 生 意 中 去 。你 所 信 任 的 朋 友 一 个 个 都 背 叛 了 你 ，你 不 得 不 靠 自 己 去 闯 荡 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>你 发 现 你 的 雇 主 是 个 不 可 理 喻 之 人 ，因 此 决 定 马 上 辞 职 走 人 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>有 一 天 ，你 朝 一 个 贵 族 的 食 物 里 大 吐 口 水 ，想 以 此 让 他 难 堪 。这 让 你 付 出 了 极 大 的 代 价 。他 让 你 的 生 活 变 得 苦 不 堪 言 ，你 趁 事 态 尚 未 进 一 步 升 级 ，赶 紧 逃 出 了 你 的 家 乡 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>不 仅 贵 族 家 里 的 金 银 珠 宝 已 经 唾 手 可 得 ，你 还 勾 搭 上 了 一 位 阔 气 的 老 爷 。但 他 的 妻 子 发 现 了 端 倪 ，她 立 即 悬 赏 要 拿 你 的 人 头 ，你 被 迫 开 始 逃 亡 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>不 仅 贵 族 家 里 的 金 银 珠 宝 已 经 唾 手 可 得 ，你 还 勾 搭 上 了 一 位 高 贵 的 夫 人 。但 她 的 丈 夫 发 现 了 端 倪 ，他 立 即 悬 赏 要 拿 你 的 人 头 ，你 被 迫 开 始 逃 亡 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>但 你 的 雇 主 并 不 欣 赏 你 在 烹 饪 方 面 的 杰 出 才 华 ，渐 渐 地 ，你 对 他 们 庸 俗 的 品 味 心 生 不 满 。从 而 你 决 定 要 把 你 的 功 夫 下 到 别 处 去 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>你 来 自 [Player Culture]，在 那 你 担 任 着 治 安 官 的 工 作 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>随 着 斗 争 的 继 续 进 行 ，你 越 发 确 定 你 效 忠 错 了 人 。战 争 一 结 束 ，你 就 离 开 了 ，把 一 切 悔 恨 都 抛 在 了 脑 后 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>很 多 英 勇 的 战 士 都 在 战 死 沙 场 ，战 争 结 束 后 ，在 你 眼 前 消 逝 的 生 命 始 终 在 你 脑 海 里 挥 之 不 去 。你 离 开 了 故 乡 ，希 望 在 旅 途 中 慢 慢 忘 却 这 段 记 忆 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>你 一 直 以 来 都 是 一 名 士 兵 ，你 磨 练 着 作 战 技 巧 就 是 为 了 有 朝 一 日 能 上 战 场 杀 敌 。由 于 迟 迟 没 有 开 战 的 消 息 ，你 启 程 离 开 家 乡 ，对 未 来 充 满 了 迷 茫 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>你 靠 打 仗 谋 生 ，但 你 家 乡 的 工 作 已 经 所 剩 无 几 ，你 被 迫 流 离 海 外 ，谋 求 生 计 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>雇 佣 兵 的 生 活 开 销 不 菲 ，你 不 久 便 欠 下 了 债 务 ，而 债 主 是 个 危 险 的 人 物 。你 启 程 寻 找 工 作 ，趁 他 还 没 悬 赏 要 你 的 人 头 ，赶 紧 把 钱 还 清 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>佣 兵 的 工 作 让 你 恶 名 昭 著 ，你 斩 恶 无 数 ，但 却 对 他 们 背 后 的 真 相 一 无 所 知 。你 决 心 去 一 个 可 以 让 你 隐 姓 埋 名 的 地 方 ，开 始 一 段 新 生 活 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>但 是 在 一 天 晚 上 的 庆 功 宴 上 ，你 酒 后 与 人 发 生 斗 殴 ，对 方 有 钱 有 势 ，非 常 记 仇 。于 是 你 离 开 了 小 镇 ，试 图 逃 里 他 的 魔 爪 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>但 你 的 最 后 一 场 冒 险 却 以 灾 难 收 尾 ，有 数 人 在 灾 难 中 丧 生 。你 因 此 离 开 ，试 图 把 这 事 抛 至 脑 后 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>你 接 手 了 一 份 报 酬 丰 厚 的 工 作 ，但 不 久 却 发 现 你 的 老 板 对 你 非 常 苛 求 。在 他 把 你 炒 了 之 后 ，你 周 围 的 同 伴 也 纷 纷 离 去 。你 在 故 乡 近 乎 一 无 所 有 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>久 而 久 之 ，惊 险 刺 激 的 冒 险 生 活 也 不 再 能 吸 引 你 。你 决 定 出 发 去 探 寻 与 之 不 同 的 事 物 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>但 你 和 你 的 同 伴 被 一 大 群 匪 徒 打 败 了 。他 们 占 领 了 小 镇 ，建 立 了 他 们 的 统 治 ，你 趁 他 们 还 没 把 你 五 花 大 绑 ，赶 紧 逃 离 了 小 镇 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>你 的 工 作 虽 然 非 常 重 要 ，但 报 酬 却 微 乎 其 微 ，你 入 不 敷 出 ，四 处 乞 讨 。于 是 你 决 定 去 别 处 闯 荡 ，希 望 能 找 到 报 酬 丰 厚 的 工 作 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>你 作 出 的 所 有 努 力 都 未 能 阻 止 人 们 受 到 伤 害 ，久 而 久 之 ，你 的 任 务 好 像 已 经 失 去 了 意 义 。留 在 这 里 做 无 用 功 似 乎 没 有 任 何 意 义 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>这 生 意 利 润 丰 厚 ，但 也 伴 随 着 较 大 的 风 险 。你 的 一 个 竞 争 对 手 向 政 府 出 卖 了 你 ，你 险 些 就 落 在 他 们 手 里 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>你 对 运 送 货 物 的 种 类 非 常 小 心 谨 慎 。但 你 的 一 个 顾 客 使 了 诈 ，让 你 去 运 送 你 根 本 不 允 许 运 送 的 货 物 ，你 因 此 发 誓 再 也 不 干 这 一 行 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>这 生 意 利 润 丰 厚 ，但 也 伴 随 着 较 大 的 风 险 。你 在 一 单 大 生 意 中 受 人 欺 骗 ，失 去 了 一 切 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>有 一 天 你 受 到 了 走 私 船 的 袭 击 ，被 丢 在 了 海 上 等 死 。虽 然 你 侥 幸 幸 存 ，但 这 样 的 经 历 让 你 对 这 份 工 作 望 而 却 步 。你 只 好 出 发 去 寻 找 新 的 工 作 机 会 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>但 是 船 员 集 体 叛 变 了 你 。虽 然 你 侥 幸 幸 存 ，但 你 的 船 被 夺 走 了 ，你 只 好 去 别 处 开 始 新 生 活 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>但 你 渐 渐 对 船 上 的 生 活 心 生 不 满 。在 你 抱 怨 这 船 经 营 得 如 何 不 好 之 时 ，你 的 上 司 把 你 开 除 了 ，你 只 好 去 别 处 寻 找 工 作 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>但 有 一 天 你 的 商 店 遭 到 土 匪 的 抢 劫 ，他 们 把 你 洗 劫 一 空 后 迅 速 撤 离 。你 因 此 一 无 所 有 ，对 那 儿 也 心 无 所 恋 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>但 你 没 有 经 营 商 店 的 经 验 和 技 巧 ，不 久 商 店 就 自 然 而 然 地 倒 闭 了 。你 的 投 资 者 们 受 到 了 损 失 ，非 常 生 气 ，并 向 你 保 证 不 会 给 你 第 二 次 机 会 了 。你 只 好 离 开 家 乡 ，寻 找 新 的 生 计 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>但 你 的 成 功 引 来 了 竞 争 者 的 妒 火 ，有 一 人 还 雇 佣 暴 徒 砸 毁 了 你 的 商 店 。你 因 此 一 无 所 有 ，对 那 儿 也 心 无 所 恋 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>久 而 久 之 ，你 渐 渐 感 觉 这 样 学 习 就 是 纸 上 谈 兵 。文 字 背 后 的 真 意 还 要 自 己 去 体 会 ，所 以 你 决 定 去 亲 自 实 践 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>在 你 研 习 的 过 程 中 ，你 发 现 你 前 任 搜 集 的 知 识 存 在 大 量 疏 漏 。虽 然 有 人 说 根 本 没 有 获 知 这 些 未 解 之 谜 的 途 径 ，但 你 渐 渐 醒 悟 ，许 多 事 情 背 后 的 原 因 都 尚 不 明 晰 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>在 你 的 文 本 中 ，你 发 现 了 几 段 非 常 有 趣 、引 人 注 目 的 文 字 ，你 迫 不 及 待 地 拿 去 与 同 事 分 享 。但 他 们 没 有 你 想 象 的 那 么 包 容 ，还 谴 责 你 糊 弄 了 事 。由 于 你 的 名 誉 受 损 ，你 在 家 乡 也 别 无 所 恋 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>你 在 幻 象 中 看 到 了 一 个 见 所 未 见 的 地 方 。经 过 一 番 调 查 ，你 渐 渐 获 悉 这 个 地 方 叫 做 迪 尔 伍 德 ，你 看 到 的 幻 象 诱 使 着 你 前 往 那 里 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>你 的 幻 象 吸 引 了 周 围 人 的 注 意 ，尤 其 是 那 些 认 为 与 你 结 盟 有 利 可 图 的 派 系 。但 你 不 愿 像 道 具 一 样 受 人 利 用 ，趁 着 夜 色 悄 悄 溜 走 ，隐 姓 埋 名 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>你 的 研 究 引 来 了 他 人 的 注 意 ，有 人 指 控 你 为 异 端 邪 说 。对 那 些 指 控 忍 无 可 忍 之 后 ，你 不 得 不 离 开 家 乡 ，寻 找 安 全 的 栖 身 之 所 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>你 过 着 艰 苦 的 生 活 ，你 很 快 意 识 到 这 并 不 是 你 想 要 的 生 活 。你 对 你 的 选 择 非 常 后 悔 ，随 即 放 下 过 去 ，决 心 去 别 处 开 始 新 生 活 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>虽 然 你 的 训 练 要 求 你 忘 却 尘 世 的 烦 恼 ，但 你 做 不 到 。你 爱 上 了 别 人 ，同 时 开 始 质 疑 训 练 的 意 义 。虽 然 你 的 爱 情 并 没 有 持 续 多 久 ，但 你 的 经 历 推 动 着 你 走 上 了 新 的 道 路 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>虽 然 你 的 训 练 严 酷 无 比 ，但 你 知 道 这 只 是 旅 程 中 的 一 小 步 罢 了 。一 旦 完 成 训 练 ，你 就 决 定 独 自 踏 上 旅 程 ，去 看 看 外 面 的 世 界 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>经 过 数 年 的 学 习 ，你 觉 得 是 时 候 出 去 走 走 ，化 理 论 为 实 践 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>但 你 觉 得 在 课 桌 后 度 过 的 这 几 年 毫 无 意 义 ，于 是 你 弃 学 离 开 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>但 你 在 哲 学 探 讨 和 学 术 推 测 上 越 钻 越 深 ，最 终 发 现 你 研 究 的 一 切 都 缺 乏 响 应 的 证 明 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>但 你 和 你 一 个 学 生 的 绯 闻 不 胫 而 走 。虽 然 这 段 关 系 没 有 持 续 太 久 ，但 消 息 一 传 出 ，你 的 婚 姻 也 走 到 了 尽 头 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>但 你 的 教 学 遭 到 了 你 邻 居 和 学 生 的 冷 嘲 热 讽 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>但 有 人 怀 疑 你 还 有 所 保 留 ，并 未 尽 心 尽 力 ，你 倍 感 恼 火 ，于 是 辞 职 走 人 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>但 在 宗 教 人 士 获 知 你 的 罪 行 后 ，你 担 心 自 己 的 生 命 受 到 威 胁 ，遭 到 迫 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>但 你 对 自 己 的 虚 无 主 义 厌 烦 透 顶 ，决 定 暂 时 不 再 去 思 考 这 事 儿 ，从 别 的 角 度 看 待 事 物 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>你 觉 得 自 己 所 做 的 一 切 都 漫 无 目 的 ，于 是 启 程 离 开 了 家 乡 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>在 你 急 需 帮 助 时 ，神 抛 弃 了 你 ，于 是 你 再 也 不 相 信 神 明 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>你 亵 渎 神 明 的 行 为 让 你 被 革 除 了 教 籍 ，再 也 无 法 获 得 原 谅 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>你 领 悟 到 ，即 便 是 你 ，也 不 能 遵 守 某 些 誓 言 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>但 你 家 乡 的 人 们 不 愿 听 循 你 的 教 导 ，于 是 你 决 定 前 往 别 处 施 教 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>你 渴 望 受 到 越 来 越 多 信 徒 的 拥 戴 ，但 在 发 现 了 你 的 把 戏 之 后 ，原 本 对 你 百 依 百 顺 的 信 徒 们 把 你 驱 逐 了 出 去 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>但 你 曾 经 施 教 的 小 镇 已 被 洗 劫 一 空 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>但 你 发 现 你 的 信 仰 根 本 无 法 解 救 你 服 侍 的 人 们 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>但 在 那 些 声 称 遵 循 你 的 教 义 之 人 露 出 了 伪 善 的 面 容 后 ，你 幡 然 醒 悟 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>所 以 你 开 始 了 旅 程 ，希 望 能 在 迪 尔 伍 德 传 播 教 义 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>在 你 的 诡 计 最 终 被 人 识 破 后 ，你 被 驱 逐 了 出 去 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>你 在 那 儿 大 获 成 功 ，声 名 大 噪 ，因 此 你 不 得 不 前 往 一 个 可 以 隐 姓 埋 名 ，低 调 生 活 的 地 方 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>最 终 ，你 对 自 己 的 骗 局 也 心 生 厌 恶 。于 是 你 动 身 离 开 ，希 望 开 始 新 生 活 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>你 被 逮 住 太 多 次 了 ，只 好 离 开 此 地 ，不 然 就 要 被 刽 子 手 处 刑 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>但 你 的 搭 档 欺 骗 了 你 ，政 府 对 你 的 行 踪 饶 有 兴 趣 ，你 只 好 逃 离 此 地 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>但 最 后 ，你 偷 错 了 对 象 。一 时 之 间 ，哪 怕 对 你 网 开 一 面 ，都 难 逃 罚 款 与 监 禁 ，你 只 好 逃 离 了 此 地 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>但 你 最 终 无 可 救 药 地 爱 上 了 你 注 定 不 能 拥 有 的 人 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>生 活 本 来 相 安 无 事 ，直 到 有 一 天 ，你 的 同 船 水 手 逼 着 你 去 走 跳 板 。但 你 所 幸 活 了 下 来 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>你 船 员 成 功 让 你 垮 了 台 ，你 自 己 也 受 到 了 许 多 政 府 海 军 的 通 缉 对 象 。你 的 船 被 击 沉 了 ，幸 存 的 船 员 也 一 哄 而 散 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>但 你 与 船 长 大 吵 了 一 架 ，能 毫 发 无 损 地 从 船 里 离 开 已 经 是 一 件 幸 事 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>最 终 ，滥 杀 无 辜 开 始 让 你 心 生 不 安 ，你 选 择 了 离 开 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>虽 然 你 的 同 胞 获 得 了 一 点 成 就 就 沾 沾 自 喜 ，但 你 却 高 兴 不 起 来 。你 离 开 了 他 们 ，渴 望 做 出 更 大 的 成 绩 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>最 终 ，你 的 罪 行 引 起 了 军 方 的 注 意 ，你 们 只 能 四 散 而 逃 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>但 是 你 的 船 因 为 天 气 恶 劣 ，导 航 不 利 受 损 严 重 ，你 在 船 沉 没 之 前 挣 脱 枷 锁 逃 了 出 来 。但 你 的 同 伴 就 没 有 那 么 幸 运 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>但 你 和 同 行 的 奴 隶 共 同 进 行 策 划 。你 们 齐 心 协 力 夺 取 了 船 的 控 制 权 ，把 你 们 的 主 人 一 个 个 赶 了 下 去 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>你 原 本 很 有 可 能 做 一 辈 子 奴 隶 ，但 有 人 出 于 良 心 买 下 并 解 放 了 你 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>但 你 逃 走 了 ，成 功 避 开 了 你 主 人 的 眼 线 和 当 地 的 执 法 人 员 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>但 最 终 法 律 修 改 了 ，当 地 官 员 下 令 ，将 你 和 你 的 同 僚 统 统 解 放 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>但 有 一 天 ，你 奋 起 反 抗 ，杀 死 了 你 的 主 人 。趁 政 府 还 没 来 得 及 处 罚 你 ，你 赶 紧 逃 了 出 去 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>经 过 数 年 的 艰 苦 工 作 ，你 终 于 还 清 了 你 的 债 务 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>但 一 支 入 侵 的 军 队 经 过 了 这 里 ，解 放 了 你 和 你 的 同 伴 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>但 你 的 劳 动 太 过 艰 苦 。于 是 你 溜 了 出 去 ，弃 家 人 于 不 顾 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>但 这 么 多 年 来 ，你 只 靠 着 读 书 来 了 解 世 界 ，因 此 你 也 想 去 直 接 亲 身 体 会 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>经 过 数 年 的 学 习 ，你 已 经 不 想 再 读 别 人 的 传 记 了 ，你 决 心 去 建 立 一 番 属 于 自 己 的 丰 功 伟 绩 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>但 你 对 过 去 的 事 情 钻 的 越 深 ，你 就 了 解 到 越 来 越 多 不 同 人 的 历 史 观 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>但 你 的 职 业 生 涯 因 为 一 个 错 误 的 决 定 走 向 了 终 结 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>但 你 在 学 习 上 无 法 实 现 突 破 ，你 发 现 正 是 自 己 的 导 师 阻 碍 着 你 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>但 你 的 导 师 只 是 含 糊 其 辞 ，你 很 快 意 识 到 他 们 已 经 无 法 继 续 教 导 你 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>你 一 心 想 着 你 的 抱 负 ，而 不 计 行 为 的 后 果 ，最 终 ，你 触 犯 了 规 则 ，被 驱 逐 了 出 去 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>但 当 你 学 到 那 些 用 以 让 人 挨 饿 ，大 肆 屠 杀 和 奴 役 民 众 的 战 术 时 ，你 意 识 到 这 并 不 是 你 想 要 的 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>但 一 次 学 术 练 习 失 控 了 ，你 杀 死 了 一 位 同 学 ，被 迫 弃 学 离 去 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>在 你 发 现 你 的 天 资 比 你 的 导 师 还 高 出 一 等 后 ，你 弃 学 离 去 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>然 而 ，你 一 路 上 犯 了 很 多 错 误 ，有 些 错 误 让 无 辜 的 百 姓 因 为 不 存 在 的 罪 名 而 受 到 了 惩 罚 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>然 而 ，在 你 最 终 遇 上 了 一 个 解 决 不 了 的 案 件 后 ，你 陷 入 了 犹 豫 不 决 之 中 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>然 而 ，你 的 调 查 让 你 获 知 了 一 些 令 人 不 安 的 消 息 ，而 这 消 息 有 关 你 挂 念 之 人 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>然 而 ，你 开 始 留 意 这 些 物 质 对 其 他 人 的 伤 害 ，你 的 自 责 最 终 让 你 放 弃 了 研 究 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>但 你 不 计 后 果 的 行 为 引 来 了 政 府 的 注 意 。你 趁 他 们 还 没 抓 到 你 赶 紧 开 溜 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>然 而 ，竞 争 是 冷 酷 无 情 的 ，虽 然 你 在 生 意 上 遭 受 排 挤 ，但 你 的 命 还 是 保 住 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>然 而 ，一 场 事 故 险 些 要 了 你 的 命 ，你 也 开 始 注 意 到 这 一 领 域 的 危 险 性 。这 段 记 忆 作 为 一 个 警 告 牢 牢 地 刻 在 了 你 的 脑 海 之 中 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>但 你 得 知 你 推 崇 、仰 慕 的 老 师 是 个 不 折 不 扣 的 大 骗 子 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>但 当 你 学 成 之 后 ，你 意 识 到 你 还 是 没 能 获 得 你 想 要 的 答 案 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>你 在 丰 饶 之 谷 当 地 人 手 里 救 下 了 一 位 名 叫 亚 禄 的 鹿 丛 巫 师 。他 说 能 找 到 一 位 旅 伴 ，真 是 谢 天 谢 地 呀 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>亚 禄 透 露 说 他 的 灵 魂 已 经 觉 醒 了 ，同 时 他 能 与 一 个 名 叫 伊 瑟 米 尔 的 女 人 共 通 意 识 ，后 者 虽 然 粗 鲁 ，但 英 勇 异 常 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>亚 禄 承 认 自 己 是 铅 制 之 钥 的 成 员 ，但 又 说 在 得 知 这 一 组 织 在 迪 尔 伍 德 境 内 犯 下 了 种 种 罪 行 之 后 ，他 希 望 帮 助 你 阻 止 他 们 。你 同 意 让 他 继 续 与 你 同 行 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>亚 禄 承 认 自 己 是 铅 制 之 钥 的 成 员 ，但 又 说 在 得 知 这 一 组 织 在 迪 尔 伍 德 境 内 犯 下 了 种 种 罪 行 之 后 ，他 希 望 帮 助 你 阻 止 他 们 。虽 然 如 此 ，你 还 是 把 他 赶 走 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>你 在 丰 饶 之 谷 遇 到 了 埃 德 尔 ，他 是 一 位 当 地 的 农 夫 ，信 仰 着 重 光 之 神 伊 奥 萨 斯 。他 家 人 的 信 仰 ——还 有 他 兄 弟 在 圣 者 之 战 选 择 的 立 场 ——让 他 成 了 当 地 政 府 的 怀 疑 对 象 ，所 以 你 决 定 让 他 一 同 与 你 离 开 小 镇 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>你 得 知 埃 德 尔 的 兄 弟 沃 登 在 遇 到 了 怀 德 温 之 后 ，决 定 在 圣 者 之 战 中 加 入 雷 德 塞 拉 斯 一 方 。埃 德 尔 渐 渐 意 识 到 他 或 许 永 远 都 不 会 知 道 为 什 么 他 的 兄 弟 选 择 拥 护 怀 德 温 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>在 途 径 马 格 兰 岔 路 时 ，你 遇 到 了 名 叫 迪 兰 斯 的 狂 热 牧 师 。他 马 上 认 出 你 是 一 位 守 望 者 ，并 一 心 想 和 你 一 同 踏 上 旅 程 ，去 游 说 他 人 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>你 告 诉 迪 兰 斯 马 格 兰 曾 与 沃 伊 迪 卡 共 谋 对 抗 伊 奥 萨 斯 ，她 意 在 让 迪 兰 斯 与 其 他 神 锤 炸 弹 工 程 师 一 同 赴 死 。于 是 迪 兰 斯 重 拾 了 他 对 马 格 兰 的 信 仰 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>你 和 一 个 女 人 之 间 发 生 了 奇 怪 的 联 系 ，而 你 认 为 她 就 是 哀 伤 之 母 。她 在 迪 佛 德 加 入 了 你 ，但 你 自 此 就 再 也 没 见 任 何 其 他 人 留 意 她 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>你 得 知 正 是 哀 伤 之 母 让 第 一 批 空 心 种 降 生 到 了 迪 尔 伍 德 。出 于 对 孩 子 们 和 她 自 己 生 命 的 忧 虑 ，她 让 那 些 父 母 们 自 认 为 孩 子 们 非 常 健 康 ，与 常 人 无 异 。然 而 ，你 向 她 再 次 保 证 ，这 么 做 实 有 必 要 ，也 有 理 有 据 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>你 得 知 正 是 哀 伤 之 母 让 第 一 批 空 心 种 降 生 到 了 迪 尔 伍 德 。出 于 对 孩 子 们 和 她 自 己 生 命 的 忧 虑 ，她 让 那 些 父 母 们 自 认 为 孩 子 们 非 常 健 康 ，与 常 人 无 异 。你 告 诉 她 这 么 做 大 错 特 错 ，她 也 听 了 进 去 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>哀 伤 之 母 恳 求 你 抹 去 她 的 灵 魂 ，她 的 灵 魂 中 充 满 了 关 于 诞 生 钟 的 痛 苦 回 忆 。但 你 拒 绝 了 她 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>哀 伤 之 母 恳 求 你 抹 去 她 的 灵 魂 ，她 的 灵 魂 中 充 满 了 关 于 诞 生 钟 的 痛 苦 回 忆 。你 同 意 给 她 带 去 安 宁 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>在 你 到 达 凯 德 -努 阿 后 ，你 遇 到 了 一 位 名 叫 卡 纳 •鲁 阿 的 拉 瓦 台 学 士 。他 加 入 了 你 ，希 望 能 在 堡 垒 深 处 找 到 一 份 古 老 而 神 圣 的 密 文 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>你 在 树 林 里 遇 到 了 一 位 名 叫 希 拉 维 的 羽 精 德 鲁 伊 。他 说 他 最 终 的 目 的 地 是 双 榆 城 ，但 他 同 时 也 非 常 热 衷 于 探 险 ，看 来 他 需 要 一 队 人 为 他 保 驾 护 航 呢 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>来 自 瓦 里 安 共 和 国 的 圣 武 士 帕 勒 吉 娜 被 你 应 对 那 个 鲁 莽 的 商 人 的 方 法 打 动 了 ，你 得 到 了 和 她 一 起 为 她 的 公 爵 工 作 来 挣 点 花 销 的 机 会 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>帕 勒 吉 娜 仍 然 终 于 自 己 的 信 条 ，她 提 出 了 一 个 会 损 害 迪 伍 德 利 益 但 是 能 帮 公 爵 获 得 利 润 的 商 贸 协 定 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>在 可 能 会 威 胁 到 她 自 己 在 五 重 日 兄 弟 会 的 地 位 的 情 况 下 ，为 了 阻 止 共 和 国 窃 取 格 兰 法 斯 和 迪 伍 德 的 利 润 ，帕 勒 吉 娜 修 改 了 公 爵 的 贸 易 协 定 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>你 在 野 外 的 十 字 路 口 遇 到 了 女 猎 手 萨 加 尼 。她 一 路 从 纳 斯 塔 克 而 来 ，一 直 在 寻 找 她 村 子 里 的 一 个 转 世 的 长 者 。她 被 你 追 踪 和 定 位 灵 魂 的 能 力 所 打 动 ，所 以 接 受 了 你 共 同 旅 行 的 邀 请 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>最 终 ，你 找 到 了 已 经 转 世 为 鹿 的 帕 索 克 。不 幸 的 是 ，他 已 经 被 格 兰 法 斯 猎 人 打 伤 了 。萨 加 尼 几 乎 都 没 时 间 来 跟 他 说 他 在 玛 苏 克 的 家 人 的 事 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>最 终 ，你 找 到 了 已 经 转 世 为 鹿 的 帕 索 克 。不 幸 的 是 ，他 已 经 被 格 兰 法 斯 猎 人 打 伤 了 。萨 加 尼 几 乎 都 没 时 间 来 告 诉 他 他 的 遗 产 是 如 何 造 福 玛 苏 克 的 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>最 终 ，你 找 到 了 已 经 转 世 为 鹿 的 帕 索 克 。不 幸 的 是 ，他 已 经 被 格 兰 法 斯 猎 人 打 伤 了 。萨 加 尼 朗 诵 了 她 村 里 人 的 名 字 。而 且 她 似 乎 觉 得 这 样 的 仪 式 仅 仅 能 给 他 们 一 点 心 理 上 的 安 慰 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>卡 纳 找 到 了 板 子 ，结 果 发 现 它 很 久 以 前 就 被 毁 掉 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>希 拉 维 见 到 了 同 样 有 着 秋 暮 剑 狮 虎 形 态 的 德 鲁 伊 斯 卡 瑟 登 。希 拉 维 很 久 之 前 就 接 受 了 他 的 锤 伤 以 及 随 之 而 来 的 流 放 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>你 来 到 了 雷 德 里 克 的 堡 垒 ，杀 掉 了 这 个 给 丰 饶 之 谷 带 来 无 数 灾 难 的 领 主 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>你 杀 掉 了 潜 在 的 篡 位 者 科 斯 克 。这 维 护 了 雷 德 里 克 七 世 对 丰 饶 之 谷 的 统 治 地 位 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>你 开 始 探 索 在 你 城 堡 之 下 的 巨 大 的 地 牢 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>在 奥 努 的 无 尽 之 路 的 深 处 ，你 遇 到 了 一 条 古 老 且 强 大 的 龙 ，然 后 你 杀 了 它 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>在 奥 努 的 无 尽 之 路 的 深 处 ，你 遇 到 了 一 条 古 老 且 强 大 的 龙 ，之 后 你 同 意 帮 助 它 。你 为 它 在 法 兰 罗 找 到 了 一 个 新 主 人 ——一 个 屠 龙 者 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>亚 禄 在 你 的 旅 途 中 死 掉 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>艾 德 死 在 了 你 的 队 伍 中 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>希 拉 维 死 在 了 旅 途 中 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>帕 勒 吉 娜 死 在 了 旅 途 中 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>哀 伤 之 母 离 开 了 你 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>哀 伤 之 母 死 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>迪 兰 斯 死 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>卡 纳 鲁 阿 在 路 途 中 死 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>萨 加 尼 已 经 不 在 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>传 记 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>影 像 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>在 通 灵 术 听 证 会 上 ，虽 然 你 说 的 关 于 通 灵 术 的 话 似 乎 很 有 效 ，然 而 你 是 反 对 铅 制 之 钥 的 。但 是 ，在 阿 瓦 公 爵 能 够 做 出 总 结 之 前 ，陶 斯 夺 走 了 一 具 通 灵 师 的 尸 体 并 刺 杀 了 公 爵 。这 使 得 整 个 挑 战 港 都 陷 入 了 愤 怒 之 中 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>你 说 服 了 艾 瓦 拉 ，使 她 相 信 长 期 的 监 禁 已 经 对 她 毫 无 益 处 了 。你 分 解 了 她 的 灵 魂 以 确 保 她 不 会 再 进 入 贝 拉 瑟 之 轮 的 轮 回 之 中 。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
+

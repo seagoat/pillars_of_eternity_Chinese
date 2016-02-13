@@ -1,0 +1,31 @@
+<StringTableFile>
+  <Name>conversations\08_wilderness\08_cv_doemenel_thug</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一群長相醜陋的流氓向你走來。這很奇怪，因為你正處在一片荒蕪人煙的地方。
+
+「蓋德馬爾·德梅尼爾向你問候，」其中一人對你說，「他還對你家人的遭遇表示哀悼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「哀悼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「真是奇怪。我也正想著要對你們的家人表示哀悼。」[攻擊]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>領頭的人拔出一把劍，有明顯的用舊痕跡。
+
+「蓋德馬爾給你提議，你就乖乖接受。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

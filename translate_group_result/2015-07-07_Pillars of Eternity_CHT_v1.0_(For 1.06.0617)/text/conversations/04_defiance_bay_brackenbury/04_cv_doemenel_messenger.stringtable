@@ -1,0 +1,22 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\04_defiance_bay_brackenbury\04_cv_doemenel_messenger</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>2</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>一個目光閃閃的女人走近了你。你是[Player Name]吧？我聽過你很多事情。我的老闆也是。事實上，他有一個商業提案。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>她朝身後瞄了一眼，向你走近了一步。「如果你要去布拉肯伯裡，就找艾佈雷肯·德梅尼爾。他的家族的莊園在街區中央。他有個活兒，特別適合像你這樣的人才。」
+
+
+
+和你告別之後，她消失在人群中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

@@ -1,0 +1,108 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\critical_path\act_1\cp_qst_hidden_operative</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>20</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>隐 藏 目 标 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>与 伊 塞 默 尔 校 长 在 布 拉 肯 伯 里 的 疗 养 院 谈 话 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>与 其 他 灵 魂 学 者 说 话 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>通 知 伊 塞 默 尔 关 于 里 普 莱 的 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>探 索 North Wing</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>与 尤 斯 格 里 姆 说 话 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>与 伊 塞 默 尔 校 长 谈 谈 暗 灰 之 钥 刺 客 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>任 务 开 始 状 态 的 事 件 总 结 和 任 何 其 他 与 任 务 开 始 状 态 相 关 的 关 键 信 息 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>布 拉 肯 伯 里 疗 养 院 的 位 置 和 之 前 任 务 信 息 的 描 述 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>玩 家 找 到 下 一 个 目 标 所 需 对 话 的 灵 魂 学 者 的 位 置 描 述 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>之 前 任 务 获 得 的 信 息 与 伊 塞 默 尔 校 长 位 置 的 描 述 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>和 进 入 North Wing相 关 的 关 键 信 息 与 帮 助 玩 家 找 到 下 一 个 关 键 NPC线 索 的 描 述 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10006</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>根 据 信 息 ，这 个 附 录 应 该 在 玩 家 知 道 尤 斯 格 里 姆 的 重 要 故 事 后 触 发 ，并 指 引 玩 家 前 往 大 厅 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>卡 夫 登 对 话 反 应 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>里 普 莱 对 话 反 应 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>莫 德 雷 德 对 话 反 应 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>亚 佐 对 话 反 应 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>遭 遇 暗 灰 之 钥 刺 客 后 的 结 束 状 态 描 述 </DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

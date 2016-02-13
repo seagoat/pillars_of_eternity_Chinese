@@ -1,0 +1,87 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\01_defiance_bay_coppleane\01_qst_mercenaries_for_hire</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>15</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>湖 前 的 铜 器 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>到 林 端 平 原 与 巨 人 猎 杀 者 见 面 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>通 过 风 暴 墙 大 峡 谷 进 入 废 墟 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>找 到 楼 从 的 武 器 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>到 科 博 莱 茵 的 探 险 大 厅 把 武 器 给 维 南 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>维 南 很 害 怕 炼 狱 骑 士 的 新 计 划 ，并 在 寻 找 一 个 强 大 的 武 器 拖 住 他 们 。他 要 我 到 楼 从 的 废 墟 里 找 到 因 格 维 斯 的 强 大 武 器 。
+
+拜 恩 的 巨 人 猎 杀 者 探 险 队 被 拍 了 出 去 ，但 没 有 成 功 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>据 维 南 所 说 ，巨 人 猎 杀 者 没 要 找 到 可 以 去 废 墟 的 路 。他 想 要 我 到 他 们 在 林 端 平 原 的 营 地 里 见 见 他 们 ，看 看 他 们 有 没 有 得 到 一 些 关 于 那 个 地 方 的 有 用 消 息 ，那 个 地 方 就 在 东 边 的 风 暴 墙 大 峡 谷 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>巨 人 猎 杀 者 找 到 了 他 们 所 谓 的 通 往 林 端 平 原 的 风 暴 墙 大 峡 谷 的 “钥 匙 ”，但 是 他 们 不 知 道 怎 么 使 用 。既 然 我 拿 到 了 ，我 来 试 试 运 气 吧 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>如 果 维 南 是 对 的 ，那 么 楼 从 的 废 墟 里 会 有 大 量 的 强 悍 武 器 。我 敢 肯 定 当 我 看 到 它 们 时 我 就 会 知 道 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我 在 楼 从 找 到 了 维 南 在 寻 找 的 古 老 武 器 。
+
+它 们 很 老 旧 ，无 法 修 理 它 们 似 乎 里 面 还 有 一 些 灵 魂 的 能 量 ，我 可 以 到 探 险 大 厅 告 诉 维 南 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>巨 人 猎 杀 者 说 炼 狱 骑 士 在 风 暴 墙 大 峡 谷 巡 逻 得 更 加 频 繁 了 。我 得 小 心 行 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>我 找 到 了 一 个 现 在 还 很 好 用 的 长 矛 。一 件 武 器 或 许 没 法 引 起 维 南 的 兴 趣 ，但 我 可 以 给 它 注 入 我 得 精 华 并 把 它 收 为 己 用 。好 像 很 久 以 前 有 人 在 这 些 废 墟 里 做 过 同 样 的 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 已 经 得 到 了 维 南 需 要 的 武 器 ，但 现 在 我 要 杀 死 一 群 炼 狱 骑 士 。至 少 我 已 经 获 得 了 十 二 人 众 的 信 任 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我 已 经 得 到 了 维 南 需 要 的 武 器 ，但 现 在 我 要 杀 死 一 群 炼 狱 骑 士 和 巨 人 猎 杀 者 。至 少 我 已 经 获 得 了 十 二 人 众 的 信 任 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>维 南 死 了 。我 不 知 道 还 会 与 谁 对 因 格 维 斯 的 武 器 感 兴 趣 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

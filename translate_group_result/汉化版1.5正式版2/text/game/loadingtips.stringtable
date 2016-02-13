@@ -1,0 +1,448 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>game\loadingtips</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>88</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>超 过 77000 名 粉 丝 的 贡 献 让 《永 恒 之 柱》成 为 可 能。我 们——黑 曜 石——希 望 表达 对 这 些 机 会、反 馈 和 支持 的 感 激 之 情。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>随 着 你 的 队 伍 规 模 扩 大，你 可 能 想 要 改 变 队 伍 的 组 成。你 可 以 使 用 主 要 HUD 上 的 组 队 按 钮 以 更 换 其 他 预 设 组 队 或 建 立 自 己 的 组 队。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>侦 查 模 式 有 两 个 目 的：潜 入 和 搜 索。潜 入 可 以 让 你 避 免 对 抗 困 难 的 敌 人 或 获 得 战 术 优 势。搜 索 可 以 让 你 发 现 陷 阱 和 隐 藏 的 对 象。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>有 些 生 物 和 护 甲 类 型 会 特 别 抵 抗 或 异 常 惧 怕 特 定 的 伤 害 类 型。在 提 示 和 怪 物 图 鉴 中 查 看 生 物 的 伤 害 减 免 以 决 定 什 么 武 器 和 法 术 效 果 最 好。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>有 四 种 防 御 能 抵 抗 所 有 攻 击：偏转，坚韧，反射 和 意志。如 果 敌 人 对 一 种 类 型 特 别 抵 抗，试 着 针 对 不 同 的 防 御 攻 击。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>当 攻 击 击 中 目 标 造 成 伤 害 时，伤 害 往 往 会 因 适 当 伤 害 类 型 的 伤 害 减 免 而 降 低。伤 害 减 免 不 能 完 全 抵 消 伤 害，但 可 以 极 大 地 降 低 伤 害。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>攻 击 击 中 时，会 造 成 标 准 持 续 时 间 的 标 准 伤 害。擦 过 会 减 少 50% 伤 害 和 持 续 时 间。重 击 会 增 加 50% 伤 害 和 持 续 时 间。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>真 实 伤 害 类 型 总 是 忽 略 目 标 的 伤 害 减 免。只 有 少 数 的 攻 击，如 毒 药 或 精 神 威 力，会 造 成 真 实 伤 害。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>如 果 一 个 角 色 的 耐 力 降 低 为 0，此 角 色 将 被 击 倒，但 如 果 本 方 赢 得 战 斗 将 会 以 最 大 耐 力 重 生。生 命 伤 害 通 常 只 能 靠 休 息 来 恢 复。如 果 生 命 减 少 到 0，这 个 角 色 将 残 废 或 死 亡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>在 战 斗 中 一 个 角 色 可 以 使 用 快 速 物 品 或 切 换 武 器，但 无 法 进 入 物 品 栏。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>任 何 武 器、盾 牌 或 盔 甲 可 以 通 过 在 描 述 界 面 单 击 附 魔 按 钮 进 行 附 魔。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>药 水，卷 轴 和 食 品 可 以 通 过 点 击 队 伍 任 一 成 员 的 物 品 栏 中 的 制 作 按 钮 进 行 制 作。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>附 魔 菜 单 上 的 所 有 配 方 都 要 使 用 一 种 宝 石，一 种 植 物，一 种 生 物 部 件，和 一 些 铜 币。大 部 分 原 料 可 以 用 于 多 种 配 方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>在 旷 野 露 营 需 要 露 营 物 资，可 在 各 种 各 样 的 商 店 购 买 。如 果 你 不 能 购 买 露 营 用 品，大 多 数 旅 馆 也 有 便 宜 的 房 间 出  租。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>据 点 中 大 多 数 事 件 都 是 随 游 戏 时 间 的 流 逝 而 发 生 的。税 收 征 收，支 线 冒 险 的 完 成，制 作 材 料 的 形 成 会 随 着 你 任 务 的 完 成 而出 现。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>你 在 世 界 遇 到 并 战 斗 的 一 些 人 可 以 变 成 俘 虏，收 容 在 据 点 中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>相 同 效 果 影 响 往 往 会 彼 此 抑 制。在 这 些 情 况 下，游 戏 只 会 采 用 该 类 型 的 最 高 加 成。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>近 身 接 触 使 得 角 色 很 难 摆 脱 近 战 防 守 者。然 而，一 些 负 面 状 态 可 以 打 破 接 触，包 括 倒 地，晕 眩，麻 痹 和 石 化。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>你 的 角 色 在 对 话 和 任 务 做 出 选 择 时，将 开 始 发 展 声 望，既 有 一 般 声 望 也 有 特 定 派 系 声 望。世 界 中 的 人 物 将 对 这 些 选 择 作 出 回 应 — — 在 好 的 和 坏 的 方 面。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>在 对 话 中 ，你 的 主 要 人 物 会 说 话，但 同 伴 有 时 会 插 入 他 们 的 意 见 和 想 法。在 剧 本 互 动 中，更 多 的 队 伍 成 员 能 够 参 与。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>难 度 等 级 会 影 响 战 斗 中 出 现 的 生 物 种类 （与 数 量）。只 有 诅 咒 之 路 会 改 变 出 现 生 物 的 数 据。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>威 力 影 响 所 有 角 色 的 伤 害 和 治 疗 效 果 和 他 们 的 坚 韧 防 御 。它 也 可 以 用 在 对 话 和 剧 本 互 动 来 测 试 强 度 和 威 力。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>体 质 影 响 角 色 的 耐 力 和 生 命 以 及 坚 韧 防 御。它 也 可 以 用 于 剧 本 互 动 来 忍 受 折 磨 人 的 物 质 环 境。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>灵 巧 影 响 角 色 的 行 动 速 度 和 反 射 防 御。它 也 可 以 用 于 对 话 和 剧 本 互 动 进 行 花 招 和 涉 及快 速 动 作 的 行 为。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>直 觉 反 应 的 是 角 色 打 断 攻 击 的 几 率，并 对 于 偏 转 和 反 射 防 御 有 着 增 幅。也 可 以 用 在 对 话 和 剧 本 互 动 中，察 觉 到 细 微，或 隐 藏 的 细 节。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>智 力 影 响 能 力 的 效 果 范 围 和 持 续 时 间 以 及 意 志 防 御。也 可 以 使 用 在 对 话 和 剧 本 互 动 涉 及 逻 辑 推 理 时。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>决 断 影 响 专 注 ，意 志 以 及 偏 转 防 御。也 可 以 用 于 涉 及 真 实 意 志，强 度，或 仰 仗 魅 力 的 对 话 与 剧 情 互 动。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>体 能 技 能 用 于 执 行 操 作，如 剧 本 互 动 时 的 攀 爬、游 泳 和 跳 跃。战 士 和 野 蛮 人 职 业 开 始 时 会 有 体 能 加 成。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>学 识 技 能 是 用 来 解 读 线 索 和 记 住 对 话 和 剧 本 互 动 中 的 深 奥 知 识。法 师 和 吟 唱 者 职 业 开 始 时 会 有 学 识 加 成。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>机 械 技 能 用 来 开 锁 和 解 除 陷 阱 以 及 在 剧 本 互 动 修 理 机 器。游 荡 者 和 吟 唱 者 职 业 开 始 时 会 有 机 械 加 成。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>潜 行 技 能 用 来 避 免 在 侦 察 模 式 下 被 发 现。游 荡 者 和 游 侠 职 业 开 始 时 会 有 潜 行 加 成。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>生 存 技 能 用 来 在 对 话 和 剧 本 互 动 中 识 别 植 物，动 物，和 自 然 世 界 的 其 他 知 识。游 侠 和 野 蛮 人 职 业 开 始 时 会 有 生 存 加 成。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>天 赋 系 统 使 得 角 色 在 成 长 中 出 现 明 显 差 别。职 业 天 赋 会 改 变 现 有 职 业 的 能 力 或 者 能 学 习 新 职 业 的 非 核 心 能 力。进 攻、防 守 和 实 用 天 赋 是 所 有 职 业 都 可 用 的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>野 蛮 人 有 很 多 能 力，使 他 们 适 合 近 身 与 敌 人 战 斗。当 对 付 大 批 敌 人 时，考 虑 派 野 蛮 人 加 入 战 团 吧。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>吟 唱 者 能 做 的 不 仅 仅 是 吟 唱！虽 然 能 力 不 是 在 前 线 战 斗，他 们 也 可 以 胜 任 战 士，并 可 以 在 执 行 其 他 操 作 时 继 续 吟 唱 并 积 累 词 句。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>灵 能 师 可 以 使 用 集 点 以 增 强 他 们 的 能 力， 并 且 在 灵 魂 之 鞭 激 活 时，使 用 武 器 造 成 伤 害 会 获 得 额 外 集 点。集 点 充 满 之 后 灵 魂 之 鞭 就 会 关 闭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>德 鲁 伊 有 各 种 各 样 的 范 围 进 攻 法 术。他 们 也 有 能  力 切 换 各 种 变 身 形 态，给 予 他 们 强 大 的 近  战 能 力。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>战 士 非 常 耐 打，也 是 最 可 靠 的 攻 击 手。他 们 可 以 有 效 地 锁 定 位 置，并 逐 渐 消 耗 甚 至 很 难 下 手 的 敌 人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>武 僧 有 强 大 的 徒 手 攻 击 但 也 可 以 使 用 任 何 标 准 近 战 武 器 施 展 能 力。虽 然 他 们 的 一 些 能 力 可 以 在 选 择 时 使 用，但 更 多 的 能 力 要 求 他 们 先造 成 或 承 受 伤 害。苦 行 值 会 增 强 武 僧 的 特 殊 能 力。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>圣 武 士 拥 有 支 援 和 进 攻 的 混 合 能 力。圣 武 士 的 狂 热 光 环 会 持 续 影 响 附 近 盟 友。他 们 的 祷 告 会 给 单 一 盟 友 施 加 强 大 效 果。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>牧 师 是 专 门 的 支 援 类 施 法 者。尽 管 他 们 的 法 术 往 往 范 围有 限 ，他 们 几 乎 总 是 能 影 响 全组 人 并 可 以 提 供 无 数 加 成。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>游 侠 和 动 物 伙 伴 紧 密 联 系 在 一 起，这 对 最 好 的 朋 友 结 伴 而 行。动 物 伙 伴 没 有 强 大 的 攻 击，但 可 以 有 效 地 将 敌 人 扑 倒，让 游 侠 自 己 完 成 最 后 一 击。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>游 荡 者 通 过 潜 行 攻 击 能 力，能 够 输 出 各 职 业 中 最 高 的 武 器 伤 害。当 游 荡 者 命 中 受 到 潜 行 攻 击 效 果 的 敌 人 时， 会 自 动 造 成 额 外 伤 害。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>法 师 只 能 使 用 装 备 的 魔 法 书 中 的 法 术。额 外 的 魔 法 书 可 以 放 置 在 战 斗 中  的快  捷 栏 位  ，但 法 师 在 几  秒 钟 内 不 能  施 放 新 的 法 术 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>队 伍 储 物 箱 可 用 于 存 放 物 品 栏 满  时 的 多 余 装 备。一 些 物 品 类 型，如 任 务 物 品 和 原 料，被 自 动 放 置 在 储  物 箱。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>精 致，卓 越 和 超 强 品 质 的 武 器、盾 牌 以 及 护 甲 对 物 品 基 本 属 性，如 精 度、伤 害、偏 转 和 所 有 伤 害 减 免 有 加 成 作 用。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>更 小、更 快 的 武 器 往 往 有 较 低 的 打 断 等 级 但 攻 击 频 率 较 高。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>某 些 武 器 类 型，如 长 剑、权 杖 和 匕 首，可 以 抵 消 一 部 分 敌 人 的 伤 害 减 免。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>伤 害 类 型 为 “ 斩 击 或 钝 击 ” 的 武 器 会 造 成 最 有 利 类 型 的 伤 害，通 常 由 目 标 的 易 伤 类 型 决 定。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>重 装 甲 给 予 穿 戴 者 更 多 的 保 护 但 回 复 时 间 延 长。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>只 装 备 单 手 近 战 武 器 且 无 盾 牌 会 对 攻 击 给 予 精 度 加 成。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>双 持 近 战 武 器 提 供 最 快 的 攻 击 速 度 但 缺 乏 双 手 武 器 的 伤 害，单 手 武 器 的 精 度，和 盾 牌 的 偏 转 加 成。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>装 备 盾 牌 增 加 角 色 的 偏 转 但 减 缓 他 们 的 回 复。同 时，更 大 的 盾 牌 会 对 角 色 的 精 度 造 成 负 面 影 响。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>双 手 近 战 武 器 造 成 的 每 击 伤 害 最 高，并 且 在 对 付 高 伤 害 减 免 时 非 常 有 效。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>食 品 不 能 在 战 斗 中 使 用，但 可 以 提 供 长 时 间 加 成。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>武 器 和 盾 牌 提 供 的 加 成 可 以 与 其 他 类 型 加 成 叠 加。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>抓 钩、锤 子 和 雕 刻 套 件 用 于 特 殊 互 动 时 会 消 耗。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>术 语 条 目 包 含 许 多 用 于 解 决 游 戏 机 制 的 术 语 的 定 义 和 解 释。如 果 你 需 要 查 找 如 何 计 算 重 击 或 者 伤 害 减 免 是 如 何 工 作 的，打 开 日 志 看 看 吧！</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>选 项 菜 单 可 以 在 界 面 和 显 示 的 许 多 方 面 调 整 你 的 个 人 偏 好。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>如 果 你 在 使 用 默 认 的 红 绿 色 辨 别 敌 我 时 觉 得 有 困 难，可 以 在 选 项 菜 单 中 启 用 色 盲 模 式。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>永 恒 之 柱 支 持 多 国 语 言。如 果 你 想 体 验 游 戏 的 不 同 语 言，你 可 以 通 过 选 项 菜 单 修 改。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>在 战 斗 中，箭 头 从 其 中 一 名 角 色 的 选 择 框 移 动 到 另 一 角 色 的 选 择 框 中 即 为 近 战 接 触 。 如 果 交 战 的 角 色 在 箭 头 激 活 时 时 试 图 离 开，他 们 将 会 立 即 成 为 脱 战 攻 击 的 目 标。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>大 多 数 生 物 在 从 战 争 迷 雾 边 缘 出 现 后 就 会 立 刻 发 现 玩 家。要 偷 偷 地 接 近 敌 人，请 使 用 侦 察 模 式。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>一 旦 你 获 得 了 据 点，可 以 在 任 意 时 刻 通 过 中 心 HUD 访 问 菜 单。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>如 果 你 想  在 只 显 示 角 色 头 像 的 情 况 下 探 索 世 界，可 以 将 中 心 的 HUD 和 战 斗 日 志 最 小 化。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>鼠 标 悬 停 在 任 何 攻 击 的 战 斗 日 志 上 以 显 示 更 详 细 的 信 息。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>角 色 头 像 上 的 红 色 填 充 条 代 表 耐 力。左 侧 条 代 表 生 命 损 失。生 命 栏 接 近 0 时 将 会 改 变 颜 色。当 生 命 低 于 最 大 耐力 时 ，头 像 的 横 条 将 表 明 耐 力 受 到 限 制。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>游 侠 的 动 物  同 伴 可 以 直 接 通 过  覆 盖 在 游 侠  上 的 图 标 选 定。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>鼠 标 悬 停 在 任 意 角  色 头 像 的 图 标 看 看 目 前 有  什 么 法 术 或 能 力 在 影 响 他 们。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>角 色 列 表 包 含 了 所 有  队 伍 成 员 的 细 节，还 包 括 声 望  在 内 的 所 有 个 人  和 队 伍 统 计 数 据。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>你 可 以 直 接 点 击 区 域 地图  使镜 头 中 心 抵 达 相 应 位 置。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>恶 魔 图 鉴 会 记 录 你 所 有 已 解 锁 的 敌 人 信 息，你 击 败 的 敌 人 越 多，记 录 的 信 息 也 会 越 完 善。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>可 以 通 过 慢 速 模 式 在 不 暂 停 的 情 况 下 操 控 战 斗 中 的 角 色。在 已 经 探 索 过 的 区 域 行 进 时，快 速 模 式 可 以 派 上 用 场。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>通 过 暂 停 来 发 布 命 令 是 《永 恒 之 柱》中 战 斗 的 重 要 组 成 部 分。如 果 你 想 为 自 动 暂 停 设 定 条 件 ，选 项 菜 单 就 有 很 多 选 项。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>当 进 行 区 域 性 攻 击 时，圆 圈 可 以 设 有 一 个 外 圆 周。内，外 周 之 间 的 空 间 是 一 个“仅 敌 人”的 区 域。如 果 盟 友 站 在 了 该 区 域，他 们 将 不 会 受 到 群 伤 法 术 的 伤 害。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>您 可 以 通 过 按 住 Shift 键 来 发 出 一 系 列 命 令 队 列。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>金 色 名 称 的 非 玩 家 人 物 是 由 我 们 的 支 持 者 设 计 的。和 他 们 交 流 会 让 你 感 受 他 们 的 灵 魂。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>你 的 人 物 传 记 以 你 自 己 的 冒 险 展 开。查 看 任 务 窗 口 的 日 记 选 项，可 以 看 到 你 的 进 度。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>与 人 对 话 的 方 式，甚 至 更 微 妙 的 互 动，往 往 会 影 响 你 的 声 誉。当 你 的 名 气 变 大 后，一 些 人 物 将 与 你 有 不 同 的 互 动 方 式。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>你 可 以 通 过 选 项 菜 单 更 改 对 话 中 显 示 的 游 戏 信 息 数 量。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+			<DefaultText>如 果 同 伴 想 和 你 讨 论 些 新 的 东 西，其 头 像 上 出 现 在 对 话 图 标。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+			<DefaultText>区 域 范 围 进 攻 法 术 可 以  显示  两 个 目 标 圈。内 圆 将 影 响 其 中 的 所 有 目 标。外 圆 只 会 影 响 到 敌 人，你 的 盟 友 不 会 受 到 影 响。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>使 用 Tab 键 高 亮 周 围 环 境 中 的 可 互 动 物 体。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+			<DefaultText>升 级 守 望 者 的 小 屋 后 ，你 将 可 以 领 取 拥 有 丰 富 奖 励 的 赏 金 任 务 。赏 金 任 务 非 常 具 有 挑 战 性，但 巨 大 的 冒 险 也 有 巨 大 的 回 报，完 成 任 务 后 你 将 可 能 获 得 具 有重 要 价 值 的 奖 励。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>金 色 名 称 的 非 玩 家 人 物 是 由 我 们 的 支 持 者 设 计 的。和 他 们 交 流 会 让 你 体 验 到 每 一 个 人 的 独 特的 历 史。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+			<DefaultText>墓 碑 代 表 着 纪 念。这 些 悼 文 都 是 我 们 的 支 持 者 所 做，是 极 具 个 性 化 的 文 章。他 们 中 的 许 多 人 打 破 了“ the fourth wall”，所 以 想 完 全 沉 浸 于 游 戏 的 玩 家 请 不 要 点 击 它 们。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+			<DefaultText>在 容 器 中 按 下 Shift 键 并 点 击 物 品，将 直 接 将 该 物 品 移 动 到 宝 箱 中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+			<DefaultText>你 可 以 在 任 何 技 能 图 标 上 面悬 停 光 标 并 按 下 所 需 热 键。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

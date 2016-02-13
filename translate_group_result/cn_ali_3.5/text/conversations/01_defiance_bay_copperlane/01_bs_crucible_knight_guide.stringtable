@@ -1,0 +1,57 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\01_defiance_bay_copperlane\01_bs_crucible_knight_guide</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>9</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“什么问题？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>我在找一个有塔的地方。那靠近墓地。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>疯子关在反抗湾的哪里？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>这一带唯一的地方就是布拉肯伯里疗养院了。我听说他们能治愈你的灵魂，把疯狂赶走。但是那儿也很很多传出来的故事让你不寒而栗。
+
+那有一个男人，如果你想这么叫的话，伊塞默尔。他是守望者头领。如果你要去拜访或者给自己做检查，他是该去交谈的人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>&quot;再见。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>你最好别看了。你想去的地方是传承山-你能看见高塔在城墙上。审判者指向西北方。
+
+但是那里发生了...一些事。他们不再让外人进入了。而且也没有骑士想靠近它。离它远点，如果你知道什么对你有利的话。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>我在寻找沃迪卡神殿。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>哈。如你所愿。它在最初之火，就在炼狱堡垒的西边。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>哈。如你所愿。它就在那，炼狱堡垒的西边。还剩下什么。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

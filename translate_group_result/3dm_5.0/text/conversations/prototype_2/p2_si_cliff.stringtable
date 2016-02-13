@@ -1,0 +1,397 @@
+<StringTableFile>
+  <Name>conversations\prototype_2\p2_si_cliff</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>78</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>悬崖壁变黑像蜡烛一样融化。高出有一个露出的部分看起来像是一个粗糙的巢穴。它看起来像是一个充满挑战的攀登。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[攀爬悬崖。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[向突地投掷抓钩。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[离开。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你又看了一眼悬崖。顶部可能只有一个人的位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>你投掷爪钩到峭壁上，一手握着绳子。钩子钩中发出了令人满意的铿锵声，你确保绳子能稳定地拖住。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[沿绳子往上爬。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Slot 0]开始攀爬光滑的悬崖壁。然而把手点很少，进程很快慢了下来。在几乎踩空之后，[Slot 0]被迫回到悬崖底部。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Slot 0]缓慢在悬崖往上爬，充分利用缝隙和石头的突起，并到达了巢穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Slot 2]缓慢在悬崖往上爬，充分利用缝隙和石头的突起，并到达了巢穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>绳索让登高变得很快。[Slot 2]不费力就爬到了悬崖的巢穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Slot 1]开始攀爬光滑的悬崖壁。然而把手点很少，进程很快慢了下来。在几乎踩空之后，[Slot 1]被迫回到悬崖底部。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>绳索让登高变得很快。[Slot 1]不费力就爬到了悬崖的巢穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Slot 1]缓慢在悬崖往上爬，充分利用缝隙和石头的突起，并到达了巢穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>绳索让登高变得很快。[Slot 0]不费力就爬到了悬崖的巢穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>退回到悬崖底部，融化的岩石和发黑的矿层在头顶若隐若现。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>巢穴被灼热的余火包围着。细枝和骨头把这个地方弄得乱七八糟。一个小水桶一样大小的蛋依偎在碎石中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[往下爬。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[派遣[Slot 4]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[用绳子保护好蛋并把它送下去。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[派遣[Slot 0]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Slot 5]缓慢在悬崖往上爬，充分利用缝隙和石头的突起，并到达了巢穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>这悬崖爬下和爬上一样难。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Slot 4]慢慢登上悬崖， 利用岩石上的裂缝和突刺， 接近了巢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[拿上蛋并爬下悬崖。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Slot 5]在蛋上绑了一条绳子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Slot 1]保持稳定的动作，慢慢把蛋降了下去。奖金一落地， [Slot 1]就安全的爬下了悬崖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Slot 0]在蛋上绑了一条绳子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Slot 0]把蛋夹在一只胳膊下面，展示出惊人的攀爬技巧和坚韧，安全的爬了下来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>用绳子攀爬很快。[Slot 4]轻松地爬上了悬崖接近了巢穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[派遣[Slot 1]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[派遣[Slot 2]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Slot 4]开始攀爬光滑的悬崖表面。单用双手爬得非常慢，而且很难。在几乎踩不稳好几步以后， [Slot 4]还是被迫返回了悬崖下面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[派遣[Slot 3]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Slot 1]在蛋上绑了一条绳子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Slot 2]在蛋上绑了一条绳子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Slot 3]在蛋上绑了一条绳子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Slot 5]开始攀爬光滑的悬崖表面。单用双手爬得非常慢，而且很难。在几乎踩不稳好几步以后， [Slot 5]还是被迫返回了悬崖下面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>用绳子攀爬很快。[Slot 3]轻松地爬上了悬崖接近了巢穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Slot 3]慢慢登上悬崖， 利用岩石上的裂缝和突刺， 接近了巢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Slot 4]在蛋上绑了一条绳子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Slot 2]开始攀爬光滑的悬崖表面。单用双手爬得非常慢，而且很难。在几乎踩不稳好几步以后， [Slot 2]还是被迫返回了悬崖下面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Slot 0]保持稳定的动作，慢慢把蛋降了下去。奖金一落地， [Slot 0]就安全的爬下了悬崖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Slot 3]开始攀爬光滑的悬崖表面。单用双手爬得非常慢，而且很难。在几乎踩不稳好几步以后， [Slot 3]还是被迫返回了悬崖下面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[派遣[Slot 5]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Slot 0]把蛋夹在一只胳膊下面，展示出惊人的攀爬技巧和坚韧，安全的爬了下来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Slot 0]突然失足开始下坠， 蛋从[Slot 0]怀里掉了出来， [Slot 0]也从悬崖上摔了下来。人和蛋一起直线下降，不过蛋先着地，啪的一下摔裂了一地。 [Slot 0]摔在地上弹出一段距离，他呻吟着慢慢爬起来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>用绳子攀爬很快。[Slot 5]轻松地爬上了悬崖接近了巢穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Slot 2]保持稳定的动作，慢慢把蛋降了下去。蛋一落地， [Slot 2]就安全的爬下了悬崖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Slot 3]保持稳定的动作，慢慢把蛋降了下去。蛋一落地， [Slot 3]就安全的爬下了悬崖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Slot 4]保持稳定的动作，慢慢把蛋降了下去。蛋一落地， [Slot 4]就安全的爬下了悬崖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Slot 5]保持稳定的动作，慢慢把蛋降了下去。蛋一落地， [Slot 5]就安全的爬下了悬崖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Slot 1]把蛋夹在一只胳膊下面，展示出惊人的攀爬技巧和坚韧，安全的爬了下来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Slot 1]把蛋夹在一只胳膊下面，安全的爬了下来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Slot 1]突然失足开始下坠， 蛋从[Slot 1]怀里掉了出来， [Slot 1]也从悬崖上摔了下来。人和蛋一起直线下降，不过蛋先着地，啪的一下摔裂了一地。 [Slot 1]摔在地上弹出一段距离，他呻吟着慢慢爬起来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Slot 2]把蛋夹在一只胳膊下面，展示出惊人的攀爬技巧和坚韧，安全的爬了下来</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Slot 2]把蛋夹在一只胳膊下面，安全的爬了下来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Slot 2]突然失足开始下坠， 蛋从[Slot 2]怀里掉了出来， [Slot 2]也从悬崖上摔了下来。人和蛋一起直线下降，不过蛋先着地，啪的一下摔裂了一地。 [Slot 2]摔在地上弹出一段距离，他呻吟着慢慢爬起来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Slot 3]把蛋夹在一只胳膊下面，展示出惊人的攀爬技巧和坚韧，安全的爬了下来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Slot 3]把蛋夹在一只胳膊下面，安全的爬了下来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Slot 3]突然失足开始下坠， 蛋从[Slot 3]怀里掉了出来， [Slot 3]也从悬崖上摔了下来。人和蛋一起直线下降，不过蛋先着地，啪的一下摔裂了一地。 [Slot 3]摔在地上弹出一段距离，他呻吟着慢慢爬起来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Slot 4]把蛋夹在一只胳膊下面，展示出惊人的攀爬技巧和坚韧，安全的爬了下来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Slot 4]把蛋夹在一只胳膊下面，安全的爬了下来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Slot 4]突然失足开始下坠， 蛋从[Slot 4]怀里掉了出来， [Slot 4]也从悬崖上摔了下来。人和蛋一起直线下降，不过蛋先着地，啪的一下摔裂了一地。 [Slot 4]摔在地上弹出一段距离，他呻吟着慢慢爬起来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Slot 5]把蛋夹在一只胳膊下面，展示出惊人的攀爬技巧和坚韧，安全的爬了下来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Slot 5]把蛋夹在一只胳膊下面，安全的爬了下来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Slot 5]突然失足开始下坠， 蛋从[Slot 5]怀里掉了出来， [Slot 5]也从悬崖上摔了下来。人和蛋一起直线下降，不过蛋先着地，啪的一下摔裂了一地。 [Slot 5]摔在地上弹出一段距离，他呻吟着慢慢爬起来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[不派一人。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>你后退几步重新思考你的计划。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[亲自攀爬。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>用绳子攀爬很快。你轻松地爬上了悬崖接近了巢穴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>你慢慢登上悬崖， 利用岩石上的裂缝和突刺， 接近了巢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>你开始攀爬光滑的悬崖表面。单用双手爬得非常慢，而且很难。在几乎踩不稳好几步以后， 你还是被迫返回了悬崖下面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>你在蛋上绑了一条绳子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>你保持稳定的动作，慢慢把蛋降了下去。蛋一落地， 你就安全的爬下了悬崖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>你把蛋夹在一只胳膊下面，安全的爬了下来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>你把蛋夹在一只胳膊下面，展示出惊人的攀爬技巧和坚韧，安全的爬了下来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>你突然失足开始下坠， 蛋从你怀里掉了出来， 你也从悬崖上摔了下来。人和蛋一起直线下降，不过蛋先着地，啪的一下摔裂了一地。你摔在地上弹出一段距离，呻吟着慢慢爬起来。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

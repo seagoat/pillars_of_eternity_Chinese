@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\07_gilded_vale\07_cv_osrya</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>95</EntryCount>
@@ -146,7 +145,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"This 'curse' is not a parting gift from the Scattered God. Nor a punishment for petty sins. It must be a localized effect. Something which strips the soul from a body, as the bîaŵacs are known to do."</DefaultText>
+      <DefaultText>"This 'curse' is not a parting gift from the Scattered God. Nor a punishment for petty sins. It must be a localized effect. Something which strips the soul from a body, as the b&#238;a&#373;acs are known to do."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -441,7 +440,7 @@
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>Edér's eyes light up. "Hey, let's take the deal and then double cross her!"
+      <DefaultText>Ed&#233;r's eyes light up. "Hey, let's take the deal and then double cross her!"
 
 "Sorry, I said that louder than I meant to. Got excited."</DefaultText>
       <FemaleText />

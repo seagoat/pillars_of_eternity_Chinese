@@ -1,0 +1,65 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\companions\companion_qst_aloth_and_iselmyr</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>11</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>雙面</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>在反抗灣找到一位覺醒方面的專家。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>亞洛斯說他體內有一個覺醒的靈魂，伊瑟梅爾。它請他幫忙找一位懂這種情況的專家。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>亞洛斯提到反抗灣有一整個致力於研究靈魂的疾病的機構。肯定就是我在侍僧的視角里看到的那個地方。
+
+我可能能找到瞭解覺醒的靈魂的人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>有人要我來找一個叫Bellasege的人。她在療養院的低層工作。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>看起來要想幫助亞洛斯，布拉肯伯裡療養院是最好的地方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>我準備參加公爵的靈魂研究講座。要想幫亞洛斯解決伊瑟梅爾的問題，我得先帶著他找到這個療養院裡的專家。現在還不知道這個講座會對反抗灣裡的靈魂研究產生什麼影響。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>在得知伊瑟梅爾是如何和亞洛斯脾氣暴躁的父親直接對抗之後，我認為他可能還沒有意識到伊瑟梅爾有多大作用。他看起來有些懷疑，不過我相信他會考慮考慮的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>在得知每當進退兩難時，伊瑟梅爾就會得到控制權之後，我就建議亞洛斯最好提防著她。他不該把控制權讓給任何人，即使是自己靈魂的一部分也不行。他看起來同意了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>看起來伊瑟梅爾對亞洛斯來說是把雙刃劍。一方面來說，當亞洛斯面臨困難的時候她會幫忙，但是另一方面，他有時候並不滿意她的處理方式。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我們沒找到亞洛斯需要的靈魂學者。他不得不獨自解決這個問題。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

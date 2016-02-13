@@ -1,0 +1,43 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\06_stronghold\06_tsk_boss_priest</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>悬 赏 ：索 尔 法 恩 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>杀 死 索 尔 法 恩 ，把 他 的 头 带 回 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>把 索 尔 法 恩 的 头 交 给 塞 德 努 亚 的 费 尔 根 典 狱 长 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>伊 欧 萨 斯 的 祭 司 索 尔 法 恩 一 直 在 伊 斯 特 伍 德 制 造 麻 烦 ，并 为 自 己 赢 来 了 一 份 悬 赏 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>伊 欧 萨 斯 的 高 阶 牧 师 索 尔 法 恩 被 指 控 玷 污 了 墓 碑 ，然 后 杀 死 了 前 往 阻 止 他 的 炼 狱 骑 士 。他 是 个 悬 赏 的 对 象 ，我 可 以 前 往 伊 斯 特 伍 德 制 止 他 的 罪 行 来 拿 到 赏 金 。我 需 要 带 回 他 的 头 作 为 他 的 死 亡 证 明 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>索 尔 法 恩 已 经 死 了 ，我 可 以 将 他 的 头 带 给 费 尔 根 典 狱 长 并 得 到 承 诺 的 奖 励 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 拿 到 了 高 阶 牧 师 索 尔 法 恩 的 赏 金 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

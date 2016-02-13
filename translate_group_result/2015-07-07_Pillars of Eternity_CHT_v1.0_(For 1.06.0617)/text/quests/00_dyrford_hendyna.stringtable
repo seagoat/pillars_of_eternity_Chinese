@@ -1,0 +1,87 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\00_dyrford_hendyna</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>15</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>龍蛋</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>從迪福特十字路口獲取一枚龍蛋。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>將龍蛋交給亨黛娜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>將破裂的龍蛋交給亨黛娜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>亨黛娜，迪福特的一位煉金術士，因為路上強盜和難民遍佈，在補給上遇到了點麻煩。她需要些新鮮的材料來製作藥劑。
+
+據她所說，鎮子附近有處遺棄的偽龍巢穴。如果她能從那裡搞來一枚蛋的話，就能夠釀造出新的藥劑。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>亨黛娜跟我說村子東邊有處偽龍築巢。她覺得那是被偽龍遺棄的巢穴，不過顯然不是，而是一群亞龍。
+
+在她想要靠近巢穴的時候，遭到了一群亞龍的攻擊，但如果我能給她帶來一枚蛋的話，她會不勝感激的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我從懸崖上拿到了一枚完好無損的蛋。亨黛娜應該能夠好好利用它。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>龍蛋滾下了懸崖摔破了。已經有東西從裡面流出來了，不過亨黛娜或許仍然能夠用它來釀造藥劑。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>我在迪福特十字路口東北方的懸崖上找到了一處廢棄的巢穴。這懸崖看起來有點難爬；我在嘗試之前我得檢查下我的補給是否充足。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>那些強盜顯然也是衝著這枚蛋來的，這架是非打不可了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>我遇到一夥強盜，他們現在也是在找那枚蛋。我應該能給他們些錢，把他們打發走。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>亨黛娜看到我給他帶來了一枚完好無損的蛋之後大喜過望。她給了我一些材料讓我自己釀造藥劑，同時保證我去她那買東西時給我個特殊的折扣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>亨黛娜對於我能夠成功拿到蛋有點難以置信。儘管蛋有點破了，不過她自信能夠好好利用一番。她給了我一些材料讓我自己釀造藥劑，同時保證我去她那買東西時給我個特殊的折扣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>亨黛娜知道蛋打碎了之後很是失望，不過聽起來她似乎還能夠利用其中的一部分。她給了我一些材料讓我自己釀造藥劑，同時保證我去她那買東西時給我個特殊的折扣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>此任務中的某個重要人物已死亡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

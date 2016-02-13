@@ -1,0 +1,51 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\08_wilderness\08_cv_rhemen_soul_transfer</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>你看到一抹奇怪的光亮从地板上的绿萤一闪而过，上面一张用绿色石头雕刻的脸在下方注视着你。
+
+一股奇异的感觉把你淹没了。一阵尖厉的嘶叫钻入了你的耳道，你的皮肤传来阵阵刺痛，有力使不上。
+
+一瞬间，你感觉你身体内有什么东西猛地一缩。疼痛袭来的时候，你屏住呼吸但是什么人都没看到。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>你从来没有体验过这种疼痛。你体内好像有什么东西烧灼着你，把你的精华分成了两半。你的身体已经完全动弹不得-只有灵魂还在你体内颤抖。
+
+这种感觉瞬间戛然而止，就像来的时候那么淬不及防。你在渴求新鲜空气的时候，注意到你手中的灵魂容器变大了。你感觉你的精华似乎在呼应你的思绪。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“要拿着灵魂容器登上高台。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“力量是一种祭品。为了献出你的力量，你必须献出你灵魂的一部分。
+
+“你乐意把你的精华放在这个容器里么？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>“嗯，我乐意。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>“还没。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>“献祭完成。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

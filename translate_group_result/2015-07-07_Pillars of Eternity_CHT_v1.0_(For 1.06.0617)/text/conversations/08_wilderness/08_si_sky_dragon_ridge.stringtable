@@ -1,0 +1,233 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Name>conversations\08_wilderness\08_si_sky_dragon_ridge</Name>
+<NextEntryID>1</NextEntryID>
+<EntryCount>45</EntryCount>
+<Entries>
+<Entry>
+<ID>1</ID>
+<DefaultText>A高聳的入雲梯半抱著陡峭的懸崖，你越往上攀看到的景色越壯麗。沿著路往前走沒多遠，你發現前面沒路了。前面擋路的大石頭好像是從上面某處落下來的——把你的路堵得嚴嚴實實的。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>2</ID>
+<DefaultText>T那塊大石頭幾乎和懸崖齊平，保護你通過不從另外一邊掉下去。沿著懸崖的邊緣有一處很狹隘的角落剛好夠穿到那一邊。卵石貼地的一面砸碎了下面的台階。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>3</ID>
+<DefaultText>[用錘子和鑿子清路。]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>4</ID>
+<DefaultText>[把石頭清理出去。]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>6</ID>
+<DefaultText>[嘗試繞過大石頭。]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>12</ID>
+<DefaultText>[離開]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>13</ID>
+<DefaultText>Y你聽到了卵石滾下懸崖的回聲。那聲音聽著像頭頂上激起了什麼。你看到道路對面閃過去一道黑影，你都沒看清楚，就消失了。但是你看到頭頂上快速地往下滾落石塊，越滾越多。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>14</ID>
+<DefaultText>誰能一下子把道路清理乾淨？</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>15</ID>
+<DefaultText>[Slot 0].</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>16</ID>
+<DefaultText>[Slot 1].</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>17</ID>
+<DefaultText>[Slot 2].</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>18</ID>
+<DefaultText>[Slot 3].</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>19</ID>
+<DefaultText>[Slot 4].</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>20</ID>
+<DefaultText>[Slot 5].</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>21</ID>
+<DefaultText>Noone.</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>22</ID>
+<DefaultText>Y你後退了一步思考對策。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>23</ID>
+<DefaultText>[Slot 0]努力去舉那塊大卵石，艱辛地努力了一番，那塊大石頭緩緩地動了兩下，順著碎裂的台階往下滾，從側面滾走了。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>24</ID>
+<DefaultText>[Slot 0]用肩膀使勁去頂那塊大卵石，努力想移動它。費了半天勁，顯然那石頭紋絲未動。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>25</ID>
+<DefaultText>[Slot 1]努力去舉那塊大卵石，艱辛地努力了一番，那塊大石頭緩緩地動了兩下，順著碎裂的台階往下滾，從側面滾走了。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>26</ID>
+<DefaultText>[Slot 1]用肩膀使勁去頂那塊大卵石，努力想移動它。費了半天勁，顯然那石頭紋絲未動。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>27</ID>
+<DefaultText>[Slot 2]努力去舉那塊大卵石，艱辛地努力了一番，那塊大石頭緩緩地動了兩下，順著碎裂的台階往下滾，從側面滾走了。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>28</ID>
+<DefaultText>[Slot 2]用肩膀使勁去頂那塊大卵石，努力想移動它。費了半天勁，顯然那石頭紋絲未動。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>29</ID>
+<DefaultText>[Slot 3]努力去舉那塊大卵石，艱辛地努力了一番，那塊大石頭緩緩地動了兩下，順著碎裂的台階往下滾，從側面滾走了。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>30</ID>
+<DefaultText>[Slot 3]用肩膀使勁去頂那塊大卵石，努力想移動它。費了半天勁，顯然那石頭紋絲未動。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>31</ID>
+<DefaultText>[Slot 4]努力去舉那塊大卵石，艱辛地努力了一番，那塊大石頭緩緩地動了兩下，順著碎裂的台階往下滾，從側面滾走了。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>32</ID>
+<DefaultText>[Slot 4]用肩膀使勁去頂那塊大卵石，努力想移動它。費了半天勁，顯然那石頭紋絲未動。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>33</ID>
+<DefaultText>[Slot 5]努力去舉那塊大卵石，艱辛地努力了一番，那塊大石頭緩緩地動了兩下，順著碎裂的台階往下滾，從側面滾走了。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>34</ID>
+<DefaultText>[Slot 5]用肩膀使勁去頂那塊大卵石，努力想移動它。費了半天勁，顯然那石頭紋絲未動。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>35</ID>
+<DefaultText>顯然在這麼一塊大石頭上鑿個縫都很辛苦，要花費不少功夫，尤其是那石頭好多部分堅硬無比，根本鑿不穿，你不得不另尋別的出路。經過一番艱辛的努力下，你的努力終於有所成效，那塊大石頭上掉裂下一塊。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>36</ID>
+<DefaultText>W說時遲那時快，你趕緊躲在了一個小角落裡，躲開了從懸崖上落下的石塊。大石頭砰地一聲重重地撞在了地面上，彈到了石階上，越過路的那一邊滾了下去。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>37</ID>
+<DefaultText>S石頭開始活動，小隊趕緊躲在一個狹小的懸崖縫中—可是[SkillCheck 0]絆倒了，沒來得及躲在避難所。一瞬間天上落下來一堆冰雹大小的碎石塊，如雨點一般砸向他們。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>38</ID>
+<DefaultText>Y等到這陣石雨過後，你繼續攀爬，後面的一段旅程就平安無事了。終於，，你爬上了最後幾級台階，在上面你能看到海莉亞房子高聳的柱子。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>39</ID>
+<DefaultText>B磕磕碰碰的，[SkillCheck 0]爬完了最後一段路程，到達安全的地方。沒過一會兒，頭頂上傳來一陣雷鳴，又砸下來一堆石頭。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>40</ID>
+<DefaultText>A快爬到大石頭上時，你發現石塊邊緣連你的一隻腳都容不下。石頭都裂開了縫，幾乎舉步維艱。猶豫了片刻，[Slot 0]腳下的石頭因受不住自己的重量，滾了下去。說是急那時快，[Slot 0]趕忙衝到了另一邊。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>41</ID>
+<DefaultText>A快爬到大石頭上時，你發現石塊邊緣連你的一隻腳都容不下。石頭都裂開了縫，幾乎舉步維艱。猶豫了片刻，[Slot 1]腳下的石頭因受不住自己的重量，滾了下去。說是急那時快，[Slot 1]趕忙衝到了另一邊。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>42</ID>
+<DefaultText>A快爬到大石頭上時，你發現石塊邊緣連你的一隻腳都容不下。石頭都裂開了縫，幾乎舉步維艱。猶豫了片刻，[Slot 2]腳下的石頭因受不住自己的重量，滾了下去。說是急那時快，[Slot 2]趕忙衝到了另一邊。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>43</ID>
+<DefaultText>A快爬到大石頭上時，你發現石塊邊緣連你的一隻腳都容不下。石頭都裂開了縫，幾乎舉步維艱。猶豫了片刻，[Slot 3]腳下的石頭因受不住自己的重量，滾了下去。說是急那時快，[Slot 3]趕忙衝到了另一邊。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>44</ID>
+<DefaultText>A快爬到大石頭上時，你發現石塊邊緣連你的一隻腳都容不下。石頭都裂開了縫，幾乎舉步維艱。猶豫了片刻，[Slot 4]腳下的石頭因受不住自己的重量，滾了下去。說是急那時快，[Slot 4]趕忙衝到了另一邊。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>45</ID>
+<DefaultText>A快爬到大石頭上時，你發現石塊邊緣連你的一隻腳都容不下。石頭都裂開了縫，幾乎舉步維艱。猶豫了片刻，[Slot 5]腳下的石頭因受不住自己的重量，滾了下去。說是急那時快，[Slot 5]趕忙衝到了另一邊。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>46</ID>
+<DefaultText>Y你緩緩地在大卵石薄薄的邊緣挪動著，有驚無險地爬到了另一邊。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>47</ID>
+<DefaultText>你</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>48</ID>
+<DefaultText>Y你走到石頭旁邊奮力一舉，使上了身上所有力氣。石頭晃了幾晃，壓過了石階，響過一陣碎裂的聲音—接著滾到了一邊。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>49</ID>
+<DefaultText>Y你把手按在石頭邊上，運足力氣往前推。你連吃奶的勁兒都使上了，還是紋絲未動—那石頭實在是太重了。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>50</ID>
+<DefaultText>A快爬到大石頭上時，你發現石塊邊緣連你的一隻腳都容不下。石頭都裂開了縫，幾乎舉步維艱。猶豫了片刻，石頭撐不住你的重量了，滾到了一邊。說時遲那時快，你終於衝到了另一邊。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>51</ID>
+<DefaultText>[檢查該區域。]</DefaultText>
+<FemaleText/>
+</Entry>
+</Entries>
+</StringTableFile>
+

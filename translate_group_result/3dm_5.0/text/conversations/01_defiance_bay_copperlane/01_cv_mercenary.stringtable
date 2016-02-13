@@ -1,0 +1,47 @@
+<StringTableFile>
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_mercenary</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“如果你想雇用人手，就去跟奥斯里克谈谈。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“只要团众给我提前付了银子，我不在乎他们要我去哪。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“继续走。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“我在阿德麦巢穴看到一份非常好的工作。够我忙上好几周了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“想看看吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“跟那些骑士团的混蛋们一起做事感觉如何？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“你就是杀了奥斯里克的混蛋！”</DefaultText>
+      <FemaleText>"You're that bitch who murdered Osric!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>“你比潘海姆那坨屎还低级。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

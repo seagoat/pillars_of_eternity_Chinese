@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>quests\critical_path\act_4\cp_qst_enter_breith_eaman</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>12</EntryCount>
@@ -35,7 +34,7 @@ My hallucinated memories are becoming more frequent now, barely distinguishable 
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>I've learned from Sîdha and Rîhenwn that the way into Sun in Shadow lies in the Burial Isle district. There is an ancient court there that can lead me to Thaos.</DefaultText>
+      <DefaultText>I've learned from S&#238;dha and R&#238;henwn that the way into Sun in Shadow lies in the Burial Isle district. There is an ancient court there that can lead me to Thaos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

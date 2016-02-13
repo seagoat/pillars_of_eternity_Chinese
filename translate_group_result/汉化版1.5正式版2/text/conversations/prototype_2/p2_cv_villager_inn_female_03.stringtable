@@ -1,0 +1,32 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\prototype_2\p2_cv_villager_inn_female_03</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>冰 冷 的 酒 居 然 能 使 僵 硬 的 骨 头 缓 和 起 来 ，这 难 道 不 吊 吗 ？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>如 果 你 想 吃 东 西 ，找 奥 斯 马 尔 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>村 民 举 起 手 中 的 杯 子 ，笑 着 点 点 头 。
+
+
+
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>那 位 &apos;贵 族 &apos;现 在 在 边 境 。他 最 好 小 心 说 话  - 世 界 已 经 不 再 围 绕 他 转 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

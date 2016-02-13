@@ -1,0 +1,42 @@
+<StringTableFile>
+  <Name>quests\06_stronghold\06_tsk_boss_xaurip</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>悬赏：战争酋长 艾克拉克</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>杀了战争酋长艾克拉克，带回他的头。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>把战争酋长艾克拉克的头带给凯德 努阿的佛莱根守卫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>战争酋长艾克拉克是一个蜥蜴人领袖。他在谷木附近游荡。当地人提供了赏金希望有人能永远的把他赶出去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>战争酋长艾克拉克已经在谷木扎营。如果我杀了他带回了他的头，我就可以拿到赏金。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>战争酋长艾克拉克已经死了。如果我想拿赏金，我只需要把他的头带给佛莱根守卫就行了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我获得了关于战争酋长艾克拉克的赏金。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

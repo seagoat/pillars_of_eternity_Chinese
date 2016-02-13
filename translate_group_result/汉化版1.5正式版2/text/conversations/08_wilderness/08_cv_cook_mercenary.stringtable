@@ -1,0 +1,17 @@
+﻿<StringTableFile>
+  <Name>conversations\08_wilderness\08_cv_cook_mercenary</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“你 最 好 给 我 滚 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“我 没 时 间 跟 你 们 这 些 菜 鸟 玩 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

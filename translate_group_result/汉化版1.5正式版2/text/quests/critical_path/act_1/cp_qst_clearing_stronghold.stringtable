@@ -1,0 +1,63 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\critical_path\act_1\cp_qst_clearing_stronghold</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>11</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>清 理 道 路 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>修 理 东 方 瓮 城 ，前 往 林 端 平 原 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>与 管 事 交 谈 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>前 往 反 抗 湾 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>马 尔 瓦 德 去 世 后 ，留 给 我 一 个 年 久 失 修 的 据 点  - 塞 德 努 亚 。可 是 ，如 果 我 想 继 续 冒 险 ，就 必 须 先 修 整 它 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>塞 德 努 亚 现 在 属 于 我 ，但 路 被 碎 石 土 堵 住 了 。如 果 我 想 继 续 前 往 林 端 平 原 ，那 是 这 里 与 反 抗  湾 的 交 叉 路 口 ，就 必 须 修 好 东 方 瓮 城 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10006</ID>
+			<DefaultText>老 通 魂 者 已 经 离 世 ，荒 废 的 主 楼  - 即 塞 德 努 亚 ，也 在 弃 置 中 。或 许 我 应 该 跟 管 事 谈 谈 怎 样 才 能 找 到 去 反 抗 湾 的 路 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10007</ID>
+			<DefaultText>已 经 清 理 了 去 反 抗 湾 的 路 。我 应 该 尽 快 赶 往 城 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 已 经 修 好 了 塞 德 努 亚 通 往 外 面 的 路 。长 路 漫 漫 ，不 过 我 还 是 抵 达 了 反 抗 湾 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我 打 算 集 中 财 力 ，修 好 通 往 反 抗 湾 的 路 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

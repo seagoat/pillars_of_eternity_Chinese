@@ -1,0 +1,95 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\12_twin_elms_oldsong\12_tsk_songs_of_the_wild</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>16</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>野性之歌</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>找到并捕获三个罕见的鸣禽</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>返回古老乐曲区的叶那里。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>古老乐曲区的一位吟唱者叶正在寻找罕见的鸣禽。他声称，通过用这些有异国情调的鸟，他可以吸收其音乐的天性。他希望这将使他能够谱写一首巧夺天工的歌以停止在古老乐曲区的寒风。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>作为古老乐曲区的羽精人，叶十分想念过去被正午之霜的寒意所驱赶的人群，他们曾经在广场中又跳又唱，十分热闹。
+叶认为，如果他可以使用三只罕见的鸣禽的肉，它们会加强他的精神，他将能够把人群吸引回来。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我为叶收集了三个特殊的鸣禽。我应该在双榆城的古老乐曲区把东西交给他。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>叶给了我一些关于他搜寻的鸟的有用的信息。
+
+提亚姆是在格兰法斯十分流行的动物，通常被关在笼子里，但尽管如此，这些动物也依旧很少见。
+
+翼鸟是一种倾向于生活在草丛中的小鸟，通常情况下是在大型绿萤附近的绿松石周边，它的羽毛会在石头上蹭来蹭去。
+
+最后，叶想要一只咏鸟，这种鸟极为罕见，它们的巢穴只出现在伊尔格兰法斯最高的山峰上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>我在双榆城外的野境中找到了一只翼鸟。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>我在炉火乐曲区的寓所内发现了一只提亚姆。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>在山顶，我在海莉亚神殿边上抓住了美丽的咏鸟。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我找到了叶需要的三种鸣禽。我的努力使他非常高兴。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>在与海莉亚的祭司一番谈话后, 我终于说服了叶，让他明白了“吃什么长什么”的这种说法是错误的。他看上去有点失望。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>在与一只罕见鸣禽的主人勒恩斯谈过之后，我明白了叶的计划是基于荒野羽精的迷信的。我说服了他，让他知道这计划是错误的，他很不情愿地放弃了这一想法。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>任务失败</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30005</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

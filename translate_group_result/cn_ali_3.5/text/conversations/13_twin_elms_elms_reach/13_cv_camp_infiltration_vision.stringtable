@@ -1,0 +1,270 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\13_twin_elms_elms_reach\13_cv_camp_infiltration_vision</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>46</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“别动。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>幻影士兵把短剑指向了你的胸口。“你出现在了一个错误的城市……检察官。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>Trigger Conv Node 3</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“你以为你在这里，自己的老家不会被认出来吗？我亲眼看过你的审判。我看到过你烧死过善良的人。我认识了许久的人。”
+
+他扼住了你的喉咙，你感觉呼吸困难，你分不清这是现实还是幻觉。“你应该向他们忏悔。”他举起了剑，距离你的眼睛不过一尺之遥。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“索罗斯，你在干嘛？”
+
+那个士兵受到了惊吓，立刻松开了手转向了说话的人，那是一个穿着毛外衣，比索罗斯低了一个头的女人，但看上去气势却压倒了他。你之前看到过这个女人，但是是在很远的地方外，她满是鲜血和烧伤，横躺在铁轮之上。那时候，她也没有受到医生过多的关注。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>如果他是个蠢到在白天靠近士兵的刺客的话，那我还有什么好怕的呢？我想听听这个人有什么话说。”
+
+她盯着他看，直到他不敢再看着她。他悻悻地转过了身，斜视着你，握着剑的手变得惨白。</DefaultText>
+			<FemaleText>&quot;If she is so poor an assassin as to approach an armed guard in daylight, I should have little to fear. I would hear what this woman has to say.&quot;
+
+She stares him down until he can no longer face her. He turns away, sour-faced, and pretends to be suddenly distracted by something far off.</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“你为什么会在这里，检察官？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“我……认识你吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>伊奥瓦拉看到你第一眼的时候，眼睛睁得很大。“我的亲哥哥，回家了！我从来没有想象过这一天的到来。”</DefaultText>
+			<FemaleText>You venture through the doorway and into a passage strewn with rubble. A spiraling staircase descends to a a lower level where a damp sea breeze mingles with centuries of dust.</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>伊奥瓦拉看到你第一眼的时候，眼睛睁得很大。“这肯定是我的幻觉。我没想到还能在看到你。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>我没有权力这么想。想想我们做的那些事。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>[说谎]“我只不过是想再看看你。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>[说谎]“我是来不惜一切帮助你的。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>[说谎]“我开始相信你所说的了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>[说谎]“我作为审判官所犯下的罪恶沉重得让我无法接受。我希望帮你结束它。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>“大审判官赛奥斯·阿坎诺派我来这里监视你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>[说谎]“我希望我们能够重新开始。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>“一个有用的审判官。有意思。如果你们都能那么有用就好了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>“我……希望还有其他理由。但是你能来及已经很不错了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>“我意识到那对于你的意义并不只是那些，但是我无法责怪一个跟从自己意愿的人。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>“你应该知道当你的大审判官让你皈依的时候，他的意思是让你去教导别人皈依吧？
+
+“困惑先放到一边，能看到真实能经受多少猜忌就已经很好了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>“老学生回来找我……这感觉实在是太特别了。我在传授了那么多错误的知识之后，看来还是做过了一些好事吧。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>“我在过去传授给你的知识中犯了很多错误。我希望你能给我一个展示自己改过自新的机会。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>“不管怎样，老朋友能回来总是好的。这比你想象得要更孤单，把你的朋友变成跟随者。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>伊奥瓦拉好奇地看着你。“这真是个惊喜。我好久没有见到老朋友了。尤其是你……我从来没想到过。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>“不管你那几年是怎么回事，我都好想你。在我身边都是陌生人的时刻，你终于回来了，多么令人喜出望外啊。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>“不过毕竟血浓于水，亲情关系是永远割不断的。所以我坚信我们终有一天会团聚的。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>“在听到赛奥斯的宣判时我就知道我可能会永远失去你了。能看到我们的家庭重聚再也无法那么轻易地分开，简直是最美好的事情了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>“如果有什么方式会把我们分开的话，那就是大审判官不会留情。但是你能来到这里，说明我们离我想象的生活不远了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>“在那之后发生了好多事情。审判教团……”
+
+她失神地垂下头，恍惚了很久。
+
+“我觉得现在什么都无关紧要。毕竟有你在这。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>“为了救我你冒了多大风险。我绝不会让任何人为了我这么做，尤其是这个人的生命对我来说至关重要。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>“我真的…看到你为我想的这么周全很惊讶。我从没这么要求过你，你是知道的。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>“你从哪儿来啊，检察官？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>“实际上就在这附近吧。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>“是这样吗？我这几天见过不少了。我的大批追随者从别的城市和王国涌来。这群士兵们大多是从别的村庄召集过来的。
+
+“我很欢迎那些在平和时期十分了解克莱塔姆的人加入我们。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>她死死的盯着你。“我会记住你的。那是几年前的事情，我还是个传教士。在此一切发生之前。”她摇了摇头。
+
+“现在想想那段日子真是不堪回首，对吧？我是承受不了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>“我很少一部分追随者是来自这些敌方的。士兵们大多数是从市井应招来的。如果有十分了解克莱塔姆的成员是件好事情。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>“我很欢迎留下你做我们尊贵的客人。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>没安生多久，士兵们开始步步紧逼伊奥瓦拉，还把手放在她肩上，把她转向一边。他的声音沉着但丝毫不带个人感情。
+
+“伊奥瓦拉夫人，我请求您。这是一位检察官大人！这只不过是你生活中一次绝望的尝试。唯一可以实现的方式要看你的意志。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>她平静优雅地把他的手从自己的身上移开。“这是一个传教士，跟我一样的传教士。传授的东西像我一样荒谬。
+
+“如果我对一个男人的能力没信心仅仅是因为他知道真相，那我们还有什么希望？”</DefaultText>
+			<FemaleText>She brushes his hand away with the calm grace of the resolute. &quot;This is a missionary, same as I was. Taught the wrong things, as I was.
+
+&quot;If I can&apos;t have faith in one woman&apos;s ability to reason once she knows the truth, what hope do we have?&quot;</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>“我们这里有很多卸任的传教士。他们对我们十分忠诚，能给我们很大帮助。很多人肯为我们送命。我们不能抛弃他们。”
+
+“而且如果宗教法庭想要我的命的话简直易如反掌。但是他们很清楚我的事业绝不会因为我的死亡而毁灭。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>伊奥瓦拉眼都没眨一下。“那状况不是也一样让人绝望吗？我永远也搞不明白。
+
+“我只希望你下一项任务更刺激一点。听我传道授业对于一个间谍来说一定无聊透顶。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>伊奥瓦拉把你召唤到她身后某个地方。“过来。我们有许多事情需要谈谈。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>“夫人，这是宗教法庭派来的刺客。正在侵入我们的营地。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>“夫人，他已经承认自己是间谍了！”</DefaultText>
+			<FemaleText>&quot;My Lady, she ADMITS being a spy!&quot;</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>“那他就构不成什么威胁了，你觉得呢？
+
+“我没什么可隐瞒的。我发现这是一个劝说某个人来帮助我们的好机会。”</DefaultText>
+			<FemaleText>&quot;That should make her less of a threat, wouldn&apos;t you agree?
+
+&quot;I have nothing to hide. All I see here is an opportunity to persuade someone who could help us.&quot;</FemaleText>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

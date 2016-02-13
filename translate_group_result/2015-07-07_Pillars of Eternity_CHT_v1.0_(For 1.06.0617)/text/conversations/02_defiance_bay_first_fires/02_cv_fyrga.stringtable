@@ -1,0 +1,531 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\02_defiance_bay_first_fires\02_cv_fyrga</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>91</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>女人鞠躬的同時嘴裡祈禱著什麼。當你靠近時，你發現她在瞄離她不遠的雕像。
+
+
+
+她注意到你後強顏歡笑道。「讚美瑪格嵐，歡迎來到她的神殿。有什麼我可以效勞的嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>她的嘴唇扭曲出一個僵硬的笑容。「什麼風把你吹到神殿來了？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>菲爾佳點點頭。「願你受到火焰的指引和磨練。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>多虧了你，神聖的火焰繼續在城市周圍燃燒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>儘管我很快會退讓我的角色，但還是有大量工作要做。找個繼任者不是容易的活。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>你好像不高興。怎麼了？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>神殿？我以為這是個宮殿。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>「再見。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>DEBUG：Set Conditions for Quest Resolution = True.</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>她塌下肩膀。「你是為火焰而來對嗎？」她把一隻手搭在你的肩上。「那些只是象徵物。你不能對其產生信仰。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>火焰？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>「其實都對。這是德埃瓦爾公爵掌管的宮殿，但這裡也是榮譽和崇拜瑪格嵐的地方，領導我們學會獨立且一直眷顧著我們城市的女神…」她的微笑漸漸淡去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>[拿出燃燒的石頭。]我親自去了趟灼燒瀑布。這是我在那裡找到的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>最聰明的瑪格嵐，用你的火焰轉化我們…</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>我讓火心穩定燃燒了十五年，但我好幾個月沒能召喚它們。人們這些天比以往任何時候都需要看到它們。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>這可能會聽上去太牽強，尤其你這樣的人…</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>有些事情你確實知道，但沒法理解。如果我沒弄錯，你似乎明白我的意思。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>慢點，告訴我這到底怎麼回事。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>只是象徵物？那你還這麼憂慮幹嘛？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>她歎了口氣。「城鎮周圍的神聖柴堆。你肯定在城市周圍看到過舉著空火盆的女神雕像。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>「不！只是-」她像釋放蒸汽一樣噓了口氣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>那是什麼意思？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>那再去點燃它們啊。我看這裡不是有很多火麼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>[聳肩]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>不是光點著就行了。那些是神聖之火。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>是我的奉獻和祈禱才使它們一直燃起。但最近，當我試圖祈禱時，我腦子裡只有遍佈全城的無魂兒。悲傷的家庭。難民。
+
+
+
+她搖搖頭。「瑪格嵐怎麼會讓我們受這樣的苦？從無魂兒身上我們能獲得什麼力量？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>這動搖了你的信念？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>記住，不要太輕易拋棄你的信念。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>她點點頭，用雙手擼了擼頭髮。「但我相信瑪格嵐會再次找我傾述。」她皺了皺眉頭，然後朝你瞥了一眼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>你似乎不像對信念的奧秘有多大用處的類型，但我想不出任何其他方式來解釋。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>你還虔誠，不是嗎？你肯定能明白我下面要說的話。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>最近，我經常看到幻覺。荒野中的某個地方，有充滿色彩的游泳池。奇怪的瀑布，就好像是天堂的水濺入了大地。
+
+
+
+她舉起手，彷彿在構造幻覺的圖像。「瀑布後是一個山洞。充滿了火焰，溫度，危險…和一些我女神的象徵物。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>「好吧，我不能這麼冷淡，但我相信瑪格嵐會再找我傾述。」她皺了皺眉頭，然後朝你瞥了一眼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>她懷著希望點點頭，雙手緊握在一起。「你說得對。幸運的話，我相信瑪格嵐很快會再找我傾述。」她朝你瞥了一眼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>我想知道更多關於神殿的事。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>瑪格嵐是我們迪伍德人當中最受尊敬的女神，所以這一點不奇怪，她的神殿是公爵宮殿的一部分。她的火焰象徵著試煉，革命和新道路的閃耀，這些都對我們非常重要。
+
+
+
+她指了指雕像。「這是神聖柴堆的第一堆。當點著火焰時，城市周圍的其他地方都會燃起。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>神聖柴堆有什麼重要意義？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>「它們象徵瑪格嵐的力量和領導力。眼下反抗灣的人民需要確信她的存在。」她叉起胳膊，盯著雕像。
+
+
+
+我們維拉共和國的鄰居把我們當成迷信，但我們只是敏感神的預兆和警告。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>「它們象徵瑪格嵐的力量和領導力。眼下反抗灣的人民需要確信她的存在。」她叉起胳膊，盯著雕像。
+
+
+
+你們維拉人把我們當成迷信，但我們只是敏感神的預兆和警告。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>還有別的嗎？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>你仍然出現瀑布的幻覺？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>她的聲音低而安靜。「是的，山洞和…洞內的東西。一些小而明亮的餘燼被可怕的危險圍繞著。我只希望我能親自去那裡。」她雙眼愧疚地轉身看著雕像。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>她用雙手捧起石頭並喘著氣。「聖火在上！你知道這是什麼嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>這是聖錘炸彈的碎片。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>不。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>不管是什麼，聽上去像是我該留下的東西。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>她將手中的石頭翻了個身。「這是聖錘炸彈的碎片。正是瑪格嵐親自幫我們鍛造來在聖戰時擊敗懷德溫的武器。」
+
+
+
+她將手中的石頭翻了個身，凝視著明亮的光芒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>「是的。」她將手中的石頭翻了個身。「正是瑪格嵐親自幫我們鍛造來在聖戰時擊敗懷德溫的武器。」
+
+
+
+她將手中的石頭翻了個身，凝視著明亮的光芒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>但她的嘴抿成不同意的樣子，橙光在她臉上勾勒出深深的陰影。「那我為何不覺得有什麼不同？這又能帶來什麼好處？」
+
+
+
+她用手指捏緊石頭的同時指關節開始泛白。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>你擁有神設計的武器。有這樣的東西存在就應該對你懷揣敬畏。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>瑪格嵐是試煉女神，但你派我去追尋她賦予你的幻覺。你證明了自己毫無信仰。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>我不知道該怎麼跟你說。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>她的臉放鬆下來，但她的眼睛沉浸在手中發光的石頭上。「果真如此。這不是答案…但其中有含義。」她緊握手中的石頭，然後收了起來。「我都忘了這有多麼重要了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>她將聖錘交託給她的追隨者。或許她再次信任他們能終結遺症。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>「通過試煉轉化。」她將手中的石頭翻了個身。「這不是個簡單的答案，但我也沒指望從女神這知道多少。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>她的表情顯得非常痛苦。「那是一次測驗？還是只是瑪格嵐早已知道的證據？」她收好石頭。「我懷疑或…但我一直希望是不同的答案。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>「也許根本沒有答案。總之對我們凡人來說沒有。」她捏緊了抓著石頭的手指。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>她傷心地看著兩手空空的雕像。「這是信仰的真正負擔。不是女神的挑戰，而是她的缺席。她的沉默。或者說是表現出你空洞信念的答案。」
+
+
+
+她在她面前折疊起雙手。「還是需要數周才能任命一位合適的繼承人。在此期間，我會盡我所能為人民服務。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>當她看著雕像時，火焰從舉起的手中彈起。「我一直深愛瑪格嵐的一點就是她與火的親和力。火焰的形成和擴散。」你從房間裡蕩漾的火焰中感到溫暖。
+
+
+
+你已經滿足了我的需要。我會確保給於反抗灣的人民他們所需的支持。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>Bank Node 67</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>杜蘭斯不屑地嘟噥著。「從逆境、試煉和考驗中我們能得到什麼？
+
+
+
+火焰不凋謝是因為她缺乏信仰，它們凋謝是因為她不知道如何忠實於一個妓女。
+
+
+
+妓女既不想得到表揚，□□也不想得到忠誠。妓女想為她的服務得到補償，而瑪格嵐得到的卻是焦急，掙扎與痛苦。這…哭泣蠢蛋愧對了瑪格嵐的女人味。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>Bank Node 69</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>哼。一文不值，就像許多瑪格嵐的教徒。害怕神的考驗。如果瑪格嵐找她傾述，那是為了加速結束一個虛偽的人的生命，而這幻覺無疑是對弱者的死亡陷阱。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>不知道這對她來說有多滿足，如果還有別人跟隨她的夢想。但這些天道路對任何人來說都不安全。如果換成我們也許更好。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>莎加妮皺起畫過的眉毛。「一個沒有明確結果的未知使命。我可以理解她的困惑。不過，既然是她出現幻覺居然會派我們去，似乎有點奇怪。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>「我對幻覺不抱太大的希望，這我承認，但這次令我非常著迷。」卡納露出牙咧大嘴笑著。「也許我們能找到這個恩惠。我相信菲爾佳會很高興，沒準瑪格嵐會偏袒我們的試煉。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>Bank Node 74</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>很奇怪，看到它就在你的面前。過去還…只是故事。從來沒感覺到真實過。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>「既是眾神也是同族的作品。」卡納若有所思地看著石頭。「不是微薄的遺物。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>Bank Node 77</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>很奇怪，看到它就在你的面前。過去還…只是故事。從來沒感覺到真實過。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>「在勞亞泰我們有大炮，炸藥，炸彈…但這是不同類型的作風。」卡納若有所思地看著石頭。「一段歷史。這不是你追尋的預兆？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>Bank Node 80</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>哈。意義。她根本不知道這意味著什麼。代表什麼。有什麼來頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>Bank Node 82</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>每個人都需要通過試煉，迴避不了。迴避就代表失敗。她的脆弱在遺物光芒的照耀下顯得平淡。她或許是穿著瑪格嵐的長袍，但她從來不跟著她。
+
+
+
+這個迷失在黑暗中。不要忘了是什麼樣子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>Bank Node 84</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>這個女人甚至沒盡力！假如就只有我們倆，我會承擔起責任灌輸真正的轉化。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+			<DefaultText>Bank Node 86</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+			<DefaultText>除了那些不隨便屈服於試煉的人，還有就是運氣好到沒被強迫參與的人。
+
+
+
+她是個空殼，根據追隨者的要求被神拒絕。如果瑪格嵐有一絲憐惜，她就會像對付起泡的雜種一樣消滅她。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>「好了，我給你些你或許需要的東西。」她消失了，然後手裡揣著什麼迅速回來了。「配得上女神本人的武器。請把這作為感謝你對瑪格嵐以及對我的幫助收下。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+			<DefaultText>她再次歎了口氣。「在這裡等一會。」她消失了，然後手裡揣著什麼迅速回來了。「我不再適合用這武器，但也許能為你效勞。再說，你在這作出的貢獻我確實欠你的情。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>幸好不用。既然我的信仰已經恢復了，我的夢想一直很平靜。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+			<DefaultText>我經常回想，糾結自己做過卻不該這麼做的事。但不，我怕瑪格嵐不會再找我傾述了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+			<DefaultText>謝謝。再見。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+			<DefaultText>「我知道有些東西在那。但在哪裡，我如何到那…」她搖搖頭。
+
+
+
+我一直在探險大廳到處打聽，看是否有人認得出那描述。但說實話，即使我找到了那地方，我也不知道該做什麼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>94</ID>
+			<DefaultText>我對幻覺不抱太大希望，但是…也許我們可以幫助她，[Player Name]。為了得到答案我願意付出。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>95</ID>
+			<DefaultText>她的頭髮蓬亂，雙眼空心一副失眠的樣子。「恐怕我們沒繃帶和藥膏了，但大門將繼續為尋求指引和庇護所的人敞開。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>96</ID>
+			<DefaultText>她朝你乾笑了一下。「我該從哪裡開始？暴徒幾乎燒燬了城市，現在人們都找我尋求答案。好像我懂政治一樣。或主張和平。就因為有火焰…」
+
+
+
+她搖搖頭。「最重要的是，神聖火焰始終熄滅著。我試圖告訴人們那只是一個象徵物，但似乎很難改變別人的想法。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>97</ID>
+			<DefaultText>「通過試煉轉化。」她將手中的石頭翻了個身。「我們最近無疑看到過開端了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>98</ID>
+			<DefaultText>你密切關注更深的世界奧秘，不是嗎？也許你能明白我下面要說的話。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

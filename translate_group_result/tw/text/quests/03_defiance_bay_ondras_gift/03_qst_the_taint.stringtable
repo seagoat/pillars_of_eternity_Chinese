@@ -1,0 +1,126 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\03_defiance_bay_ondras_gift\03_qst_the_taint</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>23</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>供 給 和 需 求 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>找 到 並 對 抗 暴 徒 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>處 理 襲 擊 的 幕 後 主 使 人 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>向 昂 德 拉 之 地 妓 院 裡 的 瑪 伊 婭 報 告 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>對 抗 昂 德 拉 之 地 妓 院 裡 的 瑪 伊 婭 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>向 昂 德 拉 之 地 妓 院 裡 的 瑪 伊 婭 報 告 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>街 頭 暴 徒 在 騷 擾 鹹 桅 桿 的 嫖 客 和 妓 女 。女 主 人 瑪 伊 婭 想 要 結 束 它 ，但 是 鼓 動 者 也 可 能 有 他 們 自 己 的 不 滿 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>鹹 桅 桿 的 女 主 人 瑪 伊 婭 ，想 讓 我 阻 止 騷 擾 她 嫖 客 和 妓 女 的 暴 徒 。她 懷 疑 有 人 正 在 組 織 他 們 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我 找 到 了 那 些 暴 徒 的 頭 目 。我 可 能 能 夠 終 結 在 妓 院 附 近 的 騷 擾 。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>聽 到 我 已 經 擺 平 了 曾 策 劃 恐 怖 襲 擊 的 艾 弗 雷 之 後 ，瑪 伊 婭 將 會 如 釋 重 負 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10008</ID>
+			<DefaultText>艾 弗 雷 解 釋 說 瑪 伊 婭 已 通 過 提 高 她 的 價 格 從 維 德 文 的 遺 贈 中 獲 利 頗 豐 ，只 有 富 人 才 能 在 她 的 苛 政 中 生 存 。
+
+我 同 意 說 服 瑪 伊 婭 降 低 她 的 價 格 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10009</ID>
+			<DefaultText>布 裡 坎 塔 德 梅 尼 爾 同 意 降 低 苦 瓜 的 價 格 。瑪 伊 婭 現 在 可 以 為 所 有 人 降 低 她 的 價 格 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>有 個 暴 徒 丟 下 了 一 把 看 起 來 像 是 昂 德 拉 之 地 某 棟 房 子 的 鑰 匙 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20005</ID>
+			<DefaultText>瑪 伊 婭 告 訴 我 ，她 不 得 不 提 高 她 的 價 格 ，因 為 苦 瓜 的 價 格 已 經 上 漲 了 。她 建 議 我 跟 她 在 布 拉 肯 伯 裡 的 供 應 商 布 裡 坎 塔 德 梅 尼 爾 談 談 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20006</ID>
+			<DefaultText>我 被 騷 擾 妓 院 嫖 客 的 暴 徒 攻 擊 了 。如 果 瑪 伊 婭 的 理 論 是 正 確 的 ，他 們 其 中 一 個 人 身 上 可 能 會 藏 著 更 大 陰 謀 的 證 據 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20007</ID>
+			<DefaultText>瑪 伊 婭 告 訴 我 ，她 不 得 不 提 高 她 的 價 格 ，因 為 苦 瓜 的 價 格 已 經 上 漲 了 。她 建 議 我 跟 她 在 布 拉 肯 伯 裡 的 供 應 商 布 裡 坎 塔 德 梅 尼 爾 談 談 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 殺 了 艾 弗 雷 。瑪 伊 婭 很 高 興 地 知 道 這 些 暴 徒 不 會 再 給 她 添 麻 煩 了 ，於 是 便 給 了 我 逛 妓 院 的 折 扣 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我 說 服 了 艾 弗 雷 停 止 他 的 騷 擾 。瑪 伊 婭 又 驚 又 喜 ，給 了 我 在 妓 院 的 折 扣 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我 告 訴 瑪 伊 婭 ，如 果 她 不 想 讓 事 情 變 得 更 糟 的 話 ，她 將 不 得 不 降 低 她 的 價 格 。她 惱 火 地 同 意 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我 說 服 瑪 伊 婭 說 ，如 果 她 在 妓 院 降 價 的 話 ，她 會 過 的 更 好 的 。她 贊 成 了 我 的 邏 輯 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText>我 為 瑪 伊 婭 和 布 裡 坎 塔 德 梅 尼 爾 談 了 苦 瓜 降 價 的 問 題 。在 我 幫 了 他 之 後 ，布 裡 坎 塔  是 很 樂 意 效 勞 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30005</ID>
+			<DefaultText>我 把  艾 弗 雷 鎖 在 我 的 地 牢 裡 。瑪 伊 婭 又 驚 又 喜 ，給 了 我 妓 院 的 折 扣 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30006</ID>
+			<DefaultText>我 殺 了 瑪 伊 婭 ，所 以 我 不 會 從 她 那 裡 得 到 獎 勵 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

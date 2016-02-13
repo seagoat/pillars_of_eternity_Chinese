@@ -1,0 +1,17 @@
+<StringTableFile>
+  <Name>conversations\07_gilded_vale\07_bs_villagers_misc_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“你去过反抗湾吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“像他们那样？还是算了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

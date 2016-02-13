@@ -1,0 +1,104 @@
+<StringTableFile>
+  <Name>quests\02_defiance_bay_first_fires\02_qst_winds_of_steel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>钢铁之风</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>去安斯洛角</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>去码头见阿兰罗德。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>返回试炼城堡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>打败流浪的熔铸骑士。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>返回试炼城堡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>与指挥官克莱维交谈。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>指挥官克莱维的熔铸骑士计划似乎成功了。事实上高阶审判者还希望克莱维能提供给他熔铸骑士的制造方法，好让他也在破舰堡制造自己的熔铸骑士。
+
+指挥官克莱维希望我能把研究成果带给目前位于安斯洛角的一个高阶审判者的指挥官。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>安斯洛角是挑战湾正北方的一片礁湖。克莱维指挥官告诉我，高阶审判者的信使，一位名叫阿兰罗德的指挥官会在那里等着我。直接派船去挑战湾的话，很可能会引起十二团众的注意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>阿兰罗德会在码头等我把研究成果带给他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我已经把研究成果带给了阿兰罗德，而她也在回破舰堡的路上了。我应该回到起始之火的试炼城堡找克莱维报告了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我回到试炼城堡以后发现熔铸骑士暴走了，试炼骑士好像无法抵挡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>阿兰罗德已经死了，熔铸骑士的制作方法也就与破舰堡无缘了。无论如何，我应该回去找指挥官克莱维报告。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>熔铸骑士的威胁已经被解除了，我是时候去找克莱维指挥官问问事情的来龙去脉了，而且我还没告诉他安斯洛角发生了什么呢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>我从十二团众的埋伏中活了下来，他们想要夺取维安娜的研究成果。现在他们打算去破舰堡抢研究成果，而阿兰罗德已经在回去的路上了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>我不知道熔铸骑士出了什么岔子，但克莱维指挥官大概可以解释解释——如果他没有战死沙场的话。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>帕特博德是十二团众的一员，在交易过程中他伏击了我和铸铁骑士们。十二团众一直致力于阻止铸铁骑士团组建一支熔铸骑士的大军。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>铸铁骑士来犯时，我也参与了试炼城堡的保卫战。克莱维向我致了谢，并承诺会在今后提供援助。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>克莱维指挥官死了。我也无法指望铸铁骑士团的援助了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

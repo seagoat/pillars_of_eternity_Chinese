@@ -1,0 +1,48 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\01_defiance_bay_copperlane\01_cv_mercenary</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>8</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“如果你想招募什么人，去找奥斯里克谈谈。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“只要卫邦十二人团没有提前支付酬劳，我是不会在乎他们把我送到什么地方去的。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“不要停下。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“在巢穴我留意到一份很好的契约。足以供我花费好几个星期的。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“你看到的是什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“戏耍这些自大的混蛋骑士感觉怎么样？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“你就是杀了奥斯里克的混蛋！”</DefaultText>
+			<FemaleText>&quot;You&apos;re that bitch who murdered Osric!&quot;</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>“你甚至比潘赫姆还低级，狗屎。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

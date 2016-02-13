@@ -1,0 +1,43 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\06_stronghold\06_tsk_boss_xaurip</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>悬 赏 ：伊 克 拉 克 酋 长 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>杀 死 伊 克 拉 克 酋 长 ，把 他 的 头 带 回 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>把 伊 克 拉 克 酋 长 的 头 交 给 塞 德 努 亚 的 费 尔 根 典 狱 长 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>伊 克 拉 克 酋 长 是 一 个 在 韦 尔 伍 德 徘 徊 的 蛇 蜥 人 头 目 。当 地 人 提 供 了 赏 金 ，希 望 他 从 该 地 区 永 远 消 失 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>伊 克 拉 克 酋 长 在 韦 尔 伍 德 建 立 了 营 地 。如 果 我 可 以 杀 了 他 并 带 回 他 的 头 ，我 就 能 拿 到 赏 金 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我 已 经 杀 了 伊 克 拉 克 酋 长 。现 在 我 只 需 要 把 他 的 头 带 给 费 尔 根 典 狱 长 换 取 赏 金 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 拿 到 了 伊 克 拉 克 酋 长 的 赏 金 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

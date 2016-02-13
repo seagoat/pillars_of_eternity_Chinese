@@ -1,0 +1,107 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\12_oldsong\12_si_maw_bridge</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>19</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>一座倒塌已久的桥的残骸，通向一个深坑。桥的远端穿过深坑中升起的雾气，搭在深坑另一端的陡峭边缘上，摇摇欲坠。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>[检查该区域。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>[抛出你的绳子和爪钩越过峡谷。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>[离开]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>经过几个世纪风化的桥梁的碎石，散落在深坑的边缘。从下方升腾起淡淡的薄雾。石头上面长满了滑滑的青苔，很难抓牢。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>不过，桥两端的木头横梁似乎完全可以承受得了你的体重。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>你瞄准对面桥头的木头横梁用力投出了爪钩。爪钩击中桥发出“咚咚”的声音。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>你拉了拉，确保钩子牢固地嵌入到了木头中。绳索拉直后绷得很紧，很安全。你将绳索的另一端绑在了身边的木头横梁上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>横穿深坑的过程是艰难的，尤其是当绳索晃动很厉害的时候。你听到队员们急促的呼吸声，看来他们也都精疲力竭了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>[横穿过深坑。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>横穿深坑的过程是艰难的，尤其是当绳索晃动很厉害的时候。[SkillCheck 0]的呼吸变得急促，[SkillCheck 1]、[SkillCheck 2]和[SkillCheck 3]慢了下来。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>横穿深坑的过程是艰难的，尤其是当绳索晃动很厉害的时候。你听到队员们急促的呼吸声。只有[SkillCheck 0]能跟上他们的节奏。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>历尽艰险，你终于踏在了坚实的地面上，到了深坑的另一端。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>当你抓着绷紧的绳索向前移动时，它摇动着。你每前进一步，木头横梁就发出的吱吱咯咯的声响回荡在下面的深渊中。
+
+你保持着平稳的节奏。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>一座倒塌已久的桥的残骸，通向一个深坑。桥的远端穿过深坑中升起的雾气，搭在深坑另一端的陡峭边缘上，摇摇欲坠。
+
+你的绳索穿过了深坑的开口。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>横穿深坑的过程是艰难的，尤其是当绳索晃动很厉害的时候。[SkillCheck 0]的呼吸变得急促，[SkillCheck 1]和[SkillCheck 2]慢了下来。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>你平安到达了另一端。你在桥另一端打的结仍然很结实，两边的木头横梁似乎也没因负重而损坏。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>横穿深坑的过程是艰难的，尤其是当绳索晃动很厉害的时候。[SkillCheck 0]的呼吸变得急促，[SkillCheck 1]慢了下来。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>横穿深坑的过程是艰难的，尤其是当绳索晃动很厉害的时候。[SkillCheck 0]的呼吸变得急促。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

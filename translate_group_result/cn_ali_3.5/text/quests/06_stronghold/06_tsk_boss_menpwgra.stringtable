@@ -1,0 +1,46 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\06_stronghold\06_tsk_boss_menpwgra</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>悬赏：戴弗温</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>杀死腐叶戴弗温，把她的头带回来。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>把戴弗温的头交给塞德努亚的费尔根典狱长。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>一个奇怪而凶残的德鲁伊邪教围绕腐叶戴弗温而发展壮大。这个组织将一个北部旷野的山洞作为其大本营。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>一个德鲁伊邪教围绕着北部旷野的一只腐叶而形成。我需要找到他们的洞穴并杀死他们的领袖戴弗温。她的头将作为她的死亡证明。戴弗温后这个邪教应该就会分崩离析了。
+
+
+戴弗温的德鲁伊邪教位于北部旷野洞穴。我需要杀死戴弗温，证明它死了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>戴弗温被杀了，我需要带她的头去找赛德努亚旅馆的长费尔根典狱长拿到我的赏金。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我拿到了腐叶戴弗温的赏金。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

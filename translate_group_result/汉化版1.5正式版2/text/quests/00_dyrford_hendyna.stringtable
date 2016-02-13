@@ -1,0 +1,87 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\00_dyrford_hendyna</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>15</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>龙 蛋 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>从 迪 福 特 十 字 路 口 获 取 一 枚 龙 蛋 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>将 龙 蛋 交 给 亨 黛 娜 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>将 破 裂 的 龙 蛋 交 给 亨 黛 娜 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>亨 黛 娜 ，迪 福 特 的 一 位 炼 金 术 士 ，因 为 路 上 强 盗 和 难 民 遍 布 ，在 补 给 上 遇 到 了 点 麻 烦 。她 需 要 些 新 鲜 的 材 料 来 制 作 药 剂 。
+
+据 她 所 说 ，镇 子 附 近 有 处 遗 弃 的 伪 龙 巢 穴 。如 果 她 能 从 那 里 搞 来 一 枚 蛋 的 话 ，就 能 够 酿 造 出 新 的 药 剂 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>亨 黛 娜 跟 我 说 村 子 东 边 有 处 伪 龙 筑 巢 。她 觉 得 那 是 被 伪 龙 遗 弃 的 巢 穴 ，不 过 显 然 不 是 ，而 是 一 群 亚 龙 。
+
+在 她 想 要 靠 近 巢 穴 的 时 候 ，遭 到 了 一 群 亚 龙 的 攻 击 ，但 如 果 我 能 给 她 带 来 一 枚 蛋 的 话 ，她 会 不 胜 感 激 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我 从 悬 崖 上 拿 到 了 一 枚 完 好 无 损 的 蛋 。亨 黛 娜 应 该 能 够 好 好 利 用 它 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>龙 蛋 滚 下 了 悬 崖 摔 破 了 。已 经 有 东 西 从 里 面 流 出 来 了 ，不 过 亨 黛 娜 或 许 仍 然 能 够 用 它 来 酿 造 药 剂 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>我 在 迪 福 特 十 字 路 口 东 北 方 的 悬 崖 上 找 到 了 一 处 废 弃 的 巢 穴 。这 悬 崖 看 起 来 有 点 难 爬 ；我 在 尝 试 之 前 我 得 检 查 下 我 的 补 给 是 否 充 足 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>那 些 强 盗 显 然 也 是 冲 着 这 枚 蛋 来 的 ，这 架 是 非 打 不 可 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>我 遇 到 一 伙 强 盗 ，他 们 现 在 也 是 在 找 那 枚 蛋 。我 应 该 能 给 他 们 些 钱 ，把 他 们 打 发 走 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>亨 黛 娜 看 到 我 给 他 带 来 了 一 枚 完 好 无 损 的 蛋 之 后 大 喜 过 望 。她 给 了 我 一 些 材 料 让 我 自 己 酿 造 药 剂 ，同 时 保 证 我 去 她 那 买 东 西 时 给 我 个 特 殊 的 折 扣 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>亨 黛 娜 对 于 我 能 够 成 功 拿 到 蛋 有 点 难 以 置 信 。尽 管 蛋 有 点 破 了 ，不 过 她 自 信 能 够 好 好 利 用 一 番 。她 给 了 我 一 些 材 料 让 我 自 己 酿 造 药 剂 ，同 时 保 证 我 去 她 那 买 东 西 时 给 我 个 特 殊 的 折 扣 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>亨 黛 娜 知 道 蛋 打 碎 了 之 后 很 是 失 望 ，不 过 听 起 来 她 似 乎 还 能 够 利 用 其 中 的 一 部 分 。她 给 了 我 一 些 材 料 让 我 自 己 酿 造 药 剂 ，同 时 保 证 我 去 她 那 买 东 西 时 给 我 个 特 殊 的 折 扣 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>此 任 务 中 的 某 个 重 要 人 物 已 死 亡 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

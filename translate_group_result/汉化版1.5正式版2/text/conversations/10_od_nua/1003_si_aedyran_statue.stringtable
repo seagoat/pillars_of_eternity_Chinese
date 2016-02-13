@@ -1,0 +1,68 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\10_od_nua\1003_si_aedyran_statue</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>12</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>蜷 缩 在 一 个 安 静 的 洞 穴 里 ，这 个 石 头 雕 像 往 前 大 跨 了 一 步 ，高 高 地 举 起 了 一 只 胳 膊 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>[查 看 雕 像 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>从 服 饰 风 格 以 及 雕 像 的 胡 子 来 看 ，[SkillCheck 0]猜  这 就 是 岩 伍 德 伯 爵 。这 是 一 位 令 人 敬 佩 的 勇 士 ，他 曾 带 领 英 勇 的 战 士 驰 骋 沙 场 ，挥 舞 着 军 刀 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>尽 管 年 代 已 久 ，这 个 雕 像 似 乎 并 没 有 像 这 个 地 方 别 的 雕 像 一 般 腐 烂 的 那 么 厉 害 。这 个 雕 像 的 装 束 是 鹿 丛 人 风 格 的 ，说 明 这 个 雕 像 应 该 是 一 个 鹿 丛 人 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>[把 军 刀 放 在 雕 像 的 手 里 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>[离 开 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>你 听 到 雕 像 背 后 的 墙 后 面 传 来 刀 械 碰 撞 的 声 音 。紧 接 着 ，附 近 的 墙 上 传 来 石 头 磨 动 的 声 音 ，一 扇 门 冲 着 门 廊 转 开 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>那 雕 像 一 副 随 时 准 备 出 击 的 样 子 ，向 前 举 着 军 刀 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>[移 除 军 刀 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>你 想 把 军 刀 抽 出 来 ，但 是 它 看 起 来 牢 牢 地 卡 在 了 雕 像 手 里 。你 冒 着 险 试 了 试 去 拔 刀 刃 —拔 不 出 来 就 会 割 破 手 掌 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>这 个 石 像 的 镀 金 层 已 经 褪 色 。看 样 子 它 的 掌 心 握 过 什 么 东 西 。从 形 状 来 看 应 该 是 一 件 武 器 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>一 开 始 军 刀 很 轻 松 地 就 放 了 进 去 ，但 是 最 后 那 一 点 你 费 了 好 大 劲 才 推 进 去 。一 声 闷 响 ，这 个 雕 像 的 手 臂 突 然 转 动 旋 转 了 一 下 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

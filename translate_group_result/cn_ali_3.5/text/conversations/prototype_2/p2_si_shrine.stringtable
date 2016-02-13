@@ -1,0 +1,225 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\prototype_2\p2_si_shrine</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>43</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>你站在神龛的废墟中。你面前是苔藓覆盖的古代雕像的残骸。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>[检查雕像]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>[离开]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>雕像只剩下断腿了。旁边的凹槽表明，它可以移动。
+
+在雕像基座附近，你发现了石头里雕刻着一个头骨。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>[检查头骨。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>几次尝试后，你意识到自己对这把生锈的锁无能为力。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>[推动雕像。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>骷髅雕刻在石头上的样子很奇特，嘴巴大张着。仔细观察后，你发现下颚中央有个钥匙孔。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>[用骷髅把手的钥匙。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>[撬锁]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>[SkillCheck 0] 插入几个撬锁工具，锁里传来一系列生锈的滴答声。突然，雕像残骸开始移动。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>几次尝试后，你意识到自己和同伴对这把生锈的锁无能为力。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>底座移动后出现了一条通向地下的黑暗通道。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>钥匙一下子就插入孔中。你转动钥匙，雕像开始移动。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>底座似乎是几百磅重的石头。你考虑让谁去推。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>[叫[Slot 0] 推。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>[叫[Slot 1] 推。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>[叫[Slot 2] 推。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>[叫[Slot 3] 推。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>[叫[Slot 4] 推。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>[叫[Slot 5] 推。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>[Slot 0]倚身推雕像。石头发出隆隆巨响，开始沿着凹槽移动。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>[Slot 0]用尽全身力气推雕像。雕像一动不动。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>[Slot 1]倚身推雕像。石头发出隆隆巨响，开始沿着凹槽移动。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>[Slot 1]用尽全身力气推雕像。雕像一动不动。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>[Slot 2]倚身推雕像。石头发出隆隆巨响，开始沿着凹槽移动。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>[Slot 2]用尽全身力气推雕像。雕像一动不动。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>[Slot 3]倚身推雕像。石头发出隆隆巨响，开始沿着凹槽移动。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>[Slot 3]用尽全身力气推雕像。雕像一动不动。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>[Slot 4]倚身推雕像。石头发出隆隆巨响，开始沿着凹槽移动。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>[Slot 4]用尽全身力气推雕像。雕像一动不动。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>[Slot 5]倚身推雕像。石头发出隆隆巨响，开始沿着凹槽移动。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>[Slot 5]用尽全身力气推雕像。雕像一动不动。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>[不推雕像]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>你退后，又观察了一下雕像。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>[用锤子和凿子在雕像旁边凿个洞。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>你凿开了雕像底座。无数次锤击后，你手臂发麻，凿出了个3个手指宽的洞。风从缝隙中呼啸着吹过，不管另一边是什么，你都没法挖通。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>[用撬棍撬动雕像。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>你把撬棍插入刚刚凿出的孔中。你用全身重量压上去，感觉到雕像沿着凹槽移动了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>[自己推。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>你倚身推雕像。石头发出隆隆巨响，开始沿着凹槽移动。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>你用尽全身力气推雕像。雕像一动不动。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>Trigger Conv Node 55</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

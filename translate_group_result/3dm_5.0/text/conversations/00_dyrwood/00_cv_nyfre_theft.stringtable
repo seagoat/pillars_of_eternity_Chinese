@@ -1,0 +1,17 @@
+<StringTableFile>
+  <Name>conversations\00_dyrwood\00_cv_nyfre_theft</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“偷一个小偷的东西？你会后悔的！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“嘿...嘿！你刚才在那里没必要瞎掺和。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

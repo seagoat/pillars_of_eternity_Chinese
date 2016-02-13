@@ -1,0 +1,13 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\companions\companion_cv_god_chosen</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>1</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>玩家答应拥护某位神明后会产生后果。某些同伴可能会因选择作出回应。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

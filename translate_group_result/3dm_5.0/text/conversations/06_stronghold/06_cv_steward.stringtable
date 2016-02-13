@@ -1,0 +1,981 @@
+<StringTableFile>
+  <Name>conversations\06_stronghold\06_cv_steward</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>174</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“我感觉到了马尔沃德的气息在消逝。是你杀了他吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“在这里能见到您太好了，大人。我已经能在空气中感到即将到来的变化了。要做的事情还有很多。”
+
+“我能帮得上你什么忙吗？”</DefaultText>
+      <FemaleText>"It is good to see you here, my lady. I can feel a change in the air already. There is much to do." 
+
+"Is there anything I can do to help?" </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>“成为凯德·努阿的主人的必备条件是什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>“为什么？因为管理一座城堡需要承担许多的责任……而你想承担到何种程度都取决于你自己。我在这里的其中一个原因，是为了确保当你不在场时，城中的大小事务能顺利运作——假如我们有安排得当的话。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>“你说‘风险’是什么意思？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>“所有想要在此建立驻地的尝试都失败了——从艾迪尔殖民期起便是如此。凶兽从无尽之路不断冒出，直到又一代君王陨落。这个在此掌权的……‘主人’，看来是不会容忍任何前来冒犯的人。一直以来，我目睹着英勇的探险者们不断地前去寻求答案……但从来没有人回来过。”
+
+“正是这股力量令凯德·努阿成为一片不毛之地……并剥夺了我的希望。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>“无尽之路是什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>“地底之主是谁？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>“但我不就是凯德·努阿的主人吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>“奥努的无尽之路。这是在城堡下那座地底迷宫的名字。伯爵，他……格兰方瑟人曾经警告过我们，这是一片诅咒之地。还有一个与之相关的传说，而我们当时根本没把它当回事儿。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>“那些熟知地下通道地形的人早已不在人世，而且能从那儿或者回来的也屈指可数。坊间有许多地底宝藏的流言……光是英格维斯遗迹的传说便让寻宝者们趋之若鹜。恐怕他们都会为此葬送自己的性命。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>“我无法想象他的那些创造，因为这片遗迹已经存在一千多年了。但残存下来的东西依然……让人震惊。伯爵肯定也是这么想的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>“那我要去找到那个‘地底之主’，并击败他。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>“但如果你成功了，你的名声将会传遍迪伍德每个角落。你将成为凯德·努阿唯一的主人，光复曾经的荣耀。就算凯德·努阿仅剩一砖一瓦，陛下，我都会永远铭记你的辉煌功绩。”</DefaultText>
+      <FemaleText>"But should you succeed, your name will be known across the Dyrwood. You will be sole master of Caed Nua, and the restoration of its great name. And I would remember you for it, my lady, for so long as a single stone remains of Caed Nua." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[离开]“是时候去找这个‘挑战之城’的‘女王’了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>“我可以……安排人去把它修复好，如果你想的话。当这不再是先帝的意愿时，我变得无能为力，因为我只是主人的一个工具。”
+
+“这会花上很多时间，但远比找到去反抗湾的另一条路要短。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>“城堡现在是什么状况？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>“呃，从哪里开始？我们先看看这儿……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>当你来到大厅的最深处时，你感受到一股从大理石王座中散发出的温暖气息，王座的鬼斧神工让城堡的其他石刻作品黯然失色，它的靠背上刻着一个蒙着面纱的女人面孔，那双空洞的眼睛注视着整个大厅。
+
+你靠近了王座，感觉那股气息在波动，似乎越来越强烈。一个声音从王座响起，在空气中回荡，然后渐渐渗透至整个城堡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>“我也是。如果你要去找他，我会很高兴你这么做。自从他失踪起，我的大厅便灰尘遍地，死气沉沉。这-这简直就是耻辱。伯爵绝对不会让事情变成这样。
+
+“你可以从这里开始寻找他。我会给你通行。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>“你说这些是你的大厅？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>“这里不只是领主的土地，更像是……母亲的孩子。这座城堡是伯爵钦点我来设计的。我……已经老了。我知道这是我去建造一座宏伟建筑的最后机会。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>“跟我多说些关于马尔沃德的事情。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>“他是个伟大的人。某天，年轻气盛、长发翩翩的他身穿整洁的铠甲来到这里，他把几个世纪以来潜伏在此却没有人发现的邪恶生物驱逐出了这片土地。
+
+“他发现了这片土地的美，这里原本该有的样子。因此当再没有其他人与他争夺时，他便自封为这片土地的主人。我们共同努力将这里恢复了昔日的繁荣。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>“知道我能去哪找到马尔沃德吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>“我能感受到他的微弱气息，就在城堡深处的某个地方。但他用他的魔法把自己的气息混淆了，我的感应力也因此麻木。要是我能理解到他现在的想法就好了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>“再会了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>“守望者回来了。好吧，至少有一个人回来了。找到马尔沃德了吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>能量好像在一瞬间从空气中蒸发。“我明白了。
+
+“如果你是在找反抗湾，那我很遗憾地告诉你，你们是白跑一趟了，东堡垒在多年前就已经被摧毁，而马尔沃德也没有机会重建它，因此前面的路是个死胡同。在他心智被……失控之前他就已经开始搜集材料了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>“我要怎么修复那座堡垒？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>“马尔沃德留下了堡垒的材料，现在你可以供你利用。在将来，如果你想要进一步修复城堡，我们就需要用钱买来补给和人力。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>“马尔沃德留下了一本帐簿，碰巧我也对它做了一番更新……你想看看吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>“我有其他问题。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>“是的？有什么可以帮助你？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>“你-你成功了。我感受到了改变的气息。好像有一种响声，一个声音，潜藏在城堡的每个角落，而我只是没有察觉到……现在我已经对原来那种寂静的氛围感到陌生了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>“大人，你好像收到一封信。我得说它是来自一个相当不待见的人。尽管如此，我会把信放在这里，如果你愿意的话我也可以直接向您转达信的内容。”</DefaultText>
+      <FemaleText>"My lady, you seem to have received a letter. From a rather unpleasant messenger, I have to say. Still, I have it here. I can relay the message if you wish." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>“写信的人想做什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>“我现在不能为此事分心。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>“似乎是要向你发出挑战。不是代表他个人，而是他的主子。我恐怕您是树敌了。这位雷德里克大人看来相当愤怒。”
+
+“他要求你前往他的城堡与他会面，并威胁如果你拒绝，他们将发兵攻打凯德·努阿。我不得不说他这样有点夸张。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>“那封神秘的信函……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>“噢对。您要我现在给您转信的内容吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>“当然，当然。那就改天再说吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>“有一位守望者出现在凯德·努阿。眼睛确实是闪闪发亮，真是意外。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>“我在找马尔沃德。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>“你在说哪个伯爵？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>“你被那个王座禁锢了吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>“当城堡建成时我对它有种不舍之情，不愿回到我原本那个孤独的家。我恳求伯爵让我留下继续打理城堡。这是我唯一的愿望，而陛下也同意了。”
+
+“几年后，当命运之神终于要来接引我时，我恳求伯爵用一种方法让我永远留在这里。然后他也做到了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>“但不久前他开始与他人的关系变得疏远。他从没跟我解释原因。他越躲越远，渐渐到城堡最深处，便再也没有出来过，只是派仆人给他送去食物，一直躲藏在我的视线以外。复辟被迫中止。”他一声叹息道。
+
+“看看现在的样子，你想象不到我们当初取得了怎样的成就。如今这里比当初最糟糕的情况还要糟。而我能做的只有看着它在我眼前摇摇欲坠。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>“延伍德的伯爵。实际上，那里起初还是迪伍德的一个殖民地。他发现了那片土地，有着唯一一片被弃守的格兰方瑟遗迹，而他认为那里蕴藏着巨大的财富。城堡是他维护家族声望的方式，而他痴迷于维护这种声望。他必须知道遗迹究竟藏着什么。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>“禁锢？有时会有这种感觉。但我更觉得是我想要驻留在此。”
+
+“王座是从遗迹里发掘出来的，是找到的第一件古物。作为一个将死之人的遗愿，伯爵同意我驻留在此。而阿德拉对我的魂魄来说是一副很合身的皮囊。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>“他将毕生精力都投入到挖掘遗迹当中。他们将岩石和泥土将遗迹封印住，很明显是有意为之。”
+
+“多年过去了，伯爵也离开了人世。他挖了一辈子也没找到他想要的东西。而他的对遗迹的痴迷一代接一代的遗传给他的子嗣。然后有一天，那位年轻的伯爵打破了宿命。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>“他找到了什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>“我想要问点别的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>“一座无尽的迷宫，难以理解的构造。但他能掌握的信息也仅限于此。邪恶的魔物占据了这个地方，污秽而险恶充斥着每个角落。他们从地底窜出，猎杀城堡里的人，伯爵就是其中一个。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>“在那之后城堡便被荒废，无人问津。马尔沃德的统治是我两百年来首次看到的希望。我多么渴望看到这里恢复昔日的荣光。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>“噢，这并没有你想象中这么拘束。我能在这儿感受到整个城堡，以及每个与之相联系的事物，当中隐藏着某些关于王座的秘密，或是关乎整个城堡的秘密。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>“我只能靠猜测来解释这里所发生的一切。恐怕我是错怪了诸神，他们创造了这片土地，而后给予我命运的审判，让我看着这里渐渐消逝，让我见证自己所犯的错误。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>“他让我别无选择。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>“那个蠢老头一直在瞎嚷嚷。我帮了他一把。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>“帮了他一大把。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>管家沉默了半晌。空气似乎变得阴凉了起来。
+
+“听到此消息是在让我伤心。但同时我也为此感激，我不必再在黑暗中焦急等待了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>“这片土地早在有人来宣称主权前就认定了它的主人。它拥有自己的意志，这对城堡没有什么影响，但对整片土地来说却意义非凡。现在它已经把你看作是马尔沃德的继承人了，不管你在不在乎这一点。”
+
+“也许继承一个受诅咒的破烂城堡是一份靠不住的荣耀。但只要运用得当，它将拥有无限潜力！只可惜你没有见证过它曾经的辉煌。”
+
+“你，你会留下来吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>“马尔沃德说我必须前往‘挑战之城’去寻找‘女王’。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>“你必须知道一点，你所要找的女王……其实反抗湾根本没有女王。艾迪尔皇后自战争结束之后就不再拥有实权。”
+
+“唯一一位掌权的女王在沃迪卡。我听说人们为纪念她建造了一座华丽的神庙，但我没有亲眼见过。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>“请小心。路上会有许多潜藏的威胁。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>“凯德·努阿仍会是属于你的。它可以重拾辉煌，只要你愿意。如果我们着手重建的话，你很快就会发现你的人民都愿意臣服于你的统治。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>“这不可能。雷德里克陛下已经死了。我亲眼看见的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>“这一定是某种骗人的伎俩。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>“我从来不会拒绝挑战。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>“噢，信使的态度非常明确，或者说是这封信的态度。您可以亲自看看。”
+“我猜着可能是某种玩笑。真是低级趣味，对吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>“我还有什么可以帮到你的呢？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>“你是谁？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>“你知道我是什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>“要是吓到你的话我很抱歉。恐怕我是有些失礼了。最近我都没什么机会介绍自己。”
+
+“不管怎样，我猜你是来找马尔沃德的？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>“没有人会搞错的。你就像热锅上的蚂蚁。当然，我也知道我所寻求的是什么。”
+
+“总之，我猜你是来找马尔沃德的？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>“我一直想拥有属于自己的城堡，即便是被诅咒过的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>“他看来不是那种会接受‘不’的人。希望你能保持谨慎，陛下。我不知道为什么这个人要加害于你，但看起来他的立场非常坚定。”</DefaultText>
+      <FemaleText>"He doesn't appear to be the kind to take 'no' for an answer, as it happens. I hope you'll be cautious, my lady. I don't know why this man means you harm, but he seems rather determined." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>“我听说过。我确信你最终会获胜，但即便如此我还是希望你保持警惕。他看来非常渴望对你造成伤害。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>“我要个废墟来做什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>能量好像在一瞬间从空气中蒸发。“当然了，这……这是你的决定。”
+
+“你将依旧成为城堡的主人。假以时日，这里将成为你引以为傲的土地。”
+
+“而这只需要得到适当的引导就能做到。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>你感受到了那阵同样的温暖气息，空气中萦绕着一股能量。“那么这片土地就属于你了，陛下！我忍不住要告诉你我有多高兴，这座城堡终于再次回到强者的手里了！”</DefaultText>
+      <FemaleText>You feel that same emanation of warmth, an energy in the air. "Then it is yours, my lady! I cannot begin to tell you how glad - that is, how good it is to know that the keep is in capable hands once again." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>“我觉得我要先提醒你，如果你们是要去反抗湾寻找补给，这可能会有点……复杂。”
+
+“东堡垒在多年前就被摧毁，而马尔沃德也没有机会重建它。前面的路个死胡同。在他心智被……失控之前他就已经开始搜集材料了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>“如果你真的要继续前进的话，我得先提醒你一下，你会发现前面的路过不去。”
+
+“东堡垒在多年前就被摧毁，而马尔沃德也没有机会重建它，因此前面的路个死胡同。在他心智被……失控之前他就已经开始搜集材料了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>“我看看能做什么吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>“现在不行。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>“听你的，那就下次再说吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>“……但你得知道，权力同时也会带来风险。你会名声大震，而同时你必须应付城堡里的潜在威胁。然后……还有其他事情。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>“马尔沃德的诅咒是他自己招惹下来的——守望者的诅咒。但他的前任也没有好下场。城堡里头，或者说是城堡的地下深处，有一种……特殊的存在。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>“你说城堡受到诅咒是什么意思？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>“您完成了一桩壮举，此地的男爵及其后裔，以及往日诸多冒险者都难以望其项背。无人敢挑战您的权威，您是实至名归的凯德—努阿之主。”
+
+“当然，我们从一开始就知道您能做到。不过现在全天下都将知晓此事，同我一样赞美您的荣耀。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>“凯德—努阿光复的消息已经四海皆知。我想不久我们就要迎接四面八方的来客！”
+
+“真是……无法形容这一刻的美妙，居然能有幸看到这里恢复它昔日的恢弘。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>“感谢您，我的主公。这座城堡将是您对我们恩情的象征……一座纪念碑，如果可以的话。”
+
+“……我已经耽搁您太久了，不是吗？我将呈上这份报告。”</DefaultText>
+      <FemaleText>"Thank you, my lady. This keep only reflects what you have done for us. A...monument, if you will." 
+
+"...I've kept you too long, haven't I? I'll give you my report." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>“主公，我不得不说，您在修缮城堡防御设施上做得非常完美。这些坚固的城墙就是耗子也溜不进来。”</DefaultText>
+      <FemaleText>"I have to say, my lady, you've done an impressive job of restoring the keep's defenses. I don't think a mouse could sneak past the walls." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>“好，回归正题……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>“人们已经开始注意您辛勤工作的成果。我敢说不久就会有客人来访。”
+
+“我……很高兴您能坚持下来，主公。我曾一次次看着这里衰朽凋零，为之黯然神伤。”</DefaultText>
+      <FemaleText>"People are starting to notice your hard work. I daresay we'll have more visitors shortly." 
+
+"I'm... glad you decided to stay on, my lady. It's been difficult, watching this place tumble into decay time and again." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>“它的光复真是令人振奋……我可以想象熙熙攘攘的人群。前来请愿的人们。大概，晚间还会有乐师表演？”
+
+“哦，我太沉溺于想象了，不是吗？现在谨呈上这份报告。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>“一切正常吧，主公？您若需要什么，只管找我。“</DefaultText>
+      <FemaleText>"I trust all is well, my lady? Please let me know if there's anything I can do to help." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>“看起来你的名声正在到处散播呢，大人。我在挑战港听过许多旅者们讲述你的光辉功绩。”</DefaultText>
+      <FemaleText>"It seems your fame is spreading, my lady. I have heard travelers speaking of your accomplishments in Defiance Bay." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>“如果您容许的话，我要说，有您这样消息灵通的人统领，是一件幸事。重要的消息是很容易被忽略的……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>“不必担心，主公。您做得非常好。我认为已经找不到更好的情况了……我之前也根本不敢想象今天的成功。“</DefaultText>
+      <FemaleText>"You need not worry, my lady. You have been doing a fine job. I do not think we could have hoped for better... nor would I have dared, before." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>“我相信你是在全力以赴履行职责。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>“我有话要问。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>“我将尽我所能回答。您想知道什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>“这里曾经是你的城堡吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>“这里不只是领主的土地，更像是……母亲的孩子。这座城堡是伯爵钦点我来设计的。我……已经老了。我知道这是我去建造一座宏伟建筑的最后机会。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>“当城堡建成时我对它有种不舍之情，不愿回到我原本那个孤独的家。我恳求伯爵让我留下继续打理城堡。这是我唯一的愿望，而陛下也同意了。”
+
+“几年后，当命运之神终于要来接引我时，我恳求伯爵用一种方法让我永远留在这里。然后他也做到了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>“我没有别的问题了。“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>“还有别的什么吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>“你以前提过一位男爵。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>“是的—延伍德的男爵。他实际上是此地最初的主人。那是，迪伍德只是一个殖民地。他找到此地，艾尔·格兰方瑟不愿驻留之处，他认为这里有巨量的财富。城堡是他维护家族继承权的基础，他为此观念所惑，掘地三尺找寻地下沉睡之物。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>“他将毕生精力都投入到挖掘遗迹当中。他们将岩石和泥土将遗迹封印住，很明显是有意为之。”
+
+“多年过去了，伯爵也离开了人世。他挖了一辈子也没找到他想要的东西。而他的对遗迹的痴迷一代接一代的遗传给他的子嗣。然后有一天，那位年轻的伯爵打破了宿命。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>“而他发现下面是幽深的无尽之路。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>“他找到了什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>“我还想问点别的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>“一座无尽的迷宫，难以理解的构造。但他能掌握的信息也仅限于此。邪恶的魔物占据了这个地方，污秽而险恶充斥着每个角落。他们从地底窜出，猎杀城堡里的人，伯爵就是其中一个。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>“在那之后城堡便被荒废，无人问津。马尔沃德的统治是我两百年来首次看到的希望。我多么渴望看到这里恢复昔日的荣光。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>“我只能靠猜测来解释这里所发生的一切。恐怕我是错怪了诸神，他们创造了这片土地，而后给予我命运的审判，让我看着这里渐渐消逝，让我见证自己所犯的错误。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>“当然，您想知道什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>“现在这里有了新的主人，以及新的希望……我也是。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>“是的，一个无尽的迷宫，有着无法理解的结构。不过他所能发现的也不过如此。那下面寓居着邪秽之物，凶险异常。它们涌上地面，杀光居民，当然也包括男爵本人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>“您已经为死者报仇了，我对此非常感谢。我只能祈祷他们的灵魂得到安息，或者在某处转生。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>“在那次袭击后，城堡被弃置了两百年。梅沃德到来时，我以为我终于可以看到城堡光复了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>“不过看来我错了—您才是这里的救星，而不是他。我曾以为这里诅咒永不会终结，我将永远孤独，看着城堡基石风化成灰。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>“您光复了这座城堡……我毕生的心血……您恢复了我存在的意义。您的名字和灵魂写进了城堡的基石。我知道凯德—努阿不会再次衰亡。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>“你被囚禁在那个王座中吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>“禁锢？有时会有这种感觉。但我更觉得是我想要驻留在此。”
+
+“王座是从遗迹里发掘出来的，是找到的第一件古物。作为一个将死之人的遗愿，伯爵同意我驻留在此。而阿德拉对我的魂魄来说是一副很合身的皮囊。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>“噢，这并没有你想象中这么拘束。我能在这儿感受到整个城堡，以及每个与之相联系的事物，当中隐藏着某些关于王座的秘密，或是关乎整个城堡的秘密。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>“下面的通道被某种障碍堵住了。它通往哪里？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>“至少，这就是所有来此之人得出的共同结论。在无尽之路中徘徊的灵魂们会提及地底深处的那位主人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>“我不能下定论。我认为此地可能与据称是无尽之路的建设者有关，他就是英格维斯暴君奥努。有人说他的灵魂依然存在，或者至少对凯德—努阿降下了诅咒。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>“这个废墟曾近的建设者据说是强大的英格维斯人奥努。他的残暴统治使得人们推翻了他。他们摧毁了他的‘无尽之路’，把上面的通道填满土石。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>“您在下面可能已经见过奥努造的巨像的手臂……或许这整个巨像雕刻的就是奥努本人？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>“您当然是了！这个城堡不会有别的……但是无尽之路却完全是另一回事。不幸的是，城堡和无尽之路的联系如此紧密。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>“如果地下深处的主人不被消灭掉……他将从内部对城堡构成永恒的威胁。”
+
+“我……我知道有很多难解的疑团。但是如果您选择留下来—如果您选择成为此地之主，那么我只能建议您去找到这个强敌，在它主动出击之前。”</DefaultText>
+      <FemaleText>"If the Master Below is not dealt with... there will always be a threat to the keep from within." 
+
+"I...I know it is much to take in. But if you would remain - if you would master this place... then I can only advise you to seek out this foe before it destroys you." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>“您会去？我……我当然全力支持您，大人。我会确保道路畅通。不过我也必须警告您，这不是个轻松的任务。有很多人在您之前去过……我担心您也会成为那些夺命凶魔的猎物。”</DefaultText>
+      <FemaleText>"You will? I... You have my full support in this, my lady, and I shall see that the way is opened for you. But I must warn that it will not be an easy task. Many have gone before you... I worry that you, too, may fall prey to that which took their lives." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>“那里，大人……通往无尽之路，以及这个城堡的诅咒之源。我尽了微薄之力保护城堡，但我所能做的不过如此……”
+
+“我可以为您打开通道，不过此前我希望能警示您……”</DefaultText>
+      <FemaleText>"That, my lady... leads to the Endless Paths. And the true curse upon this keep. It is what small measure I could take to defend the keep, but in truth it will do little..."
+
+"I can open the way for you, but perhaps you should first be warned..." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>[离开] “再见。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>“如果您要进入那里，我们可以立即开始修缮外堡。您只需告诉我您想要做什么，我将会安排妥当。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>“不得不说，您最近的一位访客是个相当吵闹的人。我大概有一个世纪没有见过这么亢奋的家伙了。”
+
+“不过他倒是和守卫们打成一片……现在他正在给他们表演飞刀杂耍……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>“看来有一位高贵的访客到了。他是一位参加过圣者之战的老兵，非常鼓舞守卫们的士气，与他聊天也是一件乐事。我想……把他记录在案应该是很值得的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>“我发现有一位重要访客，一位来自艾迪尔的权贵。这让我想起了以前……”
+
+“无论如何，我会让仆人好好照顾他的起居。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>“恐怕有一位访客正在扰乱人们的安宁……这个人在几个城市里偷鸡摸狗，人们很怕一不小心被他偷走钱包。当然，我想您留下他自有您的道理。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>“主公！我听到了可怕的消息—我担心您会一去不回。他们说反抗湾发生了叛乱，是真的吗？”
+
+“我……我还听说狼脸的阿瓦公爵阵亡了？”</DefaultText>
+      <FemaleText>"My lady! I have heard terrible things - I worried you would not return. Is it true? That there are riots in Defiance Bay?" 
+
+"And... that Aevar Wolf-Grin has been slain?" </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>“真可怕……我很高兴您毫发无损，主公。我只能希望反抗湾尽快复原。”</DefaultText>
+      <FemaleText>"How terrible... But I am glad that you are unharmed, my lady. I can only hope the city recovers." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>“是真的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>“是的。我会让陶斯付出代价。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>[点头]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>“是的。总算不用再看到他了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>“我相信您会的，主公。他的确罪有应得。诸神在上，愿他今后永无宁日。”
+
+“不过最让我高兴的是您毫发无伤。希望反抗湾能尽快回复元气。”</DefaultText>
+      <FemaleText>"I am sure you will, my lady. And much does he deserve it. May the gods harry his every step." 
+
+"I am glad, above all, that you are unharmed. I can only hope that Defiance Bay recovers."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>“……我知道您不会为了……他这样的人悲哀，主公。但是……他的死意味着本地区的稳定受到威胁。我最担心城堡的安全，因为现在居民们开始排斥外人。”
+
+“我很高兴您毫发无伤，主公。我一度非常担心。”</DefaultText>
+      <FemaleText>"....I know you aren't one to... mourn such figures, my lady, but... his death threatens to destabilize the region. If nothing else, I worry for the state of the keep, if citizens are turning on outsiders." 
+
+"I'm just glad you seem to be unharmed, my lord. I did worry." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>“主公！您不会真的是这个意思吧……他的死将使整个地区陷入混乱。我只希望反抗湾尽快复原。”
+
+“我很高兴看到您毫发无损，我一度非常担心。”</DefaultText>
+      <FemaleText>"My lady! Surely you can't mean that... His death will bring great chaos to the entire region. I only hope that the city recovers." 
+
+"Well, I'm just glad you seem to be unharmed. I did worry." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>“无尽之路！那里，我的朋友，就是我要去的地方—我们要去的地方，如果你也想去的话。不管底下有什么邪魔……也得想想我们会得到怎样的知识！……或许那个下界主人还说艾迪尔语？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>“当然，我是您忠心的仆人，只要您还是此地之主，我们就会永远联系在一起。您不必回到这里就能和我说话。不管您旅行至何处，只要呼唤我，我就能知道您的心意。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>“那么我们现在就开始行动吧。”总管的声音里有抑制不住的激动。“我的主公啊，这只是一系列宏大工程的开始。这座城堡在无数岁月里保有过许多房屋和仆从。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>“如果您愿意，我们可以修缮一些外部建筑。它们将为您带来财富和名声，吸引人们来为您效命。
+重建防御工事将有效抵御外敌，使城堡不会像梅沃德统治期间一样陷落。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>“您不必急于下决定。我将倾力辅佐您。只要您是此地之主，我们就永远互相联系。您不必进入城堡跟我说话。无论您旅行到哪里，只要向我召唤，我就能知道您的心意。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>“哦—当然，让我们首先修缮外堡！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>“我看看能做什么吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>“再会了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>“您只要指示我您想完成的建设，我就会去安排。建设会花些时间，但是每次建设都能为您带来额外的资源。只要建立一个贸易中心，我们就能招募商人为我们提供补给或材料。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>“修缮城堡将提升您的声望……同时也会吸引有所助益的人士和强盗山贼的注意。如果我们能逐步完善城堡的防御，这些就不会是大问题。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>“您还有什么吩咐，主公？”</DefaultText>
+      <FemaleText>"Was there anything else, my lady?" </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>“主公，有什么我可以做的？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>“您还有什么吩咐，主公？”</DefaultText>
+      <FemaleText>"Was there anything else, my lady?" </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>“当然，您想知道什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>“主公，有件小事我不知该不该告诉您。我认为作为一堡之主，您应该知道附近发生的一切。”
+
+“有传言说马格兰岔路有一个穿长袍、拿着燃烧的手杖的人在骚扰旅行者。”</DefaultText>
+      <FemaleText>"My lady, there is a matter I hesitate to bring up for its probable insignificance, but as the mistress of this place, I feel you should be informed of all happenings in the surrounding lands.
+
+"There has been word on the roads lately of a robed man with a burning staff who has been harassing travelers near Magran's Fork."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>“我为什么要关心这件事？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>“有没有人可以去处理它？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>“或许这不值得关心，所以我才犹豫该不该告诉您。不过如果他继续扰民，旅行者可能会绕道而行。他可能会把商队和访客吓走。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>“他想要什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>“我……不知道，主公。他只是辱骂和威胁行人。很可能是个疯子。”</DefaultText>
+      <FemaleText>"I... do not know, my lady. He merely insults passersby, or threatens them. He is most likely a madman."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>“他似乎很有战斗能力，主公。我听说他辱骂了一队过路的佣兵，那些人和他开打，却被打败了。他们又报告了地方巡官，结果巡官也吃了苦头。”
+
+“如果您打算处理此事，最好私下进行。”</DefaultText>
+      <FemaleText>"He seems to have a talent for combat, my lady. I understand that he insulted a passing cohort of mercenaries, then got the better of them when it came to blows. They, in turn, informed the local constables, who fared no better.
+
+"This may best be handled personally, if you intend to do anything about him at all."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>“我更想谈谈别的事。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>“当然，主公。”</DefaultText>
+      <FemaleText>"Of course, my lady."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

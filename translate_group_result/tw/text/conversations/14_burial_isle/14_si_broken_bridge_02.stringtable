@@ -1,0 +1,33 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\14_burial_isle\14_si_broken_bridge_02</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>5</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>A橋 的 單 獨 一 部 分 從 一 座 古 城 的 廢 墟 中 升 起 。它 看 起 來 足 夠 穩 定 了 ，但 是 裂 口 太 寬 了 ，容 不 得 一 點 失 誤 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>[跳 到 獨 立 的 部 分 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>[離 開 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>Y你 助 跑 了 一 段 ，然 後 跳 到 了 另 一 頭 。就 當 你 穿 過 了 空 隙 ，你 冒 著 險 往 下 看 了 一 眼 ，看 到 了 這 座 被 遺 棄 的 城 市 在 你 的 下 方 發 光 。你 在 橋 的 另 一 頭 著 陸 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>[SkillCheck 0]助 跑 了 一 段 ，然 後 跳 到 了 另 一 頭 。然 而 ，[SkillCheck 0]著 陸 的 時 候 大 聲 叫 了 出 來 ，四 肢 亂 作 一 團 倒 下 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

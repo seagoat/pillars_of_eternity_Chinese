@@ -1,0 +1,62 @@
+<StringTableFile>
+  <Name>conversations\07_gilded_vale\07_bs_black_cat</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一开始你以为这只可怜的动物生病了，因为它的黑毛似乎一块块掉了下来。不过当它转身去看墙上的苍蝇时，你发现它有一整块肋骨暴露在空气中。它的一节尾巴完全腐烂了，露出扭曲的脊椎骨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Trigger Conv Node 2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>猫看起来不很在乎这个。它轻轻叫着，摩擦着你的小腿。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[拍拍猫]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[抱起猫]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[踢猫]“畜生，滚开！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[不管猫]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你抱起这只猫，发现它很轻、很瘦。它在你怀里满意地低叫着。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>猫挣脱了你的手，舔着它腐烂的脚掌，就像什么也没发生。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>这只猫抬头看着你，尾巴摇来摇去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>你挠着猫的耳朵后面，把它的黑毛弄得打了卷。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

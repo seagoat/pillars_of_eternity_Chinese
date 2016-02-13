@@ -1,0 +1,27 @@
+﻿<StringTableFile>
+  <Name>conversations\08_wilderness\08_bs_bandit_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“今 天 是 个 好 日 子 。看 好 路 ，威 廉 。我 已 经 等 不 及 要 试 试 这 把 新 剑 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“什 么 ？这 是 谁 ？该 死 ，威 廉 ，你 个 没 用 的 杂 种 ！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“抓 住 他 ！大 家 一 起 上 ！”</DefaultText>
+      <FemaleText>“抓 住 她 ！大 家 一 起 上 ！” </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“嘿 ！格 拉 夫 ，各 位 ！有 人 来 了 ！”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

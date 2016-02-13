@@ -1,0 +1,103 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\08_wilderness\08_si_rhemen_gorge_entrance</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>19</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>T这 里 有 块 石 头 ，上 面 刻 着 简 单 的 图 案 。中 心 是 一 个 小 圆 圈 ，外 面 还 环 绕 着 一 个 更 大 的 圆 圈 。你 看 到 上 面 似 乎 是 两 个 圈 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>[查 看 圆 圈 刻 痕 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>[查 看 外 圈 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>[把 绿 萤 盘 放 在 刻 痕 中 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>S沿 着 外 圈 还 有 几 个 图 案 。虽 然 大 部 分 已 经 看 不 清 了 ，你 在 中 心 上 面 还 是 能 勉 强 辨 认 出 一 个 新 月 图 案 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>T刻 痕 很 浅 ，但 是 你 从 巨 人 猎 杀 者 那 里 拿 的 绿 萤 盘 放 进 去 正 合 适 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>T你 很 轻 松 地 就 放 进 了 石 痕 中 ，同 时 感 觉 到 一 小 股 气 流 被 刻 痕 挤 了 出 来 。现 在 已 经 结 结 实 实 放 在 了 石 印 中 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>[离 开 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>T压 痕 浅 而 光 滑 。看 起 来 就 是 为 了 存 放 什 么 特 别 的 东 西 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>[查 看 文 字 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>T你 完 全 不 认 识 这 些 字 ，毫 无 疑 问 这 是 一 种 早 已 被 人 忘 却 的 语 言 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>T你 完 全 不 认 识 这 些 弯 弯 扭 扭 雕 刻 的 符 文 。你 觉 得 他 们 应 该 是 古 因 格 维 斯 人 。上 面 说 ：“万 物 终 有 灭 ，灭 而 又 重 生 。现 在 进 入 冥 暗 ，我 们 才 能 经 历 崭 新 的 黎 明 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>T这 块 石 头 放 在 印 痕 里 刚 刚 好 ，但 是 没 有 留 住 它 ，直 接 掉 了 出 来 。你 感 觉 你 似 乎 做 错 了 什 么 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>Y你 听 到 脚 下 的 石 板 传 来 滑 动 的 声 音 ，紧 接 着 突 然 涌 上 来 一 股 水 流 。你 面 前 的 池 塘 水 面 开 始 下 落 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>[静 等 一 会 儿 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>T明 亮 的 阳 光 钻 出 了 地 表 。你 屈 下 膝 盖 仔 细 查 看 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>T星 光 照 亮 了 地 表 。你 屈 下 膝 盖 仔 细 查 看 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>Y你 等 了 几 个 小 时 ，星 星 开 始 在 你 头 顶 上 眨 眼 睛 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>Y你 等 了 几 个 小 时 ，看 着 太 阳 从 天 际 划 过 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

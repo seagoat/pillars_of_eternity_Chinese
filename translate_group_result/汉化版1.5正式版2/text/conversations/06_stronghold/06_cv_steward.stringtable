@@ -1,0 +1,987 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_cv_steward</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>174</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“我 感 觉 马 尔 瓦 德 正 经 过 这 里 。你 不 是 把 他 杀 了 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“很 高 兴 在 这 儿 看 到 你 ，大 人 。我 已 经 能 感 受 到 气 氛 有 变 化 了 。有 很 多 事 情 要 做 。” 
+
+“有 什 么 我 能 帮 忙 的 吗 ？</DefaultText>
+			<FemaleText>“很 高 兴 在 这 儿 看 到 你 ，夫 人 。我 已 经 能 感 受 到 气 氛 有 变 化 了 。有 很 多 事 情 要 做 。” 
+
+
+
+“有 什 么 我 能 帮 忙 的 吗 ？ </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>“作 为 塞 德 努 亚 的 主 人 要 承 担 什 么 责 任 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>“怎 么 问 这 个 ，维 持 一 个 要 塞 牵 涉 到 很 多 责 任 ……当 然 了 ，你 想 设 及 到 的 程 度 完 全 取 决 于 你 。我 在 这 儿 的 原 因 之 一 是 为 了 保 证 你 不 在 的 时 候 一 切 运 行 良 好 ——只 要 有 指 示 给 我 们 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>“你 说 的 ‘风 险 ’是 什 么 意 思 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>“每 次 到 这 儿 定 居 的 努 力 都 失 败 了 ——自 从 我 们 的 艾 迪 尔 殖 民 地 建 立 以 来 。野 兽 不 断 从 无 尽 之 路 里 出 来 ，直 到 不 再 有 新 的 领 主 或 女 王 过 来 。住 在 下 面 的 人 ，所 谓 的 ……‘主 人 ’，好 像 不 能 容 忍 竞 争 者 。我 不 时 看 到 勇 敢 的 探 险 者 下 去 寻 宝 ……但 总 是 没 有 一 人 回 来 。
+
+“这 就 是 使 塞 德 努 亚 变 成 一 片 沉 闷 的 废 墟 的 力 量 ……也 夺 走 了 我 的 希 望 。”
+
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>“什 么 是 无 尽 之 路 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>“这 个 地 下 主 人 是 谁 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>“难 道 我 不 是 塞 德 努 亚 的 主 人 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>“奥 德 努 亚 无 尽 之 路 。那 是 在 要 塞 之 下 的 迷 宫 的 名 字 。伯 爵 ，他 ……我 们 被 格 兰 法 斯 人 警 告 说 这 地 方 被 诅 咒 了 。而 且 关 于 这 里 有 一 个 传 说 ，尽 管 当 时 我 们 很 不 在 乎 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>“活 着 的 人 没 一 个 知 道 隧 道 有 多 深 ，进 去 探 险 的 人 也 极 少 有 回 来 的 。这 儿 有 很 多 财 富 和 宝 藏 的 传 说 ……单 因 格 维 斯 遗 迹 一 处 就 已 经 吸 引 了 许 多 寻 宝 者 。我 恐 怕 他 们 只 会 自 寻 死 路 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>“我 无 法 想 象 出 他 的 杰 作 的 其 他 部 分 ，因 为 废 墟 已 经 在 这 儿 有 一 千 年 或 更 久 了 。但 是 剩 下 来 的 地 方 很 ……迷 人 。伯 爵 肯 定 也 是 这 么 想 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>“那 么 我 将 找 出 这 个 ‘地 下 主 人 ’并 打 败 他 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>“假 如 你 成 功 了 ，你 的 名 字 将 会 传 遍 整 个 迪 伍 德 。你 将 成 为 塞 德 努 亚 唯 一 的 主 人 ，并 使 它 重 获 繁 荣 。而 我 也 将 因 此 记 住 你 ，阁 下 ，直 到 塞 德 努 亚 没 有 一 粒 石 子 为 止 。</DefaultText>
+			<FemaleText>“假 如 你 成 功 了 ，你 的 名 字 将 会 传 遍 整 个 迪 伍 德 。你 将 成 为 塞 德 努 亚 唯 一 的 女 主 人 ，并 使 它 重 获 繁 荣 。而 我 也 将 因 此 记 住 你 ，阁 下 ，直 到 塞 德 努 亚 没 有 一 粒 石 子 为 止 。 </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>[离 开 ]“是 时 候 找 到 ‘反 抗 之 城 ’的 ‘女 王 ’了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>“我 可 以 ……安 排 人 来 修 好 它 ，要 是 你 希 望 这 样 的 话 。当 它 不 再 是 前 任 主 人 的 意 愿 的 时 候 ，我 就 无 权 对 此 做 什 么 了 ，因 为 我 除 了 是 主 人 的 工 具 还 能 是 什 么 呢 ？ 
+
+“这 需 要 点 时 间 ，不 过 比 起 再 找 到 一 条 找 到 去 反 抗 湾 的 路 还 是 很 快 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>“这 个 要 塞 的 状 况 如 何 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>“呃 ，从 哪 开 始 ？要 不 这 儿 吧 ……”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>当 你 走 到 大 厅 的 尽 头 ，察 觉 到 了 一 张 大 理 石 雕 成 的 宏 伟 宝 座 发 出 的 温 暖 。它 体 现 出 的 精 湛 手 艺 比 奇 城 堡 更 实 用 的 石 器 来 显 得 颇 不 相 称 。宝 座 背 面 刻 着 一 张 蒙 面 女 性 的 脸 ，她 用 空 洞 的 眼 睛 望 着 房 间 。
+
+随 着 你 走 上 前 去 ，你 感 觉 这 种 温 暖 开 始 波 动 ，好 像 在 搅 动 。从 雕 塑 里 面 发 出 一 个 声 音 ，透 过 石 头 和 空 气 回 响 在 堡 垒 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>“我 也 一 样 ，如 果 你 碰 巧 找 到 了 他 ，我 会 很 高 兴 知 悉 这 点 。他 每 不 在 一 天 ，我 的 大 厅 就 多 一 层 尘 埃 ，我 的 石 头 就 多 一 丝 缝 隙 。这 种 ——这 种 状 况 很 不 体 面 。伯 爵 绝 不 愿 看 到 这 里 变 成 这 样 。
+
+“在 这 里 你 可 以 任 意 搜 寻 他 。我 将 为 你 扫 除 路 上 的 障 碍 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>“你 说 这 些 是 你 的 大 厅 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>“好 比 土 地 是 它 的 领 主 的 ，不 只 这 样 ……好 比 孩 子 是 他 的 母 亲 的 。要 知 道 这 座 城 堡 是 我 设 计 的 。伯 爵 任 命 我 负 责 此 事 。然 后 我 就 ……干 了 好 几 年 。我 知 道 它 将 是 我 建 造 宏 伟 建 筑 的 唯 一 机 会 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>“再 和 我 说 说 马 尔 瓦 德 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>“他 是 个 伟 大 的 人 。有 一 天 他 来 到 这 里 ，留 着 长 发 穿 着 发 亮 的 盔 甲 ，意 气 风 发 。同 时 在 几 个 世 纪 的 忽 视 以 后 他 驱 逐 了 来 此 地 潜 伏 的 黑 暗 生 物 。
+
+“他 懂 得 这 个 地 方 的 美 丽 之 处 。那 就 是 它 一 直 以 来 的 风 貌 。于 是 在 没 人 在 乎 这 里 的 时 候 他 把 此 地 据 为 己 有 。接 着 我 们 一 起 奋 斗 来 恢 复 它 的 原 貌 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>“你 知 道 我 在 哪 能 找 到 马 尔 瓦 德 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>“我 可 以 微 弱 地 感 觉 到 他 就 在 要 塞 更 深 处 某 个 地 方 。但 是 他 用 天 赋 把 我 搞 糊 涂 了 ，而 且 他 这 么 做 的 时 候 我 的 感 知 也 会 变 迟 钝 。我 只 希 望 我 能 知 道 他 在 想 什 么 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>&quot;再 见 。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>“通 魂 者 回 来 了 。呃 ，至 少 是 其 中 一 个 。你 找 到 马 尔 瓦 德 没 有 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>空 气 中 的 能 量 似 乎 立 刻 就 被 耗 光 了 。“我 明 白 了 。
+
+“如 果 你 们 在 寻 找 反 抗 湾 ，我 很 遗 憾 你 们 白 跑 一 套 了 。东 方 瓮 城 几 十 年 前 就 倒 了 ，马 尔 瓦 德 从 未 着 手 重 建 它 。这 是 条 死 路 。他 沿 着 这 条 路 收 集 材 料 直 到 他 的 心 智 被 ……占 据 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>“我 该 怎 么 修 理 这 瓮 城 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>“马 尔 瓦 德 给 瓮 城 留 了 材 料 ，现 在 它 们 还 可 以 用 。在 未 来 ，如 果 你 想 要 再 次 修 葺 要 塞 ，我 们 就 需 要 购 买 物 资 和 劳 力 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>“马 尔 瓦 德 有 本 总 账 ，到 时 候 可 以 用 ，而 我 有 权 更 新 它 ……你 也 可 以 看 看 ，如 果 你 想 的 话 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>“我 还 有 其 他 问 题 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>“怎 么 了 ？我 要 怎 么 帮 忙 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>“你 ——你 已 经 帮 了 。我 从 这 儿 感 觉 到 了 变 化 。就 好 像 有 个 响 声 ——超 过 了 要 塞 的 任 何 声 音 ，我 刚 刚 才 注 意 到 ……现 在 真 是 静 得 出 奇 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>“大 人 ，你 好 像 收 到 了 一 封 信 。是 一 个 讨 厌 的 信 使 送 来 的 ，我 必 须 说 。不 过 ，我 拿 过 来 了 ，如 果 你 想 我 可 以 转 述 给 你 。”</DefaultText>
+			<FemaleText>“夫 人 ，你 好 像 收 到 了 一 封 信 。是 一 个 讨 厌 的 信 使 送 来 的 ，我 必 须 说 。不 过 ，我 拿 过 来 了 ，如 果 你 想 我 可 以 转 述 给 你 。” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>“信 使 想 要 什 么 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>“此 刻 我 还 不 想 管 这 个 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>“看 起 来 像 是 在 下 挑 战 。不 是 代 表 他 自 己 ，而 是 代 表 他 的 主 人 。看 起 来 你 恐 怕 树 敌 了 。莱 德 里 克 大 人 好 像 对 你 很 生 气 。” 
+
+“他 要 求 你 去 他 的 要 塞 面 见 他 ，还 威 胁 说 你 不 去 就 来 攻 击 塞 德 努 亚 。他 有 挺 有 演 戏 天 分 的 ，我 不 得 不 说 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>“关 于 那 个 神 秘 的 信 件 ……”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>“哦 ，对 了 ——你 需 要 我 现 在 转 述 这 条 消 息 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>“当 然 ，当 然 。那 么 ，下 次 吧 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>“又 一 个 塞 德 努 亚 的 通 魂 者 。闪 着 亮 瞎 眼 的 光 。真 是 奇 怪 的 意 外 事 件 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>“我 在 找 马 尔 瓦 德 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>“你 在 说 的 是 什 么 伯 爵 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>“你 被 囚 禁 在 宝 座 里 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>“当 它 造 好 的 时 候 我 已 经 不 想 离 开 了 。相 比 回 到 我 那 孤 独 的 家 。我 乞 求 伯 爵 让 我 留 下 来 照 看 它 。我 要 的 就 是 这 样 ，于 是 他 批 准 了 。
+
+“几 年 后 ，当 贝 拉 斯 的 指 引 者 最 终 过 来 叫 我 时 ，我 乞 求 伯 爵 想 个 办 法 让 我 留 下 来 。他 也 照 做 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>“但 他 一 段 时 间 以 前 开 始 变 得 冷 漠 。他 从 没 告 诉 我 为 什 么 。他 越 来 越 深 地 往 要 塞 里 退 ，却 从 不 离 开 ，饿 了 就 派 仆 人 去 取 食 物 ，就 这 么 躲 着 我 。修 复 工 作 也 就 停 止 了 。”那 个 话 音 发 出 一 阵 留 恋 的 叹 息 。
+
+“现 在 再 看 这 地 方 ，你 就 怎 么 也 无 法 看 出 我 们 的 成 就 了 。绝 大 多 数 地 方 甚 至 比 修 复 之 前 还 差 。而 我 能 做 的 只 是 看 着 它 在 我 旁 边 崩 塌 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>“岩 伍 德 伯 爵 。最 初 的 伯 爵 ，事 实 上 ，当 迪 伍 德 还 是 个 殖 民 地 的 时 候 。他 建 立 了 这 个 要 塞 ，伊 尔 格 兰 法 斯 人 唯 一 拒 绝 保 卫 的 遗 迹 ，他 相 信 这 里 有 着 大 量 财 富 。这 个 要 塞 是 他 防 范 家 族 声 讨 的 方 式 ，他 们 的 声 讨 成 了 他 的 困 扰 。他 必 须 知 道 下 面 有 什 么 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>“囚 禁 ？我 猜 有 时 候 我 的 确 这 么 觉 得 。但 更 多 时 候 我 觉 得 我 是 住 在 这 里 。
+
+“这 个 宝 座 是 从 废 墟 中 带 上 来 的 。他 们 发 现 的 第 一 批 东 西 之 一 。作 为 对 一 个 将 死 女 士 的 最 后 帮 助 ，伯 爵 安 排 我 进 去 。绿 萤 石 是 灵 魂 的 接 纳 容 器 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>“他 把 毕 生 精 力 都 投 入 到 了 挖 掘 要 塞 下 的 遗 迹 。它 们 已 经 被 石 头 和 泥 土 封 住 了 。看 起 来 ，像 是 故 意 这 么 做 的 。”
+
+“好 几 年 过 去 了 ，伯 爵 也 死 了 。他 一 生 都 在 挖 却 从 没 找 到 寻 找 的 东 西 。他 的 痴 迷 转 移 到 了 他 儿 子 身 上 ，以 及 他 儿 子 的 儿 子 身 上 。终 于 有 一 天 ，那 个 年 轻 的 伯 爵 取 得 了 突 破 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>“他 发 现 了 什 么 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>“我 想 问 你 些 别 的 问 题 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>“一 个 无 尽 的 迷 宫 ，结 构 令 人 难 以 理 解 。但 他 怎 么 也 没 想 到 坏 事 就 在 后 头 。邪 恶 的 生 物 已 经 在 那 安 了 家 。邪 恶 而 危 险 的 。他 们 倾 巢 而 出 通 过 要 塞 ，杀 了 要 塞 的 居 民 ，伯 爵 就 是 其 中 之 一 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>“从 那 以 后 要 塞 一 直 被 废 弃 着 。空 着 。浪 费 掉 。马 尔 瓦 德 对 此 地 的 控 制 是 我 两 百 年 来 见 到 的 第 一 次 希 望 。我 多 么 期 盼 着 看 到 它 曾 经 的 盛 景 啊 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>“哦 它 没 有 看 起 来 那 么 狭 窄 我 能 从 这 儿 感 觉 到 整 个 要 塞 ，以 及 所 有 依 附 在 其 中 的 东 西 。这 个 宝 座 和 它 的 结 构 有 问 题 。或 者 可 能 是 这 个 地 方 有 问 题 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>“我 只 能 猜 测 为 何 这 些 事 会 发 生 。我 恐 怕 我 已 经 亵 渎 了 神 明 ，而 他 们 判 定 我 看 着 这 里 破 败 成 灰 。以 见 证 我 的 愚 蠢 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>“他 让 我 别 无 选 择 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>“老 家 伙 在 疯 狂 咆 哮 。我 就 帮 他 解 脱 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>“好 几 个 他 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>管 家 安 静 了 一 会 儿 。空 气 好 似 要 变 冷 了 。
+
+“听 到 这 消 息 我 很 悲 伤 。但 是 我 心 里 还 是 因 为 不 必 再 在 黑 暗 中 等 待 和 焦 虑 而 有 些 感 激 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>“这 地 方 一 直 都 知 道 它 的 主 人 ，自 从 第 一 次 拥 有 主 人 以 来 就 是 如 此 。它 有 着 自 己 的 意 志 ，这 和 城 堡 没 什 么 关 系 而 和 它 所 在 的 土 地 有 很 大 关 系 。它 现 在 当 你 是 马 尔 瓦 德 的 继 承 者 ，不 管 你 在 意 与 否 。
+
+“继 承 一 个 既 破 败 又 被 诅 咒 的 要 塞 ，的 确 是 一 个 靠 不 住 的 荣 耀 。但 是 只 要 苦 心 经 营 ，那 就 不 止 这 么 简 单 了 ！要 是 你 见 过 它 鼎 盛 时 期 的 样 子 就 好 了 。
+
+“你 会 ——你 会 留 下 来 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+			<DefaultText>“马 尔 瓦 德 说 我 必 须 去 ‘反 抗 之 城 ’搜 索 ‘女 王 ’。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>“你 必 须 知 道 ，这 个 你 正 寻 找 的 女 王 ……反 抗 湾 没 有 女 王 。艾 迪 尔 帝 后 自 从 战 争 后 就 没 有 统 治 过 这 里 。
+
+“那 里 有 些 权 力 的 女 王 只 有 沃 迪 卡 一 个 。我 曾 被 告 知 他 们 为 她 建 造 了 一 座 精 致 的 神 殿 ，可 是 我 一 直 没 机 会 看 看 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+			<DefaultText>“搜 寻 途 中 多 保 重 。这 里 潜 伏 着 很 多 危 险 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+			<DefaultText>“塞 德 努 亚 还 是 你 的 。它 ……能 够 重 获 盛 象 ……如 果 你 这 么 期 盼 着 的 话 。假 如 我 们 重 建 它 ，你 很 快 会 发 现 人 们 被 吸 引 到 这 里 来 干 活 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+			<DefaultText>“不 可 能 了 。莱 德 里 克 大 人 已 经 死 了 。我 亲 眼 看 见 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>94</ID>
+			<DefaultText>“这 肯 定 是 个 玩 笑 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>95</ID>
+			<DefaultText>“我 从 不 拒 绝 挑 战 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>96</ID>
+			<DefaultText>“哦 ，信 使 很 明 确 。或 者 我 该 说 信 写 的 很 明 确 。看 一 下 吧 ，如 果 你 想 的 话 。” 
+
+“我 猜 这 可 能 是 个 玩 笑 。太 低 级 趣 味 了 ，不 是 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>97</ID>
+			<DefaultText>“有 什 么 我 能 帮 你 的 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>98</ID>
+			<DefaultText>“谁 在 说 话 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>99</ID>
+			<DefaultText>“你 知 道 我 是 谁 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>100</ID>
+			<DefaultText>“如 果 我 吓 着 了 你 我 很 抱 歉 。恐 怕 我 的 礼 貌 退 步 了 。最 近 我 没 有 太 多 介 绍 的 机 会 。” 
+
+“不 管 怎 样 ，我 猜 你 是 来 这 找 马 尔 瓦 德 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>101</ID>
+			<DefaultText>“几 乎 不 会 有 人 搞 错 这 点 。你 像 个 蜡 烛 一 样 在 燃 烧 。当 然 ，我 也 知 道 该 找 什 么 。
+
+“不 管 怎 样 ，我 猜 你 是 来 这 找 马 尔 瓦 德 的 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>102</ID>
+			<DefaultText>“我 一 直 想 要 个 要 塞 。就 算 它 有 点 被 诅 咒 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>103</ID>
+			<DefaultText>“碰 巧 的 是 ，他 不 像 是 会 接 受 ‘不 ’这 种 回 复 的 人 。我 希 望 你 小 心 点 ，大 人 。我 不 知 道 为 什 么 这 个 人 想 伤 害 你 ，但 他 似 乎 很 坚 决 。”</DefaultText>
+			<FemaleText>“碰 巧 的 是 ，他 不 像 是 会 接 受 ‘不 ’这 种 回 复 的 人 。我 希 望 你 小 心 点 ，夫 人 。我 不 知 道 为 什 么 这 个 人 想 伤 害 你 ，但 他 似 乎 很 坚 决 。”</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>104</ID>
+			<DefaultText>“这 个 我 听 说 过 。我 敢 肯 定 你 会 获 胜 的 ，但 即 使 如 此 我 相 信 你 还 是 会 严 加 防 备 的 。他 好 像 下 了 决 心 要 伤 害 你 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>105</ID>
+			<DefaultText>“我 要 遗 迹 做 什 么 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>106</ID>
+			<DefaultText>空 气 中 的 活 力 似 乎 瞬 间 就 流 失 了 。“这 毕 竟 ...是 你 的 选 择 。”
+
+“堡 垒 会 将 你 视 为 它 的 主 人 。假 以 时 日 ，你 会 为 此 地 而 感 到 自 豪 。” 
+
+“它 只 需 要 人 来 领 导 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>107</ID>
+			<DefaultText>你 感 受 到 了 温 暖 以 及 空 气 中 的 能 量 。“那 么 它 就 归 你 了 。知 道 堡 垒 再 次 有 了 能 干 的 主 人 来 接 管 ，我 感 到 十 分 高 兴 。”</DefaultText>
+			<FemaleText>你 感 受 到 了 温 暖 以 及 空 气 中 的 能 量 。“那 么 它 就 归 你 了 。知 道 堡 垒 再 次 有 了 能 干 的 女 主 人 来 接 管 ，我 感 到 十 分 高 兴 。”</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>108</ID>
+			<DefaultText>“我 得 说 下 ，如 果 你 想 去 反 抗 湾 购 置 补 给 品 的 话 ，可 能 遇 到 些 情 况 。” 
+
+“东 方 瓮 城 很 多 年 前 就 倒 塌 了 ，马 尔 瓦 德 从 未 有 空 来 修 复 它 。这 里 的 道 路 就 是 死 路 。在 他 全 神 贯 注 于 他 的 事 业 前 ，他 还 会 出 去 收 集 素 材 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>109</ID>
+			<DefaultText>“如 果 你 真 的 打 算 继 续 的 话 ，你 会 发 现 路 被 堵 住 了 ，无 法 通 过 。” 
+
+“东 方 瓮 城 很 多 年 前 就 倒 塌 了 ，马 尔 瓦 德 从 未 有 空 来 修 复 它 。这 里 的 道 路 就 是 死 路 。在 他 全 神 贯 注 于 他 的 事 业 前 ，他 还 会 出 去 收 集 素 材 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>110</ID>
+			<DefaultText>“让 我 看 看 我 能 修 复 些 什 么 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>111</ID>
+			<DefaultText>“现 在 不 行 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>112</ID>
+			<DefaultText>“随 你 。那 么 ，下 次 吧 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>113</ID>
+			<DefaultText>“...但 你 应 该 知 道 ，这 职 位 也 有 着 风 险 。越 来 越 多 人 会 知 道 你 的 名 号 ，你 也 必 须 处 理 堡 垒 面 对 的 威 胁 。另 外 ，还 有 其 他 威 胁 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>116</ID>
+			<DefaultText>“是 马 尔 瓦 德 本 人 造 就 了 这 一 通 魂 者 的 诅 咒 。但 他 的 前 任 主 人 也 好 不 到 哪 里 去 。堡 垒 内 有 着 可 怕 的 存 在 。准 确 来 说 ，是 堡 垒 之 下 有 着 可 怕 的 存 在 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>120</ID>
+			<DefaultText>“你 说 堡 垒 受 着 诅 咒 ，是 什 么 意 思 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>123</ID>
+			<DefaultText>“你 办 成 了 那 些 伯 爵 ，伯 爵 后 裔 和 探 险 者 都 未 办 成 的 事 。没 有 人 来 挑 战 你 了 。你 是 塞 德 努 亚 真 正 的 主 人 。”
+
+“我 们 在 当 初 就 该 知 道 的 。但 是 现 在 整 个 世 界 都 会 知 道 ，并 同 我 一 起 ，为 你 取 得 的 成 就 而 感 到 自 豪 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>124</ID>
+			<DefaultText>“塞 德 努 亚 的 消 息 正 散 播 至 世 界 各 地 。我 预 计 很 快 就 会 有 各 地 的 访 客 来 此 地 拜 访 ！。” 
+
+“这 ...看 到 这 地 方 如 昔 日 般 庄 严 宏 伟 ，我 感 到 十 分 开 心 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>125</ID>
+			<DefaultText>“谢 谢 你 ，大 人 。这 堡 垒 代 表 着 你 为 我 们 所 做 的 一 切 。如 纪 念 碑 般 ，记 载 着 一 切 。 
+
+“让 你 久 等 了 。我 这 就 向 你 汇 报 。”</DefaultText>
+			<FemaleText>“谢 谢 你 ，夫 人 。这 堡 垒 代 表 着 你 为 我 们 所 做 的 一 切 。如 纪 念 碑 般 ，记 载 着 一 切 。 
+
+“让 你 久 等 了 。我 这 就 向 你 汇 报 。” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>126</ID>
+			<DefaultText>“大 人 ，不 得 不 说 ，你 修 复 了 城 堡 的 防 御 工 事 ，干 得 漂 亮 。目 测 连 老 鼠 也 溜 不 进 来 。”</DefaultText>
+			<FemaleText>“夫 人 ，不 得 不 说 ，你 修 复 了 城 堡 的 防 御 工 事 ，干 得 漂 亮 。目 测 连 老 鼠 也 溜 不 进 来 。” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>127</ID>
+			<DefaultText>“谈 到 正 事 ...”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>128</ID>
+			<DefaultText>“人 们 开 始 注 意 到 你 的 努 力 工 作 。我 猜 很 快 就 会 有 更 多 的 访 客 。” 
+
+“我 高 兴 看 到 你 决 定 呆 下 。看 着 此 地 再 次 衰 败 ，我 感 到 伤 心 。”</DefaultText>
+			<FemaleText>“人 们 开 始 注 意 到 你 的 努 力 工 作 。我 猜 很 快 就 会 有 更 多 的 访 客 。” 
+
+“我 高 兴 看 到 你 决 定 呆 下 。看 着 此 地 再 次 衰 败 ，我 感 到 伤 心 。”</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>129</ID>
+			<DefaultText>“重 建 它 代 表 着 ...我 能 想 到 那 熙 攘 的 人 群 ，那 些 请 愿 者 。也 许 还 会 有 晚 间 的 音 乐 ？” 
+
+“有 点 走 神 了 。这 是 报 告 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>130</ID>
+			<DefaultText>“希 望 一 切 顺 利 。若 有 任 何 能 帮 忙 的 地 方 ，请 告 诉 我 。”</DefaultText>
+			<FemaleText>“希 望 一 切 顺 利 。若 有 任 何 能 帮 忙 的 地 方 ，请 告 诉 我 。”</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>131</ID>
+			<DefaultText>“越 来 越 多 的 人 知 道 你 的 名 号 。听 说 反 抗 湾 的 旅 者 在 谈 论 你 的 成 就 。”</DefaultText>
+			<FemaleText>“越 来 越 多 的 人 知 道 你 的 名 号 。听 说 反 抗 湾 的 旅 者 在 谈 论 你 的 成 就 。” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>132</ID>
+			<DefaultText>“看 到 堡 垒 主 人 与 这 世 界 有 所 联 系 ，我 感 到 很 欣 慰 。若 置 一 切 不 顾 ，转 眼 间 就 衰 败 了 ...”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>133</ID>
+			<DefaultText>“大 人 ，你 无 须 担 心 。你 做 得 不 错 。现 在 这 样 已 经 很 好 了 ...在 以 前 ，我 可 是 完 全 不 敢 想 象 。”</DefaultText>
+			<FemaleText>“夫 人 ，你 无 须 担 心 。你 做 得 不 错 。现 在 这 样 已 经 很 好 了 ...在 以 前 ，我 可 是 完 全 不 敢 想 象 。” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>134</ID>
+			<DefaultText>“我 敢 肯 定 ，你 完 全 可 以 胜 任 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>135</ID>
+			<DefaultText>我 有 些 问 题 要 问 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>136</ID>
+			<DefaultText>“那 样 我 就 尽 量 回 答 。你 想 知 道 些 什 么 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>137</ID>
+			<DefaultText>“这 以 前 是 你 的 堡 垒 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>138</ID>
+			<DefaultText>“好 比 土 地 是 它 的 领 主 的 ，不 只 这 样 ……好 比 孩 子 是 他 的 母 亲 的 。要 知 道 这 座 城 堡 是 我 设 计 的 。伯 爵 任 命 我 负 责 此 事 。然 后 我 就 ……干 了 好 几 年 。我 知 道 它 将 是 我 建 造 宏 伟 建 筑 的 唯 一 机 会 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>139</ID>
+			<DefaultText>“当 它 造 好 的 时 候 我 已 经 不 想 离 开 了 。相 比 回 到 我 那 孤 独 的 家 。我 乞 求 伯 爵 让 我 留 下 来 照 看 它 。我 要 的 就 是 这 样 ，于 是 他 批 准 了 。
+
+“几 年 后 ，当 贝 拉 斯 的 指 引 者 最 终 过 来 叫 我 时 ，我 乞 求 伯 爵 想 个 办 法 让 我 留 下 来 。他 也 照 做 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>140</ID>
+			<DefaultText>“我 没 有 其 它 问 题 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>141</ID>
+			<DefaultText>“还 有 别 的 事 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>142</ID>
+			<DefaultText>“你 提 过 以 前 的 伯 爵 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>143</ID>
+			<DefaultText>“是 的 ，岩 伍 德 伯 爵 。最 初 的 主 人 ，那 时 ，迪 伍 德 还 是 殖 民 地 。是 他 找 到 了 这 地 方 --伊 尔 格 兰 法 斯 人 所 拒 绝 防 守 的 遗 迹 。他 相 信 这 里 有 着 极 大 的 财 富 。他 建 立 这 这 堡 垒 来 守 卫 家 族 的 名 望 。而 那 名 望 随 后 也 成 了 他 的 痴 迷 。他 必 须 知 道 堡 垒 下 有 什 么 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>144</ID>
+			<DefaultText>“他 把 毕 生 精 力 都 投 入 到 了 挖 掘 要 塞 下 的 遗 迹 。它 们 已 经 被 石 头 和 泥 土 封 住 了 。看 起 来 ，像 是 故 意 这 么 做 的 。”
+
+“好 几 年 过 去 了 ，伯 爵 也 死 了 。他 一 生 都 在 挖 却 从 没 找 到 寻 找 的 东 西 。他 的 痴 迷 转 移 到 了 他 儿 子 身 上 ，以 及 他 儿 子 的 儿 子 身 上 。终 于 有 一 天 ，那 个 年 轻 的 伯 爵 取 得 了 突 破 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>145</ID>
+			<DefaultText>“随 后 他 发 现 了 无 尽 之 路 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>146</ID>
+			<DefaultText>“他 发 现 了 什 么 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>147</ID>
+			<DefaultText>“我 想 问 问 其 他 事 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>148</ID>
+			<DefaultText>“一 个 无 尽 的 迷 宫 ，结 构 令 人 难 以 理 解 。但 他 怎 么 也 没 想 到 坏 事 就 在 后 头 。邪 恶 的 生 物 已 经 在 那 安 了 家 。邪 恶 而 危 险 的 。他 们 倾 巢 而 出 通 过 要 塞 ，杀 了 要 塞 的 居 民 ，伯 爵 就 是 其 中 之 一 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>149</ID>
+			<DefaultText>“从 那 以 后 要 塞 一 直 被 废 弃 着 。空 着 。浪 费 掉 。马 尔 瓦 德 对 此 地 的 控 制 是 我 两 百 年 来 见 到 的 第 一 次 希 望 。我 多 么 期 盼 着 看 到 它 曾 经 的 盛 景 啊 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>150</ID>
+			<DefaultText>“我 只 能 猜 测 为 何 这 些 事 会 发 生 。我 恐 怕 我 已 经 亵 渎 了 神 明 ，而 他 们 判 定 我 看 着 这 里 破 败 成 灰 。以 见 证 我 的 愚 蠢 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>151</ID>
+			<DefaultText>“好 的 。你 想 知 道 些 什 么 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>152</ID>
+			<DefaultText>“现 在 它 同 我 一 样 ，有 了 新 的 主 人 ，有 了 第 二 次 机 会 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>154</ID>
+			<DefaultText>“无 尽 的 迷 宫 ，无 人 理 解 其 构 造 。但 他 只 知 道 那 么 多 ，从 未 有 机 会 深 入 了 解 。那 里 有 着 污 秽 的 邪 恶 东 西 。邪 恶 而 又 危 险 的 东 西 。他 们 从 堡 垒 深 处 一 涌 而 出 ，杀 害 了 堡 垒 内 的 居 民 ，伯 爵 也 在 其 中 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>155</ID>
+			<DefaultText>“你 为 那 些 人 报 了 仇 ，我 对 此 表 示 感 谢 。我 希 望 他 们 的 灵 魂 能 够 安 息 ，或 者 在 其 他 地 方 找 到 新 生 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>156</ID>
+			<DefaultText>“在 那 次 袭 击 后 ，堡 垒 就 被 遗 弃 ，一 弃 就 是 200多 年 。在 马 尔 瓦 德 到 来 后 ，我 觉 得 我 终 于 可 以 看 到 堡 垒 复 兴 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>157</ID>
+			<DefaultText>“但 看 起 来 我 弄 错 了 。是 你 拯 救 的 这 地 方 。我 还 以 为 这 地 的 诅 咒 永 远 不 会 散 去 。以 为 会 看 着 这 地 的 一 切 任 由 时 间 消 磨 ，化 为 尘 土 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>158</ID>
+			<DefaultText>“这 堡 垒 是 我 的 结 晶 。你 在 修 复 它 的 同 时 ，也 恢 复 了 我 昔 日 的 意 图 。你 的 名 字 ，你 的 灵 魂 都 将 写 在 这 石 头 上 。塞 德 努 亚 是 不 会 再 次 倒 下 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>159</ID>
+			<DefaultText>“你 被 囚 禁 在 宝 座 里 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>160</ID>
+			<DefaultText>“囚 禁 ？我 猜 有 时 候 我 的 确 这 么 觉 得 。但 更 多 时 候 我 觉 得 我 是 住 在 这 里 。
+
+“这 个 宝 座 是 从 废 墟 中 带 上 来 的 。他 们 发 现 的 第 一 批 东 西 之 一 。作 为 对 一 个 将 死 女 士 的 最 后 帮 助 ，伯 爵 安 排 我 进 去 。绿 萤 石 是 灵 魂 的 接 纳 容 器 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>161</ID>
+			<DefaultText>“哦 它 没 有 看 起 来 那 么 狭 窄 我 能 从 这 儿 感 觉 到 整 个 要 塞 ，以 及 所 有 依 附 在 其 中 的 东 西 。这 个 宝 座 和 它 的 结 构 有 问 题 。或 者 可 能 是 这 个 地 方 有 问 题 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>162</ID>
+			<DefaultText>“有 障 碍 物 堵 住 了 下 方 的 通 道 。那 通 道 通 往 哪 里 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>163</ID>
+			<DefaultText>“那 就 是 曾 到 这 里 所 有 人 所 总 结 的 结 论 。游 荡 在 无 尽 之 路 的 灵 魂 经 常 谈 起 深 处 的 主 人 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>165</ID>
+			<DefaultText>“我 也 不 确 定 。不 过 这 一 定 同 因 格 维 斯 暴 君 -奥 德 ·努 亚 有 关 ，据 说 他 是 无 尽 之 路 的 建 造 者 。有 人 说 他 的 灵 魂 仍 健 在 。即 便 不 在 ，起 码 也 给 此 地 下 了 诅 咒 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>166</ID>
+			<DefaultText>“据 说 ，那 废 墟 由 富 有 影 响 力 的 因 格 维 斯 人 -奥 德 ·努 亚 所 造 。在 人 们 反 抗 奥 德 ·努 亚 前 ，他 一 直 统 治 着 那 里 。那 些 人 摧 毁 了 &apos;无 尽 之 路 &apos;,并 用 石 土 封 堵 了 上 层 隧 道 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>167</ID>
+			<DefaultText>“你 去 下 方 时 ，可 能 会 看 到 奥 德 ·努 亚 所 建 雕 像 的 巨 手 。...也 许 那 所 建 的 雕 像 描 绘 的 就 是 奥 德 ·努 亚 本 人 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>168</ID>
+			<DefaultText>“你 当 然 是 ！这 堡 垒 没 有 其 他 ...但 无 尽 之 路 属 于 完 全 不 同 的 事 务 。它 们 紧 紧 相 连 ，这 真 的 属 于 十 分 不 幸 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>169</ID>
+			<DefaultText>“如 果 不 处 理 掉 下 方 的 主 人 ...堡 垒 将 一 直 受 到 威 胁 。” 
+
+“我 知 道 信 息 太 多 ，消 化 不 过 来 。但 如 果 你 打 算 呆 在 这 里 ，打 算 成 为 这 地 方 的 主 人 ...我 建 议 你 趁 它 还 没 消 灭 你 前 ，找 到 这 一 敌 人 。”</DefaultText>
+			<FemaleText>“如 果 不 处 理 掉 下 方 的 主 人 ...堡 垒 将 一 直 受 到 威 胁 。” 
+
+“我 知 道 信 息 太 多 ，消 化 不 过 来 。但 如 果 你 打 算 呆 在 这 里 ，打 算 成 为 这 地 方 的 女 主 人 ...我 建 议 你 趁 它 还 没 消 灭 你 前 ，找 到 这 一 敌 人 。” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>170</ID>
+			<DefaultText>“你 真 的 会 ？我 ……我 会 全 力 支 持 你 。那 通 道 也 随 时 为 你 敞 开 。但 我 必 须 警 告 你 ，这 可 不 是 件 容 易 的 事 。之 前 也 去 了 很 多 人 ...我 担 心 ，你 同 先 前 的 其 他 人 一 样 ，也 会 落 入 那 主 人 的 魔 爪 。”</DefaultText>
+			<FemaleText>“你 真 的 会 ？我 ……我 会 全 力 支 持 你 。那 通 道 也 随 时 为 你 敞 开 。但 我 必 须 警 告 你 ，这 可 不 是 件 容 易 的 事 。之 前 也 去 了 很 多 人 ...我 担 心 ，你 同 先 前 的 其 他 人 一 样 ，也 会 落 入 那 主 人 的 魔 爪 。” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>171</ID>
+			<DefaultText>“那 通 往 无 尽 之 路 。那 是 这 堡 垒 的 真 正 诅 咒 。那 是 我 所 能 采 取 的 用 来 防 守 堡 垒 的 微 弱 措 施 ，但 事 实 上 几 乎 没 什 么 作 用 ...”
+
+“我 可 以 为 你 打 开 那 道 路 ，但 我 必 须 警 告 你 ...”</DefaultText>
+			<FemaleText>“那 通 往 无 尽 之 路 。那 是 这 堡 垒 的 真 正 诅 咒 。那 是 我 所 能 采 取 的 用 来 防 守 堡 垒 的 微 弱 措 施 ，但 事 实 上 几 乎 没 什 么 作 用 ...”
+
+“我 可 以 为 你 打 开 那 道 路 ，但 我 必 须 警 告 你 ...”</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>172</ID>
+			<DefaultText>[离 开 ]“再 会 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>174</ID>
+			<DefaultText>“如 果 你 打 算 去 那 里 ，我 们 应 该 立 即 开 始 修 复 瓮 城 。你 只 需 告 诉 我 你 希 望 做 什 么 ，我 就 会 帮 你 做 好 必 要 安 排 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>175</ID>
+			<DefaultText>“不 得 不 提 ，最 近 的 访 客 真 是 个 吵 闹 之 人 。近 一 个 世 纪 来 ，我 从 未 看 过 那 样 的 醉 鬼 。”
+
+“但 他 在 守 卫 中 很 受 欢 迎 ，现 在 守 卫 们 在 让 他 抛 接 刀 子 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>176</ID>
+			<DefaultText>“有 名 相 当 受 人 尊 敬 的 方 可 。那 人 是 参 加 过 圣 战 的 老 兵 。他 激 励 着 你 的 守 卫 ，还 告 诉 他 们 诸 多 神 奇 的 经 历 。没 人 来 记 那 些 神 奇 经 历 真 是 太 可 惜 了 ...”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>177</ID>
+			<DefaultText>“有 名 堡 垒 内 有 名 重 要 访 客 。那 人 是 艾 迪 尔 帝 国 的 显 要 人 物 。这 让 我 想 起 了 过 去 ...” 
+
+“总 之 ，我 该 让 仆 从 确 保 他 过 得 舒 适 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>178</ID>
+			<DefaultText>“有 访 客 令 人 们 感 到 紧 张 不 安 ...他 受 诸 多 城 市 通 缉 ，有 些 人 不 确 定 他 会 不 会 偷 窃 他 们 的 钱 包 。不 过 ，你 让 他 呆 着 这 里 ，肯 定 有 你 的 理 由 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>179</ID>
+			<DefaultText>“大 人 ！我 听 说 了 可 怕 的 事 -我 担 心 你 不 会 回 来 了 。那 是 真 的 吗 ？反 抗 湾 发 生 了 暴 乱 ？” 
+
+“埃 瓦 尔 被 人 杀 害 了 ？”</DefaultText>
+			<FemaleText>“夫 人 ！我 听 说 了 可 怕 的 事 -我 担 心 你 不 会 回 来 了 。那 是 真 的 吗 ？反 抗 湾 发 生 了 暴 乱 ？” 
+
+“埃 瓦 尔 被 人 杀 害 了 ？” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>180</ID>
+			<DefaultText>“太 可 怕 了 ...但 看 到 你 安 然 无 恙 ，我 感 到 很 开 心 。希 望 那 城 市 能 缓 过 来 。”</DefaultText>
+			<FemaleText>“太 可 怕 了 ...但 看 到 你 安 然 无 恙 ，我 感 到 很 开 心 。希 望 那 城 市 能 缓 过 来 。” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>181</ID>
+			<DefaultText>“是 真 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>182</ID>
+			<DefaultText>“是 的 。我 会 让 赛 奥 斯 付 出 代 价 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>183</ID>
+			<DefaultText>[点 头 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>184</ID>
+			<DefaultText>“是 的 。谢 天 谢 地 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>185</ID>
+			<DefaultText>“你 肯 定 会 的 。他 罪 有 应 得 。希 望 神 明 能 时 刻 困 扰 他 。” 
+
+“你 安 然 无 恙 ，我 很 开 心 。希 望 反 抗 湾 能 缓 过 来 。”</DefaultText>
+			<FemaleText>“你 肯 定 会 的 。他 罪 有 应 得 。希 望 神 明 能 时 刻 困 扰 他 。” 
+
+“你 安 然 无 恙 ，我 很 开 心 。希 望 反 抗 湾 能 缓 过 来 。”</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>186</ID>
+			<DefaultText>“...我 知 道 你 不 会 感 到 惋 惜 ，但 他 的 死 亡 可 能 会 破 坏 该 区 域 的 稳 定 。我 担 心 如 果 人 们 开 始 指 责 外 来 人 ，堡 垒 内 的 情 况 可 不 容 乐 观 。” 
+
+“看 到 你 安 然 无 恙 ，我 感 到 很 高 兴 。我 很 担 心 你 。”</DefaultText>
+			<FemaleText>“...我 知 道 你 不 会 感 到 惋 惜 ，但 他 的 死 亡 可 能 会 破 坏 该 区 域 的 稳 定 。我 担 心 如 果 人 们 开 始 指 责 外 来 人 ，堡 垒 内 的 情 况 可 不 容 乐 观 。” 
+
+“看 到 你 安 然 无 恙 ，我 感 到 很 高 兴 。我 很 担 心 你 。”</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>187</ID>
+			<DefaultText>“大 人 ！你 肯 定 不 是 认 真 的 ...他 的 死 会 导 致 整 个 区 域 混 乱 。希 望 那 城 市 能 缓 过 来 。” 
+
+“看 到 你 安 然 无 恙 ，我 感 到 很 高 兴 。我 很 担 心 你 。”</DefaultText>
+			<FemaleText>“大 人 ！你 肯 定 不 是 认 真 的 ...他 的 死 会 导 致 整 个 区 域 混 乱 。希 望 那 城 市 能 缓 过 来 。” 
+
+“看 到 你 安 然 无 恙 ，我 感 到 很 高 兴 。我 很 担 心 你 。” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>189</ID>
+			<DefaultText>“无 尽 之 路 ！我 的 朋 友 ，那 就 是 我 必 须 去 的 地 方 --我 们 必 须 去 的 地 方 ，如 果 你 希 望 跟 我 一 起 过 去 的 话 。无 论 那 里 有 着 什 么 恶 魔 ...试 想 下 我 们 将 发 现 的 知 识 啊 ！...也 许 那 主 人 会 说 艾 迪 尔 语 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>190</ID>
+			<DefaultText>“我 是 你 忠 诚 的 仆 人 ，只 要 你 还 是 此 地 的 主 人 ，我 们 就 会 一 直 关 联 在 一 起 。你 无 须 回 到 这 里 来 同 我 说 话 。无 论 你 在 哪 里 旅 行 ，只 要 你 道 明 ，我 就 会 知 道 你 的 意 愿 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>191</ID>
+			<DefaultText>“那 么 让 我 们 立 即 启 程 。”管 事 的 声 音 中 有 着 一 丝 狂 喜 。”知 道 这 不 过 是 诸 多 事 务 的 开 始 。堡 垒 有 着 诸 多 建 筑 ，多 年 来 ，供 养 着 诸 多 仆 人 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>192</ID>
+			<DefaultText>“如 果 你 希 望 的 话 ，我 们 可 以 修 复 周 边 建 筑 。那 会 给 你 带 来 财 富 和 认 可 度 ，吸 引 人 们 为 你 效 劳 。重 建 防 御 工 事 会 防 止 敌 人 占 领 此 地 ，避 免 重 犯 马 尔 瓦 德 管 理 时 的 错 误 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>193</ID>
+			<DefaultText>“你 无 须 一 次 性 选 择 所 有 工 事 。我 会 竭 诚 为 你 服 务 。只 要 你 还 是 此 地 的 主 人 ，我 们 就 会 一 直 关 联 在 一 起 。你 无 须 回 到 这 里 来 同 我 说 话 。无 论 你 在 哪 里 旅 行 ，只 要 你 道 明 ，我 就 会 知 道 你 的 意 愿 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>194</ID>
+			<DefaultText>“哦 ，首 先 重 建 瓮 城 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>195</ID>
+			<DefaultText>“让 我 看 看 我 能 修 复 些 什 么 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>196</ID>
+			<DefaultText>&quot;再 见 。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>197</ID>
+			<DefaultText>“只 要 你 告 诉 我 接 下 来 想 修 复 什 么 ，我 就 会 做 好 相 应 的 必 要 安 排 。”完 成 可 能 会 花 些 时 间 ，但 每 个 工 事 在 完 成 后 ，都 会 为 你 提 供 额 外 的 资 源 。有 地 的 话 ，我 们 还 可 以 雇 佣 商 人 -为 你 提 供 补 给 、材 料 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>198</ID>
+			<DefaultText>“修 复 堡 垒 会 提 升 你 的 威 望 ...吸 引 到 人 才 ，但 也 会 引 来 强 盗 和 机 会 主 义 者 。如 果 我 们 能 提 高 堡 垒 安 全 ，那 样 就 不 用 太 过 担 忧 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>199</ID>
+			<DefaultText>“还 有 别 的 事 吗 ？主 人 ”</DefaultText>
+			<FemaleText>“还 有 别 的 事 吗 ？”夫 人  </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>200</ID>
+			<DefaultText>“怎 么 了 ？我 要 怎 么 帮 忙 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>201</ID>
+			<DefaultText>“还 有 别 的 事 吗 ？主 人 ”</DefaultText>
+			<FemaleText>“还 有 别 的 事 吗 ？夫 人 ” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>202</ID>
+			<DefaultText>“当 然 。你 想 知 道 些 什 么 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>203</ID>
+			<DefaultText>“大 人 ，有 事 我 不 知 道 要 不 要 提 ，虽 然 不 太 重 要 ，但 鉴 于 你 是 此 地 的 主 人 ，我 觉 得 你 应 该 对 附 近 所 发 生 的 一 切 有 所 了 解 。
+
+“有 消 息 说 ，最 近 在 玛 格 岚 岔 口 附 近 ，有 名 带 着 燃 烧 法 杖 的 布 袍 人 士 侵 扰 着 旅 者 。”</DefaultText>
+			<FemaleText>“大 人 ，有 事 我 不 知 道 要 不 要 提 ，虽 然 不 太 重 要 ，但 鉴 于 你 是 此 地 的 主 人 ，我 觉 得 你 应 该 对 附 近 所 发 生 的 一 切 有 所 了 解 。
+
+“有 消 息 说 ，最 近 在 马 兰 岔 口 附 近 ，有 名 带 着 燃 烧 法 杖 的 布 袍 人 士 侵 扰 着 旅 者 。”</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>204</ID>
+			<DefaultText>“这 为 什 么 值 得 我 花 时 间 去 处 理 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>205</ID>
+			<DefaultText>“就 不 能 让 其 他 人 去 解 决 这 事 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>206</ID>
+			<DefaultText>“可 能 不 值 得 。所 以 我 才 不 愿 提 起 此 事 。但 如 果 他 继 续 侵 扰 旅 客 ，旅 客 们 可 能 会 避 免 那 区 域 。他 可 能 会 赶 走 商 人 和 其 他 访 客 。“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>207</ID>
+			<DefaultText>“他 想 要 什 么 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>208</ID>
+			<DefaultText>“我 不 知 道 。他 只 是 辱 骂 、威 胁 行 人 而 已 。可 能 就 是 个 疯 子 。”</DefaultText>
+			<FemaleText>“我 不 知 道 。他 只 是 辱 骂 、威 胁 行 人 而 已 。可 能 就 是 个 疯 子 。”</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>209</ID>
+			<DefaultText>“不 过 他 挺 会 战 斗 的 。我 了 解 到 ，他 辱 骂 了 过 往 的 佣 兵 队 伍 ，然 后 在 战 斗 中 打 败 了 他 们 。他 们 随 后 将 此 事 告 诉 给 了 当 地 的 治 安 官 ，那 些 治 安 官 也 没 能 解 决 。
+
+“如 果 你 想 处 理 他 的 话 ，最 好 亲 自 过 去 。”</DefaultText>
+			<FemaleText>“不 过 他 挺 会 战 斗 的 。我 了 解 到 ，他 辱 骂 了 过 往 的 佣 兵 队 伍 ，然 后 在 战 斗 中 打 败 了 他 们 。他 们 随 后 将 此 事 告 诉 给 了 当 地 的 治 安 官 ，那 些 治 安 官 也 没 能 解 决 。
+
+“如 果 你 想 处 理 他 的 话 ，最 好 亲 自 过 去 。”</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>210</ID>
+			<DefaultText>“我 想 讨 论 其 他 事 。“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>211</ID>
+			<DefaultText>“没 问 题 ，主 人 。”</DefaultText>
+			<FemaleText>“没 问 题 ，夫 人 。”</FemaleText>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
+

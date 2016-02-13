@@ -1,0 +1,98 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\companions\companion_qst_durance</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>18</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>杜 兰 斯 的 试 炼 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>和 杜 兰 斯 一 起 旅 行 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>和 杜 兰 斯 谈 谈 你 的 幻 觉 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>继 续 了 解 杜 兰 斯 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>从 杜 兰 斯 那 里 弄 清 楚 符 号 的 意 义 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>继 续 和 杜 兰 斯 旅 行 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>和 杜 兰 斯 谈 谈 沃 迪 卡 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>我 在 Magran‘s Fork见 到 了 一 个 奇 怪 的 牧 师 ，他 声 称 我 们 可 以 从 向 别 人 提 问 中 学 到 一 些 东 西 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>杜 兰 斯 说 他 和 我 注 定 一 起 旅 行 ，我 们 之 间 可 以 相 互 学 习 。他 是 一 个 话 很 多 ，提 出 的 问 题 比 回 答 的 要 多 ，但 是 如 果 我 和 他 一 起 旅 行 得 足 够 远 ，也 许 我 能 找 到 一 些 值 得 学 习 的 东 西 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我 做 了 一 个 和 杜 兰 斯 有 关 的 梦 。我 好 像 根 本 不 能 盯 着 他 看 ，他 的 手 杖 爆 发 出 刺 眼 的 光 芒 。这 个 梦 中 的 一 切 似 乎 过 于 真 实 ——就 像 他 的 一 部 分 灵 魂 想 要 告 诉 我 什 么 一 样 。我 应 该 问 问 他 我 看 到 的 东 西 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>杜 兰 斯 告 诉 我 他 曾 是 圣 锤 炸 弹 的 工 程 师 之 一 。除 此 之 外 他 肯 定 还 有 很 多 东 西 没 告 诉 我 ——至 少 目 前 还 没 有 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我 又 做 了 一 个 关 于 杜 兰 斯 的 梦 。我 在 他 的 手 杖 上 看 到 一 个 燃 烧 的 符 号 ——十 二 个 小 圆 圈 组 成 了 一 个 大 圆 圈 ，而 且 就 在 我 盯 着 看 的 时 候 ，其 中 的 十 一 个 渐 渐 地 消 失 了 。在 我 的 梦 里 ，杜 兰 斯 好 像 要 重 新 点 亮 它 们 ，但 没 能 做 到 。也 许 杜 兰 斯 知 道 这 是 什 么 意 思 ，就 像 他 在 最 后 一 个 梦 里 所 做 的 那 样 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>当 我 向 他 询 问 手 杖 上 的 圆 圈 的 时 候 ，他 在 逃 避 。他 声 称 这 代 表 着 他 失 去 了 和 那 些 在 伊 欧 萨 斯 毁 灭 之 后 被 走 自 己 的 路 的 他 所 抛 弃 的 其 他 Godhammer工 程 师 的 联 系 。如 果 时 间 合 适 的 话 ，我 会 看 看 能 不 能 找 到 更 多 相 关 信 息 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10006</ID>
+			<DefaultText>得 知 沃 迪 卡 要 为 维 德 文 的 遗 赠 负 责 让 我 对 圣 战 的 环 境 和 伊 欧 萨 斯 的 毁 灭 产 生 了 更 多 的 疑 问 。杜 兰 斯 可 能 有 更 深 的 见 解 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>杜 兰 斯 并 不 想 讨 论 沃 迪 卡 的 事 情 和 伊 欧 萨 斯 的 死 亡 。看 起 来 马 格 兰 可 能 和 沃 迪 卡 结 盟 了 ，因 为 圣 锤 炸 弹 就 是 马 格 兰 的 作 品 。但 是 杜 兰 斯 仍 然 不 愿 承 认 。如 果 我 能 用 他 自 己 的 话 作 为 证 据 来 让 他 相 信 ，也 许 我 就 能 打 破 马 格 兰 对 他 的 控 制 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 能 让 杜 兰 斯 明 白 马 格 兰 和 沃 迪 卡 密 谋 制 作 出 圣 锤 炸 弹 ，而 且 她 拒 绝 和 他 说 话 不 是 因 为 他 对 她 的 诽 谤 ，而 是 因 为 她 希 望 他 和 其 他 圣 锤 工 程 师 一 起 死 去 ，这 样 自 己 曾 直 接 参 与 过 伊 欧 萨 斯 的 毁 灭 这 个 秘 密 就 永 远 都 不 会 泄 露 。虽 然 女 神 间 的 结 盟 并 不 稳 定 ，但 是 这 进 一 步 导 致 了 圣 战 和 接 下 来 无 魂 儿 的 大 量 出 现 。杜 兰 斯 ，本 人 亲 自 宣 布 ，放 弃 自 己 的 信 仰 ，并 发 誓 一 定 要 报 仇 。作 为 一 个 已 经 杀 死 过 一 位 神 的 男 人 ，看 起 来 也 只 有 他 的 威 胁 会 起 到 一 些 作 用 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>杜 兰 斯 死 了 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>这 个 事 永 远 也 解 决 不 了 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

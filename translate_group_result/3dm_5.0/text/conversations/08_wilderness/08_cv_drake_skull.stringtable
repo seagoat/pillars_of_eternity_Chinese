@@ -1,0 +1,29 @@
+<StringTableFile>
+  <Name>conversations\08_wilderness\08_cv_drake_skull</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>这龙头骨冲着东方。地下的土壤柔软而潮湿。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[埋藏卫奥卷轴]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[离开。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>当你用最后一捧土盖上卷轴时，另一个声音再次出现在你脑中。
+
+“干得好，守望者。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

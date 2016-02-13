@@ -1,0 +1,72 @@
+<StringTableFile>
+  <Name>quests\critical_path\act_1\cp_qst_the_old_watcher</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>老通魂者</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>前往塞德努亚。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>进入堡垒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>找到马尔瓦德</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>卡尔达拉·德·贝朗兹是莱德里克大人不幸的受害者之一，他的灵魂带领我前往赛德努亚，在那我会见到一个名叫马尔瓦德的人。卡尔达拉说我变成了一个所谓的“通魂者”，和这个马尔瓦德一样。也许他能告诉我发生在我身上的事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>塞德努亚在丰饶之谷东南方，在黑草甸另一侧。如果我想和马尔瓦德谈话就必须去那。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>塞德努亚规模之大令人印象深刻，但也仅仅如此而已……这堡垒已经破烂不堪。但如果老马尔瓦德仍然是这个地方的领主，那么我可能会找到他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>在堡垒内部，我发现了一个埋葬在宏伟大厅王座上的鬼魂。她打开了通往堡垒深处的路，希望我能在下面找到马尔瓦德。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>堡垒似被遗弃了。这里有和丰饶之谷一样的鬼魂，还有生物。看来如果我想找到答案还要进一步探索。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>马尔瓦德在谈话后心生敌意并突然攻击了我。我别无选择，只能杀了他。他让我想了很多。他说我的灵魂可能和他一样向逝去的生命觉醒了。他指引我前往“反抗之城”，那里可能会有暗灰之钥的成员——就是这个组织唤醒了我体内的痛苦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>马尔瓦德在谈话后心生敌意并突然攻击了我。我别无选择，只能杀了他。我将他的灵魂附在赛德努亚堡垒之上使其会成为永久的守护者。他让我想了很多。他说我的灵魂可能和他一样向逝去的生命觉醒了。马尔瓦德可能是说做一名灵魂觉醒的通魂者要付出沉重的代价。他指引我前往“反抗之城”，那里可能会有暗灰之钥的成员——就是这个组织唤醒了我体内的痛苦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>马尔瓦德在谈话后心生敌意并突然攻击了我。我别无选择，只能杀了他。我从他的鬼魂中了解到很多，比如下面的某个地方-最底层的某种密室，连接着一个带有太阳形状桌子的圆形房间。他让我想了很多。他说我的灵魂可能和他一样向逝去的生命觉醒了。马尔瓦德可能是说做一名灵魂觉醒的通魂者要付出沉重的代价。他指引我前往“反抗之城”，那里可能会有暗灰之钥的成员——就是这个组织唤醒了我体内的痛苦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>马尔瓦德在谈话后心生敌意并突然攻击了我。我别无选择，只能杀了他。我释放了他的灵魂，让他脱离自己的苦难。他让我想了很多。他说我的灵魂可能和他一样向逝去的生命觉醒了。马尔瓦德可能是说做一名灵魂觉醒的通魂者要付出沉重的代价。他指引我前往“反抗之城”，那里可能会有暗灰之钥的成员——就是这个组织唤醒了我体内的痛苦。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

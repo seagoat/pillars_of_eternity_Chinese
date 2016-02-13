@@ -1,0 +1,130 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\01_defiance_bay_coppleane\01_qst_two_story</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>22</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>双重情节的工作</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>把计划告诉其他人</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>恢复爱波里肯德梅尼尔的笔记。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>把笔记还给爱波里肯。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>偷取苍运国知心。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>偷取苍运国知心。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>把苍运之心给爱波里肯。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>我听到了一个抢劫布拉肯伯里贵族雷蒙特领主的计划，还找到了一个详细描述该计划的信件。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>我偶然间发现了一处自称为贼的人的藏匿处，而且无意中挫败了他们。他们的笔记里记录了他们闯入雷蒙特领主的领地并偷取苍运之心的过程。
+
+这信件可能会引起雷蒙特领主和那些名字前缀“AD”的人的兴趣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>爱波里肯德梅尼尔鼓了一群小偷进入了雷蒙特领主的领地。不幸的是，他们的信件暴露了他们的罪行。
+
+他告诉我他们在铜径有一个藏身处。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我从小偷的手里得到了爱波里肯的笔记。他希望我把这个带给他。
+
+如果我告诉雷蒙德领主这个偷窃苍运之心的计划，他或许又会奖赏我的诚实了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我归还了那个记录爱波里肯德梅尼尔抢劫计划的信件。现在，他派我去偷苍运之心。爱波里肯坚信宝石就在二楼的某个地方；有一个窗户，我可以从街上通过那里进去。他想要避免所有的杀戮。
+
+苍运之心可能会卖给炼狱骑士或者十二人众。那两派都想用宝石来换取与苍运国矮人的友谊。德梅尼尔家族绝不希望他们任何一方获得如此强大的盟友。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>德梅尼尔罪恶帝国的继承人爱波里肯德梅尼尔对于我杀了他的手下和强盗感到很不高兴。他给我下了最后通牒：把苍运之心偷来，要不然就去面对德梅尼尔家族的愤怒吧。
+
+我同意去偷宝石。爱波里肯坚信宝石在二楼的某个地方；有一个窗户，我可以从街上通过那里进去。
+
+苍运之心可能会卖给炼狱骑士或者十二人众。那两派都想用宝石来换取与苍运国矮人的友谊。德梅尼尔家族绝不希望他们任何一方获得如此强大的盟友。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10006</ID>
+			<DefaultText>我已经在雷蒙特领主那里偷来了苍运之心。为了兑现我与爱波里肯的承诺，我必须到布拉肯伯里把宝石给他。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我已经在雷蒙特领主的领地那里偷来了苍运之心。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我告诉了雷蒙特领主偷取他宝石- 苍运之心的计划，就在他的家里。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>在我把信件交给爱波里肯德梅尼尔之后准备离开时，他不是很高兴。我至少把针对雷蒙特领主的计划完成了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我把苍运之心给了爱波里肯德梅尼尔。作为回报，爱波里肯保证会向他的父亲- 盖德马尔·德梅尼尔替我美言几句。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText>我把宝石给了炼狱骑士，那样他们就可以和矮人结盟了。爱波里肯对此肯定很不开心。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30005</ID>
+			<DefaultText>我把宝石给了十二人众，那样他们就可以和矮人结盟了。爱波里肯对此肯定很不开心。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30006</ID>
+			<DefaultText>我已经杀了爱波里肯德梅尼尔。他不会在需要苍运之心了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30007</ID>
+			<DefaultText>雷蒙特领主和爱波里肯德梅尼尔都死了，就没有人会知道偷盗雷蒙特领主的计划了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

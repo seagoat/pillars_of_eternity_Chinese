@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\companions\poi\poi_bs_palace</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“政治家在与腐败作斗争，战火之神马格兰的神龛也一样。他的牧师属于这里。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bank Node 2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“这里汇聚了很多思想，但都浅陋至极。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

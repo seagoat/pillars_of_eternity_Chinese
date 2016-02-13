@@ -1,0 +1,33 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_bs_lucen_prisoner</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>5</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>「求 你 了 ，大 人 ...我 對 我 做 得 事 感 到 抱 歉 。放 我 走 吧 。我 會 做 個 誠 實 的 人 ！」</DefaultText>
+			<FemaleText>「求 你 了 ，夫 人 ...我 對 我 做 得 事 感 到 抱 歉 。放 我 走 吧 。我 會 做 個 誠 實 的 人 ！」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>「我 沒 傷 害 到 任 何 人 ！求 你 了 ，放 了 我 吧 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>「不 ，別 靠 近 我 ...」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>「你 這 殘 忍 的 混 蛋 ！我 傷 到 你 了 ？」</DefaultText>
+			<FemaleText>「你 這 殘 忍 的 賤 人 ！我 傷 到 你 了 ？」 </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>「下 地 獄 去 吧 ，你 這 瘋 子 ！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

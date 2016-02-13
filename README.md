@@ -1,6 +1,12 @@
 # pillars_of_eternity_Chinese
 Pillars of Eternity Chinese translation pack | 永恒之柱中文汉化包
 
+## 20160213 更新
+> 直接翻译 StringTable 基本搞定了
+> 领悟到了破解省略号，最简单的就是每个汉字之间都加空格
+
+> output 目录中的 en 就是翻译好的结果。
+
 ## 20160211 更新
 > *官方的excel 文本就是一个坑。*
 > 因为程序版本不停更新，文本也在不停变化，有删有减
@@ -27,13 +33,13 @@ Pillars of Eternity Chinese translation pack | 永恒之柱中文汉化包
 
 ## 目前的进度
 * 之前从不同渠道收集的几个汉化包，已经尝试合并完了
-* 挑选较优的内容，追加到官方 excel 中 
+* 挑选较优的内容，追加到官方 excel 中
 * 合并了游侠最新的3.5版本以及 3DM 最新的5.0版本
 * 生成一个能用的版本
 
 ## excel 目录
        存放了添加翻译的excel，做为下次翻译的基础
-       
+
 ## mod 目录
        生成的 string table，直接 copy 到游戏目录
        *需要自己 copy 一个 xml 文件*

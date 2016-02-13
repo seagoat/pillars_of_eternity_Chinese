@@ -1,0 +1,231 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\00_dyrford_ulterior_motives</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>43</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>猫 与 老 鼠 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>在 迪 福 特 村 附 近 找 到 妮 芙 蕾 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>找 到 妮 芙 蕾 ，并 引 诱 她 离 开 迪 福 特 村 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>找 到 妮 芙 蕾 ，并 引 诱 她 离 开 迪 福 特 村 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>回 在 德 拉 科 根 酒 馆 ，找 妮 芙 蕾 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>回 在 德 拉 科 根 酒 馆 ，找 妮 芙 蕾 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>指 引 梅 德 雷 斯 偏 离 妮 芙 蕾 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>回 在 位 于 迪 福 特 西 面 的 梅 德 雷 斯 那 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>回 在 德 拉 科 根 酒 馆 ，找 妮 芙 蕾 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>回 在 位 于 迪 福 特 西 面 的 梅 德 雷 斯 那 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>一 名 叫 妮 芙 蕾 的 女 人 正 在 潜 逃 ，并 躲 进 了 迪 福 特 村 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>妮 芙 蕾 告 诉 我 ，有 人 在 找 她 。她 让 我 搜 查 城 镇 周 围 的 任 何 可 疑 人 物 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>梅 德 雷 斯 让 我 找 妮 芙 蕾 ，一 个 偷 窃 我 们 在 在 德 梅 尼 尔 家 族 的 共 同 朋 友 的 小 偷 。
+
+她 是 一 个 女 羽 精 。如 果 我 找 到 了 她 ，他 要 我 说 服 她 ，离 开 迪 福 特 是 安 全 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>梅 德 雷 斯 告 诉 我 ，他 在 寻 找 妮 芙 蕾 ，一 个 来 自 抵 抗 湾 杀 害 过 数 十 名 儿 童 的 凶 手 。
+
+她 是 一 个 女 羽 精 。如 果 我 找 到 了 她 ，他 要 我 说 服 她 ，离 开 迪 福 特 是 安 全 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我 碰 到 了 妮 芙 蕾 的 追 捕 者 ，梅 德 雷 斯 ，就 在 镇 西 区 的 小 河 处 。他 告 诉 了 我 一 个 关 于 妮 芙 蕾 的 非 同 寻 常 的 故 事 ——她 是 一 个 儿 童 杀 手 。
+
+他 等 着 伏 击 妮 芙 蕾 。如 果 我 相 信 他 的 话 ，我 可 以 引 诱 她 到 他 的 陷 阱 。否 则 ，我 应 该 提 醒 妮 芙 蕾 向 东 走 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>我 碰 到 了 妮 芙 蕾 的 追 捕 者 ，梅 德 雷 斯 ，就 在 镇 西 区 的 小 河 处 。他 告 诉 了 我 一 个 关 于 妮 芙 蕾 的 非 同 寻 常 的 故 事 ——她 是 一 个 儿 童 杀 手 。
+
+他 等 着 去 伏 击 妮 芙 蕾 。如 果 我 想 帮 助 他 ，德 梅 尼 尔 人 无 疑 会 感 激 不 尽 ，我 可 以 引 诱 她 到 他 的 陷 阱 。否 则 ，我 可 以 警 告 妮 芙 蕾 头 向 东 走 。但 是 德 梅 尼 尔 人 听 到 这 件 事 会 很 不 高 兴 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10006</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10007</ID>
+			<DefaultText>我 告 诉 妮 芙 蕾 梅 德 雷 斯 在 哪 里 等 待 ，她 避 开 了 他 。作 为 最 后 一 个 忙 ，她 请 求 我 支 开 他 ，为 她 争 取 更 多 时 间 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10008</ID>
+			<DefaultText>我 诱 骗 妮 芙 蕾 不 要 再 躲 藏 ，并 带 她 去 找 梅 德 雷 斯 。如 果 他 仍 然 在 附 近 的 神 庙 等 待 ，他 可 能 会 给 我 奖 励 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10009</ID>
+			<DefaultText>我 发 现 妮 芙 蕾 的 追 捕 者 ，梅 德 雷 斯 ，并 且 杀 害 了 他 。 妮 芙 蕾 应 该 会 想 知 道 ，她 现 在 可 以 安 全 的 离 开 离 开 迪 福 特 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10010</ID>
+			<DefaultText>我 杀 死 了 妮 芙 蕾 。 梅 德 雷 斯 听 到 这 个 消 息 会 很 高 兴 的 ，我 帮 了 他 一 个 大 忙 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>这 似 乎 有 些 奇 怪 ，梅 德 雷 斯 这 样 的 人 会 被 派 去 追 捕 妮 芙 蕾 。他 看 起 来 不 是 很 正 式 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>当 我 问 到 炼 狱 骑 士 时 ，梅 德 雷 斯 的 反 应 很 有 意 思 。我 不 认 为 他 喜 欢 它 们 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>妮 芙 蕾 不 会 深 究 细 节 ，但 她 声 称 她 在 抵 抗 湾 遇 到 了 一 些 强 大 的 罪 犯 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>我 见 过 妮 芙 蕾 。她 在 德 拉 科 根 酒 馆 的 楼 上 ，她 在 试 图 躲 避 她 的 追 捕 。我 还 没 有 把 她 送 到 梅 德 雷 斯 -或 者 警 告 她 离 开 -没 有 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20005</ID>
+			<DefaultText>我 在 德 拉 科 根 酒 馆 遇 到 了 妮 芙 蕾 。她 承 认 ，她 正 在 逃 跑 ，但 她 听 起 来 并 不 像 梅 德 雷 斯 描 述 的 怪 物 。我 没 有 把 她 送 到 梅 德 雷 斯 那 里 -或 者 警 告 她 离 开 -。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20006</ID>
+			<DefaultText>我 杀 了 梅 德 雷 斯 。 妮 芙 蕾 听 到 这 个 会 很 高 兴 ，我 已 经 帮 她 除 掉 了 她 的 追 捕 者 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20007</ID>
+			<DefaultText>我 杀 了 梅 德 雷 斯 。 妮 芙 蕾 听 到 这 个 会 很 高 兴 ，我 已 经 帮 她 除 掉 了 她 的 追 捕 者 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20009</ID>
+			<DefaultText>我 杀 了 妮 芙 蕾 ，但 我 显 然 不 是 她 的 唯 一 追 捕 者 。如 果 她 的 追 捕 者 来 到 迪 福 特 ，我 也 许 能 从 他 们 手 上 捞 到 些 东 西 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20010</ID>
+			<DefaultText>我 杀 了 梅 德 雷 斯 。 妮 芙 蕾 听 到 这 个 会 很 高 兴 ，我 已 经 帮 她 除 掉 了 她 的 追 捕 者 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20011</ID>
+			<DefaultText>我 杀 了 梅 德 雷 斯 。 妮 芙 蕾 听 到 这 个 会 很 高 兴 ，我 已 经 帮 她 除 掉 了 她 的 追 捕 者 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20012</ID>
+			<DefaultText>亨 黛 娜 告 诉 我 ，一 个 羽 精 女 人 不 久 前 来 过 德 拉 科 根 酒 馆 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20013</ID>
+			<DefaultText>亨 黛 娜 告 诉 我 ，一 个 羽 精 女 人 不 久 前 来 过 德 拉 科 根 酒 馆 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 杀 了 梅 德 雷 斯 ，并 放 走 了 妮 芙 蕾 。她 再 次 对 我 表 示 感 谢 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我 杀 了 妮 芙 蕾 。 梅 德 雷 斯 很 惊 讶 ，但 他 似 乎 并 不 介 意 我 为 他 做 肮 脏 的 工 作 。他 建 议 我 下 一 次 在 抵 抗 湾 时 表 达 我 对 德 梅 尼 尔 家 族 的 敬 意 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我 结 束 了 梅 德 雷 斯 和 妮 芙 蕾 之 间 的 尔 虞 我 诈 ，因 为 我 把 他 们 都 杀 了 。他 们 俩 都 不 是 什 么 好 东 西 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我 告 诉 妮 芙 蕾 梅 德 雷 斯 在 哪 里 ，好 让 她 逃 跑 。 梅 德 雷 斯 对 此 不 是 很 高 兴 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText>我 把 妮 芙 蕾 送 到 梅 德 雷 斯 的 陷 阱 。他 非 常 感 谢 ，并 认 为 德 梅 尼 尔 家 族 也 会 表 示 感 谢 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30005</ID>
+			<DefaultText>我 把 妮 芙 蕾 送 到 梅 德 雷 斯 的 陷 阱 。他 非 常 感 谢 ，并 认 为 德 梅 尼 尔 家 族 也 会 表 示 感 谢 。但 他 不 知 道 我 和 德 梅 尼 尔 人 已 经 闹 翻 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30006</ID>
+			<DefaultText>我 告 诉 妮 芙 蕾 梅 德 雷 斯 在 哪 里 ，好 让 她 逃 跑 ，我 误 导 梅 德 雷 斯 去 错 误 的 方 向 追 捕 她 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30007</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30008</ID>
+			<DefaultText>此 任 务 中 的 某 个 重 要 人 物 已 死 亡 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

@@ -1,0 +1,28 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_cv_craft_shopkeeper</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“好 消 息 ，主 人 ！我 的 东 西 有 对 你 感 兴 趣 的 吗 ？我 提 供 补 给 品 。我 敢 肯 定 你 这 种 勇 敢 的 旅 行 家 肯 定 会 觉 得 不 少 东 西 派 的 上 用 场 。”</DefaultText>
+			<FemaleText>“好 消 息 ，夫 人 ！我 的 东 西 有 对 你 感 兴 趣 的 吗 ？我 提 供 补 给 品 。我 敢 肯 定 你 这 种 勇 敢 的 旅 行 家 肯 定 会 觉 得 不 少 东 西 派 的 上 用 场 。</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“我 看 看 你 有 什 么 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>&quot;再 见 。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“你 需 要 补 给 品 吗 ，主 人 ？做 足 准 备 才 是 王 道 。”</DefaultText>
+			<FemaleText>“你 需 要 补 给 品 吗 ，夫 人 ？做 足 准 备 才 是 王 道 。”</FemaleText>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

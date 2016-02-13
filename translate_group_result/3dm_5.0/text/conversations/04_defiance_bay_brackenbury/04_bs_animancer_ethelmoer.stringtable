@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\04_defiance_bay_brackenbury\04_bs_animancer_ethelmoer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“守卫长，有一个叫班瑟罗，从共和国来的通灵师求见。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“发出一份正式邀请，确保作出一切必要准备。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“当然。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

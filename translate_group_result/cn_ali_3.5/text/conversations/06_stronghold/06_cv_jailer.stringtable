@@ -1,0 +1,270 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_cv_jailer</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>52</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“你好，主人。我是来替你留住牢房的。如果你在旅途中抓住囚犯，我会确保他们按你的要求处置。”</DefaultText>
+			<FemaleText>&quot;Greetings, my Lady. I&apos;m here to maintain the cells for you. Should you take any prisoners in your travels, I&apos;ll make sure they&apos;re tended to as you see fit.&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“这里暂时没人，但…我相信你很快会带人来！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“你对我有什么指示吗？你想怎么处置这些囚犯？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“让他们知道谁才是主人。我要他们定期遭鞭打。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“我想释放一名囚犯。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>[离开]“我暂时没任何需要。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“哦？今天谁是这个幸运儿？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“释放艾奥恩。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>“释放尼里德。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>“我想释放卢肯。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>“释放艾弗雷。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>“我想释放格兰菲尔。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>“我想释放凯斯托里克。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>“我想释放奈尔德。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>“释放艾斯玛。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>“主人，你…捕获的那头生物，凯斯托里克…她一直寻衅滋事。你想怎么处理？”</DefaultText>
+			<FemaleText>&quot;My Lady, that... creature you captured, Kestorik... she&apos;s been causing some trouble. What would you like me to do about it?&quot;</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>“艾奥恩。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>“让他知道惹怒塞德努亚主人的下场。”</DefaultText>
+			<FemaleText>&quot;Show him what happens when you cross the master of Caed Nua.&quot;</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>“卢肯。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>“艾弗雷。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>“格兰菲尔。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>“让她知道惹怒塞德努亚主人的下场。”</DefaultText>
+			<FemaleText>&quot;Show her what happens when you cross the lady of Caed Nua.&quot;</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>“让她知道惹怒塞德努亚主人的下场。”</DefaultText>
+			<FemaleText>&quot;Show her what happens when you cross the master of Caed Nua.&quot;</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>“很好，主人…呃，你想怎么个惩罚法？”</DefaultText>
+			<FemaleText>&quot;Very well my lady... How, ah, severe did you mean for this punishment to be?&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>“你好，主人！来参观地牢吗？”</DefaultText>
+			<FemaleText>&quot;Greetings, my Lady! Come to visit the dungeons?&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>“主人，有急事！”</DefaultText>
+			<FemaleText>&quot;My Lady, there&apos;s an urgent matter!&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>“主人，尼里德最近老惹事。你想我怎么处理？”</DefaultText>
+			<FemaleText>&quot;My Lady, Nyrid&apos;s been causing some trouble recently. What would you like me to do about it?&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>“主人，奈尔德老惹事。你想我怎么处理？”</DefaultText>
+			<FemaleText>&quot;My Lady, Naelde has been causing trouble. What would like me to do about it?&quot;</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>“你自己看着办。不关我的事。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>“囚犯们很不安分，主人。你想我怎么处理？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>“三鞭。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>“够了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>“囚犯已严重受伤。够了吗，主人？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>“打断他们一人一根手指。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>“砍掉几根手指。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>“如你所愿，主人！”</DefaultText>
+			<FemaleText>&quot;As you wish, m&apos;lady!&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>“就照你说的，主人！请原谅，主人。”</DefaultText>
+			<FemaleText>&quot;As you say, my lady! Begging your pardon, my lady.&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>“我改主意了。时刻留意就行。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>“没问题，主人。”</DefaultText>
+			<FemaleText>&quot;Of course, my lady.&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>“遵命。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>“就这么办。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>“好吧，如果你确定…一直不喜欢分尸…”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>“马上，主人。”</DefaultText>
+			<FemaleText>&quot;Right away, m&apos;lady.&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>“马上，主人。”</DefaultText>
+			<FemaleText>&quot;Right away, m&apos;lady.&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>“马上，主人。”</DefaultText>
+			<FemaleText>&quot;Right away, m&apos;lady.&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>“如果…如果你确定，主人。”</DefaultText>
+			<FemaleText>&quot;If... if you&apos;re certain, m&apos;lord.&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>“马上，主人。”</DefaultText>
+			<FemaleText>&quot;Right away, m&apos;lady.&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>“马上，主人。”</DefaultText>
+			<FemaleText>&quot;Right away, m&apos;lady.&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>“马上，主人。”</DefaultText>
+			<FemaleText>&quot;Right away, m&apos;lady.&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>“马上，主人。”</DefaultText>
+			<FemaleText>&quot;Right away, m&apos;lady.&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>“算了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>狱卒露出了邪恶的笑容。“我喜欢有人陪。”
+
+“还有其他事吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

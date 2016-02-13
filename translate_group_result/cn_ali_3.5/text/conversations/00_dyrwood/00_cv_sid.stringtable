@@ -1,0 +1,190 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\00_dyrwood\00_cv_sid</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>32</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>篝火旁边站着一名红发女子，轻轻抚弄着她的琵琶。嘴里不时哼出段段旋律。
+
+“第一次来德拉科根？通常来说，我都会准备着一首曲子，不过调子还没有谱好。我打算写些有关这间旅馆历史的曲子。
+
+“嘿，这故事你感兴趣吗？曲子我还没有写好，不过我可以给你讲讲故事。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“当然，讲来听听。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“还是下次再说吧。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“回来听旅馆创建的故事的吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“这座旅馆建成于哈德雷特叛乱时期。这里曾经是一名鹿丛女子爵的一座要塞- 现在剩下的只有几座高塔了，其余的据说都已埋葬在这村子底下了。不管怎样，她始终站在帝国那一边，所以哈德雷特的一队炼狱骑士帮助这里的村民和殖民者将她的要塞变成了一堆在碎石。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>Bank Node 37</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>“哦，太棒了！这些农家寓言真是太有趣了。我要把它记下来……”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>帕勒吉娜金色的眼眸转动着，从鼻子里呼出长长一口气。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>“正如你所见，迪伍德的整个历史，即使在这个小镇都是这么有趣。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>“这座旅馆就是这片废墟上涌现的第一栋建筑。建造所用的砖块据说是殖民者从那女子爵的城堡那里运来的。据推测，她的首席法师的铁头木棒甚至可能就遗失在这栋建筑中- 可能被砌到了某堵墙里，或者是被钉在了某块地板下面。
+
+“总之，当地人在建造这座镇子的时候，将这座旅馆视为了一处避风港以及聚会场所。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>“迪伍德人是出了名的坏脾气，碰到的街坊邻居越多，争执得就越凶。除了一致驱逐了上任领主之外，基本上没有什么能达成共识的。
+
+“其中最大的分歧就是格兰法斯人和其附近的遗迹。哈德雷特的骑士和其支持者想要维持和平，不过镇上集结了一群有着无政府主义情结的闹事者，他们想去追随那些部落，就像先前追随他们的领主一样。不久之后，村民们和鹿丛人之间就开始相互争斗。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>“最后，碎石之战和黑树之战胜利那天的记忆让公爵的士兵们记忆犹新。
+
+“最终其他大多数的村民来到来到了这里，不过其中一些主要的闹事者离开了这里，加入到了反抗战争的前线，我听说还有些人，加入了格兰法斯最具远见的部落- 指引罗盘。我知道这说出来连我自己都不相信，但是这确实是个好故事。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>“你说的‘据推测’是什么意思？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>“继续。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>“我想有点不太对吧。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>[离开]“转念一想，我们还是等会再聊吧。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>“我想听听碎石之战。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>“跟我讲讲黑树之战。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>&quot;再见。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>“这是原鹿丛定居者和格兰法斯人之间的首次重大冲突。发生在殖民化后的第三年，事件起因是几个农民不小心将因格维斯遗迹的组成部分- 绿萤纪念碑推倒了。
+
+“这场战争并没有持续太久，但是战火蔓延迅速飞快，夺走了数千人的性命。在战争开始的前几周，大多数殖民者在格兰法斯的突袭军攻击他们的村落之前，他们都还没意识到战争已经来临了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>“在此之前，殖民者和原住民之间一直都会发生些小规模的自发性冲突，不过这次明显是有组织的。而且这也是殖民者和格兰法斯人之间长达数十年的暴力冲突的开始。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>“这场战争要追溯至殖民时期，差不多是碎石之战后的三十年。尽管原住民和格兰法斯人之间不时发生零星的冲突，当双方当局都已同意和谈。
+
+“艾德迈斯的父亲，埃德朗·哈德雷特是那个时候的侯爵。作为和平谈判的一部分，他签订了禁止鹿丛殖民者掠夺因格维斯遗迹的条约。不过，他无法宣布将被俘的格兰法斯人作为奴隶使用的非法性。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>“我明白了……”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>“什么是侯爵？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>“侯爵是殖民地的管理者，只效命于鹿丛帝国。鹿丛殖民地在迪伍德的早期领导人，包括埃德朗和艾德迈斯·哈德雷特，都是侯爵。
+
+“在反抗战争开始之初，艾德迈斯·哈德雷特就宣布自己是独立的迪伍德的公爵，而非鹿丛帝国殖民地的侯爵。对于刚刚独立的维拉共和国的领导人来说，这个称谓其实是一样的。总之，自那以后我们就没有侯爵了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>“确实。抓捕格兰法斯奴隶仍旧是冲突的根源。当帝国的间谍得到迪伍德某些伯爵的援助，开始再次洗劫以及之后，矛盾已发展到了关键时刻。
+
+“看吧，帝国就从来没同意过哈德雷特的条约，再加上最近维拉共和国的分裂，更导致了他们迫切想要削弱哈德雷特的地位。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>“肆无忌惮的劫掠在格兰法斯中引发了野蛮的奴隶起义和游击战。埃德朗·哈德雷特因年迈无法再带兵打仗，所以将他的儿子，艾德迈斯派了出去。
+
+“艾德迈斯做出了一个代价高昂，但却行之有效的决定，以令所有人都想象不到的速度结束了这场战争。他烧掉了伊斯瑟恩河附近的森林，阻击了格兰法斯战团的撤退。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>“在数以千计的格兰法斯人丧生后，里艾德迈斯在接下来的几个月中反复使用他的焦土策略，一举将敌方的残余部队都消灭殆尽。直至一百五十多年后的今天，迪伍德的有些区域依旧寸草不生，遍布烧焦的树干。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>“什么是女子爵？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>“子爵或女子爵在军队里分别是男性精英或女性精英的称谓。也可称之为骑士。特别的，这个位置是继承过来的。
+
+“子爵或女子爵拥有一片土地同时掌管几个没有土地的子爵。拥有这儿的上一个女人是从很久以前的拥有土地的子爵继承过来的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>她指着东边的墙。”那边有一张主要闹事者的肖像，他的对手则是维护和平的派系。某人想法的一个玩笑。我并不觉得有多好笑。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>她指着东边的墙。”那边有一张主要闹事者的肖像，他的对手则是维护和平的派系。某人想法的一个玩笑。我并不觉得有多好笑。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

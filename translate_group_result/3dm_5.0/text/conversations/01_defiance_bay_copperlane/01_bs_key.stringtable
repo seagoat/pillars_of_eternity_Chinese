@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\01_defiance_bay_copperlane\01_bs_key</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“在远征之后发福感觉很棒。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“又去凯德·努阿了？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>奥兰女子点了点头，手里拿着一杯红酒，腿上放着一根权杖。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

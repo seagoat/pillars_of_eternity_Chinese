@@ -1,0 +1,991 @@
+<StringTableFile>
+  <Name>conversations\companions\companion_cv_sagani_clues</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>184</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你走近懸崖邊緣，發現這裡同你見到的帕索克影像中的地點相同。他不久前就在這裡。
+
+莎加妮神情警覺，手裡握著阿德拉石像，在懸崖上搜索。
+
+你合起雙眼，在以太中搜索著帕索克殘留的氣息。眼前的黑暗漸漸變幻著形狀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>這次你感覺到帕索克跑著穿過森林，飛躍過了石塊，疾奔過了樹叢。兩邊的景色向後飛快地呼嘯而去，視野是一片模糊的濃綠，辨別不出細節。
+
+你前方的樹林上方有什麼東西赫然聳現。帕索克終於在一座阿德拉石拱門前停了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「這裡看起來像是你所見影像中的懸崖嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>莎加妮慢慢地點著頭。「那我跟著你就是了。」她背起自己的弓。「在這些影像中，你大概是看不到帕索克現在轉生成了什麼吧……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我知道接下來該去哪裡尋找帕索克了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「你知不知道哪裡有阿德拉石形成的天然拱門？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>【檢視拱門。】</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「在艾爾·格蘭方瑟也有這種東西，就在雙生榆城對岸。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>你的問題沒有得到回應。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>你記得曾聽說過這地方。據說那附近有一排阿德拉石柱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>【檢視你周圍的情景。】</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>這裡的土壤鬆軟潮濕，周圍蘆葦叢生。附近一定是有淡水。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「不知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「能夠欣賞美景之人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>【撒謊】「我感覺他轉生之後勇猛而有探險精神，也還是某個種族的領袖。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>莎加妮輕聲低笑。「倒並不是討厭這不透氣的乏味森林，但你還從未見過納斯塔克空中的南極光，那才是真正的美景。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>她聳了聳肩。「至少我們是越追越近了。咱們兩人合作似乎比我單獨調查一年的成果還要詳細。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>她笑了。「我才不該問你這撒謊成性之人。你比我們村裡講故事的講得還好聽。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「這話我村裡族人聽了會很欣慰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>她對著我似笑非笑。「你不用揀我愛聽的說。長者們轉生時能轉成各種各樣的生物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「他生前是怎樣的人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「我還以為你認識帕索克呢。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「你期待他會變成怎樣的人？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「我年齡還小時他就去世了。我所記得的只有隻言片語，轉瞬即逝，想不太起什麼了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「這你要看問誰了。」她把腳下一顆石子踢飛，看著它落下峭壁。
+
+「離開瑪蘇克村之前，我向所有人打聽過了。我聽說他作為領袖很堅強，作為建築者很可靠，作為祖父很慈愛，作為長者很明智，作為鄰居很慷慨，作為談判者很狡黠……」她聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「等找到他後，他若是個能招待我們熱飯軟床的人就好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「他或許在不同的時期也曾扮演著不同的角色。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「人們只想記住帕索克與他們最有關聯的一面。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「奇怪的是，村裡的許多人在帕索剋死去時並沒比我年齡大多少。但每個人都想讓我務必轉達給他不同的事情。同奧馬阿族的交易，我們大勝而歸的狩獵旅行，以及我們同鄰村的友好關係。」
+
+她又將一顆石子踢下懸崖。伊圖瑪克看著它在空中劃出的弧線，兩隻耳朵向前豎起。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「帕索克在瑪蘇克村成就盎然，也深深地影響了村子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「他對你的族人顯然非常重要。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「別嫌我說話難聽，但瑪蘇克村不應該派個瞭解他的人來找他嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「我也想過這個問題。他的女兒和侄兒們都年數已高，而像他這樣事務繁忙的人，和孫輩也不太親近。
+
+「而且，與長者相認也不是這種旅行的目標。不管他現在轉生成了什麼，估計都不會記得在納斯塔克的家人了。我們找他是為了紀念他留在村內的傳統。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「我明白了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「我覺得他與他家族的傳承更加重要。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「他改造了你的村落，值得紀念。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>她皺了皺眉，但雙眼周圍的黑色戰漆掩蓋了她的神情。「或許你說得也有道理。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「奇怪的是，幾乎所有人都只記得帕索克為村裡做的事情。
+
+「大部分瞭解他的家人都已年逾古稀。帕索克事務繁忙，也沒時間與年輕晚輩們度過。」
+
+伊圖瑪克不耐煩地打了個哈欠，用頭輕拱著莎加妮的手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「或許這旅行並不是為了帕索克，而是為了使你的村人們能淡然接受他死亡的事實。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「我們走。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>阿德拉石拱在你面前肅然而立，如同你通過帕索克之眼看到的一樣。莎加妮轉過身去，觀察樹叢內的動靜。
+
+當阿德拉石拱的陰影落在你身上時，你眼前樹木繁茂的海岸線又幻化成了別的光景。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「阿德拉石拱，就在正前方。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>你站在另一片森林內。光禿燒焦的樹幹從土中參差不平地探出頭來，似乎在冷峻地守護著四處年輕嬌嫩的樹叢灌木。
+
+你緩慢地穿越森林，其中四散著古代遺跡。一些石柱和破碎的拱門昭示著這裡曾有些被摧毀了的建築物。
+
+而在這奇景之中，有精靈與羽精的兩支軍隊，臉上塗著戰漆，箭已上弦，一觸即發。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「我看到下個地點了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「燒焦的樹群，坍塌的遺跡……這會是哪裡呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>【檢查樹群。】</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>【研究地形。】</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「你不知道這是哪裡，我很欣慰……也就是說你並沒有到處探尋遺跡，去你不該去的地方！」希拉維亞聚精會神地看著你，搖著一根手指，假裝是在教訓你。
+
+「聽你的描述，似乎是雙生榆城北部山坡中的荒蕪地域，是黑森林之戰的古戰場。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>似乎沒人對這個地點有印象。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>這矮小燒焦的樹幹看起來像是黑森林之戰的餘殃。迪伍德與艾爾·格蘭方瑟各處都有戰役發生，而其中傷亡最慘重的前線都處於主要格蘭方瑟居住點的邊境甚至邊境之內。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>多岩石的地形，涼爽的空氣，以及常青樹種的生長都昭示了你現在正處於較高海拔的地區。看起來似乎是個山坡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「我跟著你就是了。」她數了數箭袋中的箭數，調整了下肩負的物件。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「這旅程結束之後，你打算做些什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「問得好。」她用手拂過拱門輪廓清晰的光滑表面。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「這過去的五年，我漸漸懷疑著這旅途的意義。但最近我又意識到，帕索克對村子改變造成的影響有多麼大。他的努力與他的犧牲使我們變得更加強大。
+
+「將他的祝福帶回瑪蘇克村會進一步強化我們的精神，使村民之間更加親近。而這件差事由我來完成，令我十分驕傲。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「離家這麼久，記得的事情也很是怪異。我清晰地記得以前打獵路徑的形狀，而對於卡魯及孩子們的臉龐卻記得不是這麼清楚。
+
+「我本以為這才是保衛家族的真諦——每晚守在馴鹿遷徙的路途上，而不是在家中的火爐邊。但我想到帕索克是如何渡過人生的，卻又不像以前一樣肯定了。或許眾神給予我這小型利齒就是為此——幫我理解真相。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「五年逝去，我也不再明白這旅途的意義了。帕索克已經放下了過去。而我在外面奔波時，村裡的大家也正常地生活著。
+
+「不管我找到帕索克後回村，還是死在異鄉，生活還是會照常繼續。說實話，我也不清楚自己該怎麼做了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>她用掌根捶打著阿德拉石牆。「我也是想得太多了。首先我們得找到帕索克，也得找到你的獵物才行，[Player Name]。
+
+「我得好好花時間想想，見到他該說些什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「你覺得你會想對帕索克說什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>你們來到一處林間空地，發現幾個格蘭方瑟人圍成一圈。莎加妮來回看著阿德拉石像與那一圈獵人，想找出他們之間的聯繫。
+
+同時，獵人們轉過身來看見了你們。他們頓時拔箭上弦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「看！雕像在閃閃發亮！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>她迅速地低下頭看著拱門底部的草叢。「這種事情都不知道，想必人生很孤寂吧。我這五年來大概習以為常了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「我以前從未這麼想過。」她快速地聳了聳肩，調整了下背包的位置。
+
+「誰知道呢。或許等我們找到陶斯，你就如願以償了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「我們繼續前行吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>伊圖瑪克舔了舔她的手。「如果這一切都沒有意義，那我找到他又有何用？你找到陶斯又有何用？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「你在這兒幹嘛？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「你們有人聽說過『帕索克』這個名字嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「別緊張。我們是來找人的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「你是在拿我們開玩笑嗎？這場狩獵之後，就連護石者部落都會對我們刮目相看。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「你們這些外鄉人，在做什麼蠢事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「外鄉人找毒牙部落到底有什麼事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>他們向兩邊散開，轉過頭看著你們。他們散開時，你看見他們背後的土地上有只生物。
+
+羊齒草叢之上躺著一隻白色的雄鹿。優雅耀眼的皮毛上沾染著暗色的血液，它的身軀隨著微弱頻繁的呼吸顫抖著。
+
+在這野獸之中你感覺到一股氣息，古老而又熟悉。在你能說些什麼之前……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「以野牛之影發誓……」莎加妮停在你身邊，雙眼圓睜，盯著即將死去的雄鹿。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Bank Node 81</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>艾德意識到他所見的是什麼情況，用手摀住了嘴。
+
+「莎加妮，請節哀順變。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>帕勒吉娜猛吸一口氣。「啊！這一定就是……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「她的心中滿是悲慟之情……長途跋涉至此，卻又是如此下場……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「這石像……每次引領我們，都是晚了一步。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>杜蘭斯張開嘴，似乎想要大聲抱怨我們浪費了時間，又或想點明這野獸已經瀕死。但莎加妮臉上的神色好像在把空氣硬生生地吸出他的肺腔，於是他也沉默了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>希拉維亞嗅了嗅空中的氣息，頓時一臉震驚的表情。「那只白色馴鹿體內竟存有人之靈魂！多麼可憐……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>亞洛斯的臉色變得蒼白。「以命運之輪起誓，這難道是……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>對方的獵人之一向前邁了一步，莎加妮舉起她的弓，箭已上弦。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>獵人們逐漸退開，而她也放低弓箭。「我從未想到……」她盯著這雄偉野獸痛苦地呼吸著，沉默了好幾秒鐘。
+
+「我做了面對陌生人的準備。我本想同一個從未聽說過我們習俗的外鄉人分享我們的榮耀與歷史。即使他對我的族人們不屑一顧，我也能夠接受。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「你想要同他講話，就得抓緊了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「快點完成你的使命，不然就太晚了！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[什麼也不說。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「你就這麼眼睜睜地看著他死去？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「我本來想告訴他瑪蘇克村數十年間的繁榮興盛。想告訴他他的孫女們都是獵鹿能手，孫子們都建築著堅實的城牆。
+
+「但再過幾分鐘，他就要離我而去了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「你說什麼並不重要。他這就要去世了，你是在為瑪蘇克村進行這使命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「提醒他對於瑪蘇克村的巨大影響。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「告訴他關於他家族的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「相信你的感知吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>她的神情漸漸沉著下來。她跪在倒下的雄鹿身邊，一隻手放在它的頭上，開始訴說著什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>雄鹿顫抖著呼出了最後一口氣，一動不動了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>莎加妮起身時，一名獵人對她說：「你要是念完了，我們就得把鹿剖了，不然肉得壞掉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>她抬起頭看著那獵人，一瞬間似乎能看到她眼中的恐懼與憤怒。
+
+但她又看了看那死去的雄鹿，聳了聳肩，就轉身走了。而早已黯淡無光的阿德拉石像就被留在了塵埃之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[離開。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>她跪在倒下的雄鹿身邊，一隻手放在它的頭上，開始訴說著什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>她抬起頭看著那獵人，雙眼因為恐懼與憤怒閃閃發亮。「你就一點敬意都沒有麼？這雄鹿的體內曾棲息著偉大的靈魂。」
+
+她手裡緊握著已經黯淡無光的阿德拉石像。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「這靈魂已經不在了。留下的只有我們的獵物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>她拔出獵刀。「就憑你們還能說這些？你們的族人還在祭拜石頭和阿德拉的死骸。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「莎加妮，為了這事不至於殺人的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「咱們雙方都冷靜一下。沒必要為了這事爭吵。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>【威脅】「你們若是還知好歹就趕緊離開。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「她竟然污蔑英格維斯創建者！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「我為毒牙部落做的一切，你們這麼快就忘記了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「你們這些愚蠢之人，雙生榆城上下人人皆知！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>格蘭方瑟獵人們舉起了武器。「你們外鄉人，除了滿腔廢話什麼都沒有。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>獵人不情願地對你點了點頭。「那好吧。我們這就離開。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「你完成了你要做的儀式，讓他們也做他們的儀式吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>她依次看著每個獵人的面龐許久，終於將獵刀收入刀鞘。「我明白你的意思，[Player Name]。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「你們的長者們教給你們的禮節加起來還沒有一顆老鼠屎大！」希拉維亞對著獵人們叫道。「別處還有更多的獵物供你們收拾食用，但這是莎加妮唯一的機會，讓她表示尊重。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「我們才不是在祭拜石頭，你這蠢貨，」希拉維亞咆哮著，眉毛扭曲，滿是惡意，「我們是為了對於先人及對他們所建築的一切表示敬意而祭拜。」
+
+希拉維亞用一根手指指向莎加妮，在空中戳著，以示強調。「『阿德拉死骸』對我們來說就像帕索克對你來說一樣重要！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「從而侮辱我的族人，我的家族？我不同意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「這事關我的族人。我們的生活之道。如果這還不值得殺人見血，我不知道世上還有什麼值得殺人了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>她跪在倒下的雄鹿身邊，一隻手放在它的頭上，開始訴說著什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>她對帕索克講述著他的子女創造的眾多家庭，講述著他的兒子和女兒們如何憑借自身的力量成為了村裡備受尊敬的長者們。她為他描繪著他孫女們引領過的狩獵，孫子們建造過的屋舍，和他的孫輩一共給他帶來的十二個祖孫兒女。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>她對帕索克講述著村中繁榮的年代，講述著寒季雖長，村裡卻靠著谷糧交易衣食無憂。她複述著自己聽說過的關於他的故事，也告訴著他那些受他事跡啟發激勵的新的長者們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>她的聲音穩重而又謹慎，她的言語低沉而又陌生。起初，你以為她在用本族語言念著一首詩歌。但不久之後，你意識到她是在羅列著瑪蘇克村裡每一個人的名字。
+
+最終你聽到她說出她自己的名字。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>她深吸一口氣。「他應該聆聽關於他家族的事情。」
+
+她跪在倒下的雄鹿身邊，一隻手放在它的頭上，開始訴說著什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>她深吸了一口氣。「他需要知道瑪蘇克會記得他。」
+
+她跪在倒下的雄鹿身旁，手放在它的頭上，開始講話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>她深吸了一口氣。「這都是毫無意義的，不是麼？」
+
+她跪在倒下的雄鹿身旁，手放在它的頭上，開始講話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>莎加妮慢慢地點著頭。「那我跟著你就是了。」她背起自己的弓。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>莎加妮低聲輕笑。「我也不是討厭這沉悶的森林，但這與苔原之上的南極光可是無法相比。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「你的確說過結束之後希望能有頓熱飯吃……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>她把腳下一顆石子踢飛，看著它落下峭壁。「離開瑪蘇克村之前，我向所有人打聽過了。我聽說他作為領袖很堅強，作為建築者很可靠，作為祖父很慈愛，作為長者很明智，作為鄰居很慷慨，作為談判者很狡黠……」她聳了聳肩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>「簡直像個鹿叢史詩中無所不能的完美英雄。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「可沒時間閒聊了。不然我們找到帕索克之前他已經又轉生到別處了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「等等，我想問些別的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>觸發對話節點137</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「狩獵結束之前我總會有種似乎鼻尖輕癢的奇怪感覺。」她猶豫著。「感覺我們就快到了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「你在狩獵結束之前會不會有種奇怪的感覺？我總會感覺鼻尖輕癢。」她猶豫著。「感覺我們就快到了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「那我們就快走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「我相信你知道該怎麼做。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「那當然。我得想想見了他說些什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>「大概也得看他現在是誰。我自認為追尋了他五年，他也不能不仔細聽聽我想對他說些什麼。」
+
+「但對於像帕索克這樣的人，到底什麼最重要呢？是他扔下不管的村子？還是他已不記得的家庭？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>她咧嘴笑了。「你聽起來簡直像在我結婚那晚的我母親一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「我們來說說別的事情吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>「我已經感覺好多了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「咱們趕緊忙去吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「這事說完，我們該換換風景了。或者去喝一杯？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「我不知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「毫無意義。我們也都是情勢所迫。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>「為了能盡快找到追尋的目標，讓我們乾杯！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>卡納皺著眉轉向莎加妮。「真是不幸。我本希望你的遠征能會有更好的結局。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>銀行節點159</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>帕勒吉娜朝你彎過頭來，滿臉歪曲地冷笑著。「混賬傢伙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>艾德對你皺著眉。「就連我也不會做這種事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>希拉維似乎要笑出聲來，但用手蓋住了自己的嘴和剩下的一隻好眼。他掩著笑看著你，搖了搖頭。
+
+「我還以為就我不識時務呢……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>亞洛斯撇了撇嘴。「這可真是沒必要。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「通魂者，請不要繼續折磨她的靈魂了。她正面對著如此殘酷的事實……難道還不夠嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>她的眼睛在臉上暗色的油彩映襯下閃閃發亮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>【不做聲地觀察。】</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「莎加妮，別和這些人浪費時間了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「你們該向莎加妮道歉。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「再說這種話，我們就把你揍倒在這傢伙身邊。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「我不想聽這些貪得無厭的禿鷲說任何事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「怎麼這麼不尊重人呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「我去去就回。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「你不是在找這個叫陶斯的人嗎？他好像對你挺重要的，記得關於他的什麼事嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「並不記得什麼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「他似乎是個什麼權威人物。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「我曾經十分信賴他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「沒什麼線索啊。我們到處遊走時說不定你能找到些新的線索。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「他的鬍子挺引人注目的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「你似乎很驚訝。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「你很失望麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>「的確如此。」她的手指磨蹭著一隻骨制箭頭。「已經過了這麼久……我心裡早已接受我永遠都不會找到他，一輩子都會徘徊遊蕩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>她斜著眼看著你。「我得承認，起初我並未相信過你。直到現在才相信了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「為什麼改主意了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>「自從在納斯塔克長期追獵的日子以來，我從未和人一起待這麼久。但我漸漸對你有些瞭解，觀察了你是怎麼對待不同種族的。不管我們找到陶斯時你變成什麼樣，都會是個正直的人。我知道你不會帶我入歧途的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「自從在納斯塔克長期追獵的日子以來，我從未和人一起待這麼久。但我漸漸對你有些瞭解，觀察了你是怎麼對待不同種族的。不管我們找到陶斯時你變成什麼樣，都會是個善良的人。我知道你不會帶我入歧途的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>「自從在納斯塔克長期追獵的日子以來，我從未和人一起待這麼久。但我漸漸對你有些瞭解，觀察了你是怎樣面對困難的。不管我們找到陶斯時你變成什麼樣，都會是個熱忱而努力的人。你至今也還未放棄尋找陶斯和帕索克。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「自從在納斯塔克長期追獵的日子以來，我從未和人一起待這麼久。但我漸漸對你有些瞭解，觀察了你是怎樣面對困難的。不管我們找到陶斯時你變成什麼樣，都會是個明智而有邏輯的人。若是有人能找到帕索克，那人就是你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「並非如此。」她的手指磨蹭著一隻骨制箭頭。「已經過了這麼久……我心裡早已接受我永遠都不會找到他，一輩子都會徘徊遊蕩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>「我的意思是，謝謝你了。很久沒有人為我這麼努力。感覺我似乎又成為了某個村子的一員。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>「自從在納斯塔克長期追獵的日子以來，我從未和人一起待這麼久。但我漸漸對你有些瞭解，觀察了你是怎樣搜尋陶斯的。不管帕索克在哪裡，我知道你找到他之前是不會放棄的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「如果我像帕索克一樣有成就，我就會想聽聽。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「如果我殘碎的記憶能告知更多關於我親近的人的事情就好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>「他已經成為另外一個人了。我不清楚這對他來說是否還重要。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「我們是為了他人在做這件事。為了瑪蘇克和迪伍德。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>……有東西落地的聲音。你低頭一看，發現了光芒閃爍的阿德拉石熊像。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「再靠近就讓你躺在他身邊流血身亡。」她低沉的聲音有些顫抖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>「我來這裡該做的事情都做了。咱們走吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

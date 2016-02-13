@@ -1,0 +1,96 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\12_twin_elms_oldsong\12_tsk_songs_of_the_wild</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>16</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>野性之歌</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>找到並捕獲三個罕見的鳴禽</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>返回古老樂曲區的德勒姆那裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>古老樂曲區的一位吟唱者德勒姆正在尋找罕見的鳴禽。他聲稱，通過用這些有異國情調的鳥，他可以吸收其音樂的天性。他希望這將使他能夠譜寫一首巧奪天工的歌以停止在古老樂曲區的寒風。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>作為古老樂曲區的羽精人，德勒姆十分想念過去被Noonfrost的寒意所驅趕的人群，他們曾經在廣場中又跳又唱，十分熱鬧。
+德勒姆認為，如果他可以使用三隻罕見的鳴禽的肉，它們會加強他的精神，他將能夠把人群吸引回來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我為德勒姆收集了三個特殊的鳴禽。我應該在雙榆城的古老樂曲區把東西交給他。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>德勒姆給了我一些關於他搜尋的鳥的有用的信息。
+
+Tiam是在格蘭法斯十分流行的動物，通常被關在籠子裡，但儘管如此，這些動物也依舊很少見。
+
+Shardwing 是一種傾向於生活在草叢中的小鳥，通常情況下是在大型綠螢附近的綠松石周邊，它的羽毛會在石頭上蹭來蹭去。
+
+最後，德勒姆想要一隻Cloudsinger，這種鳥極為罕見，它們的巢穴只出現在伊爾格蘭法斯最高的山峰上。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>我在雙榆城外的野境中找到了一隻Shardwing。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>我在爐火樂曲區的寓所內發現了一隻Tiam。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>在山頂，我在海莉亞神殿邊上抓住了美麗的Cloudsinger。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我找到了德勒姆需要的三種鳴禽。我的努力使他非常高興。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>在與海莉亞的祭司一番談話後, 我終於說服了德勒姆，讓他明白了「吃什麼長什麼」的這種說法是錯誤的。他看上去有點失望。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>在與一隻罕見鳴禽的主人勒恩斯談過之後，我明白了德勒姆的計劃是基於荒野羽精的迷信的。我說服了他，讓他知道這計劃是錯誤的，他很不情願地放棄了這一想法。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>任務失敗</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30005</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
+

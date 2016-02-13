@@ -1,0 +1,104 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\12_twin_elms_oldsong\12_qst_the_cold_of_noonfrost</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>18</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>冰之狱</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>进入正午之霜的古老乐曲区。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>找到阿尔瓦。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>从正午之霜释放阿尔瓦。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>返回无底洞找拉尔哈。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>返回无底洞找拉尔哈。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>在古老乐曲区的湖自从一群脸色苍白的精灵的到来后便开始结冰。尖牙的一位成员拉尔哈发派她的妹妹阿尔瓦前往调查。
+
+阿尔瓦去正午之霜神殿寻找答案。而直到现在她还没回来。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>尖牙的一个探子阿尔瓦在正午之霜的湖上的神殿中失踪了。拉尔哈曾派阿尔瓦去调查殿里的寒气。
+
+拉尔哈认为最近来到神庙的苍白的精灵可能是这个问题的原因。不管怎么说，我可能无法在正午之霜找到阿尔瓦-或她失踪的证据。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我找到了正午之霜。格拉姆法伦有明显的存在的痕迹。
+
+如果他们对阿尔瓦的失踪负有责任，我怀疑他们是不会承认的。不过，我可能能够亲自跟踪她。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>阿尔瓦被锁在正午之霜后部边上的一个房间里。她告诉我，格拉姆法伦在她试图溜走的时候抓住了他。她想让我帮助她逃跑。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>阿尔瓦逃出了正午之霜。拉尔哈会高兴见到她的，但她也想要听到我对殿里发生的事的报告。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>阿尔瓦死前依然没能从正午之霜逃脱。我必须把这个消息告诉拉尔哈。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>我告诉她还不到安全离开的时候。如果白精灵在她逃走时抓住他的话可不是什么好事，所以要么得找出一条小道，要么得找到某种方式来与他们的领导人进行谈判。然而，他们好像并不想让我见到他。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>格拉斯瓦尔给了我释放阿尔瓦的权限。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我开辟了一条捷径，使阿尔瓦能从正午之霜逃脱。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>阿尔瓦死前依然没能从正午之霜逃脱。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我和苍白的精灵的首领格拉斯瓦尔做了个交易，以确保阿尔瓦被释放。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>此任务中的某个重要人物已死亡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

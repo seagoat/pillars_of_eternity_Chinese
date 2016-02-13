@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>quests\13_twin_elms_elms_reach\13_qst_sacrificial_bloodlines</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>31</EntryCount>
@@ -53,7 +52,7 @@ However, he told me he's found a way to endow his next child with a stronger sou
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Anamfath Simoc is fostering a daughter of the Fisher Crane's anamfath. He's asked me to bring her to Keeper Wrdha of the Ethik Nôl for a ritual that will allow him to consume her essence.
+      <DefaultText>Anamfath Simoc is fostering a daughter of the Fisher Crane's anamfath. He's asked me to bring her to Keeper Wrdha of the Ethik N&#244;l for a ritual that will allow him to consume her essence.
 
 The child is in a house by the river. Simoc has arranged for her to be left unattended.</DefaultText>
       <FemaleText />

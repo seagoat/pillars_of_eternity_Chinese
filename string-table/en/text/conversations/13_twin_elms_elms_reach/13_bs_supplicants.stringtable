@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\13_twin_elms_elms_reach\13_bs_supplicants</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>4</EntryCount>
@@ -11,12 +10,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"All of the anamfatha have called upon the Ethik Nôl for war paint at some point."</DefaultText>
+      <DefaultText>"All of the anamfatha have called upon the Ethik N&#244;l for war paint at some point."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"They say the Ethik Nôl first learned to make war paint in the White March and were banished for it."</DefaultText>
+      <DefaultText>"They say the Ethik N&#244;l first learned to make war paint in the White March and were banished for it."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

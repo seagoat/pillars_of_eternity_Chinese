@@ -1,0 +1,48 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\07_gilded_vale\07_bs_gv_inn_drunkard</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>8</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“大 人 在 孩 子 出 生 后 ，就 将 我 姐 妹 赶 出 了 镇 。她 是 我 仅 剩 的 唯 一 亲 人 。不 知 道 她 现 在 在 哪 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“该 死 ，我 得 再 喝 一 杯 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“早 几 年 前 ，就 该 离 开 这 镇 子 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“你 是 谁 ？又 一 个 接 受 莱 德 里 克 邀 请 的 傻 瓜 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“你 -！你 做 了 当 时 他 们 在 吊 死 我 们 成 员 之 后 ，我 们 所 该 做 的 事 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“祝 福 你 ，先 生 ！祝 福 你 ！愿 神 明 保 佑 ，希 望 那 是 所 有 自 负 大 人 都 会 有 那 命 运 ！”</DefaultText>
+			<FemaleText>“祝 福 你 ，先 生 ！祝 福 你 ！愿 神 明 保 佑 ，希 望 那 是 所 有 自 负 大 人 都 会 有 那 命 运 ！”</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“这 里 的 人 当 歌 颂 你 的 名 字 ！[Player Name]！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“我 就 说 这 么 多 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

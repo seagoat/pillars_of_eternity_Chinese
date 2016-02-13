@@ -1,0 +1,57 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\12_oldsong\12_cv_oldsong_cipher_01</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>9</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“我在指点你，外来者。你需要什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>[展示铁太阳。]“你是一位灵能师吗？我需要知道是否有人曾碰过这个。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“没什么。再见。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>羽精瞪大眼睛研究着那上面太阳的形状。他不时嘟囔出赞美的话，表示对那些隐秘细节的欣赏。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“我发现演示远比语言更有效。也许我们今天就能有进展。”
+
+他扫了眼他的学生。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“注意。”
+
+他一只手拿着遗物，眼皮不由自主地在他细长的瞳孔上跳动着。有一瞬间你感觉似乎有光滑的小昆虫爬进了你的耳道，当这种感觉过去后，你发觉猎人出现在了你的意识中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“来吧。我将为你指路。”声音在你的脑海里回响。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>Trigger Conv Node 176</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>“给我年轻学生的欢迎课。谢谢你把我找了出来。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

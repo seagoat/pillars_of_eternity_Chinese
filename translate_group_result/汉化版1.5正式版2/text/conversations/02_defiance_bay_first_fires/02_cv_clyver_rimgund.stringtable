@@ -1,0 +1,587 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\02_defiance_bay_first_fires\02_cv_clyver_rimgund</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>101</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>指 挥 官 克 莱 韦 尔 站 在 大 桌 前 ，研 究 着 地 图 。他 皱 着 眉 ，一 脸 愁 容 。“迪 伍 德 各 个 角 落 的 难 民 。十 二 人 众 煽 动 他 们 ，让 他 们 对 灵 魂 研 究 感 到 愤 怒 。按 这 速 率 下 去 ，我 们 需 要 双 倍 的 人 手 来 巡 逻 反 抗 湾 。”
+
+
+
+他 正 打 算 跟 手 下 说 话 ，随 即 顺 着 那 士 兵 的 眼 神 看 到 了 你 。“嗯 ？有 什 么 能 帮 你 的 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“还 有 什 么 能 帮 你 的 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“你 找 到 那 维 拉 人 了 吗 ？邓 斯 坦 需 要 她 的 研 究 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“你 还 呆 在 这 里 做 什 么 ？邓 斯 坦 在 等 着 那 研 究 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“邓 斯 坦 很 快 就 会 完 成 第 一 批 锻 炉 骑 士 。现 在 High Justice希 望 福 里 布 雷 克 城 堡 的 锻 造 大 师 能 锻 造 更 多 的 锻 炉 骑 士 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“指 挥 官 雅 兰 洛 德 不 久 就 会 到 达 安 斯 罗 格 海 岸 。她 越 早 将 研 究 带 回 福 里 布 雷 克 城 堡 ，就 越 好 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>指 挥 官 克 莱 韦 尔 抹 了 下 额 头 前 的 血 迹 。“前 一 刻 ，审 判 者 还 在 训 练 锻 炉 骑 士 ，下 一 刻 ，他 们 就 被 那 些 锻 炉 骑 士 切 成 了 碎 片 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“为 什 么 会 人 手 不 足 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>“你 掌 管 炼 狱 骑 士 团 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>“再 见 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>DEBUG：Set Conditions for Quest Resolution = True</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>有 那 么 一 片 刻 ，你 觉 得 他 什 么 都 不 会 说 。不 过 随 后 他 叹 了 口 气 ，放 弃 了 那 决 心 。 
+
+
+
+“福 里 布 雷 克 城 堡 。High Justice召 集 了 我 旗 下 一 半 的 修 士 以 及 更 多 审 判 者 ，要 求 他 们 前 往 新 希 奥 马 新 一 侧 的 堡 垒 。”他 眼 神 中 充 满 着 沮 丧 。“我 无 权 质 问 High Justice的 命 令 ，但 这 使 得 我 们 人 手 不 足 。相 信 我 ，我 们 正 处 于 混 乱 边 缘 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>“我 得 到 了 维 安 纳 的 笔 记 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>“跟 我 说 说 炼 狱 骑 士 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>他 交 叉 着 双 手 ，放 在 身 后 。“我 们 是 反 抗 湾 ，以 及 迪 伍 德 内 的 唯 一 专 业 部 队 。在 哈 德 雷 特 统 治 时 ，我 们 保 卫 了 这 城 市 。从 那 起 ，我 们 不 断 加 强 训 练 ，顿 瑞 德 街 道 办 可 以 证 明 我 们 中 的 诸 多 官 员 都 有 着 良 好 的 战 斗 历 史 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>“有 什 么 能 帮 你 的 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>他 点 点 头 。“干 得 好 。立 即 将 其 带 给 邓 斯 坦 。完 成 之 后 ，我 可 能 有 更 多 任 务 要 交 给 你 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>“我 弄 了 份 维 安 纳 研 究 的 拷 贝 ，High Justice已 派 送 信 至 安 斯 罗 格 海 岸 来 取 回 该 研 究 。十 二 人 众 活 动 太 频 繁 了 ，信 使 不 能 到 反 抗 湾 来 。在 维 安 纳 被 绑 后 ，我 们 估 计 他 们 知 道 我 们 的 计 划 。
+
+
+
+他 指 尖 指 着 你 ，手 上 的 手 套 精 致 、光 亮 。“所 以 我 派 你 去 寄 送 这 份 研 究 。十 二 人 众 目 前 应 该 认 不 出 你 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>“安 斯 罗 格 海 岸 是 反 抗 湾 北 侧 的 一 处 小 礁 湖 。同 你 联 系 的 是 雅 兰 洛 德 指 挥 官 -她 会 在 码 头 处 与 你 会 面 。
+
+
+
+“完 成 后 就 回 来 找 我 。“High Justice将 扩 建 锻 炉 骑 士 视 为 他 的 优 先 事 务 ，那 意 味 着 我 也 该 优 先 处 理 这 事 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>“没 问 题 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>“我 得 好 好 想 想 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>他 挠 了 挠 他 那 灰 白 胡 子 。“我 会 立 即 通 知 福 里 布 雷 克 城 堡 。我 们 显 然 不 了 解 锻 炉 骑 士 。现 在 ，我 们 会 继 续 按 原 来 的 方 法 来 招 募 士 兵 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>“我 希 望 能 会 见 埃 瓦 尔 公 爵 。我 希 望 参 加 听 证 会 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>他 皱 了 下 眉 毛 。“如 果 你 希 望 别 人 帮 你 的 话 ，你 最 好 准 备 好 偿 还 。最 近 我 私 事 很 多 ...”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>“有 你 加 入 我 们 ，我 们 十 分 高 兴 。埃 瓦 尔 无 疑 会 发 现 有 你 到 场 ，会 很 令 人 信 服 。我 们 需 要 任 何 可 能 的 支 持 ，来 确 保 他 对 灵 魂 研 究 有 个 公 平 交 代 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>克 莱 韦 尔 再 次 看 了 看 地 图 。“你 取 回 了 锻 炉 骑 士 的 研 究 ，对 此 我 表 示 感 激 。不 过 我 仍 然 需 要 将 这 计 划 寄 送 给 High Justice的 信 使 。我 担 心 在 这 事 处 理 完 毕 之 前 ，我 无 暇 顾 及 任 何 事 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>“锻 造 大 师 邓 斯 坦 正 同 灵 魂 研 究 学 者 合 作 ，打 算 建 造 我 们 称 之 为 -锻 炉 骑 士 的 东 西 。锻 炉 骑 士 能 在 街 道 上 巡 逻 ，根 本 不 用 担 心 他 们 会 疲 劳 ，违 抗 命 令 或 者 有 所 恐 惧 。有 些 煽 动 人 士 可 能 会 朝 他 们 丢 石 头 ，但 我 们 不 用 担 心 事 情 会 失 控 。
+
+
+
+“他 已 经 建 造 好 了 盔 甲 ，但 我 们 需 要 那 学 者 的 研 究 。不 幸 的 是 ，我 手 下 修 士 上 几 次 去 查 看 的 时 候 ，她 都 不 在 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>“在 反 抗 湾 。High Justice是 我 们 的 骑 士 团 首 领 ,但 他 现 在 在 福 里 布 雷 克 城 堡 。
+
+
+
+“我 的 职 责 是 监 察 我 们 在 反 抗 湾 的 队 伍 ，并 替 公 爵 维 护 骑 士 团 秩 序 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>关 于 灵 魂 研 究 听 证 会 的 邀 请 ...</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>“你 找 到 邓 斯 坦 所 需 的 维 安 纳 研 究 吗 ？当 你 证 明 自 己 ，完 成 这 事 后 ，我 们 再 谈 好 处 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>“我 希 望 帮 你 ，不 过 没 有 High Justice的 命 令 ，我 不 能 帮 你 。即 便 我 这 种 人 ，都 无 法 违 抗 。命 令 就 是 命 令 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>[将 苍 运 之 心 交 给 他 ]“我 找 到 了 你 一 直 在 找 的 宝 石 ...”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>他 惊 讶 得 看 着 手 中 那 发 光 的 珠 宝 。他 拿 手 套 包 着 它 ，但 指 套 尖 仍 然 透 出 了 微 弱 的 光 芒 。“做 得 不 错 。我 不 知 道 你 是 怎 么 办 到 的 ，但 别 告 诉 其 他 人 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>他 看 着 你 手 中 的 珠 宝 ，嘲 笑 着 。“假 的 。还 是 粗 劣 的 假 货 。”
+
+
+
+他 转 过 身 去 。“出 去 吧 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>“我 知 道 你 在 找 苍 运 之 心 。想 从 我 这 买 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>“有 那 么 多 新 来 的 人 ，你 就 不 能 招 募 更 多 的 士 兵 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>“更 多 的 新 兵 意 味 着 更 多 的 训 练 ，意 味 着 老 兵 需 要 花 更 多 时 间 去 训 练 他 们 ，我 可 没 那 么 多 时 间 。”
+
+
+
+他 半 转 过 身 去 。“总 之 ，我 觉 得 这 应 该 不 关 你 什 么 事 。但 你 如 果 有 时 间 来 询 问 的 话 ，也 许 你 有 时 间 来 做 些 有 意 义 的 事 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>“别 这 么 夸 张 。你 自 己 选 择 这 职 业 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>他 表 情 中 有 着 一 丝 怒 意 。“不 仅 仅 是 职 业 而 已 ，对 此 我 从 未 后 悔 。我 的 职 务 是 保 护 这 城 市 ，和 这 城 市 里 的 所 有 人 。即 便 是 像 你 这 种 傲 慢 、忘 恩 负 义 的 人 。”
+
+
+
+他 朝 你 迈 近 了 一 步 ，其 他 人 员 则 默 默 看 着 。“如 果 你 大 老 远 来 这 里 只 是 为 了 扯 些 不 切 实 际 的 东 西 ，你 肯 定 有 时 间 来 做 些 有 意 义 的 事 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>“有 什 么 能 帮 你 的 吗 ？我 自 己 知 道 该 怎 么 处 理 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>“怎 么 了 ？管 不 好 一 群 绝 望 、无 家 可 归 、并 且 饥 饿 着 的 市 民 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>“真 不 幸 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>“我 以 为 你 知 道 怎 么 守 卫 整 个 城 市 ？怎 么 派 遣 实 力 一 般 的 部 队 来 巡 逻 ？怎 么 控 制 好 情 绪 激 动 的 人 群 ，不 煽 动 他 们 发 生 暴 乱 ？”
+
+
+
+他 朝 你 迈 近 了 一 步 ，其 他 人 员 则 默 默 看 着 。“如 果 你 大 老 远 来 这 里 只 是 为 了 扯 些 不 切 实 际 的 东 西 ，你 肯 定 有 时 间 来 做 些 有 意 义 的 事 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>“确 实 。如 果 你 除 了 陈 述 显 而 易 见 的 事 实 外 ，就 没 有 其 他 事 好 做 。那 么 你 可 以 来 帮 帮 我 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>他 微 微 朝 你 笑 了 笑 。“能 遇 见 一 个 希 望 解 决 问 题 ，而 非 抱 怨 问 题 的 人 ，这 的 确 令 我 耳 目 一 新 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>“维 安 纳 同 其 他 公 证 人 一 起 ，住 在 科 博 莱 茵 。但 当 下 我 腾 不 出 人 手 。你 可 以 到 公 证 人 住 所 去 ，看 看 能 不 能 找 到 她 。当 你 拿 到 研 究 后 ，就 把 它 带 给 邓 斯 坦 。那 毕 竟 是 他 的 擅 长 领 域 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>“谨 慎 是 件 好 事 ，不 过 得 记 住 反 抗 湾 真 正 实 权 在 谁 手 上 。我 们 毕 竟 是 为 公 爵 办 事 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>“当 解 决 完 堡 垒 内 的 那 些 该 死 锻 炉 骑 士 后 ，我 们 再 谈 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>“也 许 那 样 最 好 。锻 炉 骑 士 显 然 有 着 太 多 的 不 确 定 性 ，无 法 安 全 使 用 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>“那 些 生 命 就 白 白 牺 牲 了 ？继 续 研 究 锻 炉 骑 士 -我 确 定 你 能 找 到 方 法 控 制 住 他 们 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>他 点 点 头 。“我 很 高 兴 ，你 能 同 意 我 对 这 一 情 况 的 看 法 。不 过 ，当 初 我 如 果 能 听 从 邓 斯 坦 的 意 见 ，这 一 切 就 不 会 发 生 了 。我 不 会 再 犯 那 错 误 了 。“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>他 稍 微 看 了 下 你 ，然 后 轻 微 笑 了 下 。“很 少 有 人 能 让 我 改 变 想 法 。好 吧 。我 们 会 继 续 研 究 ，每 次 只 启 用 一 名 锻 炉 骑 士 ，并 派 重 兵 把 守 观 察 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>“但 是 ，我 注 意 到 你 是 德 梅 尼 尔 家 族 的 亲 密 盟 友 。虽 然 我 对 你 的 帮 助 表 示 感 激 ，但 我 们 不 想 同 罪 犯 扯 上 关 系 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>“但 是 ，我 注 意 到 你 是 德 梅 尼 尔 家 族 的 亲 密 盟 友 。他 怒 视 着 你 。“我 很 确 定 你 知 道 ，我 们 间 的 任 何 进 一 步 联 系 都 会 置 我 们 于 危 险 境 地 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>“我 们 没 有 那 人 力 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>“还 需 要 我 做 其 他 事 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+			<DefaultText>“我 决 定 帮 助 你 。你 想 让 我 做 什 么 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+			<DefaultText>他 热 情 地 笑 着 。“能 为 你 做 些 什 么 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>“这 就 是 你 想 找 的 研 究 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+			<DefaultText>克 莱 韦 尔 查 看 着 下 笔 记 ，缓 慢 点 了 点 头 。“应 该 没 错 。立 即 将 它 带 给 邓 斯 坦 -他 就 在 锻 炉 旁 等 着 。完 成 之 后 就 回 来 找 我 ，我 可 能 有 更 多 任 务 要 交 给 你 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>“你 把 研 究 交 给 他 后 ，他 就 会 向 你 出 售 任 何 武 器 、盔 甲 。他 锻 造 ，修 理 我 们 的 所 有 装 备 -你 在 反 抗 湾 绝 对 找 不 到 更 能 干 的 铁 匠 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+			<DefaultText>“你 把 研 究 交 给 他 后 ，他 就 会 向 你 出 售 任 何 武 器 、盔 甲 。他 锻 造 ，修 理 我 们 的 所 有 装 备 -你 在 反 抗 湾 绝 对 找 不 到 更 能 干 的 铁 匠 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+			<DefaultText>“但 这 事 之 后 ，我 预 计 他 们 知 道 了 你 和 我 们 间 的 关 系 ，他 们 肯 定 不 会 感 到 高 兴 。德 梅 尼 尔 家 族 同 样 也 不 会 高 兴 。”他 愤 怒 地 哼 了 下 。“他 们 打 算 扩 张 家 族 生 意 ，他 们 因 为 我 们 碍 到 了 他 们 而 怨 恨 着 我 们 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>94</ID>
+			<DefaultText>“现 在 ，我 们 负 责 在 城 市 里 巡 逻 ，维 护 和 平 。太 多 人 从 乡 下 过 来 到 反 抗 湾 ，这 使 得 巡 逻 ，保 持 秩 序 这 事 变 得 更 加 重 要 。不 幸 的 是 ，这 同 样 给 我 们 招 来 了 不 少 敌 人 ，尤 其 是 十 二 人 众 和 某 些 在 反 抗 湾 有 着 非 凡 野 心 的 家 族 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>95</ID>
+			<DefaultText>“十 二 人 众 为 什 么 是 你 们 的 敌 人 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>96</ID>
+			<DefaultText>“跟 我 说 说 那 些 &apos;有 野 心 &apos;的 家 族 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>97</ID>
+			<DefaultText>“我 明 白 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>98</ID>
+			<DefaultText>他 蔑 视 地 哼 了 下 。“他 们 是 些 肇 事 的 捣 乱 分 子 。他 们 忘 记 了 反 抗 湾 是 最 大 的 城 市 ，而 不 是 什 么 边 防 哨 所 。
+
+
+
+“绝 大 数 人 在 日 子 好 的 时 候 ，一 副 商 人 样 。其 他 时 候 ，基 本 上 就 是 街 头 恶 棍 。更 不 用 说 ，他 们 不 在 乎 法 律 和 秩 序 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>99</ID>
+			<DefaultText>“指 的 是 德 梅 尼 尔 家 族 。他 们 是 城 里 最 古 老 的 贵 族 ，也 是 最 大 的 犯 罪 组 织 。
+
+
+
+“他 们 的 元 老 ，盖 德 马 尔 --一 直 想 利 用 这 混 乱 来 扩 大 他 的 行 动 。我 们 紧 盯 着 他 ，他 对 此 一 直 心 怀 不 满 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>100</ID>
+			<DefaultText>“但 是 因 为 你 ，那 些 幸 存 者 才 能 存 活 。”
+
+
+
+他 朝 向 你 ，眼 神 中 有 着 敬 畏 。“你 战 斗 时 很 勇 敢 。不 输 于 一 名 老 兵 。我 要 任 命 你 为 崇 高 的 审 判 者 。作 为 你 的 奖 励 ，请 接 受 这 与 炼 狱 骑 士 相 匹 配 的 剑 和 盔 甲 。如 果 还 有 其 他 需 要 我 的 地 方 ，直 接 就 说 好 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>101</ID>
+			<DefaultText>“共 和 国 的 绝 大 地 方 都 能 容 忍 灵 魂 研 究 ，但 是 有 些 维 拉 人 更 喜 欢 反 抗 湾 的 研 究 团 体 。希 望 她 没 被 逐 出 城 外 -或 者 发 生 更 糟 的 事 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>102</ID>
+			<DefaultText>Bank Node 115</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>103</ID>
+			<DefaultText>“High Justice？这 听 起 来 是 个 很 高 的 职 位 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>104</ID>
+			<DefaultText>“除 了 那 些 对 他 们 构 成 威 胁 的 人 外 ，十 二 人 众 可 认 不 出 其 他 人 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>105</ID>
+			<DefaultText>“确 保 城 市 人 员 不 受 十 二 人 众 的 煽 动 听 起 来 是 个 值 得 努 力 的 目 标 。这 显 然 太 重 要 了 ，不 能 托 付 给 普 通 人 员 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>106</ID>
+			<DefaultText>你 确 定 你 想 卷 入 这 滩 浑 水 ？我 们 可 以 偷 瞄 一 眼 研 究 笔 记 …</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>107</ID>
+			<DefaultText>尚 未 &apos;。这 个 词 很 说 明 问 题 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>108</ID>
+			<DefaultText>我 们 现 在 是 最 紧 张 的 时 刻 ，如 果 牵 扯 到 High Justice。考 虑 过 在 这 开 始 政 治 生 涯 吗 ，[玩 家 名 ]？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>109</ID>
+			<DefaultText>我 们 的 城 市 倒 在 自 己 头 上 ，而 卫 邦 十 二 人 团 那 群 蠢 货 却 在 大 街 上 袭 击 我 们 。我 很 想 吊 死 他 们 每 个 人 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>110</ID>
+			<DefaultText>“但 在 此 之 后 ，我 认 为 他 们 得 知 你 与 我 们 的 关 系 了 ，因 此 他 们 不 会 太 高 兴 。德 梅 尼 尔 人 也 不 会 。”他 发 出 哼 声 。“他 们 试 图 扩 张 家 族 企 业 ，因 为 我 们 的 干 预 他 们 非 常 恨 我 们 。
+
+
+
+我 需 要 个 能 信 任 的 人 ，而 你 在 为 我 效 劳 和 反 抗 湾 时 都 证 明 了 自 己 的 正 直 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>111</ID>
+			<DefaultText>但 在 此 之 后 ，我 认 为 他 们 得 知 你 与 我 们 的 关 系 了 ，因 此 他 们 不 会 太 高 兴 。德 梅 尼 尔 人 也 不 会 。”他 发 出 哼 声 。“他 们 试 图 扩 张 家 族 企 业 ，因 为 我 们 的 干 预 他 们 非 常 恨 我 们 。
+
+
+
+我 需 要 个 能 不 引 起 过 度 注 意 力 ，且 搞 定 这 事 的 人 。你 在 为 我 效 劳 和 反 抗 湾 时 都 证 明 了 自 己 的 明 判 力 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>112</ID>
+			<DefaultText>但 在 此 之 后 ，我 认 为 他 们 得 知 你 与 我 们 的 关 系 了 ，因 此 他 们 不 会 太 高 兴 。德 梅 尼 尔 人 也 不 会 。”他 发 出 哼 声 。“他 们 试 图 扩 张 家 族 企 业 ，因 为 我 们 的 干 预 他 们 非 常 恨 我 们 。
+
+
+
+我 需 要 个 能 处 理 任 何 意 料 外 偶 发 情 况 的 人 。你 在 为 我 效 劳 和 反 抗 湾 时 都 证 明 了 自 己 能 胜 任 任 何 威 胁 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>113</ID>
+			<DefaultText>但 在 此 之 后 ，我 认 为 他 们 得 知 你 与 我 们 的 关 系 了 ，因 此 他 们 不 会 太 高 兴 。德 梅 尼 尔 人 也 不 会 。”他 发 出 哼 声 。“他 们 试 图 扩 张 家 族 企 业 ，因 为 我 们 的 干 预 他 们 非 常 恨 我 们 。
+
+
+
+我 需 要 个 思 维 敏 捷 的 人 ，以 防 形 势 所 需 。你 不 仅 说 话 敏 锐 ，而 且 头 脑 更 敏 锐 ，[玩 家 名 ]。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>114</ID>
+			<DefaultText>他 盯 着 你 看 了 一 会 ，然 后 轻 微 一 笑 。“很 少 有 人 能 让 我 改 变 主 意 。不 过 ，我 慢 慢 信 任 你 和 你 坚 定 的 原 则 了 。很 好 。我 们 会 继 续 研 究 ，一 次 只 保 持 一 位 锻 炉 骑 士 处 于 活 动 状 态 ，且 在 严 密 看 守 下 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>115</ID>
+			<DefaultText>他 点 点 头 。“知 道 你 如 此 坚 定 地 遵 守 原 则 ，很 高 兴 你 同 意 我 对 形 势 的 评 估 。还 有 ，如 果 我 听 了 Dunstan的 话 ，这 一 切 从 头 到 尾 都 不 可 能 发 生 了 。我 不 会 再 犯 这 样 的 错 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>116</ID>
+			<DefaultText>我 知 道 炼 狱 骑 士 们 在 宫 殿 开 灵 魂 研 究 听 证 会 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>117</ID>
+			<DefaultText>“确 实 。”他 将 双 手 交 叉 到 背 后 。“埃 瓦 尔 公 爵 向 骑 士 寻 求 谨 慎 的 建 议 和 防 御 方 面 的 事 。我 认 为 作 为 一 个 城 市 和 国 度 ，我 们 的 未 来 在 很 大 程 度 上 将 取 决 于 我 们 如 何 处 理 此 事 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>118</ID>
+			<DefaultText>你 怎 么 看 灵 魂 研 究 ？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>119</ID>
+			<DefaultText>不 深 入 调 查 我 们 就 成 傻 子 了 。我 见 过 布 拉 肯 伯 里 那 群 研 究 员 的 本 事  - 造 楼 ，诊 断 灵 魂 疾 病 ，利 用 天 然 精 华 。潜 力 很 大 。
+
+
+
+贬 低 者 说 这 太 危 险 ，而 且 会 惹 怒 众 神 。都 是 迷 信 和 胡 扯 。当 然 ，深 入 研 究 灵 魂 确 实 有 风 险 ，但 什 么 都 不 做 ，坐 等 Legacy侵 蚀 我 们 风 险 更 大 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>120</ID>
+			<DefaultText>不 管 锻 炉 骑 士 到 底 出 了 什 么 事 ，灵 魂 研 究 都 值 得 深 入 钻 研 。灵 魂 研 究 者 能 做 的 还 有 很 多 ，比 如 治 疗 灵 魂 疾 病 ，强 化 精 华 ，甚 至 减 轻 Legacy的 效 果 。
+
+他 挠 了 挠 下 巴 。“不 试 的 话 我 们 永 远 不 知 道 。而 且 我 们 也 承 受 不 起 什 么 都 不 做 ，让 敌 人 看 着 我 们 变 弱 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>121</ID>
+			<DefaultText>跟 我 说 说 听 证 会 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>122</ID>
+			<DefaultText>他 不 友 好 地 朝 你 皱 了 皱 眉 头 。“他 们 的 进 度 比 我 想 要 的 还 慢 。只 要 有 人 一 提 灵 魂 研 究 ，卫 邦 十 二 人 团 就 引 起 骚 动 ，德 梅 尼 尔 人 也 故 意 妨 碍 这 件 事 。不 管 怎 样 ，我 相 信 埃 瓦 尔 最 终 会 明 白 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>123</ID>
+			<DefaultText>“让 我 们 说 说 其 他 事 吧 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>127</ID>
+			<DefaultText>“确 实 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>128</ID>
+			<DefaultText>[说 谎 ]“确 实 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>129</ID>
+			<DefaultText>我 会 确 保 他 想 明 白 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>131</ID>
+			<DefaultText>我 们 很 高 兴 有 你 的 加 入 。甚 至 只 要 你 的 …名 气 在 ，埃 瓦 尔 也 无 疑 会 认 为 你 的 到 来 很 有 说 服 力 。我 们 需 要 所 有 可 能 的 支 持 来 确 保 他 给 灵 魂 研 究 一 次 机 会 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>132</ID>
+			<DefaultText>“我 就 知 道 他 们 是 祸 害 ，但 无 法 想 象 卫 邦 十 二 人 团 竟 敢 …”他 摇 摇 头 。“他 们 会 为 元 帅 的 十 重 死 亡 付 出 代 价 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>133</ID>
+			<DefaultText>“该 死 的 盖 德 马 尔 ·德 梅 尼 尔 和 他 愚 蠢 的 野 心 。”他 摇 摇 头 。“我 就 知 道 他 野 心 勃 勃 ，但 我 从 没 想 过 他 会 在 这 堡 垒 里 杀 死 一 位 元 帅 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>134</ID>
+			<DefaultText>作 为 骑 士 团 的 客 人 ？鉴 于 你 与 某 些 …布 拉 肯 伯 里 罪 犯 的 关 系 ，恐 怕 这 不 可 能 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>135</ID>
+			<DefaultText>作 为 骑 士 团 的 客 人 ？鉴 于 你 与 探 险 大 厅 那 些 惹 是 生 非 者 的 关 系 ，恐 怕 这 不 可 能 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

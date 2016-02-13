@@ -1,0 +1,728 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">	<Name>game\cyclopedia</Name>	<NextEntryID>1</NextEntryID>	<EntryCount>289</EntryCount>	<Entries>		<Entry>			<ID>0</ID>			<DefaultText>地 点 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>1</ID>			<DefaultText>迪 福 特 村 庄 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>3</ID>      <DefaultText>人 物 </DefaultText>      <FemaleText />    </Entry>    <Entry>      <ID>4</ID>      <DefaultText>范 本 地 点 </DefaultText>      <FemaleText />    </Entry>    <Entry>      <ID>5</ID>      <DefaultText>乱 数 假 文 是 排 版 行 业 的 傀 儡 文 本 。因 为 一 位 不 知 名 的 印 刷 工 使 用 活 版 印 刷 做 出 了 一 本 这 样 的 书 ，所 以 从 15世 纪 起 ，它 就 是 这 个 行 业 的 标 准 。这 种 技 术 不 只 存 在 了 五 个 世 纪 ，它 现 在 仍 然 应 用 于 电 子 印 刷 ，本 质 上 并 没 有 改 变 。乱 数 假 文 的 流 行 是 因 为 60年 代 拉 突 激 光 印 字 传 输 系 统 的 发 展 ，最 近 更 是 有 许 多 出 版 业 软 件 包 含 乱 数 假 文 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>6</ID>			<DefaultText>学 识 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>7</ID>			<DefaultText>铁 匠 骑 士 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>8</ID>			<DefaultText>顿 瑞 德 街 道 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>9</ID>			<DefaultText>十 二 人 众 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>10</ID>			<DefaultText>自 然 哲 理 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>11</ID>			<DefaultText>尖 牙 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>12</ID>			<DefaultText>德 梅 尼 尔 家 族 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>13</ID>			<DefaultText>迪 伍 德 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>14</ID>			<DefaultText>鹿 丛 帝 国 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>15</ID>			<DefaultText>格 兰 法 斯 国 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>16</ID>			<DefaultText>炼 狱 骑 士 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>17</ID>			<DefaultText>艾 德 迈 斯 •哈 德 雷 特 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>18</ID>			<DefaultText>埃 德 朗 •哈 德 雷 特 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>19</ID>			<DefaultText>可 汗 雷 德 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>20</ID>			<DefaultText>圣 维 德 文 ：农 夫 成 神 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>21</ID>			<DefaultText>圣 战 ：从 开 端 至 圣 锤 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>22</ID>			<DefaultText>伊 欧 拉 众 月 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>23</ID>			<DefaultText>灵 魂 研 究 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>24</ID>			<DefaultText>活 化 之 地 的 真 实 故 事 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>25</ID>			<DefaultText>日 历 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>26</ID>			<DefaultText>鹿 丛 的 习 俗 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>27</ID>			<DefaultText>格 兰 法 斯 的 习 俗 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>28</ID>			<DefaultText>纳 斯 塔 克 诗 集 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>29</ID>			<DefaultText>格 兰 法 斯 诗 集 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>30</ID>			<DefaultText>斯 凯 奈 特 圣 典 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>31</ID>			<DefaultText>玛 格 岚 圣 典 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>32</ID>			<DefaultText>贝 拉 斯 圣 典 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>33</ID>			<DefaultText>沃 迪 卡 圣 典 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>34</ID>			<DefaultText>伊 欧 萨 斯 圣 典 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>35</ID>			<DefaultText>迪 伍 德 的 笑 剧 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>36</ID>			<DefaultText>里 德 赛 拉 斯 的 寓 言 剧 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>37</ID>			<DefaultText>维 拉 的 悲 剧 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>38</ID>			<DefaultText>潘 德 格 拉 姆 的 生 命 与 探 索 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>39</ID>			<DefaultText>亡 焰 群 岛 众 兽 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>40</ID>			<DefaultText>白 茫 冰 地 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>41</ID>			<DefaultText>雄 伟 的 西 部 之 鹿 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>42</ID>			<DefaultText/>			<FemaleText/>		</Entry>		<Entry>			<ID>43</ID>			<DefaultText>甲 虫 虽 然 没 有 一 个 人 那 么 大 ，但 却 也 足 够 令 大 多 数 的 旅 客 不 寒 而 栗 了 。这 些 大 的 惊 人 的 虫 子 总 是 能 够 使 游 客 印 象 深 刻 ，屁 滚 尿 流 ，同 时 也 加 强 了 迪 伍 德 在 人 们 心 目 中 “文 明 之 死 地 ”的 烙 印 。迪 伍 德 （以 及 格 兰 法 斯 ）周 围 广 阔 的 原 野 给 了 甲 虫 富 裕 的 空 间 进 行 繁 殖 。其 中 生 长 到 顶 级 的 甲 虫 已 经 不 仅 仅 是 用 周 围 的 环 境 来 伪 装 自 己 ，身 上 甚 至 都 会 长 出 一 些 类 似 木 头 、石 头 和 绿 萤 的 常 见 的 坚 硬 耐 寒 的 矿 物 。这 些 甲 虫 的 四 肢 和 甲 壳 也 曾 在 格 兰 法 斯 部 落 风 靡 一 时 ，人 们 用 这 些 坚 硬 的 东 西 打 造 护 盾 以 及 兵 器 。 尽 管 外 表 看 起 来 简 单 ，但 常 见 的 甲 虫 都 有 着 某 种 潜 在 的 复 杂 性 。当 甲 虫 在 选 择 进 化 甲 壳 的 材 料 时 ，会 刻 意 的 选 择 那 些 富 有 艺 术 感 的 原 料 。木 甲 虫 常 常 会 在 甲 壳 上 挖 一 下 令 人 捉 摸 不 透 的 小 洞 。通 过 向 这 些 临 时 形 成 的 小 洞 中 吹 气 ，它 们 就 可 以 演 奏 出 各 种 奇 特 的 音 乐 来 吸 引 配 偶 。石 甲 虫 更 喜 欢 使 用 简 陋 的 象 牙 或 者 牛 角 ，这 样 他 们 就 可 以 更 好 的 保 护 自 己 、攻 击 猎 物 。而 人 们 对 绿 萤 甲 虫 却 知 之 甚 少 ，唯 一 知 道 的 就 是 它 们 难 以 被 杀 死 。 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>44</ID>			<DefaultText>幻 影 是 那 些 死 后 未 能 正 常 的 从 尸 体 中 分 离 出 来 的 灵 魂 。这 种 情 况 常 常 在 受 到 重 创 或 者 暴 毙 时 发 生 。不 同 于 不 能 和 物 理 世 界 互 动 的 灵 魂 ，幻 影 （就 像 是 暗 影 和 血 妖 一 样 ）是 可 以 和 物 理 世 界 接 触 的 。他 们 会 无 差 别 的 攻 击 生 物 。幻 影 可 能 会 以 失 魂 落 魄 的 邻 居 ，比 如 那 些 暴 力 犯 罪 或 者 神 经 不 正 常 的 人 的 形 式 存 在 于 世 。所 有 人 都 有 可 能 在 正 确 的 情 况 下 变 成 幻 影 ，但 是 幻 影 的 恐 惧 ——还 有 他 们 和 精 神 类 疾 病 的 关 联 ——会 导 致 许 多 地 方 的 弱 势 群 体 退 避 三 舍 。 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>45</ID>			<DefaultText>食 人 魔 又 高 又 大 ，皮 糙 肉 厚 ，站 起 来 高 达 10-12英 尺 。他 们 四 肢 发 达 ，通 常 身 着 他 们 猎 物 的 兽 皮 或 者 皮 草 。他 们 十 分 喜 欢 使 用 棍 棒 、斧 头 和 木 质 或 骨 制 的 钉 头 锤 作 为 武 器 。 食 人 魔 是 一 种 拥 有 智 慧 的 生 物 （有 时 很 高 ），但 由 于 他 们 对 所 有 生 物 ——甚 至 包 括 自 己 人 在 内 都 充 满 了 敌 意 ，他 们 的 数 量 一 直 很 低 。尽 管 他 们 天 生 拥 有 智 慧 ，但 他 们 极 易 暴 躁 的 个 性 令 他 们 无 法 长 时 间 思 考 ，也 就 根 本 造 不 出 什 么 有 用 的 东 西 。大 多 数 的 食 人 魔 会 半 游 牧 地 住 在 旷 野 上 过 着 幽 静 的 生 活 ，这 样 他 们 就 不 大 可 能 遇 到 其 它 的 食 人 魔 。他 们 只 会 在 交 配 的 季 节 集 中 ，然 而 有 时 他 们 杀 的 会 比 造 出 来 的 还 要 多 。那 些 得 以 保 持 更 长 时 间 的 “平 和 ”的 食 人 魔 在 避 免 接 触 的 过 程 中 十 分 痛 苦 。有 几 次 人 们 发 现 食 人 魔 在 一 起 工 作 ，他 们 几 乎 都 是 听 令 于 一 个 女 性 食 人 魔 长 老 。女 性 食 人 魔 长 老 甚 至 比 男 性 食 人 魔 都 要 大 ，但 却 对 同 族 也 更 温 顺 。但 凡 食 人 魔 联 合 起 来 ，他 们 所 能 带 来 的 威 胁 是 任 何 一 个 种 族 都 无 法 承 受 的 。</DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>46</ID>			<DefaultText>当 灵 魂 受 到 重 创 ，且 无 法 进 入 轮 回 时 ，暗 影 便 产 生 了 。由 于 这 些 灵 魂 受 到 了 损 坏 ，他 们 会 汲 取 其 他 生 物 的 本 源 以 试 图 进 行 自 我 修 复 。窃 取 的 本 源 越 多 ，他 们 就 越 强 大 。由 于 他 们 摄 取 的 大 量 的 本 源 ，于 是 他 们 就 逐 渐 有 了 可 视 的 ，甚 至 独 特 的 肉 身 。幸 运 的 是 ，暗 影 通 常 只 能 从 其 他 生 物 体 内 提 取 一 点 点 的 本 源 。他 们 主 要 是 靠 叶 魔 体 内 排 出 的 灵 魂 来 获 取 他 们 梦 寐 以 求 的 本 源 。当 人 睡 着 时 ，他 们 的 灵 魂 和 身 体 会 相 对 的 不 是 那 么 紧 密 ，这 时 暗 影 就 会 汲 取 他 们 的 灵 能 了 。这 就 是 令 人 筋 疲 力 竭 的 噩 梦 的 来 源 。假 如 一 个 镇 子 的 人 突 然 同 时 做 了 噩 梦 ，那 很 可 能 就 是 因 为 一 只 十 分 强 大 的 暗 影 降 临 。由 于 暗 影 汲 取 灵 能 ，所 以 对 于 依 靠 灵 能 来 看 东 西 的 生 物 来 说 ，它 们 是 透 明 的 。这 使 人 们 开 始 试 着 将 它 们 附 到 盔 甲 上 ，这 样 对 于 某 些 生 物 来 说 它 们 就 是 不 可 见 的 了 。</DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>47</ID>			<DefaultText>幼 龙 以 亚 龙 的 形 态 出 生 ，然 而 他 们 之 中 的 大 部 分 也 只 能 活 到 这 个 阶 段 。亚 龙 十 分 的 聪 明 和 狡 猾 ，不 然 就 是 具 有 高 度 智 慧 。一 只 亚 龙 必 须 有 足 够 的 空 间 和 资 源 以 成 为 伪 龙 （或 最 终 成 为 一 只 龙 ）。假 如 他 们 生 活 的 地 方 已 经 有 伪 龙 或 者 龙 的 话 ，他 们 就 不 会 成 长 。他 们 必 须 要 寻 找 一 个 没 有 同 类 的 地 方 生 存 。由 于 进 一 步 成 长 的 机 会 比 较 小 ，亚 龙 会 抱 团 求 生 。要 是 没 有 高 度 的 智 慧 ，他 们 就 会 为 了 生 存 的 食 物 和 领 土 而 表 现 出 奋 不 顾 身 和 极 具 攻 击 性 的 特 性 。 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>48</ID>			<DefaultText>伊 斯 特 里 奇 的 所 有 巨 型 的 、有 攻 击 性 的 蜘 蛛 都 有 着 吓 人 的 形 状 、颜 色 和 大 小 。这 些 蜘 蛛 远 比 它 们 的 小 型 同 族 来 得 猛 ，它 们 最 喜 欢 捕 猎 人 类 和 动 物 。即 便 是 里 面 最 脆 弱 的 矛 蜘 蛛 也 足 以 在 人 类 大 意 时 将 其 杀 死 。尽 管 矛 蜘 蛛 没 有 毒 性 ，然 而 它 矛 一 般 的 四 肢 却 是 各 种 猎 物 的 噩 梦 。比 矛 蜘 蛛 更 致 命 的 还 有 象 牙 吐 丝 者 和 寡 妇 制 造 者 ，这 两 者 都 有 着 十 分 致 命 的 毒 液 。象 牙 吐 丝 者 还 拥 有 向 猎 物 喷 射 蛛 网 减 慢 其 速 度 的 技 能 。寡 妇 制 造 者 并 不 会 织 网 ，然 而 它 们 的 剧 毒 的 毒 液 却 可 以 轻 松 地 弥 补 这 一 缺 陷 。在 格 兰 法 斯 的 偏 远 地 区 ，人 们 少 有 地 能 见 到 传 说 中 的 水 晶 吞 噬 者 ，这 种 生 物 巨 大 强 力 ，能 够 释 放 出 一 些 魔 法 ，巫 师 认 为 这 种 施 法 能 力 是 来 源 于 绿 萤 和 附 魔 宝 石 。除 了 能 够 在 一 个 范 围 内 释 放 知 名 的 水 晶 尖 刺 之 外 ，它 们 的 毒 液 也 能 够 使 受 害 者 的 血 肉 临 时 的 变 成 石 头 。在 变 成 石 头 之 后 ，水 晶 吞 噬 者 可 以 轻 松 的 将 其 杀 死 。</DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>49</ID>			<DefaultText>潜 伏 者 其 实 是 由 几 种 不 同 的 食 虫 植 物 和 真 菌 为 了 捕 捉 共 同 的 猎 物 合 体 而 成 。它 们 合 体 后 高 达 数 十 英 尺 ，身 上 尽 是 各 种 藤 ，叶 ，根 和 土 。这 么 多 不 同 的 生 物 共 存 可 以 使 他 们 难 以 被 彻 底 杀 死 ，最 好 是 能 将 其 运 动 部 分 切 成 数 段 ，或 者 只 是 单 单 用 火 照 亮 整 个 殖 民 地 也 能 够 防 范 它 们 。 人 们 对 潜 伏 者 的 信 息 知 之 甚 少 ，有 人 推 测 这 些 食 肉 植 物 是 来 自 于 同 一 个 宿 主 ，比 如 潮 湿 孢 子 的 猎 物 ，而 且 当 达 到 足 够 强 大 时 就 可 以 移 动 。这 个 理 论 得 到 了 许 多 潜 伏 者 的 验 证 ，当 人 们 把 它 切 开 时 ，可 以 在 里 面 发 现 和 根 与 孢 子 相 缠 的 骨 头 残 渣 。 潜 伏 者 以 其 潜 伏 在 树 丛 或 草 丛 中 捕 猎 的 习 性 而 臭 名 昭 著 。它 们 看 起 来 还 有 一 点 点 的 智 慧 ，有 时 会 刻 意 保 存 一 些 食 物 。人 们 常 常 能 够 见 到 潜 伏 者 将 一 个 不 小 心 的 猎 物 包 裹 在 藤 蔓 中 ，而 不 去 消 化 它 。</DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>50</ID>			<DefaultText>狮 子 曾 经 在 格 兰 法 斯 平 原 东 部 和 南 部 尤 为 常 见 ，直 到 东 部 河 段 的 移 民 人 数 上 升 后 ，这 些 大 猫 就 被 迫 搬 离 到 了 相 对 安 全 的 格 兰 法 斯 和 迪 伍 德 之 间 的 区 域 。除 了 它 们 巨 大 的 威 力 以 外 ，这 些 狮 子 的 吼 功 也 是 一 绝 ，他 们 所 发 出 的 震 天 动 地 的 吼 声 令 恐 惧 深 入 每 一 个 听 到 的 人 心 中 。</DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>51</ID>			<DefaultText>“螳 螂 捕 蝉 ，黄 雀 在 后 。”这 句 鹿 丛 人 的 谚 语 经 常 会 只 说 半 句 ，用 以 描 述 在 东 河 段 的 早 期 定 居 者 的 所 感 所 受 。这 也 要 追 溯 到 鹿 丛 人 （字 面 意 思 为 “鹿 人 ”）与 他 们 四 条 腿 的 天 敌 颇 有 渊 源 的 联 系 ，这 些 天 敌 在 迪 伍 德 和 在 鹿 丛 帝 国 一 样 多 。狼 以 他 们 的 速 度 与 卓 越 的 充 满 破 坏 力 的 捕 猎 能 力 闻 名 。</DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>52</ID>			<DefaultText>这 些 长 着 巨 大 的 、五 彩 缤 纷 的 菌 盖 的 蘑 菇 几 乎 和 奥 玛 人 一 样 高 大 。它 们 巨 大 的 重 量 仅 由 底 部 的 几 个 根 茎 所 支 撑 。潮 湿 孢 子 是 一 种 十 分 特 殊 的 菌 类 ，因 为 它 们 喜 欢 以 其 他 生 物 的 灵 魂 为 食 。它 们 往 往 沿 着 森 林 地 面 移 动 ，寻 找 着 无 力 反 抗 的 疲 惫 不 堪 的 旅 行 者 。一 旦 它 们 发 现 了 一 个 合 适 的 宿 主 ，它 们 就 会 缠 到 他 身 上 汲 取 他 体 内 的 养 分 。一 旦 潮 湿 孢 子 发 现 了 宿 主 ，它 们 就 会 变 的 十 分 具 有 侵 略 性 ，并 且 用 带 有 毒 性 和 倒 刺 的 根 部 发 起 猛 烈 的 攻 击 。潮 湿 孢 子 会 最 先 吞 噬 宿 主 灵 魂 中 腐 败 分 裂 的 部 分 ，然 后 会 一 直 吞 噬 ，直 到 宿 主 只 剩 下 一 副 空 壳 。这 种 猎 食 习 惯 使 得 潮 湿 孢 子 的 菌 肉 对 经 验 丰 富 的 药 剂 师 进 行 灵 魂 净 化 尤 为 的 有 帮 助 。值 得 注 意 的 是 ，这 种 治 疗 方 式 很 容 易 导 致 健 忘 ，甚 至 是 精 神 分 裂 。</DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>53</ID>			<DefaultText>小 孢 子 是 潮 湿 孢 子 的 幼 生 形 态 。与 成 熟 体 相 比 ，这 些 人 形 的 小 孢 子 更 加 的 具 有 移 动 性 ，却 也 更 加 的 脆 弱 。它 们 从 潮 湿 孢 子 上 被 产 下 ，通 过 强 大 的 移 动 性 寻 求 滋 养 。正 如 潮 湿 孢 子 一 样 ，小 孢 子 靠 食 用 腐 烂 的 有 机 物 和 灵 魂 本 源 为 生 ，而 且 必 须 吃 到 一 定 的 数 量 才 会 变 成 潮 湿 孢 子 。</DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>54</ID>			<DefaultText>这 些 瘦 长 的 植 物 通 常 有 人 类 高 度 的 两 倍 。它 们 浑 身 恶 臭 ，长 满 脓 包 和 真 菌 。它 们 手 脚 上 的 巨 爪 可 以 轻 松 地 将 一 个 人 撕 成 两 半 。好 几 条 卷 曲 的 卷 须 从 头 部 松 散 的 垂 了 下 来 ，它 们 的 胃 部 都 是 锯 齿 状 的 锋 利 牙 齿 。巨 魔 的 脸 很 长 ，下 巴 很 长 ，鼻 子 很 长 ，头 顶 上 的 乱 糟 糟 地 长 着 几 根 真 菌 感 染 的 头 发 。它 们 从 来 没 使 用 过 武 器 、工 具 或 者 是 衣 服 。看 着 一 个 巨 魔 ，你 很 难 分 辨 它 们 到 底 是 已 经 和 苔 藓 、藓 沼 和 霉 菌 共 生 了 ，还 是 被 寄 生 了 。巨 魔 潮 湿 的 身 体 为 这 些 菌 类 提 供 了 良 好 的 生 存 环 境 。它 们 和 一 些 元 素 一 样 ，为 巨 魔 提 供 了 掩 护 ，它 们 所 产 生 的 酶 也 为 饥 肠 辘 辘 的 巨 魔 提 供 了 补 给 。因 为 他 们 与 这 些 植 物 共 生 ，所 以 巨 魔 一 般 会 住 在 树 林 茂 密 的 地 区 。它 们 在 一 些 长 着 地 衣 和 真 菌 的 潮 湿 的 地 下 环 境 中 也 会 出 现 。</DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>55</ID>			<DefaultText>蛛 人 十 分 的 稀 少 ，而 且 是 一 种 具 有 自 然 灵 能 的 危 险 生 物 。它 们 大 部 分 都 是 人 形 的 ，比 人 高 了 一 点 点 ，但 是 却 长 着 带 有 毒 牙 的 蜘 蛛 头 。和 蜘 蛛 一 样 ，它 们 也 有 织 网 的 能 力 。相 对 于 织 网 ，他 们 更 喜 欢 用 这 种 能 力 来 编 制 复 杂 精 致 的 长 袍 。 雄 性 和 雌 性 的 蛛 人 截 然 不 同 。尽 管 有 时 会 用 獠 牙 近 距 离 的 攻 击 敌 人 ，但 它 们 主 要 是 像 灵 能 师 一 样 的 施 法 者 和 精 神 操 纵 者 。蛛 人 的 灵 能 让 它 们 可 以 用 意 念 沟 通 。和 许 多 群 居 的 昆 虫 一 样 ，它 们 也 有 着 明 确 的 社 会 分 工 ，比 如 说 探 子 和 守 卫 。 尽 管 蛛 人 有 着 极 高 的 智 慧 与 威 力 ，但 由 于 繁 殖 能 力 低 下 ，蛛 人 的 族 群 并 不 能 成 为 一 个 主 要 的 族 群 。即 便 这 种 低 下 的 繁 殖 能 力 也 可 能 和 它 们 对 其 他 种 族 高 度 的 敌 视 有 关 ，但 它 们 也 以 护 短 而 闻 名 。它 们 将 为 了 捍 卫 自 己 的 巢 穴 而 奋 斗 至 死 。</DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>56</ID>			<DefaultText>这 些 无 定 形 的 云 内 蕴 含 着 狂 暴 的 能 量 漩 涡 。数 十 个 人 形 的 东 西 在 漩 涡 内 忽 隐 忽 现 。面 孔 十 分 痛 苦 地 无 声 的 尖 叫 着 ，双 手 拼 命 的 在 空 气 中 抓 着 什 么 。噬 魂 风 暴 （灵 能 风 暴 ）是 一 种 已 知 的 天 灾 。假 如 灵 魂 被 从 体 内 分 离 出 来 ，并 被 夹 在 风 暴 的 中 心 ，他 们 就 会 和 其 他 的 元 素 被 绞 在 一 起 。灵 魂 会 陷 入 纯 粹 的 混 乱 和 困 惑 ，消 亡 对 它 们 是 一 种 怜 悯 。 使 用 丧 魂 生 物 做 实 验 给 灵 魂 学 者 们 带 来 了 很 臭 的 名 声 。有 人 认 为 这 很 危 险 的 ，而 且 是 不 人 道 的 ，也 有 人 认 为 他 们 不 择 手 段 丧 心 病 狂 。丧 魂 的 制 造 使 许 多 人 将 灵 魂 学 者 当 成 了 批 评 的 目 标 。</DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>57</ID>			<DefaultText>叶 魔 是 一 种 树 屋 或 者 绿 萤 石 被 破 坏 了 之 后 的 叶 精 。它 们 长 得 和 叶 精 一 样 丑 ，细 长 而 憔 悴 ，拥 有 冷 色 调 的 皮 肤 。它 们 的 头 发 像 枯 草 一 般 ，黑 呼 呼 ，粘 糊 糊 的 ，长 着 扭 曲 的 五 官 和 锋 利 的 牙 齿 。与 叶 精 不 同 的 是 ，它 们 并 没 有 被 光 尘 所 包 围 ，也 十 分 喜 欢 用 它 们 的 长 爪 子 供 给 长 途 跋 涉 的 不 幸 的 旅 人 。叶 魔 用 它 们 所 杀 的 动 物 的 头 骨 、表 皮 和 皮 毛 装 饰 自 己 。和 尝 试 着 保 持 森 林 的 健 康 的 叶 精 类 似 的 是 ，它 们 会 尽 力 破 坏 森 林 ，这 就 使 它 们 成 了 不 共 戴 天 的 敌 人 。它 们 身 上 的 腐 物 使 它 们 在 攻 击 时 带 有 毒 性 ，却 也 使 它 们 的 身 体 变 得 十 分 虚 弱 ，对 于 穿 刺 等 攻 击 的 抗 性 十 分 低 下 。 由 于 它 们 已 经 不 能 够 再 从 健 康 的 森 林 中 汲 取 精 华 了 ，所 以 它 们 不 得 不 从 森 林 中 的 动 植 物 身 上 汲 取 养 分 。这 使 得 它 们 天 生 与 具 有 类 似 捕 食 手 段 的 暗 影 成 为 了 盟 友 。 它 们 对 所 有 的 生 物 都 充 满 了 敌 意 ，但 是 游 侠 和 德 鲁 伊 是 他 们 最 常 见 的 敌 人 。</DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>58</ID>			<DefaultText>叶 精 是 一 种 伴 生 在 古 树 或 者 绿 萤 石 上 的 格 兰 法 斯 灵 魂 。似 乎 它 们 中 的 大 多 数 都 是 半 精 灵 体 ，但 它 们 的 皮 肤 是 由 木 头 组 成 的 ，头 发 很 长 ，而 且 很 像 植 物 （绿 萤 裔 貌 似 拥 有 绿 萤 皮 肤 ）。叶 精 的 身 体 周 围 飘 着 发 光 的 小 颗 粒 。虽 然 它 们 长 得 像 人 ，但 却 不 穿 衣 服 ，也 没 有 性 器 官 。叶 精 是 一 种 十 分 神 奇 的 生 物 ，它 们 不 用 物 理 武 器 攻 击 。它 们 的 媚 术 通 过 魔 法 施 放 出 来 ，会 令 攻 击 者 停 止 攻 击 ，甚 至 死 亡 。</DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>59</ID>			<DefaultText/>			<FemaleText/>		</Entry>		<Entry>			<ID>60</ID>      <DefaultText>成 年 的 龙 体 形 非 常 巨 大 。在 休 息 时 它 们 就 比 大 部 分 契 思 建 筑 都 大 。而 当 用 隐 藏 的 腿 站 立 起 来 时 ，更 是 会 变 得 将 近 休 息 时 两 倍 大 。龙 已 经 达 到 了 成 熟 期 。像 飞 龙 一 样 ，他 们 也 适 应 了 生 存 环 境 ，甚 至 适 应 得 更 好 。他 们 的 颜 色 ，外 形 ，身 体 结 构 ，甚 至 是 攻 击 力 以 及 防 御 方 式 都 会 随 着 领 地 的 改 变 而 改 变 。因 为 他 们 会 对 领 地 宣 誓 主 权 ，所 以 通 常 不 会 遇 到 来 自 别 的 龙 或 者 飞 龙 的 挑 战 ，他 们 在 自 然 界 中 比 较 平 和 ，不 会 主 动 挑 衅 。只 有 龙 才 能 和 龙 交 配 。几 乎 只 有 在 这 种 情 况 下 龙 才 会 离 开 自 己 领 地 去 寻 找 别 的 龙 。在 达 到 龙 的 阶 段 后 ，一 些 动 物 将 承 担 被 性 发 泄 的 职 责 。但 是 如 果 周 围 的 性 别 严 重 失 衡 ，龙 也 可 以 改 变 自 己 的 性 别 。达 到 这 一 阶 段 的 生 物 是 如 此 罕 见 ，这 种 能 力 是 鉴 别 这 种 生 物 仍 有 村 花 的 关 键 。龙 比 其 他 大 多 数 生 物 更 聪 明 ，但 是 它 们 的 孤 独 感 阻 止 得 它 们 与 其 它 生 物 交 流 。</DefaultText>      <FemaleText />    </Entry>    <Entry>      <ID>61</ID>      <DefaultText>飞 龙 是 龙 生 命 周 期 的 中 期 。他 们 是 由 亚 龙 成 长 后 的 生 物 ，但 是 还 没 有 达 到 （可 能 永 远 达 不 到 ）成 龙 的 阶 段 。飞 龙 积 极 捍 卫 自 己 的 领 土 ，并 且 会 尽 力 扩 大 自 己 的 领 地 。飞 龙 会 攻 击 其 它 拥 有 稀 缺 资 源 的 飞 龙 。</DefaultText>      <FemaleText />    </Entry>    <Entry>      <ID>62</ID>      <DefaultText>德 鲁 伊 们 认 为 ，与 自 然 界 协 调 时 ，才 是 最 强 大 最 和 谐 的 本 质 。由 于 大 多 数 生 活 了 几 十 数 百 年 的 生 物 是 有 灵 魂 （或 一 部 分 灵 魂 ）的 ，他 们 已 经 与 自 然 界 有 了 些 许 联 系 。他 们 通 过 体 验 祖 先 的 生 活 、练 习 强 大 的 技 能 、与 动 物 的 灵 魂 交 流 ，学 习 和 练 习 灵 力 变 身 。德 鲁 伊 也 认 为 ，灵 力 变 身 能 使 个 体 更 容 易 与 自 然 协 调 ，或 通 过 “调 心 ”增 强 精 神 力 。这 种 做 法 避 免 了 被 德 鲁 伊 认 为 是 反 自 然 和 暴 力 的 全 面 觉 醒 带 来 的 创 伤 。</DefaultText>      <FemaleText />    </Entry>    <Entry>      <ID>63</ID>      <DefaultText>游 侠 往 往 会 选 择 一 个 生 物 作 为 同 伴 ，与 它 分 享 对 自 然 的 联 系 。灵 魂 绑 定 过 程 使 游 侠 与 生 物 共 享 体 力 、健 康 、和 ……死 亡 。据 说 ，游 侠 实 现 了 与 其 伙 伴 的 灵 魂 绑 定 后 可 以 进 行 几 乎 毫 无 障 碍 的 互 动 。一 旦 绑 定 ，游 侠 与 其 伙 伴 永 不 分 离 。</DefaultText>      <FemaleText />    </Entry>    <Entry>      <ID>64</ID>      <DefaultText>由 于 矛 蜘 蛛 的 攻 击 速 度 和 独 特 的 攻 击 方 法 ，很 多 勇 敢 的 （愚 蠢 的 ）毒 牙 部 落 剑 士 的 传 统 便 是 与 蜘 蛛 练 习 战 斗 。现 在 ，这 种 练 习 很 难 实 现 ，但 是 却 是 最 原 始 和 困 难 的 战 士 训 练 。矛 蜘 蛛 也 是 最 厉 害 的 蜘 蛛 捕 猎 者 之 一 ，它 们 往 往 更 喜 欢 使 用 腿 上 的 刺 ，而 不 是 网 来 捕 捉 猎 物 。于 是 这 种 蜘 蛛 远 远 强 大 于 其 它 的 蜘 蛛 。</DefaultText>      <FemaleText />    </Entry>    <Entry>      <ID>65</ID>      <DefaultText>剑 狮 虎 是 一 种 大 型 的 食 肉 猫 科 动 物 。成 长 期 的 它 们 通 常 独 自 捕 猎 ，而 已 成 熟 的 剑 狮 虎 往 往 联 合 起 来 守 卫 它 们 的 领 土 、追 捕 猎 物 ，或 者 照 顾 年 轻 的 小 虎 。这 些 动 物 非 常 好 斗 而 且 适 应 力 很 强 ，在 世 界 各 处 都 可 以 寻 找 到 它 们 的 身 影 。由 于 契 思 已 经 把 这 些 生 物 赶 出 了 契 思 领 地 和 挑 战 港 ，所 以 剑 狮 虎 在 艾 尔 •格 兰 方 瑟 更 常 见 。它 们 的 雕 像 被 作 为 致 命 捕 猎 者 的 代 表 以 奖 赏 寻 狩 之 神 格 拉 文 的 追 随 者 。</DefaultText>      <FemaleText />    </Entry>    <Entry>      <ID>66</ID>      <DefaultText>软 泥 怪 是 一 种 会 移 动 的 食 肉 生 物 ，生 存 在 混 乱 而 阴 暗 潮 湿 的 地 方 。软 泥 怪 通 过 食 用 周 围 的 细 菌 、真 菌 和 小 虫 成 长 。一 旦 长 到 大 概 一 条 狗 的 大 小 ，它 们 便 开 始 寻 求 更 大 的 猎 物 ，包 括 人 类 。就 像 所 有 的 生 物 一 样 ，它 们 有 灵 魂 ，但 是 缺 乏 智 慧 和 真 正 的 神 经 系 统 ，这 使 它 们 盲 目 激 进 ，难 以 遏 制 。它 们 的 黏 度 和 流 动 性 时 它 们 能 够 灵 活 而 出 奇 地 攻 击 ，并 且 可 以 使 用 “喷 溅 ”来 分 解 肉 和 盔 甲 。变 异 的 软 泥 怪 则 更 为 危 险 ，与 它 们 对 抗 时 则 尤 须 小 心 。</DefaultText>      <FemaleText />    </Entry>    <Entry>      <ID>67</ID>      <DefaultText>悲 伤 女 妖 是 一 种 不 愿 去 灵 障 的 暴 力 和 迷 乱 的 精 神 体 。更 具 体 地 讲 ，它 们 是 女 性 经 历 特 别 悲 惨 地 死 亡 后 产 生 的 精 神 体 ，因 此 被 叫 做 “悲 伤 女 妖 ”，这 个 名 字 翻 译 成 通 用 语 为 “血 的 母 亲 ”。最 近 ，由 于 怀 德 温 遗 症 的 影 响 ，人 们 常 见 的 悲 伤 女 妖 的 形 象 发 生 了 变 化 。由 于 空 心 种 数 量 的 急 剧 增 加 ，相 似 的 事 情 发 生 在 了 悲 伤 女 妖 身 上 ，许 多 人 认 为 这 与 许 多 母 亲 在 分 娩 时 死 亡 有 关 。事 实 上 ，悲 伤 女 妖 更 容 易 从 因 暴 力 犯 罪 或 暴 力 事 故 而 死 的 女 性 身 上 产 生 。</DefaultText>      <FemaleText />    </Entry>    <Entry>      <ID>68</ID>      <DefaultText>在 迪 伍 德 城 ，幽 冥 之 灵 拥 有 神 话 般 的 地 位 ，并 且 是 一 些 老 女 人 故 事 的 重 要 组 成 部 分 。最 常 见 是 说 法 是 幽 冥 之 灵 是 迷 失 孩 童 的 灵 魂 ，它 们 迫 切 地 寻 求 下 一 次 生 命 。在 野 蛮 地 区 ，与 幽 冥 之 灵 接 触 过 的 人 常 常 把 这 些 故 事 作 为 娱 乐 。幽 冥 之 灵 的 已 知 栖 息 地 是 在 被 遗 弃 的 废 墟 之 类 的 地 方 。它 们 是 一 种 好 奇 的 生 物 ，因 为 有 时 候 它 们 会 紧 紧 跟 着 游 客 一 段 距 离 。虽 然 通 常 来 说 它 们 并 不 主 动 攻 击 ，但 是 当 感 受 到 威 胁 时 ，幽 冥 之 灵 是 出 了 名 的 好 斗 。于 是 ，幽 冥 之 灵 通 常 被 描 述 为 精 神 世 界 的 杂 草 ——小 ，再 生 迅 速 ，无 穷 多 的 数 量 。</DefaultText>      <FemaleText />    </Entry>    <Entry>      <ID>69</ID>      <DefaultText>幻 影 最 初 是 为 了 守 护 皇 家 陵 墓 而 创 造 的 。它 们 是 最 强 大 的 战 士 和 仆 人 的 灵 魂 ，被 创 造 者 绑 缚 在 使 用 不 同 的 材 料 制 成 的 雕 像 上 。随 着 这 项 技 术 越 来 越 为 人 所 知 ，强 大 的 通 灵 师 开 始 创 造 自 己 的 幻 影 ，这 些 幻 影 可 以 使 用 任 何 武 器 来 守 卫 它 们 的 主 人 。幻 影 只 能 由 忠 诚 的 灵 魂 创 造 ，这 些 灵 魂 自 愿 奉 献 自 己 以 保 护 主 人 。虽 然 仪 式 仍 然 可 以 在 它 们 不 情 愿 的 情 况 下 进 行 ，但 是 信 心 不 坚 定 的 灵 魂 常 常 可 能 导 致 它 们 受 到 损 害 ，或 者 自 己 在 痛 苦 中 被 摧 毁 。即 使 是 成 功 的 创 造 物 依 然 容 易 怀 疑 自 己 本 身 ，所 以 大 多 数 通 灵 师 非 常 谨 慎 ，以 阻 止 这 些 疑 虑 的 产 生 。</DefaultText>      <FemaleText />    </Entry>    <Entry>      <ID>70</ID>      <DefaultText>Darguls已 经 向 成 为 僵 尸 迈 出 了 第 一 步 ，这 种 僵 尸 只 能 由 灵 魂 威 力 维 持 。在 这 个 阶 段 它 们 已 经 丧 失 了 部 分 记 忆 与 精 神 力 ，但 是 它 们 保 留 了 自 我 意 识 ，并 且 意 识 到 自 己 正 在 衰 弱 。即 使 这 迫 使 它 们 寻 找 可 以 躲 避 现 代 文 明 注 意 力 的 隐 蔽 处 ，但 它 们 永 不 满 足 的 饥 渴 和 不 可 避 免 的 衰 弱 使 它 们 比 范 姆 派 尔 更 具 侵 略 性 和 鲁 莽 。由 于 威 力 正 在 减 弱 ，一 些 Darguls害 怕 它 们 没 有 足 够 的 威 力 跨 过 这 个 阶 段 。</DefaultText>      <FemaleText />    </Entry>    <Entry>      <ID>71</ID>      <DefaultText>范 姆 派 尔 是 契 思 的 一 个 分 支 。虽 然 它 们 保 留 了 大 部 分 人 形 的 外 貌 ，但 它 们 只 不 过 是 一 些 愚 蠢 的 畸 形 怪 ，它 们 自 己 也 知 道 这 一 点 。范 姆 派 尔 保 留 了 独 立 的 人 格 和 记 忆 ，这 些 可 以 从 许 多 方 面 证 明 。有 些 范 姆 派 尔 变 得 谨 慎 从 而 隐 居 ，以 躲 避 毁 灭 它 们 的 风 险 ，还 有 一 些 变 得 快 乐 而 外 向 ，看 上 去 享 受 这 个 世 界 上 所 有 能 让 它 们 快 乐 的 事 。或 早 或 晚 的 ，所 有 的 范 姆 派 尔 都 将 衰 弱 至 死 。</DefaultText>      <FemaleText />    </Entry>    <Entry>      <ID>72</ID>      <DefaultText>和 幻 影 相 似 的 地 方 是 ，flesh constructs是 由 通 灵 师 用 被 俘 获 的 灵 魂 创 造 的 。和 幻 影 不 同 的 地 方 是 ，它 们 有 自 己 的 意 愿 ，并 且 忠 诚 于 创 造 者 。所 以 flesh constructs不 会 有 疑 虑 。它 们 的 寿 命 比 一 般 的 生 物 短 。flesh constructs的 灵 魂 会 逐 步 从 身 体 上 消 失 ，然 而 幻 影 的 能 量 与 信 仰 可 以 持 续 数 十 年 或 上 百 年 。通 灵 术 的 反 对 者 们 尤 其 认 为 这 是 一 种 不 应 存 在 的 灵 魂 ，他 们 指 出 flesh constructs是 一 种 憎 恶 。即 使 在 通 灵 师 间 ，flesh constructs也 引 起 了 很 大 的 争 议 。有 些 人 视 此 过 程 为 “soul lobotomy”,他 们 认 为 灵 魂 应 该 被 允 许 通 往 它 们 的 下 一 次 生 命 ，而 不 是 作 为 身 体 愚 蠢 的 能 量 。</DefaultText>      <FemaleText />    </Entry>    <Entry>      <ID>73</ID>      <DefaultText>人 们 知 道 ，古 尔 狡 猾 到 足 以 应 付 危 险 的 猎 人 和 敌 人 ，但 没 有 聪 明 到 解 决 自 己 的 衰 弱 问 题 。比 如  darguls，它 们 虽 然 倾 向 于 有 新 鲜 的 肉 的 墓 地 ，但 是 它 们 还 是 被 僻 静 的 环 境 吸 引 。死 去 的 契 思 的 肉 可 以 满 足 部 分 古 尔 的 饥 渴 ，但 是 仍 然 不 能 满 足 它 们 对 灵 魂 力 的 渴 望 。居 住 在 墓 地 里 可 能 会 加 速 古 尔 的 衰 退 ，因 为 这 降 低 了 去 寻 找 食 物 的 动 力 。</DefaultText>      <FemaleText />    </Entry>    <Entry>      <ID>74</ID>      <DefaultText>Revenants是 一 种 比 古 尔 更 聪 明 的 不 死 生 物 。Revenants保 留 了 本 能 的 饥 饿 感 ，但 是 它 们 没 有 足 以 满 足 饥 饿 感 的 智 慧 或 意 愿 。它 们 可 以 在 任 何 充 满 死 尸 的 地 方 被 找 到 </DefaultText>      <FemaleText />    </Entry>    <Entry>      <ID>75</ID>      <DefaultText>Skeletons不 再 需 要 肉 体 或 精 神 ，但 是 它 们 已 经 经 历 了 许 多 阶 段 的 衰 弱 。它 们 会 攻 击 出 现 在 眼 前 的 一 切 事 物 ，但 是 事 物 死 后 便 不 再 消 耗 能 量 去 对 付 它 们 。幻 影 的 精 神 力 是 一 种 非 常 基 础 的 精 神 力 ，就 像 骷 髅 们 失 去 了 它 们 的 意 愿 ，智 慧 ，和 人 格 。如 果 没 有 被 杀 ，骷 髅 可 能 会 变 成 骨 头 渣 ，或 精 神 力 终 将 蒸 发 。Skeletal savants是 战 士 ，巫 师 ，或 其 他 冒 险 者 变 成 的 。它 们 很 像 一 般 的 Skeletons，但 是 从 生 前 继 承 了 更 多 的 战 斗 技 能 。死 亡 守 卫 是 skeletons的 变 异 ，它 们 具 有 更 强 的 战 斗 力 和 智 慧 。当 范 姆 派 尔 希 望 自 己 不 再 衰 弱 ，便 可 以 经 历 一 个 这 样 危 险 、昂 贵 、痛 苦 的 过 程 ，使 自 己 从 血 肉 中 分 离 ，变 成 skeletons。在 这 种 情 况 下 ，它 们 寄 存 于 骨 头 上 ，肉 体 不 再 衰 弱 。由 于 新 创 造 的 死 亡 守 卫 不 会 再 衰 弱 ，所 以 它 们 可 以 “活 ”到 它 被 杀 死 。</DefaultText>      <FemaleText />    </Entry>    <Entry>      <ID>76</ID>      <DefaultText>自 从 怀 德 温 遗 症 开 始 肆 虐 ，许 多 绝 望 的 家 庭 向 通 灵 师 寻 求 帮 助 。自 从 几 乎 所 有 的 移 植 都 会 导 致 被 移 植 的 灵 魂 迅 速 觉 醒 ，将 迷 失 的 灵 魂 转 移 到 活 着 的 身 体 里 变 得 几 乎 不 可 能 （大 多 数 情 况 ）。这 些 灵 魂 会 回 复 生 前 的 记 忆 ，而 不 是 像 刚 出 生 的 小 孩 一 样 什 么 都 不 知 道 。通 灵 师 们 被 迫 迅 速 拿 出 解 决 方 案 ，但 是 同 时 也 被 警 告 不 要 太 鲁 莽 ：如 果 一 个 动 物 的 灵 魂 被 放 入 一 个 失 去 灵 魂 的 孩 童 身 体 里 ，这 个 孩 子 可 能 获 得 动 物 意 识 和 本 能 。有 人 建 议 ，由 于 动 物 的 灵 魂 没 有 契 思 的 灵 魂 那 样 高 的 独 立 人 格 和 记 忆 ，这 些 孩 童 过 了 一 段 时 间 可 能 会 有 自 己 的 新 灵 魂 ，并 且 压 过 这 些 较 弱 的 动 物 灵 魂  - 于 是 出 现 了 一 个 健 康 的 孩 童 。迪 伍 德 快 速 普 及 了 移 植 ，成 百 上 千 的 痛 苦 孩 童 经 历 了 这 个 过 程 。这 些 孩 童 似 乎 重 拾 了 意 识 和 意 志 ，并 一 度 认 为 他 们 已 经 被 治 愈 。但 是 随 着 年 龄 的 增 长 ，似 乎 他 们 并 不 像 其 它 的 孩 童 一 样 。他 们 不 了 解 会 关 系 社 会 的 规 范 ，而 且 常 常 做 出 奇 怪 的 事 。到 达 青 春 期 后 ，这 些 不 同 于 同 龄 人 的 变 化 开 始 完 全 地 显 现  - 这 些 孩 童 正 在 转 变 成 Wichts。第 一 个 例 子 是 一 个 奥 伦 少 女 ，她 长 出 了 野 兽 的 獠 牙 ，并 且 食 欲 像 野 兽 一 样 。虽 然 她 的 家 庭 试 图 隐 瞒 她 的 病 情 ，她 最 终 把 她 的 家 人 们 全 部 杀 死 在 了 睡 梦 中 ，然 后 逃 入 荒 野 。而 无 数 破 碎 的 家 庭 被 迫 见 证 了 他 们 的 孩 子 变 成 了 贪 婪 的 野 兽 。</DefaultText>      <FemaleText />    </Entry>    <Entry>      <ID>77</ID>      <DefaultText>Skuldrs是 一 种 居 住 在 黑 暗 洞 穴 里 的 哺 乳 动 物 。它 们 视 力 不 佳 ，依 靠 自 己 的 听 觉 来 寻 找 猎 物 。它 们 耳 朵 上 突 起 的 毛 发 使 它 们 可 以 感 受 到 气 流 的 运 动 ，这 对 于 在 地 下 辨 别 方 向 很 有 帮 助 。它 们 通 过 尖 叫 和 发 出 滴 答 的 声 音 沟 通 ，并 且 利 用 自 己 的 发 声 系 统 制 造 回 声 。它 们 是 社 区 动 物 ，会 自 己 筑 造 巢 穴 ，一 起 抚 养 下 一 代 。</DefaultText>      <FemaleText />    </Entry>    <Entry>      <ID>78</ID>      <DefaultText>蜥 蜴 人 是 一 种 与 羽 精 差 不 多 大 小 的 类 人 型 爬 行 生 物 。它 们 用 敌 人 的 骨 头 来 装 饰 自 己 ——大 多 数 骨 头 来 自 于 敌 对 的 部 落 。它 们 还 有 很 大 的 翅 膀 ，这 可 以 使 它 们 悬 挂 起 来 或 者 装 饰 自 己 。蜥 蜴 人 的 皮 肤 可 以 从 浅 绿 色 变 成 深 棕 色 。过 长 的 口 鼻 部 （这 使 得 它 们 不 能 说 话 ）和 极 高 的 侵 略 行 为 阻 碍 了 它 们 与 文 明 世 界 的 沟 通 。它 们 住 在 隐 蔽 的 部 落 里 。攻 击 任 何 意 图 愚 蠢 地 越 过 它 们 道 路 的 人 。蜥 蜴 人 崇 拜 龙 ，在 这 些 强 大 的 生 物 附 近 建 造 自 己 的 巢 。小 部 落 常 常 会 徘 徊 流 浪 很 久 直 到 它 们 找 到 了 一 条 飞 龙 或 龙 。一 旦 某 个 部 落 把 自 身 贡 献 给 龙 ，它 们 会 不 惜 一 切 代 价 保 护 龙 。通 过 仪 式 牺 牲 自 己 ，将 自 己 贡 献 给 龙 在 蜥 蜴 人 中 非 常 常 见 。随 着 龙 逐 渐 成 长 ，这 些 牺 牲 仪 式 需 要 耗 费 越 来 越 来 的 蜥 蜴 人 。蜥 蜴 人 部 落 的 威 望 和 权 力 和 龙 的 年 龄 有 直 接 关 系 。最 强 大 的 部 落 已 经 存 在 了 上 百 年 甚 至 上 千 年 。强 大 部 落 中 的 战 士 和 萨 满 会 在 自 己 身 上 涂 上 象 征 它 们 龙 神 的 颜 料 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>83</ID>			<DefaultText>命 中 率 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>84</ID>			<DefaultText>命 中 率 关 系 到 几 乎 每 次 攻 击 。它 影 响 这 次 攻 击 是 否 能 击 中 目 标 。命 中 率 主 要 取 决 于 角 色 的 职 业 和 等 级 ，但 也 受 到 天 赋 和 其 他 主 动 效 果 ，比 如 法 术 或 物 品 的 影 响 。当 攻 击 完 成 时 ，命 中 率 与 目 标 的 相 对 防 御 值 作 比 较 ，从 而 决 定 攻 击 判 定 如 何 修 改 。如 果 命 中 率 高 于 目 标 的 防 御 值 ，这 次 攻 击 很 可 能 命 中 或 重 击 ，擦 过 或 未 命 中 的 几 率 很 小 。任 何 不 使 用 武 器 作 为 攻 击 的 技 能 或 天 赋 根 据 角 色 的 等 级 获 得 少 量 命 中 率 加 成 。</DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>85</ID>
+      <DefaultText>偏 斜 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>偏 斜 是 用 来 抵 抗 非 范 围 攻 击 的 直 接 格 斗 攻 击 和 远 程 攻 击 的 防 御 手 段 。其 决 定 于 角 色 的 职 业 ，等 级 ，洞 察 力 和 决 心 ，但 同 时 也 受 盾 牌 ，特 定 武 器 ，智 力 和 其 他 来 自 咒 语 或 道 具 作 用 的 影 响 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>坚 韧 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>作 用 于 角 色 身 体 状 态 的 的 坚 韧 豁 免 攻 击 。（例 如 毒 素 ，疾 病 等 ）。这 取 决 于 角 色 的 职 业 ，等 级 ，威 力 ，体 质 ，但 也 受 其 他 因 素 的 影 响 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>反 射 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>反 射 豁 免 允 许 角 色 避 开 物 理 范 围 伤 害 （例 如 爆 炸 ，闪 电 箭 ）。这 取 决 于 角 色 的 职 业 ，等 级 ，灵 巧 和 感 知 ，但 也 受 其 他 因 素 的 影 响 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>意 志 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>意 志 豁 免 对 抗 基 于 精 神 的 攻 击 （例 如 精 神 上 麻 痹 目 标 的 法 术 ）。这 取 决 于 角 色 的 职 业 ，等 级 ，智 力 和 决 心 ，但 也 受 其 他 因 素 的 影 响 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>目 盲 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>目 标 命 中 -25，洞 察 -4，移 动 -2，反 射 和 偏 斜 -20。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>魅 惑 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>一 个 处 于 魅 惑 状 态 的 单 位 能 力 擦 过 后 将 代 表 敌 人 战 斗 。速 度 ，命 中 和 所 有 的 防 御 值 减 少 25点 。魅 惑 状 态 是 额 外 的 ，意 味 着 一 个 角 色 一 次 只 能 魅 惑 一 个 单 位 。一 个 新 的 魅 惑 单 位 将 会 驱 散 任 何 旧 单 位 的 效 果 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>困 惑 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>困 惑 使 目 标 行 动 反 常 。每 6秒 钟 ，目 标 随 机 检 测 其 中 一 项 ：是 否 正 常 行 动 ，是 否 攻 击 队 友 ，是 否 走 路 方 向 不 定 ，或 是 什 么 也 不 做 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>晕 眩 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>目 标 的 命 中 -10，灵 巧 、感 知 、智 力 -2，攻 击 速 度 降 低 15%。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>受 控 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>一 个 处 于 控 制 状 态 的 目 标 将 服 从 于 敌 人 的 意 志 并 将 听 从 其 受 控 使 用 任 何 方 法 与 之 前 的 队 友 战 斗 。覆 盖 魅 惑 状 态 。受 控 是 个 例 外 ，意 味 着 一 个 角 色 一 次 只 能 控 制 一 个 单 位 。一 个 新 的 受 控 单 位 将 会 驱 散 其 他 受 控 目 标 的 效 果 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>夹 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>偏 斜 -10。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>惊 慌 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>决 心 、灵 巧 -2，命 中 -10。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>蹒 跚 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>蹒 跚 的 目 标 灵 巧 -2，移 动 -1.5，反 射 -20。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>麻 痹 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>被 麻 痹 的 目 标 不 能 采 取 任 何 行 动 。灵 巧 变 为 0，反 射 、偏 斜 -40，覆 盖 震 慑 ，定 身 和 倒 地 状 态 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>石 化 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>被 石 化 的 人 物 会 暂 时 无 法 移 动 。石 化 的 效 果 和 麻 痹 一 样 ，但 是 受 到 攻 击 时 会 直 接 掉 生 命 值 而 不 是 耐 力 。覆 盖 麻 痹 ，震 慑 ，定 身 ，倒 地 效 果 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>倒 地 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>倒 地 的 目 标 无 法 行 动 。灵 巧 -2，反 射 、偏 斜 -10。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>恶 心 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>处 于 恶 心 状 态 的 目 标 所 有 数 值 -1，坚 韧 、意 志 -10。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>定 身 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>被 定 身 的 目 标 可 以 行 动 ，但 是 无 法 离 开 原 位 。灵 巧 -2，命 中 -5，反 射 和 偏 斜 -20。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>震 慑 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>被 震 慑 的 目 标 无 法 行 动 。灵 巧 ，感 知 ，智 力 -4，反 射 和 偏 斜 -30。覆 盖 定 身 、倒 地 效 果 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>恐 惧 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>被 恐 惧 的 目 标 决 心 和 灵 巧 -4，命 中 -20。覆 盖 惊 慌 效 果 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>虚 弱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>被 虚 弱 的 目 标 威 力 、体 质 -2，移 动 -1，坚 韧 、意 志 -20。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>胸 肋 受 创 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>胸 肋 受 创 的 人 物 降 低 体 质 和 坚 韧 豁 免 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>脑 震 荡 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>脑 震 荡 波 会 降 低 人 物 的 智 力 和 意 志 豁 免 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>关 节 扭 伤 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>关 节 扭 伤 会 降 低 人 物 的 偏 斜 和 命 中 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>眼 部 浮 肿 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>眼 部 浮 肿 的 人 物 命 中 和 感 知 会 降 低 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>脚 踝 扭 伤 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>脚 踝 扭 伤 会 降 低 人 物 的 反 射 豁 免 和 灵 巧 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>膝 盖 扭 伤 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>膝 盖 扭 伤 的 人 物 移 动 速 度 和 灵 巧 会 降 低 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>肩 部 扭 伤 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>肩 部 扭 伤 会 降 低 行 动 速 度 和 威 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>重 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>重 击 的 攻 击 判 定 值 在 100点 以 上 。重 击 在 总 伤 害 量 的 基 础 上 增 加 50%伤 害 。重 击 所 造 成 的 效 果 将 持 续 一 段 时 间 。（如 恶 心 或 麻 痹 状 态 ）</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>擦 过 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>擦 过 是 在 16到 50之 间 的 攻 击 。擦 过 时 相 比 技 能 在 正 常 情 况 下 产 生 的 伤 害 和 效 果 持 续 时 间 ，会 降 低 50%。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>击 中 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>击 中 是 掷 骰 数 在 51到 100之 间 的 攻 击 。击 中 会 造 成 正 常 伤 害 值 和 效 果 持 续 时 间 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>防 御 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>永 恒 支 柱 中 有 四 种 防 御 形 态 ：偏 斜 ，坚 韧 豁 免 ，反 射 豁 免 和 意 志 豁 免 。每 一 种 防 御 形 态 都 通 过 骰 点 对 抗 不 同 的 攻 击 形 式 。偏 斜 对 抗 大 多 数 直 接 的 武 器 或 者 类 似 武 器 的 攻 击 。坚 韧 豁 免 对 应 对 身 体 的 攻 击 或 者 其 他 对 身 体 的 损 害 （例 如 毒 药 ）。反 射 豁 免 对 应 物 理 性 范 围 攻 击 ，例 如 火 球 术 和 闪 电 箭 。意 志 豁 免 对 应 大 部 分 精 神 攻 击 。
+坚 韧 豁 免 ，反 射 豁 免 ，意 志 豁 免 的 强 弱 都 由 不 同 的 数 值 决 定 。威 力 和 体 质 决 定 坚 韧 豁 免 。灵 巧 和 感 知 决 定 反 射 豁 免 。智 力 和 决 心 决 定 意 志 豁 免 。感 知 和 决 心 决 定 人 物 的 基 础 偏 斜 。人 物 升 级 会 提 升 防 御 力 。此 外 ，招 数 ，技 能 ，状 态 ，物 品 都 会 改 变 防 御 力 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>折 磨 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>状 态 可 以 被 施 加 到 人 物 身 上 ，或 者 从 人 物 身 上 暂 时 或 完 全 移 除 。有 些 状 态 无 法 和 其 他 状 态 共 存 ，但 是 大 部 分 状 态 都 可 以 共 存 。
+
+招 数 会 附 带 各 种 状 态 和 效 果 。如 果 目 标 已 经 中 了 一 个 一 模 一 样 的 招 数 （比 如 已 经 被 祝 福 的 人 物 又 被 祝 福 了 一 次 ），那 么 新 招 数 会 取 代 旧 招 数 。
+
+无 论 目 标 中 了 多 少 招 ，基 本 上 只 有 效 果 最 大 的 增 益 和 减 幅 会 生 效 。
+
+有 些 生 物 会 对 有 些 状 态 免 疫 。这 些 状 态 无 法 被 施 加 给 这 些 生 物 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>被 动 天 赋 /技 能 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>被 动 天 赋 /技 能 自 动 生 效 使 角 色 受 益 。例 如 ，拥 有 灵 蛇 反 射 的 
+人 物 反 射 豁 免 会 自 动 提 升 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>激 活 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>人 物 必 须 主 动 激 活 主 动 天 赋 或 主 动 技 能 。例 如 ，人 物 必 须 从 行 动 栏 选 择 击 倒 技 能 ，然 后 选 择 一 个 目 标 ，才 能 使 用 击 倒 技 能 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>攻 击 解 析 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>永 恒 支 柱 的 攻 击 系 统 会 计 算 攻 击 者 的 命 中 和 对 应 防 御 力 的 差 ：偏 斜 （近 战 和 远 程 攻 击 ），坚 韧 豁 免 （对 身 体 的 伤 害 ，例 如 毒 药 和 疾 病 ），反 射 豁 免 （范 围 效 果 攻 击 ），还 有 意 志 豁 免 （精 神 攻 击 ）。
+
+命 中 和 防 御 力 的 差 ，再 加 上 一 个 1到 100的 随 机 数 决 定 了 攻 击 效 果 。小 于 等 于 15是 未 命 中 ，16到 50是 擦 过 ，51到 100是 击 中 ，大 于 100是 重 击 。
+
+如 果 攻 防 两 方 实 力 相 近 ，那 么 大 部 分 的 攻 击 都 将 是 击 中 和 擦 过 。攻 击 者 的 命 中 越 高 就 越 有 可 能 打 出 重 击 。防 御 者 的 防 御 越 高 就 越 有 可 能 造 成 未 命 中 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>未 命 中 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>未 命 中 是 掷 骰 小 于 等 于 15的 攻 击 。未 命 中 不 会 造 成 任 何 伤 害 和 状 态 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>伤 害 减 免 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>受 到 时 ，主 要 的 降 低 伤 害 的 方 法 是 ：伤 害 减 免 。伤 害 减 免 值 通 常 由 护 甲 值 决 定 ，但 是 很 多 生 物 都 天 生 带 有 伤 害 减 免 ，或 者 可 以 通 过 魔 法 ，技 能 ，天 赋 ，装 备 来 提 高 伤 害 减 免 。
+
+伤 害 值 =攻 击 值 -伤 害 减 免 。比 如 ，攻 击 值 是 20，伤 害 减 免 是 7，受 到 的 伤 害 就 是 13。
+
+伤 害 值 只 能 降 到 初 始 攻 击 值 的 20%。如 果 你 仅 受 到 了 20%的 攻 击 ，你 会 在 战 斗 日 志 里 看 到 写 有 最 小 值 的 信 息 。
+
+请 注 意 ，不 同 的 护 甲 ，生 物 ，对 于 不 同 的 攻 击 类 型 ，都 会 有 不 同 的 伤 害 减 免 值 。对 某 种 攻 击 较 低 的 伤 害 减 免 值 会 让 你 在 面 对 这 种 攻 击 时 很 脆 弱 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>专 注 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>专 注 使 你 承 受 伤 害 时 免 于 遭 受 打 击 惩 罚 。如 果 无 法 保 持 专 注 ，你 的 攻 击 、装 填 、施 法 将 被 打 断 ，短 时 间 内 无 法 动 弹 。专 注 由 属 性 决 心 来 决 定 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>耐 力 值 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>耐 力 值 是 人 物 生 命 的 短 期 表 现 。人 物 受 到 的 伤 害 ，减 去 伤 害 减 免 后 ，直 接 降 低 耐 力 值 与 生 命 值 。药 剂 和 治 疗 魔 法 （如 圣 武 士 ，牧 师 ，德 鲁 伊 ）可 以 在 战 斗 中 恢 复 耐 力 值 。当 人 物 的 耐 力 值 降 低 到 0，他 （她 ）将 被 淘 汰 。但 人 物 在 战 斗 中 被 淘 汰 后 ，仍 可 以 通 过 复 活 的 技 能 复 活 。此 外 ，战 斗 结 束 并 胜 利 后 ，人 物 将 会 恢 复 他 们 的 耐 力 值 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>生 命 值 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>受 损 的 生 命 值 仅 通 过 休 息 和 特 定 的 技 能 恢 复 。人 物 受 到 的 伤 害 ，减 去 伤 害 减 免 后 ，直 接 降 低 耐 力 值 与 生 命 值 。人 物 的 生 命 值 一 旦 为 0，将 会 残 废 ，或 者 直 接 死 亡 （根 据 游 戏 的 设 置 判 定 ）。而 一 个 已 残 废 的 人 物 被 杀 ，不 管 设 置 如 何 ，将 会 永 久 死 亡 。与 耐 力 不 同 的 是 ，战 斗 结 束 后 生 命 值 是 不 会 恢 复 的 。但 是 ，耐 力 值 仅 仅 是 生 命 值 的 一 小 部 分 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>残 废 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>人 物 生 命 值 降 到 0就 会 进 入 残 废 状 态 ，战 斗 结 束 后 人 物 会 恢 复 1点 生 命 值 ，但 是 所 有 防 御 和 命 中 会 大 幅 下 降 。如 果 生 命 值 再 次 下 降 到 0，人 物 就 会 被 杀 死 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>受 伤 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>受 伤 是 长 期 状 态 。“长 期 ”表 示 状 态 会 持 续 到 下 次 休 息 为 止 。受 伤 状 态 通 常 来 自 剧 情 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>侦 查 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>侦 查 姿 态 有 两 个 作 用 ：潜 行 和 搜 索 。潜 行 会 给 你 战 术 上 的 优 势 ，或 者 让 你 避 开 难 缠 的 敌 人 。搜 索 能 发 现 陷 阱 和 隐 藏 物 品 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>储 藏 箱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>储 藏 箱 可 以 储 存 多 出 的 或 者 体 积 过 大 的 物 品 。储 藏 箱 还 可 以 存 放 制 作 材 料 和 任 务 物 品 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>打 断 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>打 断 表 示 一 次 进 攻 对 敌 人 当 前 或 下 次 行 动 造 成 延 迟 的 几 率 。
+
+掷 骰 时 使 用 攻 击 者 的 打 断 值 （由 感 知 决 定 ），与 目 标 的 集 中 值 （由 决 心 决 定 ）进 行 比 较 。掷 骰 范 围 1-100点 （包 括 打 断 值 ），如 果 比 集 中 值 高 ，目 标 判 定 为 被 击 中 ，其 当 前 行 动 受 到 延 迟 。
+
+延 迟 时 间 由 武 器 或 者 攻 击 列 出 的 打 断 强 度 决 定 。对 已 被 打 断 的 角 色 进 行 打 断 ，不 会 影 响 其 延 长 时 间 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>战 斗 间 限 制 次 数 技 能 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>在 一 次 战 斗 中 只 能 使 用 有 限 次 战 斗 间 限 制 次 数 技 能 。比 如 ，如 果 一 个 技 能 仅 限 使 用 3次 ，那 么 一 次 战 斗 中 就 只 能 使 用 3次 。在 下 一 次 战 斗 中 又 可 以 使 用 3次 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>休 息 间 限 制 次 数 技 能 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>在 两 次 休 息 间 ，只 能 使 用 有 限 次 休 息 间 限 制 次 数 技 能 。比 如 ，一 个 技 能 仅 能 使 用 3次 ，那 么 两 次 休 息 间 就 只 能 使 用 3次 。休 息 之 后 又 可 以 使 用 3次 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>姿 态 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>状 态 技 能 启 用 时 持 续 产 生 效 果 。例 如 圣 武 士 的 热 忱 光 环 在 激 活 时 就 会 给 附 近 的 所 有 人 提 供 增 益 。通 常 在 同 一 时 间 ，一 大 类 的 状 态 技 能 只 有 一 个 能 被 激 活 。通 过 技 能 栏 的 技 能 分 部 就 能 看 出 相 应 的 类 别 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>死 亡 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>在 某 些 难 度 下 ，如 果 生 命 值 降 到 0，人 物 就 会 进 入 残 废 状 态 ，或 者 直 接 被 杀 死 。死 亡 的 人 物 就 会 立 即 被 杀 死 ，且 无 法 复 活 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>毒 药 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>毒 药 效 果 有 很 多 种 ，通 常 来 自 某 些 生 物 的 攻 击 或 者 某 些 招 数 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>疾 病 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>疾 病 效 果 有 很 多 种 ，通 常 来 自 某 些 招 数 或 者 某 些 生 物 的 攻 击 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>恢 复 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>人 物 行 动 间 隔 的 时 间 就 是 恢 复 期 。行 动 的 时 间 越 长 ，恢 复 期 就 越 长 。护 甲 会 极 大 影 响 恢 复 期 。通 常 护 甲 越 重 ，恢 复 期 就 越 长 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>要 塞 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>要 塞 是 储 藏 、休 息 、组 织 、投 资 和 小 队 管 理 的 基 地 ，升 级 要 塞 就 可 使 用 更 多 功 能 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>二 级 防 御 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>二 级 防 御 应 对 二 级 攻 击 ，例 如 匕 首 上 的 毒 药 。这 里 ，一 级 攻 击 （匕 首 ）对 应 一 种 防 御 方 法 （偏 斜 ），只 有 一 级 攻 击 奏 效 ，二 级 攻 击 才 会 奏 效 。一 级 攻 击 生 效 后 ，二 级 防 御 （这 个 例 子 里 是 坚 韧 豁 免 ）会 决 定 毒 药 的 效 果 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>伤 害 类 型 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>永 恒 支 柱 里 有 八 中 伤 害 类 型 ：挥 砍 ，穿 刺 ，钝 击 ，灼 烧 ，电 击 ，腐 蚀 ，冰 冻 以 及 真 实 伤 害 。不 同 的 伤 害 减 免 对 应 不 同 的 伤 害 类 型 。一 种 生 物 或 者 护 甲 可 能 对 某 一 种 伤 害 类 型 有 极 高 的 抗 性 ，但 是 在 另 一 种 伤 害 面 前 却 非 常 脆 弱 。
+一 些 武 器 和 攻 击 能 造 成 或 者 可 以 选 择 造 成 多 种 伤 害 类 型 。如 果 可 以 选 择 ，那 么 系 统 会 自 动 选 择 能 造 成 最 大 伤 害 值 的 伤 害 类 型 。
+真 实 伤 害 是 唯 一 一 种 可 以 忽 略 伤 害 减 免 的 伤 害 ，通 常 由 毒 药 或 者 其 他 类 似 的 效 果 来 产 生 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>打 断 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+ 			<ID>196</ID>			<DefaultText>羚 羊 常 见 于 伊 斯 特 里 奇 。虽 然 殖 民 活 动 和 由 此 导 致 的 狩 猎 导 致 他 们 的 数 量 在 下 降 ，他 们 在 迪 伍 德 的 浅 草 区 依 然 很 活 跃 。羚 羊 生 性 温 和 ，但 是 某 些 和 凶 猛 动 物 为 伍 的 独 行 的 羚 羊 可 能 会 比 较 好 斗 。</DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>197</ID>			<DefaultText>迪 伍 德 熊 的 数 量 比 较 稳 定 ，不 过 他 们 大 多 数 都 生 活 在 远 离 人 类 聚 居 的 区 域 。贵 族 们 有 时 候 会 狩 猎 熊 来 作 为 休 闲 活 动 ，但 大 多 数 格 兰 法 斯 的 旧 时 代 的 殖 民 者 一 般 不 会 这 么 做 。伊 斯 特 里 奇 的 森 林 里 有 各 种 猎 物 ，捕 猎 他 们 远 远 比 对 付 一 只 愤 怒 的 熊 容 易 。</DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>198</ID>			<DefaultText>在 殖 民 者 的 聚 居 区 ，野 猪 被 看 做 是 一 种 讨 厌 的 和 危 险 的 动 物 。野 猪 极 具 进 攻 性 又 无 所 畏 惧 ，他 们 杀 死 了 许 多 成 年 人 ，11个 小 孩 ，和 一 些 成 年 的 羽 精 。成 群 的 野 猪 绝 对 是 旅 行 者 和 探 险 家 的 威 胁 。他 们 极 难 被 制 伏 ，但 是 对 商 人 和 附 魔 师 来 说 ，他 们 的 獠 牙 是 极 具 价 值 的 。</DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>199</ID>      <DefaultText>相 当 低 的 几 率 ，极 个 别 怀 有 特 别 重 的 怨 念 ，死 后 仍 不 愿 离 开 人 世 的 个 体 会 孕 育 出 死 亡 守 卫 。圣 武 士 是 最 容 易 发 生 这 可 怕 变 异 的 群 体 ，另 外 祭 司 和 其 他 一 些 极 其 例 外 的 狂 热 者 通 常 也 都 会 遭 受 相 同 的 命 运 。死 亡 守 卫 占 据 他 们 生 前 的 身 体 ，但 让 灵 魂 滞 留 在 现 世 所 需 的 巨 大 能 量 迅 速 的 消 耗 着 肉 身 ，最 终 只 剩 下 白 骨 。死 亡 守 卫 总 是 处 于 狂 暴 状 态 。他 们 惧 怕 被 围 观 ，将 恐 惧 发 泄 到 任 何 站 在 他 们 面 前 的 人 身 上 。他 们 与 那 个 世 界 的 联 系 让 他 们 能 够 召 唤 发 射 出 巨 大 的 火 焰 球 ，召 唤 影 子 ，甚 至 一 声 令 下 就 开 始 屠 杀 生 灵 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>200</ID>			<DefaultText>切 下 ——伤 害 减 免 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>201</ID>
+      <DefaultText>CUT - 受 到 攻 击 时 ，伤 害 值 要 先 减 去 伤 害 阈 值 ，再 减 去 伤 害 减 免 。
+伤 害 减 免 是 以 百 分 比 的 形 式 消 去 伤 害 值 的 ，所 以 在 面 对 大 额 伤 害 时 非 常 有 用 。和 伤 害 阈 值 一 样 ，伤 害 减 免 最 多 只 能 消 去 原 始 攻 击 值 的 20%。当 消 去 20%时 ，战 斗 日 志 会 显 示 写 有 最 小 值 的 信 息 。
+请 注 意 ，不 同 的 护 甲 ，生 物 ，对 于 不 同 的 攻 击 类 型 ，都 会 有 不 同 的 伤 害 减 免 值 和 伤 害 阈 值 。对 某 种 攻 击 较 低 的 伤 害 减 免 值 会 让 你 在 面 对 这 种 攻 击 时 很 脆 弱 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+		<ID>202</ID>
+      <DefaultText>交 战 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>当 敌 我 进 入 对 方 的 交 战 范 围 ，且 都 用 近 战 武 器 而 且 停 止 了 移 动 ，那 么 两 人 就 构 成 交 战 。
+交 战 的 任 何 一 方 移 出 交 战 范 围 ，他 将 自 动 承 受 你 一 次 借 机 攻 击 （除 非 使 用 技 能 解 除 交 战 ）。麻 痹 、石 化 、倒 地 、震 慑 状 态 会 自 动 接 触 交 战 状 态 。交 战 数 量 有 上 限 ，受 到 技 能 、天 赋 加 成 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>夹 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>两 名 角 色 分 别 从 敌 人 的 两 侧 发 动 交 战 便 能 触 发 夹 击 。在 这 种 情 况 下 ，防 守 方 受 到 夹 击 ，会 造 成 各 式 惩 罚 效 果 并 且 还 可 能 受 到 偷 袭 。发 动 夹 击 的 任 何 一 方 陷 入 任 何 影 响 交 战 的 状 态 时 ，防 御 方 的 所 受 到 的 夹 击 效 果 就 会 解 除 。
+
+也 有 极 少 数 能 力 可 以 给 普 通 的 夹 击 附 上 附 加 规 则 ，譬 如 野 蛮 人 的 孑 然 一 身 ，游 侠 的 追 猎 者 之 链 ，密 韵 者 的 魅 影 之 敌 等 技 能 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>叠 加 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>叠 加 规 则 控 制 奖 励 和 惩 罚 的 叠 加 方 法 。简 单 举 例 ，本 游 戏 内 包 含 四 种 不 同 种 类 的 奖 励 内 容 ：被 动 ，武 器 ，主 动 /姿 态 和 装 备 品 。
+
+所 有 奖 励 和 惩 罚 都 来 源 于 被 动 和 武 器 叠 加 。
+主 动 和 姿 态 奖 励 （例 如 有 技 能 或 消 耗 品 ）在 进 行 计 算 时 使 用 最 高 加 成 和 最 多 惩 罚 。例 如 ，巫 师 施 法 获 得 +3的 格 挡 ，从 圣 武 士 光 环 获 得 +5，主 动 /姿 态 的 奖 励 为 +5，其 中 的 +3暂 不 生 效 。要 是 巫 师 刚 才 的 法 术 也 能 获 得 威 力 加 成 ，威 力 加 成 会 奏 效 ，除 非 有 另 一 个 同 样 来 源 于 主 动 /姿 态 的 更 高 威 力 奖 励 胜 过 它 。
+
+装 备 同 样 是 使 用 最 高 加 成 和 最 多 惩 罚 机 制 。其 中 包 括 除 武 器 外 所 有 直 接 装 备 在 角 色 身 上 的 装 备 。装 备 与 主 动 /姿 态 是 不 同 的 类 别 ，所 以 各 个 类 别 的 最 高 奖 励 和 最 多 惩 罚 将 被 累 加 起 来 。
+
+状 态 （例 如 晕 眩 ，倒 地 ）通 常 为 动 态 效 果 。如 果 角 色 在 已 经 受 到 状 态 的 情 况 下 又 再 受 到 新 的 状 态 ，若 新 施 加 的 状 态 持 续 效 果 比 之 前 长 的 话 将 替 代 之 前 的 效 果 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>疲 劳 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>疲 劳 代 表 角 色 身 体 和 心 理 的 耐 久 值 和 角 色 使 用 技 能 时 所 消 耗 的 值 。随 着 角 色 的 旅 途 ，探 索 尤 其 是 在 战 斗 时 疲 劳 会 不 断 增 加 。一 些 设 定 好 的 场 景 互 动 也 会 导 致 疲 劳 。体 能 相 关 的 技 能 可 以 减 缓 所 有 类 型 的 疲 劳 。
+
+疲 劳 有 不 同 的 阶 段 ，一 开 始 受 到 的 惩 罚 很 微 弱 ，随 着 时 间 不 断 变 强 。
+
+休 息 是 消 除 疲 劳 最 简 单 直 白 的 方 法 ，一 些 消 耗 品 也 能 够 缓 解 角 色 的 疲 劳 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>宿 营 补 给 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>在 野 外 和 迷 宫 内 休 息 必 须 携 带 野 营 用 品 。相 关 道 具 显 示 为 制 作 帐 篷 所 必 须 的 道 具 ，准 备 食 物 ，绷 带 和 其 他 休 息 和 恢 复 品 。许 多 商 店 都 有 出 售 野 营 用 品 ，该 用 品 也 可 以 在 一 些 容 器 或 者 敌 人 身 上 获 得 。不 同 游 戏 的 难 度 限 制 了 一 次 性 可 携 带 的 物 品 上 限 。简 单 难 度 下 则 可 以 携 带 相 当 大 量 的 物 品 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>工 具 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>在 横 跨 东 部 地 区 的 旅 途 中 你 将 可 以 找 到 各 色 的 简 易 ，专 门 工 具 。如 prybars和 钩 爪 之 类 的 道 具 在 固 定 的 互 动 场 景 派 上 用 场 。这 些 道 具 不 需 要 装 备 ，在 使 用 后 会 自 动 的 从 物 品 栏 移 除 。
+
+开 锁 器 是 一 种 专 门 用 来 撬 锁 的 工 具 。如 果 角 色 的 技 术 够 高 ，开 锁 时 就 不 需 要 开 锁 器 呢 。话 说 ，碰 上 比 较 难 开 的 锁 ，你 也 许 得 花 费 不 少 开 锁 器 才 能 打 开 。和 其 他 工 具 相 比 ，开 锁 器 不 需 要 存 放 在 角 色 的 道 具 栏 中 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>双 武 器 攻 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>很 多 技 能 都 会 说 明 它 是 要 用 所 有 武 器 攻 击 还 是 主 武 器 攻 击 。用 这 样 的 技 能 时 ，人 物 会 使 用 当 前 所 有 装 备 的 武 器 （所 有 武 器 攻 击 ）或 者 是 使 用 主 武 器 （主 武 器 攻 击 ）。
+这 表 示 武 器 的 所 有 数 值 ，包 括 伤 害 值 和 效 果 仍 然 都 有 效 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>主 武 器 攻 击 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>		<ID>217</ID>			<DefaultText>艾 比 顿 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			 <ID>218</ID>      <DefaultText>掌 管 石 头 ，机 械 ，工 业 ，威 力 ，希 望 和 抱 负 之 神 。眷 顾 着 劳 动 阶 级 的 大 众 。据 说 “The Golem”和 其 他 诸 神 一 样 ，曾 经 以 人 形 显 世 ，但 后 来 被 杀 害 了 ，他 不 得 不 将 自 己 的 存 在 封 入 一 颗 巨 大 的 石 头 中 。关 于 他 的 死 有 许 多 种 说 法 ，但 都 没 有 确 凿 的 可 信 度 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>219</ID>			<DefaultText>贝 拉 斯 </DefaultText>			<FemaleText/>		</Entry>		<Entry>		 <ID>220</ID>      <DefaultText>掌 管 死 亡 ，循 环 ，门 廊 ，死 亡 率 和 必 然 性 的 神 ，掌 控 生 死 循 环 ，据 说 贝 拉 瑟 审 判 那 些 活 的 超 过 他 们 本 身 限 度 的 人 。根 据 传 说 ，贝 拉 斯 常 以 苍 白 骑 士 和 引 路 人 的 形 象 示 人 ，两 个 枯 骨 人 向 这 些 死 后 人 引 路 通 过 挑 战 和 陷 阱 之 路 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>221</ID>			<DefaultText>伊 欧 萨 斯 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>222</ID>      <DefaultText>掌 管 复 兴 ，救 赎 ，黎 明 ，春 天 和 光 明 的 神 。传 统 以 手 捧 蜡 烛 头 戴 银 质 皇 冠 的 形 象 为 主 。人 们 相 信 他 在 圣 者 之 战 中 穿 过 了 雷 德 塞 拉 斯 农 民 怀 德 温 的 身 体 ，在 战 争 的 结 尾 和 怀 德 温 的 身 体 一 起 被 破 坏 了 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>223</ID>			<DefaultText>加 拉 维 恩 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>224</ID>      <DefaultText>掌 管 狩 猎 ，暗 杀 ，追 逐 ，荒 凉 和 掠 夺 的 神 。传 说 有 时 他 化 作 穿 兽 皮 的 猎 人 ，有 时 又 变 为 一 只 巨 大 的 猎 犬 。格 拉 文 钟 爱 强 者 中 的 生 存 者 和 被 淘 汰 残 留 的 弱 者 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>225</ID>			<DefaultText>海 莉 亚 </DefaultText>			<FemaleText/>		</Entry>		<Entry>		<ID>226</ID>      <DefaultText>掌 管 天 空 ，母 性 ，创 意 ，鸟 类 ，歌 曲 ，发 明 ，语 言 和 艺 术 的 女 神 。并 没 有 人 见 过 她 的 人 形 ，据 传 她 总 是 以 各 种 鸟 的 形 态 出 现 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>227</ID>			<DefaultText>玛 格 岚 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			 <ID>228</ID>      <DefaultText>掌 管 战 争 ，火 焰 ，变 形 ，净 化 ，消 耗 和 试 炼 的 女 神 。迪 伍 德 的 守 护 女 神 。传 说 毁 灭 了 怀 德 温 ，也 许 还 有 伊 奥 萨 斯 的 神 锤 炸 弹 曾 受 过 她 的 神 佑 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>229</ID>			<DefaultText>昂 德 拉 </DefaultText>			<FemaleText/>		</Entry>		<Entry>		 <ID>230</ID>      <DefaultText>掌 管 海 洋 ，忘 却 之 物 ，失 去 ，残 酷 和 哀 痛 的 女 神 。传 说 她 一 度 爱 上 月 球 ，并 试 图 将 月 球 牵 引 到 身 边 ，造 成 了 灾 难 性 的 后 果 。人 们 带 上 象 征 想 要 忘 却 之 物 的 东 西 去 到 她 的 庙 宇 ，然 后 她 的 教 士 看 着 那 些 象 征 物 被 投 入 大 海 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>231</ID>			<DefaultText>里 姆 甘 德 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			 <ID>232</ID>      <DefaultText>掌 管 热 ，冷 ，寒 冬 ，噩 运 ，农 业 和 自 然 灾 害 的 神 。其 身 姿 宛 如 在 暴 风 雪 中 奔 跑 的 巨 大 白 色 野 牛 ，随 着 莱 姆 兰 沉 重 的 脚 步 而 来 的 是 死 亡 和 崩 坏 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>233</ID>			<DefaultText>斯 卡 恩 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			 <ID>234</ID>      <DefaultText>掌 管 反 抗 ，暴 力 叛 乱 ，憎 恨 ，阴 谋 怨 念 和 嫉 妒 的 神 。常 被 描 绘 成 一 只 丑 陋 ，浑 身 伤 的 奴 隶 形 象 ，是 征 服 者 和 穷 人 们 崇 拜 的 对 象 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>235</ID>			<DefaultText>瓦 尔 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			 <ID>236</ID>      <DefaultText>掌 管 秘 密 ，启 示 ，幻 象 ，密 码 ，困 惑 ，知 性 ，梦 境 和 视 觉 的 神 。卫 奥 本 身 ，就 是 一 个 谜 团 ，没 有 固 定 的 形 态 或 性 别 。他 的 崇 拜 者 沉 迷 于 创 造 谜 题 和 解 谜 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>237</ID>			<DefaultText>沃 迪 卡 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			 <ID>238</ID>      <DefaultText>掌 管 正 义 ，法 ，誓 言 ，承 诺 ，统 治 权 ，复 仇 ，记 忆 和 阶 层 的 女 神 。人 们 描 述 她 为 一 个 老 年 贵 妇 人 的 形 象 ，头 上 戴 着 一 只 破 损 的 皇 冠 。据 说 她 一 度 统 治 了 诸 神 的 世 界 ，但 后 来 被 打 倒 了 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>239</ID>			<DefaultText>鹿 丛 帝 国 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			 <ID>240</ID>      <DefaultText>400年 前 人 类 王 国 和 精 灵 王 国 合 并 后 形 成 的 国 度 ，由 fercönyng（“第 一 任 王 ”）和 mecwyn（“显 赫 的 王 后 ”）所 统 治 。迪 伍 德 和 雷 德 塞 拉 斯 的 起 源 都 是 鹿 丛 帝 国 的 殖 民 地 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>241</ID>			<DefaultText>迪 伍 德 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>242</ID>      <DefaultText>由 鹿 丛 帝 国 的 殖 民 者 创 立 的 殖 民 国 家 。与 鹿 丛 帝 国 有 着 理 不 清 的 纠 纷 ，其 领 土 在 AI2672年 宣 布 独 立 ，现 在 由 一 位 伯 爵 统 治 ，被 七 位 伯 爵 选 中 成 为 监 察 官 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>243</ID>			<DefaultText>格 兰 法 斯 国 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			<ID>244</ID>      <DefaultText>包 含 有 Bael River东 南 部 森 林 的 领 土 ，人 口 构 成 由 当 地 几 个 分 散 的 部 落 共 同 生 活 居 住 ，被 称 作 格 兰 方 瑟 ，有 六 个 最 强 大 的 部 落 组 成 委 员 会 负 责 国 家 的 管 理 。艾 尔 •格 兰 方 瑟 是 一 大 批 英 格 维 斯 毁 灭 后 的 遗 址 ，格 兰 方 瑟 一 直 守 护 者 这 些 遗 址 。这 些 遗 迹 已 经 成 为 了 与 迪 伍 德 多 次 冲 突 的 核 心 ，迪 伍 德 的 的 殖 民 者 频 繁 的 侵 扰 格 兰 方 瑟 的 边 境 并 试 图 掠 夺 遗 迹 的 遗 物 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>245</ID>			<DefaultText>因 格 维 斯 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			 <ID>246</ID>      <DefaultText>一 个 于 两 千 年 前 灭 亡 了 的 文 明 。他 们 的 城 市 中 心 据 说 是 现 在 的 艾 尔 •格 兰 方 瑟 和 迪 佛 德 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>247</ID>			<DefaultText>里 德 赛 拉 斯 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			 <ID>248</ID>      <DefaultText>迪 伍 德 北 方 的 邻 国 。雷 德 塞 拉 斯 这 个 民 族 是 坚 定 的 伊 奥 萨 斯 信 仰 者 ——在 圣 者 之 战 中 燃 起 相 当 高 的 激 情 ，即 使 在 伊 奥 萨 斯 死 后 也 丝 毫 没 有 减 弱 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>249</ID>			<DefaultText>维 拉 共 和 国 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			 <ID>250</ID>      <DefaultText>拥 有 强 大 的 商 业 力 ，曾 是 一 个 巨 大 ，古 老 国 家 •古 瓦 里 安 的 殖 民 地 。共 和 国 位 于 迪 伍 德 和 艾 尔 •格 兰 方 瑟 的 的 南 部 ，由 被 “consuagli asegia”一 个 由 14人 的 伯 爵 所 组 成 的 集 团 选 举 的 伯 爵 所 统 治 ，包 括 其 最 突 出 的 ，“公 爵 集 团 。”</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>251</ID>			<DefaultText>绿 萤 </DefaultText>			<FemaleText/>		</Entry>		<Entry>		 <ID>252</ID>      <DefaultText>一 个 似 壳 状 的 有 机 物 质 ，工 匠 们 所 追 求 的 稀 有 材 料 ，因 其 简 单 可 塑 的 特 性 ，工 匠 们 所 追 求 的 稀 有 材 料 。通 灵 师 则 因 为 其 吸 引 ，保 持 以 及 引 导 灵 魂 的 特 性 而 收 集 它 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>253</ID>			<DefaultText>灵 魂 研 究 </DefaultText>			<FemaleText/>		</Entry>		<Entry>		 <ID>254</ID>      <DefaultText>灵 魂 操 作 科 学 。存 有 争 议 又 比 较 新 兴 的 领 域 。在 如 鹿 丛 等 国 家 被 全 面 禁 止 ，但 在 迪 伍 德 和 瓦 里 安 共 和 国 则 是 合 法 的 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>255</ID>			<DefaultText>Awakened Soul</DefaultText>			<FemaleText/>		</Entry>		<Entry>		 <ID>256</ID>      <DefaultText>通 常 ，人 是 不 会 有 意 识 的 记 得 前 世 的 事 。拥 有 觉 醒 的 灵 魂 的 人 ，则 拥 有 前 世 的 记 忆 或 者 有 完 整 的 前 世 的 人 格 存 在 。与 普 通 的 记 忆 一 同 ，常 常 因 为 在 现 世 看 到 的 一 些 东 西 唤 醒 了 过 去 的 记 忆 而 觉 醒 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>257</ID>			<DefaultText>Berath&apos;s Wheel</DefaultText>			<FemaleText/>		</Entry>		<Entry>			 <ID>258</ID>      <DefaultText>也 被 称 作 “生 死 之 轮 ”或 是 单 纯 的 “轮 ”，贝 拉 瑟 之 轮 是 一 个 用 来 描 述 死 者 灵 魂 的 集 合 离 开 他 们 肉 身 时 的 隐 喻 概 念 ，通 过 阿 德 拉 之 柱 离 开 人 世 ，之 后 又 重 生 在 新 的 身 体 中 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>259</ID>			<DefaultText>噬 魂 风 暴 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			 <ID>260</ID>      <DefaultText>发 生 在 艾 尔 •格 兰 方 瑟 附 近 的 风 暴 。被 卷 入 风 暴 的 人 ，他 的 灵 魂 将 会 被 打 碎 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>261</ID>			<DefaultText>精 华 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			 <ID>262</ID>      <DefaultText>灵 魂 由 元 气 构 成 。作 为 一 种 资 源 ，这 种 灵 体 物 质 在 通 灵 师 看 来 极 具 价 值 ，他 们 的 实 验 经 常 要 用 到 元 气 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>263</ID>			<DefaultText>无 魂 儿 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			 <ID>264</ID>      <DefaultText>没 有 灵 魂 的 新 生 儿 。</DefaultText>      <FemaleText />    </Entry>    <Entry>      <ID>265</ID>      <DefaultText>失 落 者 </DefaultText>      <FemaleText />    </Entry>    <Entry>			 <ID>266</ID>      <DefaultText>在 死 亡 中 ，灵 魂 找 到 进 入 pillars of adra的 方 法 ，在 那 里 ，他 们 能 够 重 新 加 入 Eoran cycle获 得 重 生 。在 一 些 情 况 下 ，灵 魂 没 能 到 达 柱 子 ，或 者 他 们 拒 绝 进 入 。这 样 的 灵 魂 被 叫 做 “失 落 灵 魂 ”或 者 “失 落 者 。”</DefaultText>      <FemaleText />    </Entry>    <Entry>			 <ID>267</ID>      <DefaultText>除 秽 </DefaultText>      <FemaleText />    </Entry>    <Entry>      <ID>268</ID>      <DefaultText>紧 紧 随 着 圣 者 之 战 ，迪 伍 德 人 暴 动 。尤 其 是 在 乡 下 地 方 ，试 图 杀 光 所 有 信 奉 伊 奥 萨 斯 的 人 。以 科 德 穆 恩 为 始 ，据 说 是 毫 无 抵 抗 的 让 怀 德 温 的 军 队 通 过 了 ，伊 奥 萨 斯 的 信 徒 们 纷 纷 遭 到 狩 猎 ，遭 受 折 磨 ，并 被 杀 害 在 这 条 街 上 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>269</ID>			<DefaultText>圣 战 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			 <ID>270</ID>      <DefaultText>期 初 只 是 在 雷 德 塞 拉 斯 爆 发 的 一 次 农 民 起 义 运 动 ，由 一 个 叫 怀 德 温 的 农 民 所 领 导 ，他 宣 称 是 伊 奥 萨 斯 神 的 肉 身 容 器 。在 推 翻 雷 德 塞 拉 斯 政 府 之 后 ，怀 德 温 向 邻 国 迪 伍 德 发 动 了 侵 略 ，但 却 被 击 败 ——被 一 件 被 称 为 “神 锤 炸 弹 ”武 器 所 毁 灭 。自 那 之 后 伊 奥 萨 斯 的 名 号 就 再 没 人 问 津 。</DefaultText>      <FemaleText />    </Entry>    <Entry>      <ID>271</ID>      <DefaultText>救 赎 </DefaultText>      <FemaleText />    </Entry>    <Entry>      <ID>272</ID>      <DefaultText>通 灵 师 为 降 低 空 心 种 在 怀 德 温 遗 症 中 将 动 物 灵 魂 传 输 到 空 心 种 体 内 以 使 他 们 能 够 自 主 行 动 时 的 高 死 亡 率 而 使 用 的 手 段 。但 这 项 实 验 遭 遇 了 突 然 的 变 故 而 失 败 ，没 能 得 出 预 期 的 结 果 ，这 被 称 作 “冷 血 救 赎 。”</DefaultText>      <FemaleText />    </Entry>    <Entry>      <ID>273</ID>      <DefaultText>怀 德 温 遗 症 </DefaultText>      <FemaleText />    </Entry>    <Entry>      <ID>274</ID>      <DefaultText>在 迪 伍 德 区 域 内 发 生 的 起 源 未 知 的 一 种 怪 异 疾 病 导 致 新 生 儿 出 生 后 体 内 不 具 有 灵 魂 的 现 象 。这 样 的 命 名 是 因 为 这 个 怪 现 象 开 始 出 现 的 时 期 刚 巧 与 圣 •怀 德 温 在 圣 者 之 战 中 死 亡 的 时 间 相 一 致 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>275</ID>			<DefaultText>通 魂 者 </DefaultText>			<FemaleText/>		</Entry>		<Entry>			 <ID>276</ID>      <DefaultText>万 中 无 一 的 人 ，与 生 俱 来 能 够 看 见 灵 体 的 体 质 ，有 时 甚 至 能 读 懂 灵 魂 的 信 息 或 者 直 接 与 其 交 流 。通 魂 者 的 能 力 有 许 多 种 源 头 ，因 此 时 常 有 人 冒 充 通 魂 者 ，到 处 招 摇 撞 骗 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>277</ID>			<DefaultText>魔 婴 </DefaultText>			<FemaleText/>		</Entry>		<Entry>		<ID>278</ID>      <DefaultText>空 心 种 的 孩 子 ，通 过 通 灵 术 的 科 学 ，被 改 造 成 为 容 纳 动 物 灵 魂 的 容 器 。这 样 ，这 些 孩 子 就 会 变 的 无 所 畏 惧 并 且 异 常 残 暴 。</DefaultText>      <FemaleText />    </Entry>    <Entry>			<ID>279</ID>
+      <DefaultText>神 明 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>地 点 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>学 问 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>杂 项 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>快 速 储 藏 箱 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>快 捷 键 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>粉 丝 内 容 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>队 列 行 动 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>按 住 Shift键 单 击 背 包 中 的 物 品 保 存 到 储 藏 箱 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>鼠 标 指 针 悬 停 在 技 能 图 标 上 后 按 任 意 键 可 以 快 速 设 置 快 捷 键 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>       <DefaultText>Pillars of Eternity was made possible by the generosity of thousands of backers, many of whom contributed content to the final game.  NPCs with gold name plates were designed by our backers. Interacting with them will allow you to experience each one's unique history.  The tombstone icon indicates a memorial. These are personalized messages written by our backers. Many of them break the fourth wall, so players desiring complete immersion may wish to avoid clicking them.</DefaultText>       <FemaleText />     </Entry>     <Entry>       <ID>290</ID>       <DefaultText>按 住 Shift键 单 击 一 系 列 行 为 或 者 路 径 点 加 入 行 为 序 列 。</DefaultText>       <FemaleText />     </Entry>     <Entry>       <ID>291</ID>       <DefaultText>友 方 火 力 </DefaultText>       <FemaleText />     </Entry>     <Entry>       <ID>292</ID>       <DefaultText>许 多 范 围 法 术 和 技 能 能 同 时 伤 害 敌 人 和 盟 友 。  如 果 技 能 列 出 施 法 距 离 ，将 影 响 范 围 内 所 有 人 。标 记 友 方 或 者 敌 方 范 围 法 术 只 对 相 应 群 体 产 生 效 果 。  最 普 通 的 敌 对 法 术 也 不 会 影 响 外 圈 的 盟 友 。可 以 利 用 外 圈 安 全 地 攻 击 敌 人 ，同 时 不 会 伤 害 盟 友 。</DefaultText>       <FemaleText />     </Entry>     <Entry>       <ID>293</ID>       <DefaultText>抑 制 </DefaultText>       <FemaleText />     </Entry>   </Entries> </StringTableFile>  

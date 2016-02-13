@@ -1,0 +1,32 @@
+﻿<StringTableFile>
+  <Name>conversations\11_hearthsong\11_cv_rhanet</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“你 看 上 去 像 个 猎 人 ，外 邦 人 。也 许 德 尔 温 的 武 器 能 保 护 好 你 们 这 些 自 找 麻 烦 的 家 伙 ——而 我 的 补 给 品 才 是 真 正 能 让 你 在 野 外 生 存 下 来 的 东 西 。”</DefaultText>
+      <FemaleText>“你 看 上 去 像 个 女 猎 人 ，外 邦 人 。也 许 德 尔 温 的 武 器 能 保 护 好 你 们 这 些 自 找 麻 烦 的 家 伙 ——而 我 的 补 给 品 才 是 真 正 能 让 你 在 野 外 生 存 下 来 的 东 西 。”</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“精 心 布 置 的 陷 阱 对 浴 血 狩 猎 是 决 定 性 的 。这 点 我 很 清 楚 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“我 能 看 看 你 的 商 品 吗 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“再 会 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>拉 内 特 点 点 头 ，一 挥 胳 膊 示 意 他 的 货 物 在 那 边 。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

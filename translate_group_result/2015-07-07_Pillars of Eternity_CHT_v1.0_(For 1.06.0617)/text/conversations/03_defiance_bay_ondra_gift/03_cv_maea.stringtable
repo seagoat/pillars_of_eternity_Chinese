@@ -1,0 +1,579 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\03_defiance_bay_ondra_gift\03_cv_maea</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>103</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>奧瑪女人懷疑地看著你。一隻手開始緊張的握緊，但是當你靠近，她放鬆下來然後給了你一個友好地微笑。「我不是很清楚很多像你穿戴成這樣的不是來找麻煩的。你不是來找麻煩的，是嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>「歡迎回來。外面的吵鬧聲，恐怕事情不會如往常一樣生機勃勃了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>「有很多活人在這裡總是好的。這些暴徒有什麼進展嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>「隨時歡迎你來這裡。等待一個好的時機？或者只是過來休息？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>奧瑪人瞇起眼睛。「又是你。你需要什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>「你惹上什麼麻煩了？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>「我來這是為了些……安靜的時光。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>「再見。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>她那的藍色面部皺起了眉頭。「一些對生意很不利的麻煩。當地的一些暴徒開始騷擾我努力工作的員工了。還有我們的顧客。這股無魂兒誕生後，他們開始出現，並把我的一些常客趕走了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>「安靜，吵鬧，不管是不是喜歡，你都已經提前買了賬。我們這有女士，小伙子，還有一些我不是很清楚的。去跟無論是誰對你的故事感到好奇的人說說吧。除非你能讓賽瑞爾好奇，這樣的話我就能和你和解了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>「告訴我，我該怎麼幫忙。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>「我找到了頭目了。她不會再來煩你-或者是其他人-再也不會了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>瑪伊婭笑了，露出大大的如匕首般尖銳的牙齒。「這個消息值得慶賀。拿些銅幣，然後盡情享受吧。」她咧著嘴笑。「而且，你會選擇在這找點樂子嗎，享受我給你的特殊折扣。如果你只需要些休息，房間可以免費供你用。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>「這裡有個人的名字叫賽瑞爾的嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>她笑了笑。「你一定是第一次來這裡吧。她是這個區最受歡迎的女孩子。你想跟她共度時光，過去問就好了。她每晚1000，但是你的每個銅板都花的物有所值。他們告訴我的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>一抹狡猾的笑劃過她藍色的標誌。「現在，我可以為像你這麼身高體壯的小伙子做點什麼？」</DefaultText>
+			<FemaleText>一抹狡猾的笑劃過她藍色的標誌。「現在，我可以為像你這麼清秀的小姑娘做點什麼？」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>[支付1000銅幣。]「我想和賽瑞爾待一晚。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>「或許下次吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>「上樓你就可以看見她的臥室。」她把一隻大手放在你肩膀上。「別擔心她門外的彪形大漢，他們只不過是確保每一個顧客都有一個好時光。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>「我只想要一個房間。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>「安靜，實用的。」她猶豫著。「哦，如果你帶上你的朋友一起，只是提醒下你這準沒錯。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>「我只想要一個房間。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>[支付500銅幣。]「我想和賽瑞爾待一晚。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>{DEBUG NODE}</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>「請自便。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>「一張新面孔？歡迎來到鹹桅桿。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>「想和她一起嗎？」她輕輕推動著你的肋骨。「我將給你特別優惠500銅幣以感謝你對我的小麻煩的幫忙。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>「想和她一起嗎？」她輕輕推動著你的肋骨。「將錢花在天賦上是最好的事情。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>「安靜，吵鬧，不管是不是喜歡，你都已經提前買了賬。我們這有女士，小伙子，還有一些我不是很清楚的。去跟無論是誰對你的故事感到好奇的人說說吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>「你想讓我對這些暴民豎立一個榜樣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>「沒有人應該被騷擾。我將結束這件事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>「如果裡面有銅幣的話，我會一直調查下去的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>「你恢復了我的生意，這其中肯定會有足夠的金幣的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>「我不能說我介意這事，只要這能解決問題。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>瑪伊婭將你拉近了些。「這些暴徒喜歡成群結隊。我覺得這不是件隨機事件。」
+
+
+
+她將一根粗大的手指放在你的胸前。「如果你能阻止這些襲擊，我會找個特殊的方式來報答你的。」她眨了眨眼。「懂嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>「我有些疑問。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>[離開]「那我就去看看能有什麼發現。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>「說。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>「你對於這些攻擊都知道些什麼？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>「再跟我講講你的生意。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>她在門口揮了揮手。「你自己出來看看不就知道了。那邊的那些暴徒正等待給來來往往的人帶來點麻煩呢。」她打量了一下你。「不過他們或許會讓你過去呢。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>她撓了撓後頸。「這樣是不好的，就像我不喜歡這些麻煩一樣。我是個正經生意人，只是想給那些人一些休息和放鬆。」
+
+
+
+她朝你點點頭然後放低聲音。「如果你能幫我解決這個問題，我就給你一個特殊的折扣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>「還沒。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>「我要跟你談談那事。我聽說你提高了價格。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>「我和他們頭目談過了。她同意離開這裡。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>瑪伊婭的眉毛揚了起來。「唔，這真是一個讓人歡迎的驚喜，值得慶祝慶祝。拿些銅幣，然後盡情享受吧。」她咧著嘴笑。「而且，你是否會選擇在這找點樂子，享受我給你的特殊折扣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>「我能怎麼辦？我必須為我的僱員還有他們的顧客提供某種……措施，尤其是這個地區出現了如此之多的無魂兒的情況下。並且隨著苦瓜籽的價格越來越高，我沒有選擇，只得提高我的價格。」
+
+
+
+她的手指觸碰了一下你的胸口。「要不是德梅尼爾家族這麼做，我也不會做這麼殘酷無情的生意。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>「遺症終有一天會終結的。接受一點損失保持你的顧客高興。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>[迅速]「如果你還想繼續做你的生意，那麼你就得降低你的價格。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>[離開]「我得好好想想這事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>「我從沒那麼想過。」瑪伊婭摩擦著雙下巴。「很好。我會降低所有價格。而且我一直會保持到遺症終結的那天，聽見了嗎？」
+
+
+
+她轉向吧檯。「回來為我工作。還需要其他東西嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>「我可以跟德梅尼爾談談他們的苦瓜價格。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>「找你幫忙是個錯誤。」她的眼睛飛快的掃了一下巡邏隊的守衛。「好，我會降低該死的價格的。我寧願受點損失而不是血流成河。」
+
+
+
+她盯著你。「現在，我肯定你還有更重要的事情要做。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>她抬起她的手臂。「隨便你。布裡坎塔·德梅尼爾是他們裡面最好說話的。她持有族譜。如果運氣好的話，你可以在布拉肯伯裡他們的莊園裡找到她的。
+
+
+
+「在她跟前的時候，你要小心行事。在他們所有人跟前的時候都要小心行事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>跟我談談這個地方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>「我想我已經說得夠清楚了。」她笑了笑。「這兒是鹹桅桿，反抗灣最有名的娛樂場所。我們這有美酒，暖床，還有美伴幫助你享受這兩樣東西。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>「安靜，實用的。」她猶豫著。「哦，如果你帶上你的朋友一起，只是提醒下你這準沒錯。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>「安靜，且實在。」如果你孤單了，你知道該去那裡。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>「安靜，且實在。」如果你孤單了，你知道該去那裡。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>「德梅尼爾家族已經同意降低苦瓜籽的價格了，只為你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>瑪伊婭笑了，露出大大的如匕首般尖銳的牙齒。「這是個值得慶祝的消息。而且我覺得這個地區的其他人也會一起慶祝的。
+
+
+
+「拿些銅幣，然後盡情享受吧。」她咧著嘴笑。「而且，你應該在這找點樂子，享受我給你的特殊折扣。如果你只需要些休息，房間可以免費供你用。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>「我已經囚禁了頭目。那些暴民再也不會騷擾你了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>瑪伊婭的眉毛揚了起來。「那對我來說已經夠好了。拿些銅幣，然後盡情享受吧。」她咧著嘴笑。「而且，你是否會選擇在這找點樂子，享受我給你的特殊折扣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>「關於賽瑞爾，你可以告訴我什麼？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>她看著你上下起伏，撫摸著她的下巴。「我一直在尋找某人可以幫助清理這附近的東西，而街道上的人說你已經清除一些了。熔爐騎士一直忙於四處打探埃瓦爾公爵，而沒有時間管我們尋常人的天賦，而且我更寧願不去管他們的官僚主義。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>她看著你上下起伏，撫摸著她的下巴。「街上的人說你是個壞消息。但那也許只是我要的。
+
+
+
+「我在尋找著某人幫我清理這四周的東西。熔爐騎士一直忙於四處打探埃瓦爾公爵，而沒有時間管我們尋常人的天賦，而且我更寧願不去管他們的官僚主義。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>她看著你上下起伏，撫摸著她的下巴。「我在尋找著某人幫我清理這四周的東西。熔爐騎士一直忙於四處打探埃瓦爾公爵，而沒有時間管我們尋常人的天賦，而且我更寧願不去管他們的官僚主義。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+			<DefaultText>「上樓你就可以看見她的臥室。」她把一隻大手放在你肩膀上。「注意你自己的脾氣，不然她門口那些結實的傢伙會對你動粗的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>「上樓你就可以看見她的臥室。」她把一隻大手放在你肩膀上。「別說廢話了，你聽見了嗎？好好玩不然她門口的那些結實傢伙會對你動粗的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+			<DefaultText>「你是個鋒芒畢露的人，不是嗎？我想我已經說得夠清楚了。」她笑了笑。「這兒是鹹桅桿，反抗灣最有名的娛樂場所。我們這有美酒，暖床，還有美伴幫助你享受這兩樣東西。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>「我想點些點心。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+			<DefaultText>「我能問你點其它事嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+			<DefaultText>她眨了眨眼。「這就是大家一開始在說的事情。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+			<DefaultText>「當然，優雅高貴紳士俱樂部在樓上。你也能在上面發現幾個反抗灣最勤勞的姑娘和小伙。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>94</ID>
+			<DefaultText>她挑了一下眉，用圍裙擦了一下手。「這回是什麼新聞？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>95</ID>
+			<DefaultText>「讓你的客戶和妓女來買只屬於他們的苦瓜。至少，他們再也不會和你討價還價了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>96</ID>
+			<DefaultText>「我沒有那麼想過。」瑪伊婭擦了一下她那膚色不均的下巴。「我會給你個低價。我猜剩下的就不是我的問題了。再也不是了。」
+
+
+
+她轉向吧檯。「我要回去工作了。還需要其他東西嗎?&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>97</ID>
+			<DefaultText>「我會想一下那個問題。你需要降低點價格。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>98</ID>
+			<DefaultText>她雙臂交握在胸前。「德梅尼爾一家在苦瓜這件事上面不斷壓搾我，我該怎麼生存下去？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>100</ID>
+			<DefaultText>「我什麼都還沒有。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>101</ID>
+			<DefaultText>Bank Node 101</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>102</ID>
+			<DefaultText>莎加妮瞥了一眼卡納。「捂上你的耳朵，年輕人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>103</ID>
+			<DefaultText>「如果她想給我們烤點什麼的話，我想要曲奇。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>104</ID>
+			<DefaultText>帕勒吉娜用她那金色的眼眸看著天空。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>105</ID>
+			<DefaultText>「如果你對獎勵不感興趣的話，我會自己解決她的問題！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>106</ID>
+			<DefaultText>亞洛斯用他的布袍擦了擦手，四處看著。「我會......如果我是你的話，我會想要黃銅作為報酬。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>107</ID>
+			<DefaultText>「我更寧願親自去和那個大屁股的警衛聊一下。不過，至少我們應該去阻止她的人再被人揍。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>109</ID>
+			<DefaultText>Bank Node 101</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>110</ID>
+			<DefaultText>莎加妮挑了一下眉。「你和某個人談過了，對吧?因為孩子的事是卡魯在管。不過如果沒人和你說過的話......」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>111</ID>
+			<DefaultText>「所以，她沒在烤餅乾？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>112</ID>
+			<DefaultText>「逛妓院可不是我的娛樂方式，但是別讓這阻止你。」她煩躁的皺著眉。「這永遠都阻止不了我的先生們。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>113</ID>
+			<DefaultText>「打個折！在這種情況下，我不能不去體驗一下家庭特餐！」希拉維亞斯用手摸著他的長袍，尋找硬幣。「歡迎參觀。有人嗎？有人嗎？&quot;
+
+
+
+他聳聳肩，繼續在衣服裡找著硬幣。「你的損失。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>114</ID>
+			<DefaultText>「你先走。真的。我就在吧檯那裡等。要一杯......能治病的什麼東西。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>115</ID>
+			<DefaultText>「或許會喝一兩杯。這真是個搜集邪惡的秘密的好地方。而且，呃，各種疾病，在那個......」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>116</ID>
+			<DefaultText>「這裡擠滿了人，有人喜悅，有人渴望......但也有人擔憂，有人哀愁，有人恐懼......」
+
+
+
+她看著那喧鬧的，高興地，正在喝著酒的人們。「這房間裡充滿了無魂兒的絕望和其他一些東西......」她又開始看著瑪伊婭。「一個可以讓人輕鬆獲益的骯髒的計劃。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>117</ID>
+			<DefaultText>「自從鹿叢人離開之後，防抗灣還沒經歷過這樣的一場戰鬥。至少這個人沒帶著禮物。」
+
+
+
+她看著酒吧裡喝酒的人和妓女。「我覺得說清這到底對我們來說意味著什麼還為時尚早。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>118</ID>
+			<DefaultText>「還有什麼是我該做的？我必須給我們的員工和他們的客戶提供......確定的行動，尤其是這裡有如此多的無魂兒。而且苦瓜是很昂貴的，我也只能提高我的價格。」
+
+
+
+她用手拍了你一下。「也就是說，你和德梅尼爾一家相處很好，是吧？也許你可以撈點好處。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>119</ID>
+			<DefaultText>「我不知道還有求助於十二人眾的朋友更好的方法了。他們都是盲目的幫兇。」她的目光飛快略過正在巡邏的警衛。「好吧，我會把價格降低一點。我寧願挨揍也不想來一場大屠殺。」
+
+
+
+她瞪著你。「現在，我確信你可以去做些更好的事情。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>120</ID>
+			<DefaultText>她上下打量著你，用手指撓著下巴。「我正在找人幫我打掃這裡，我聽說你知道如何把事情做好。騎士們正忙著監視埃瓦爾公爵，根本無暇顧及在此地的平民，而且我再也不想和那些具有官僚主義的人打交道了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>121</ID>
+			<DefaultText>她上下打量著你，用手指撓著下巴。「沒多少人在乎這裡發生了什麼，不過我聽說你是個例外。騎士們正忙著監視埃瓦爾公爵，根本無暇顧及在此地的平民，而且我再也不想和那些具有官僚主義的人打交道了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>122</ID>
+			<DefaultText>杜蘭斯的眼神就像是一頭獅子偶然發現了鹿群。當他雙手拿著他的權杖調查整個房間的時候，他的關節是白的。他自己笑了起來，聲音低沉。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>123</ID>
+			<DefaultText>「你的常客裡有對掙錢感興趣的嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>124</ID>
+			<DefaultText>「是的，有賺好花嗎。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

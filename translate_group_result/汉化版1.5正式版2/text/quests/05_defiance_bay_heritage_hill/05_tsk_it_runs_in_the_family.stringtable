@@ -1,0 +1,85 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\05_defiance_bay_heritage_hill\05_tsk_it_runs_in_the_family</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>15</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>安 全 的 避 风 港 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>在 传 承 山 的 瓦 尔 塔 斯 庄 园 寻 找 赛 达 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>去 传 承 山 的 瓦 尔 塔 斯 陵 墓 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>将 赛 达 从 瓦 尔 塔 斯 家 族 陵 墓 中 解 救 出 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>我 在 传 承 山 庄 园 偶 然 发 现 了 一 个 奇 怪 的 场 景 ——三 个 半 亡 者 聚 集 在 门 口 ，呼 唤 着 一 个 叫 “赛 达 ”的 名 字 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>我 在 一 个 庄 园 遇 到 一 群 半 亡 者 在 敲 一 扇 关 着 的 门 ，喊 着 一 个 叫 “赛 达 ”的 名 字 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我 在 瓦 尔 塔 斯 庄 园 发 现 的 线 索 表 明 赛 达 逃 到 了 家 族 陵 墓 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>我 发 现 一 个 女 孩 藏 在 坟 墓 里 。她 一 定 就 是 赛 达 ，那 个 逃 离 了 庄 园 里 的 半 亡 者 的 女 孩 。
+
+我 想 知 道 她 发 生 了 什 么 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>我 发 现 一 封 指 挥 园 丁 清 洁 家 族 陵 墓 的 信 。信 中 说 钥 匙 在 厨 房 里 的 火 炉 上 方 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>赛 达 的 父 亲 留 下 了 一 个 遗 愿 ，他 要 求 他 和 他 所 爱 的 人 被 埋 在 “哈 德 雷 特 公 爵 右 手 边 ”的 瓦 尔 塔 斯 家 族 陵 墓 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>我 发 现 挂 钥 匙 的 钩 子 ，但 它 是 空 的 。可 能 有 人 已 经 把 它 拿 走 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>有 一 个 朝 外 打 开 的 小 口  - 一 定 是 有 人 把 墙 撬 松 了 。接 下 来 的 问 题 是 这 人 去 了 哪 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>赛 达 死 了 。她 现 在 不 需 要 担 心 房 子 里 的 半 亡 者 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我 将 赛 达 带 给 了 在 泰 尔 瑙 内 斯 的 奥 尔 德 海 姆  格 莱 格 。对 她 而 言 是 个 悲 惨 结 局 ，但 是 我 需 要 让 他 活 着 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我 将 赛 达 带 离 了 这 里 。她 不 能 再 呆 在 坟 墓 里 ，并 且 回 去 的 路 也 很 清 楚 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

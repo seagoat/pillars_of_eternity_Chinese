@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\companions\companion_cv_durance_silence_questions</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「再繼續煩我，我也只會對你提的問題敷衍了事。現在，什麼都不要問——先朝下個營地進發吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你是衛奧的僕人嗎？就讓我們留住關於他的神秘和疑問吧——至少在那之前我們都需要休息。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你身上也紋有衛奧之眼嗎？好神秘啊，就算是專門製造來回答問題的機器人也滿足不了你的提問欲啊。要知道，就連軍隊都得先統一思想——就像他們的領袖一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「我們並不同路，通魂者。所以你的疑問還是留到下次吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「你是不是吃了牛虻卵還是什麼。閉上嘴，省點力，別再到下個營地之前就累到了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>quests\01_defiance_bay_coppleane\01_qst_intimate_stranger</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>36</EntryCount>
@@ -126,12 +125,12 @@
     </Entry>
     <Entry>
       <ID>20010</ID>
-      <DefaultText>Purnisc asked me to find Kaenra, his fiancée, in Copperlane. He wants her back, and he doesn't want her to know that he's dealing svef. He promised me a discount in exchange for my help.</DefaultText>
+      <DefaultText>Purnisc asked me to find Kaenra, his fianc&#233;e, in Copperlane. He wants her back, and he doesn't want her to know that he's dealing svef. He promised me a discount in exchange for my help.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20011</ID>
-      <DefaultText>I met Kaenra, Purnisc's fiancée, at the Goose and Fox. She didn't seem to know that the real Purnisc is a prisoner in his own home.</DefaultText>
+      <DefaultText>I met Kaenra, Purnisc's fianc&#233;e, at the Goose and Fox. She didn't seem to know that the real Purnisc is a prisoner in his own home.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,7 +175,7 @@
     </Entry>
     <Entry>
       <ID>30009</ID>
-      <DefaultText>After everything, Purnisc wanted me to find his fiancée, Kaenra, and win her back. I refused.</DefaultText>
+      <DefaultText>After everything, Purnisc wanted me to find his fianc&#233;e, Kaenra, and win her back. I refused.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

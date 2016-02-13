@@ -1,0 +1,80 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\companions\companion_qst_kana</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>14</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>時間和潮汐</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>找到馬爾瓦德</DefaultText>
+			<FemaleText/>
+		</Entry>	
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>和卡納探索無盡之路</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>找到Gabrannos或者石碑</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>找到塞德努瓦之下的廢墟</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>卡納‧魯亞，一個來自北方勞亞泰的奧瑪人，來到迪伍德尋找一段神聖的文字"Tanvii ora Toha"，或者說"Book of Virtues"。經過多年的尋找，他找到了在塞德努瓦的守護下的廢墟中的石碑。
+
+他迫不及待要探索廢墟了，還要我幫助他。那個時候，他看起來很樂意有我的陪伴——雖然他膽怯地承認了，被神秘兇手追殺是一部分原因。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>卡納‧魯亞一直徘徊在主樓門口，希望能找到助手一起穿越危險重重的城堡。他相信馬爾瓦德會回答關於他正在找的那座碑的疑問。似乎我們兩個都在找老通魂者。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>卡納‧魯亞認定我們會在地牢「無盡之路」的深處找到那座碑。他不知道碑究竟在哪裡，但他能肯定它和Gabrannos（一位英格維斯學者）的遺物在一起。致力於研究英格維斯人多年，卡納對他們的或者說他們中的遺跡激動不已。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我們已經穿過了封印之門，門後就是通往無盡之路下層區域的通道。卡納‧魯亞認為這就是藏有Gabrannos作品的地點。這是一個險惡的地方，儘管卡納‧魯亞很高興到這裡來，但我們最好還是快點找到Gabrannos的遺物。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>馬爾瓦德遙不可及，無法回答我們的問題。我們必須靠自己穿越主樓下的廢墟。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>從結果看，卡納‧魯亞尋找的碑已經被摧毀很久了- 是誰幹的或為了什麼，已經無從知曉了。真相似乎給了卡納沉重打擊。我試著鼓勵他- 無論怎麼說，最終答案還在前頭。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>尋找Tanvil ora Toha之旅結束了，我們已經找到了卡納要找的那塊碑的碎片。卡納明顯對碑的破碎痛心不已，先前的狂熱已經明顯降溫了。鑒於我們看到的那些，這也許是最好的結局。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>卡納被殺了，他的遠大抱負也隨之煙消雲散。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

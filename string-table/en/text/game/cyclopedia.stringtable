@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>304</EntryCount>
@@ -51,7 +50,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Ethik Nôl</DefaultText>
+      <DefaultText>Ethik N&#244;l</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -224,9 +223,9 @@ Despite all appearances to the contrary, there is an underlying complexity to th
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Phantoms are souls that did not properly separate from the body after death. This usually happens as a result of severe trauma, particularly in the case of a violent death. Unlike lost souls, which are incapable of interacting with or being detected by normal mortals, phantoms (like shadows and cean gŵla) maintain a connection to the physical world. They will attack other life forms without discrimination.
+      <DefaultText>Phantoms are souls that did not properly separate from the body after death. This usually happens as a result of severe trauma, particularly in the case of a violent death. Unlike lost souls, which are incapable of interacting with or being detected by normal mortals, phantoms (like shadows and cean g&#373;la) maintain a connection to the physical world. They will attack other life forms without discrimination.
 
-Phantoms can also manifest from kith who lived particularly chaotic lives, including violent criminals and the insane. Anyone can become a phantom under the right circumstances, but the fear of phantoms – and their association with the mentally ill – can result in vulnerable populations being shunned across many communities. 
+Phantoms can also manifest from kith who lived particularly chaotic lives, including violent criminals and the insane. Anyone can become a phantom under the right circumstances, but the fear of phantoms &#8211; and their association with the mentally ill &#8211; can result in vulnerable populations being shunned across many communities. 
 </DefaultText>
       <FemaleText />
     </Entry>
@@ -241,7 +240,7 @@ On the rare occasions that ogres are found working together, they are almost alw
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Shadows are created when creatures with heavily fractured souls die without re-entering the cycle of rebirth. Because these souls are damaged, they drain essence from other creatures in a futile attempt to repair themselves. The more essence they steal, the more powerful and dangerous shadows become. As they devour essence, they pick up pieces of corporeal matter, giving them a visible, if indistinct, form. Luckily, shadows can only draw a small bit of spiritual energy from souls still attached to a body or bound to an object. They mainly rely on creatures like the pŵgra, who can draw souls out of their physical form, to help them obtain the essence they crave.
+      <DefaultText>Shadows are created when creatures with heavily fractured souls die without re-entering the cycle of rebirth. Because these souls are damaged, they drain essence from other creatures in a futile attempt to repair themselves. The more essence they steal, the more powerful and dangerous shadows become. As they devour essence, they pick up pieces of corporeal matter, giving them a visible, if indistinct, form. Luckily, shadows can only draw a small bit of spiritual energy from souls still attached to a body or bound to an object. They mainly rely on creatures like the p&#373;gra, who can draw souls out of their physical form, to help them obtain the essence they crave.
 
 Shadows have been known to draw spiritual energy from people while they sleep, when their souls are not bound as strongly to their bodies. This results in horrible nightmares that leave the person in an exhausted state the next day. If an entire town suddenly begins to suffer nightmares, it is highly probable that a strong shadow has taken up residence there.
 
@@ -253,7 +252,7 @@ Since shadows absorb spiritual energy, they appear invisible to creatures that r
       <ID>47</ID>
       <DefaultText>Young dragons begin their life cycle as wurms, though most never develop beyond that stage. Wurms are clever and sly, if not especially intelligent. To develop into a drake (and eventually a dragon), a wurm must have ample space and resources. They will not develop if they live near existing drakes and dragons. They must seek out a habitat that has not already been claimed by a larger counterpart.
 
-Since the chances of further development are low, most wurms will band together in covens for survival. They are bold and highly aggressive creatures, if not particularly intelligent – the intense competition for food and territory demands this. 
+Since the chances of further development are low, most wurms will band together in covens for survival. They are bold and highly aggressive creatures, if not particularly intelligent &#8211; the intense competition for food and territory demands this. 
 </DefaultText>
       <FemaleText />
     </Entry>
@@ -331,7 +330,7 @@ Despite their extreme intelligence and power, vithrack are not a major force in 
       <ID>56</ID>
       <DefaultText>These amorphous clouds rapidly swirl with violent energy. Within the maelstrom, dozens of humanoid shapes materialize and vanish within an instant. Faces scream in silent agony while hands desperately clutch and claw at the air around the mass.
 
-Bîaŵacs (spirit winds), as these storms are known, often create blights. If souls are ripped free of bodies and caught in the center of the storm, they may become stuck together and bonded with any other elemental substances in the maelstrom. They are pure chaos and confusion, and destroying them is considered a mercy to the souls trapped within. 
+B&#238;a&#373;acs (spirit winds), as these storms are known, often create blights. If souls are ripped free of bodies and caught in the center of the storm, they may become stuck together and bonded with any other elemental substances in the maelstrom. They are pure chaos and confusion, and destroying them is considered a mercy to the souls trapped within. 
 
 Experimenting with blight creation is yet another questionable activity that has earned animancers a bad reputation in many circles. Some see it as dangerous and inhumane, others as a means to an end. The creation of blights is an accusation many fearful kith level at animancers.
 </DefaultText>
@@ -339,9 +338,9 @@ Experimenting with blight creation is yet another questionable activity that has
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>A delempŵgra ("rotten leaf"), more typically called pŵgra ("rotten"), is a delemgan that has been corrupted by the destruction of their home tree or adra stone. They are as ugly as delemgan are beautiful, spindly and emaciated with cool tones to their skin. Their hair is dead, dark, and slimy, their facial features contorted, and their teeth long and sharp. Unlike delemgan, they are not surrounded by motes of light, and they are more than willing to attack unfortunate travelers with their long talons. Pŵgra decorate themselves with the skulls, skins, and feathers of animals they've killed.
+      <DefaultText>A delemp&#373;gra ("rotten leaf"), more typically called p&#373;gra ("rotten"), is a delemgan that has been corrupted by the destruction of their home tree or adra stone. They are as ugly as delemgan are beautiful, spindly and emaciated with cool tones to their skin. Their hair is dead, dark, and slimy, their facial features contorted, and their teeth long and sharp. Unlike delemgan, they are not surrounded by motes of light, and they are more than willing to attack unfortunate travelers with their long talons. P&#373;gra decorate themselves with the skulls, skins, and feathers of animals they've killed.
 
-Just as delemgan seek to maintain the health of their forests, pŵgra seek to corrupt them, making the two species mortal enemies. The rot that infects them endows their attacks with a ghastly poison, but it also makes their bodies weak and brittle, leaving them vulnerable to piercing and crushing attacks. 
+Just as delemgan seek to maintain the health of their forests, p&#373;gra seek to corrupt them, making the two species mortal enemies. The rot that infects them endows their attacks with a ghastly poison, but it also makes their bodies weak and brittle, leaving them vulnerable to piercing and crushing attacks. 
 
 Since they can no longer draw essence from a healthy forest, they must survive by drawing energy and essence out of plants, animals, and kith. This makes them natural allies with shadows, which feed by similar means and enjoy the benefits of a shared hunt. 
 
@@ -413,7 +412,7 @@ Like all living creatures, they have a measure of soul essence, but their lack o
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Cean Gŵla are violent and confused spirits that have been unable or unwilling to move beyond the Shroud. More specifically, these are the spirits of women who die under particularly tragic or traumatic circumstances, hence the name "cean gŵla," which translates to "blood mother." The popular image of the cean gŵla as the spirit of a jilted lover has changed in recent years, as the effects of Waidwen's Legacy have become more widely known. With so many Hollowborn arising and a similarly steep rise in cean gŵla sightings, many assume these spirits are linked to mothers who have died in childbirth. In reality, the Cean Gŵla manifest just as readily from the spirits of women who perished in violent crimes or accidents, or those who led particularly violent lives.</DefaultText>
+      <DefaultText>Cean G&#373;la are violent and confused spirits that have been unable or unwilling to move beyond the Shroud. More specifically, these are the spirits of women who die under particularly tragic or traumatic circumstances, hence the name "cean g&#373;la," which translates to "blood mother." The popular image of the cean g&#373;la as the spirit of a jilted lover has changed in recent years, as the effects of Waidwen's Legacy have become more widely known. With so many Hollowborn arising and a similarly steep rise in cean g&#373;la sightings, many assume these spirits are linked to mothers who have died in childbirth. In reality, the Cean G&#373;la manifest just as readily from the spirits of women who perished in violent crimes or accidents, or those who led particularly violent lives.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1134,7 +1133,8 @@ Note that many suits of armor and many creatures will grant different Damage Red
 
 Some afflictions make it impossible for a character to Engage an enemy. Paralyzed, Petrified, Prone, and Stunned all automatically drop Engagement and can be used to get out of trouble.
 
-Note that there are a number of Talents and Abilities that modify Engagement rules, such as Graceful Retreat, Hold the Line, the fighter's Defender, the barbarian's Wild Sprint, and the rogue's Escape. Some creatures, especially large ones, may be able to Engage more than one creature at a time.</DefaultText>
+Note that there are a number of Talents and Abilities that modify Engagement rules, such as Graceful Retreat, Hold the Line, the fighter's Defender, the barbarian's Wild Sprint, and the rogue's Escape. Some creatures, especially large ones, may be able to Engage more than one creature at a time.
+</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1146,7 +1146,8 @@ Note that there are a number of Talents and Abilities that modify Engagement rul
       <ID>205</ID>
       <DefaultText>Flanking occurs any time two attackers Engage an opponent in melee from opposite directions. When this situation exists, defenders are Flanked, inflicting various penalties and allowing them to be Sneak Attacked. Any condition on an attacker that would break his or her Engagement will also remove the Flanked condition on the defender if it cannot be sustained without him or her.
 
-Note that there are a small number of Abilities that grant exceptions to the standard flanking rules, such as the barbarian's One Stands Alone, the ranger's Stalker's Link, and the cipher's Phantom Foes.</DefaultText>
+Note that there are a small number of Abilities that grant exceptions to the standard flanking rules, such as the barbarian's One Stands Alone, the ranger's Stalker's Link, and the cipher's Phantom Foes.
+</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1164,7 +1165,8 @@ Active and modal bonuses (e.g. from Abilities or consumable items) use the highe
 
 Equipment also uses the highest bonus and lowest penalty to any given statistic. It includes all items equipped directly on the character except for weapons. Equipment is a separate category from active/modal, so the highest bonuses and lowest penalties from each category are added together.
 
-Afflictions (e.g. Stunned, Prone) are generally considered active effects. If an affliction is applied to a character while the same affliction is already active, it will replace the existing affliction's duration if the new duration is longer.</DefaultText>
+Afflictions (e.g. Stunned, Prone) are generally considered active effects. If an affliction is applied to a character while the same affliction is already active, it will replace the existing affliction's duration if the new duration is longer.
+</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1337,7 +1339,7 @@ This means that all of the statistics of the weapons still apply, including the 
     </Entry>
     <Entry>
       <ID>240</ID>
-      <DefaultText>A nation that resulted from the merger of a human kingdom and an elf kingdom four hundred years ago, ruled by a fercönyng ("first king") or mecwyn ("illustrious queen"). Both Dyrwood and Readceras originated as colonies of Aedyr.</DefaultText>
+      <DefaultText>A nation that resulted from the merger of a human kingdom and an elf kingdom four hundred years ago, ruled by a ferc&#246;nyng ("first king") or mecwyn ("illustrious queen"). Both Dyrwood and Readceras originated as colonies of Aedyr.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1432,7 +1434,7 @@ This means that all of the statistics of the weapons still apply, including the 
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>Bîaŵac</DefaultText>
+      <DefaultText>B&#238;a&#373;ac</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

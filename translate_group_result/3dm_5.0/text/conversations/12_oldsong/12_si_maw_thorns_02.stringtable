@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\12_oldsong\12_si_maw_thorns_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>带刺的藤蔓缠绕在一起，组成了一堵墙壁。你靠近时它们开始抽动，离你远去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[穿过藤蔓。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[离开。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>在你前进时，藤蔓移动着，它们的刺缩了回来，显示出一条通畅的安全通路。你安然地去到了另一边。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

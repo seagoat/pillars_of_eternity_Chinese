@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\13_twin_elms_elms_reach\13_bs_keepers_ambients</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“崇高建立在牺牲之上。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“这些大厅容不下软弱的灵魂。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“如果想看的话，接下来主祭坛上还有一些仪式。你只需要保持安静”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“你是来奉献自我的吗，[Player Race]？你能在祭品室中找到我们的法则。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

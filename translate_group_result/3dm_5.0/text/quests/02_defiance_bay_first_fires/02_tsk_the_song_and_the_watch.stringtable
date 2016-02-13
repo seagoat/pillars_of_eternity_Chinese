@@ -1,0 +1,82 @@
+<StringTableFile>
+  <Name>quests\02_defiance_bay_first_fires\02_tsk_the_song_and_the_watch</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>失踪的哨兵</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>进入传承之山。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>找到失踪的卫兵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>与薇拉交谈</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>薇拉是一名铸铁骑士团的审判者，她手下的几名见习哨兵在传承之山外离奇失踪了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>进入传承之山的大门被封住了，不过薇拉说卫兵会在那等我的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>失踪的卫兵们很有可能就在传承之山的某个角落。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我已经搞定了雷拉，她不会再在传承之山中对铸铁骑士——或其他任何人作怪了。我该回到起始之火的试炼城堡中去，告诉薇拉发生的一切。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>门口的卫兵说上一轮值岗的一个卫兵听到有人在大声喝令。声音好像是从东北方传来的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>门口的卫兵提到说两次有卫兵失踪时，大门都是打开的。有可能失踪的卫兵因为什么理由孤身进入了传承之山。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>我发现了一具形似铸铁骑士团指挥官的尸体。薇拉说过就在传承之山封锁之前，刚好有个指挥官失踪了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我告诉薇拉说传承之山中雷拉不安的灵魂已被我解决。得知了她失踪新兵的情况后，她万分感激。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我告诉薇拉说传承之山中雷拉不安的灵魂已被我解决。得知了她失踪的新兵并未全军覆没，她万分感激。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我告诉薇拉说传承之山中雷拉不安的灵魂已被我解决。得知了她失踪的新兵都平安无事，她万分感激。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>薇拉死了，他失踪的新兵们对我也就无所谓了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

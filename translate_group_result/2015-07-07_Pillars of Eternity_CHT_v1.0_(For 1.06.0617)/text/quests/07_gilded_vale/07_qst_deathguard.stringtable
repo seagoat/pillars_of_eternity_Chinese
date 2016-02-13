@@ -1,0 +1,72 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\07_gilded_vale\07_qst_deathguard</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>12</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>貝拉斯的冠軍</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>回到萊德裡克要塞並找到你的挑戰者</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>擊敗萊德裡克七世</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>回到萊德裡克要塞並找到你的挑戰者</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>殺死萊德裡克領主後，我想鍍金溪谷終於擺脫了他的影響。但似乎那座偉大的堡壘裡還有什麼事情。這可能是一個新篡位者幹的好事，或者只是純粹的迷信。不管怎樣，這應該值得調查一下。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>在雙榆城的Celestial Sapling，我遇到了一個鍍金溪谷的前守衛。他聲稱萊德裡克領主本人回到他的堡壘——儘管他確實已經死在了我的手裡。
+
+顯然萊德裡克為了報復我殺死他而發出了挑戰。不管怎樣這都值得好好調查一下。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>看來是萊德裡克的決心將他一直拴在這副凡人軀殼內而不得轉生。想再次分離出他的靈魂可不是件容易的事。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>看來我已經收到了一個挑戰——是被我殺死的萊德裡克七世。
+
+萊德裡克想和我在他的要塞來一場決定性的最終遭遇戰- 否則就要冒險進一步攻擊我自己的大本營。不管是黑魔法還是騙局，他確實復活了，而答案似乎只能去萊德裡克堡壘揭曉了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>似乎內德馬在政變中倖存了下來。他告訴我萊德裡克領主在塔頂等我。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>看來歐絲麗亞在萊德裡克回歸的混亂中倖存了下來，回到了她最喜歡的位置上。儘管如此，她還是盡快告訴我他的位置：堡壘的最高點。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>此任務中的某個重要人物已死亡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我已經打敗了萊德裡克七世，一勞永逸。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

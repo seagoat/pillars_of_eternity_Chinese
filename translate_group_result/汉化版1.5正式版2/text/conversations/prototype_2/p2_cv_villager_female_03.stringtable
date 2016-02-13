@@ -1,0 +1,28 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\prototype_2\p2_cv_villager_female_03</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>就 算 离 城 市 很 远 ，你 还 是 能 找 到 一 些 安 慰 。奥 斯 马 尔 把 我 们 的 旅 店 照 料 得 很 好 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>花 了 很 久 才 在 旧 城 堡 的 废 墟 上 重 建 ，但 我 们 打 算 住 下 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>村 民 在 你 靠 近 时 站 得 更 直 了 ，不 禁 将 脑 袋 侧 向 一 边 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>我 觉 得 住 在 奥 斯 马 尔 旅 店 的 &apos;贵 族 &apos;有 点 在 这 逗 留 过 久 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

@@ -1,0 +1,23 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\02_defiance_bay_first_fires\02_bs_crucible_knight_palace</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>3</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“许 多 难 民 为 了 逃 离 Legacy,来 到 这 里 。也 许 他 们 没 意 识 到 我 们 也 受 Legacy影 响 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“无 论 外 面 有 什 么 情 况 ，这 宫 殿 依 旧 是 反 抗 湾 引 以 为 豪 的 象 征 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>Trigger Conv Node 5</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

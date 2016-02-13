@@ -1,0 +1,171 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\11_twin_elms_hearthsong\11_qst_hunter_brother</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>32</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>猎 人 ，兄 弟 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>前 往 北 部 荒 野 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>搜 索 北 部 旷 野 寻 找 与 菲 奥 姆 在 关 的 线 索 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>搜 索 Sentinel Ridge寻 找 巨 型 蝎 虎 狮 的 下 落 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>搜 索 Sentinel&apos;s Waterfall的 周 围 地 区 ，寻 找 与 菲 奥 姆 有 关 的 线 索 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>去 六 圣 通 道 与 瑞 戴 交 谈 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>将 你 的 发 现 告 诉 灵 魂 王 子 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>去 六 圣 通 道 与 灵 魂 王 子 交 谈 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>去 六 圣 通 道 与 瑞 戴 交 谈 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>去 六 圣 通 道 与 阿 瑟 恩 交 谈 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>瑞 戴 ，来 自 格 兰 法 斯 一 个 名 声 显 赫 的 部 落 ，他 正 在 寻 常 他 的 兄 弟 菲 奥 姆 的 下 落 ，菲 奥 姆 是 一 位 有 名 的 猎 人 ，在 和 另 一 位 猎 人 阿 瑟 恩 一 起 于 北 部 旷 野 的 森 林 中 追 猎 时 失 踪 。
+
+阿 瑟 恩 声 称 菲 奥 姆 是 因 为 在 捕 猎 时 没 能 杀 死 一 只 巨 型 蝎 虎 狮 因 羞 愧 而 自 我 放 逐 了 。瑞 戴 认 为 阿 瑟 恩 这 种 来 自 较 低 等 部 落 的 人 ，是 出 于 某 种 自 私 的 原 因 才 这 样 说 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>菲 奥 姆 和 阿 瑟 恩 追 猎 的 地 点 是 在 北 部 旷 野 ，那 里 是 比 古 老 乐 曲 区 山 区 更 远 的 人 迹 罕 至 的 地 区 。瑞 戴 认 为 有 可 能 在 那 座 森 林 中 发 现 与 他 兄 弟 有 关 的 线 索 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我 已 经 到 达 了 北 部 旷 野 。这 里 就 是 菲 奥 姆 和 阿 瑟 恩 追 猎 那 只 传 说 中 的 巨 型 蝎 虎 狮 的 地 方 ，也 许 能 在 这 里 找 到 与 捕 猎 事 件 有 关 的 线 索 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我 找 到 了 菲 奥 姆 的 尸 体 。从 他 残 留 的 尸 骸 还 能 看 出 一 些 端 倪 。为 了 能 独 享 猎 杀 巨 型 蝎 虎 狮 的 荣 誉 ，菲 奥 姆 骗 开 阿 瑟 恩 ，单 独 与 猛 兽 搏 斗 ，结 果 丧 生 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我 找 到 了 那 头 巨 型 蝎 虎 狮 的 尸 体 。它 偷 偷 地 躲 在 瀑 布 上 方 ，窥 视 着 下 面 的 阿 瑟 恩 。此 时 ，另 一 个 精 灵 ，应 该 就 是 菲 奥 姆 ，用 矛 重 伤 了 他 。蝎 虎 狮 奋 力 反 击 ，但 还 是 被 结 束 了 生 命 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>我 已 经 弄 清 楚 菲 奥 姆 之 死 的 来 龙 去 脉 了 。他 的 兄 弟 ，瑞 戴 ，会 知 道 事 情 的 答 案 的 。我 能 在 双 榆 城 炉 火 乐 曲 区 的 六 圣 通 道 找 到 他 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10006</ID>
+			<DefaultText>我 决 定 去 双 榆 城 的 六 圣 通 道 与 灵 魂 王 子 谈 话 ，告 诉 他 菲 奥 姆 在 追 猎 时 失 踪 的 真 相 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10007</ID>
+			<DefaultText>我 告 诉 了 灵 魂 王 子 追 猎 时 发 生 在 菲 奥 姆 和 阿 瑟 恩 之 间 的 事 。在 我 的 调 查 出 结 果 之 后 ，灵 魂 王 子 请 求 我 再 去 和 她 交 谈 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10008</ID>
+			<DefaultText>我 告 诉 了 灵 魂 王 子 追 猎 时 发 生 在 菲 奥 姆 和 阿 瑟 恩 之 间 的 事 。在 我 的 调 查 出 结 果 之 后 ，瑞 戴 请 求 我 去 与 他 交 谈 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10009</ID>
+			<DefaultText>我 告 诉 了 灵 魂 王 子 追 猎 时 发 生 在 菲 奥 姆 和 阿 瑟 恩 之 间 的 事 。在 我 的 调 查 出 结 果 之 后 ，阿 瑟 恩 请 求 我 去 与 他 交 谈 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>虽 然 我 已 经 掌 握 了 不 少 与 菲 奥 姆 之 死 有 关 的 证 据 ，但 也 许 还 有 些 我 不 知 道 的 东 西 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>虽 然 我 已 经 掌 握 了 不 少 与 蝎 虎 狮 之 死 有 关 的 证 据 ，但 也 许 还 有 些 我 不 知 道 的 东 西 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>我 找 到 了 菲 奥 姆 的 尸 体 。从 他 残 留 的 尸 骸 还 能 看 出 一 些 端 倪 。为 了 能 独 享 猎 杀 巨 型 蝎 虎 狮 的 荣 誉 ，菲 奥 姆 骗 开 阿 瑟 恩 ，单 独 与 猛 兽 搏 斗 ，结 果 丧 生 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>我 找 到 了 那 头 巨 型 蝎 虎 狮 的 尸 体 。它 偷 偷 地 躲 在 瀑 布 上 方 ，窥 视 着 下 面 的 阿 瑟 恩 。此 时 ，另 一 个 精 灵 ，应 该 就 是 菲 奥 姆 ，用 矛 重 伤 了 他 。蝎 虎 狮 奋 力 反 击 ，但 还 是 被 结 束 了 生 命 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>瑞 戴 曾 提 到 阿 瑟 恩 独 自 一 人 回 到 了 双 榆 城 。也 许 我 能 在 榆 树 之 地 的 勇 士 大 厅 找 到 阿 瑟 恩 ，并 得 到 一 些 答 案 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20005</ID>
+			<DefaultText>我 直 面 阿 瑟 恩 ，揭 穿 了 他 的 谎 言 。这 位 猎 人 不 顾 一 切 地 要 维 护 他 部 落 的 荣 誉 ，请 求 我 在 审 判 时 帮 助 他 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20006</ID>
+			<DefaultText>我 直 面 阿 瑟 恩 ，揭 穿 了 他 的 谎 言 。这 位 猎 人 不 顾 一 切 地 要 维 护 他 部 落 的 荣 誉 ，请 求 我 在 审 判 时 帮 助 他 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20007</ID>
+			<DefaultText>我 在 榆 树 之 地 里 与 阿 瑟 恩 交 谈 。猎 人 坚 持 说 是 他 在 北 部 旷 野 杀 死 了 巨 型 蝎 虎 狮 ，具 体 地 点 是 在 瀑 布 上 方 的 一 道 山 脊 旁 。按 他 的 说 法 ，菲 奥 姆 不 能 承 受 败 给 一 个 来 自 次 等 的 Twice-Split Arrows部 落 猎 人 的 羞 辱 ，在 羞 愧 中 选 择 了 自 我 放 逐 而 不 是 回 到 双 榆 城 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 将 菲 奥 姆 失 踪 调 查 结 果 做 了 总 结 ，并 将 我 的 看 法 告 诉 了 灵 魂 王 子 。阿 瑟 恩 的 说 法 被 采 信 了 ，他 是 一 位 英 雄 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我 将 菲 奥 姆 失 踪 调 查 结 果 做 了 总 结 ，并 将 我 的 看 法 告 诉 了 灵 魂 王 子 。瑞 戴 的 说 法 被 采 信 了 ，他 的 兄 弟 ，菲 奥 姆 ，是 一 位 英 雄 ，而 阿 瑟 恩 ，应 当 感 到 可 耻 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我 将 菲 奥 姆 失 踪 调 查 结 果 做 了 总 结 ，并 将 我 的 看 法 告 诉 了 灵 魂 王 子 。瑞 戴 和 阿 瑟 恩 的 说 法 都 不 对 。菲 奥 姆 的 死 和 变 节 使 他 的 部 落 蒙 羞 ，而 阿 瑟 恩 的 谎 言 则 使 他 的 同 族 更 为 劣 等 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>此 任 务 中 的 某 个 重 要 人 物 已 死 亡 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
+

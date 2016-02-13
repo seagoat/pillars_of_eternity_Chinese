@@ -1,0 +1,38 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\10_od_nua\1012_bs_vithrack_base</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>6</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“先 来 这 里 的 是 蜘 蛛 。从 洞 穴 带 食 物 过 来 的 。好 多 尸 体 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“年 轻 的 大 多 是 在 迁 移 地 长 大 的 。现 在 把 这 里 当 成 家 了 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“下 面 躺 着 的 是 什 么 ？蜘 蛛 不 会 去 那 里 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“是 塞 德 努 亚 大 师 吗 ？那 里 很 明 亮 吗 ？有 着 很 犀 利 的 眼 神 对 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“现 在 我 们 也 建 立 起 来 了 。就 像 大 师 的 巨 人 一 般 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“多 谢 [Player Race]。不 胜 感 激 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

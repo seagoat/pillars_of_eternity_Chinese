@@ -1,0 +1,63 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\07_gilded_vale\07_bs_black_cat</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>11</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>起 先 ，你 以 为 这 可 怜 生 物 生 病 了 ，因 为 它 的 黑 色 皮 毛 已 从 它 的 皮 上 大 片 脱 落 。但 当 那 猫 回 头 看 着 墙 上 苍 蝇 的 时 候 ，你 发 现 它 的 整 个 胸 腔 都 是 敞 开 的 。它 的 部 分 尾 巴 已 经 腐 烂 ，露 出 了 部 分 参 差 不 齐 的 椎 骨 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>Trigger Conv Node 2</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>那 猫 对 此 貌 似 并 不 在 意 。它 震 颤 得 呜 呜 叫 着 ，蹭 着 你 的 胫 骨 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>[抚 摸 猫 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>[拾 起 猫 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>[踢 猫 ]“离 我 远 点 ，你 这 野 兽 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>[不 管 那 猫 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>你 拾 起 这 生 物 ，令 你 感 到 意 外 的 是 ，它 很 轻 -还 很 尖 。它 在 你 臂 膀 里 安 逸 地 呜 呜 叫 着 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>那 猫 迅 速 跑 到 其 他 地 方 ，继 续 舔 着 它 那 腐 烂 爪 子 ，仿 佛 什 么 也 没 发 生 过 一 样 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>那 猫 抬 头 看 着 你 ，前 后 晃 动 着 尾 巴 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>你 开 心 地 挠 着 那 猫 。它 黑 色 的 皮 毛 开 始 大 片 脱 落 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

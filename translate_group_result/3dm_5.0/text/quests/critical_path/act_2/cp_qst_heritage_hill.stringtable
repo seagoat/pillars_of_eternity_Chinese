@@ -1,0 +1,127 @@
+<StringTableFile>
+  <Name>quests\critical_path\act_2\cp_qst_heritage_hill</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>不死传承</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>进入传承之山的塔楼</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>登上传承之山塔楼的顶部。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>搞清传承之山的英格维斯机器是如何运作的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>找到伊堪萨</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>处理英格维斯机器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>找到塔楼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>寺僧向我展示了反抗湾一个破旧地区的古塔。塔里有个奇怪的人捣鼓某种机器。我也看到一个心脏上有疤痕的女人。我不知道她在哪里，但我怀疑是那里发生的一切的关键。
+
+铅制之钥对这个塔楼感兴趣是有原因的。如果我要弄明白他们的计划，我必须搞清它是做什么的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>我见过的塔楼在传承之山周围的墙上赫然耸现。我希望能在那里找到解密的下一个线索。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>寺僧的幻象并未让我充分准备好迎接这里的一切。整个地区充满了复活的尸体。一路杀到塔顶——不管那里等待我的是什么——都不会轻松。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>我在塔顶找到了一个古老的机器。正如寺僧向我展示的，那里还有一个人。
+
+他也许能告诉我这里发生了什么。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我需要同传承之山的伊堪萨谈谈。她显然知道一些关于塔楼的重要的事，这也许会是我搞清铅制之钥目标的关键。
+
+这就能解释为什么寺僧因这女人而担忧。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>我已经懂了英格维斯语，现在可以返回泰尔·诺尼斯塔上的机器那里去，看看对于传承之山的诅咒能不能做些什么。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>铅制之钥侍僧帮我在满是残垣断壁的区域里指出了一座古老高塔的所在，就在一片墓地附近。
+
+要找到那座塔才能继续跟踪这条线索。首先要做的就是四处打听一下，或许可以向那些正在巡视的审判者问问，因为他们非常熟悉这座城市。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>通往传承之山的大门处的守卫说我需要有起始之火塔楼的薇拉的特别许可方可进入。
+
+当然，用金钱或者武力也可以说服他让我进去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>在寺僧的视觉中我已经杀掉了我在塔顶看到的古尔。我想他正在试着弄明白怎么操作英格维斯机器。显然他还没搞定，但也许已经有了什么可以让我有机可乘的东西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>奥尔德海姆，退化于塔顶的通灵师，答应告诉我强化自己的方法，只要我取得伊堪萨的口令，并给他维生的来源。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>奥尔德海姆已经严重退化——当我跟他说话时他看起来随时准备好了要扑上来一样。如果我想要他的帮助，我就得给他送一个祭品。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>从寺僧的视觉中我发现了一个苍白的女人，但是她不怎么热衷帮助我。也许从视觉中找到那个男人可以让我更清楚怎么处理她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我了解到了迪伍德对面的英格维斯机器可以用来移动灵魂。我还学会了英格维斯语，这意味着我现在可以操作它们了。我关闭了在泰尔·诺尼斯塔上的机器，这意味着传承之山的灵魂可以重新回到轮回之中了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我了解到了迪伍德对面的英格维斯机器可以用来移动灵魂。我还学会了英格维斯语，这意味着我现在可以操作它们了。为了保证机器再也不会被使用，我牺牲了传承之山的灵魂摧毁了机器。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我了解到了迪伍德对面的英格维斯机器可以用来移动灵魂。我还学会了英格维斯语，这意味着我现在可以操作它们了。我用机器吸收了困在传承之山的灵魂之力量。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

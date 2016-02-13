@@ -1,0 +1,103 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\critical_path\act_1\cp_qst_getting_water</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>19</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>稍 作 休 息 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>回 到 奥 德 马 那 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>抵 达 营 地 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>采 集 一 些 春 浆 果 来 制 作 药 物 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>屠 杀 车 队 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>找 到 斯 帕 费 尔 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>找 到 斯 帕 费 尔 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>我 突 然 得 了 急 病 。车 队 主 人 力 劝 我 在 病 情 恶 化 前 接 受 治 疗 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>我 找 到 了 奥 德 马 正 在 寻 找 的 那 种 春 浆 果 。只 要 斯 帕 费 尔 取 来 水 ，奥 德 马 就 可 以 开 始 治 疗 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我 们 在 河 边 遭 到 了 格 兰 法 斯 武 士 的 伏 击 。斯 帕 费 尔 被 杀 了 ，如 果 不 是 有 营 地 传 来 的 尖 叫 声 做 提 醒 ，就 不 只 是 我 们 中 埋 伏 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10006</ID>
+			<DefaultText>奥 德 马 说 某 种 用 本 地 浆 果 酿 造 的 茶 能 治 愈 我 。斯 帕 费 尔 已 经 去 河 边 取 水 了 ，所 以 我 只 能 自 己 去 采 集 一 些 springberry了 。奥 德 马 说 它 们 长 在 一 种 与 众 不 同 的 灌 木 上 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10007</ID>
+			<DefaultText>我 已 经 厌 倦 和 车 队 的 人 搭 伴 了 。杀 了 他 们 比 抿 上 一 口 茶 更 能 改 善 我 的 心 情 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10008</ID>
+			<DefaultText>斯 帕 费 尔 似 乎 一 点 也 不 急 于 取 水 。我 应 该 亲 自 去 找 他 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10009</ID>
+			<DefaultText>斯 帕 费 尔 似 乎 一 点 也 不 急 于 取 水 。我 应 该 亲 自 去 找 他 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>我 已 经 厌 倦 和 车 队 的 人 搭 伴 了 。杀 了 他 们 比 抿 上 一 口 茶 更 能 改 善 我 的 心 情 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>我 已 经 厌 倦 和 车 队 的 人 做 伴 了 。杀 了 他 们 比 呷 上 一 小 口 河 水 更 能 改 善 我 的 心 情 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>斯 帕 费 尔 把 他 的 包 忘 在 野 地 小 溪 边 了 。现 在 没 有 必 要 再 等 他 为 我 取 水 了 。我 自 己 来 做 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>车 队 遭 到 了 格 兰 法 斯 武 士 的 伏 击 。现 在 疾 病 是 我 最 不 在 意 的 事 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>无 论 我 得 了 什 么 病 ，能 力 也 不 会 受 影 响 。我 已 经 摆 脱 了 那 些 车 队 的 家 伙 了  - 但 一 股 怪 风 从 林 中 卷 起 。现 在 疾 病 是 我 最 不 在 意 的 事 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

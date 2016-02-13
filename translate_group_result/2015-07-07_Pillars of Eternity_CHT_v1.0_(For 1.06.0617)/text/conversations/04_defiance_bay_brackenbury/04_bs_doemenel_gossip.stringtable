@@ -1,0 +1,28 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\04_defiance_bay_brackenbury\04_bs_doemenel_gossip</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>「我跟你說的就是他。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>「殺死艾德裡德·溫菲爾德的那刺客？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>「別那麼大聲，他會聽到的！」</DefaultText>
+			<FemaleText>&quot;Not so loud, she&apos;ll hear you!&quot;</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>「他如果想對隊長動手的話，他可能早動了。」</DefaultText>
+			<FemaleText>&quot;If she snuck up on the captain, she probably already did.&quot;</FemaleText>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

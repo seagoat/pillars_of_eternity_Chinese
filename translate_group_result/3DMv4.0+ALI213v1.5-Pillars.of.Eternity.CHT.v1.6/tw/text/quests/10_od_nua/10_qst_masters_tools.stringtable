@@ -1,0 +1,83 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\10_od_nua\10_qst_主 s_tools</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>15</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>主 的 工 藝 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>向 下 深 入 無 盡 之 路 的 下 一 層 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>搜 索 廢 墟 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>回 到 查 瑞 克 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>蛛 人 在 塞 德 ‧努 亞 下 面 的 洞 穴 中 定 居 了 ，他 們 背 井 離 鄉 走 了 很 遠 只 為 尋 找 知 識 。他 們 對 主 利 用 綠 螢 的 技 術 十 分 尊 敬 ，希 望 學 習 到 如 何 把 綠 螢 變 成 自 己 想 要 的 形 態 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>蛛 人 請 我 幫 他 們 在 下 面 的 廢 墟 中 尋 找 一 些 材 料 。他 們 的 首 領 警 告 我 說 這 個 地 區 有 很 危 險 的 機 械 在 保 護 著 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我 到 達 了 洞 穴 下 面 的 廢 墟 ，可 以 開 始 我 的 搜 索 了 。蛛 人 請 我 幫 他 們 找 到 三 種 東 西 ：一 個 精 煉 的 綠 螢 水 晶 ，在 這 個 地 區 游 蕩 的 鑲 嵌 有 綠 螢 的 靈 魂 機 甲 和 一 個 古 代 因 格 維 斯 機 器 的 一 部 分 。這 些 東 西 可 以 給 蛛 人 的 實 驗 提 供 足 夠 的 基 礎 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我 已 經 集 齊 了 所 有 蛛 人 領 袖 要 求 的 東 西 。查 瑞 克 答 應 如 果 我 能 把 東 西 帶 回 去 ，就 會 有 報 酬 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>我 在 廢 墟 的 一 個 廢 棄 的 守 衛 身 上 找 到 了 一 塊 鑲 有 綠 螢 的 靈 魂 機 甲 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>我 在 廢 墟 的 一 個 實 驗 室 裡 找 到 了 一 塊 純 綠 螢 水 晶 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>檢 查 古 代 機 械 時 發 現 了 一 件 有 銅 鑲 邊 的 奇 怪 裝 置 ，蛛 人 或 許 對 其 感 興 趣 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>在 我 返 回 蛛 人 營 地 的 路 上 ，一 些 想 要 搶 我 的 東 西 的 偵 察 兵 攻 擊 了 我 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>在 我 返 回 蛛 人 營 地 的 路 上 ，一 些 想 要 搶 我 的 東 西 的 偵 察 兵 攔 住 了 我 。我 最 終 還 是 說 服 他 們 讓 我 過 去 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 攻 擊 了 蛛 人 營 地 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我 帶 回 了 蛛 人 想 要 的 東 西 。這 應 該 足 夠 他 們 做 實 驗 了 ，希 望 能 讓 他 們 有 些 成 果 可 以 帶 回 家 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

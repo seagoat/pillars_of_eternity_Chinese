@@ -1,0 +1,2028 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>game\backstory</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>404</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>未選定背景。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>你的家庭屬於上流社會，對於那些出身低賤的人來說，你的教養給你帶來了很多好處。你受過一流的教育，對奢侈的聚會，舞蹈和打獵運動習以為常，關心大地主的政治權益。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>你天生對美有特殊的天賦，你努力通過你那捕捉生活中各處之美的工作來培養這種天賦。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>你離家已久，背井離鄉致力於探索邊疆未知的地區。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>你總是對那些頤指氣使的人沒有好臉色。最初的一點反叛性格已經演化成對權威人物，權力結構的極度憤慨，你不放過任何表達你不滿的機會。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>你從不在任何一個地方久留。你不停地從一個鎮子到另一個鎮子，隨心所欲地離開，道路就是你的家。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>你畢生追求發現和探索的刺激，世界的邊緣和未知地方總像是在召喚著你。許多人滿足於一輩子生活在一個小鎮裡，而那樣的生活對你來說無異於死刑。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>你在曠野中謀生，花費大量時間來演繹捕獵的旋律，耐心的等待就像幕間休息，緊張的追逐象狂熱的演奏，還有那最後的休止符-終結目標的獵殺。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>就像那些強壯而聰明的前輩一樣，你學會了複雜的捕獵技巧，並用自己的方式將之熟練地運用到工作中去。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>在這個到處都是未開化的荒野，各國邊境充滿戰爭的世界，懂得任何一種戰鬥技能都是愛歡迎的。戰鬥就是你的職業，你已經是身經百戰。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>無論是因為能說會道，還是精於算計，又或者善於察顏觀色，也可能僅僅是碰巧，總之你現在已經成為了一個商人，因你主顧財力的不同而分別待之以不同的嘴臉。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>有人在書中或者去神壇尋找啟示，而對另一些人來說這樣做只是私生活的一部分- 甚至可能只是不得不。神靈啟示的火花已經給你指示了一條路，你所要做的是沿著它走下去，完成你的使命。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>抽像思維，理念衝突，善惡，是非觀念，追求終極真理- 這些一直是讓你熱血沸騰，頭腦加速運轉的東西，以至於你已經安排好自己的人生，這樣你可以消磨時間考慮難以捉摸的答案和具有挑戰性的信仰。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>你回應了更高的使命，放棄世俗生活的自由，只為奉獻給神聖的精神獎勵- 法衣的人生和神聖主題的研究，以及他們所持真理的傳播。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>你總是奪走自己想要的一切- 不管是什麼或是誰的。根據大部分法律，這是盜竊，但任何法律對你都沒多大用處了，除了你自己。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>很少有人真正瞭解被迫為別人服務，剝奪自由和尊嚴是什麼樣的感覺，但直到最近，這一直是你一生- 辛勤勞動，鎖鏈和主人不斷的凝視。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>你總是被字母和數字，事實和人物，問題和謀略弄得眼花繚亂。在學術界，你發現了一種置身於自己有興趣事物的方法，自那以後你基本上花費所有時間通過習得知識優化自己。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>自然界的規律對你來說是個謎，而你奉獻自己只為摸清端倪- 揭開其中的奧秘，揭示小真理將精力集中於大真理。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+      <DefaultText>當前故事測試1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>當前故事測試2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>過去故事測試1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>過去故事測試2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>你看到了異時空的景象。你在大法庭中漫步，走向一台巨大的機器，有個男子站在機器前面。你想問他點什麼，但是又不知道該問什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>後來你又看見了那個男子——據馬爾沃德說，那是前世的視象。從那個男子對你說的話可見，「你」是一個年輕的傳教士。你對他說你生於一個名叫克雷頓的地方，你解釋了你為何加入他的教團。然後他請你起誓。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>後來你又看見了那個男子——據馬爾沃德說，那是前世的視象。從那個男子對你說的話可見，「你」是一個年輕的傳教士。你對他說你花了很多時間呆在一個叫克雷頓的城市，你解釋了你為何加入他的教團。然後他請你起誓。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>後來你又看見了那個男子——據馬爾沃德說，那是前世的視象。從那個男子對你說的話可見，「你」是一個年輕的傳教士。你對他說你剛搬入一個叫克雷頓的城市，你解釋了你為何加入他的教團。然後他請你起誓。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>你第三次遇到這個你正在找的男子的視像似乎顯示出那是在你上次見到他過了一段時間以後的時候。你正試圖離開教團。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>你對他解釋你看到異教徒正在做不可告人之事，你不在希望面對這些慘狀了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>你對他解釋你和家人關於你的新信仰發生了爭吵，他們不接受它，最終拒絕和你對話。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>你對他解釋你覺得你應對一事件負責，異教徒攻擊了教團，很多傳教士受傷了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>你對他解釋你犯了無法自辯的錯誤，嚴重程度足以讓你被趕出教團。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>雖然你想離開，這男子說服你留了下來，並給你卸除了一項沉重的負擔。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>在刺殺公爵的事件中，陶斯對你說過什麼，讓你想起前生的事情。你看到一個被折磨的女人，她的身體被拉伸著綁在一個鐵輪的表面上。陶斯在那裡，問她是否祈求饒恕，而她則拒絕了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>在慌亂中你看到了陶斯的視象。他想知道你是否認識一個異教徒女人，她和你一樣來自克雷頓。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>你承認你曾經愛上過這個異教徒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>你承認異教徒是你的妹妹。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>你承認異教徒是你的導師。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>你承認異教徒是你的友人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>你承認你認識異教徒，但關係並不熟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>你承認你不曾遇見過這個異教徒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>你承認你不曾遇見過這個異教徒，但是你對陶斯撒謊了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>在你去雙榆城的路上，你看見過陶斯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>他稱你為「審判官」，向周圍集結的愈加騷動的人群呼喊一個異教徒女人的名字艾瓦拉‧恩索斯。他尋求她的理解。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>他說他知道關於這個女人的事你對他撒謊了，他命令你告訴他你和女人的真實關係。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>你說出了和艾瓦拉的關係，他要求你和他一道給她以懲戒。他表示她的罪行中包括背叛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>你第一次在泰爾‧埃夫隆之外和艾瓦拉交談。她歡迎你進入她的營帳，對有機會敘舊很高興。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>你又看到了關於艾瓦拉的視象，那是在葬身島的岸邊。她對自己的家鄉十分擔心，在考慮建立一支軍隊來反抗陶斯的審判。你按陶斯所說，告訴她她應該到歐西奧努斯尋求庇護，而那裡的國王已經準備好把她交給審判團。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>在懺悔者之廳，你看到了艾瓦拉的審判。陶斯將她判為異端，命令折磨她，但她毫不懺悔——至少，她沒有遂陶斯的意。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>你發現你身處最早在鉛制之鑰廢墟中見過的宏偉大廳中。在巨大的阿德拉石柱底部，你對陶斯的幽靈說話——你曾想問他問題的人。這場對質是關於他在挽留你留在教團中、贏得你的忠誠時所撒的謊。你想知道這些神明是否是真實存在的。他沒給你直接的答覆。但是他暗示如果你一直發問，你就要面臨教團的審判。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>你在開往鍍金溪谷的篷車上病了。篷車主派你和他的嚮導卡利沙一起去找藥。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>你找藥時被人伏擊了，你回到營地發現憤怒的當地人殺光了營地的人們。你設法反抗他們，但差點被一道能將靈魂抽離身體的陰風殺死。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>你逃入古遺跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>你和卡利沙逃入古遺跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>你和西奧丹逃入古遺跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>你同西奧丹和卡利沙逃入古遺跡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>卡利沙表示不贊同在此歇息，你可能會在睡夢中被人殺死。你依然決定在此休息，醒來發現卡利沙已經走了，還拿走了你的水壺。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>你在廢墟遠處發現了她的屍體，她是可怕命運的犧牲者。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>卡利沙表示不贊同在此歇息，你可能會在睡夢中被人殺死。你決定繼續前進，雖然西奧丹受了傷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>你從廢墟中離開，發現人們在用某種古老的機械執行某種儀式。有個男子在指揮其他人，你看著他覺得他對你來說有種古怪的熟悉感。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>他離開後，機械開始旋轉，發出某種能量，緊接著是挾帶著像是你先前見過的暴風的爆炸。它將和男子一起執行儀式的人變成了灰燼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>他離開後，機械開始旋轉，發出某種能量，緊接著是挾帶著像是你先前見過的暴風的爆炸。它將和男子一起執行儀式的人變成了灰燼，西奧丹和卡利沙都死了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>他離開後，機械開始旋轉，發出某種能量，緊接著是挾帶著像是你先前見過的暴風的爆炸。它將和男子一起執行儀式的人變成了灰燼，西奧丹和卡利沙都死了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>他離開後，機械開始旋轉，發出某種能量，緊接著是挾帶著像是你先前見過的暴風的爆炸。它將和男子一起執行儀式的人變成了灰燼，西奧丹和卡利沙都死了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>你被爆炸擊倒失去了意識，當你醒來時你感到奇怪。你能看到聽到某種東西。你離開了廢墟，試圖徒步到達鍍金溪谷，你也許能在那裡找到人治療你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>當你到達鍍金溪谷的時候，你發現這小鎮不再是你曾被告知的繁榮之所了。你發現這裡死氣沉沉，受一種叫懷德溫遺留現象的困擾，地方官員對你的待遇也十分冷淡。你曾期望定居於此，但是當雷德裡克要塞的鐘聲敲響宣告領主生下的孩子並不健康時希望才徹底破滅了。地方官員建議你到酒館休息。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>你試圖睡覺，但周圍環境中一直充斥著喋喋不休的低語，你做了一個噩夢。你看到一個老矮人女人被吊在鍍金溪谷中心的樹上。她說了一個詞。「守望者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>地方官確認了你將無法定居於鍍金溪谷，甚至不能在這裡停留太久。你走了那麼遠，卻一無所獲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>你走到夢中吊死老矮人女人的地方，發現你能通過某種方式和她交談。你獲知了你是一個守望者，也許和你曾在廢墟中和死靈呆在一起有關，這讓你能夠看到其他時空的視象，但老矮人沒法告訴你更多細節了。她建議你去找一個叫馬爾沃德的老守望者，他是此地一座城堡的領主，也許能幫上你的忙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>你到達了凱德‧努阿，找到了鬧鬼的地方，此處看守表示主人下落不明。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>馬爾沃德在自己的城堡的地窖中，想藏起來以躲避自己幻想出來的幽靈。他的靈魂因為前生而覺醒了，他意識中某些來自過去的矛盾似乎讓他瀕臨瘋狂。他讓你小心以免也陷入這種情況。然而，他也表示也有辦法治好這種情況。他讓你去找鉛制之鑰，那是你曾經在廢墟中見過的人群，你可以向他們討教如何去除覺醒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>馬爾沃德的身體被他眾多前生之一所佔據，你被迫殺掉了他。你將他的靈魂綁定在城堡中，作為一個守衛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>馬爾沃德的身體被他眾多前生之一所佔據，你被迫殺掉了他。你放歸了他的靈魂，讓它去尋求自己的來生。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>馬爾沃德的身體被他眾多前生之一所佔據，你被迫殺掉了他。你在他的靈魂中搜索有用的知識，發現城堡地底深處有個藏有值錢物品的房間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>在第法恩斯港，你找到了一個沃伊迪卡的神廟，那是傳說中支持鉛制之鑰的神明。但是那神廟很久之前就被燒燬了。那裡盤踞的靈魂表示地下還有神廟的一部分。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>你在第法恩斯港地下找到了沃伊迪卡神廟，你滲透進鉛制之鑰，發現了某些值得一查的線索。他們也許能引你找到你在廢墟中見過的啟動機器、造成你覺醒的男子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>你在第法恩斯港地下找到了沃伊迪卡神廟，你殺掉了盤踞於此的鉛制之鑰成員，發現了某些值得一查的線索。他們也許能引你找到你在廢墟中見過的啟動機器、造成你覺醒的男子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>你發現傳承之山的地區被廢棄了，上面佈滿了陷入腐朽的生物，那些生物既不是活著，也沒有真正死去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>一位通靈師奧爾德海姆和一位古語言專家伊堪薩雖然都死了，但是他們的幫助起了效果。你得知傳承山頂的機器——名叫泰爾‧諾尼斯——有能力將靈魂從生物的身體中吸走，讓屍體在生物實質死亡後依然保持鮮活。此外，伊堪薩解釋說迪伍德還分佈有類似的機器作為中繼器，能將靈魂從一處傳輸到另一個地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>你讓泰爾‧諾尼斯的機器停止運轉，釋放了被它囚禁的靈魂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>你摧毀了泰爾‧諾尼斯的機器，它囚禁的靈魂也隨之毀滅了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>你沒有選擇解放靈魂或者毀滅靈魂，而是選擇了使用泰爾‧諾尼斯機器中囚禁的靈魂來增強你的威力。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>在科利班‧雷拉格的廢墟中，你發現了更多鉛制之鑰成員蒼白的屍體，他們顯然是自我犧牲而死的，他們的死催動了當地英格維斯機器的運轉。作為守望者，你復現了這些人的最後一刻。從中你得知了這些機器和懷德溫遺留現象有關。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>在布拉肯伯裡瘋人院，你找到了你要找的人。他佔據了那裡一個病人的軀體，看起來他在用這幅軀體來毀掉這個曾致力於研究懷德溫遺症，且是迪伍德最著名的通靈師之一的職業生涯。這個人對幫助你覺醒沒興趣- 至少不情願。他匆匆從瘋人院退出，把靈魂在身體之間來回傳遞，留下你來清理爛攤子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>你被敦裡德間諜機構的韋伯女士召喚，她好像知道你是誰，你做了些什麼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>你和韋伯女士在哈德萊特家族她的會所裡見了面。她想知道你為什麼在追蹤鉛制之匙，她還可以給你講講你在找的那個人-陶斯‧安卡農-他轉世重生時帶有著前世的所有記憶，並策劃了需要幾輩子才能實現的陰謀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>你用自己知道的一切讓韋伯女士相信了在懷德溫遺症的背後是鉛制之匙，而他們的陰謀涉及到了由通靈師來承擔過錯。她建議你去阿瓦公爵那兒，他現在正在宮裡舉行關於通靈術未來走向的聽證會。她認為如果你能找到聽證會的請帖的話，他也許會聽聽你的故事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>你可以說服十二團眾讓你加入他們在通靈術聽證會的代表團。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>你可以說服熔爐騎士團讓你加入他們在通靈術聽證會的代表團。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>你可以說服德梅尼爾家族讓你加入他們在通靈術聽證會的代表團。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>因為你疏遠了所有其它去通靈術聽證會的被邀請人，韋伯女士不情願地同意了讓你作為敦裡德間諜機構的代表參加聽證會。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>在通靈術聽證會上，儘管你提出了反對鉛制之匙的例子，你同樣說服了公爵通靈術非常危險，應該被禁止。在阿瓦公爵還沒來得及宣佈完畢之前，陶斯佔據了一個通靈師的軀體，刺殺了公爵，讓整個反抗灣陷入瘋狂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>在通靈術聽證會上，儘管你提出了反對鉛制之匙的例子，你同樣說服了公爵通靈術非常珍貴，不應該被禁止。在阿瓦公爵還沒來得及宣佈完畢之前，陶斯佔據了一個通靈師的軀體，刺殺了公爵，讓整個反抗灣陷入瘋狂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>你追隨著陶斯的蹤跡來到了敦裡德間諜機構，那裡你發現包括韋伯女士在內的所有人都被殺了。但通過檢查她的靈魂的最後一刻，你知道了陶斯接下來去了雙生榆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>你在暴民們殺戮通靈師的一片混亂中逃出了反抗灣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>在雙生榆，你發現大部分區域禁止外邦人入內，但你可以說服阿門法讓你進去</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>在兩棵巨大樹木的根部，你遇到了一對姐妹。她們說你被誤導了，覺醒是不會被消除的，但她們仍可以看見你的探索的價值，說道如果你能找到困擾你的靈魂的根源，你還是有可能解決它的。不管是哪種狀況，只有陶斯有我需要的知識。我要追隨陶斯進入一個英格維斯秘密城市，叫做蔭日之地。姐妹給我指出一條路，但走這條路我必須接受神的干涉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>你和在泰爾‧埃夫隆的神們交談，得知了陶斯的陰謀沒有因為迪伍德通靈術的毀滅而告一段落。他打算把他替換掉的靈魂獻給法治之神沃伊迪卡，這有可能讓她再次支配其它的神。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>災瘟之神萊姆蘭讓你去封鎖通往他的領域的一處門徑，冰刃缺口，在他冰封穹頂的神廟裡。那裡現在由一隊追尋著終極死亡和擺脫貝拉瑟之輪的翻滾的蒼白精靈所開啟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>你認為最好幫助精靈們實現他們追尋的終極死亡，盡你所能把你的決定解釋給災瘟之神萊姆蘭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>你按照災瘟之神萊姆蘭的命令封鎖了冰刃缺口，讓精靈們沉思他們繼續的存在。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>尋狩之神格拉文徵募你來幫助解決他不喜歡的一場雌獅和熊的對峙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>你確保了厄爾諾斯的死亡，讓雌獅蘇爾繼續她的統治。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>你確保了雌獅蘇爾的死去，終結了她的統治。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>你見證了兩隻動物的死亡，在你看來哪個都配不上統治地位。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>接引之神貝拉瑟要求大德魯伊若斯汀和伊樓娜-金色樹林的高階奧瓦德-死去，你見證了他們生命的終結。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>天羽之神赫麗雅讓你看見她的神廟上一個恐怖之物的幻象，你在那兒發現了一隻保護自己孩子的龍。你可憐這只龍，放它走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>天羽之神赫麗雅讓你看見她的神廟上一個恐怖之物的幻象，你在那兒發現了一隻保護自己孩子的龍。你屠殺了這只龍，讓赫麗雅的追隨者得以返回這裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>你和貝拉瑟達成了條約，他同意返還陶斯從輪迴中偷來的靈魂，使他們可以找到新的身體開始新的生活。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>你和赫麗雅達成了條約，她同意返還空心種的靈魂，使他們回到自己的身體，開始新的生活。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>你和尋狩之神格拉文，戰火之神馬格蘭，工匠之神阿畢頓達成條約，他們同意使用陶斯偷取的靈魂來加強尚存的迪伍德人的靈魂，使他們在各個方面更加強大。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>你和災瘟之神萊姆蘭，水月之神盎卓，憎逆之神斯坎達成條約，他們同意將陶斯偷取的靈魂分解，將它們的元氣分散到以太中，永遠不再形成靈魂或者佔據身體。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>憎逆之神斯坎悄悄接近你，讓你背叛其它神靈，接管陶斯，篡奪他的位置以及給予法治之神沃伊迪卡威力，你接受了提議。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>憎逆之神斯坎悄悄接近你，讓你背叛其它神靈，接管陶斯，篡奪他的位置以及給予法治之神沃伊迪卡威力，你拒絕了提議。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>憎逆之神斯坎悄悄接近你，讓你背叛其它神靈，接管陶斯，篡奪他的位置以及給予法治之神沃伊迪卡威力，你對他的提議不置可否。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>在去蔭日之地的路上，你遇見了玄秘之神衛奧，他建議你帶著陶斯偷取的靈魂前往一處未知之地，製造新的秘密。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>被神們遺留給你的靈魂包圍著，你跳進了葬身島頂點的坑裡，在無盡的墜落之後，你活著著陸在了德裡甘告訴你的永恆監獄。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>在佈雷斯伊曼的盡頭你遇見了艾瓦拉，她很早之前就記得你。她說你在她被宣判後來看過她一次，你是來問，她的「神不是真的」的教導是不是對的。她給了你一個答案，但沒有證據，仍不讓人滿意，你去蔭日之地和陶斯見面。她建議道，也許你的靈魂仍在尋找這個問題的解決方法，儘管陶斯不大可能提供。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>你丟下艾瓦拉在監獄裡，她選擇留在那裡作為對神們的蔑視。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>你說服了艾瓦拉加入你摧毀陶斯，她知道只要陶斯還活著，她的幻象就不會成真。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>你把艾瓦拉放逐到了輪迴中，返回新的身體中，對前世毫不知情。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>在蔭日之地，你找到了你很久之前遇見陶斯的會所，在這兒再次挑戰了他的權威，這次更加成功。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>你把陶斯的靈魂放回了輪迴，他也許被迫此生始終銘記自己的失敗，以及瞭解自己任務的徒勞。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>你把陶斯的靈魂撕碎了，對於一個被鉛制之匙保護的肩負如此重擔的人來說，是種慈悲。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>你把陶斯的靈魂送到了佈雷斯伊曼，宣判它永遠地留在那裡，給所有他冤枉的人平反，防備著他永遠不能實施陰謀詭計。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>你相信陶斯配得上一個新的開始，你把他的過往從他的靈魂中抹去，給了他一個機會，也許，過上正常的生活，沒有可怕知識和懷疑的生活。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>作為對他的罪行和他對你個人的輕蔑，你把陶斯的靈魂撕碎了，永遠地摧毀了他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>隨著陶斯的死去，最後你收到了神們本性和起源的證實，那個答案給你的靈魂帶來少許慰藉。幻象和輕語消退了。剩下需要做的是決定怎麼處理困在蔭日之地的靈魂。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>你來自[Player Culture]，你生於王室。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>你來自[Player Culture]，你的家族用財富換來貴族頭銜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>你來自[Player Culture]，你的家族身居高位。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>你是個來自[Player Culture]的演員。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>你來自[Player Culture]，職業是工匠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>你來自[Player Culture]，是名藝術家，追求著用自己的方式描繪世界。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>儘管你本來屬於[Player Culture]，你最終為了追尋財富脫離了那裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>儘管你本來屬於[Player Culture]，你為了逃避迫害選擇在別處定居。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>儘管你本來屬於[Player Culture]，當征服新大陸的召喚襲來時你離去了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>來自[Player Culture]，你加入了那裡的反抗事業。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>你來自[Player Culture]，你是名間諜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>你來自[Player Culture]，你因為犯罪被起訴，是名罪犯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>你來自[Player Culture]，你很小就是名孤兒。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>儘管開始來自[Player Culture]，但騙子的生活方式讓你不能一直在一個地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>你來自[Player Culture]，你一直在不停搬家來躲避追尋你的人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>儘管你來自[Player Culture]，你最近大部分時間在海上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>來自[Player Culture]，你選擇住在邊疆。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>儘管你來自[Player Culture]，你現在待在海上，在互相征戰的人之間生活。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>你來自[Player Culture]，在荒野裡過著獨居生活。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>你來自[Player Culture]，你發現了自己被召喚作為怪獸獵手。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>你來自[Player Culture]，你通過捕獵和收集來謀生。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>你來自[Player Culture]，你通過捕魚來謀生。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>你來自[Player Culture]，你被訓練為鐵匠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>你來自[Player Culture]，你暫時作為建造者工作。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>你來自[Player Culture]，你作為廚師被僱用來準備飯菜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>你來自[Player Culture]，你最終加入了軍隊，並參與了戰爭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>你來自[Player Culture]，你是個僱傭兵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>你來自[Player Culture]，你追尋著各種探險，靠掠奪生存。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>你來自[Player Culture]，你在各個港口間走私。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>你來自[Player Culture]，負責給船隻領航。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>在你的家鄉，[Player Culture]，你有自己的店面，和當地人交易商品。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>作為在[Player Culture]的神學家，你把時間花費在學習宗教主義上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>你來自[Player Culture]，當你開始體驗到心靈幻象時，你的生活改變了方向。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>在你的家鄉，[Player Culture]，你選擇了作為僧侶的苦行生活。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>在你的家鄉，[Player Culture]，你選擇了作為僧侶的苦行生活。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>在你的家鄉，[Player Culture]，你在教學方面找到了方向。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>你來自[Player Culture]，你逐漸開始懷疑現實本身，質疑著有什麼值得相信。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>曾作為你家鄉[Player Culture]的牧師的一員，你最終選擇了放棄。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>你來自[Player Culture]，你引領著一個忠誠的崇拜者的集會。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>來自[Player Culture]，你內心深深的信仰激勵著你去把它傳遞給其他人，你成為了傳教士。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>在你的家鄉，[Player Culture]，你把信仰當作了操控的方式，利用他人的信任來剝削他們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>在你的家鄉，[Player Culture]，你通過獲取他人財產來謀生- 不是交易。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>你本來來自[Player Culture]，然而海上掠奪讓你過上了海盜的生活。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>來自[Player Culture]，你是個搶劫旅行者和脆弱村子的強盜。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>在你的家鄉，[Player Culture]，你被販賣為一艘大帆船上的奴隸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>你來自[Player Culture]，你在田間努力工作，生活的奴隸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>你來自[Player Culture]，但巨額債務讓你成為了契約勞役。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>作為你家鄉[Player Culture]的一名學者，你沉浸在自身文化以及整個世界的歷史中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>你來自[Player Culture]，一個專注與神秘事物的學生。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>來自[Player Culture]，你受過戰鬥藝術的教育，像其他人學習語言或數學那樣學習戰爭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>在你的家鄉，[Player Culture]，你使用自己的科學知識來解決犯罪以及追蹤罪犯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>在你的家鄉[Player Culture]，你的自然知識使你可以從植物中提取強大的物質來改變人們的精神和肉體，你用這些物質來和其他人交換來獲取好處與利益。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>在你的家鄉，[Player Culture]，你培養了對自然最基本元素，以及它們之間的轉化的興趣，這使你成為了一名煉金術士。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>但你的王室之血讓你成為嫉妒和陰謀的對象，一次對你的刺殺最終迫使你背井離鄉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>然而，你失寵了，被剝奪了家族的繼承權。身無長物，你收拾了一下離開了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>但哪怕是皇室也會在不能保住寶座時逃離。你的家族被顛覆了，它的統治終結了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>但成為王室不是你想要的，你逃離了你伴隨血脈而來的責任。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>然而，王室之血也沒什麼價值，當你不是寶座的接班人時，你在那兒徘徊也沒什麼用。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>但你的家族的秘密不會一直保持下去，當你們家族的頭銜的來源公之於眾，你就會失寵，不再和其他的貴族平起平坐了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>但擁有頭銜和人民知道你的頭銜是兩回事。你的家族從沒能說服其他人它的貴族的正統性，繼續假裝也沒什麼希望。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>但你的家族同樣有著敵人，最終你的對手會用惡毒的謊言玷污你的家族。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>但它只立足於名字，財富被浪費了，而它的衰退好像是免不的了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>但你不受你的家族的青睞，如果可以的話他們早就否認你的存在了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>但儘管社會高看他們一眼，你卻沒有這種感情，寧可不和他們有什麼牽連。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>但是你在的劇團解散了，你被迫自己想辦法謀生。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>但演出只在精彩的時候才會盈利，不幸的是，你的激情和你的才能不相稱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>但演出也是有風險的，一場糟糕的事故讓你不得不重新評價你的生涯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>你費盡全力謀生，但地主制定的稅率讓生活對你變得格外艱難。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>但當初很有前途的職業，在你付出數年時間卻失去學徒身份時被打斷了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>但你的天賦招致了憎恨，殘忍的破壞行為讓你前途無量的生涯突然止步。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>但事實是你看待這個世界的方式讓其它人害怕與困惑，你通過你的藝術來謀生的想法夭折了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>當你一天回到工作間，發現數年的心血被偷走了，一個銅板都沒給你剩下，所有的一切都改變了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>但藝術只在運動的時候才是成功的，而藝術只在有靈感的時候才會運動。你的靈感來源隨著時間流逝枯竭了，發現沒什麼可以替代它們，你的生涯倒塌了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>但不管你怎麼尋找都不會給你帶來你想要的財富，最後留在這裡也沒什麼價值了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>你追尋著其他人有關財富的故事，卻發現自己來得太晚了，那片土地被掃空了，所有的資源都耗盡了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>但這種生活方式不讓你滿意，終於你意識到是時候繼續前進下去了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>這次逃走還不夠，你的迫害者還會追上來的，你被迫再次遷移。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>但你來到的地方和你離開的地方一個樣子，很快你在這兒也不受歡迎了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>但你選擇的地方距離那些會對你不利的人不太遠，擔心著有一天醒來發現他們在你門前嚇壞了你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>但這片土地不會被制服。你的村莊被一群感覺受到威脅的土著燒燬了，什麼都沒給你剩下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>然而吸引會日益減小，因為你以征服土地的名義犯下的罪行讓你良心備受譴責。最後，你感覺自己必須把它拋在身後。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>但這片土地掀起了比你設想的更大的戰鬥，因為你的移民隊對它遇到的新疾病沒有任何抵抗。人口驟減，你能活著已經非常幸運了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>但很少有反抗者會勝利，你的事業在對手的鐵蹄下鈍擊了，留下你沒什麼可抗爭的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>這個事業開始看起來很高尚，但一旦掌權後，你就發現這個政權和它推翻的那個別無二致。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>然而，你很快明白了戰爭的真相，而你也對它失去了興趣。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>但你的工作終於招致了危險，你在任務中被發現了。你逃脫了追捕，但你的身份已經曝光，你的家已經不再安全了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>一份充滿誘惑的提議讓你出賣了你的僱主，這一舉動讓繼續在家鄉格外危險。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>但你的工作需要太多的道德上的妥協，而一旦你完成不了任務，你的性命就岌岌可危了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>終於，你度過了自己的刑期，被釋放到了世上，尋找著自己的位置。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>那裡，你感覺自己的刑期太長了，通過越獄來大幅縮短了它，相對於在押，你選擇了在逃。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>你終於被假釋了，但自由的誘惑太過強烈，你選擇了做一名逃犯。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>但孤兒院不是你呆的地方，你決定有一天要把它徹底燒燬，在任何人發現之前逃離。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>沒有關心你的父母，你從沒有找到過安穩下來的家和理由，一天又一天你離出生地越來越遠，好像是在滿足你自己也不明白的什麼渴望。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>儘管世上滿是孤兒，你是那種出於選擇沒有父母的稀少孤兒，他們都被你親手殺了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>確實，你被那些為你所騙的受害者追趕著，匆匆離開最後一個城鎮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>欺騙他人的藝術最終對你沒了吸引力，對新的開始的渴望推動著你踏上新的道路。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>但世上確實有那種至死也會追趕騙子的人，你碰巧騙了一個這種人。逃到遙遠的地方好像是最明智的做法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>他們似乎認為你有什麼對他們很寶貴的東西，他們決心要從你手中奪過來。你唯一的選擇是繼續前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>你把那種會無所不為來危害你的人樹為敵人，他們也確實這麼做了。你唯一的選擇是繼續前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>但至於他們為什麼找你，你不清楚。你知道的是，你必須繼續前進。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>然而，你航海的日子很快就結束了，你的船被海盜攻擊並被摧毀了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>然而，不管你在那兒找什麼，你沒有找到，現在你在尋找新的方向。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>但海洋是片孤獨的地方，你發現自己需要在文明的陪伴下才能和世界和平相處。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>但那兒的情況很不樂觀，逼著你去生活過的故地大開殺戒，還要你去推翻對週遭事物的看法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>但是，邊境的生活就是這麼孤苦伶仃，看來你還承受不住這份空虛啊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>在這遠離文明世界的蠻荒之地居住，你和附近的其他人非常容易遭受攻擊。有一天，一群凶狠的劫匪襲擊了你，你被搶劫一空，無家可歸。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>曾有一時，你和他們一同燒殺搶掠，但最後你覺得這無濟於事，於是決定動身離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>曾有一時，你和他們一同燒殺搶掠，但遲早你的家鄉就會成為他們下一個下手的目標。你見不得這樣的事情發生，毫不猶豫地離開了他們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>曾有一時，你和他們一同燒殺搶掠，但你意識到這不能讓你滿足，你想做一番更大的事業。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>鍍金溪谷之行讓你有了安定下來，開始一段新生活的機會。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>你希望能在鍍金溪谷中保持低調，以免惹來不必要的麻煩。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>到達鍍金溪谷後，你便開始計劃你的未來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>你決定前往鍍金溪谷，好與過去的生活一刀兩斷，早斷早了，你決定盡快動身離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>鍍金溪谷僅僅是你的第一站，與此同時，你充滿期待地向那座城市走去，想看看前方等待著你的是什麼樣的生活。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>對你而言，鍍金溪谷僅僅是個中轉站，不久你就會離開那裡，尋找新的目的地。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>鍍金溪谷僅僅是你新生活開始的第一站，你覺得你不會在此逗留太久。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>你懷揣著英雄夢你前往迪爾伍德，在鍍金溪谷定居下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>鍍金溪谷對你而言是完全不同的景象，但你並不想因此改變你生活的方式。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>你前往鍍金溪谷，期望著一場大冒險能讓你改頭換面，重獲新生。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>到達鍍金溪谷後，你不想因捲入什麼麻煩而浪費時間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>到達鍍金溪谷的第一件是，就是為你自己找些新朋友。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>你千辛萬苦達到了鍍金溪谷，但這遠不是你期望的終點，你想知道生活到底會把你帶向何方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>你急於證明自己，把目光瞄準了一頭非比尋常的野獸，但你高估了自己。你的狩獵小隊幾乎全軍覆沒，你只能一個人戰鬥了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>儘管你冒著很大的風險，但你救下的那些人都沒表示感謝。久而久之，你開始心生厭惡，覺得自己所作的努力一文不值。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>你急於證明自己，把目光瞄準了一頭小有名氣的野獸，但最後卻發現你的目標已經死去。你心灰意冷，決定離開故鄉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>但時逢饑饉，你被迫前往更遠的地方尋找獵物。你周圍的許多人都在忍饑挨餓，這段記憶在你的腦海裡揮之不去。你放手一搏，希望再也不要生活在這樣的苦難之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>在一次狩獵途中，一次意外奪去了你同伴的生命。你因這次事件而備受指責，不久之後，你開始受到周圍人的排擠。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>但你的抱負遠不止於當一名獵人。你的同鄉因為你作出的選擇而對你指責再三，你備受屈辱，決定離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>但是你的漁船被幾艘更大的船超越了，魚的儲量隨著時間的流逝越來越吃緊了。你不願在此忍饑挨餓，決定收拾收拾，離開這裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>但一場強勁的暴風雨毫無徵兆地降臨了，你的船被海浪打翻。你的所有努力都化為了泡影，被迫去開始新的生活。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>但養家餬口的擔子越來越重。你決定離開，把責任都拋在腦後。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>雖然師傅給予了你指導，但他絲毫沒有讓你參與競爭的意思。由於沒有建立貿易的途徑，你不得不把目光拋向國外去尋找機會。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>但你的訓練因為師傅的意外身亡而中斷了。沒有了學成出師的希望，你被迫動身離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>你有著無與倫比的天賦，但你周圍的人卻都不願承認。你心灰意冷，決定動身尋找一個能更受到賞識的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>但由於一個計劃上的小失誤，你的一座建築倒塌了，造成了數人死亡。你的事業戛然而止，你也因此離開，去尋找一個你可以隱姓埋名的新地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>曾幾何時，你也備受矚目，靠修建大樓賺了很多錢。但地產市場迅速萎靡，你也被迫背井離鄉，去尋找別的工作機會。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>你結識了一位生意夥伴，只要你們同心協力，就一定能過上富足的生活。丹但他算計了你，把你的錢全投進了他自己的生意中去。你所信任的朋友一個個都背叛了你，你不得不靠自己去闖蕩了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>你發現你的僱主是個不可理喻之人，因此決定馬上辭職走人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>有一天，你朝一個貴族的食物裡大吐口水，想以此讓他難堪。這讓你付出了極大的代價。他讓你的生活變得苦不堪言，你趁事態尚未進一步升級，趕緊逃出了你的家鄉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>不僅貴族家裡的金銀珠寶已經唾手可得，你還勾搭上了一位闊氣的老爺。但他的妻子發現了端倪，她立即懸賞要拿你的人頭，你被迫開始逃亡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>不僅貴族家裡的金銀珠寶已經唾手可得，你還勾搭上了一位高貴的夫人。但她的丈夫發現了端倪，他立即懸賞要拿你的人頭，你被迫開始逃亡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>但你的僱主並不欣賞你在烹飪方面的傑出才華，漸漸地，你對他們庸俗的品味心生不滿。從而你決定要把你的功夫下到別處去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>你來自[Player Culture]，在那你擔任著治安官的工作。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>隨著鬥爭的繼續進行，你越發確定你效忠錯了人。戰爭一結束，你就離開了，把一切悔恨都拋在了腦後。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>很多英勇的戰士都在戰死沙場，戰爭結束後，在你眼前消逝的生命始終在你腦海裡揮之不去。你離開了故鄉，希望在旅途中慢慢忘卻這段記憶。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>你一直以來都是一名士兵，你磨練著作戰技巧就是為了有朝一日能上戰場殺敵。由於遲遲沒有開戰的消息，你啟程離開家鄉，對未來充滿了迷茫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>你靠打仗謀生，但你家鄉的工作已經所剩無幾，你被迫流離海外，謀求生計。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>僱傭兵的生活開銷不菲，你不久便欠下了債務，而債主是個危險的人物。你啟程尋找工作，趁他還沒懸賞要你的人頭，趕緊把錢還清。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>傭兵的工作讓你惡名昭著，你斬惡無數，但卻對他們背後的真相一無所知。你決心去一個可以讓你隱姓埋名的地方，開始一段新生活。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>但是在一天晚上的慶功宴上，你酒後與人發生鬥毆，對方有錢有勢，非常記仇。於是你離開了小鎮，試圖逃裡他的魔爪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>但你的最後一場冒險卻以災難收尾，有數人在災難中喪生。你因此離開，試圖把這事拋至腦後。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>你接手了一份報酬豐厚的工作，但不久卻發現你的老闆對你非常苛求。在他把你炒了之後，你周圍的同伴也紛紛離去。你在故鄉近乎一無所有了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>久而久之，驚險刺激的冒險生活也不再能吸引你。你決定出發去探尋與之不同的事物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>但你和你的同伴被一大群匪徒打敗了。他們佔領了小鎮，建立了他們的統治，你趁他們還沒把你五花大綁，趕緊逃離了小鎮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>你的工作雖然非常重要，但報酬卻微乎其微，你入不敷出，四處乞討。於是你決定去別處闖蕩，希望能找到報酬豐厚的工作。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>你作出的所有努力都未能阻止人們受到傷害，久而久之，你的任務好像已經失去了意義。留在這裡做無用功似乎沒有任何意義。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>這生意利潤豐厚，但也伴隨著較大的風險。你的一個競爭對手向政府出賣了你，你險些就落在他們手裡了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>你對運送貨物的種類非常小心謹慎。但你的一個顧客使了詐，讓你去運送你根本不允許運送的貨物，你因此發誓再也不幹這一行了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>這生意利潤豐厚，但也伴隨著較大的風險。你在一單大生意中受人欺騙，失去了一切。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>有一天你受到了走私船的襲擊，被丟在了海上等死。雖然你僥倖倖存，但這樣的經歷讓你對這份工作望而卻步。你只好出發去尋找新的工作機會。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>但是船員集體叛變了你。雖然你僥倖倖存，但你的船被奪走了，你只好去別處開始新生活。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>但你漸漸對船上的生活心生不滿。在你抱怨這船經營得如何不好之時，你的上司把你開除了，你只好去別處尋找工作。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>但有一天你的商店遭到土匪的搶劫，他們把你洗劫一空後迅速撤離。你因此一無所有，對那兒也心無所戀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>但你沒有經營商店的經驗和技巧，不久商店就自然而然地倒閉了。你的投資者們受到了損失，非常生氣，並向你保證不會給你第二次機會了。你只好離開家鄉，尋找新的生計。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>但你的成功引來了競爭者的妒火，有一人還僱傭暴徒砸毀了你的商店。你因此一無所有，對那兒也心無所戀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>久而久之，你漸漸感覺這樣學習就是紙上談兵。文字背後的真意還要自己去體會，所以你決定去親自實踐。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>在你研習的過程中，你發現你前任搜集的知識存在大量疏漏。雖然有人說根本沒有獲知這些未解之謎的途徑，但你漸漸醒悟，許多事情背後的原因都尚不明晰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>在你的文本中，你發現了幾段非常有趣、引人注目的文字，你迫不及待地拿去與同事分享。但他們沒有你想像的那麼包容，還譴責你糊弄了事。由於你的名譽受損，你在家鄉也別無所戀了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>你在幻象中看到了一個見所未見的地方。經過一番調查，你漸漸獲悉這個地方叫做迪爾伍德，你看到的幻象誘使著你前往那裡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>你的幻象吸引了周圍人的注意，尤其是那些認為與你結盟有利可圖的派系。但你不願像道具一樣受人利用，趁著夜色悄悄溜走，隱姓埋名。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>你的研究引來了他人的注意，有人指控你為異端邪說。對那些指控忍無可忍之後，你不得不離開家鄉，尋找安全的棲身之所。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>你過著艱苦的生活，你很快意識到這並不是你想要的生活。你對你的選擇非常後悔，隨即放下過去，決心去別處開始新生活。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>雖然你的訓練要求你忘卻塵世的煩惱，但你做不到。你愛上了別人，同時開始質疑訓練的意義。雖然你的愛情並沒有持續多久，但你的經歷推動著你走上了新的道路。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>雖然你的訓練嚴酷無比，但你知道這只是旅程中的一小步罷了。一旦完成訓練，你就決定獨自踏上旅程，去看看外面的世界。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>經過數年的學習，你覺得是時候出去走走，化理論為實踐了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>但你覺得在課桌後度過的這幾年毫無意義，於是你棄學離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>但你在哲學探討和學術推測上越鑽越深，最終發現你研究的一切都缺乏響應的證明。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>但你和你一個學生的緋聞不脛而走。雖然這段關係沒有持續太久，但消息一傳出，你的婚姻也走到了盡頭。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>但你的教學遭到了你鄰居和學生的冷嘲熱諷。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>但有人懷疑你還有所保留，並未盡心盡力，你倍感惱火，於是辭職走人了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>但在宗教人士獲知你的罪行後，你擔心自己的生命受到威脅，遭到迫害。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>但你對自己的虛無主義厭煩透頂，決定暫時不再去思考這事兒，從別的角度看待事物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>你覺得自己所做的一切都漫無目的，於是啟程離開了家鄉。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>在你急需幫助時，神拋棄了你，於是你再也不相信神明了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>你褻瀆神明的行為讓你被革除了教籍，再也無法獲得原諒了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>你領悟到，即便是你，也不能遵守某些誓言。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>但你家鄉的人們不願聽循你的教導，於是你決定前往別處施教。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>你渴望受到越來越多信徒的擁戴，但在發現了你的把戲之後，原本對你百依百順的信徒們把你驅逐了出去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>但你曾經施教的小鎮已被洗劫一空。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>但你發現你的信仰根本無法解救你服侍的人們。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>但在那些聲稱遵循你的教義之人露出了偽善的面容後，你幡然醒悟。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>所以你開始了旅程，希望能在迪爾伍德傳播教義。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>在你的詭計最終被人識破後，你被驅逐了出去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>你在那兒大獲成功，聲名大噪，因此你不得不前往一個可以隱姓埋名，低調生活的地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>最終，你對自己的騙局也心生厭惡。於是你動身離開，希望開始新生活。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>你被逮住太多次了，只好離開此地，不然就要被劊子手處刑了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>但你的搭檔欺騙了你，政府對你的行蹤饒有興趣，你只好逃離此地。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>但最後，你偷錯了對象。一時之間，哪怕對你網開一面，都難逃罰款與監禁，你只好逃離了此地。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>但你最終無可救藥地愛上了你注定不能擁有的人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>生活本來相安無事，直到有一天，你的同船水手逼著你去走跳板。但你所幸活了下來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>你船員成功讓你垮了台，你自己也受到了許多政府海軍的通緝對象。你的船被擊沉了，倖存的船員也一哄而散。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>但你與船長大吵了一架，能毫髮無損地從船裡離開已經是一件幸事了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>最終，濫殺無辜開始讓你心生不安，你選擇了離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>雖然你的同胞獲得了一點成就就沾沾自喜，但你卻高興不起來。你離開了他們，渴望做出更大的成績。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>最終，你的罪行引起了軍方的注意，你們只能四散而逃。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>但是你的船因為天氣惡劣，導航不利受損嚴重，你在船沉沒之前掙脫枷鎖逃了出來。但你的同伴就沒有那麼幸運了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>但你和同行的奴隸共同進行策劃。你們齊心協力奪取了船的控制權，把你們的主人一個個趕了下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>你原本很有可能做一輩子奴隸，但有人出於良心買下並解放了你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>但你逃走了，成功避開了你主人的眼線和當地的執法人員。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>但最終法律修改了，當地官員下令，將你和你的同僚統統解放。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>但有一天，你奮起反抗，殺死了你的主人。趁政府還沒來得及處罰你，你趕緊逃了出去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>經過數年的艱苦工作，你終於還清了你的債務。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>但一支入侵的軍隊經過了這裡，解放了你和你的同伴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>但你的勞動太過艱苦。於是你溜了出去，棄家人於不顧。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>但這麼多年來，你只靠著讀書來瞭解世界，因此你也想去直接親身體會。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>經過數年的學習，你已經不想再讀別人的傳記了，你決心去建立一番屬於自己的豐功偉績。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>但你對過去的事情鑽的越深，你就瞭解到越來越多不同人的歷史觀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>但你的職業生涯因為一個錯誤的決定走向了終結。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>但你在學習上無法實現突破，你發現正是自己的導師阻礙著你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>但你的導師只是含糊其辭，你很快意識到他們已經無法繼續教導你了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>你一心想著你的抱負，而不計行為的後果，最終，你觸犯了規則，被驅逐了出去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>但當你學到那些用以讓人挨餓，大肆屠殺和奴役民眾的戰術時，你意識到這並不是你想要的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>但一次學術練習失控了，你殺死了一位同學，被迫棄學離去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>在你發現你的天資比你的導師還高出一等後，你棄學離去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>然而，你一路上犯了很多錯誤，有些錯誤讓無辜的百姓因為不存在的罪名而受到了懲罰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>然而，在你最終遇上了一個解決不了的案件後，你陷入了猶豫不決之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>然而，你的調查讓你獲知了一些令人不安的消息，而這消息有關你掛念之人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>然而，你開始留意這些物質對其他人的傷害，你的自責最終讓你放棄了研究。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>但你不計後果的行為引來了政府的注意。你趁他們還沒抓到你趕緊開溜了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>然而，競爭是冷酷無情的，雖然你在生意上遭受排擠，但你的命還是保住了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>然而，一場事故險些要了你的命，你也開始注意到這一領域的危險性。這段記憶作為一個警告牢牢地刻在了你的腦海之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>但你得知你推崇、仰慕的老師是個不折不扣的大騙子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>但當你學成之後，你意識到你還是沒能獲得你想要的答案。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>你在鍍金溪谷當地人手裡救下了一位名叫亞祿的鹿叢巫師。他說能找到一位旅伴，真是謝天謝地呀。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>亞祿透露說他的靈魂已經覺醒了，同時他能與一個名叫伊瑟米爾的女人共通意識，後者雖然粗魯，但英勇異常。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>亞祿承認自己是鉛制之鑰的成員，但又說在得知這一組織在迪爾伍德境內犯下了種種罪行之後，他希望幫助你阻止他們。你同意讓他繼續與你同行。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>亞祿承認自己是鉛制之鑰的成員，但又說在得知這一組織在迪爾伍德境內犯下了種種罪行之後，他希望幫助你阻止他們。雖然如此，你還是把他趕走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>你在鍍金溪谷遇到了埃德爾，他是一位當地的農夫，信仰著重光之神伊歐薩斯。他家人的信仰——還有他兄弟在聖者之戰選擇的立場——讓他成了當地政府的懷疑對象，所以你決定讓他一同與你離開小鎮。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>你得知埃德爾的兄弟沃登在遇到了懷德溫之後，決定在聖者之戰中加入雷德塞拉斯一方。埃德爾漸漸意識到他或許永遠都不會知道為什麼他的兄弟選擇擁護懷德溫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>在途徑馬格蘭岔路時，你遇到了名叫杜蘭斯的狂熱牧師。他馬上認出你是一位守望者，並一心想和你一同踏上旅程，去遊說他人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>你告訴杜蘭斯馬格蘭曾與沃伊迪卡共謀對抗伊歐薩斯，她意在讓杜蘭斯與其他神錘炸彈工程師一同赴死。於是杜蘭斯重拾了他對馬格蘭的信仰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>你和一個女人之間發生了奇怪的聯繫，而你認為她就是哀傷之母。她在迪佛德加入了你，但你自此就再也沒見任何其他人留意她了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>你得知正是哀傷之母讓第一批空心種降生到了迪爾伍德。出於對孩子們和她自己生命的憂慮，她讓那些父母們自認為孩子們非常健康，與常人無異。然而，你向她再次保證，這麼做實有必要，也有理有據。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>你得知正是哀傷之母讓第一批空心種降生到了迪爾伍德。出於對孩子們和她自己生命的憂慮，她讓那些父母們自認為孩子們非常健康，與常人無異。你告訴她這麼做大錯特錯，她也聽了進去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>哀傷之母懇求你抹去她的靈魂，她的靈魂中充滿了關於誕生鐘的痛苦回憶。但你拒絕了她。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>哀傷之母懇求你抹去她的靈魂，她的靈魂中充滿了關於誕生鐘的痛苦回憶。你同意給她帶去安寧。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>在你到達凱德-努阿後，你遇到了一位名叫卡納‧魯阿的拉瓦台學士。他加入了你，希望能在堡壘深處找到一份古老而神聖的密文。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>你在樹林裡遇到了一位名叫希拉維的羽精德魯伊。他說他最終的目的地是雙榆城，但他同時也非常熱衷於探險，看來他需要一隊人為他保駕護航呢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>來自維拉共和國的聖武士帕勒吉娜被你應對那個魯莽的商人的方法打動了，你得到了和她一起為她的公爵工作來掙點花銷的機會。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>帕勒吉娜仍然終於自己的信條，她提出了一個會損害迪伍德利益但是能幫公爵獲得利潤的商貿協定。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>在可能會威脅到她自己在五重日兄弟會的地位的情況下，為了阻止共和國竊取格蘭法斯和迪伍德的利潤，帕勒吉娜修改了公爵的貿易協定。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>你在野外的十字路口遇到了女獵手薩加尼。她一路從納斯塔克而來，一直在尋找她村子裡的一個轉世的長者。她被你追蹤和定位靈魂的能力所打動，所以接受了你共同旅行的邀請。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>最終，你找到了已經轉世為鹿的帕索克。不幸的是，他已經被格蘭法斯獵人打傷了。薩加尼幾乎都沒時間來跟他說他在瑪蘇克的家人的事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>最終，你找到了已經轉世為鹿的帕索克。不幸的是，他已經被格蘭法斯獵人打傷了。薩加尼幾乎都沒時間來告訴他他的遺產是如何造福瑪蘇克的。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>最終，你找到了已經轉世為鹿的帕索克。不幸的是，他已經被格蘭法斯獵人打傷了。薩加尼朗誦了她村裡人的名字。而且她似乎覺得這樣的儀式僅僅能給他們一點心理上的安慰。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>卡納找到了板子，結果發現它很久以前就被毀掉了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>希拉維見到了同樣有著秋暮劍獅虎形態的德魯伊斯卡瑟登。希拉維很久之前就接受了他的錘傷以及隨之而來的流放。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>你來到了雷德裡克的堡壘，殺掉了這個給鍍金溪谷帶來無數災難的領主。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>你殺掉了潛在的篡位者科斯克。這維護了雷德裡克七世對鍍金溪谷的統治地位。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>你開始探索在你城堡之下的巨大的地牢。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>在奧努的無盡之路的深處，你遇到了一條古老且強大的龍，然後你殺了它。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>在奧努的無盡之路的深處，你遇到了一條古老且強大的龍，之後你同意幫助它。你為它在法蘭羅找到了一個新主人——一個屠龍者。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>亞祿在你的旅途中死掉了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>艾德死在了你的隊伍中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>希拉維死在了旅途中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>帕勒吉娜死在了旅途中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>哀傷之母離開了你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>哀傷之母死了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>杜蘭斯死了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>卡納魯阿在路途中死了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>薩加尼已經不在了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>傳記</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>影像</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>在通靈術聽證會上，雖然你說的關於通靈術的話似乎很有效，然而你是反對鉛制之鑰的。但是，在阿瓦公爵能夠做出總結之前，陶斯奪走了一具通靈師的屍體並刺殺了公爵。這使得整個反抗灣都陷入了憤怒之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>你說服了艾瓦拉，使她相信長期的監禁已經對她毫無益處了。你分解了她的靈魂以確保她不會再進入貝拉瑟之輪的輪迴之中。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
+

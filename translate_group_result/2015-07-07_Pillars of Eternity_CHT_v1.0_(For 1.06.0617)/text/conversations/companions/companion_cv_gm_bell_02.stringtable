@@ -1,0 +1,612 @@
+<StringTableFile>
+  <Name>conversations\companions\companion_cv_gm_bell_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>121</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"那是精神之石綠瑩形成的高原。高原上縱深的峽谷內設了一口鈴鐺，隨風擺動著……當同伴的手敲擊時，它發出的聲音意味著聯合。"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「在久遠的時代，鈴鐺為格蘭法斯人所用——也許是守衛的角色。我不知道他們為什麼遺棄它。另一群定居者適時出現……並宣告對塔樓的所有權。而我接替他們佔有了它。柱子成為了搖籃，讓我得以使新的靈魂降生。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「生育之鈴……它讓我得以使新的靈魂降生。通過你看到的畫面我能回想起一些有關它的記憶……但並非全部。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我想再聽一遍，無魂兒和鈴鐺有什麼關係。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「在你的記憶中，是否正幫助一個女人生育？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「生育之鈴在哪兒？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「我想談些別的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「眼下繼續我們的旅程吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Trigger Conv Node 11</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「是的……但我相信你僅僅看到了降生儀式的一部分。它並不是在剎那間或一天內完成的。那是孩子、母親和我多年努力的成果。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「你能告訴我有關降生儀式的事嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「我想問其他關於生育之鈴的問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「問你想問的問題——我會回答我能回答的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「降生儀式……是許多步驟中的一步，雕琢它們就耗費了數十年……但引導我的往往是孩子的思維，從其覺醒之初，到他在母親體內度過的三年，直到降生的那一天以及之後的歲月。孩子的思維……是一切的開始。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「懷孕的目前……我經常能感受到她——和她孩子的想法——在她之前。我會安慰她，以使她從問題的恐慌中解脫。我會在她心裡喚起高原上的生育之鈴的記憶聲音，讓共鳴的回憶響徹在我——和她的心裡。通常孩子的靈魂也能聽到聲音，所以鈴鐺的聲音……迴響在母親的思緒中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「我有很多方法來幫助母親……比如尋求在儀式中身體上的慰藉來穩定他們的思緒——甚至是鈴鐺上的綠瑩。另外的方法還有在未來幾天徵求意見……忠告。我能提供跳棋、藥酒……和對孩子靈魂的解讀，所有這些來強化母親。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「對孩子靈魂的解讀？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「許多母親……會來尋覓對孩子的未來……或者對孩子的過往，即其靈魂曾經的人生的解讀。」寒意緩緩升起，一時間她似乎正從你的視野中淡化消失……就像她無法忍受被看見似的……警告，恐懼突然而至……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「這樣的事……不是我想要看到的。我並沒有惡意。」奇怪的是，她好像並不是跟你在說話……感覺像是她在對某位觀眾說話。空氣呈現出一種奇怪的狀態，持續甚久的寒意……淡化為沉悶的恐懼。你感覺到「通魂者」一詞在她的心中迴響。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「你害怕了……對有關通魂者的事感到恐懼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>隨著有關通魂者s的想法縈繞在你的腦海中，你感到強烈的痛苦……刺痛心靈……你的肩背突然受到燃燒的鞭擊……然後又消失無蹤……你感覺到面前的哀傷之母顯得沉默、恐懼而小心翼翼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「我曾經並不是這樣的。但由於我被冠上了『通魂者』之名，這一頭銜帶來了我本未得到也不該承受的負擔。這個世界似乎已經滿是擁有此類頭銜的人。我想，頭銜會隨人的行為和力量而轉移。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「你為什麼曾堅信你是個通魂者？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「這個世界廣闊無垠，在某些角落，通魂者之名更為人們所熟知。這個頭銜相比其他更易獲得，並且有時更容易承受。把頭銜加諸於無知之人能使其免於恐懼……我也並未抗爭。我甚至相信它是真的，雖然我對通魂者s的行為方式幾無所知。它甚至……給予了我力量。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「我能夠看到並重塑他人的想法，並幫忙引導靈魂……『通魂者』看起來足夠了，並且這一頭銜似乎對人的行為並無多少影響。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「但是……如果她們到你這裡來尋求解讀她們孩子的靈魂，你會告訴她們什麼呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「我……根據現狀來描述。我先感受面前母親的靈魂……然後用它來描述孩子的靈魂，以此作出解釋。只要目前的想法和其下的情緒由我給予，我也確實那樣做了……並且……所以我用這來解讀她們孩子的未來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「如果那被證明是錯誤的怎麼辦？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「由自己靈魂完滿的未來與別人眼中的現狀一樣真實。並且如果從母親的情緒中提取信息……除非造成了傷害，否則這種行為並無不良影響。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「他們的生活我很熟悉。隨著時間的推移，我可以編織他們的生活，他們的想法——無論是母親或孩子——而一旦孩子出生並得到庇護......我可以逐漸放鬆思想的控制，直到孩子可以獨立生活。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「所以……你改造了他們的思維，使得解讀成為事實。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「這是我的使命……向他們展示我先於他們看到的生活，更甚者……使他們信服。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「這不是一個通魂者該做的事……我們不會改造思想，我們只觀察既定的存在。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「即使……措辭最強硬的解讀不足以拯救孩子並使他出生……如果我有能力剝離母親的惡意來編織良善，從不屑和忽視中喚醒生育，那麼這就是我的使命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「在我的思想背後的『通魂者』的作用下，這些解讀獲得了力量……我自己從未掌握的力量。他們相信了。而他們相信的成為了事實。隨著每一個孩子被設定為那樣的人生之路，通魂者之名愈發強大。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「你必須理解……沒了我話語的份量……很多生靈早就迷失，淹沒投身於鈴鐺前的湖泊了。現在前往湖泊的小徑已經消失在森林中了……正如預計的那樣。通魂者不是來巡視人們的，但通魂者拯救了他們……有了通魂者的力量，孩子們得以出生、受到照顧並茁壯成長。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「把你的意志強加於他人……這不是解讀，這是控制。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「當靈魂處於危險中時，一個受驚的意志又有什麼用呢？你會讓母親的恐懼終結她那新生兒的生命嗎？你在回憶中感受過了，它的份量，孩子生命的重要性——這是我們共享的回憶。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「但是……當無魂兒到來的時候你做了什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「詛咒……」由一陣情緒帶來的些微寒意在你們兩人間擴散。下一個想法緩慢而恐懼地進入了你的大腦……就像被母親的恐懼覆蓋的，嚇壞了的孩子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「所以你為了孩子，扭曲了母親的感覺。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「你為什麼要做這種事？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「並且如果母親的情緒是痛苦的……受傷的那該怎麼辦？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「當借用他人的思維時必須保護自己。一位母親的狂怒和蔑視帶來的痛苦……就像是致命毒藥一樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>「聽起來你這像是經驗之談。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「是的……並且我仍然處於那種虛弱之中。我學會了在那樣尖銳的思想中保護自己，清除它們，並且作出……對一個孩子的更清晰的解讀。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「我不明白。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>「我不知道你能解讀靈魂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「那種見解……過去的生命……未來的生命……」哀傷之母有些微的猶豫……短暫的憂慮，然後平息了……這種感覺很奇怪，來得快去得也快。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「生育之鈴位於迪伍德的密林深處，格蘭法斯境地的邊緣。在它的周圍……勉強能稱得上小鎮，你在任何地圖上都找不到……但它對那裡的人們非常重要，即使我們遠離了世俗的慣例。像繩結一樣維繫起來的小型家族，組成了大腦和思維中的一個個關節。所有都受到歡迎，都有目的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「第一次降生使我印象最深刻，也最悲傷。對於找到孩子的靈魂並作出指引，我一無所措……」你感到奇怪的……離散感存在於你的思維之中，就像你的想法在遙遠的距離間分享。你的想法一會兒滲出，然後又強烈地回到近處——成為自我的想法。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>「我無法理解到底發生了什麼。我那時可能會做什麼。恐怕我……不。我不能糾纏於這個想法。孩子一直是過去所發生之事的提醒和標誌。我讓她關心這個。我讓她們都關心這個……直到我能找到我曾……什麼地方出了差錯。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>「你讓她關心這個？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「但是無魂兒……那不是你的行為。它在世界各地都發生了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「我明白，你不得不保護你自己。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>「其實……更糟。我讓她認為那就是全部……並且……然後更多的生命降生於鈴鐺……像往常一樣，有很多我不得不去改造的思維……一大群思維空洞的孩子，在他們父母的如炬目光下……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「外面的聲音很少能傳達到我們這裡。有足夠的時間讓狂怒、痛苦和不幸來引導幫助……我害怕在孩子身上會發生什麼……在我身上會發生什麼……每一個母親都知道她可能產下死胎，但對於這些冰冷的、沒有靈魂的生物？父母們不會明白……對於未知的恐懼誘發了暴力。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>「是的……但是母親不也是無辜的嗎？難道她不值得我去保護嗎？我覺得我的理由是正當的……但對我所做的並不滿意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「我們共享了記憶？還是你把記憶強加於我？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>「那記憶……不是真的吧？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>「一件大好事完成了……孩子們得救了。這個選擇總有一天你會被迫遇上，而當你面對它時，你會作出同樣的選擇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>「當它發生時，我會做出自己的選擇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>「是的，我確信我會的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>「我拒絕練習那種控制他人的方法。甚至是遠比這更好的方法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「通魂者，這不是你要做的選擇。你會按照世界和孩子們需要的方式行動。這遠比你和你那……扭曲的見解要好。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>她的想法像清涼舒緩的水流一樣圍繞著你。「那就好，通魂者。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>「保護無辜生命，值得付出一切。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>「你把你的意志強加於鎮民。那是錯誤的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>「他們……他們那時可能會殺了孩子。我別無選擇。當時的狀況太複雜以至於無法尋求許可。所以我讓他們相信他們的孩子完整健康地活著。直到有太多孩子……使得保護崩潰了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>「然後發生了什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>「我……控制了他們的頭腦。我盡我所能改造和引導他們。隨著每一天的過去，每個新生命的降生，負擔愈發沉重。我的控制越鬆弛，我的思想越集中。最後，甚至連我也屈從於自己幻覺的力量。我把思線編織得太過緊密以至於再也無法看穿它們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>「然後一天早上，我聽到喪鐘響徹村莊。哭聲從薄霧中升起。一位母親死了，她的思緒全部集中到了照顧她的無魂兒孩子身上，以至於她忘了進食。由此，幻夢破裂了。無魂兒是怎樣，鎮民看到的就是怎樣，而不再是我希望他們看到的那樣。從那天起，他們看我的眼神也不同了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>「我不明白發生了什麼，但足以讓我知道逃避。我埋藏了每個浮出表面的懷疑，每個淡忘的關於我做過什麼的記憶。」她看上去冷淡、孤獨而死板。「我的能力使我失敗了，但我做了必須做的事。我……對那位母親的死感到遺憾，但如果我沒有那麼做的話，情況會變得怎樣更糟呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>「正確的事並不總是簡單的。但如果我們能找回迪伍德迷失的孩子們，我們的努力是值得的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>「像那樣管轄另一方，即使為了善行，也是不對的。我們必須接受，世事並不總受控制。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>「我不想與你一起旅行了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>隨著你說出你的想法，你能感覺到你們兩人間的距離不斷擴大。然後……然後她慢慢地消失在你的視野中，似乎沉沒在空氣中就像沉沒在黑色湖水裡一樣，死寂。你能看到她的輪廓，然後……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>「還有其他方法。你本可以尋求對孩子的外部幫助。或者如果擔心你自己的話，你可以脫身不管。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>「你談到的選擇在危機中並不總是清楚的。當第一位母親乞求孩子而我不得不決定應該給她什麼時，那些選擇並不在我的想法中。我如何能知道那條路會導向何方，或者其他人在找尋求同樣的回答？即使如此，在此過程中的猶豫會犧牲一個年輕的生命……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>觸發Conv Node 237</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>「我的行為反而造成了更多的痛苦。更糟的是，我對於整個村莊的攫取……使得他們像我努力保護的孩子們一樣空虛和無助。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>「但是然後呢？在面對悲劇時挺身而出更好？還是讓飢餓之潮席捲世界更好？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>「生活總是痛苦的。你不該妄想它並不痛苦。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>「有時。如果你的行為只會讓它變得更糟的話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>「把你的意志強加於別人是不道德的行為。這種做法除了引發悲劇外還能怎樣呢？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>「這個世界終究有一套自我糾正的方式。你必須讓它那樣做。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>「通魂者，我隨時準備援手……幫助孩子脫離自宮，減輕母親的痛苦……冷眼旁觀不是我的作風。但生育之痛苦的起伏就像命運之輪的轉彎。一番新的降生，一次新的機會，一個新的生命……只要這一痛苦痊癒。也許這是我們的希望之所在。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>「你感覺到了母親的想法？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>「分享記憶和想法能讓生命團結在一起……就像困難一樣……最重要的，分享熟悉的事物。鈴鐺本身提供了這種想法的庇護所，提供了深入觀察裂縫的機會，以及可用於掩護的岩石空洞……在其中你會感覺被綠瑩包圍的裂縫。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>隨著她的講話……你感到你的腿彎曲交叉，感到周圍牆壁……和你身下厚毯的溫暖。「……像這樣共享的景象能使靈魂結合得更緊密，並使得他們能夠互相汲取力量。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>「你提到儀式持續了很多年……降生後會發生什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>「一旦痛苦被引至別處，母親和孩子重新開始呼吸，我聽到生育之鈴的聲音從手臂上響起，使得母親能聽到孩子的想法，鈴聲在雙方的思緒中迴響……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>「鈴鐺打開了他們之間溝通的道路，讓他們的感覺相互傳遞……當感覺相遇時，我會編織另一個回憶並放入他們的腦海中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>「這些鍾在降生過程中是否發揮了重要作用？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>「是的，並且之後的歲月也是如此。接生後我給孩子一個集合。那是對母親和孩子間共享記憶的提醒。」你有一種奇怪的感覺，一絲溫暖，一個分享的笑容，很快閃爍消失了。「繫於手腕上的鈴鐺引導孩子前行並一路陪伴……照顧他的心理和身體。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>「這並不需要魔法，除了……實踐這種『魔法』。如果孩子力圖離開搖籃，或逃離嬰兒床……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>「母親可以單通過鈴聲得知警告。有時如果聯繫緊密的話，我也可以。」微笑的感覺再次緩慢而明確的出現在你們之間。「如果沒有得到看顧，孩子們……會有很多麻煩。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>「鈴聲會一直存在，直到孩子不再需要了為止。當我不再聽到它們在我心中響起時，我知道他們的靈魂已經變了……我們之間的聯繫從此蕩然無存。這一聯繫的脫離過程可能會持續很多年……或者幾年。但這是……必需的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>「這些孩子降生之後，你多年來一直在照看他們？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>「孩子們是……脆弱的生命。即使血脈和心靈的維繫也本能不足以保護他們。他們必須得到看護，甚至……即使那樣，身體可能仍會與心靈分離。但如果得到看護……如果足夠堅決，即使是最多病的孩子仍能延續生命，並且很多他們的靈魂會與我聯結。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>「如果孩子的靈魂失敗了……我可以鳴響他們心中的警鐘並甚至從此以後給予他們力量。這……並不總是有效，但……它能帶來希望。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>「聽起來你也看到過悲劇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>「足以讓我不希望再一次感受了。在鈴鐺存世之前……死去的孩子……會被投入鈴鐺前的湖水裡。有時候，即使是活著的孩子，如果他們的未來被看作是……無力的話，也會……那是個……不同的時代。孩子被……隨意地對待。那個時代……那個時代已經過去了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>她低下了頭。似乎有什麼包圍著你……一陣厚重的迷霧。隨著哀傷之母向內看去，它向你迫近，快要使你窒息。終於，她抬起了視線，迷霧撤退了。「我只知道這是迪伍德所有爐台的災禍，使這個國家支離破碎的危險。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>她安靜了許久。「你的話語撫慰了我的心……用我沒預料到的方式。通魂者，感謝你贈予的見解……感謝你用它來引導我走出內心的牢籠。希望它也能讓你免於Thaos編織的幻覺。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>「我那時並不這樣看……我力圖用我的頭腦編織一個搖籃……但它成為了囚籠，對村莊和我而言。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>「但是……你覺得控制並引導他們的頭腦是對的？即使知道這樣做的成本？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>「你不知道那時的成本。我們常常必須用不完善的知識來編製課程。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>「仁慈給予了孩子機會，如果能持續一段時間的話，也會給他們的家庭帶來快樂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>「我打算減輕他們的痛苦……就像我已經幫助很多母親減輕分娩的劇痛一樣。但是我的想法成為了陷阱……牢籠，對村莊和我而言。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>「我以為我可以。我已經迫使很多大腦接受……仁慈……然而那些想法成為了陷阱……牢籠，對村莊和我而言。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>「一段旋律……簡短卻美妙。存在時值得珍稀的精緻之物。命運之輪的小小改變，但仍然是改變。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>「一個鮮活純真的生命的價值高於一切。是的，它值得那樣做。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>「一個線與線間編織而成的掛毯……從未見過的樣式。所以思維和夢想驅動著我們，並形成了我們的現實。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>「為什麼你為解讀孩子的靈魂？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>「看起來你的『解讀』是必需的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>「我明白了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>哀傷之母的思緒沉默平靜了好久。她讓你的話語淹沒她的話語，滲入她思想中的裂縫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>「……你談到發生在孩子身上，也降臨在這個國家的詛咒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>「……是的，這樣的見解超越了我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>突然，一聲嘶啞的號哭闖入了你的意識…她伸出手，你看到chimes在那裡，但在她移動的過程卻寂然無聲。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,531 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\01_defiance_bay_copperlane\01_cv_doran</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>103</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>一 个 男 人 躺 在 你 跟 前 ，卷 曲 着 身 躯 ，地 板 上 满 是 血 液 。他 的 脸 上 是 淤 青 的 伤 痕 ，房 间 的 几 个 角 落 里 都 洒 满 了 他 的 血 。当 你 靠 近 他 的 时 候 ，那 个 男 人 畏 缩 着 抽 泣 着 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“我 不 会 伤 害 你 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>[不 管 他 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“那 么 楼 下 的 人 是 谁 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“一 个 骗 子 ！名 字 叫 尼 里 德 的 巫 师 。他 闯 进 我 的 房 子 ，然 后 将 我 绑 在 这 。折 -折 磨 我 ……然 后 现 在 ，现 在 他 和 他 的 人 在 吃 我 的 食 物 ，破 坏 我 的 东 西 ，售 卖 迷 草 - 就 在 我 自 己 家 的 房 子 里 ！”他 眨 着 眼 睛 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>“所 以 你 是 卖 迷 草 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>“他 突 然 一 下 子 就 出 现 了 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>普 尔 尼 斯 克 转 移 视 线 ，没 有 与 你 注 视 。“我 指 望 我 的 供 应 商 的 那 一 小 瓶 药 水 ，但 是 我 需 要 那 些 钱 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>普 尔 尼 斯 克 惊 恐 地 喊 叫 着 。“当 然 ！请 别 伤 害 我 ！你 可 以 告 诉 她 ，你 想 怎 么 说 就 怎 么 说 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>“如 果 你 觉 得 我 会 帮 助 一 个 像 你 这 样 的 人 渣 ，那 么 你 就 犯 了 一 个 非 常 大 的 错 误 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>“抱 歉 ，不 感 兴 趣 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>普 尔 尼 斯 克 畏 缩 了 。“听 着 ，我 知 道 这 不 是 一 份 最 好 的 工 作 。尤 其 是 当 那 事 发 生 之 后 。但 是 酬 劳 不 错 。非 常 ，非 常 不 错 。而 且 ……嗯 ，人 们 都 想 要 那 种 东 西 ，不 是 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>“你 们 这 些 供 应 者 是 做 什 么 的 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>“到 底 发 生 了 什 么 事 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>“他 把 巫 师 尼 里 德 派 过 去 了 。在 楼 下 的 那 个 男 人 。”普 尔 尼 斯 克 颤 抖 着 。“为 了 弥 补 丢 失 的 铜 币 ，我 猜 ，而 且 当 他 拿 着 那 些 东 西 的 时 候 来 伤 害 我 。感 觉 像 是 好 几 天 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>“你 想 让 我 做 什 么 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>“我 会 去 做 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>“我 不 能 去 那 里 。他 在 楼 下 就 不 行 。我 已 经 被 绑 了 足 够 长 的 时 间 了 。拜 托 了 ，你 必 须 杀 掉 他 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>“他 已 经 被 好 好 收 拾 了 一 顿 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>“所 以 你 会 让 楼 下 的 那 个 人 渣 杀 掉 我 ？”普 尔 尼 斯 克 高 悬 着 脑 袋 ，深 深 叹 了 一 口 气 。“偏 偏 就 是 这 么 倒 霉 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>普 尔 尼 斯 克 解 脱 了 一 样 ，叹 了 一 口 气 。“哦 ，谢 谢 。如 果 我 可 以 的 话 我 会 帮 忙 的 ，但 是 鉴 于 我 现 在 的 状 况 ，我 只 能 减 慢 你 的 脚 步 。拜 托 了 ，当 心 点 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>“又 是 你 ！拜 托 了 ，我 需 要 你 的 帮 助 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>普 尔 尼 斯 克 盯 着 你 。“我 不 敢 相 信 这 个 噩 梦 最 后 还 是 终 结 了 ！”他 咧 着 嘴 微 笑 着 ，似 乎 记 起 了 一 些 事 情 。“你 明 白 你 对 我 所 做 的 事 ，但 是 ……”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>“跟 我 说 说 这 里 发 生 什 么 事 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>“尼 里 德 死 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>“吉 恩 拉 一 开 始 就 把 我 送 到 这 里 来 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>“是 为 了 什 么 事 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>“抱 歉 ，但 是 我 以 为 我 做 的 已 经 足 够 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>普 尔 尼 斯 克 迅 速 地 点 头 。“是 的 ，是 的 ，你 说 的 没 错 。当 然 。你 做 的 已 经 足 够 多 了 。谢 谢 ，朋 友 。如 果 你 需 要 什 么 东 西 ，我 会 一 直 在 这 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>“是 她 ？”普 尔 尼 斯 克 开 朗 地 笑 着 。“那 个 女 人 在 我 没 有 意 识 到 的 时 候 救 了 我 的 命 。拜 托 了 ，把 她 带 回 家 然 后 告 诉 他 一 切 都 还 好 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>“我 去 找 找 她 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>“我 告 诉 她 要 回 归 正 常 生 活 。她 永 远 地 离 开 了 你 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>“她 死 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>“这 样 ……就 结 束 了 ？他 死 了 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>“还 没 。我 马 上 就 回 来 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>“感 谢 你 帮 的 所 有 忙 。如 果 你 找 到 了 吉 恩 拉 ，我 保 证 你 们 不 会 后 悔 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>“她 怎 么 了 ？”普 尔 尼 斯 克 看 起 来 很 受 打 击 。“但 是 我 们 准 备 结 婚 了 。我 不 能 ……”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>普 尔 尼 斯 克 对 你 恐 惧 地 咧 着 嘴 。“什 么 ？我 的 吉 恩 拉 ……但 是 怎 么 会 这 样 ？发 生 什 么 事 了 ？这 不 是 真 的 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>“你 们 好 ！太 感 激 不 尽 了 。我 的 吉 恩 拉 回 来 了 ，有 她 在 我 身 边 我 会 很 快 好 转 的 。”他 笑 着 。“有 什 么 事 需 要 我 帮 你 做 到 的 吗 ？就 像 给 你 承 诺 过 的 ，诺 言 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>“我 看 看 你 有 什 么 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>“暂 时 没 有 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>你 靠 近 的 时 候 ，普 尔 尼 斯 克 咳 嗽 着 。他 的 脸 颊 凹 陷 下 去 并 且 眼 睛 红 红 的 。“又 一 次 ，你 好 ！我 ，呃 ……”他 吸 了 口 气 。“我 这 里 有 些 货 物 ，如 果 你 想 买 的 话 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>男 人 停 下 来 ，朝 你 看 去 。“你 -你 没 有 ？哦 ，赞 美 贝 拉 斯 ！你 不 是 他 的 手 下 ，对 吗 ？他 在 你 的 身 后 紧 张 的 向 你 瞥 去 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>“或 许 你 应 该 相 信 她 让 她 自 己 做 决 定 而 不 是 对 她 撒 谎 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>他 看 向 你 然 后 再 一 次 躲 开 你 的 视 线 。“我 要 去 找 我 的 爱 人 ，吉 恩 拉 。只 是 ……在 尼 里 德 折 磨 了 她 之 后 ，我 恐 怕 她 不 会 给 我 机 会 解 释 了 。 
+
+
+
+“但 是 她 有 可 能 会 听 你 说 的 。拜 托 了 ，她 一 定 是 在 科 博 莱 茵 的 某 个 地 方 ，那 儿 是 她 唯 一 所 知 的 家 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>“也 拜 托 你 别 跟 她 说 关 于 迷 草 的 事 情 ，还 有 我 所 做 的 事 。我 会 让 你 这 么 做 是 值 得 的 。或 许 可 以 成 为 一 个 诺 言 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>“我 知 道 ，我 不 能 强 迫 你 保 守 这 个 秘 密 ，我 只 是 不 想 失 去 她 。在 这 发 生 了 一 些 事 之 后 ，我 肯 定 她 不 想 跟 迷 草 扯 上 任 何 关 系 。或 者 是 我 ，如 果 她 发 现 的 话 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>[抓 住 他 。]“这 是 我 的 条 件 ：我 跟 她 讲 任 何 我 乐 意 讲 的 事 并 且 你 依 旧 要 给 我 信 守 诺 言 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>“天 啊 ，拜 托 了 。拜 托 了 ，别 这 样 。我 接 受 不 了 ……”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>看 到 你 回 来 后 那 个 男 人 惊 恐 地 抽 泣 着 ，防 卫 地 卷 曲 自 己 的 身 体 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>“我 ……”他 摇 了 摇 头 。“拜 托 了 ，我 不 知 道 你 究 竟 是 谁 ，但 是 我 的 名 字 叫 普 尔 尼 斯 克 。这 是 我 的 家 。你 得 帮 帮 我 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>[离 开 ]“我 不 想 卷 进 这 件 事 里 面 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>“什 么 ？等 -等 等 ，你 不 能 ……请 别 把 我 留 在 这 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>“我 可 不 想 卷 入 这 事 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>“站 住 别 动 。我 要 干 掉 你 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>“不 -不 ，等 等 ，”普 尔 尼 斯 克 说 着 ，他 的 眼 睛 惊 恐 地 大 张 着 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+			<DefaultText>“也 许 我 可 以 说 服 他 离 开 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+			<DefaultText>“我 可 不 想 卷 进 这 件 事 里 面 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>普 尔 尼 斯 克 摇 了 摇 头 。“你 不 知 道 ……你 不 清 楚 他 。他 的 能 力 。你 马 上 就 知 道 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+			<DefaultText>“别 老 是 碰 运 气 ，普 尔 尼 斯 克 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>“不 -不 会 ，当 然 不 会 ！你 做 的 已 经 足 够 多 了 。谢 谢 ，朋 友 。如 果 你 需 要 任 何 东 西 -任 何 你 想 要 的 东 西 ，我 会 一 直 在 这 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+			<DefaultText>“我 去 跟 她 谈 谈 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+			<DefaultText>[说 谎 ]“没 问 题 。我 会 那 么 做 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+			<DefaultText>“谢 谢 ！哦 ，我 的 吉 恩 拉 。我 真 的 好 想 她 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>94</ID>
+			<DefaultText>“太 感 激 不 尽 了 。真 的 ！我 好 想 我 可 怜 的 吉 恩 拉 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>97</ID>
+			<DefaultText>“我 -我 这 有 些 为 你 准 备 的 供 给 品 ，什 么 时 候 你 需 要 就 来 吧 。拜 托 了 ，只 想 知 道 她 是 不 是 还 好 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>98</ID>
+			<DefaultText>“发 生 那 么 多 事 情 之 后 ，我 也 失 去 她 的 消 息 了 ？拜 托 了 ，让 我 静 静 。我 得 坐 下 来 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>100</ID>
+			<DefaultText>“自 从 我 杀 了 她 之 后 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>101</ID>
+			<DefaultText>[说 谎 ]“我 不 知 道 发 生 了 什 么 事 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>102</ID>
+			<DefaultText>“对 于 你 的 不 幸 我 很 抱 歉 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>103</ID>
+			<DefaultText>普 尔 尼 斯 克 低 下 头 看 着 地 板 ，沉 浸 在 悲 伤 之 中 。“我 们 本 打 算 结 婚 的 ，”他 说 道 ，他 的 嗓 音 嘶 哑 了 。他 坐 了 下 来 ，将 脑 袋 埋 在 双 手 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>105</ID>
+			<DefaultText>普 尔 尼 斯 克 结 结 巴 巴 无 语 了 一 阵 子 。“你 -你 ……”他 的 脸 颊 写 满 了 悲 伤 。“你 欺 骗 我 。你 一 直 都 是 为 他 做 事 的 ，不 是 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>106</ID>
+			<DefaultText>“来 到 这 儿 ，假 装 帮 助 我  - 这 样 更 能 折 磨 我 吗 ？哦 ，天 啊 ，吉 恩 拉 。”他 双 手 遮 住 脸 颊 。“滚 出 去 ！出 去 ！我 再 也 受 不 了 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>107</ID>
+			<DefaultText>他 静 静 地 坐 着 脸 上 满 是 悲 伤 ，并 没 有 做 出 回 应 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>108</ID>
+			<DefaultText>当 你 靠 近 的 时 候 ，普 尔 尼 斯 克 向 后 退 缩 。“又 一 次 ，你 -你 好 。我 会 实 现 诺 言 ，就 像 你 想 要 的 。说 你 想 要 什 么 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>109</ID>
+			<DefaultText>“如 果 你 改 变 了 主 意 就 告 诉 我 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>110</ID>
+			<DefaultText>“暂 时 没 有 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>111</ID>
+			<DefaultText>普 尔 尼 斯 克 点 了 点 头 。“那 么 ，下 -下 次 吧 ”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>112</ID>
+			<DefaultText>“暂 时 没 有 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>113</ID>
+			<DefaultText>普 尔 尼 斯 克 点 了 点 头 。“那 么 ，下 次 吧 ”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>116</ID>
+			<DefaultText>“ 哦 ...”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>117</ID>
+			<DefaultText>“为 什 么 我 要 帮 助 你 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>118</ID>
+			<DefaultText>普 尔 尼 斯 克 看 起 来 垂 头 丧 气 的 。“……因 为 这 么 做 就 对 了 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>119</ID>
+			<DefaultText>“好 -好 吧 ，我 ……听 着 ，尼 里 德 拿 走 了 我 所 有 的 钱 。但 是 还 拿 着 那 些 钱 ！如 果 ……如 果 你 杀 了 他 ，他 的 手 下 肯 定 会 拿 走 大 部 分 的 钱 。你 就 可 以 全 部 拿 走 了 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>120</ID>
+			<DefaultText>“但 是 这 么 做 值 得 吗 ？失 去 吉 恩 拉 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>121</ID>
+			<DefaultText>“我 ……”普 尔 尼 斯 克 一 脸 忧 伤 。“我 必 须 这 么 做 ，很 抱 歉 。我 没 有 其 他 选 择 。事 情 对 我 们 很 不 利 。有 一 天 ，我 会 脱 手 这 个 生 意 。当 我 们 再 也 不 需 要 的 时 候 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>122</ID>
+			<DefaultText>“吉 恩 拉 走 了 ，你 个 傻 瓜 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>123</ID>
+			<DefaultText>“她 怎 么 了 ？”普 尔 尼 斯 克 咧 着 嘴 看 着 你 ，发 呆 着 。“但 是 我 们 准 备 结 婚 了 。所 有 这 些 ……我 是 为 她 而 做 的 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>124</ID>
+			<DefaultText>“你 还 打 了 她 。那 是 计 划 中 的 一 部 分 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>125</ID>
+			<DefaultText>“她 离 开 你 是 明 智 的 选 择 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>126</ID>
+			<DefaultText>普 尔 尼 斯 克 张 开 嘴 准 备 反 驳 ，然 后 又 犹 豫 了 。他 摇 了 摇 头 。“我 只 是 想 让 她 开 心 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>127</ID>
+			<DefaultText>“哦 ，吉 恩 拉 。发 生 那 么 多 事 情 之 后 ，我 也 失 去 她 的 消 息 了 ？拜 托 了 ，让 我 一 个 人 静 一 静 。我 得 坐 下 来 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>128</ID>
+			<DefaultText>普 尔 尼 斯 克 垂 着 个 身 子 。“拜 托 了 ，让 我 一 个 人 静 静 。他 把 脸 埋 进 双 手 中 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>131</ID>
+			<DefaultText>“好 吧 ，那 么 ，我 要 走 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>132</ID>
+			<DefaultText>普 尔 尼 斯 克 垂 着 个 身 子 。“哦 ，吉 恩 拉 ……我 很 抱 歉 ……”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>133</ID>
+			<DefaultText>“如 果 你 有 什 么 想 说 的 别 憋 着 ，说 出 来 ，不 然 我 就 撬 开 你 的 嘴 让 你 说 出 来 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>134</ID>
+			<DefaultText>“如 果 你 不 试 着 隐 瞒 一 些 事 情 的 话 ，这 会 简 单 很 多 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>137</ID>
+			<DefaultText>“等 等 ，我 听 说 你 ……”他 边 笑 着 边 抽 泣 着 。“我 不 知 道 你 是 如 何 找 到 我 的 ，但 今 天 确 实 是 我 的 幸 运 日 。
+
+
+
+“我 的 名 字 叫 普 尔 尼 斯 克 。这 是 我 的 家 。你 得 帮 帮 我 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>138</ID>
+			<DefaultText>普 尔 尼 斯 克 似 乎 离 开 了 ，没 法 跟 你 相 遇 。“你 认 出 我 了 ，比 我 的 那 些 供 应 商 还 快 。也 许 我 指 望 他 的 那 一 小 瓶 药 水 了 。但 是 我 需 要 那 些 钱 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>139</ID>
+			<DefaultText>普 尔 尼 斯 克 摇 了 摇 头 。“我 不 会 怀 疑 你 的 说 服 力 ，但 是 你 不 知 道 ……你 不 知 道 他 。他 的 能 力 。你 马 上 就 知 道 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>140</ID>
+			<DefaultText>他 紧 张 地 笑 起 来 。“我 知 道 一 个 道 理 ，如 果 那 个 人 有 着 危 险 的 名 声 ，那 最 好 不 要 去 惹 他 。如 果 你 需 要 任 何 东 西 -任 何 你 想 要 的 东 西 ，我 会 一 直 在 这 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>141</ID>
+			<DefaultText>普 尔 尼 斯 克 结 结 巴 巴 无 语 了 一 阵 子 。“即 使 你 没 有 ……”他 的 脸 颊 写 满 了 悲 伤 。“我 应 该 知 道 其 实 你 一 直 以 来 都 是 为 他 工 作 的 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>142</ID>
+			<DefaultText>[离 开 ]“走 着 瞧 吧 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

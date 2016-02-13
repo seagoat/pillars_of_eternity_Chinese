@@ -1,0 +1,64 @@
+<StringTableFile>
+  <Name>quests\07_gilded_vale\07_tsk_ferry_flotsam</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>渡口废料</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>找到残骸</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>返回去找佩蕾甘德。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>我见到一个名叫佩蕾甘德的商人，她距离迈德默大桥废墟不远。她有一辆过河的渡船，但是风暴将船打成了碎片。
+
+佩蕾甘德希望我能帮助他从渡船残骸中找到货物。盗匪想要占为己有，而手无寸铁的佩蕾甘德无力夺回。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>我要立刻调查迈德默大桥下游并找到渡船残骸的线索。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我得把货物信息带给佩蕾甘德。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>夺走了佩蕾甘德货物的“盗匪”只是风暴中的幸存者。我说自己宁愿去死，然后声称什么也没找到，这样汗文就能留下货物。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>盗匪被消灭了，剩下的货物也被找了回来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我归还了佩蕾甘德的物品，她给了我一些钱币作为回报，并承诺未来在反抗湾的商铺里和我做买卖。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>为了保护汗文和她的朋友，我向佩蕾甘德撒了谎，说所有的货物都被冲走了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>佩蕾甘德死了，这样归还货物都无关紧要了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

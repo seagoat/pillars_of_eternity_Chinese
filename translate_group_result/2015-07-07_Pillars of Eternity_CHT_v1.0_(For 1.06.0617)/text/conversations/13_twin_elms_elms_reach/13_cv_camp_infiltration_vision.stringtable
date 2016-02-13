@@ -1,0 +1,254 @@
+<StringTableFile>
+  <Name>conversations\13_twin_elms_elms_reach\13_cv_camp_infiltration_vision</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「站住。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>幻影士兵的短劍指著你的胸口，「你來錯城市了……審判官。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Trigger Conv Node 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「難道你認為在這裡，你的老家，沒人認識你麼？我親眼見證了你的試煉，我看到你活活燒死了無辜的人，我的朋友。」
+
+他掐著你的喉嚨，你無法說話，「他們需要你的懺悔。」他的短劍離你的眼珠只有一根髮絲的距離。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"蘇羅斯，你在幹什麼？「
+士兵大吃一驚，馬上放了你並轉向說話者，一個穿著普通羊毛外衣的女人，比他矮一頭，但對他卻高不可攀。你之前見過這個女人的臉，但在遠處看，滿是陰沉和殘忍。而現在則滿是關切。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「如果他這個刺客差勁到想在白天接近一個全副武裝的侍衛的話，我就沒什麼可害怕的了。我要聽聽他會說什麼。」
+她盯著他，直到他不再敢看她。他轉過身，一臉愁苦，斜眼看著你，握劍的手指關節都白了。</DefaultText>
+      <FemaleText>「如果他這個刺客差勁到想在白天接近一個全副武裝的侍衛的話，我就沒什麼可害怕的了。我要聽聽他會說什麼。」
+她盯著他，直到他不再敢看她。他轉過身，一臉愁苦，斜眼看著你，握劍的手指關節都白了。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「你怎麼在這，審判官？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「我……認識你嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>一見到你，艾瓦拉的眼都睜大了。「我的親哥哥，回來了！我從沒想過這一天會來。」</DefaultText>
+      <FemaleText>一見到你，艾瓦拉的眼都睜大了。「我的親姐姐，回來了！我從沒想過這一天會來。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>一見到你，艾瓦拉的眼都睜大了。「我一定是在做夢。從沒想過還能見到你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「我沒有權利渴求它。不是我們丟下東西那個樣子。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[說謊]「我只是想再見到你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[說謊]「我是來盡我所能幫你的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[說謊]「我相信你的學說是正確的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[說謊]「我以審判官的名義犯下的罪惡對我來說太沉重了。我想幫你來了結它。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「大審判官陶斯·阿卡農派我來這裡監視你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[說謊]「希望我們能有一個新的開始。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「很有幫助的審判官。不錯的想法。真希望你們都這麼有幫助。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「我想……可能還有其他原因。不過你在這裡，這就已經足夠了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「我意識到可能它還不只這些，但我不能強求每個人都遵從自己的意願。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「你有沒有想到，當你的大審判官讓你投降的時候，他是讓你招降其他人？」
+「不管怎樣，能看到真相產生的影響力真是太好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「能有一個老學生回來真是太好了。我一定教過一些對的東西，儘管也教了很多錯誤的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「過去教你的時候我犯了很多錯誤。希望你能給我機會向你證明我做了很多改變。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「不管怎樣，能有老朋友回來太好了。讓你的朋友變成隨從，你想像不出其中的難過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>艾瓦拉好奇的看著你。「真是個驚喜。好久都沒見過老朋友了。而你，我更是……沒想到能見到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「不管是什麼原因，這些年我一直都在想你。身邊都是陌生人，能有你在這，真是太好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「沒有什麼東西能比得上家人的維繫。我不該對我們的重聚產生懷疑。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「當聽說陶斯成為審判官時，我以為永遠失去了你。能看到我們的家庭不會被輕易拆散，真是太好了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>如果有更簡單的方法，不用招降大審判官就好了。但你的到來或許意味著，我們的目標可能不遠了。「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「從那以後發生了很多。審判官……」
+她低下頭，陷入了沉思。
+「我想那都不重要了。畢竟你已經在這了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「你這麼做讓自己冒著很大的風險。我不會讓任何人這麼做的，尤其是他的生命對我很重要。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「我很驚訝，你這麼關心我。你知道我是不會讓你做的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「你從哪來，審判官？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「事實上，就在這。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「是這樣嗎？這些天很少遇到人。我的很多隨從是從其他城市和國家來的。而且這些士兵大多數是被從鄉下徵兵過來的。」
+「我很欣賞這個想法，多找一些瞭解克雷頓的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>她盯著你。「我記得你。那是幾年前，我還是個傳教士。在這一切發生之前。」她搖了搖頭。
+「現在想起那些日子很艱難，是不是？我不會忘記那些日子的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「我很少有隨從來自那個地方。而且這些士兵大多數是被從鄉下徵兵過來的。」我很欣賞這個想法，多找一些瞭解克雷頓的人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「我很歡迎你作為客人留在我這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>不能再沉默下去，士兵走向艾瓦拉，手搭在她肩膀上，把她轉過來。他的聲音很低，但不是故意壓低。
+「艾瓦拉女士，我懇請你。這可是審判官！這完全是無謂的犧牲。唯一能成功的方法，就是你放任其不管。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>她堅決的甩開了他的手。「這是個傳教士，和我以前一樣。傳教錯誤的東西，和我一樣。」
+「如果我都不能相信，一個人在知道真相後就會辯清是非的話，我們還有什麼希望？」</DefaultText>
+      <FemaleText>她堅決的甩開了他的手。「這是個傳教士，和我以前一樣。傳教錯誤的東西，和我一樣。」
+「如果我都不能相信，一個人在知道真相後就會辯清是非的話，我們還有什麼希望？」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「我們有過很多傳教士。他們是我們最堅定的信仰，也對我們幫助最大。他們很多為了我們而死。我們不能就這樣遺忘他們。」
+「如果審判官想要的我的性命，儘管拿去。因為他們也知道，我所追從的事業，不會因我的死而隕落。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>艾瓦拉並不眨眼。「事情像那樣絕望嗎？我不知道。」
+「我希望你的下個任務能刺激點。聽我的演講，對一個刺客來說，是無聊了點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>艾瓦拉在衝著她身後的地方招呼你。「來吧。我們有很多要談。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「一個審判官派來的刺客，小姐。竟敢接近我們的營地。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「小姐，他承認是間諜了！」</DefaultText>
+      <FemaleText>"My Lady, she ADMITS being a spy!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「那他就不是個威脅了，不是嗎？」
+「我沒什麼要隱瞞的。我看到的，是說服一個可能幫我們的人。」</DefaultText>
+      <FemaleText>「那他就不是個威脅了，不是嗎？」
+「我沒什麼要隱瞞的。我看到的，是說服一個可能幫我們的人。」</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

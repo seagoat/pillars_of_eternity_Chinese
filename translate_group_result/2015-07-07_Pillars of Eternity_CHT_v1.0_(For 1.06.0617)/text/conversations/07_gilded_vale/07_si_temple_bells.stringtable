@@ -1,0 +1,387 @@
+<StringTableFile>
+  <Name>conversations\07_gilded_vale\07_si_temple_bells</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>76</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>T三個鍾掛在這堵牆壁的岩石突出部上。金屬表面已經被多年的銹跡和污垢覆蓋。一個稍大的鍾在中間，側接著兩個稍小的鐘。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[搖左邊小一點的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[搖中間的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[搖右邊小一點的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[搖中間大一點的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[搖右邊小一點的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[停止推鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[搖左邊小一點的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[搖右邊小一點的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[搖左邊小一點的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[搖中間大一點的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Y你對鍾用力一推，它隨即方向地晃了回來，鐘錘對鐵壁的敲擊發出了一陣低沉有力的響聲。你感覺你的胸膛也隨著在遺址內迴盪的音浪而震盪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>T在減弱到淒厲的聲音前，鐘聲從奇怪且洪亮的顫音變成了痛苦的尖叫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>T鍾以令人吃驚的力度發出一陣高調且尖銳的聲音。音調在大廳裡迴響直到驚起神殿裡的好些鳥鳴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[檢查這些鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>T這些鍾看上去完好無損。它們是用厚鐵材做成的，所以看上去很笨重。它們看上去並沒有什麼特別的東西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Y你鑽進去抓停鐘錘。你周圍的回音漸漸消失。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Y你對鍾用力一推，它隨即方向地晃了回來，鐘錘對鐵壁的敲擊發出了一陣低沉有力的響聲。你感覺你的胸膛也隨著在遺址內迴盪的音浪而震盪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>T在減弱到淒厲的聲音前，鐘聲從奇怪且洪亮的顫音變成了痛苦的尖叫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>離開。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[再一次搖左邊的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>悅耳的鐘聲再一次響遍遺址。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[第三次搖左邊的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[搖中間大一點的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[搖右邊小一點的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[再一次搖右邊的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[第四次搖左邊的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[搖中間大一點的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[搖右邊小一點的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>悅耳的鐘聲再一次響遍遺址。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Y你對鍾用力一推，它隨即方向地晃了回來，鐘錘對鐵壁的敲擊發出了一陣低沉有力的響聲。你感覺你的胸膛也隨著在遺址內迴盪的音浪而震盪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>T在減弱到淒厲的聲音前，鐘聲從奇怪且洪亮的顫音變成了痛苦的尖叫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>T悅耳的鐘聲再一次響遍遺址。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>A詭異的安靜出現在房間裡，彷彿鐘聲與從石頭流淌著不絕於耳的滴水聲也不復存在一般。突然，一陣不和諧的鐘聲從鍾裡發出，聲音洪亮且尖銳讓你不得不摀住自己的耳朵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>A緊接著，寂靜再一次降臨。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Y你對鍾用力一推，它隨即方向地晃了回來，鐘錘對鐵壁的敲擊發出了一陣低沉有力的響聲。你感覺你的胸膛也隨著在遺址內迴盪的音浪而震盪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>T在減弱到淒厲的聲音前，鐘聲從奇怪且洪亮的顫音變成了痛苦的尖叫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[搖左邊小一點的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[再一次搖中間的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>深沉且引人共鳴的鳴響迴盪在遺址內。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>再一次搖右邊的鐘。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>T古怪的鐘聲響遍遺址。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[再一次搖左邊的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>T悅耳的鐘聲再一次響遍遺址。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>再一次搖左邊的的鐘。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>T古怪的鐘聲響遍遺址。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[再一次搖中間的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>T鍾以令人吃驚的力度發出一陣高調且尖銳的聲音。音調在大廳裡迴響直到驚起神殿裡的好些鳥鳴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>T深沉且引人共鳴的鳴響迴盪在遺址內。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[搖左邊小一點的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[第三次搖中間的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[第四次搖中間的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>T深沉且引人共鳴的鳴響迴盪在遺址內。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>T在減弱到淒厲的聲音前，鐘聲從奇怪且洪亮的顫音變成了痛苦的尖叫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[再一次搖右邊的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[再一次搖右邊的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>T鍾以令人吃驚的力度發出一陣高調且尖銳的聲音。音調在大廳裡迴響直到驚起神殿裡的好些鳥鳴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Y你對鍾用力一推，它隨即方向地晃了回來，鐘錘對鐵壁的敲擊發出了一陣低沉有力的響聲。你感覺你的胸膛也隨著在遺址內迴盪的音浪而震盪。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>T古怪的鐘聲響遍遺址。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[搖左邊小一點的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[再一次搖中間的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[搖右邊小一點的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>古怪的鐘聲響遍遺址。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>T鍾以令人吃驚的力度發出一陣高調且尖銳的聲音。音調在大廳裡迴響直到驚起神殿裡的好些鳥鳴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[再一次搖左邊的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[搖中間大一點的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[搖右邊小一點的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[搖左邊小一點的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[搖中間大一點的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[再一次搖右邊的鐘。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>T鍾以令人吃驚的力度發出一陣高調且尖銳的聲音。音調在大廳裡迴響直到驚起神殿裡的好些鳥鳴。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>T深沉且引人共鳴的鳴響迴盪在遺址內。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>T古怪的鐘聲響遍遺址。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>T古怪的鐘聲響遍遺址。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>T在三個鍾各自不調和的聲音融合為一股不斷增強的有力音波衝擊前，一陣安神而有旋律的樂聲出現了。彷彿這聲音在神殿內洋溢著，推波助瀾地淹沒了眾人的思想。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>A隨著鐘響的消退，你聽到了一陣咯吱聲從門的那邊發出，然後一條往下走的通道就轉動開啟了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

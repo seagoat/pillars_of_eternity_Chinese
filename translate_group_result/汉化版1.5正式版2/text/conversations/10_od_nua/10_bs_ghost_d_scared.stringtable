@@ -1,0 +1,48 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\10_od_nua\10_bs_ghost_d_scared</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>8</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“嗨 -嗨 ？有 人 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“哦 天 哪 …我 什 么 都 看 不 见 了 …”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“我 听 不 到 自 己 跌 声 音 了 。我 怎 么 告 诉 他 这 一 切 ？拜 托 了 ，这 里 什 么 都 没 有 ！”</DefaultText>
+			<FemaleText>&quot;I cannot hear myself. How am I to tell her anything? Please, there is nothing here!&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“求 你 …难 道 我 永 远 离 不 开 这 里 了 么 ？”你 听 到 一 声 呜 咽 。“转 -转 过 身 来 ！不 许 往 前 走 了 ！上 帝 不 会 再 庇 佑 我 们 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“我 在 这 里 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“你 是 谁 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>[什 么 也 不 说 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“我 早 跟 他 说 了 。我 告 诉 过 他 了 ，求 他 ，求 他 放 我 出 去 。让 我 出 去 。让 我 出 去 ！”</DefaultText>
+			<FemaleText>&quot;I told her. I told her, please, please let me out. Let me out. Let me out!&quot; </FemaleText>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

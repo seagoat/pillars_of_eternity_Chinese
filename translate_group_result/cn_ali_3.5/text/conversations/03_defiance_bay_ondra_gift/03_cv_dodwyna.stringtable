@@ -1,0 +1,69 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\03_defiance_bay_ondra_gift\03_cv_dodwyna</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>11</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>你进入房间，看到几个人凑在一起。他们站得笔直且全副武装，但没有炼狱骑士那样的配套装备。在小组中间，站着一个女人，手中拿着连枷。她朝那瑟瑟发抖的人一阵咆哮。
+
+“你已经得到了用于研究的那几页。你想让我相信这都是你乱涂乱画的成果吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>[攻击]“到此为止了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“我该离开了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>“真的什么都没，我发誓！“只有我的一些注释……”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>女人反手拍打她的俘虏，你听到一阵脆响，下手真狠。“我们知道你在暗中和炼狱骑士保持一定联系。你觉得他们是城市里唯一有权利的人吗？他们叫我们十二人众是有原因的。现在，我不会再问你了……”
+
+人群中有人推挤了一把，女人转身看到你在偷窥。
+
+她眯起双眼。“你不该来这里。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>“放她走我就当做自己没看到这些。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>“放开她！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>“这儿发生什么了？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>“晚了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>她举起连枷冲向你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>她紧紧握着手中的连枷。“你什么也不需要知道。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

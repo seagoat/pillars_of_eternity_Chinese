@@ -1,0 +1,127 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\companions\companion_qst_sagani</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>23</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>漫 长 的 追 寻 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>前 往 远 处 的 悬 崖 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>在 林 中 找 到 绿 萤 拱 门 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>找 到 刚 看 到 的 那 座 森 林 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>莎 加 妮 ，一 位 来 自 纳 斯 塔 克 岛 屿 南 部 的 矮 人 ，来 迪 伍 德 寻 找 她 村 里 一 位 长 者 珀 索 克  的 化 身 。至 今 她 已 经 奔 波 五 年 了 。
+
+有 村 民 给 了 她 一 尊 珀 索 克  的 绿 萤 小 雕 像 ，这 尊 雕 像 附 有 珀 索 克  的 一 缕 灵 魂 。她 一 直 用 雕 像 来 追 踪 他 ，但 每 次 接 近 时 却 无 法 获 得 他 的 准 确 位 置 。当 得 知 我 是 一 位 通 魂 者 后 ，她 来 请 求 我 的 帮 助 。
+
+和 莎 加 妮 一 起 追 踪 ，独 一 无 二 的 敏 锐 感 觉 使 我 能 察 觉 到 珀 索 克  （或 者 说 他 的 新 化 身 ）的 行 踪 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>当 我 仔 细 端 详 那 尊 附 灵 的 雕 像 时 ，我 仿 佛 觉 得 自 己 正 站 在 峭 壁 之 上 俯 瞰 流 水 。珀 索 克  （或 者 说 他 的 新 化 身 ）一 定 就 在 近 旁 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>珀 索 克  一 定 在 我 们 到 达 前 刚 刚 离 开 珍 珠 林 峭 壁 。随 即 我 又 看 到 另 一 幻 象 ，这 次 是 珀 索 克  在 树 林 深 处 ，正 在 奔 向 绿 萤 拱 门 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>当 我 们 赶 到 榆 树 海 滨 的 绿 萤 拱 门 时 ，我 又 看 到 了 新 的 幻 象 。珀 索 克  正 站 在 森 林 中 一 片 崩 塌 的 废 墟 中 ，被 阴 森 的 树 木 包 围 着 。他 周 围 还 有 一 群 格 兰 法 斯 猎 人 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>我 向 帕 勒 吉 娜 描 述 了 我 的 幻 象 。她 回 忆 起 在 她 去 迪 伍 德 的 路 上 ，她 曾 在 海 岸 边 见 过 那 些 断 崖 ，就 在 反 抗 湾 的 南 部 ，</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>海 风 带 着 咸 咸 的 气 息 徐 徐 吹 来 。这 些 峭 壁 紧 邻 着 大 海 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>路 上 载 重 马 车 那 深 深 的 车 辙 表 明 这 是 条 交 通 要 道 。这 个 地 方 一 定 离 大 城 市 不 远 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>Ede以 前 曾 见 过 那 座 拱 门 。他 说 它 就 在 巴 埃 尔 湖 湖 边 ，和 双 榆 城 一 样 在 对 面 那 一 边 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>我 曾 听 说 过 这 座 拱 门 。它 周 围 有 几 根 绿 萤 柱 子 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20005</ID>
+			<DefaultText>从 湿 地 和 芦 苇 来 看 ，这 座 拱 门 附 近 一 定 是 大 面 积 的 淡 水 水 域 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20006</ID>
+			<DefaultText>希 拉 维 亚 斯 识 别 出 了 我 描 述 的 森 林 。他 说 在 双 榆 城 的 北 方 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20007</ID>
+			<DefaultText>黑 树 之 战 曾 经 波 及 到 这 块 地 方 。许 多 惨 烈 的 战 斗 都 发 生 在 格 兰 法 斯 的 城 市 和 乡 村 外 围 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20008</ID>
+			<DefaultText>我 想 这 片 森 林 位 于 某 座 山 的 坡 地 上 。多 岩 石 的 地 面 ，主 要 由 常 青 树 组 成 的 树 林 ，空 气 寒 冷 而 稀 薄 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20009</ID>
+			<DefaultText>我 无 意 中 听 到 洪 水 退 去 的 声 音 。现 在 也 许 是 找 到 珀 索 克  的 好 机 会 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20010</ID>
+			<DefaultText>赶 到 了 珍 珠 林 峭 壁 ，这 里 的 景 色 使 我 想 起 了 早 先 关 于 珀 索 克  的 幻 象 。我 留 心 观 察 他 在 这 儿 的 迹 象 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>最 终 我 们 找 到 了 珀 索 克  。他 的 化 身 是 一 只 牡 鹿 ，已 经 被 猎 人 所 伤 。虽 然 如 此 ，莎 加 妮 还 是 告 诉 了 马 苏 克 的 变 化 以 及 村 民 们 是 多 么 地 怀 念 他 。我 想 Personq的 牡 鹿 化 身 更 坚 定 了 她 的 使 命 感 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>最 终 我 们 找 到 了 珀 索 克  。他 的 化 身 是 一 只 牡 鹿 ，已 经 被 猎 人 所 伤 。尽 管 如 此 ，莎 加 妮 还 是 告 诉 了 他 他 家 庭 的 情 况 。我 想 她 经 历 的 磨 难 使 她 怀 念 起 自 己 的 丈 夫 和 孩 子 们 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>最 终 我 们 找 到 了 珀 索 克  。他 的 化 身 是 一 只 牡 鹿 ，已 经 被 猎 人 所 伤 。莎 加 妮 似 乎 意 识 到 这 样 做 仅 仅 是 为 了 满 足 马 苏 克 人 们 愿 望 而 举 行 的 仪 式 而 已 。她 一 一 叙 述 出 那 些 村 民 的 名 字 ，但 我 想 她 自 己 也 发 现 那 样 是 毫 无 意 义 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我 们 从 未 找 到 珀 索 克  的 化 身 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

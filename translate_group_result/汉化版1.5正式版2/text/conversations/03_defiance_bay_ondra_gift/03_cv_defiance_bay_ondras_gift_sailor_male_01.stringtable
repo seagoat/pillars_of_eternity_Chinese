@@ -1,0 +1,28 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\03_defiance_bay_ondra_gift\03_cv_defiance_bay_ondras_gift_sailor_male_01</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“我 们 的 船 搁 浅 几 个 月 了 。我 只 用 一 瓶 酒 就 足 以 唤 醒 一 个 沉 睡 的 人 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“挥 手 告 别 ，扬 帆 起 航 ，苦 中 带 甜 ，但 是 能 看 到 异 国 风 情 也 算 值 得 这 场 交 易 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>水 手 上 下 打 量 着 你 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“嘿 说 你 呢 ！小 鬼 别 想 打 这 些 板 条 箱 的 主 意 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

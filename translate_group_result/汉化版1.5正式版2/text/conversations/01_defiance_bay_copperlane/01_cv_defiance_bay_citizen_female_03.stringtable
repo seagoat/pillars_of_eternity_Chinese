@@ -1,0 +1,33 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\01_defiance_bay_copperlane\01_cv_defiance_bay_citizen_female_03</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>5</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“维 南 在 这 里 开 了 一 个 探 险 者 大 厅 效 果 出 奇 的 好 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“如 果 你 觉 得 自 己 很 勇 敢 ，Admeth&apos;s Den的 探 险 者 大 厅 总 可 以 为 你 提 供 一 份 新 的 契 约 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“祝 你 今 天 愉 快 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“你 听 说 过 那 个 可 怜 的 小 孩 吗 ？一 把 小 匕 首 将 他 的 手 指 都 割 下 来 了 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“可 怜 的 老 达 尔 顿 ……他 最 近 看 起 来 好 疲 惫 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

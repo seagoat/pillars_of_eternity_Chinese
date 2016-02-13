@@ -1,0 +1,28 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_cv_craft_shopkeeper</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“好消息，主人！我的东西有对你感兴趣的吗？我提供补给品。我敢肯定你这种勇敢的旅行家肯定会觉得不少东西派的上用场。”</DefaultText>
+			<FemaleText>&quot;Good tidings, my lady! Might I interest you in anything? I offer supplies for the road. I&apos;m sure you&apos;ll find many things of use to a hardy traveler such as yourself. One can never be too prepared.&quot;</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“我看看你有什么。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>&quot;再见。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“你需要补给品吗，主人？做足准备才是王道。”</DefaultText>
+			<FemaleText>&quot;Are you in need of supplies, my lady? One can never be too prepared.&quot;</FemaleText>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

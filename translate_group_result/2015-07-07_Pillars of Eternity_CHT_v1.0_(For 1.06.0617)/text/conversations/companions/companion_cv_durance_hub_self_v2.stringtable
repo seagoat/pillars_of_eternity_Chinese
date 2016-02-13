@@ -1,0 +1,603 @@
+<StringTableFile>
+  <Name>conversations\companions\companion_cv_durance_hub_self_v2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>106</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>他大笑。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「跟我說說Ashfall。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Trigger Conv Node 16</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「杜蘭斯這名字很怪。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「那也沒『通魂者』這名字怪。況且杜蘭斯不是個名字，是個頭銜。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「那這個頭銜代表什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「你說杜蘭斯是個頭銜，不是個名字。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「我說了麼？我說了。」他冷笑著說。「你記性真好- 你是不是就想聽這話？
+
+「這確實是個頭銜。名字都是沒用的東西，行動和專注……這些才是應當被尊重的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「你的頭銜代表什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>杜蘭斯哼了一聲。「那麼『通魂者』又代表什麼？對馬格蘭來說，杜蘭斯是神聖的……可能是她的一段記憶，一句教導。」他輕敲著法杖，就像是在回憶，然後聳聳肩。
+
+「咱別浪費時間討論這個了。我們行走的時間和共享火焰的時間都不夠長，並且教你杜蘭斯的意義……哎呀，在信仰中，沒人會討論杜蘭斯的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>「你說話不像個牧師……而且你的袍子看起來好像是被火燒過的似的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「你在Halgot的時候是不是就穿這個袍子？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「能跟我說說你這根法杖嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「我問問別的事情吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「就這樣吧。再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「關於你，我還有別的問題」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Trigger Conv Node 30</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「原因就是你是個通魂者。」他冷笑著。「一個通魂者滿嘴『為什麼。』對我而言，這才是最大的問題。
+
+「曾幾何時，我才不屑考慮你的問題呢。甚至理都不會理你……但是現在，我的職責就是尋找通魂者，向他們傳輸真理，看看他們能在兩條路上怎麼做。」他挑釁的輕笑著。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText> 「真理？什麼樣的真理？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「要不你就是一個等待燃燒的乾草地……」他皺了一下眉頭，雙眼半閉著。「要不你就是迷失在黑暗中。不管是哪個，你都能和別人看到的不一樣。」他似笑非笑，然後用指責的語氣說。「我最開始就從你觀察法杖的樣子看出來了。
+
+「沒多少人會開始就注意到它，更不用說它身上的銘文和火焰了，但是你的眼睛……」他盯著你，滿懷渴望的點點頭。「……你的眼睛知道該看什麼。我能看出來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「那你是哪個？乾草地- 還是迷失在黑暗中？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>杜蘭斯的臉緊繃著。「我們不再互相交換問題的時候也就是我們分道揚鑣的時候，還有審判……」杜蘭斯緊握著法杖。「……審判也將完成。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「所以說你也不知道？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「你知道這個國家生病了。就算不是通魂者也能從孩子中看出來，還有政治，還有人們拿著刀子在路上尾隨，之後當面殺掉他們。
+
+「這片土地需要重生，焦土中種下新的種子。」他的聲音變低了，語氣中略帶嘲笑，眼睛也瞇了起來。「我有預感你可以使這個未來成真，通魂者。你這種人一直都可以。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「那麼……我們現在要保證你能看的真切。這個國家，她的人民，不再需要蒙蔽他們的謊言了，我也不需要。你挑戰了真理，你並沒有盲目的接受它。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「那麼你想怎麼考驗我？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「當然是一起旅行……真正地與你同行，用同樣的步伐，保持節奏。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「其他的牧師都會布道和演說……對我的信仰而言，我的布道……同行是最簡單，最有效的真理。」他咧嘴笑著說，雙手輕敲著腰部，一下，然後兩下。「當你把真理從一條腿敲到另一條腿的時候，嗯，兩條腿就都站穩了。」
+
+「但是現在，如果你將謊言以同樣的力道敲到膝蓋上的話……」他收斂了笑容，眼睛瞇起來。「……嗯，那你就變成了一條腿站立的殘廢了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「所以你拿著枴杖咯？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「所以我……」杜蘭斯剛想要大說特說，但是一瞬間，他便仰著頭大笑起來，直到笑聲聽起來似乎要把肺擠搾了一樣，直到聽起來……像是勉強發笑一般。
+
+「也許你的話也是不無道理的，通魂者。」他皺著眉頭，那一絲幽默蕩然無存。「但是最終真理將獲勝。保持步調一致，我們會知道的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「你會發現我的真理也很強大。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「路還長，你的路也是。
+
+「最終真理將獲勝。保持步調一致，我們會知道的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>」那你是要讓我接受審判咯？「</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「別評判我了，對你我誰都沒有好處。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「你的精神需要它們。如果你在這個國家裡編造謊言……它只會消失在火焰中。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「哪兩條路？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「杜蘭斯？」杜蘭斯瞥了你一下，剛想要聳肩- 然後皺著眉頭看了你第二眼。「哼嗯。我們共享過火焰和艱難的道路- 這足以讓我知道你願意在一條路上受苦，而行走在另一條路上。
+
+「每個有信徒的神都會有一個章節是單獨屬於他們的，無論他們知道與否。」杜蘭斯皺著眉頭說道。「我知道。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「這個章節並不是有意寫成的，而是像你身上的火焰一樣。每個人都以不同的方式聽過教條和讚歌，見過不同的儀式，不管他們是否願意承認，你意識中的火焰都將會編織成一團更大的篝火，成為你的宗教信仰。你的生活方式。你的人生之路。
+
+「崇拜者們從神祇處獲取他們想得到的東西，然後翻譯它們……杜蘭斯也做過同樣的事情。在他變成宗教信仰之前，也曾是個人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText> 「杜蘭斯是聖人嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「我不太清楚杜蘭斯的教義。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「我以為我熟知馬格蘭的所有章節，但是我沒見過這一章。這些是什麼教義？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「杜蘭斯，聖人？」杜蘭斯大笑起來。「不，他為了吃飽飯而工作。」
+
+他的笑聲慢下來，最後消失，然後瞥了你一眼。「一個老掉牙的士兵笑話……但是說是聖人也不過分。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「不，他的教義裡沒有聖人。他的門徒們做了大量的工作，就像是士兵們總是衝鋒在前一樣。」杜蘭斯冷笑了一聲。「現在……他的教義是……『不明智的』。由各種試煉和課程組成，以信仰之名編織在一起。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「這些教義是什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>杜蘭斯皺著眉頭，輕拍著手中的法杖。「沒有手稿，沒有詩詞或是需要翻譯的文字遊戲。它的門徒們不怎麼受歡迎，所以他們選擇旅行……身體上的奉獻。」杜蘭斯笑著說。「太多的比喻反而會令人反感，所以最佳的途徑就是像他人展示真理，無論真理是多麼的醜陋。
+
+「在杜蘭斯之前，我將我的信仰付諸於紙上，並且鼓勵別人也這麼做。這麼做的人都是軟弱的。不配享受火焰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>杜蘭斯的臉沉下來。「這種獻身形成的那會兒，馬格蘭還不會輕易地為每一個飢渴的年輕新人張開雙腿。
+
+「相反的，她不會理會這些所謂的『信徒』，而是要求他們走遍大陸以證明他們的虔誠。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「只有通過了試煉和評判，進入神的身體才是……被允許的。但是這取決於每一個新人是否能夠找到內心的火焰，而那個火焰……」
+
+杜蘭斯皺著眉頭。「那個火焰很少會在初到馬格蘭門前並請求接納的時候燃燒……乞求可不會使一個人轉變。但是現在說的這些……人們已經聽不進去了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「這是為什麼？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「理由有很多，如果你都聽了的話會很快衰老死亡。」杜蘭斯瞇著眼睛，像是在望著遠方。「但是杜蘭斯的教義也包括將那些不主動奉獻的神職者驅逐出去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「這些試煉顯示出一旦舒適佔據了他們的身體，便幾乎沒人能夠放手。」他皺著眉，眼睛逐漸變暗。「他們認為杜蘭斯的試煉對宗教的延續並無意義。有時『不太方便』。他們堅信有更好的方法傳播馬格蘭的火焰而不是像杜蘭斯教的那樣留下痕跡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「你是什麼意思，留下痕跡？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「當那些門徒走上這條路，遭受杜蘭斯的試煉——被施予的——也是一種正義。
+
+所有潛在的皈依……即使是『忠誠』……都要經過測試是否存在弱點，如果他們的弱點使他們喪命，那就順其自然。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「如果他們活了下來，然後就要接受改變，變得更強壯，就像馬格蘭追求的那樣。
+
+在我追隨杜蘭斯之前，並沒有給自己做過測試。也沒有測試過別人。弱點和非正義在我身上一直存在因為我允許它們這樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「莎加妮忙著打磨一支骨箭，甚至無法確定她是否在聽，知道她抬起眼睛搖了搖頭。
+
+你這個北方人有一件事我一直不理解。你生活在富饒的土地，夜裡也不會有性命之憂，但你卻有這種奇怪的想法，就是雕刻糞便這件事讓你變得有價值。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>莎加妮刮著骨箭上的灰塵。「我永遠不會理解。但我們已無法在瑪蘇克再次進行瞄準練習了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「所以杜蘭斯的這些試煉——他的教義破壞了沃伊迪卡的地位。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「為什麼神職者反對你執掌正義？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>杜蘭斯皺皺眉。「正義並不是我們的責任，而是沃伊迪卡的事情。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>杜蘭斯抱怨道。「有關這一話題的爭論十分激烈。如果某個神可以牽制住其他的神。就像我提出的那個……不受歡迎的觀點。」杜蘭斯笑了，不帶有絲毫幽默感。「可能會像火焰一樣蔓延，而不是像這樣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「……但杜蘭斯提醒我們沃伊迪卡曾被馬格蘭灼燒，並且理應如此。如果法治女神必須被灼燒才能提醒她的地位……那麼馬格蘭的神職者們也會以類似的方式提醒他人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「所以你會……懲罰別人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>杜蘭斯笑了。「我的工作還沒有結束，通魂者，你的也一樣。我們還有很長的路要走……你會對你的試煉半途而廢嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>「快走，趁你還活著。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>「帶著這些……『珍寶』。它們對我毫無用處。我就像拋掉對你的記憶一樣拋掉了它們。」他冷哼一聲。「讓頭腦簡單成為你的負擔。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>杜蘭斯咕噥道。「你的舉止與我所見過的任何一個通魂者都不相符。你現在還是嗎？」他皺著眉架起雙手。「不用回答。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「那長袍……被你燒了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>杜蘭斯沉默了一會兒，端詳著你。
+
+「向馬格蘭表達敬意的方式有很多。我的長袍……」他向下看去，揭起了磨損的褶邊。「……它們可能並不是由宗教布料縫製而成，但它們服務於宗教。同時也是一種提醒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>杜蘭斯聳聳肩。「布料的裁剪並不是多重要的事，除了對於裁縫來說。色彩掛在旗幟上要遠比穿在肩上有意義。
+
+這些燒掉的長袍比那些浮華的服飾更讓我覺得真實，所以我一隻帶著它們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>杜蘭斯皺皺眉。「為什麼我要……」他臉上的不安變成了憤怒。「你的記憶除了詛咒還是詛咒。
+
+我在前往海哥特的朝聖之旅以及後面的旅途中穿著這些衣服。」他盯著它們。「我們一路安靜地前進，所以幾乎沒人知道我們的教派和目的。就像劊子手不帶頭巾而改穿長袍。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「然後他們是如何被燒燬的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「這些長袍便是神錘被觸發時我在要塞穿的那些。
+
+想像一個篝火——然後是一片篝火。」他懷抱著權杖。「然後把它們變成球形，讓它逐漸擴大直到填滿天空。」他嚥了下口水，嗓子發乾。「它的暴力擊垮了我，我的心中就像劈入了數百道閃電，我周圍的一切……只剩熊熊火焰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「它撕爛了我的皮膚，甚至炸裂了我的血管。」他舉起袖子。「然而長袍倖存了下來。」
+
+他咧嘴一笑，臉上的傷痕聚集在粗糙的鬍鬚下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「此後你又穿過嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「如果馬格蘭認為我應該穿著灰塵為她執掌法律，那我就這麼做。我們都存在於她的意願中……為取悅她而活。」杜蘭斯聳聳肩。
+
+「無論怎樣，她都會或安靜或響亮地回應我，但她的色彩與人們以她的名義做的事相比就略顯遜色。
+
+我更喜歡安靜。我發現如果我的精神之火沒有恩澤我的權杖，那麼其他與我……信仰相同的人……不會多看我一眼。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>亞洛斯撅起嘴唇。「我真希望他洗了它們。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Trigger Conv Node 169</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「改變他們。如果他們喪生，那就這樣吧。他們肉體和靈魂的毀滅越偉大，迎來的救贖便會越偉大。這是一場強化他們自身的奮鬥。
+
+人們能夠獲知足夠多的消息直到你想把紅色禮物給予一些天真的傻瓜……無論他們是否服務於馬格蘭。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「所以這一移動的宗教分會被鎮壓了？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「並沒有多少人。」杜蘭斯低聲怒吼。「我是最後一個，那時已經沒有言論或詩歌詆毀杜蘭斯的教義，如果火焰熄滅便無法令它存活……但這本身是一個測試。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「聖者之戰一度增加了杜蘭斯的聲望。聖者匹配聖者，冷酷匹配無情？」杜蘭斯聳聳肩。「我們之中最凶狠的……呃，我們將戰火蔓延到伊歐薩斯……和雷德塞拉斯處……費了不少力氣扭轉他們的異端，我覺得馬格蘭的很多高層都無法做到這一點。
+
+然後教義開始驟減，消逝……就像大部分火焰那樣。」杜蘭斯盯著他的權杖。「但它們仍然留有痕跡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「神和信仰可以驅使某人做一些旁人覺得困難的事。」杜蘭斯舔舔發乾的嘴唇，汗水在額頭上閃閃發光。
+
+「杜蘭斯本人也承認這點。他並不喜歡這項任務。但他沒有迴避。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「然後你遵循了這一學說？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「所有人都如此，無論是否因為馬格蘭。
+
+聖者之戰使它變得必要，並與它看起來那樣令人厭惡……而現在，每一個關於伊歐薩斯的印記，每一個暴露敵人咽喉的虛弱靈魂……它們會對每一個已經倒下的士兵和馬格蘭的信徒負責。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「我懲罰他人，是的。男人，女人，小孩，並且我也不會將權杖和那些我認為可以使它們得到強化的器具剔除在外。異教徒除穢運動並不只是除去與伊歐薩斯有關的事物，而是除去弱點。就像乾燥原野上的一場大火。
+
+妓女祭壇上的犧牲。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「但當人們已經擁有她的火焰照亮前面的路時，誰還需要她來講話。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>「沒有一個神職者願意遠離他們的慰藉品，無論是食物，溫床，或是妓女溫柔的服務。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Trigger Conv Node 191</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Trigger Conv Node 193</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Trigger Conv Node 195</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Trigger Conv Node 196</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Trigger Conv Node 197</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>「你從哪兒來？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>「我從哪兒來？」杜蘭斯歎息著，雙手緊緊握住權杖，片刻後放鬆下來。「來自馬格蘭的火焰之一……一個大教堂，佈滿火山灰和黑色的樹木。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>「我在那裡研究聖典，火焰席捲了土地，樹木的枝幹，以及生產彈藥的工廠。一切都像是做著另一種奉獻的教堂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>「另一種奉獻？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>杜蘭斯點點頭。「對於馬格蘭來說，任何火焰都足夠表示尊崇，無論是否自然產生。鐵匠的鐵砧，工匠的長凳，所有的競技場以及任何能夠產生火焰的地方……」
+
+杜蘭斯扣住手指。「只需要一絲火星。就像煉金術裡的火花……或是子彈濺出的火花，即可加快他們實現目的的腳步。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>「他們的目的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>杜蘭斯歪著頭，思索著。「好吧，接下來我們說他們的目的。很久很久以前。」杜蘭斯抓撓著鬍子。「那時的鬍鬚比現在亮一點兒。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>「但是，子彈，槍都有一個目的，就是在你這樣的魔法師身上打出一個洞然後伴隨著嘶嘶聲放出它們傲慢的氣體。」
+
+杜蘭斯笑了一半，然後點點頭。「喚醒你的同類然後讓他們在黑暗中盯著天花板而不是睡去，這是肯定的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>亞洛斯翻動著眼睛。「傲慢的氣體，確實。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「有點暴力，一個關於未經抑制的力量的答案……馬格蘭對此給出了答案。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>「馬格蘭把士兵和法師放到了相同的地位？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>杜蘭斯再次點頭。「法師在當時引起了一些麻煩……槍支使每個人都成了法師，投擲手鍾愛的盾牌與他們比較相配。
+
+它把每個平民都變成了噴火的野獸。它升級了戰爭的破壞程度，這是肯定的，奪去了很多法師的生命。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>「但是，子彈，槍都有一個目的，就是在他們這樣的魔法師身上打出一個洞然後伴隨著嘶嘶聲放出它們傲慢的氣體。」
+
+杜蘭斯笑了一半，然後點點頭。「喚醒他們的同類然後讓他們在黑暗中盯著天花板而不是睡去，這是肯定的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>「很好。我會繼續忍受你的存在。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>「下次別這麼快就自我寬恕，通魂者。你對馬格蘭的火舌的那些吼叫沒有提到我，而是說了很多關於你的事。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

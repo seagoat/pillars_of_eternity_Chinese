@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\02_defiance_bay_first_fires\02_cv_woedican_ghost</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>24</EntryCount>
@@ -48,7 +47,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Lord Adwellen Rügfald III, and pleased to make your acquaintance. I came to the Dyrwood on one of the first ships from Aedyr." 
+      <DefaultText>"Lord Adwellen R&#252;gfald III, and pleased to make your acquaintance. I came to the Dyrwood on one of the first ships from Aedyr." 
 
 His cloudy eyes swim with resentment. "And unlike the yokels and hut-dwellers around here, I still keep to the old ways."</DefaultText>
       <FemaleText />

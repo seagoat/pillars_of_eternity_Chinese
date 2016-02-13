@@ -1,0 +1,402 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\00_dyrwood\00_cv_korgrak</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>73</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>當你深入黑暗處，地面開始震顫。你聽到了沉重的腳步聲，咆哮般的呼吸聲以及碎骨般的碎裂聲。
+
+一個食人魔從暗處出現，10英尺高，肌肉凸顯而出。他從新鮮的蹄狀肢幹上撕了一大片肉，隨後將其丟在一邊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>[攻擊] 「到此為此了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>「我本不打算打攪你。我這就離開。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>食人魔朝你靠近一步，那腳步聲沉悶響亮。」太晚了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>「我在找一名年輕的精靈貴婦。她失蹤了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>「迪福特的農民說你吃了他的豬。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>寇格拉克咆哮著，你可以看到整排巨型的坑髒牙齒。」我盡量避免著人們。尤其是那些能招來搜索隊的那類人。」
+
+他撓了撓關節，看著你。」她從沒來過這裡。我確定。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>[攻擊]「首先，讓我來解決你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>「那樣的話，我應該走了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>他朝井猛錘了一拳，然後開始咆哮。」我就該殺了那農夫！我低估了村民有多麼喜歡他們所飼養的豬。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>「我注意到你希望保住你那蹄子。你變弱了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>「那麼我去其他地方看看。首先，我得問你些其他事情。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>食人魔拉著臉，朝你露出他的牙齒。」這無法阻止我敲死你以及那些愚蠢的入侵者。他們居然追趕我到這裡。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>他咬著牙齒，死死瞪著你。他雙眼瞇著，眼神無情充滿著憤怒。寇格拉克深吸了幾口氣，似乎隨時準備著衝來。
+
+最後，他放下了棍棒。
+
+「那正是我所害怕的。」他歎著氣，衝著你說道。嘴裡滿是臭味。」是時候繼續前進了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>「我們可能有共識，但我無法保證別人不會閒逛到此地。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>「你在這洞穴裡做什麼。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>「躲避你這類的人。」他撓了撓獠牙，怒視著你。」因為奇怪的風暴，人們離開了他們的家園。外面有著尋求鮮血和錢財的強盜。像我之類的，在情況最好的時候都不能在人們周圍有所安全。現在呢？脾氣變得暴躁，而且食人魔的鮮血在煉金術士中十分值錢。」
+
+他手指緊握著棍棒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>「我在塞德努亞有個據點。幫我守衛它，然後你想呆多久就呆多久。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>「為了尋求庇護而提供服務？聽起來也是麻煩事，但應該是我能處理的麻煩事。」
+
+他拖著雙腿，逐漸步入暗處。」如果你需要我，你知道該去哪裡找我。我暫時就不管迪福特了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>「你已經吃了一整群豬了。照那速率，你躲藏不了多久。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>「我知道！」他揮著棍棒，砸向地面。隨後深呼吸了下。」這裡更不容易被發現，[Player Race]。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>他看著你，他的眉毛厚實濃密。」相對村民來說，裝備太精良了。應該是路上的強盜。一定是這樣的。」
+
+食人魔輕蔑得哼著，握緊了手裡的棍棒。」我不與人來往。也沒殺過人，除了那些敢追我到此地的蠢蛋。你為什麼要來找我？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>「還小鎮一份安寧。我不會再說第二遍了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>[撒謊]「我聽說河流附近還有一個鎮子，鎮上有很多豬。而且村民也很鮮美。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>「這地方不安全。即便你殺了我，別人發現你也不過是時間問題而已。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>「你之所以躲在在佈滿蜘蛛的洞穴，是因為你害怕外面的某些東西...」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>「迪伍德很大。一定有更適合你躲藏的地方。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>他咆哮著，舉著棍棒。」好吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>他雙手緊握著棍棒，將它拉得更近了。」這本與你無關。但你既然找到了我，我不能讓你離開這裡。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>「鮮美的居民聚在一起，對我來說很危險。」他雙眼瞇著，舉起了棍棒。」你說得夠多了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>他拿著棍棒朝地面砸去。「你以為我沒查看過？我在叢林裡遊蕩，從伊斯瑟恩遊蕩到此地。這佈滿蜘蛛的洞穴是我找到的最佳藏身點。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>他拿著棍棒朝地面砸去。「我早跟你說過！現在路上的人渴望任何能食用或出售的東西。我在野外遊蕩，根本不可能活過一周。光靠我一人，絕無可能。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>「你對村民造成了威脅。去找另一個躲藏點吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>他露出牙齒。「我不在意他們。你也不需要在意他們。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>他眉頭皺得更深了。「什麼事？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>「冷靜點。也許你能跟我說些其他事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>他看著你的肩膀，彷彿希望能看到藏在你身後的某人。「說吧。迅速點。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>「你要去哪裡？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>「祝你好運。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>「雙榆城？那也是個好地方。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>{CUT}</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>寇格拉克舉起了棍棒，直衝而來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>Bank Node 62</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>「問得真巧。記得我們剛見面時候，我提起雙榆城嗎？就我所知，那裡住著一些食人魔-不是僕人也不是奴隸。」
+
+希拉維亞斯聳了聳肩，朝寇格拉克的方向笑了笑。」我覺得德魯伊可不太喜歡被吃，也許寇格拉克能友好點？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+      <DefaultText>「曾經聽旅人說過雙生木城城裡的人和一些食人妖和平相處。
+
+「他們寧肯把食人妖留在自己的地方，也不願意讓它們去迪伍德。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+ 
+			<ID>65</ID>
+			<DefaultText>「你知道嗎，格蘭法斯人更能容忍食人魔。」我聽說在雙榆城有些食人魔跟人們共同生活。如果...這只能友善的話，他應該也可以那樣。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>他懷疑得看著你。」我現在去循著河流尋找。至少有不錯的獵物。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>「快離開。不然我會教訓你。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>他緊握著棍棒，發出低沉的響聲。」該死，我不需要你來提醒我有多愧疚！」他邊舉起棍棒，邊看著你。」如果這就是你驅趕我離開的方式...」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>「你不需要呆在這悲慘的洞穴裡。我確定想你這樣強壯的大食人魔在森林裡不會有什麼問題的...」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>「你沒必要離開。你只需要學著精明點。暫時消失匿跡，讓村民忘記你還在這裡。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>「迪福特對你來說，會再次變得安全。你只需要處理好魯姆巴爾德，是他發懸賞要求殺掉你的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>他笑著，嘴角都貼到了獠牙上。」不動聲響。神不知鬼不覺的。我知道你的意思了。」
+
+他拖著雙腿，逐漸步入暗處。」我會接受你的建議。別給他們來找我的理由，我也不會出紕漏好讓他們找到我的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>他笑著，嘴角都貼到了獠牙上。」你覺得我該罰一儆百吃了他？這辦法不是不可以。」
+
+他揮動棍棒至肩膀處，隨後看看了洞穴口，露出牙齒，笑了笑。」能出去很不錯。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>「如果你不多管閒事的話，這些屍骨是怎麼回事？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>他不耐煩得磨了磨牙齒。」蜘蛛殺死他們多數人。剩下那些誤打誤撞到這裡的人，是來找麻煩的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>「在你出發之前，我得問下你有關失蹤貴婦的事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>「祝你好運。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>「我盡量避免著人們。尤其是那些能招來搜索隊的那類人。」
+
+「我沒看到她。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>「謝謝你所提供的信息。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>「在你出發之前，我得問下你有關失蹤貴婦的事。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>他拖著雙腿，逐漸步入暗處。」我很快就出發。在那之前，隨你肆意來往。我不會煩你了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>「仔細想了下，我有了新的想法。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>「什麼想法？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>「我收回我所說的話。雙榆城似乎挺適合你的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+      <DefaultText>「這裡沒有豬骨頭和蜘蛛屎的味道，真是不容易。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「很高興你找到了一個稱職的廚師。再離篝火近一些吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「你的奧蘭人店主……她賣食人妖的血？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「很好，這裡的牆很結實，比洞穴安全。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「那個看門人是個很好的狩獵夥伴。他還知道一些露營時唱的歌。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「我喜歡你料理花園的方法。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+ 
+			<ID>94</ID>
+			<DefaultText>他雙手緊握著棍棒，將它拉得更近了。」你似乎很明事理，知道你既然發現了我，我是不會讓你離開的。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>95</ID>
+			<DefaultText>他瞇起雙眼。」你是新來的嗎？連我也在鎮子周邊聽過你的事。」
+
+他雙手緊握著棍棒，將它拉得更近了。你既然找到了我，我不能讓你離開這裡。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
+

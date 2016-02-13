@@ -1,0 +1,179 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\08_wilderness\08_si_rhemen_spider_tunnel_1</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>33</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>地板下的巨大隧道一直往西面延伸。隧道被闪闪的发亮的绳网拦住了，你可以直接滑过去。
+
+网下面的墙感觉十分脆弱。如果有合适的工具，你就可以把通道拓宽一点。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>[用锤子和凿子把隧道拓宽。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>[弄破网直接穿过去。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>[离开]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>等你清理干净隧道后，那个尖厉的声音又钻进了你的头骨。”闯入者，找什么！你什么都别想得到。”你听到饥渴的啾啾声。”快点。我要吃。”
+
+墙上跳下来一个蹦蹦跳跳的生物，起的气得咬牙切齿。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>隧道口悬着黏黏的网。现在要走的隧道清净多了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>[让[Slot 0]清理巨网。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>你打量了一下那个粘重的巨网。清理掉巨网在穿过去要费很大劲。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>[让[Slot 1]清理巨网。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>[让[Slot 2]清理巨网。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>[让[Slot 3]清理巨网。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>[让[Slot 4]清理巨网。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>[让[Slot 5]清理巨网。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>[Slot 0]举起武器猛砍猛挥着，撕开了厚重的巨网。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>[Slot 0]劈向了蜘蛛的粘丝，但是还是无法穿过厚厚的网层。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>[不再尝试清理巨网。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>[Slot 1]举起武器猛砍猛挥着，撕开了厚重的巨网。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>[Slot 1]劈向了蜘蛛的粘丝，但是还是无法穿过厚厚的网层。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>[Slot 2]举起武器猛砍猛挥着，撕开了厚重的巨网。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>[Slot 2]劈向了蜘蛛的粘丝，但是还是无法穿过厚厚的网层。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>[Slot 3]举起武器猛砍猛挥着，撕开了厚重的巨网。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>[Slot 3]劈向了蜘蛛的粘丝，但是还是无法穿过厚厚的网层。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>[Slot 4]举起武器猛砍猛挥着，撕开了厚重的巨网。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>[Slot 4]劈向了蜘蛛的粘丝，但是还是无法穿过厚厚的网层。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>[Slot 5]举起武器猛砍猛挥着，撕开了厚重的巨网。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>[Slot 5]劈向了蜘蛛的粘丝，但是还是无法穿过厚厚的网层。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>你在石面上发现薄弱的地方，然后用锤子猛砸在隧道的墙壁。石头碎裂掉了。没几分钟，你已经把隧道拓得足够宽。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>[你亲自清理巨网。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>你举起武器猛砍猛挥，撕开了厚重的网。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>你劈向了蜘蛛的粘丝，但是还是无法穿过厚厚的网层。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>[进入隧道。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>[在网下慢慢爬动。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>你手脚并用慢慢爬着，你感觉你的背上黏上了黏黏的蛛丝。接下来的爬行越来越缓慢不易，你要费好大劲才能前行。
+
+等你爬出隧道的时候，已经沾了满满一身粘丝。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

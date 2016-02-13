@@ -1,0 +1,33 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\07_gilded_vale\07_cv_sparfel</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>5</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>作为向导之一的斯帕费尔从树林里走了出来，昏暗的月光下他的身影异常模糊。他不再拿着自己的弓，气喘吁吁地朝你走过来，他蹒跚的步伐略微有些怪异。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>卡莉丝卡皱了皱眉。“斯帕费尔？你没事吧？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>斯帕费尔的脚趾撞到一块岩石，并像山一样向前倒下，长毛羽毛的箭杆像敌军的旗帜一样插进他的肩膀。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>你蜷缩在河岸边，将你的水袋浸在冷水中的同时卡莉丝卡在附近等待，继续观望着。当你起身时，你注意到她的目光聚集在树线处。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>你蜷缩在河岸边，并将你的水袋浸在冷水中。当你起身时，你的眼角余光注意到树线处有人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

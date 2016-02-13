@@ -25,12 +25,12 @@ TAG_STRING_TABLE_FEMALE_TEXT = u"FemaleText"
 # read translated result from each group
 translated_result_list = [
     {
-        u"group_name": u"3dm5.0",
-        u"path": u"3dm_5.0",
-    },
-    {
         u"group_name": u"ali3.5",
         u"path": u"cn_ali_3.5",
+    },
+    {
+        u"group_name": u"3dm5.0",
+        u"path": u"3dm_5.0",
     },
     {
         u"group_name": u"3dm4.0+ali1.5",
@@ -72,7 +72,7 @@ for result in translated_result_list:
         for filename in filenames:
             if filename.startswith(("~", ".")):
                 continue
-            full_filename = os.path.join(HOME_DIR, dirpath, filename)
+            full_filename = os.path.join(dirpath, filename)
             #print full_filename.encode('utf-8')
 
             # parse string table xml

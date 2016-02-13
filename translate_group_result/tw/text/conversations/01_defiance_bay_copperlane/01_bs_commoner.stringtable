@@ -1,0 +1,38 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\01_defiance_bay_copperlane\01_bs_commoner</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>6</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>如 果 你 需 要 一 個 旅 店 ，鵝 與 狐 有 最 舒 服 的 床 和 最 好 的 啤 酒 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>你 去 過 expedition hall了 嗎 ？你 也 許 能 在 那 找 到 適 合 你 的 工 作 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>煉 獄 騎 士 警 告 所 有 人 待 在 地 下 墓 穴 外 面 -這 些 墓 穴 已 經 不 安 全 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>如 果 你 是 個 學 者 ，你 會 想 要 去 揭 秘 大 廳 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>科 博 萊 茵 市 場 有 你 想 買 的 一 切 東 西 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>他 們 在 競 技 場 裡 表 演 的 一 些 劇 真 的 很 不 錯 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

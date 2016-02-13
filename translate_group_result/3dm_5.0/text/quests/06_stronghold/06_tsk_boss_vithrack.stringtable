@@ -1,0 +1,42 @@
+<StringTableFile>
+  <Name>quests\06_stronghold\06_tsk_boss_vithrack</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>悬赏：塞可</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>杀了塞可，带回他的头。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>把塞可的头带给凯德 努阿的佛莱根守卫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>一个蜘蛛人主教出现在珠木悬崖。有一个悬赏提供给无论男女只要可以杀掉他的人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>塞可是一个强力的蜘蛛人主教。他和他的族人最近出现在珠木悬崖。他们的出现让当地人紧张不安，如果我能杀死他，他们就会给我赏金，我要带回他的头来赢得我的奖励。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>把塞可的头带给凯德 努阿小屋里的佛莱根守卫来赢得赏金。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我获得了关于蜘蛛人主教塞可大人的赏金。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

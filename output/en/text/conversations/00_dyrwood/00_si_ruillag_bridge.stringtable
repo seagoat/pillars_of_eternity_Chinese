@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\00_dyrwood\00_si_ruillag_bridge</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A你 面 前 橫 臥 著 一 座 破 橋 。橋 身 大 部 分 顯 然 已 經 斷 裂 落 入 河 中 ，水 岸 兩 側 只 剩 下 兩 塊 鋸 齒 般 的 巖 座 。你 看 到 另 一 邊 有 一 條 巨 大 的 隧 道 通 往 山 中 。你 或 許 可 以 直 接 跳 過 那 個 缺 口 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[跳 到 另 一 邊 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[離 開 ]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Y你 平 安 無 事 地 跳 過 了 缺 口 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[SkillCheck 0]錯 估 估 計 了 缺 口 的 寬 度 ，勉 強 跳 了 過 去 ，不 過 卻 扭 傷 了 手 腕 。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,68 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\01_defiance_bay_copperlane\01_cv_merchant_peregund</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>11</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>「那邊的你好！」當你靠近的時候羽精向微笑。「你看起來像是個探險者。在集市上尋找探險者物品？我這有你需要的所有東西！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>「給我看看你的商品。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>「你這有蒼運鋼製成的匕首嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>[離開]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>「蒼運鋼？我希望我有一些可以賣給你但是很抱歉，我沒有。找找伊格倫，那個造武器的鐵匠。他在那兒，是個奧瑪人。他貨源充沛——最好去問問他吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>「有什麼事我可以為你效勞的嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>「探險者供給品……你需要它們，我有，」女羽精微笑著說道。「想看看我的物品嗎？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>「你好，」女羽精用熟悉的語調打著招呼。「感謝來光臨我的小店。」
+
+「我還在為失去了那輛貨車補充貨源，」她憤懣地說道。「我的物品欄不像以前那樣了但是……幸運的是我有你會喜歡的東西。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>女羽精跳起來落到你的跟前。「記得我嗎？我們在馬德米爾橋碰過面。」
+
+她輕佻地拍了拍你的肩膀。「謝謝你當時在那兒幫助我。正如我承諾過的，我會給你城裡最優惠的價格。如果不是你，我依舊會是一文不名！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>「給我看看你的商品。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>「給我看看你的商品。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
+

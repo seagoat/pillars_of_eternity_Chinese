@@ -1,0 +1,62 @@
+<StringTableFile>
+  <Name>quests\07_gilded_vale\07_qst_vengence_from_grave</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>墓穴复仇</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>对抗那顿。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>找到穿红袍的人</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>在探索溪谷林地荒野时，我遇到了里面住着一只熊的洞穴。里面有一具啃食过半的尸体，还有一个灵魂用某种魔法向我展示了那个死人最后的时刻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>在溪谷林地，我遇到了一位奇怪的利刃，他告诉我他的朋友在这里被一只大熊给杀死了。在探索之后，我找到了熊居住的洞穴和佩里的尸体。我看到了佩里最后的时刻，真是一个让人痛心的事实：他的朋友那顿在他逃出熊的攻击时将其致残了。那顿这么做的原因不清楚。也许我去和他对峙才能找到答案。那顿就住在镀金溪谷附近的镇子上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>在溪谷林地洞穴深处，我看到一只熊正在吞吃一个人的尸体，那个人是最近跌进洞穴里的。当我接近尸体，我看到了这个人的最后一刻，他是从镀金溪谷来的猎人。在幻象中他被朋友引导了这里。当熊开始攻击时，他的猎人同胞将其致残并逃跑了，让他被活活吃掉。这个罪魁祸首唯一的标志是他红色的长袍。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>听到英格若德说的事情，我决定让她和那顿离开镀金溪谷。也许他们可以在某个地方开始新的生活。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我杀了英格若德和那顿，因为他们是佩里死亡的帮凶。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>我杀了猎人那顿，却发现了他在溪谷林地一处洞穴中第老朋友实施犯罪的证据。我告诉佩里的灵魂说杀死他的人已被手刃。也许他的受到困扰的灵魂现在可以进入轮回了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>我杀了英格若德和那顿，此后却发现了那顿在溪谷林地一处洞穴中第老朋友实施犯罪的证据。我告诉佩里的灵魂说杀死他的人已被手刃。也许他的受到困扰的灵魂现在可以进入轮回了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>我杀死了幻象中的那顿和英格若德。不管佩里的死因如何，都与他们一同湮灭了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,33 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\04_defiance_bay_brackenbury\04_bs_animancer_male</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>5</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“如 果 你 想 跟 我 们 的 灵 魂 学 者 谈 谈 ，你 得 先 和 看 守 者 首 领 伊 塞 默 尔 说 好 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“灵 魂 研 究 意 味 着 进 步 和 实 验 。不 幸 的 是 ，很 多 人 对 此 感 到 不 适 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>灵 魂 学 者 整 了 整 布 袍 ，朝 你 点 了 下 头 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“很 多 布 拉 肯 伯 里 当 地 人 来 这 里 接 受 治 疗 。这 有 助 于 给 我 们 的 研 究 提 供 资 金 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“灵 魂 研 究 听 证 会 很 快 就 结 束 了 。我 们 的 未 来 掌 握 在 公 爵 手 中 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

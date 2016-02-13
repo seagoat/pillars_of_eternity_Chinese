@@ -1,0 +1,48 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\07_gilded_vale\07_bs_gv_inn_villagers</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>8</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“在 主 人 离 开 后 ，我 还 以 为 这 地 方 会 衰 败 呢 ，不 过 这 地 还 是 熬 了 下 来 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“最 近 这 里 的 食 物 糟 糕 透 了 。橱 里 进 老 鼠 了 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“最 近 我 们 一 直 派 莱 德 里 克 的 老 守 卫 们 在 这 边 值 岗 ，他 们 大 声 谈 论 着 怪 物 。他 们 大 多 数 都 是 些 头 脑 简 单 的 废 材 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“能 看 到 新 脸 孔 真 好 。感 觉 村 庄 是 越 来 越 小 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“他 们 说 莱 德 里 克 大 人 被 杀 了 。我 打 赌 ，他 们 会 马 上 派 军 队 到 这 里 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“希 望 这 里 有 一 些 艺 人 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“有 人 在 附 近 看 到 佩 利 吗 ？他 这 个 时 候 通 常 都 喝 醉 头 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“这 里 有 点 干 燥 但 还 算 好 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

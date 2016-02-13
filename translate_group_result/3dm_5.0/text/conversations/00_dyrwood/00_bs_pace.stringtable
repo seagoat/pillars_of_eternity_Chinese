@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\00_dyrwood\00_bs_pace</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“你在厨房里做什么？登格勒会让你把食物和饮料分类的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“那个贵族还在这里？现在他的士兵正在狂饮我的麦芽酒，他们没喝的酩酊大醉可真是个奇迹。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“注意离烤箱远点儿。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“有点耐心！馅饼很快就好。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

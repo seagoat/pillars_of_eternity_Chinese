@@ -1,0 +1,28 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\03_defiance_bay_ondra_gift\03_cv_vailian_merchant</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“来 看 看 我 卖 的 东 西 吧 -都 是 来 自 共 和 国 和 前 维 拉 的 奇 异 货 品 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“让 我 看 看 你 卖 的 是 些 什 么 东 西 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>&quot;再 见 。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“朋 友 ，今 天 想 买 我 的 哪 类 物 品 ？”</DefaultText>
+			<FemaleText>“朋 友 ，今 天 想 买 我 的 哪 类 物 品 ？”</FemaleText>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

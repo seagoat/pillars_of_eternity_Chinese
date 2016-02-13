@@ -1,0 +1,33 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\00_dyrwood\00_si_ruillag_bridge_02</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>5</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>A你 面 前 横 卧 着 一 座 破 桥 。桥 身 大 部 分 显 然 已 经 断 裂 落 入 河 中 ，水 岸 两 侧 只 剩 下 两 块 锯 齿 般 的 岩 座 。你 看 到 另 一 边 有 一 条 林 荫 小 道 。你 或 许 可 以 直 接 跳 过 那 个 缺 口 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>[跳 到 另 一 边 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>[离 开 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>Y你 平 安 无 事 地 跳 过 了 缺 口 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>[SkillCheck 0]跳 过 了 缺 口 ，不 过 在 落 地 的 时 候 扭 伤 了 脚 踝 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

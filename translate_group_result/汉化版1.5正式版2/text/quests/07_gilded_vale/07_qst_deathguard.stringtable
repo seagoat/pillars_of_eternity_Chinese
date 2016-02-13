@@ -1,0 +1,72 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\07_gilded_vale\07_qst_deathguard</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>12</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>贝 拉 斯 的 冠 军 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>回 到 莱 德 里 克 要 塞 并 找 到 你 的 挑 战 者 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>击 败 莱 德 里 克 七 世 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>回 到 莱 德 里 克 要 塞 并 找 到 你 的 挑 战 者 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>杀 死 莱 德 里 克 领 主 后 ，我 想 丰 饶 之 谷 终 于 摆 脱 了 他 的 影 响 。但 似 乎 那 座 伟 大 的 堡 垒 里 还 有 什 么 事 情 。这 可 能 是 一 个 新 篡 位 者 干 的 好 事 ，或 者 只 是 纯 粹 的 迷 信 。不 管 怎 样 ，这 应 该 值 得 调 查 一 下 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>在 双 榆 城 的 Celestial Sapling，我 遇 到 了 一 个 丰 饶 之 谷 的 前 守 卫 。他 声 称 莱 德 里 克 领 主 本 人 回 到 他 的 堡 垒 ——尽 管 他 确 实 已 经 死 在 了 我 的 手 里 。
+
+显 然 莱 德 里 克 为 了 报 复 我 杀 死 他 而 发 出 了 挑 战 。不 管 怎 样 这 都 值 得 好 好 调 查 一 下 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>看 来 是 莱 德 里 克 的 决 心 将 他 一 直 拴 在 这 副 凡 人 躯 壳 内 而 不 得 转 生 。想 再 次 分 离 出 他 的 灵 魂 可 不 是 件 容 易 的 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>看 来 我 已 经 收 到 了 一 个 挑 战 ——是 被 我 杀 死 的 莱 德 里 克 七 世 。
+
+莱 德 里 克 想 和 我 在 他 的 要 塞 来 一 场 决 定 性 的 最 终 遭 遇 战  - 否 则 就 要 冒 险 进 一 步 攻 击 我 自 己 的 大 本 营 。不 管 是 黑 魔 法 还 是 骗 局 ，他 确 实 复 活 了 ，而 答 案 似 乎 只 能 去 莱 德 里 克 堡 垒 揭 晓 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>似 乎 内 德 马 在 政 变 中 幸 存 了 下 来 。他 告 诉 我 莱 德 里 克 领 主 在 塔 顶 等 我 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>看 来 欧 丝 丽 亚 在 莱 德 里 克 回 归 的 混 乱 中 幸 存 了 下 来 ，回 到 了 她 最 喜 欢 的 位 置 上 。尽 管 如 此 ，她 还 是 尽 快 告 诉 我 他 的 位 置 ：堡 垒 的 最 高 点 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>此 任 务 中 的 某 个 重 要 人 物 已 死 亡 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我 已 经 打 败 了 莱 德 里 克 七 世 ，一 劳 永 逸 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

@@ -1,0 +1,47 @@
+<StringTableFile>
+  <Name>conversations\10_od_nua\10_bs_ghost_d_scared</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“你—你好？有人吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“哦，上帝啊，我看不见……什么都看不见……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“我连自己都听不到。又怎么能跟他说话？这里什么都没有！”</DefaultText>
+      <FemaleText>"I cannot hear myself. How am I to tell her anything? Please, there is nothing here!" </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“天啊……难道我永远也走不出这个地方了？”你听到了一阵抽泣。“快回去！别在靠近了！神是不能碰到我们的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“我在呢。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“你是谁？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[保持沉默。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“我告诉他。我告诉他，别这样，请放我出去。让我出去吧，我要出去！”</DefaultText>
+      <FemaleText>"I told her. I told her, please, please let me out. Let me out. Let me out!" </FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

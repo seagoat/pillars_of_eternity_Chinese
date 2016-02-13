@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\14_burial_isle\14_cv_wael</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>53</EntryCount>
@@ -252,7 +251,7 @@ As if on cue, the mists before you clear just enough for you to take a couple st
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Edér's head twists suddenly, as though something had flown in front of his face. 
+      <DefaultText>Ed&#233;r's head twists suddenly, as though something had flown in front of his face. 
 
 "What's that?"</DefaultText>
       <FemaleText />

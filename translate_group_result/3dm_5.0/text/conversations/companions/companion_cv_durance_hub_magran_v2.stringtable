@@ -1,0 +1,372 @@
+<StringTableFile>
+  <Name>conversations\companions\companion_cv_durance_hub_magran_v2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>66</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“噢，你认识她。你肯定认识她。”他向你苦笑了一下，接着他的语调变得平缓。“她是个有很多头的婊子。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“我怕你不喜欢火焰的热量，守望者，但是如果你承受的住……我就把我所知道的告诉你。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“凡事都要有个度，守望者，”他笑道，“可不要撸多了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“我的天，你怎么那么多问题，别人还以为你跟着个小孩子在一起 - 或者是欲火中烧了呢。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“很少见到你这么不信奉马格兰的马格兰崇拜者啊。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“你对马格兰怎么看？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“她有盟友吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>“她的敌人是谁？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>“不说马格兰了。我有其他问题。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>“就聊到这儿吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Trigger Conv Node 12</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>“她是个女神，和所有女人一样善变……无论是皇后或是妓女所具有的所有缺点。”他皱着眉头，挠着脸说。“很显然，她都有。
+
+“太多双眼睛，太多的欲望，太多要坚持的东西……这就是一个神祗的缺点——就跟大多数女人一样，语言已经无法形容她了。”他轻蔑的哼了一声。“一个神要罩着这么多的国家，结果一个都没罩好。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>“……虽然火焰极少情况下会交叉两次。所以有可能这是她所认同的唯一的真理。谁知道呢？神都是贪婪的。说到火焰的话，火焰就是神祗饥饿的体现。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>“她的教义是什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>“我想问你其他有关马格兰的问题。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>迪兰斯开始数手指，唱了起来。“战争可转变，火焰会吞噬，审判将净化……
+“战争，火焰，吞噬，净化，最重要的，转变。审判同理，但是所有的东西都需要经过考验 - 审判将吞噬，将净化，将转变。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>“它们都是互相联系的，虽然中心是火焰，并且火焰才是关键，是……‘万物之源’。估计什么东西都是从火里生出来的，哈？任何一个在篝火旁的傻子都知道这个真理。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>“没有了火焰，火，我们就无法在黑暗中前行。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>“有些东西，做出来仅仅是为了猎杀及战争。”他停顿了一下，手指挠了一下下巴上的痘印。
+
+“阿毕顿的魔像。格拉文和他的野兽。后者使我们诚实并保持清醒……”迪兰斯的另一只手重新握紧他的法杖。“……阿毕顿做出的那些东西就是为了惩罚那些不诚实，不清醒的人的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>“阿毕顿？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>“我很熟悉阿毕顿。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>迪兰斯哼了一下。“你不熟悉我也不觉得奇怪。神的数量比地里的庄稼还多，而且还只是这辈子你能见到的。他们来来去去的，但又总是在同一时刻出现在这里。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>“阿毕顿……曾经像个人类。”迪兰斯笑着。“被宰了之后就给自己造了个新的身体。在马格兰的帮助下，‘转变’了。
+
+“也许，她还是需要她自己的铁匠看着炉火吧。如果真是那样，阿毕顿就有用了。”迪兰斯皱着眉头。“在我看来，他是一个武器，一个工具，而不是个神。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>“你没听说过我也不奇怪。神的数量比地里的庄稼还多，而且还只是这辈子你能见到的。他们来来去去的，但又总是在同一时刻出现在这里。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>“迪伍德的人们，尤其是城市里的人，仍然很爱戴他，随便吧。虽然如果对兢兢业业和手艺高强的人的奖赏就是像他一样的好身板儿，我还是会用鲜血，大屌和屁股狠狠地操他。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>“你还提到了格拉文？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>“怪物之父，伟大的猎犬，说到怪物，这世界上可有不少呢，我说的可不仅仅是两条腿的怪物。
+
+“就好像是他做怪物的目的仅仅是为了猎杀人类似的，随时提醒着他们要摆正自己的位置。我怀疑他正忙着做更多的怪物呢。理智虽然不够，怪物倒是做了不少，还不停的变异来变异去的。哼。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>“你是什么意思？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>“他的教义……乱七八糟一大堆，而且考虑到他尊重命运的逆转，尤其是野兽们的命运？可能也不算是乱七八糟了。
+
+“在我看来，马格兰和他同床共枕完全说不通啊。就算是他确实相信审判。一个猥琐的奥兰神，一会儿狼嚎，一会儿又猫叫的，搞得自己就像个野兽。他们就养着自己的野兽吧，我的火焰和武器时刻准备着。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>“不是所有的奥兰人都崇拜他。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>“你再提到奥兰人的时候注意自己的言辞。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>迪兰斯瞥了你一眼，哼了一声。“喔……奥兰人生气了，好怕怕。
+
+“你是赶上好时候了，要是在奴隶制鼎盛之时，你们也不过是个满脚都是屎的贵族的脚垫或者卧垫罢了。”迪兰斯冷笑了一下。 “那些日子可能还会回来的——毕竟，这是你们应得的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>“应得的？你这话什么意思？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>“听起来好像某些人也想要享受同样的待遇。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>“跟人类一样，说大话，不讲理。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>迪兰斯惊讶地看着你。“你们太弱了，连自己都保护不了。你刚接受了考验，但是还没完，你还不够强大。奥兰人，战争可不等人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>迪兰斯改变了一下重心，眼睛微微眯起。“你可以试试，然后我会像那些贵族一样在你身上擦鞋底。要怪就怪你们自己……你们太弱了，连自己都保护不了。
+
+“你刚接受了考验，但是还没完，你还不够强大。奥兰人，战争可不等人。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>“人类，这就过分了。”迪兰斯动了动身，眼中发出了一道精光，“虽说你是我们的膝下之臣，但至少我们人类是用我们的双脚前行的，而你……奥兰，这都是你的错……是你太弱了。
+
+“你的测试还没有结束，”迪兰斯耸了耸肩，“奥兰，战争可不会等你去了解。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>他皱着眉头，好像在思考。“一个奥兰族守望者……可能把你玩儿够了，你才有点儿希望。但是咱们走着瞧，是吧？起码我会……也不知道你的眼睛是不是会太过于注意前方的路，你自己的失败怨不得我。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>迪兰斯大笑道，“要是神祗有友军的话，那才麻烦呢，”随即他的脸色的笑容消失了，取而代之的是一脸的不屑，“神祗肯定是没有朋友的。”
+
+“但是，”他的眼神突然变得意味深长，“敌人也曾经存在过，曾经。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>迪兰斯笑着。“之前，你问我盟友问题时候？好吧，那个……盟友，敌人……在历史的眼中，并没有太大的区别。”笑容从他的脸上消失，他冷笑了一声。“曾经有敌人。曾经。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>“伊奥萨斯”迪兰斯冷笑着点点头。“但是那个问题已经被我们解决了。然后……赫丽雅，还有她那个用羽毛做的女皇冠和鸟群。”他冷笑着说。“好像她号称站在她的小棍上能俯瞰世界呢……我希望她看到了伊奥萨斯的遭遇，我想知道她是否还有胆量在火焰乱窜的大地上行走。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>“她的神殿都是窗户和喳喳叫的音乐。每一只摔死的鸟都是一个胜利，我最大的乐趣就是看到那个长羽毛的婊子养的鸟摔死。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>“你对她可谓是怒气满满啊。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>“伊奥萨斯死后，她和她的牧师为伊奥萨斯的崇拜者们提供避难所。她是我下一个目标。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>“噢，我说的这些是不是让你有更多问题了？”他的眼睛眯了一下，然后笑着说。“真是个惊喜。
+
+“我是不是尊重她？”他的脸变红了，并收敛了笑容。一滴汗从额头上滑下来。“为什么，我尊重所有的婊子 - 对婊子而言，她们的动机起码是诚实的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>“并且真的如果有人，像我一样想要把审判和净化具象化的话，那个人也会像我一样享受战争……嗯，如果我连挑战女神的原则和她的火焰的胆量都没有的话……”他笑着说。“我会抱着自己的伪善流血致死。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>“这么说你和马格兰有过节？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>“男人打仗。女人打仗。”他咯咯地笑着说。“有时候，甚至是同性之间开战。如果谁不打仗，不挣扎，不惩罚，那他有什么用呢？”他的法杖轻敲着地面。“这条棍子现在既没杀人也没伤人，够没劲的了。”
+
+迪兰斯诡异的微笑着。“但是现在……跟一个女神打仗，只有走投无路的人才会意识到，这是真正的战争。但是只有做到这些，才会让一个人从众多信徒中脱颖而出。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>“但是如果你站在她的对立面，你如何从她那里得到力量呢？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>迪兰斯耸了耸肩，脸上透出一股残忍的不屑，“伊奥萨斯虽然被烧死了，但是他那些低贱的崇拜者仍然在从他那燃着冥火的胯下吸收着力量……”
+
+他皱了皱眉，“如果我冒犯了我的女神，我一定会为我的行为付出代价，也会在付出代价的同时吸取到更深刻的教训。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>“迪兰斯在途中多次这么做，这是逆天行道的，要知道，有些真理不是光盯着火看就能领悟得到的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>“只有在Hearth and Bellows周围，甚至是Ashfall的大厅中聆听内心的火焰，你才会真切体会到是火焰带给人生命的。而那火便是马格兰。一些古老的文摘提到，她摩擦双手便可生火……：”
+
+“……或者某些神钻她取火来着。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>“也就是说她有不同的教义？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>他笑了。“我的教义是众多教义中的一个。”迪兰斯皱着眉头，停顿了一下，然后他的双眼闪着欲望的光芒。“但你听听这个……”
+
+“我可以告诉你输了的那一方是如何看待她的，那就能解释你的问题了。我就代表艾迪尔人来谈谈吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>“注意你要说的话。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>“那么艾迪尔人是怎么看的？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>“艾迪尔人对她有一种……很贴切，很礼貌的评价。‘会打仗。战术性自律。’”他轻蔑的哼了一声。
+
+“当然，他们丫的殖民地就他妈这么丢的。在我们押解他们去码头的时候，他们的评价仍然这么贴切。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>“虽然他们有着不错的枪炮，但是当你发光的法杖戳进他们的头骨中左右搅拌的时候，一切都是白搭。”迪兰斯的拳头紧握，他笑着。“艾迪尔人管那叫‘升华’，‘神圣意识’。”
+
+“那些话语就像鞋底上的屎一样受人欢迎，这也是他们逃跑的时候唯一带着的东西……”他摇摇头。“错误的时间上了正确的一课。我差点儿都同情他们了……差点儿。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>“上了一课？什么意思？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>“神的头衔是无法让你真正了解一个神的。读万卷书不如行万里路，让你自己在烈焰中经受考验……坚持走下去，直到所有的词句都消退，之后你就会感受到，在你心中熊熊的燃烧的。那就是一堂课。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>“那个……艾迪尔人的‘礼貌，’也就是他们认为的对文献的高深理解……击沉了他们的战船，吓倒了他们，使他们在迪伍德战役中落荒而逃。”
+
+他冷笑了一下。“‘神圣意识。’真正的信仰是不会等着被考验的。战斗中最好的战士早已经拉够裤子了，裤子干了的时候就是他们专心杀敌的时候。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Trigger Conv Node 309</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Trigger Conv Node 309</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Trigger Conv Node 309</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Trigger Conv Node 309</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

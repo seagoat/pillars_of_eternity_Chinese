@@ -1,0 +1,19 @@
+<StringTableFile>
+  <Name>conversations\08_wilderness\08_cv_rhemen_entry_head</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>你听到你上面石雕头像发出刺耳的摩擦声。它眼眶里的艾德拉晶片闪着翠绿色。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>石像嘴中发出低沉洪亮的声音。混乱的语义汇聚成你的母语。
+
+“没有比锻造成青铜的原质更真实的刀锋。左转两次，为它的审判备好你的灵魂。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

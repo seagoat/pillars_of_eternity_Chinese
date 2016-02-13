@@ -1,0 +1,477 @@
+<StringTableFile>
+  <Name>conversations\07_gilded_vale\07_cv_nedmar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>94</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>虛弱的老神父伏在桌前，戴著厚厚的單片眼鏡砍樹，四周全是書卷和羊皮紙。你走近之後他抬起頭，眨了眨眼。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「你回來了。通過城堡時要小心。你突然出現在這會給我們帶來巨大的災難性後果。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你回來了！找到他沒有？有人倖存嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「你好，又是我了。我希望你在下決定之前和萊德裡克談一談。或許能幫助鍍金溪谷走出黑暗，沐浴神的榮光。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「很遺憾。不過現在我們可以回頭談談讓鍍金溪谷重歸和平的問題。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「我來見萊德裡克。你會幫助我嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「你怎麼知道是寇爾什派我來的？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>奈德瑪後悔地皺起眉頭。「我知道自己做不到。我曾經警告過寇爾什一行人。我也確實想勸阻他們。但我只是白費力氣。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「如果我救了基亞克，你能幫忙讓我去見萊德裡克嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「基亞克很安全。他讓我轉告你，他小時候你給的那個雕像他還留著。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>奈德瑪睜大了眼睛。他激動地衝過去抓住你的胳膊。「謝天謝地，謝謝你！我沒想到你能……我生怕……」他搖搖頭，「我不希望他這麼早就遇上蒼白騎士……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>奈德瑪的表情僵住了，他沉默下來。這位老人喘了幾口氣，然後發出大喊。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「那會來更多的人。你既不是寺僧也不是守衛。」他的聲音乾燥又嘶啞。「你是個入侵者。是寇爾什派你來的嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「是啊，他總是讓年輕人奮不顧身地挑戰城堡的防衛。」他搖搖頭。「要是我布道時能像他那樣激勵人心就好了。你到底還是來了。你想做什麼？」</DefaultText>
+      <FemaleText>「是啊，他總是讓年輕女人奮不顧身地挑戰城堡的防衛。」他搖搖頭。「要是我布道時能像他那樣激勵人心就好了。你到底還是來了。你想做什麼？」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「就連可憐的基亞克也……他至少活下來了。但他落入了歐絲麗亞手中，當了實驗小白鼠。」他低下頭，把顫抖的手放在桌子上支撐自己。「我也是勉強躲過了懷疑。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「你提到歐絲麗亞的實驗？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「跟我講講基亞克吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「萊德裡克沉浸在悲傷裡，誰都勸不動他。他會遷怒那些可憐的囚犯。」他搖搖頭。「我對此難以忍受。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「不是這樣。我只是不贊成他的方法。我們是老朋友了……他年輕時我就認識他。所以更不願意看到他變得盲目衝動。」奈德瑪皺起眉。「儘管他目的是好的，但他們帶來的傷害更大。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「我不希望他傷害別人。所以我才被捲入了他們的權利鬥爭。」他舉起瘦長的手指。「但寇爾什和萊德裡克都無法解決這場危機。他們都是凡人。我們必須仰仗貝拉斯。只有雙生神才能給鍍金溪谷的靈魂帶來安寧，只有向貝拉斯祈禱，才能根絕懷德溫遺症。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>奈德瑪靜靜地端詳你。「我的眼睛或許不好使，但我心裡清楚。寇爾什在盡可能地招募支持者，他開始執著地攻打城堡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「他剛剛嘗試過攻城。我早就預料到這是一場災難。現在正如你所見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「寇爾什不願意認清事實，也不理解為什麼萊德裡克一直有權有勢。如果他想代替萊德裡克，就必須有人引導他。我……我只希望他能聽進去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[離開]「再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「有一個寺僧，」奈德瑪表情凝重，「他小時候在街上乞討，我將他帶到了這裡。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「我希望他能在教堂裡長大，等我老了就替我扶持萊德裡克大人。」他的聲音很苦澀。「但他對寇爾什那徒勞的反叛更感興趣。我留不住他。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「現在他加入了寇爾什來對付我們的大人，最後被鎖在地牢裡。我怕他已經淪為歐絲麗亞的受害者了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「歐絲麗亞原本是個聰明的姑娘，卻被通靈師洗腦了。她用褻神的理論和虛妄的希望迷惑了萊德裡克，以此引導他的人民。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「萊德裡克竟然蠢到相信歐絲麗亞的鬼話。他允許那女人隨意為實驗做準備。如今城堡最低處充滿了腐爛的味道。不知有多少靈魂悲傷地棲居黑暗。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「我……祈求萊德裡克放過基亞克。但我只是延緩了他的死期。」他搖搖頭，「他現在任由歐絲麗亞擺佈。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「我……我能告訴你怎麼去下面萊德裡克的禮拜堂。那裡就在王座之間旁邊。」奈德瑪的聲音在顫抖。「但基亞克還有危險，我不能冒險。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「如果你能保護他遠離歐絲麗亞，我向你保證，我會傾盡全力來幫助你。」他小心地環視房間。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「這裡往南有個門，就在貝拉斯神龕旁邊，能直通地牢，在那你能找到基亞克。求你不要惹人注意。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>「我會把基亞克送到安全的地方再回來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「沒時間做這些了！死老頭，給我鑰匙。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「我會盡量避免流血。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「……我會回來的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「多加小心。歐絲麗亞的魔法很強，而且喜歡用殘忍的陷阱。如果她被激怒了會很可怕。」奈德瑪雙手交疊，「願諸神指引你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>奈德瑪站直了身體，儘管他的手在顫抖。「你要像寇爾什一樣粗魯，來威脅一個老神父嗎？你不救基亞克我絕不會幫你。我話就說到這了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>老神父放心地吐出一口氣，你頭一次在他眼中看到了希望的微光。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「我非常想幫助你，但基亞克還在歐絲麗亞手裡。如果他有個三長兩短……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「我需要休息。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「你應該不會——」奈德瑪變得很不安，他看向走廊。「也好。你狀態不好我也不能讓你硬闖地牢。在這休息幾個小時吧，我會看著不讓別人進來。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「我找到了基亞克，但是在逃跑途中他被殺了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>奈德瑪走到一邊整理情緒。「這是我許給你的。」他從長袍口袋裡取出一把鐵鑰匙遞給你。「它能打開寫字間的門。」他指向西方，「走這邊你就能避開許多守衛，進入禮拜堂找到萊德裡克。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「在你走之前我想懇求你……儘管萊德裡克大人有不少缺點，但他一直虔誠地奉神，總是為鍍金溪谷的整體利益著想。如果有時間，他或許能實現自己的願望。請你在付諸暴力之前想想這些。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「這鑰匙能打開什麼門？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「如果你讓寇爾什代替萊德裡克坐上領主位子，他肯定會很開心。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「再見。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「我詛咒你！你的靈魂將四處遊蕩，直至魂飛魄散！守衛，守衛！過來幫我！這裡有殺人兇手！」這位老人從胸前的長袍掏出一把薄薄的匕首朝你刺過來。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「這是萬能鑰匙。」奈德瑪的雙手不安地扭動，「雖然不是每扇門都能打開，不過能讓你下樓去大人的禮拜堂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「你還能打開城堡的主廳大門。不過走那條路會經過一番苦戰。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「你時間不多。不管你怎麼做，萊德裡克大人都會很快發現一個囚犯逃走了，然後你就沒法利用出其不意帶來的混亂。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「我中意寇爾什是因為他有夢想。但他有很強的支配慾望，儘管是出於好心。他的行動不是出自己的信念。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「但他仍然是我的朋友。我願意幫助寇爾什使鍍金溪谷重獲神的榮光。萊德裡克大人該下台了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「鍍金溪谷也將迎來新主人。我希望你能做出明智的選擇。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>奈德瑪看起來比往常更加虛弱，他的皮膚皺巴巴地貼在骨頭上。他一直盯著你眨眼睛，彷彿想看得更清楚。「你回來了……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「恐怕你找不到他了。」奈德瑪顫顫巍巍地指向拱頂，「他在城堡的最高處等著你。你可以從上面那層過去。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「祝你好運，朋友。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「我……我會離開這裡，去需要我的地方。將貝拉斯的信仰擴展到世界各地。」他低下頭。「祝你好運，朋友。請……讓這一切都落幕吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「我……我會離開這裡，去需要我的地方。或許我還能找到基亞克，他或許還想回教堂來。」他低下頭。「祝你好運，朋友。請……讓這一切都落幕吧。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「其實萊德裡克讓我去解決寇爾什。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>「我明白了。那你會結束他的叛亂。」奈德瑪低頭面對桌子，眼睛沒有定焦。「那麼或許……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>「其實我是來洗劫這裡的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>「你似乎看不起寇爾什。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>奈德瑪憂慮地皺起眉。「值得這樣冒風險嗎？萊德裡克一直飽受盜賊之苦。如果你公開和萊德裡克的敵人作對，你將來會不好過。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>「不管你有什麼理由，我都要勸阻你。自從寇爾什襲擊失敗，萊德裡克就把手下召集起來，把自己牢牢保護住。」奈德瑪搖搖頭，「我不想再讓更多的生命逝去了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>奈德瑪搖搖頭。「我不會阻止你完成使命。我祝福你。為了寇爾什的野心，太多無辜的人付出了代價。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「去鍍金溪谷周邊尋找寇爾什吧。他不會走太遠。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「你不知道這城堡了發生了多可怕的事。萊德裡克大人拋棄了信仰，開始癡迷非自然生物。他模仿歐絲麗亞造出了許多怪物。」他低下頭。「歐絲麗亞走了我才能說服萊德裡克讓我留下來。我在全力讓他回到正軌。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[攻擊]「歐絲麗亞讓我問候你。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>這位老人跌跌撞撞地遠離你，長皺紋的臉上滿是恐懼。他驚恐地呼出一口氣，從懷裡摸出一把匕首。「守衛，守衛！快來救我！這裡有殺手！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「你……你把他倆都殺了。現在我們該做什麼？鍍金溪谷要亂套了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「哦，這可比偽裝好多了。我們有一句暗號。『舊的結束是新的開始。』把這句話告訴守衛，他們就不會干涉你。我很怕獨自待在這一樓。萊德裡克的傭兵們很沒耐性。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[撒謊]「基亞克很安全。他讓我轉告你，他小時候你給的那個雕像他還留著。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Bank Node 81</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「通靈師。」他的嘴扭曲了，「我就知道他們也牽扯進來了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「這片大地佈滿硝煙戰火。世道艱難，世風日下。就算找到懷德溫遺症的解決辦法又有什麼用？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>她的輪廓轉眼變得模糊不清。「這大廳裡許久沒有孩子們的歡聲笑語了。大家都陷入了絕望，變得不擇手段。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「他企圖殺死你和你的朋友，你卻要和他處好關係？真不敢相信他們連這麼合理的建議都不聽。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「還好他的前輩降低了期望。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「我們都是貝拉斯的奴僕，你必須得幫我。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「只要你幫我辦事，」老神父兩眼放光，「我就信守諾言。已經死去太多人了……可憐的依格瑞德女士……」他輕輕呼出一口氣，「拜託你了。我知道基亞剋死期未到。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「當然，當然，我會閂上門。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「拿上這個吧。我沒什麼錢，不如給你有用的東西。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「嗯？誰在那裡？走近點。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「基亞克安全了。他讓我跟你提一個雕像，說是你給他的。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>奈德瑪睜大了眼睛。他激動地衝過去抓住你的胳膊。「謝天謝地，謝謝你！我沒想到你能……我生怕……」他搖搖頭，「我不希望他這麼早就遇上蒼白騎士……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>奈德瑪走到一邊整理情緒。「這是我許給你的。」他從長袍口袋裡取出一把鐵鑰匙遞給你。「它能打開寫字間的門。」他指向西方，「走這邊你就能避開許多守衛，進入禮拜堂找到萊德裡克。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「保重，朋友。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「寇爾什獲勝了……你有基亞克的消息嗎」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「基亞克很安全。他讓我轉告你，他小時候你給的那個雕像他還留著。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>奈德瑪睜大了眼睛。他激動地衝過去抓住你的胳膊。「謝天謝地，謝謝你！我沒想到你能……我生怕……」他搖搖頭，「我不希望他這麼早就遇上蒼白騎士……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「拿上這個吧。我沒什麼錢，不如給你有用的東西。諸神保佑你，朋友……還有我們的新主人。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,65 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\companions\companion_qst_aloth_and_iselmyr</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>11</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>双面</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>在反抗湾找到一位觉醒方面的专家。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>亚洛斯说他体内有一个觉醒的灵魂，伊瑟梅尔。它请他帮忙找一位懂这种情况的专家。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>亚洛斯提到反抗湾有一整个致力于研究灵魂的疾病的机构。肯定就是我在侍僧的视角里看到的那个地方。
+
+我可能能找到了解觉醒的灵魂的人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>有人要我来找一个叫贝拉赛格的人。她在疗养院的低层工作。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>看起来要想帮助亚洛斯，布拉肯伯里疗养院是最好的地方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>我准备参加公爵的灵魂研究讲座。要想帮亚洛斯解决伊瑟梅尔的问题，我得先带着他找到这个疗养院里的专家。现在还不知道这个讲座会对反抗湾里的灵魂研究产生什么影响。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>在得知伊瑟梅尔是如何和亚洛斯脾气暴躁的父亲直接对抗之后，我认为他可能还没有意识到伊瑟梅尔有多大作用。他看起来有些怀疑，不过我相信他会考虑考虑的。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>在得知每当进退两难时，伊瑟梅尔就会得到控制权之后，我就建议亚洛斯最好提防着她。他不该把控制权让给任何人，即使是自己灵魂的一部分也不行。他看起来同意了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>看起来伊瑟梅尔对亚洛斯来说是把双刃剑。一方面来说，当亚洛斯面临困难的时候她会帮忙，但是另一方面，他有时候并不满意她的处理方式。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我们没找到亚洛斯需要的灵魂学者。他不得不独自解决这个问题。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

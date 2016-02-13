@@ -1,0 +1,214 @@
+<StringTableFile>
+  <Name>conversations\08_wilderness\08_cv_dying_monk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“这一定要按我的命令传达。”武僧抓他的包，拿出了一个信使的卷轴。“拿着！”他粗声粗气的说，朝你挥着信件。
+
+“把它带到天堂苗林。交给我的兄弟们…他们会报答你的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[打开卷轴]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[把卷轴放进包里]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>地上的人大口喘着气，随着他的挣扎胸腔剧烈起伏。走近检视，你看见他红色的斗篷完全遮掩了伤口。他血流如注脸色苍白。“拜托了。旅行者…”
+
+他伸出手，费力地伸向你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“发生了什么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“坚持住，让我处理你的伤口——或者至少止住痛。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“我不骗你，你的伤太重，我没法帮你。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[把他从痛苦中解脱出来]“这样会很痛快的。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>“健忘——所以大意，”他低语，唇间渗出血液。“我的关节被砍了一下，在…在晨练的时候。”他把满是鲜血的手聚在面前。“斯泰格——他们闻到我身上的血腥味，仿佛找到一顿美食。”
+
+那人抓住自己的左腿，摸着从膝盖伸出来的一截骨头。“它们几乎得逞。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>当你接近帮助他时，僧侣把手放在你的手上，用仅存的力气温柔的拒绝了你的帮助。“你是好意的，但我必须承受痛苦，做好下次轮回的准备。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>“不！”僧侣举着手，却引起另一阵咳嗽。“我希望能撑到最后一口气！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>当你的手指打开卷轴时蜡封轻易被破坏。你打开卷轴，看见精致的羊皮纸上有一枚官方水印。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>当你靠近时，你发现他已经没呼吸了，看不见活动了。你轻轻的合上他的眼睛，然后发现了脚边的神秘包裹。木卷轴有点脏，但你清楚地看到上面分布着五个蜡封。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[离开他]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>“好冷…”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>“拜托，帮帮…我。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[检视卷轴]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>卷轴由精美的细塔状的橡木制成。沿着长度方向，五个蜡封装饰在卷轴上，每个都有不同的图案：一小团火，张开的手，新月，烈日和平衡的天平。
+
+如果你试着打开，蜡封很可能就被破坏。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Bank Node 24</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>那人长叹一口气，对你慢慢的充满理解的点点头并微笑。
+
+“我们认识你，守望者。我们知道你真诚公平地对待他人。”他脸色渐白却露出一个大大的微笑。“我需要一个值得信任的人来完成我的任务。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>那人专心盯了你很久，直到认出你并瞪大双眼。
+
+“我听说过你！我们知道你的残忍。难道你…你看着一个陌生人死会很高兴吗？看着一个陌生人死而且还没完成他的任务让你更高兴？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>忍着疼痛，那人微微一笑。“我们认识你！”他兴奋地喊，却让他呼哧直喘。
+
+“我认识你——你的善良，你的慈悲！你愿意帮帮我吗？”他看了一眼他的物品中的一个浸血的包。“我已经没救了，但我的任务还能完成。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>他认出了你，眼睛一闪。“你…你是那个守望者！我听说你虚伪，会摆布人…但你是——”他咬住嘴唇，痉挛一样抽搐着。
+
+“你是我最后的希望了…拜托，听着…我身负一个任务，要把…”他的声音逐渐减弱但眼睛盯着身边的一个包。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>“这就是煎熬。甚于疼痛并从你的伤口处把力气抽出来。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>痛苦的微笑爬上他的脸颊。“我得承认，兄弟，我伤得太重了。”
+
+“我试过了…在港湾只要可能我一直忍着疼…但我的伤是致命的，我的身体不听我使唤。”</DefaultText>
+      <FemaleText>A pained smile creeps across the man's face. "I would comply, sister, but my injuries are too severe. My flesh 
+
+"I have tried... I held the pain at bay as long as I could... but my wounds are fatal, and my flesh beyond the control of my training."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[帮那人站起来]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>“不！”他呻吟，从你身上缓缓跌倒。“别麻烦自己了。这副身体已经支离破碎了 ，但我的灵魂将一直活着——这就行了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>“跟我说说你的任务。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>“等等！哪里——”他的胸腔起伏，鲜血从指缝中渗出。“你要去哪？拜托，我需要帮助！这封信必须——”
+他嘴里喷出一口血，意识到自己的可笑他的身体剧烈抽搐。不一会，他沉默，僵硬了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>“我几乎——”他指着身边一个浸满鲜血的包，“做到了。几乎递送了这个消息。”
+
+他盯着你，“拜托，接下来的路上带着它。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>他点头，“我曾身负无数伤——而我知道这次，我没法恢复了。我漫长的一生在此终结了…但我的灵魂已经准备好了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>“别打开它！”他大喊，声音嘶哑。“内容只能给我的弟兄看。要是蜡封破了，他们会——”
+
+他嘴里喷出一口血，形成红色的细流，慢慢流到脖子上。他脑袋后仰，身体不动了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[非常，非常小心地打开卷轴，试着不要破坏蜡封。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>你带着谨慎，慢慢搓下蜡封直到你感到每个蜡封完好打开。当你做完后，每个蜡封看起来都完好无损，而且只要稍微加热就可以重新封上，隐藏打开过的痕迹。
+
+在此之前，你阅读了其中的内容…</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>欢庆吧，探索者们。合理的用刑松动了线人的口风。我们寻找的神器最近被转移到了榆木之区——它应该被保管在定居点入口附近的住宅中。线人说很有可能藏在地板下。我们已经为寻找这个神圣遗物付出了太多——努力马上就会有回报的。殉教委员会等待着你的凯旋。别让我们失望。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>你把卷轴放进包里然后上路了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

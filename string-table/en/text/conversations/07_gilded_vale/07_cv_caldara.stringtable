@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\07_gilded_vale\07_cv_caldara</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>48</EntryCount>
@@ -135,7 +134,7 @@ She smiles at you reassuringly, fanning out a tuft of long whiskers that sprouts
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"I think I survived a bîaŵac. Do you know why that would be?"</DefaultText>
+      <DefaultText>"I think I survived a b&#238;a&#373;ac. Do you know why that would be?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

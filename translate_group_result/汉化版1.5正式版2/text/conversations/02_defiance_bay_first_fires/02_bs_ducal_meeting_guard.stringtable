@@ -1,0 +1,38 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\02_defiance_bay_first_fires\02_bs_ducal_meeting_guard</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>6</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“德 梅 尼 尔 大 人 说 ，[Player Name]，你 会 出 席 。楼 厅 为 你 敞 开 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“指 挥 官 克 莱 韦 尔 说 ，[Player Name]，你 会 出 席 。楼 厅 为 你 敞 开 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“维 南 说 ，[Player Name]，你 会 出 席 。楼 厅 为 你 敞 开 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“听 证 会 已 开 始 ，但 韦 伯 夫 人 为 你 --[Player Name]，留 了 位 置 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“会 议 正 在 进 行 ，不 允 许 未 受 邀 请 人 士 进 入 接 见 室 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“请 立 即 离 开 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

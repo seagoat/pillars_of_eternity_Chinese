@@ -1,0 +1,45 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\critical_path\act_4\cp_qst_confront_lka</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>古 老 的 记 忆 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>进 入 暗 影 之 阳 .</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>寻 找 赛 奥 斯 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>我 已 经 按 照 叶 精 说 的 做 了  - 我 已 经 在 神 的 保 佑 下 成 功 进 入 了 布 雷 斯 伊 曼 深 处 ，神 派 我 阻 止 赛 奥 斯 把 戴 尔 森 林 无 魂 儿 的 灵 魂 送 到 他 的 女 神 -沃 迪 卡 那 ，让 那 些 灵 魂 被 吸 收 。
+
+不 管 会 不 会 发 生 ，我 们 似 乎 还 有 没 做 完 的 事 ，我 需 要 尽 快 找 到 他 。心 中 的 低 语 现 在 变 得 响 亮 了 ，再 怎 么 休 息 也 不 会 让 我 感 到 放 松 。我 找 到 他 时 ，我 或 许 会 像 马 尔 瓦 德  那 样 一 头 雾 水 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我 从 忏 悔 者 庭 院 上 面 掉 了 下 来 ，但 我 没 死 。这 条 路 会 把 我 带 向 因 格 维 斯 的 监 狱 ，以 及 ，如 果 叶 精 姐 妹 说 的 是 真 的 ，还 会 把 我 引 向 &quot;暗 影 之 阳 &quot; ，赛 奥 斯 就 在 那 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>神 给 我 的 灵 魂 照 亮 了 一 条 黑 暗 中 的 道 路 。赛 奥 斯 就 在 前 方 的 某 个 地 方 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 找 到 了 梦 里 见 到 的 因 格 维 斯 机 械 。有 几 千 个 迪 伍 德 的 灵 魂 都 被 吸 引 来 了 。赛 奥 斯 应 该 就 在 不 远 处 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\04_defiance_bay_brackenbury\04_cv_bellasege</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>132</EntryCount>
@@ -615,7 +614,7 @@ She sighs. "I fear I will return to Revua with nothing to show for my efforts."<
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>Edér grins. "Must be hard to avoid knowing there's a lady in your body the whole time judging you."</DefaultText>
+      <DefaultText>Ed&#233;r grins. "Must be hard to avoid knowing there's a lady in your body the whole time judging you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

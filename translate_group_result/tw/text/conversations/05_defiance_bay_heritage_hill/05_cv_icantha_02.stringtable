@@ -1,0 +1,639 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\05_defiance_bay_heritage_hill\05_cv_icantha_02</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>125</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>一 個 女 人 彎 腰 對 著 燃 燒 的 壁 爐 ，把 破 碎 的 椅 子 腿 扔 了 進 去 。當 你 靠 近 的 時 候 ，你 發 現 她 有 些 奇 怪 -蒼 白 的 膚 色 ，缺 乏 運 動 ，但 是 他 的 手 臂 依 然 靈 活 有 效 的 運 動 著 。然 後 你 看 到 了 皺 肉 ，衣 衫 襤 褸 而 毫 無 血 色 ，在 她 的 心 上 面 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>你 回 來 了 。這 次 你 來 尋 找 什 麼 ?</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>近 亡 者 用 毫 無 血 色 的 嘴 唇 笑 著 。跟 欣 賞 真 正 學 術 的 人 談 話 總 是 開 心 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>DEBUG：Set Conditions for Quest Resolution = True.</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>盯 著 人 看 很 不 禮 貌 ，你 知 道 的 。別 擔 心 ，我 不 想 和 你 開 始 任 何 事 。畢 竟 ，我 保 持 著 這 麼 好 的 外 型 全 靠 小 心 的 選 擇 我 的 飲 食 。她 對 著 自 己 笑 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>我 該 走 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>我 需 要 操 作 塔 上 機 器 的 密 語 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>「我 在 找 伊 坎 莎 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>「你 是 誰 ？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>她 笑 了 下 ，那 笑 聲 有 著 干 葉 的 脆 響 ，又 帶 著 些 許 茲 茲 的 刺 耳 噪 音 。 「是 那 傻 瓜 -奧 爾 德 海 姆 ，派 你 來 的 對 不 對 ？不 敢 相 信 ，他 居 然 那 麼 機 智 ，存 活 下 來 了 。那 傻 瓜 根 本 不 了 解 那 是 什 麼 、為 什 麼 會 那 樣 。還 自 認 為 懂 得 該 怎 麼 使 用 。」你 感 覺 到 她 的 靈 魂 中 有 股 高 傲 在 燃 燒 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>「他 拿 出 鐵 匠 的 全 部 技 藝 ，企 圖 研 究 鼓 搗 這 強 大 的 遠 古 裝 置 。多 年 來 他 一 直 毀 謗 我 的 研 究 ，他 現 在 卻 派 你 來 請 求 我 的 幫 助 。」她 邊 指 著 那 堆 熊 熊 烈 火 ，邊 搖 了 搖 頭 。「他 根 本 沒 告 訴 你 這 高 塔 的 名 字 ，對 不 ？這 就 是 他 的 問 題 所 在 。一 直 在 尋 找 解 決 辦 法 ，根 本 不 在 乎 其 中 的 含 義 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>她 一 眨 不 眨 地 盯 著 你 。「你 想 她 身 上 取 得 什 麼 ？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>「跟 我 說 說 這 高 塔 的 名 字 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>「傳 承 山 的 問 題 比 你 的 對 手 -伊 坎 莎 要 嚴 重 得 多 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>「通 過 展 現 你 研 究 的 價 值 來 打 敗 奧 爾 德 海 姆 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>「該 如 何 運 作 泰 爾 瑙 內 斯 頂 部 的 機 器 ？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>伊 坎 莎 閉 上 了 雙 眼 。「泰 爾 瑙 內 斯 。」她 的 聲 音 忽 然 鎮 靜 了 下 來 。「它 叫 做 泰 爾 瑙 內 斯 。」她 一 邊 用 雙 手 擦 了 擦 衣 服 ，一 邊 站 起 、轉 身 朝 向 你 。她 那 雙 手 如 羊 皮 紙 般 干 燥 。「他 們 將 那 機 器 建 在 頂 部 來 儲 存 靈 魂 。固 定 、困 住 那 些 靈 魂 。我 所 見 到 的 其 他 機 器 ，那 些 散 落 在 迪 伍 德 各 地 的 機 器 。都 是 用 來 運 輸 靈 魂 的 中 繼 器 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>「我 的 沉 默 能 更 簡 明 得 證 明 這 點 。」
+
+你 的 話 語 刺 激 到 了 她 靈 魂 中 心 的 奇 怪 東 西 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>「我 為 什 麼 該 在 乎 ？我 已 做 好 准 備 ，就 預 料 到 可 能 會 有 這 結 果 。我 可 以 向 你 保 證 ，那 些 在 街 道 上 日 益 消 散 的 靈 魂 根 本 無 人 在 乎 。」她 的 高 傲 依 舊 猛 烈 燃 燒 著 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>「他 們 將 靈 魂 運 送 到 了 哪 裡 ？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>「又 一 個 不 解 之 謎 。想 運 到 哪 裡 ，就 運 到 哪 裡 。不 過 ，其 中 真 正 的 疑 問 是 為 什 麼 。同 賭 徒 洗 牌 ，農 民 輪 作 般 將 他 們 混 合 起 來 ？還 是 像 收 集 蝴 蝶 標 本 一 樣 將 他 們 收 集 起 來 ？或 許 是 為 了 原 始 精 華 將 他 們 都 融 化 掉 ？「不 幸 的 是 ，我 也 不 知 道 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>「說 回 那 些 修 補 匠 所 關 心 的 事 ！如 果 我 告 訴 你 的 話 ,你 會 怎 麼 處 理 這 些 被 拴 住 的 靈 魂 ？」她 交 叉 著 雙 臂 ，放 在 她 那 一 動 不 動 的 胸 口 上 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>「我 會 釋 放 他 們 ，讓 他 們 解 脫 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>「我 會 收 割 他 們 來 獲 取 精 華 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>「我 也 不 知 道 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+			<DefaultText>「做 我 這 行 的 ，很 少 有 謙 遜 之 人 。真 令 人 耳 目 一 新 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+			<DefaultText>「同 時 也 給 了 他 們 存 在 的 意 義 。但 是 什 麼 樣 的 意 義 呢 ？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>「你 雖 然 這 麼 說 。但 你 打 算 將 他 們 釋 放 到 什 麼 地 方 ？他 們 放 棄 了 此 地 ，前 往 其 他 地 方 ，卻 依 舊 茫 然 ，毫 無 目 的 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+			<DefaultText>「我 有 能 力 幫 你 。但 是 我 不 會 去 幫 你 。」她 靈 魂 中 的 高 傲 忽 然 迸 發 ，扭 曲 成 為 了 某 種 可 怕 東 西 ，在 她 內 心 蠕 動 著 、尖 叫 著 。「在 這 裡 。我 有 足 夠 多 的 樣 本 ，也 許 有 足 夠 的 時 間 來 觀 察 他 們 。這 是 每 個 科 學 家 的 夢 想 。「我 的 回 答 是 不 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>「你 似 乎 很 了 解 泰 爾 瑙 內 斯 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+			<DefaultText>「我 同 讀 日 志 般 閱 讀 符 文 。我 了 解 它 們 的 意 義 。奧 爾 德 海 姆 這 類 人 將 它 們 當 做 指 示 ，因 此 完 全 忽 視 了 其 中 的 真 正 含 義 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+			<DefaultText>[撲 滅 伊 坎 莎 的 高 傲 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+			<DefaultText>你 一 心 顧 著 那 尖 叫 、燃 燒 著 的 混 亂 場 面 ，近 亡 者 似 乎 沒 注 意 到 你 。 但 是 ，它 灼 燒 著 你 的 筋 骨 。你 跳 回 原 處 ，痛 苦 得 尖 叫 著 。「我 是 不 會 放 棄 這 機 會 的 。這 些 靈 魂 將 同 我 一 起 呆 著 這 裡 ，我 將 取 得 的 成 就 會 超 越 歷 史 上 的 任 何 靈 魂 學 者 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>94</ID>
+			<DefaultText>「誰 會 知 道 呢 ？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>95</ID>
+			<DefaultText>「你 死 了 。這 一 切 又 有 何 意 義 ？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>96</ID>
+			<DefaultText>「那 些 受 困 靈 魂 的 命 運 更 加 重 要 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>97</ID>
+			<DefaultText>「因 為 我 即 便 死 了 ，我 的 研 究 還 在 。我 有 著 時 間 和 機 會 來 完 成 這 壯 舉 ，我 取 得 的 成 就 將 超 越 歷 史 上 的 任 何 靈 魂 學 者 。」她 那 高 傲 閃 動 著 、尖 叫 著 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>98</ID>
+			<DefaultText>「囤 積 知 識 毫 無 意 義 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>99</ID>
+			<DefaultText>燃 燒 著 的 那 東 西 開 始 咆 哮 。「沒 有 比 這 更 重 要 的 東 西 ！我 們 聚 在 一 起 研 究 。那 千 名 類 昆 蟲 的 人 將 它 留 給 了 我 們 。通 過 它 ，我 們 超 越 了 他 們 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>101</ID>
+			<DefaultText>她 的 高 傲 變 得 閃 爍 不 定 ，周 圍 的 火 焰 也 開 始 減 弱 。「我 所 學 習 的 一 切 。數 年 來 研 究 因 格 維 斯 語 。沒 有 比 我 更 懂 的 了 。那 算 有 點 成 就 吧 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>102</ID>
+			<DefaultText>「知 識 如 果 不 分 享 ，又 有 何 意 義 ？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>103</ID>
+			<DefaultText>「你 在 這 裡 的 機 會 畢 竟 有 限 。總 有 一 天 ，你 的 知 識 會 跟 你 一 起 埋 葬 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>104</ID>
+			<DefaultText>「但 又 有 什 麼 用 ？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>105</ID>
+			<DefaultText>高 傲 在 她 內 心 中 憤 怒 著 。「有 著 各 類 作 用 ！為 什 麼 必 須 將 如 此 純 潔 的 東 西 變 成 粗 俗 的 工 具 ？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>106</ID>
+			<DefaultText>「愚 蠢 而 又 錯 誤 的 觀 點 。知 識 就 是 意 義 。它 根 本 不 需 要 外 在 意 圖 。」她 的 高 傲 依 舊 燃 燒 著 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>107</ID>
+			<DefaultText>[撲 滅 伊 坎 莎 的 高 傲 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>108</ID>
+			<DefaultText>你 的 精 華 試 著 接 觸 她 內 心 燃 燒 著 的 火 焰 ，但 那 火 焰 灼 傷 著 你 。你 返 回 時 ，你 的 軀 體 完 整 無 損 ，但 在 記 憶 中 ，你 仍 能 感 覺 它 的 刺 痛 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>109</ID>
+			<DefaultText>她 那 高 傲 噓 聲 著 、辟 裡 啪 啦 地 響 著 。也 就 比 灰 燼 好 那 麼 一 點 。「你 錯 了 。」但 她 的 話 語 不 再 確 定 。「我 會 永 遠 建 立 。緊 抓 它 不 放 。那 會 給 我 ...些 許 動 力 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>110</ID>
+			<DefaultText>[撲 滅 伊 坎 莎 的 高 傲 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>111</ID>
+			<DefaultText>「教 我 你 所 知 道 的 一 切 。我 會 確 保 將 其 發 揚 光 大 ，讓 你 的 遺 產 得 以 永 存 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>112</ID>
+			<DefaultText>「你 會 滿 足 於 那 一 切 嗎 ？「</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>113</ID>
+			<DefaultText>你 試 著 觸 碰 它 ，但 它 太 炎 熱 了 ，根 本 無 法 握 住 。 「雖 然 不 多 ，但 仍 算 有 所 成 就 。你 不 能 從 我 這 將 其 奪 走 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>114</ID>
+			<DefaultText>你 的 話 語 終 於 熄 滅 了 她 的 高 傲 ，剩 下 的 只 是 漆 黑 的 、如 鑽 石 般 堅 硬 的 巖 石 。你 將 它 拋 至 一 邊 ，任 憑 它 被 黑 暗 吞 噬 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>115</ID>
+			<DefaultText>帶 著 余 火 的 灰 燼 還 在 燃 燒 著 。「它 會 的 。必 須 那 樣 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>116</ID>
+			<DefaultText>「這 些 就 是 你 所 需 要 的 指 令 。」她 將 她 那 寒 冷 、干 燥 的 手 指 放 在 你 太 陽 穴 上 ，你 感 到 她 觸 碰 到 了 你 的 思 想 ，在 黑 暗 之 中 形 成 了 圖 像 。符 文 在 你 腦 海 中 閃 過 ，但 它 們 不 再 是 圖 像 而 已 。它 們 有 著 意 義 ，而 你 也 了 解 這 些 意 義 。它 們 是 指 令 。
+
+有 些 事 情 觸 碰 了 你 的 思 想 ，你 想 起 了 已 遺 忘 許 久 的 前 世 記 憶 。你 看 到 諸 多 符 文 ，比 伊 坎 莎 向 你 展 示 的 符 文 要 多 得 多 ，你 知 道 它 們 的 聲 音 、意 義 ，懂 得 該 如 何 將 它 們 組 合 在 一 起 。你 再 次 掌 握 了 因 格 維 斯 語 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>117</ID>
+			<DefaultText>她 離 開 了 你 。「有 些 事 情 已 在 你 的 思 想 中 覺 醒 。你 所 了 解 的 要 比 我 多 得 多 。「帶 走 這 知 識 ，按 自 己 意 願 去 處 理 泰 爾 瑙 內 斯 。現 在 你 了 解 到 了 它 的 目 的 ，它 會 按 你 的 意 願 為 你 服 務 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>118</ID>
+			<DefaultText>「他 們 無 關 緊 要 。他 們 的 存 在 毫 無 意 義 。他 們 甚 至 不 了 解 他 們 的 困 境 ，而 我 們 一 眼 就 能 看 明 。」她 的 高 傲 繼 續 燃 燒 著 。「通 過 他 們 ，我 所 取 得 的 成 就 會 超 越 我 的 同 輩 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>119</ID>
+			<DefaultText>「你 不 能 困 著 這 些 靈 魂 ！」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>120</ID>
+			<DefaultText>「誰 會 阻 止 我 呢 ？只 有 我 了 解 泰 爾 瑙 內 斯 的 控 制 指 令 。所 以 我 完 全 可 以 困 著 他 們 。」她 的 高 傲 燃 燒 著 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>121</ID>
+			<DefaultText>她 虛 偽 得 笑 了 下 。「我 仁 慈 之 下 的 幸 存 者 。」她 移 動 著 手 指 ，指 著 胸 口 參 差 不 齊 的 孔 。「在 那 些 魔 爪 抓 門 的 時 候 ，我 自 己 照 顧 好 的 自 己 。自 從 那 之 後 ，我 一 直 好 好 照 顧 著 自 己 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>125</ID>
+			<DefaultText>「你 知 道 這 裡 發 生 了 什 麼 嗎 ？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>126</ID>
+			<DefaultText>「靈 魂 研 究 的 壯 舉 。自 因 格 維 斯 時 代 後 ，這 地 方 就 再 也 沒 見 過 這 樣 的 壯 舉 。」她 驚 奇 得 看 著 周 圍 ，那 眼 神 黯 淡 無 神 、毫 無 生 氣 。 「有 人 找 到 了 強 大 的 遠 古 設 備 。我 敢 肯 定 ，絕 不 是 奧 爾 德 海 姆 或 他 的 可 愛 助 手 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>130</ID>
+			<DefaultText>「我 想 再 多 問 下 有 關 泰 爾 瑙 內 斯 的 問 題 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>132</ID>
+			<DefaultText>「當 然 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>133</ID>
+			<DefaultText>「你 說 在 迪 伍 德 的 其 他 高 塔 是 用 來 運 輸 靈 魂 的 。因 格 維 斯 人 為 什 麼 想 運 輸 靈 魂 ？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>134</ID>
+			<DefaultText>「又 一 個 不 解 之 謎 。想 運 到 哪 裡 ，就 運 到 哪 裡 。不 過 ，其 中 真 正 的 疑 問 是 為 什 麼 。同 賭 徒 洗 牌 ，農 民 輪 作 般 將 他 們 混 合 起 來 ？還 是 像 收 集 蝴 蝶 標 本 一 樣 將 他 們 收 集 起 來 ？或 許 是 為 了 原 始 精 華 將 他 們 都 融 化 掉 ？「不 幸 的 是 ，我 也 不 知 道 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>135</ID>
+			<DefaultText>「你 究 竟 對 這 高 塔 了 解 多 少 ？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>136</ID>
+			<DefaultText>「解 釋 下 控 制 指 令 是 怎 麼 運 作 的 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>137</ID>
+			<DefaultText>「我 同 讀 日 志 般 閱 讀 符 文 。我 了 解 它 們 的 意 義 。奧 爾 德 海 姆 這 類 人 將 它 們 當 做 指 示 ，因 此 完 全 忽 視 了 其 中 的 真 正 含 義 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>138</ID>
+			<DefaultText>「就 這 樣 。謝 謝 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>139</ID>
+			<DefaultText>「掌 控 泰 爾 瑙 內 斯 的 關 鍵 在 於 了 解 它 的 作 用 。你 懂 得 那 些 指 令 以 及 它 們 的 含 義 。你 說 出 那 些 指 令 後 ，高 塔 自 然 會 聽 從 你 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>140</ID>
+			<DefaultText>「現 在 我 知 道 了 這 些 指 令 ，我 該 怎 麼 處 理 ？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>141</ID>
+			<DefaultText>「關 閉 它 。現 在 你 能 讀 懂 符 文 了 ，應 該 能 輕 易 關 閉 掉 那 機 器 。軀 殼 仍 會 游 蕩 ，但 將 他 們 殺 死 後 ，他 們 的 精 華 會 繼 續 輪 回 。「不 過 要 小 心 。那 機 器 控 制 著 許 許 多 多 的 靈 魂 ，精 華 容 量 如 此 之 大 ，可 能 會 輕 易 造 成 過 載 。運 輸 精 華 時 ，稍 有 不 慎 ，就 會 導 致 機 器 連 同 那 些 靈 魂 一 並 被 摧 毀 。這 對 後 代 來 說 ，算 是 巨 大 損 失 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>151</ID>
+			<DefaultText>Bank Node 151</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>152</ID>
+			<DefaultText>「我 們 應 該 想 著 先 殺 掉 她 ，然 後 讓 你 跟 她 那 屍 體 談 談 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>153</ID>
+			<DefaultText>「不 尋 常 的 生 物 。我 們 應 該 糾 正 它 ，將 它 遣 送 回 它 原 本 的 污 穢 地 方 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>155</ID>
+			<DefaultText>亞 洛 斯 機 警 地 看 著 那 近 亡 者 。「你 不 會 打 算 過 去 問 她 要 不 要 加 入 我 們 吧 ，我 是 真 心 不 希 望 那 樣 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>156</ID>
+			<DefaultText>「我 可 不 會 太 靠 近 她 ，[Player Name]...看 -她 甚 至 不 是 活 人 ，她 這 類 生 物 一 直 渴 望 著 生 命 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>157</ID>
+			<DefaultText>帕 勒 吉 娜 睜 大 了 眼 睛 ，她 伸 出 帶 有 羽 毛 的 臂 膀 ，不 讓 你 繼 續 靠 近 。「[Player Name], 小 心 點 。她 看 起 來 ...不 太 正 常 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>158</ID>
+			<DefaultText>「這 充 滿 著 渴 望 和 暴 力 。但 是 ...有 著 更 深 切 的 渴 望 ，無 法 用 鮮 血 滿 足 的 渴 望 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>159</ID>
+			<DefaultText>「小 心 點 ，[Player Name]。這 渴 望 著 鮮 血 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>160</ID>
+			<DefaultText>「如 果 你 了 解 情 況 的 話 ，你 就 會 遠 離 那 寄 生 蟲 ...」他 搖 了 搖 頭 ，聳 了 下 肩 。「我 又 想 了 下 ，我 曾 跟 樹 對 話 ，還 企 圖 勾 引 母 蠍 虎 獅 ...我 又 有 什 麼 資 格 來 評 論 別 人 呢 ？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>166</ID>
+			<DefaultText>Bank Node 166</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>168</ID>
+			<DefaultText>希 拉 維 亞 斯 轉 向 你 ，「她 的 意 思 是 」，他 細 聲 說 道 ，「我 們 可 以 選 擇 那 一 歷 史 悠 久 的 可 靠 策 略 ---直 接 無 視 ，摧 毀 這 裝 置 ，阻 止 靈 魂 被 束 縛 。」他 皺 著 眉 。「不 過 ...不 得 不 犧 牲 困 在 機 器 裡 的 靈 魂 ，這 挺 不 幸 的 --他 們 理 應 有 更 好 的 命 運 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>171</ID>
+			<DefaultText>Bank Node 171</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>172</ID>
+			<DefaultText>「他 們 現 在 的 困 境 毫 無 意 義 可 言 。也 許 連 瓦 爾 也 不 知 道 他 們 會 發 生 什 麼 ，但 不 讓 他 們 解 脫 ，這 就 屬 於 大 錯 特 錯 了 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>174</ID>
+			<DefaultText>「跟 我 說 說 這 奧 爾 德 海 姆 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>175</ID>
+			<DefaultText>「我 明 白 了 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>176</ID>
+			<DefaultText>她 傻 笑 著 。「我 很 是 懷 疑 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>177</ID>
+			<DefaultText>「他 的 名 字 完 全 不 值 得 提 。他 是 愛 吹 牛 皮 的 家 伙 ，喜 歡 挖 掘 文 物 ，稱 自 己 為 學 者 。當 下 靈 魂 研 究 的 可 悲 之 處 在 於 是 個 人 都 可 以 自 稱 為 專 家 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>178</ID>
+			<DefaultText>「我 仍 然 不 理 解 這 區 域 為 什 麼 有 那 麼 多 喪 屍 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>179</ID>
+			<DefaultText>她 不 再 看 著 那 火 堆 ，轉 身 看 著 你 。「因 為 有 人 發 現 了 連 接 靈 魂 和 軀 體 的 方 法 ，還 不 明 白 嗎 ？」她 不 耐 煩 得 用 手 指 拍 了 拍 頭 骨 。「當 心 髒 停 止 跳 動 ，血 液 停 止 流 動 ，他 們 的 軀 體 仍 有 生 氣 。並 有 著 新 的 渴 望 。」她 轉 頭 看 著 那 火 堆 。「那 些 能 取 得 血 肉 和 精 華 來 滿 足 渴 望 的 家 伙 ，會 保 持 強 壯 、敏 銳 。那 些 滿 足 不 了 內 心 渴 望 的 家 伙 則 會 惡 化 。迅 速 惡 化 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>180</ID>
+			<DefaultText>「我 在 後 屋 遇 到 了 一 群 人 ...」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>181</ID>
+			<DefaultText>她 咯 咯 聲 叫 著 。「希 望 你 沒 攪 擾 到 他 們 。將 他 們 趕 在 一 起 ，可 是 件 麻 煩 事 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>182</ID>
+			<DefaultText>[攻 擊 ]「你 幫 了 我 很 多 。不 幸 的 是 ，我 不 能 讓 你 存 活 ...」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>183</ID>
+			<DefaultText>「再 跟 我 說 說 你 的 處 境 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>184</ID>
+			<DefaultText>「你 想 知 道 些 什 麼 ？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>185</ID>
+			<DefaultText>「就 傳 承 山 所 發 生 的 事 ，我 想 聽 聽 你 的 理 論 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>186</ID>
+			<DefaultText>「解 釋 下 你 是 如 何 繼 續 存 活 下 來 的 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>187</ID>
+			<DefaultText>「你 現 在 要 做 什 麼 ？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>188</ID>
+			<DefaultText>「有 人 激 活 了 高 塔 上 的 機 器 。基 於 我 所 了 解 的 事 實 ，那 人 可 能 同 我 一 樣 ，都 了 解 因 格 維 斯 語 。「這 裡 一 旦 有 人 開 始 死 亡 ，陷 入 混 亂 不 過 是 時 間 問 題 而 已 。就 我 個 人 而 言 ，我 因 沒 有 見 到 那 神 秘 的 煽 動 者 而 感 到 有 所 失 望 。試 想 下 他 (她 )所 了 解 的 學 識 啊 ...」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>189</ID>
+			<DefaultText>「沒 必 要 那 麼 厭 惡 。這 有 關 軀 體 和 精 華 。在 機 器 激 活 後 ，我 們 中 諸 多 在 此 區 域 的 死 者 都 發 現 自 己 在 不 斷 腐 爛 。唯 一 延 緩 的 辦 法 就 是 經 常 食 用 活 肉 和 精 華 。」
+
+她 聳 了 聳 肩 。「有 點 惡 心 ，但 我 已 經 習 慣 了 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>190</ID>
+			<DefaultText>「我 會 繼 續 呆 著 這 裡 ,繼 續 我 的 研 究 。憑 我 現 在 的 狀 態 ，我 可 以 任 意 觀 察 其 他 軀 殼 。這 是 鮮 有 的 研 究 機 會 。「最 終 ，我 會 找 到 出 去 的 辦 法 。這 區 域 不 可 能 一 直 封 鎖 著 ，我 可 以 融 入 他 們 ，就 跟 我 現 在 一 樣 。只 要 有 食 物 ，我 就 可 以 繼 續 我 的 研 究 ，繼 續 享 受 數 十 年 的 辛 勤 日 子 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>191</ID>
+			<DefaultText>在 戰 斗 後 ，她 不 過 多 了 幾 處 抓 傷 而 已 。「希 望 你 已 經 發 洩 完 畢 了 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>192</ID>
+			<DefaultText>亞 洛 斯 斜 著 眼 、會 心 得 看 了 你 下 。「看 來 ，你 那 貪 婪 朋 友 給 了 我 們 結 束 這 悲 慘 事 件 的 鑰 匙 。「現 在 我 們 了 解 到 了 這 機 器 的 作 用 ，我 希 望 你 不 會 因 為 損 失 了 數 百 計 的 靈 魂 而 感 到 有 所 受 不 了 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>193</ID>
+			<DefaultText>「我 也 不 知 道 ，摧 毀 它 似 乎 有 利 於 這 地 方 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>194</ID>
+			<DefaultText>「這 地 方 有 著 殘 忍 境 遇 ...但 比 起 這 事 ，湮 滅 那 些 靈 魂 顯 得 更 為 殘 忍 。我 們 必 須 解 放 這 區 域 ...同 時 解 放 那 些 受 困 的 靈 魂 。在 這 之 後 ，一 定 有 新 生 的 希 望 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>195</ID>
+			<DefaultText>「要 是 我 們 能 將 靈 魂 學 者 聚 在 一 起 就 好 了 ，那 麼 我 們 就 能 順 道 摧 毀 他 們 的 靈 魂 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>196</ID>
+			<DefaultText>「我 們 應 該 摧 毀 那 機 器 。無 論 他 們 的 靈 魂 屬 於 命 運 之 輪 還 是 湮 滅 。他 們 的 生 命 已 經 結 束 了 。他 們 已 經 死 了 。剩 余 的 根 本 不 重 要 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>197</ID>
+			<DefaultText>伊 坎 莎 皺 著 眉 ，抓 了 抓 新 的 傷 疤 。「你 想 取 得 什 麼 成 就 ？你 我 都 知 道 ，只 要 機 器 開 著 ，我 就 會 返 回 這 軀 體 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>198</ID>
+			<DefaultText>「因 格 維 斯 人 為 什 麼 想 這 麼 困 著 靈 魂 ？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>199</ID>
+			<DefaultText>「也 許 他 們 並 不 想 那 樣 。所 以 他 們 只 建 了 這 麼 一 座 機 器 。「我 們 現 在 知 道 因 格 維 斯 人 是 操 控 靈 魂 的 大 師 ，但 只 有 經 過 反 復 實 驗 ，才 能 有 所 精 通 。也 許 這 就 是 其 中 的 一 項 實 驗 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>200</ID>
+			<DefaultText>「我 會 摧 毀 它 們 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>201</ID>
+			<DefaultText>「始 料 未 及 的 結 局 ，但 為 了 什 麼 目 的 ？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>202</ID>
+			<DefaultText>「我 仍 然 不 知 道 因 格 維 斯 人 為 何 建 造 機 器 來 束 縛 靈 魂 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>203</ID>
+			<DefaultText>「也 許 他 們 並 不 想 那 樣 。所 以 他 們 只 建 了 這 麼 一 座 機 器 。「我 們 現 在 知 道 因 格 維 斯 人 是 操 控 靈 魂 的 大 師 ，但 只 有 經 過 反 復 實 驗 ，才 能 有 所 精 通 。也 許 這 就 是 其 中 的 一 項 實 驗 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>204</ID>
+			<DefaultText>「關 於 關 在 後 屋 裡 的 那 些 人 ...」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>205</ID>
+			<DefaultText>「鑒 於 我 現 在 的 情 況 ，他 們 可 是 我 的 必 需 品 。雖 然 我 對 此 也 有 所 討 厭 。留 他 們 在 那 裡 吧 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>206</ID>
+			<DefaultText>「我 在 景 象 中 看 到 過 你 。你 需 要 幫 我 做 些 事 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>207</ID>
+			<DefaultText>她 再 次 笑 了 下 。「我 之 前 也 聽 過 那 話 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>208</ID>
+			<DefaultText>她 再 次 笑 了 下 。「我 之 前 也 聽 過 那 話 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>209</ID>
+			<DefaultText>「他 現 在 會 說 無 人 知 曉 的 語 言 。短 短 時 間 內 ，他 就 超 過 了 數 百 個 努 力 多 年 的 學 者 。你 能 幫 我 找 些 書 嗎 ...？」</DefaultText>
+			<FemaleText>「他 現 在 會 說 無 人 知 曉 的 語 言 。短 短 時 間 內 ，他 就 超 過 了 數 百 個 努 力 多 年 的 學 者 。你 能 幫 我 找 些 書 嗎 ...？」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>210</ID>
+			<DefaultText>「什 麼 ？如 果 你 只 是 打 算 囤 積 起 來 ，觀 察 這 一 切 又 有 什 麼 意 義 呢 ？[Player Name]，快 告 訴 她 ！整 個 語 言 就 在 你 面 前 ，觸 手 可 及 ，而 她 卻 選 擇 將 它 藏 起 來 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>211</ID>
+			<DefaultText>她 的 聲 鎮 定 而 又 平 靜 。「那 就 這 樣 吧 。我 的 研 究 和 努 力 將 與 你 同 在 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>212</ID>
+			<DefaultText>Trigger Conv Node 212</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

@@ -1,0 +1,238 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Name>conversations\14_burial_isle\14_si_burial_isle_passage</Name>
+<NextEntryID>1</NextEntryID>
+<EntryCount>46</EntryCount>
+<Entries>
+<Entry>
+<ID>1</ID>
+<DefaultText>Y你冒險前往一個地下隧道。一段階梯盤旋而上，引你走向一段昏暗的走廊。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>2</ID>
+<DefaultText>[用一根撬棍清理碎石。]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>3</ID>
+<DefaultText>[把碎石拉松。]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>4</ID>
+<DefaultText>[離開]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>5</ID>
+<DefaultText>Y你把你的撬棍伸進一塊巨石中，將你所有的力量用上去。你的力量移動了巨石，它發著沉重的聲音滾動著。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>6</ID>
+<DefaultText>T這些岩石很重，而且緊緊嵌在了一起。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>7</ID>
+<DefaultText>O殘骸的其他部分開始支離破碎。這塊巨大的建築群開始發出各種聲音，隨時可能將數千磅的巨石傾倒在你身上。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>8</ID>
+<DefaultText>[派遣[Slot 0]。]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>9</ID>
+<DefaultText>[派遣[Slot 1]。]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>10</ID>
+<DefaultText>[Send[Slot 2].]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>11</ID>
+<DefaultText>[Send[Slot 3].]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>12</ID>
+<DefaultText>[Send[Slot 4].]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>13</ID>
+<DefaultText>[Send[Slot 5].]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>14</ID>
+<DefaultText>[Slot 0]抓起了一塊巨石並舉了起來。灰塵從岩石之間的裂縫中灑出來。[Slot 0]的力量撬動的巨石，巨石發出沉重的響聲滾動著。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>15</ID>
+<DefaultText>[Slot 0]用力舉用力拖都無法移動巨石。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>16</ID>
+<DefaultText>[Slot 1]抓起了一塊巨石並舉了起來。灰塵從岩石之間的裂縫中灑出來。[Slot 1]的力量撬動的巨石，巨石發出沉重的響聲滾動著。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>17</ID>
+<DefaultText>[Slot 1]用力舉用力拖都無法移動巨石。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>18</ID>
+<DefaultText>[Slot 2]抓起了一塊巨石並舉了起來。灰塵從岩石之間的裂縫中灑出來。[Slot 2]的力量撬動的巨石，巨石發出沉重的響聲滾動著。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>19</ID>
+<DefaultText>[Slot 2]用力舉用力拖都無法移動巨石。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>20</ID>
+<DefaultText>[Slot 3]抓起了一塊巨石並舉了起來。灰塵從岩石之間的裂縫中灑出來。[Slot 3]的力量撬動的巨石，巨石發出沉重的響聲滾動著。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>21</ID>
+<DefaultText>[Slot 3]用力舉用力拖都無法移動巨石。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>22</ID>
+<DefaultText>[Slot 4]抓起了一塊巨石並舉了起來。灰塵從岩石之間的裂縫中灑出來。[Slot 4]的力量撬動的巨石，巨石發出沉重的響聲滾動著。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>23</ID>
+<DefaultText>[Slot 4]用力舉用力拖都無法移動巨石。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>24</ID>
+<DefaultText>[Slot 5]抓起了一塊巨石並舉了起來。灰塵從岩石之間的裂縫中灑出來。[Slot 5]的力量撬動的巨石，巨石發出沉重的響聲滾動著。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>25</ID>
+<DefaultText>[Slot 5]用力舉用力拖都無法移動巨石。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>26</ID>
+<DefaultText>[不管這塊巨石。]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>27</ID>
+<DefaultText>Y你退後然後重新考慮你的選擇。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>28</ID>
+<DefaultText>A殘骸倒塌下來，你越過了變窄的間隙。崩落的石塊在你身後砸個粉碎，但是只有一些小沙粒擦過你的脖子。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>29</ID>
+<DefaultText>[Slot 0]走進間隙，支撐起移動的石頭。[Slot 0]支撐住落下的岩石，給隊伍留出一個可以鑽過去空隙。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>30</ID>
+<DefaultText>[Slot 1]走進間隙，支撐起移動的石頭。[Slot 1]支撐住落下的岩石，給隊伍留出一個可以鑽過去空隙。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>31</ID>
+<DefaultText>[Slot 2]走進間隙，支撐起移動的石頭。[Slot 2]支撐住落下的岩石，給隊伍留出一個可以鑽過去空隙。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>32</ID>
+<DefaultText>[Slot 3]走進間隙，支撐起移動的石頭。[Slot 3]支撐住落下的岩石，給隊伍留出一個可以鑽過去空隙。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>33</ID>
+<DefaultText>[Slot 4]走進間隙，支撐起移動的石頭。[Slot 4]支撐住落下的岩石，給隊伍留出一個可以鑽過去空隙。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>34</ID>
+<DefaultText>[Slot 5]走進間隙，支撐起移動的石頭。[Slot 5]支撐住落下的岩石，給隊伍留出一個可以鑽過去空隙。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>35</ID>
+<DefaultText>A殘骸倒塌下來，你越過了變窄的間隙。然而，[SkillCheck 0]不夠快，消失在了墜落的石頭中。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>36</ID>
+<DefaultText>[SkillCheck 0]從一片灰塵雲中出現，彎腰駝背，捂著自己的肋骨。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>37</ID>
+<DefaultText>L光從隧道上方照下來，你繼續走，光變得越來越亮。很快，這條道路到了盡頭，來到了安息島高處的懸崖上。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>38</ID>
+<DefaultText>Y你冒險進入了地下隧道。螺旋階梯通往一條通道，那條通道到處散落著碎石。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>39</ID>
+<DefaultText>[自己把石頭推動。]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>40</ID>
+<DefaultText>Y你抓起一塊巨石然後開始舉起來。灰塵從岩石之間的裂縫中灑出來。你的力量移動了巨石，它發著沉重的聲音滾動著。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>41</ID>
+<DefaultText>Y你又是推又是拉，但是還是無法移動巨石。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>42</ID>
+<DefaultText>Y你走進缺口，支撐住移動的石頭。你支撐住落下的岩石，給隊伍留出一個可以鑽過去空隙。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>43</ID>
+<DefaultText>O在更高的台階上，光線穿過坍塌的天花板照下來。一面碎石和瓦礫組成的牆阻擋住了去路。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>44</ID>
+<DefaultText>T你用你敏銳的觀察力發現，這些瓦礫看起來不穩定，非常危險。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>45</ID>
+<DefaultText>[檢查這堆瓦礫。]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>46</ID>
+<DefaultText>T你用你敏銳的觀察力發現，這一塊看起來不穩定，非常危險。這些岩石似乎因為偶然的機會嵌在了一起。移動一個可能導致其他的崩潰。</DefaultText>
+<FemaleText/>
+</Entry>
+</Entries>
+</StringTableFile>
+

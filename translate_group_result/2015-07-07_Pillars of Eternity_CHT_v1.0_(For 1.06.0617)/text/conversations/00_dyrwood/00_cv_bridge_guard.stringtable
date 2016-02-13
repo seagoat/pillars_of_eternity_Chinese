@@ -1,0 +1,63 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\00_dyrwood\00_cv_bridge_guard</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>10</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>守衛打量了你一眼。」我猜，你剛來迪福特吧。我想你在路上應該沒看到一名年輕的精靈貴婦吧。我現在只能困守在這個鬼地方，等我其餘的夥伴找到那個女人。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>「沒見過。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>「她是誰？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>「別擋路。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>「跟這熾熱的村子裡的其他人一樣。」他歎了歎氣。」也許你可以同旅館裡的哈羅德大人談談。他會對你的幫助表示感激，另外，村民們也會敞開心扉，跟你透露更多關於他女兒失蹤的消息。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>「艾莉絲小姐。」他咬了咬嘴唇。」她是內斯特·哈羅德大人的女兒。她失蹤了。」他歎了歎氣。」也許你可以同旅館裡的哈羅德大人談談。他會對你的幫助表示感激。另外，民眾也會敞開心扉，跟你透露更多有關他女兒的消息。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>他搖了搖頭，一本正經得笑著。」登格勒，你跟那旅館老闆一樣有用。」你肯定能融入這迷人的糟糕地方。讓野獸來終結你這憂鬱生命吧。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>「如果你找到艾莉絲小姐的話，請盡快護送她到德拉科根旅館。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+      <DefaultText>守衛看到你後放心地鬆了口氣。「真是奇遇。身陷絕境卻遇到了反抗灣的英雄。看來貝拉瑟之輪今天大施恩典啊。」
+
+他表情嚴肅起來。「或許你能幫忙。你來的路上應該沒遇到一個年輕的女精靈。除非我們能找到她，不然我和同伴們都要陷入悲慘的境地。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+			<ID>10</ID>
+			<DefaultText>守衛打量著你。」真巧啊。被困在這裡，結果發現一名善良護旅者。貝拉斯的命運之輪在今日帶來了仁慈。
+
+他的舉止越加嚴肅。」也許你能幫忙。我猜你應該沒在路途上看到一名年輕的精靈貴婦。在我們找到她之前，我和我的其餘夥伴都被困在這討厭地方。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
+

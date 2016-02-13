@@ -1,0 +1,42 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\01_defiance_bay_copperlane\01_cv_dead_merc</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>6</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>当你靠近那具尸体，你能感受到他虚弱的灵魂在周围游荡，一种未知的恐惧占据着那地方。
+
+你离尸体更近了，毫无征兆下，那灵魂便朝你扑面而来，仿佛把你当成一道即将照亮这片阴暗潮湿之地的孤光。它的精气入侵你的意识。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>前面有个人的穿着打扮和你神似，你们朝着同一方向走去。你不知道他的名字，而事实就是这样。
+
+黑夜之中，又有巨怪抓走另一个人。你转身逃跑但是发现巨魔就站在你的对面。你被它那刀子锋利般的牙齿和利爪吓坏了，脑袋突然一片空白。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>你从那具尸体的记忆之中挣脱出来。尸体躺在潮湿肮脏的地面上。他的头巾和面具不见了，并且他的衣服也被切烂。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>[离开]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>你现在换了一个躯体，走进地下墓穴深处，身体藏在布袍内，面具遮住了整个脸。你正沿着运河走过熟悉的小道，前往那间矗立在人物雕像附近的房子，那具雕像穿着一件和你相似的布袍，。其他戴着头巾的人等候着你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>Trigger Conv Node 15</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

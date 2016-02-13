@@ -1,0 +1,372 @@
+﻿<StringTableFile>
+  <Name>conversations\companions\companion_cv_durance_hub_magran_v2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>66</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“噢 ，你 认 识 她 。你 肯 定 认 识 她 。”他 向 你 苦 笑 了 一 下 ，接 着 他 的 语 调 变 得 平 缓 。“她 是 个 有 很 多 头 的 婊 子 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“我 怕 你 不 喜 欢 火 焰 的 热 量 ，通 魂 者 ，但 是 如 果 你 承 受 的 住 ……我 就 把 我 所 知 道 的 告 诉 你 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“盯 着 火 看 这 么 久 ，你 会 瞎 了 的 ，通 魂 者 。”他 笑 着 。“不 光 这 事 儿 ，你 要 是 撸 管 过 多 也 会 视 力 下 降 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“我 的 天 ，你 怎 么 那 么 多 问 题 ，别 人 还 以 为 你 跟 着 个 小 孩 子 在 一 起  - 或 者 是 欲 火 中 烧 了 呢 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“对 于 一 个 马 格 兰 的 崇 拜 者 来 说 ，你 看 起 来 对 她 不 是 太 尊 重 啊 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“你 对 马 格 兰 怎 么 看 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“她 有 盟 友 吗 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>“她 的 敌 人 是 谁 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>“不 说 马 格 兰 了 。我 有 其 他 问 题 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>“就 聊 到 这 儿 吧 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Trigger Conv Node 12</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>“她 是 个 女 神 ，和 所 有 女 人 一 样 善 变 ……无 论 是 皇 后 或 是 妓 女 所 具 有 的 所 有 缺 点 。”他 皱 着 眉 头 ，挠 着 脸 说 。“很 显 然 ，她 都 有 。
+
+“太 多 双 眼 睛 ，太 多 的 欲 望 ，太 多 要 坚 持 的 东 西 ……这 就 是 一 个 神 祗 的 缺 点 ——就 跟 大 多 数 女 人 一 样 ，语 言 已 经 无 法 形 容 她 了 。”他 轻 蔑 的 哼 了 一 声 。“一 个 神 要 罩 着 这 么 多 的 国 家 ，结 果 一 个 都 没 罩 好 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>“……虽 然 火 焰 极 少 情 况 下 会 交 叉 两 次 。所 以 有 可 能 这 是 她 所 认 同 的 唯 一 的 真 理 。谁 知 道 呢 ？神 都 是 贪 婪 的 。说 到 火 焰 的 话 ，火 焰 就 是 神 祗 饥 饿 的 体 现 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>“她 的 教 义 是 什 么 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>“我 想 问 你 其 他 有 关 马 格 兰 的 问 题 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>杜 兰 斯 开 始 数 手 指 ，唱 了 起 来 。“战 争 可 转 变 ，火 焰 会 吞 噬 ，审 判 将 净 化 ……
+“战 争 ，火 焰 ，吞 噬 ，净 化 ，最 重 要 的 ，转 变 。审 判 同 理 ，但 是 所 有 的 东 西 都 需 要 经 过 考 验  - 审 判 将 吞 噬 ，将 净 化 ，将 转 变 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>“它 们 都 是 互 相 联 系 的 ，虽 然 中 心 是 火 焰 ，并 且 火 焰 才 是 关 键 ，是 ……‘万 物 之 源 ’。估 计 什 么 东 西 都 是 从 火 里 生 出 来 的 ，哈 ？任 何 一 个 在 篝 火 旁 的 傻 子 都 知 道 这 个 真 理 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>“没 有 了 火 焰 ，火 ，我 们 就 无 法 在 黑 暗 中 前 行 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>“有 些 东 西 ，做 出 来 仅 仅 是 为 了 猎 杀 及 战 争 。”他 停 顿 了 一 下 ，手 指 挠 了 一 下 下 巴 上 的 痘 印 。
+
+“阿 毕 顿 的 魔 像 。格 拉 文 和 他 的 野 兽 。后 者 使 我 们 诚 实 并 保 持 清 醒 ……”杜 兰 斯 的 另 一 只 手 重 新 握 紧 他 的 法 杖 。“……阿 毕 顿 做 出 的 那 些 东 西 就 是 为 了 惩 罚 那 些 不 诚 实 ，不 清 醒 的 人 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>“阿 毕 顿 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>“我 很 熟 悉 阿 毕 顿 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>杜 兰 斯 哼 了 一 下 。“你 不 熟 悉 我 也 不 觉 得 奇 怪 。神 的 数 量 比 地 里 的 庄 稼 还 多 ，而 且 还 只 是 这 辈 子 你 能 见 到 的 。他 们 来 来 去 去 的 ，但 又 总 是 在 同 一 时 刻 出 现 在 这 里 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>“阿 毕 顿 ……曾 经 像 个 人 类 。”杜 兰 斯 笑 着 。“被 宰 了 之 后 就 给 自 己 造 了 个 新 的 身 体 。在 马 格 兰 的 帮 助 下 ，‘转 变 ’了 。
+
+“也 许 ，她 还 是 需 要 她 自 己 的 铁 匠 看 着 炉 火 吧 。如 果 真 是 那 样 ，阿 毕 顿 就 有 用 了 。”杜 兰 斯 皱 着 眉 头 。“在 我 看 来 ，他 是 一 个 武 器 ，一 个 工 具 ，而 不 是 个 神 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>“你 没 听 说 过 我 也 不 奇 怪 。神 的 数 量 比 地 里 的 庄 稼 还 多 ，而 且 还 只 是 这 辈 子 你 能 见 到 的 。他 们 来 来 去 去 的 ，但 又 总 是 在 同 一 时 刻 出 现 在 这 里 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>“迪 伍 德 的 人 们 ，尤 其 是 城 市 里 的 人 ，仍 然 很 爱 戴 他 ，随 便 吧 。虽 然 如 果 对 兢 兢 业 业 和 手 艺 高 强 的 人 的 奖 赏 就 是 像 他 一 样 的 好 身 板 儿 ，我 还 是 会 用 鲜 血 ，大 屌 和 屁 股 狠 狠 地 操 他 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>“你 还 提 到 了 格 拉 文 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>“怪 物 之 父 ，伟 大 的 猎 犬 ，说 到 怪 物 ，这 世 界 上 可 有 不 少 呢 ，我 说 的 可 不 仅 仅 是 两 条 腿 的 怪 物 。
+
+“就 好 像 是 他 做 怪 物 的 目 的 仅 仅 是 为 了 猎 杀 人 类 似 的 ，随 时 提 醒 着 他 们 要 摆 正 自 己 的 位 置 。我 怀 疑 他 正 忙 着 做 更 多 的 怪 物 呢 。理 智 虽 然 不 够 ，怪 物 倒 是 做 了 不 少 ，还 不 停 的 变 异 来 变 异 去 的 。哼 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>“你 是 什 么 意 思 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>“他 的 教 义 ……乱 七 八 糟 一 大 堆 ，而 且 考 虑 到 他 尊 重 命 运 的 逆 转 ，尤 其 是 野 兽 们 的 命 运 ？可 能 也 不 算 是 乱 七 八 糟 了 。
+
+“在 我 看 来 ，马 格 兰 和 他 同 床 共 枕 完 全 说 不 通 啊 。就 算 是 他 确 实 相 信 审 判 。一 个 猥 琐 的 羽 精 神 ，一 会 儿 狼 嚎 ，一 会 儿 又 猫 叫 的 ，搞 得 自 己 就 像 个 野 兽 。他 们 就 养 着 自 己 的 野 兽 吧 ，我 的 火 焰 和 武 器 时 刻 准 备 着 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>“不 是 所 有 的 羽 精 都 崇 拜 他 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>“你 再 提 到 羽 精 的 时 候 注 意 自 己 的 言 辞 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>杜 兰 斯 瞥 了 你 一 眼 ，哼 了 一 声 。“喔 ……羽 精 生 气 了 ，好 怕 怕 。
+
+“你 是 赶 上 好 时 候 了 ，要 是 在 奴 隶 制 鼎 盛 之 时 ，你 们 也 不 过 是 个 满 脚 都 是 屎 的 贵 族 的 脚 垫 或 者 卧 垫 罢 了 。”杜 兰 斯 冷 笑 了 一 下 。 “那 些 日 子 可 能 还 会 回 来 的 ——毕 竟 ，这 是 你 们 应 得 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>“应 得 的 ？你 这 话 什 么 意 思 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>“听 起 来 好 像 某 些 人 也 想 要 享 受 同 样 的 待 遇 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>“跟 人 类 一 样 ，说 大 话 ，不 讲 理 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>杜 兰 斯 惊 讶 地 看 着 你 。“你 们 太 弱 了 ，连 自 己 都 保 护 不 了 。你 刚 接 受 了 考 验 ，但 是 还 没 完 ，你 还 不 够 强 大 。羽 精 ，战 争 可 不 等 人 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>杜 兰 斯 改 变 了 一 下 重 心 ，眼 睛 微 微 眯 起 。“你 可 以 试 试 ，然 后 我 会 像 那 些 贵 族 一 样 在 你 身 上 擦 鞋 底 。要 怪 就 怪 你 们 自 己 ……你 们 太 弱 了 ，连 自 己 都 保 护 不 了 。
+
+“你 刚 接 受 了 考 验 ，但 是 还 没 完 ，你 还 不 够 强 大 。羽 精 ，战 争 可 不 等 人 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>“噢 ，人 类 ，你 这 才 叫 侮 辱 人 。”杜 兰 斯 改 变 了 一 下 站 立 的 重 心 ，双 眼 闪 着 光 。“不 管 怎 么 说 ，你 们 才 是 那 些 被 我 们 沾 满 屎 的 脚 踩 着 的 人 。起 码 我 们 人 类 走 路 用 的 是 腿 ，羽 精 ……至 于 你 们 ，要 怪 就 怪 你 们 自 己 ，你 们 太 弱 了 ，连 自 己 都 保 护 不 了 。
+
+“你 刚 接 受 了 考 验 ，但 是 还 没 完 ，你 还 不 够 强 大 ”杜 兰 斯 耸 了 耸 肩 。“羽 精 ，战 争 可 不 等 人 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>他 皱 着 眉 头 ，好 像 在 思 考 。“一 个 羽 精 族 通 魂 者 ……可 能 把 你 玩 儿 够 了 ，你 才 有 点 儿 希 望 。但 是 咱 们 走 着 瞧 ，是 吧 ？起 码 我 会 ……也 不 知 道 你 的 眼 睛 是 不 是 会 太 过 于 注 意 前 方 的 路 ，你 自 己 的 失 败 怨 不 得 我 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>杜 兰 斯 笑 了 。“神 有 没 有 盟 友 这 事 儿 还 真 是 个 问 题 。”笑 容 从 他 的 脸 上 消 失 ，他 冷 笑 了 一 声 。“朋 友 肯 定 是 没 有 。
+
+“但 是 ，是 的 。”他 不 再 冷 笑 ，之 后 他 的 目 光 变 得 若 有 所 思 。“曾 经 有 敌 人 。曾 经 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>杜 兰 斯 笑 着 。“之 前 ，你 问 我 盟 友 问 题 时 候 ？好 吧 ，那 个 ……盟 友 ，敌 人 ……在 历 史 的 眼 中 ，并 没 有 太 大 的 区 别 。”笑 容 从 他 的 脸 上 消 失 ，他 冷 笑 了 一 声 。“曾 经 有 敌 人 。曾 经 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>“伊 奥 萨 斯 ”杜 兰 斯 冷 笑 着 点 点 头 。“但 是 那 个 问 题 已 经 被 我 们 解 决 了 。然 后 ……赫 丽 雅 ，还 有 她 那 个 用 羽 毛 做 的 女 皇 冠 和 鸟 群 。”他 冷 笑 着 说 。“好 像 她 号 称 站 在 她 的 小 棍 上 能 俯 瞰 世 界 呢 ……我 希 望 她 看 到 了 伊 奥 萨 斯 的 遭 遇 ，我 想 知 道 她 是 否 还 有 胆 量 在 火 焰 乱 窜 的 大 地 上 行 走 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>“她 的 神 殿 都 是 窗 户 和 喳 喳 叫 的 音 乐 。每 一 只 摔 死 的 鸟 都 是 一 个 胜 利 ，我 最 大 的 乐 趣 就 是 看 到 那 个 长 羽 毛 的 婊 子 养 的 鸟 摔 死 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>“你 对 她 可 谓 是 怒 气 满 满 啊 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>“伊 奥 萨 斯 死 后 ，她 和 她 的 牧 师 为 伊 奥 萨 斯 的 崇 拜 者 们 提 供 避 难 所 。她 是 我 下 一 个 目 标 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>“噢 ，我 说 的 这 些 是 不 是 让 你 有 更 多 问 题 了 ？”他 的 眼 睛 眯 了 一 下 ，然 后 笑 着 说 。“真 是 个 惊 喜 。
+
+“我 是 不 是 尊 重 她 ？”他 的 脸 变 红 了 ，并 收 敛 了 笑 容 。一 滴 汗 从 额 头 上 滑 下 来 。“为 什 么 ，我 尊 重 所 有 的 婊 子  - 对 婊 子 而 言 ，她 们 的 动 机 起 码 是 诚 实 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>“并 且 真 的 如 果 有 人 ，像 我 一 样 想 要 把 审 判 和 净 化 具 象 化 的 话 ，那 个 人 也 会 像 我 一 样 享 受 战 争 ……嗯 ，如 果 我 连 挑 战 女 神 的 原 则 和 她 的 火 焰 的 胆 量 都 没 有 的 话 ……”他 笑 着 说 。“我 会 抱 着 自 己 的 伪 善 流 血 致 死 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>“这 么 说 你 和 马 格 兰 有 过 节 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>“男 人 打 仗 。女 人 打 仗 。”他 咯 咯 地 笑 着 说 。“有 时 候 ，甚 至 是 同 性 之 间 开 战 。如 果 谁 不 打 仗 ，不 挣 扎 ，不 惩 罚 ，那 他 有 什 么 用 呢 ？”他 的 法 杖 轻 敲 着 地 面 。“这 条 棍 子 现 在 既 没 杀 人 也 没 伤 人 ，够 没 劲 的 了 。”
+
+杜 兰 斯 诡 异 的 微 笑 着 。“但 是 现 在 ……跟 一 个 女 神 打 仗 ，只 有 走 投 无 路 的 人 才 会 意 识 到 ，这 是 真 正 的 战 争 。但 是 只 有 做 到 这 些 ，才 会 让 一 个 人 从 众 多 信 徒 中 脱 颖 而 出 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>“但 是 如 果 你 站 在 她 的 对 立 面 ，你 如 何 从 她 那 里 得 到 力 量 呢 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>杜 兰 斯 耸 耸 肩 ，但 是 他 露 出 了 一 个 残 忍 的 冷 笑 。“伊 奥 萨 斯 被 烧 死 了 ，但 是 他 的 信 徒 们 仍 然 能 从 他 闷 烧 的 鸡 巴 中 获 得 力 量 ……没 人 在 乎 他 们 扭 曲 的 谎 言 和 渎 神 行 径 。”
+
+他 皱 了 皱 眉 。“如 果 我 冒 犯 了 我 的 女 神 ，那 我 也 是 按 照 她 的 教 义 做 的 。而 且 可 能 只 有 跟 她 对 着 干 ，我 才 能 对 教 义 有 更 深 的 理 解 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>“杜 兰 斯 在 途 中 多 次 这 么 做 ，这 是 逆 天 行 道 的 ，要 知 道 ，有 些 真 理 不 是 光 盯 着 火 看 就 能 领 悟 得 到 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>“只 有 在 Hearth and Bellows周 围 ，甚 至 是 Ashfall的 大 厅 中 聆 听 内 心 的 火 焰 ，你 才 会 真 切 体 会 到 是 火 焰 带 给 人 生 命 的 。而 那 火 便 是 马 格 兰 。一 些 古 老 的 文 摘 提 到 ，她 摩 擦 双 手 便 可 生 火 ……：”
+
+“……或 者 某 些 神 钻 她 取 火 来 着 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>“也 就 是 说 她 有 不 同 的 教 义 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>他 笑 了 。“我 的 教 义 是 众 多 教 义 中 的 一 个 。”杜 兰 斯 皱 着 眉 头 ，停 顿 了 一 下 ，然 后 他 的 双 眼 闪 着 欲 望 的 光 芒 。“但 你 听 听 这 个 ……”
+
+“我 可 以 告 诉 你 输 了 的 那 一 方 是 如 何 看 待 她 的 ，那 就 能 解 释 你 的 问 题 了 。我 就 代 表 鹿 丛 人 来 谈 谈 吧 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>“注 意 你 要 说 的 话 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>“那 么 鹿 丛 人 是 怎 么 看 的 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>“鹿 丛 人 对 她 有 一 种 ……很 贴 切 ，很 礼 貌 的 评 价 。‘会 打 仗 。战 术 性 自 律 。’”他 轻 蔑 的 哼 了 一 声 。
+
+“当 然 ，他 们 丫 的 殖 民 地 就 他 妈 这 么 丢 的 。在 我 们 押 解 他 们 去 码 头 的 时 候 ，他 们 的 评 价 仍 然 这 么 贴 切 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>“虽 然 他 们 有 着 不 错 的 枪 炮 ，但 是 当 你 发 光 的 法 杖 戳 进 他 们 的 头 骨 中 左 右 搅 拌 的 时 候 ，一 切 都 是 白 搭 。”杜 兰 斯 的 拳 头 紧 握 ，他 笑 着 。“鹿 丛 人 管 那 叫 ‘升 华 ’，‘神 圣 意 识 ’。”
+
+“那 些 话 语 就 像 鞋 底 上 的 屎 一 样 受 人 欢 迎 ，这 也 是 他 们 逃 跑 的 时 候 唯 一 带 着 的 东 西 ……”他 摇 摇 头 。“错 误 的 时 间 上 了 正 确 的 一 课 。我 差 点 儿 都 同 情 他 们 了 ……差 点 儿 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>“上 了 一 课 ？什 么 意 思 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>“神 的 头 衔 是 无 法 让 你 真 正 了 解 一 个 神 的 。读 万 卷 书 不 如 行 万 里 路 ，让 你 自 己 在 烈 焰 中 经 受 考 验 ……坚 持 走 下 去 ，直 到 所 有 的 词 句 都 消 退 ，之 后 你 就 会 感 受 到 ，在 你 心 中 熊 熊 的 燃 烧 的 。那 就 是 一 堂 课 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>“那 个 ……鹿 丛 人 的 ‘礼 貌 ，’也 就 是 他 们 认 为 的 对 文 献 的 高 深 理 解 ……击 沉 了 他 们 的 战 船 ，吓 倒 了 他 们 ，使 他 们 在 迪 伍 德 战 役 中 落 荒 而 逃 。”
+
+他 冷 笑 了 一 下 。“‘神 圣 意 识 。’真 正 的 信 仰 是 不 会 等 着 被 考 验 的 。战 斗 中 最 好 的 战 士 早 已 经 拉 够 裤 子 了 ，裤 子 干 了 的 时 候 就 是 他 们 专 心 杀 敌 的 时 候 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Trigger Conv Node 309</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Trigger Conv Node 309</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Trigger Conv Node 309</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Trigger Conv Node 309</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

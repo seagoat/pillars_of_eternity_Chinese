@@ -1,0 +1,58 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\08_wilderness\08_si_rhemen_broken_stairs</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>10</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>T梯 子 坍 塌 了 ，下 面 垂 着 一 块 长 长 的 地 板 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>[离 开 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>[往 下 看 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>T下 面 的 地 板 漆 黑 一 片 ，不 过 你 能 看 到 几 圈 水 涡 还 有 石 头 上 长 得 真 菌 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>[用 爪 钩 钩 住 边 缘 爬 了 下 来 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>A你 顺 着 绳 子 滑 下 来 的 时 候 ，水 的 冲 击 声 在 你 的 耳 畔 回 荡 。听 起 来 就 像 峡 谷 中 的 湖 泊 正 流 向 远 方 的 水 库 。突 然 地 动 山 摇 ，石 穴 颤 动 着 ，你 感 觉 你 马 上 就 抓 不 住 绳 子 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>Y你 把 爪 钩 缚 在 断 裂 的 梯 子 上 ，顺 着 绳 子 爬 了 下 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>H终 于 你 抓 紧 了 绳 子 ，坚 持 到 地 震 平 息 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>[SkillCheck 0]松 开 了 绳 子 ，[SkillCheck 0]坠 落 了 下 去 ，脑 袋 直 直 撞 在 了 潮 湿 的 地 板 上 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>Y你 终 于 爬 到 了 底 端 ，一 脚 踩 进 了 水 坑 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

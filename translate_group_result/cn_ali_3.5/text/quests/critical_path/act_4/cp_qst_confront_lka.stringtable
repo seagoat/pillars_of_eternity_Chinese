@@ -1,0 +1,45 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\critical_path\act_4\cp_qst_confront_lka</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>古老的记忆</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>进入暗影之阳.</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>寻找赛奥斯。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>我已经按照叶精说的做了- 我已经在神的保佑下成功进入了布雷斯伊曼深处，神派我阻止赛奥斯把戴尔森林无魂儿的灵魂送到他的女神-沃迪卡那，让那些灵魂被吸收。
+
+不管会不会发生，我们似乎还有没做完的事，我需要尽快找到他。心中的低语现在变得响亮了，再怎么休息也不会让我感到放松。我找到他时，我或许会像马尔瓦德那样一头雾水。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我从忏悔者庭院上面掉了下来，但我没死。这条路会把我带向因格维斯的监狱，以及，如果叶精姐妹说的是真的，还会把我引向&quot;暗影之阳&quot; ，赛奥斯就在那里。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>神给我的灵魂照亮了一条黑暗中的道路。赛奥斯就在前方的某个地方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我找到了梦里见到的因格维斯机械。有几千个迪伍德的灵魂都被吸引来了。赛奥斯应该就在不远处。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

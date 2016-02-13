@@ -1,0 +1,66 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\08_wilderness\08_tsk_sealed_missive</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>11</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>密封的信件</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>投遞信件。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>我在榆樹海濱偶然碰到了一位被一群蠍虎獅圍攻的武僧。臨終時，他交給我一封密封的信件，囑托我代表他將信件交給他教會的兄弟們。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>我必須將死去武僧的信件交給他教會的兄弟們。他們應該是在Celestial Sapling - 雙榆城裡的一家旅店。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>我讀了武僧的信。裡面寫著：
+
+好消息，兄弟們。通過運用一些高明的痛苦藝術，俘虜最終還是願意與我們交流了。據他說我們正在搜尋的神器目前已經被轉移到了榆樹之地- 安全地隱藏在居民點入口的一套住宅裡。洩密者還透露說很有可能就藏在地板下。我們已經為這件神聖的遺物付出了那麼多心血- 不久就是我們的勞動開花結果的時候了。Archmartyrs議會等待著你們的凱旋歸來。切勿令我們失望。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我放回了信，將封口恢復了原樣，繼續去找武僧們了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我把信件交給了武僧們，他們發現封口有拆封過的痕跡後就開始圍攻我。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>完成此任務所必需的決定性人物已經死了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我把信件交給了武僧們。我能讀到裡面的內容而用不著破壞外面的封印。武僧們一點也沒有發覺...</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText>我將武僧的死訊告訴了他的兄弟們，但並沒提到關於他給我信的事，我把信件私自留了下來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30005</ID>
+			<DefaultText>我把信件交給了武僧們。雖然我讀了那封信，但我有辦法讓武僧們相信並不是我拆的信。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
+

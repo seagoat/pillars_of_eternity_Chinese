@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\11_hearthsong\11_cv_pensi</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>年轻的精灵惊讶地眨眨眼，你将她的注意力从遥远的思绪吸引回到现实世界。“能帮你什么吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“你好吗？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“如果没有你的话，我可能还在等尼德伦的消息呢。我们终于重聚了。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“我找到了一封从尼德伦寄到彭西的信。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“那是我的！”她从你手中夺走了信，快速浏览了一遍，然后泪如泉涌。“我几乎以为他忘记我了。谢谢你传信来。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

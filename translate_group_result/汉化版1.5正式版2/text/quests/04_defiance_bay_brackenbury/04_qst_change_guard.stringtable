@@ -1,0 +1,82 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\04_defiance_bay_brackenbury\04_qst_change_guard</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>14</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>守 卫 的 变 动 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>在 第 一 次 交 火 中 暗 杀 艾 德 里 德 -温 菲 尔 德 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>回 去 找 德 梅 尼 尔 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>炼 狱 骑 士 团 的 马 歇 尔 •温 菲 尔 德 ，曾 在 迪 法 恩 基 斯 港 发 动 个 人 改 革 运 动 ，破 坏 并 摧 毁 了 德 梅 尼 尔 的 商 业 活 动 ，盖 德 马 尔 想 要 他 死 ，并 想 他 因 太 多 杀 戮 而 受 惩 罚 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>盖 德 马 尔 想 要 温 菲 尔 德 元 帅 在 最 后 一 次 反 对 房 子  德 梅 尼 尔 集 会 之 前 死 去 。加 德 尔 曼 暗 示 我 将 独 自 在 小 教 堂 找 到 最 终 目 标 。
+
+德 梅 尼 尔 大 人 想 把 暗 杀 的 责 任 推 给 卫 邦 十 二 人 团 。他 给 了 我 一 个 地 图 ，是 关 于 卫 邦 十 二 人 团 在 教 堂 里 通 往 祭 坛 的 路 线 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>温 菲 尔 德 被 除 掉 了 ，德 梅 尼 尔 大 人 听 到 我 成 功 的 消 息 ，他 也 同 样 要 我 在 教 堂 的 祭 坛 上 栽 种 大 量 的 有 纪 念 意 义 的 东 西 。
+
+换 句 话 说 ，爱 波 里 肯 告 诉 我 不 要 留 下 任 何 和 卫 邦 十 二 人 团 暗 杀 有 关 系 的 线 索 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>爱 波 里 肯 走 近 我 ，跟 我 说 不 要 责 怪 卫 邦 十 二 人 团 的 抨 击 。他 认 为 他 的 父 亲 已 经 非 常 谨 慎 ，他 想 回 到 整 个 城 市 一 听 到 德 梅 尼 尔 这 个 名 字 就 恐 惧 的 日 子 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>我 按 盖 德 马 尔 •德 梅 尼 尔 所 说 的 把 圆 环 放 到 祭 坛 上 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>加 德 尔 曼 对 我 杀 了 艾 德 里 德 却 没 惊 动 任 何 人 感 到 震 惊 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我 杀 了 艾 德 里 德 ，但 有 些 损 害 ，加 德 尔 曼 对 此 不 满 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我 提 醒 艾 德 里 德 ，加 德 尔 曼 德 梅 尼 尔 有 刺 杀 行 动 。他 奖 赏 了 我 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我 杀 了 温 菲 尔 德 ，把 证 据 指 向 卫 邦 十 二 人 团 ，此 举 将 增 加 卫 邦 十 二 人 团 与 炼 狱 骑 士 之 间 的 冲 突 ，而 这 一 切 正 是 加 德 尔 曼 德 梅 尼 尔 想 要 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText>我 杀 了 温 菲 尔 德 ，没 留 下 指 向 卫 邦 十 二 人 团 的 证 据 ，炼 狱 骑 士 有 可 能 会 怀 疑 是 家 庭 谋 杀 ，这 将 加 深 宗 族 的 罪 恶 ，而 这 正 是 Abreca想 要 的 结 果 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30005</ID>
+			<DefaultText>我 杀 了 德 梅 尼 尔 大 人 ，成 为 了 德 梅 尼 尔 家 族 残 余 势 力 的 死 敌 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

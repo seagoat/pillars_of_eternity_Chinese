@@ -1,0 +1,66 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\08_wilderness\08_tsk_sealed_missive</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>11</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>密 封 的 信 件 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>投 递 信 件 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>我 在 榆 树 海 滨 偶 然 碰 到 了 一 位 被 一 群 蝎 虎 狮 围 攻 的 武 僧 。临 终 时 ，他 交 给 我 一 封 密 封 的 信 件 ，嘱 托 我 代 表 他 将 信 件 交 给 他 教 会 的 兄 弟 们 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>我 必 须 将 死 去 武 僧 的 信 件 交 给 他 教 会 的 兄 弟 们 。他 们 应 该 是 在 Celestial Sapling - 双 榆 城 里 的 一 家 旅 店 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>我 读 了 武 僧 的 信 。里 面 写 着 ：
+
+好 消 息 ，兄 弟 们 。通 过 运 用 一 些 高 明 的 痛 苦 艺 术 ，俘 虏 最 终 还 是 愿 意 与 我 们 交 流 了 。据 他 说 我 们 正 在 搜 寻 的 神 器 目 前 已 经 被 转 移 到 了 榆 树 之 地  - 安 全 地 隐 藏 在 居 民 点 入 口 的 一 套 住 宅 里 。泄 密 者 还 透 露 说 很 有 可 能 就 藏 在 地 板 下 。我 们 已 经 为 这 件 神 圣 的 遗 物 付 出 了 那 么 多 心 血  - 不 久 就 是 我 们 的 劳 动 开 花 结 果 的 时 候 了 。Archmartyrs议 会 等 待 着 你 们 的 凯 旋 归 来 。切 勿 令 我 们 失 望 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 放 回 了 信 ，将 封 口 恢 复 了 原 样 ，继 续 去 找 武 僧 们 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我 把 信 件 交 给 了 武 僧 们 ，他 们 发 现 封 口 有 拆 封 过 的 痕 迹 后 就 开 始 围 攻 我 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>完 成 此 任 务 所 必 需 的 决 定 性 人 物 已 经 死 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我 把 信 件 交 给 了 武 僧 们 。我 能 读 到 里 面 的 内 容 而 用 不 着 破 坏 外 面 的 封 印 。武 僧 们 一 点 也 没 有 发 觉 ...</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText>我 将 武 僧 的 死 讯 告 诉 了 他 的 兄 弟 们 ，但 并 没 提 到 关 于 他 给 我 信 的 事 ，我 把 信 件 私 自 留 了 下 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30005</ID>
+			<DefaultText>我 把 信 件 交 给 了 武 僧 们 。虽 然 我 读 了 那 封 信 ，但 我 有 办 法 让 武 僧 们 相 信 并 不 是 我 拆 的 信 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
+

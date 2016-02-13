@@ -1,0 +1,223 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\07_gilded_vale\07_si_ruined_wall_up</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>43</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>这些上了年头的墙壁似乎曾经围绕着这整个沼泽地。只有一小部分还残存着，而且通向这个建筑物最高处的阶梯已经崩塌了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>更加仔细检查墙壁。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>使用抓钩。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>离开。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>厚重的砖头上面覆盖着苔藓，对于攀爬来说是个妨碍，但是石头本身足够坚固。鉴于使用了合适的工具，可以轻易到达顶端。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>你甩了几下抓钩使其获得冲力然后松开手- 抓钩轻易地定在了墙壁上半部边缘的一堆石头上。使劲拽了几下绳子表明绳子会很稳固。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>爬上顶部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>在绳子的作用下，你顺着表面爬上墙壁。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>攀登墙壁。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>你在巨大的石头上发现一个把手，然后开始向上爬去。你爬上了摇摇欲坠的废墟，并到达了顶部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>你在巨大的石头上发现一个把手，然后开始向上爬去。但是不平坦的砖块和上坡上奇怪的角度使攀爬异常艰难，没过多久你的臂膀开始如燃烧般剧烈疼痛起来。似乎有一种力量使你不能攀爬将你拽回地面。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>攀登墙壁。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>摇摇欲坠的石墙有着相当的高度，即使是现在，其不平坦的表面表明了这是异常艰难攀爬的。谁会攀爬它呢？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>自己往上爬。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>叫[Slot 0]攀爬。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>叫[Slot 1]攀爬。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>叫[Slot 2]攀爬。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>叫[Slot 3]攀爬。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>叫[Slot 4]攀爬。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>叫[Slot 5]攀爬。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>不要攀爬墙壁。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>你在巨大的石头上发现一个把手，然后开始向上爬去。砖块上面覆盖着苔藓，并以奇怪的角度坐落着，但是你还是稳步地爬上了摇摇欲坠的废墟。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>你爬上去以后，你能够帮助其他的伙伴攀上墙壁。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>[Slot 0] 在巨大的石块上发现了一个手把，然后开始攀爬。尽管有一些松动的岩石和不易攀爬的角度，[Slot 0] 获得了快速进展，并很快到达了墙壁顶端。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>[Slot 0] 在更加巨大的石块上发现了一个手把，然后开始攀爬。但是不均匀的基石使得攀爬异常艰难，爬了一小段距离后[Slot 0]不得不爬下来。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>爬上以后，[Slot 0]帮你爬上了顶部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>[Slot 1] 在巨大的石块上发现了一个手把，然后开始攀爬。尽管有一些松动的岩石和不易攀爬的角度，[Slot 1] 获得了快速进展，并很快到达了墙壁顶端。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>[Slot 1] 在更加巨大的石块上发现了一个手把，然后开始攀爬。但是不均匀的基石使得攀爬异常艰难，爬了一小段距离后[Slot 1]不得不爬下来。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>爬上以后，[Slot 1]帮你爬上了顶部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>[Slot 2] 在巨大的石块上发现了一个手把，然后开始攀爬。尽管有一些松动的岩石和不易攀爬的角度，[Slot 2] 获得了快速进展，并很快到达了墙壁顶端。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>[Slot 2] 在更加巨大的石块上发现了一个手把，然后开始攀爬。但是不均匀的基石使得攀爬异常艰难，爬了一小段距离后[Slot 2]不得不爬下来。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>[Slot 3] 在巨大的石块上发现了一个手把，然后开始攀爬。尽管有一些松动的岩石和不易攀爬的角度，[Slot 3] 获得了快速进展，并很快到达了墙壁顶端。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>[Slot 3] 在更加巨大的石块上发现了一个手把，然后开始攀爬。但是不均匀的基石使得攀爬异常艰难，爬了一小段距离后[Slot 3]不得不爬下来。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>[Slot 4] 在巨大的石块上发现了一个手把，然后开始攀爬。尽管有一些松动的岩石和不易攀爬的角度，[Slot 4] 获得了快速进展，并很快到达了墙壁顶端。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>[Slot 4] 在更加巨大的石块上发现了一个手把，然后开始攀爬。但是不均匀的基石使得攀爬异常艰难，爬了一小段距离后[Slot 4]不得不爬下来。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>[Slot 5] 在巨大的石块上发现了一个手把，然后开始攀爬。尽管有一些松动的岩石和不易攀爬的角度，[Slot 5] 获得了快速进展，并很快到达了墙壁顶端。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>[Slot 5] 在更加巨大的石块上发现了一个手把，然后开始攀爬。但是不均匀的基石使得攀爬异常艰难，爬了一小段距离后[Slot 5]不得不爬下来。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>爬上以后，[Slot 2]帮你爬上了顶部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>爬上以后，[Slot 3]帮你爬上了顶部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>爬上以后，[Slot 4]帮你爬上了顶部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>爬上以后，[Slot 5]帮你爬上了顶部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>爬上墙壁。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>你爬上了摇摇欲坠的废墟，并到达了墙壁顶部。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

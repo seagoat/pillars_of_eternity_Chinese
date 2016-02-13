@@ -1,0 +1,147 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\prot2_harond</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>27</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>血 腥 遗 产 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>搜 索 迪 福 特 ，找 到 关 于 艾 莉 丝 失 踪 的 消 息 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>回 德 拉 科 根 酒 馆 找 哈 罗 德 大 人 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>与 德 拉 科 根 酒 馆 的 哈 罗 德 大 人 对 话 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>艾 莉 丝 •哈 罗 德 小 姐 在 这 迪 福 特 安 静 的 小 镇 中 失 踪 好 几 天 了 。哈 罗 德 大 人 很 担 心 她 ，而 且 也 担 心 村 民 们 故 意 在 对 他 隐 瞒 实 情 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>哈 罗 德 大 人 好 几 天 没 有 见 过 艾 莉 丝 女 士 了 ，似 乎 迪 福 特 的 村 民 都 没 有 帮 多 大 忙 。不 过 ，我 通 过 四 处 询 问 可 以 得 到 一 些 有 用 的 消 息 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10012</ID>
+			<DefaultText>怀 蒙 德 ，一 位 灵 魂 学 者 和 斯 卡 恩 的 信 徒 ，告 诉 了 我 一 些 关 于 艾 莉 丝 的 令 人 吃 惊 的 细 节 ……她 怀 上 了 她 的 叔 叔 哈 罗 德 大 人 的 孩 子 。
+
+现 在 ，我 已 经 处 理 掉 了 怀 蒙 德 ，是 时 候 来 对 付 哈 罗 德 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10017</ID>
+			<DefaultText>在 通 往 迪 福 特 的 桥 上 的 一 名 守 卫 告 诉 我 ，哈 罗 德 大 人 的 女 儿 不 见 了 。哈 罗 德 和 他 的 其 余 家 臣 倾 尽 全 力 在 村 中 寻 找 他 ，但 无 济 于 事 。
+
+哈 罗 德 大 人 在 酒 馆 等 着 。他 会 知 道 更 多 关 于 失 踪 的 消 息 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>丹 格 勒 解 释 说 ，艾 莉 丝 和 切 基 尔 （当 地 的 制 革 匠 ）很 熟 悉 。他 的 店 就 在 一 个 破 旧 的 塔 楼 里 面 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>切 基 尔 说 ，一 个 食 人 魔 把 艾 莉 丝 带 到 了 巴 尔 河 附 近 ，位 于 迪 福 特 的 东 部 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>我 找 到 了 食 人 魔 ，但 有 在 山 洞 里 没 有 艾 莉 丝 的 踪 迹 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>食 人 魔 寇 格 拉 克 否 认 他 吃 掉 了 艾 莉 丝 。我 不 认 为 他 有 什 么 好 隐 瞒 的 ，但 也 许 切 基 尔 有 什 么 不 可 告 人 的 秘 密 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>在 探 索 巴 尔 河 东 边 的 一 个 山 洞 时 ，我 发 现 了 一 具 尸 体 ，上 面 有 一 张 纸 条 和 一 个 头 骨 钥 匙 。纸 条 上 提 到 了 某 种 秘 密 神 庙 ，其 中 一 个 入 口 在 附 近 的 小 河 处 ，另 一 个 在 商 店 后 面 的 塔 楼 里 。该 纸 条 沾 上 了 某 种 颜 料 斑 点 ，并 写 着 “T”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20005</ID>
+			<DefaultText>当 切 基 尔 意 识 到 我 知 道 的 太 多 以 后 ，他 开 始 攻 击 我 。当 然 ，我 还 是 不 知 道 他 到 底 在 隐 藏 什 么 ……</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20006</ID>
+			<DefaultText>我 发 现 迪 福 特 下 面 有 某 种 形 式 的 废 墟 。目 前 还 不 清 楚 它 是 什 么 的 遗 址 ，但 斯 卡 恩 的 符 号 都 被 涂 在 墙 壁 上 ，并 刻 在 隧 道 处 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20007</ID>
+			<DefaultText>看 来 ，忠 于 斯 卡 恩 的 灵 魂 学 者 因 为 某 种 仪 式 而 绑 架 了 艾 莉 丝 。他 一 定 在 这 座 废 墟 的 某 个 地 方 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20008</ID>
+			<DefaultText>切 基 尔 说 ，一 个 食 人 魔 把 艾 莉 丝 带 到 了 巴 尔 河 附 近 ，位 于 迪 福 特 的 东 部 。虽 然 我 很 难 相 信 她 能 躲 过 此 劫 ，但 野 外 可 能 还 有 一 些 线 索 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20009</ID>
+			<DefaultText>亨 黛 娜 提 到 艾 莉 丝 怀 孕 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20010</ID>
+			<DefaultText>怀 蒙 德 叮 嘱 我 要 表 现 的 自 然 。当 我 回 去 找 哈 罗 德 时 ，只 要 我 说 我 对 艾 莉 丝 的 情 况 一 无 所 知 ，斯 凯 奈 特 的 计 划 就 会 成 功 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20011</ID>
+			<DefaultText>亨 黛 娜 告 诉 我 ，她 看 到 艾 莉 丝 与 切 基 尔 谈 话 。他 的 商 店 就 在 她 的 马 车 附 近 的 破 塔 楼 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>哈 罗 德 大 人 对 艾 莉 丝 的 死 表 示 惊 讶 ，对 我 知 道 他 的 秘 密 表 示 更 加 的 震 惊 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>死 者 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我 送 艾 莉 丝 回 到 哈 罗 德 大 人 那 里 ，深 知 一 旦 她 头 脑 变 得 清 醒 ，她 就 会 杀 了 他 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>消 除 斯 凯 奈 特 对 艾 莉 丝 思 想 的 控 制 也 会 消 除 艾 莉 丝 对 哈 罗 德 大 人 的 记 忆 ，以 及 自 己 的 不 幸 经 历 。我 把 她 送 到 离 她 的 叔 叔 很 远 的 地 方 开 始 新 的 生 活 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText>艾 莉 丝 回 到 了 哈 罗 德 大 人 身 边 ，但 我 解 释 说 ，斯 凯 奈 特 已 经 侵 蚀 了 她 的 思 想 。 哈 罗 德 会 把 她 交 给 Brackenbury Sanitarium，我 希 望 她 在 那 里 会 过 得 更 好 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30005</ID>
+			<DefaultText>此 任 务 中 的 某 个 重 要 人 物 已 死 亡 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30006</ID>
+			<DefaultText>我 杀 了 哈 罗 德 大 人 ，把 他 的 尸 体 放 在 了 恶 臭 旅 馆 的 楼 上 。这 是 他 罪 有 应 得 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

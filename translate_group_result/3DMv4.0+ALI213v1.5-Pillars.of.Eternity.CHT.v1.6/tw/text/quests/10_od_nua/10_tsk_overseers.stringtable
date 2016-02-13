@@ -1,0 +1,63 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\10_od_nua\10_tsk_overseers</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>11</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>無 盡 之 路 的 封 印 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>找 到 方 法 打 開 被 封 死 的 門 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>打 開 門 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>調 查 這 個 神 秘 的 封 印 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>找 到 這 三 個 封 印 的 作 用 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>在 奧 德 ‧努 亞 裡 面 藏 著 散 落 的 神 秘 封 印 ，上 面 刻 有 已 經 被 遺 忘 的 符 號 和 文 字 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>在 無 盡 之 路 的 第 六 層 ，我 找 到 了 一 個 巨 大 的 密 封 的 門 ，用 蠻 力 無 法 打 開 。門 上 有 三 個 洞 ，似 乎 曾 經 裝 有 什 麼 東 西 ，因 為 周 圍 都 是 奇 怪 的 符 號 。不 管 怎 樣 ，要 想 繼 續 走 下 去 就 必 須 想 辦 法 打 開 這 扇 門 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我 找 到 了 三 個 雕 刻 的 封 印 ，分 別 對 應 著 門 上 的 三 個 凹 槽 。如 果 我 把 它 們 換 掉 ，可 能 能 夠 打 開 大 門 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>在 探 索 無 盡 之 路 的 時 候 ，我 找 到 了 一 個 沉 重 的 雕 刻 封 印 。雖 然 上 面 有 已 經 磨 損 的 用 因 格 維 斯 語 寫 的 描 述 ，但 是 還 是 不 清 楚 它 的 作 用 。也 許 我 再 多 找 找 就 能 找 到 一 些 信 息 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我 遇 到 了 三 個 封 印 ，每 一 個 封 印 上 都 有 一 個 不 同 的 寶 石 ：藍 寶 石 、橄 欖 石 和 雞 血 石 。刻 在 封 印 上 的 文 字 似 乎 是 因 格 維 斯 語 ，說 明 很 久 之 前 這 些 封 印 肯 定 是 有 某 種 用 途 的 。運 氣 好 的 話 ，它 們 可 能 不 只 是 裝 飾 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 能 打 開 被 封 印 的 門 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

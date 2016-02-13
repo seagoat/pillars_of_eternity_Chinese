@@ -1,0 +1,53 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\10_od_nua\10_tsk_cannibal_ogres</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>9</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>絕 望 之 舉 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>殺 死 食 人 魔 酋 長 左 拉 ，取 回 她 的 儀 式 項 圈 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>把 項 圈 還 給 蘇 爾 加 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>一 群 食 人 魔 被 困 在 奧 德 ‧努 亞 的 無 盡 之 路 的 某 處 ，他 們 現 在 必 須 同 類 相 殘 才 能 活 下 去 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>我 遇 到 的 一 個 食 人 魔 願 意 談 談 。蘇 爾 加 貌 似 是 唯 一 一 個 —希 望 不 是 這 樣 —還 保 持 理 智 的 食 人 魔 。其 余 的 都 已 經 屈 服 於 他 們 那 已 經 被 饑 餓 和 噩 夢 逼 瘋 ，為 了 生 存 不 惜 同 類 相 食 的 的 酋 長 左 拉 的 命 令 。蘇 爾 加 請 求 我 幫 他 一 個 忙 ：結 束 左 拉 的 生 命 ，給 這 段 可 怕 的 經 歷 畫 上 句 號 。他 讓 我 取 回 她 的 項 圈 作 為 證 明 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我 已 經 殺 死 了 食 人 魔 酋 長 左 拉 。就 剩 下 告 訴 蘇 爾 加 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 告 訴 蘇 爾 加 任 務 已 經 完 成 ，左 拉 已 經 死 了 。他 看 起 來 平 靜 了 一 些 ，雖 然 還 是 很 陰 郁 。如 果 運 氣 好 的 話 ，他 能 找 到 一 個 遠 離 這 裡 的 居 住 地 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我 覺 得 沒 有 必 要 幫 助 吃 人 的 食 人 魔 ，然 後 結 束 了 他 的 生 命 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我 告 訴 蘇 爾 加 任 務 已 經 完 成 ，左 拉 已 經 死 了 。雖 然 一 切 都 已 經 結 束 了 ，他 看 起 來 還 是 很 傷 心 ，決 定 追 隨 她 而 去 。即 使 如 此 ，他 還 是 感 謝 了 我 的 幫 忙 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

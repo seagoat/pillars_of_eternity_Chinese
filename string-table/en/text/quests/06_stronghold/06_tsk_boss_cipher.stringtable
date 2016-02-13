@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>quests\06_stronghold\06_tsk_boss_cipher</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>7</EntryCount>
@@ -21,12 +20,12 @@
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>The Glanfathan exile, Naroc, has had a bounty placed on his head by several Glanfathan Tribes. He was said to be traveling to the ruins of Cilant Lîs. </DefaultText>
+      <DefaultText>The Glanfathan exile, Naroc, has had a bounty placed on his head by several Glanfathan Tribes. He was said to be traveling to the ruins of Cilant L&#238;s. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Naroc is an exiled Glanfathan cipher, condemned for his extreme views. The Glanfathans are willing to pay a good sum if I travel to Cilant Lîs and separate his head from the rest of him.</DefaultText>
+      <DefaultText>Naroc is an exiled Glanfathan cipher, condemned for his extreme views. The Glanfathans are willing to pay a good sum if I travel to Cilant L&#238;s and separate his head from the rest of him.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

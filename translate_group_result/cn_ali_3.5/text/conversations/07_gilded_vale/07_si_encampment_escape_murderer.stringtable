@@ -1,0 +1,35 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\07_gilded_vale\07_si_encampment_escape_murderer</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>你每走一步，狂风好像都要把你卷起，你用双手抓住风化的岩石，准备开始攀登这个陡峭的悬崖。
+
+在用尽最后一丝力气之前，你把自己甩到了悬崖上的一块凸出的石头上面。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>当你在审视你的血腥的行动的时候，帐篷里突然变得异常安静。什么东西在空气中移动，你感觉你后面的头发竖了起来。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>风喧嚣了起来，怒吼着冲进了营地，如同一位愤怒的神灵把一个个帐篷连底卷起，翻涌着，滚动着。
+
+你感觉大风似乎钻入了你的皮肤激烈地喘息着，就像被巨浪冲击的防波堤已经承受不住这个重压，你感觉风似乎钻到了你身体里，要把你撕成两半。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>风现在刮的呼呼作响。你感觉它在你脚下和你的胸腔内部震动，好像你的骨头都要震碎了。
+
+每一次有狂风刮起都会让你前面的巨石变得危险，搞不好他们会失去稳定。当你快速的穿过那个古老的拱廊的时候，整个入口因为无法承受自身的重量而开始倒塌。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

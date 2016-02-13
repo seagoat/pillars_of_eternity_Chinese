@@ -1,0 +1,176 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\13_twin_elms_elms_reach\13_qst_sacrificial_bloodlines</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>31</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>祭祀的血統</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>從東南邊的爐火樂曲區一所房子中帶回一個羽精孩子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>將孩子給血色沙漠。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>可選，從榆樹之地的佈雷達那裡獲得毒藥。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>把精華藥劑給塞莫克。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>哄騙塞莫克喝下毒藥。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>將嬰兒送到血色沙漠或哄騙塞莫克喝下的毒藥。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>把精華藥劑給塞莫克或哄騙他喝下毒藥。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>三牙蠍虎獅的靈魂王子塞莫克近兩百年來一直帶領著他的部落，但他未能與適合接替他的靈魂繁衍出後代。塞莫克吐露了他的擔憂，他擔心保衛格蘭法斯邊界的部落將因沒有有野心的領袖而變弱。
+
+然而，他告訴我，他已經找到賦予他未來的孩子一個更強大的靈魂的辦法。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>靈魂王子塞莫克培養了漁鶴靈魂王的女兒。他要求我把她帶給自然哲理的守護者沃德哈以舉行一種儀式，讓他能夠吸收她的精華。
+
+這個孩子在河邊的房子裡。塞莫克已經安排讓她孤身一人了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我得到了漁鶴的孩子。塞莫克要我把她帶給血色沙漠上的守護者沃德哈。
+
+血色沙漠在榆樹之地北部邊緣，緊挨著泰爾埃弗隆。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>塞莫克的兒子里拉斯為此與我對峙。他懇求我不要去做這件事。
+
+相反，里拉斯讓我從金叢願靈之一的佈雷達金色小樹林裡獲得合適的毒藥。雖然里拉斯已經被認為是不合適的繼任者，但他並不想看到塞莫克的領導以這種方式繼續。
+
+我能在榆樹之地的東南角找到佈雷達。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>守護者沃德哈已經給我一瓶塞莫克用來提取孩子的精華的藥劑。塞莫克在勇士大廳等著這瓶藥劑。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10006</ID>
+			<DefaultText>我說服了佈雷達給我一種烈性毒藥。因為塞莫克已經迫不及待了，所以我應該能夠哄騙他喝下這個。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10008</ID>
+			<DefaultText>我帶走了維拉，並且還獲得了毒藥。接下來，塞莫克的計劃意味著要把孩子交給血色沙漠上的沃德哈。即便如此，我仍然可以毒害塞莫克。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10009</ID>
+			<DefaultText>有了精華藥劑，我可以確保塞莫克父親有能力領導三牙蠍虎獅。
+
+另外，我可以給他我從佈雷達那裡獲得的毒藥。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>塞莫克承認儀式會犧牲孩子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>里拉斯攻擊了正要離開的我與船帆。我得殺了他。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>塞莫克的兒子里拉斯為此與我對峙。相反，他讓我毒死塞莫克。我可以從金叢願靈之一的佈雷達金色小樹林裡獲得合適的毒藥。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20005</ID>
+			<DefaultText>我從爐火樂曲區宅中帶走了孩子，但我仍可以獲取能夠殺了塞莫克的毒藥。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20006</ID>
+			<DefaultText>雖然我已經有了毒藥，我還是可以帶著孩子，根據塞莫克的計劃把她帶到血色沙漠的沃德哈那裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20007</ID>
+			<DefaultText>我已經從佈雷達那裡得到了毒藥。在誘騙塞莫克喝了毒藥之後，里拉斯和維拉都死了，我可以在三牙蠍虎獅沒有明確的繼任者時離開。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20009</ID>
+			<DefaultText>在誘騙塞莫克喝了毒藥之後，里拉斯和維拉都死了，我可以在三牙蠍虎獅沒有明確的繼任者時離開。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我給了塞莫克一瓶通過他領養的羽精女兒製成的精華藥水。為此，他將能夠生下一個有能力接替他，從而確保三牙蠍虎獅強大的繼承人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我把塞莫克領養的羽精女兒給了爐火樂曲區的一對膝下無子的夫婦。她將有機會得以正常而幸福的生活。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>聽完後塞莫克打算犧牲他領養的羽精女兒後，我打算按照里拉斯的計劃毒死他。這讓三牙蠍虎獅的未來難以預測，它阻止了塞莫克執行他邪惡的計劃。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>聽完塞莫克犧牲自己收養的女兒的建議後，我在Hall of Warriors把他殺了。這個靈魂王子活的夠久了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText>此任務中的某個重要人物已死亡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30005</ID>
+			<DefaultText>在血色沙漠上獻祭出維拉之後，我決定要殺了塞莫克。老靈魂王和他領養的繼承人都死了，三牙蠍虎獅將不得不尋找新的領導人。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30006</ID>
+			<DefaultText>我毒死塞莫克的嘗試失敗了，相反我不得不在戰鬥中殺了他。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
+

@@ -1,0 +1,46 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\06_stronghold\06_tsk_boss_menpwgra</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>懸 賞 ：戴 弗 溫 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>殺 死 腐 葉 戴 弗 溫 ，把 她 的 頭 帶 回 來 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>把 戴 弗 溫 的 頭 交 給 塞 德 努 亞 的 費 爾 根 典 獄 長 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>一 個 奇 怪 而 凶 殘 的 德 魯 伊 邪 教 圍 繞 腐 葉 戴 弗 溫 而 發 展 壯 大 。這 個 組 織 將 一 個 北 部 曠 野 的 山 洞 作 為 其 大 本 營 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>一 個 德 魯 伊 邪 教 圍 繞 著 北 部 曠 野 的 一 只 腐 葉 而 形 成 。我 需 要 找 到 他 們 的 洞 穴 並 殺 死 他 們 的 領 袖 戴 弗 溫 。她 的 頭 將 作 為 她 的 死 亡 證 明 。戴 弗 溫 後 這 個 邪 教 應 該 就 會 分 崩 離 析 了 。
+
+
+戴 弗 溫 的 德 魯 伊 邪 教 位 於 北 部 曠 野 洞 穴 。我 需 要 殺 死 戴 弗 溫 ，證 明 它 死 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>戴 弗 溫 被 殺 了 ，我 需 要 帶 她 的 頭 去 找 賽 德 努 亞 旅 館 的 長 費 爾 根 典 獄 長 拿 到 我 的 賞 金 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 拿 到 了 腐 葉 戴 弗 溫 的 賞 金 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

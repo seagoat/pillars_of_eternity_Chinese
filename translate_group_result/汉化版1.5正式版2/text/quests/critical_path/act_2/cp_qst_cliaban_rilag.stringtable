@@ -1,0 +1,86 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\critical_path\act_2\cp_qst_cliaban_rilag</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>15</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>通 过 死 亡 大 门 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>前 往 迪 福 特 村 庄 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>与 迪 福 特 神 殿 中 的 贝 奥 德 玛 谈 话 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>前 往 卡 里 班 利 莱 格 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>在 卡 里 班 利 莱 格 中 找 到 暗 灰 之 钥 的 踪 迹 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>在 城 里 找 到 知 道 废 墟 的 人 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>前 往 卡 里 班 利 莱 格 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>侍 僧 让 我 看 我 迪 福 特 之 外 的 神 秘 废 墟 。暗 灰 之 钥 已 派 出 密 探 寻 找 地 点 ，尽 管 他 们 的 目 的 对 我 来 说 是 未 知 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>我 不 知 道 这 些 废 墟 在 哪 里 ，但 也 许 迪 福 特 村 有 人 知 道 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我 听 说 当 地 牧 师 贝 奥 德 玛 知 道 这 些 地 区 的 因 格 维 斯 废 墟 。他 可 以 帮 助 我 找 到 这 个 地 方 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>贝 奥 德 玛 告 诉 我 在 哪 里 可 以 找 到 卡 里 班 利 莱 格 ，但 他 警 告 我 避 开 守 卫 着 废 墟 的 格 兰 法 斯 部 落 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我 进 入 了 侍 僧 告 诉 我 的 废 墟 。我 也 许 可 以 找 到 一 些 迹 象 表 明 暗 灰 之 钥 来 这 做 什 么 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>我 终 于 到 达 了 迪 福 特 村 庄 。这 里 是 一 潭 死 水 ，但 应 该 有 人 熟 悉 废 墟 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10006</ID>
+			<DefaultText>贝 奥 德 玛 死 了 ，但 是 我 能 够 从 他 的 鬼 魂 中 知 道 卡 里 班 利 莱 格 的 位 置 。
+
+从 老 人 的 样 子 上 我 有 一 种 不 祥 的 预 感 ，但 我 不 能 确 定 他 不 安 的 原 因 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 看 见 暗 灰 之 钥 密 探 将 他 们 的 灵 魂 抛 弃 在 希 兰 特 里 斯 中 的 因 格 维 斯 机 器 。他 们 执 行 的 仪 式 和 我 之 前 在 希 兰 特 里 斯 外 目 睹 的 一 样 ，这 意 味 着 他 们 一 定 在 迪 伍 德 到 处 这 样 做 。有 一 个 密 探 的 思 想 表 明 他 们 在 确 保 该 地 区 的 婴 儿 都 变 成 无 魂 儿 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
+

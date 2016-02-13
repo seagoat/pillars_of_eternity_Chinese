@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\companions\companion_cv_rest</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>76</EntryCount>
@@ -240,7 +239,7 @@ She takes a hunk of dried meat from her pouch and bites a long strip from it. It
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>You wake to the sensation of being shaken, and you open your eyes to see Edér standing over you, his hand jostling your shoulder. He looks concerned.
+      <DefaultText>You wake to the sensation of being shaken, and you open your eyes to see Ed&#233;r standing over you, his hand jostling your shoulder. He looks concerned.
 
 Your eyes are heavy and your vision blurred, the vague unease of unremembered nightmares clouding your thoughts. You are not sure you slept at all the previous night.</DefaultText>
       <FemaleText />
@@ -295,7 +294,7 @@ A familiar voice fights its way through the din, calling out to you.</DefaultTex
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Hey! Hey!" Edér rolls his eyes, relieved to see you looking back at him.
+      <DefaultText>"Hey! Hey!" Ed&#233;r rolls his eyes, relieved to see you looking back at him.
 
 He shakes his head. "You've gotta stop it with that. I just about punched you to snap you out of it. You were saying things but they weren't any words I ever heard. And you were shaking so hard I thought you'd crack your spine."</DefaultText>
       <FemaleText />
@@ -307,7 +306,7 @@ He shakes his head. "You've gotta stop it with that. I just about punched you to
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Edér shrugs and looks away, concealing his smile poorly.</DefaultText>
+      <DefaultText>Ed&#233;r shrugs and looks away, concealing his smile poorly.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -339,7 +338,7 @@ He shakes his head. "You've gotta stop it with that. I just about punched you to
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Edér twitches his eyebrows. "It's nice to feel needed.
+      <DefaultText>Ed&#233;r twitches his eyebrows. "It's nice to feel needed.
 
 "I'd have woke you sooner but I thought it'd be nice for you to be able to close your eyes a bit. Folks don't last long without sleep."</DefaultText>
       <FemaleText />

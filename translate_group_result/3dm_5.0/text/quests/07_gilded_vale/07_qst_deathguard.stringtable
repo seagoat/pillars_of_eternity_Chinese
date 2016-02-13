@@ -1,0 +1,71 @@
+<StringTableFile>
+  <Name>quests\07_gilded_vale\07_qst_deathguard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>贝拉瑟捍卫者</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>返回雷德里克要塞找到你的挑战者</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>击败雷德里克七世</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>返回雷德里克要塞找到你的挑战者</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>在杀死了雷德里克之后，我想镀金溪谷摆脱了他的影响。不过似乎城堡中还有什么东西在悸动。可能是对王位新的觊觎者，也可能只是迷信。不管如何，都得调查一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>在双生木城的天堂苗林时，我遇到了从镀金溪谷来的前守卫。他声称雷德里克已经返回了——虽然他已经死于我手。
+
+很明显雷德里克是来向我复仇的，并发出了挑战。值得调查一下。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>似乎雷德里克的决心让他被困在人类的肉体中，在轮回中。再一次将其从中剥离不是什么易事。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>似乎有人向我挑战——雷德里克七世，我以为这个人已经被杀死了。
+
+雷德里克想让我在他的城堡中和他最终相遇——或者冒险攻击我的据点。不管他的出现时阴谋还是诡计，答案似乎都在雷德里克的要塞中。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>似乎奈德玛在政权巨变中幸存了下来。他告诉我雷德里克在高塔的顶端等着我。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>似乎奥斯莉娅在雷德里克回归带来的混乱中幸存了下来，又找到了自己合适的位置。不管怎样，她很快就告诉了我他的下落：在城堡的最高处等着我。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>任务关键人物已死亡。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我已经打败了雷德里克七世，永远地打败了。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

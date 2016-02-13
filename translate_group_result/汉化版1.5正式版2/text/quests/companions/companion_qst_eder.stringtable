@@ -1,0 +1,108 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\companions\companion_qst_eder</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>20</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>一 个 破 碎 的 信 仰 的 片 段 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>带 艾 德 去 和 马 尔 瓦 德 谈 谈 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>和 艾 德 去 看 看 档 案 记 录 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>和 艾 德 找 出 圣 战 战 场 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>在 战 场 上 寻 找 圣 战 的 痕 迹 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>把 战 争 神 器 带 给 灵 能 师 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>艾 德 同 意 和 我 一 起 。看 起 来 他 有 一 些 问 题 他 觉 得 通 魂 者 可 以 解 答 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>在 告 诉 艾 德 我 是 去 塞 德 努 瓦 见 它 的 主 人 ，一 位 叫 马 尔 瓦 德 的 老 通 魂 者 之 后 ，他 说 他 也 有 一 些 事 要 问 马 尔 瓦 德 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>艾 德 认 为 他 可 能 能 找 到 更 多 关 于 在 反 抗 湾 他 的 兄 弟 的 死 亡 的 细 节 。他 暗 示 在 公 爵 宫 殿 里 可 能 有 一 份 档 案 记 载 着 圣 战 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>艾 德 的 兄 弟 沃 登 为 里 德 赛 拉 斯 而 战 ，在 卡 里 班 利 莱 格 一 役 中 牺 牲 。他 想 看 看 战 场 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>艾 德 承 认 他 并 不 清 楚 自 己 来 这 里 到 底 要 找 什 么 。他 希 望 可 以 找 到 一 些 他 兄 弟 曾 在 此 战 斗 的 线 索 ，也 许 能 让 他 弄 清 楚 他 的 兄 弟 为 什 么 要 为 里 德 赛 拉 斯 而 战 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>我 找 到 一 个 在 圣 战 期 间 属 于 里 德 赛 拉 斯 士 兵 标 准 配 备 的 钢 饰 品 。这 东 西 本 身 没 什 么 用 ，但 是 在 灵 能 师 手 里 就 说 不 准 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>档 案 管 理 员 并 不 愿 意 让 我 们 看 有 关 圣 战 的 记 录 ，说 担 心 一 心 想 要 报 复 的 迪 伍 德 人 民 追 杀 里 德 赛 拉 斯 难 民 。他 说 随 着 我 在 城 里 的 名 气 越 来 越 大 ，情 况 会 变 得 不 同 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>顿 瑞 德 •罗 看 起 来 是 个 好 去 处 ，因 为 那 里 的 灵 能 师 专 门 研 究 这 类 事 情 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>不 再 考 虑 顿 瑞 德 •罗 之 后 ，我 可 能 需 要 向 双 榆 城 寻 求 帮 助 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>我 们 找 到 他 的 时 候 ，马 尔 瓦 德 并 不 回 答 问 题 。艾 德 要 决 定 接 下 来 怎 么 做 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>我 靠 近 档 案 管 理 员 ，但 是 刚 刚 宫 殿 外 面 的 骚 乱 让 他 警 惕 了 起 来 。我 得 等 个 更 好 的 时 机 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 们 能 确 认 艾 德 的 兄 弟 沃 登 是 为 里 德 赛 拉 斯 而 战 ，甚 至 亲 自 见 过 Waiden来 争 取 优 先 征 募 。但 是 他 这 样 做 的 真 正 原 因 没 人 知 道 。艾 德 大 概 永 远 也 无 法 知 道 是 什 么 让 他 的 兄 弟 改 变 了 效 忠 对 象 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>艾 德 死 了 ，他 的 担 心 也 不 会 再 继 续 下 去 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>看 起 来 我 们 是 找 不 到 能 够 读 懂 我 们 在 卡 里 班 利 莱 格 遗 迹 找 到 的 东 西 的 灵 能 师 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

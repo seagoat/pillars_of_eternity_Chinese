@@ -1,0 +1,61 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\03_defiance_bay_ondra_gift\03_cv_liena</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>9</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>一位年輕女性站在櫃檯後面，一雙敏銳智慧的眼睛望著你。
+
+
+
+「歡迎。這是你第一次訪問維拉貿易公司，是嗎？請告知我有什麼事情我可以協助你的。」她的語調既專業又帶著好奇。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>「你還有其他生意可以討論的？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>這是什麼地方？</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>「你是誰？」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>&quot;再見。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>「維拉貿易公司是維拉共和國的商人協會。我們為我們的商人的利益進行監督與談判。」
+
+
+
+她指了指她右邊的門。「這個是我們的倉庫，我們儲存運輸過來的貨物。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>「我是倉庫的協助管理人。目前，我幫助維爾扎諾經營一些東西，但是當他退休的時候我將會接管。或者當公司老闆回家了決定是時候另外找個管理者了。」她轉動眼珠子。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>「歡迎來到維拉貿易公司。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>「我是新一任倉庫管理員。維爾扎諾，是我的前任……」她朝著門轉動著眼珠子。「他不能再做什麼任務了。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

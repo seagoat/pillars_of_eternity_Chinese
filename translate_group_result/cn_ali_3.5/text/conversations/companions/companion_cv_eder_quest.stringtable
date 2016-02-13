@@ -1,0 +1,619 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\companions\companion_cv_eder_quest</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>104</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>&quot;那个老通魂者...&quot;他摇摇头，轻声笑了。&quot;我也不知道我想要什么，但肯定不是这个。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>&quot;你说过有事要问他。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>&quot;也许不，这- 好吧，这真有点丢脸。我想出了个笨主意。真不知道我怎么会认为那样行得通。
+
+&quot;很有意思，那很可能是我第一个寄托有希望的事...我也不清楚。几年了。至少我从中得出了想法。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>&quot;你到底是什么意思？&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>&quot;快说，我不喜欢猜谜！&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>&quot;根本不用不好意思。我不会批评你的。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>&quot;反正你会在我面前问他的，还不如现在告诉我。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>他叹了口气。&quot;好吗。这样也算公平，确实是你带我来见他的。
+
+&quot;丰饶之谷的那些传言是关于我的兄长，沃登的。是关于他背叛我们，转而效忠于维德文的事。我已经考虑很久了。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>&quot;为什么你不向我寻求帮助呢？&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>&quot;我不认为那样会有效果。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>&quot;你说对了，你可能是有点害羞。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>&quot;可能是因为我跟你不够熟识吧。信任一个自称是通魂者的人毕竟不是件容易的事。&quot;</DefaultText>
+			<FemaleText>&quot;I dunno. Guess &apos;cause I didn&apos;t know you. It&apos;s hard to trust a stranger that says she&apos;s a Watcher.&quot;</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>&quot;因为我心里很清楚。通魂者不是巫师。
+
+&quot;我想我刚有了这个主意，而且有点眉目了，我不想失去这条线索。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>&quot;如果我想找到兄弟的话，我不应该从通魂者这里入手，而是应该从纪录开始着手调查。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>&quot;我想...也许这个老通魂者知道我兄弟的死因，这样我就能明白背叛的事是不是真的了。他似乎可以- 我也不确定，读取我的灵魂或者什么的。通过我们的连接。
+
+&quot;我说过那很蠢。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>&quot;沃登总是去做他认为正确的事。所以他为了迪伍德挺身而出，与一位自称是伊欧萨斯神的人作战。换我也会那样做的。忠直是一种美德。
+
+&quot;听说他死于争夺里德赛拉斯之战后，我一直忧心仲仲。不是因为怕他站到了错误的一边，而是担心我站在了错误的一边。虽然维德文的所作所为看上去似乎不对，但如果他真的是伊欧萨斯...他摇摇头。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>&quot;你为什么不呢？&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>&quot;你花了十五年才琢磨出这个？&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>&quot;你要有心理准备，也许并没有关于你兄弟之死的纪录。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>他咧嘴一笑。&quot;还是你给我出的关于通魂者这个主意，我可从来没有想到过。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>&quot;那样做不会把事情搞得更糟，我说的对吧？&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>艾德嘬着牙思考了片刻。他扬起了眉头。&quot;如果真有什么记载文本的话，应该在反抗湾。那里的宫殿里有个档案馆。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>&quot;你已经为我做了很多，但如果你肯陪我去找档案的话，好吧...你懂的。
+
+&quot;知道我这么做的话，纪录管理员会发了疯要杀了我的。有你作伴我感觉好多了。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>&quot;就是这个地方了。我兄长最后的战场。&quot;
+
+艾德先进去，把这块草木繁茂的地方四处查看了一遍。他的嘴唇闭得更紧了。
+
+&quot;真希望我能知道我们要找的具体是什么东西。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>&quot;所有有关那场战役的东西吧，我想。没有被十五年的岁月湮灭的任何东西。&quot;
+
+他看着你。&quot;如果你看到了我哥哥的幽灵，就喊我一声，好吗？&quot;他眨了下眼。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>&quot;嘿，那边地上有象金属样的东西，就在小船旁边。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>&quot;这里没什么。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>&quot;我以为我看到了- 没有。没什么。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>&quot;这儿什么也没有。估计战后他们彻底清理了这个地方。这...真令人头疼。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>&quot;呵呵。这个太新了。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>&quot;他们的对的，这事&apos;确实&apos;容易。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>一点金属尖角从一个淤泥形成的土丘边冒出来。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>你抓住它，把它从湿土里拔了出来。
+
+这东西是钢制的，形状是半圆形，有你的拳头大小。沿着半圆有探出的火舌样的图案，就象放射着光芒升起的太阳。
+
+太阳的中心雕刻有某种沃拉思植物的轮廓。
+</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>&quot;我以前见过这些图案。这些是里德赛拉斯的顶尖工艺。可能是在维德文生前制造的。
+
+他从你手里拿过去仔细看了一遍，在手里抛了抛。&quot;唔，这个一定有用处。只是我还没发现有什么用。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>&quot;我擅长研究物品。我能弄清它是什么。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>&quot;我们应该找个专家鉴定一下它。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>&quot;顿瑞德街道办也许能弄清楚它是什么。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>&quot;灵能师也许能弄清楚它是什么。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>他耸耸肩。&quot;只是一种想法。很多人都会这么想。在大多数地方对佩戴者来说是一种荣誉的象征，但据我所知里德赛拉斯人是在抢夺它。真是个危险的族群。&quot;
+
+&quot;对它不要抱太大希望，不过，好歹我们算找到了点东西。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>他把饰品递给我。
+
+&quot;试试看你能看出点什么。&quot;
+
+&quot;别弄出问题来，否则有可能你哪天早上醒来，发现铺盖里有蛇伴你同眠，诸如此类的怪事。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>&quot;这么说它在反抗湾了，我猜。如果出去的路上找到我哥哥的尸骨，那就不用去了反抗湾了。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>&quot;当然，如果你的朋友赛奥斯还没走，而且已经杀掉了我们所知的所有灵能师的话，事情就更容易了...
+
+&quot;不过，双榆城还有些灵能师。&quot;据说灵能师就出自那里。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>你一只手拿着铁太阳，另一只手握了握艾德的手，无视他狐疑的眼神。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>忽然传来一声刺耳而诚恳的声音，你看到了一个人影，比艾德的影子亮些，虽然看上去一模一样。
+
+你看不到投下影子的人，但在你的脑海里铁太阳的点和弧线形成了一条路线，向南通往丰饶之谷，向北连接了迪伍德与里德赛拉斯之间崎岖不平的地带。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>你向这条路的起始点追溯而去，掠过你从未到过的地方，那些平原和山岭，来到了丰饶之谷一间有着茅草屋顶和肮脏地板的屋子。路线在那里模糊了，已经无法看清细节。
+
+从丰饶之谷出来有条路通向马德米尔桥，在快要到达反抗湾时突然转向，向北呈直线通往里德赛拉斯。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>路的终点就是里德赛拉斯城，它有着鹿丛帝国皇室那种庄严而简朴的风格。穿过一条条街道，可以看到有一道漫长的阶梯通向一座庄严的宫殿，宫殿里，一座座尖顶拱门后就是皇宫大殿。
+
+大殿的宝座上坐着一个人，他的头部笼罩着一团雪亮夺目的光，当他转向你的时候，光芒淹没了所有人。他的声音携带着雷霆的力量，那难以理解的神秘语言长久地回荡在大殿中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>声音和光线消失了，道路渐渐向后弯曲，带你亲王一个兵营，然后一路向南到迪伍德，沿途冲突不断。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>战场上的痕迹十分鲜明，你看到一面里德塞拉斯旗帜在一个倒下的士兵手中，顶端还镶着铁太阳。
+
+你看到一个有着艾德的黄头发，穿着里德塞拉斯盔甲的年轻人向旗帜冲去，你清晰地看到他脚下的路，当他的手抚摸着钢铁旗杆时，你可以听到他心中的千思万绪，关于他的神明，他的国家，和他希望能远离这个地方的一个弟弟。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>突然，这些思想以及这个人都消失了，旗帜被传给了另一个士兵。你重新上路，它向南蜿蜒而去，消融在卡里班利莱格的阴影之中。
+
+你睁开你的眼睛。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>“什么？你看起来真是很努力啊。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>“你哥哥没有回里德塞拉斯，而是去了反抗湾。他在那遇到了维德文。然后他参军了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>艾德的眼睛张大了。“他关于维德文都说了什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>“维德文的头脑就像一束光。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>“不知道。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>[说谎]“维德文说要对他有信心。你的哥哥同意了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>“明白了。沃登和我听过够多关于他的起义故事，知道这不仅仅是吹牛。也不是说他就是伊欧萨斯。可能是一些法师的把戏。
+
+“他们谈论的内容很重要。他们会说什么呢？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>“不。这说不通。他没有理由按维德文的话去做。
+
+“发生了什么事？他到底说了什么？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>艾德皱起眉头。“这不好笑。好吧。我哥哥触碰了那个铁太阳。你看到他之后的行为了。现在他与维德文说了什么？为什么我哥哥在为里德塞拉斯卖命？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>69</ID>
+			<DefaultText>“我真的不知道。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>70</ID>
+			<DefaultText>“我希望我有更好的事告诉你。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>“你聋了吗？我说我不知道！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>艾德的嘴巴张大，目光呆滞，两条眉毛之间拱起皱纹。他的牙齿紧紧咬住下唇。
+
+他的声音微弱得如同耳语一般。
+
+“我猜就是这样。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>“我们会找到其他方法来知道他这些行为的原因。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>“我不怎么看好。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>“我知道这是浪费时间。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>“我不认为我们会。”艾德脸上露出新表情，如同灰烬一般毫无生气而枯燥乏味。
+
+“我们要怎么做？寻找更多的战争遗迹吗？我们找到一个已经很幸运了。
+
+“与他并肩作战的士兵早已死了。这场战斗是一场大屠杀。无论伊欧萨斯知道什么，他都不会和任何人说。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>他慢慢地点头，凝视着天空。他的脸上露出新表情，如同灰烬一般毫无生气而枯燥乏味。
+
+“这很有趣。你可以告诉自己有一百种不同的方式。但最终没有什么区别。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>“我们现在可以走了。我看到了我想看的东西。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>“希望在战场上那会儿我没让你觉得我忘恩负义。你已经做了很多帮助。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>“我没有注意到。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>“你有很多心事。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>“这才像话。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>“这对你很重要。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>他沮丧地微笑。“已经很接近了。只是没有想到这个。
+
+“有一秒我以为我终于看到了一些答案。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>“当然很愚蠢。我为什么要得到答案？有那么多伊欧萨斯的信徒不知道他们的神已经被炸毁了。
+
+“不过，一个人会情不自禁回顾往事。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+			<DefaultText>艾德思考着，看向一些遥远的，看不见的和未实现的东西。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+			<DefaultText>“你哥哥会怎么说呢？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>“你做了你该做的。即使维德文就是伊欧萨斯，他的行动也是破坏性的。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+			<DefaultText>“看起来你的信仰确实误入歧途。他带来了团结，即使是在武力之下。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>“你的错误就是在等待别人来告诉你什么是对的。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+			<DefaultText>艾德眨眨眼，考虑着什么。
+
+“他要我信任他。
+
+他扬起眉毛，斜着嘴巴。“如果我知道他的想法当然会容易得多。但也许我不需要。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+			<DefaultText>“作为神而言他的行为并不算正义。所以我和沃登才认为维德文是冒牌货。
+
+“我不相信我的神会故意伤害他的子民。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>93</ID>
+			<DefaultText>“我想如果他赢了很多事情会更好。净化永远不会发生了。丰饶之谷会…变得不同。树木会更好看，我知道的。甚至我的家人也不会死去。
+
+“也许并没有遗赠。如果迪伍德人明事理就该排队投降。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>94</ID>
+			<DefaultText>想到这些，他的眼睛眯了起来。
+
+他笑着说。“我想我也不会知道别的，那不妨挑一些让我感觉良好的。
+
+“崇拜死掉的神明最好的部分是不会受到惩罚。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>95</ID>
+			<DefaultText>“我猜这是得想想。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>96</ID>
+			<DefaultText>他拍拍你的肩膀。“我想你和其他人一样了解。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>97</ID>
+			<DefaultText>“那个老通魂者…你见过他吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>98</ID>
+			<DefaultText>他失去理智了。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>99</ID>
+			<DefaultText>“所有的吗？”他带着一半希望看着你微笑。
+
+发现没有回应后，他点点头表示理解。”这就解释了他消失很久的原因。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>100</ID>
+			<DefaultText>你和艾德开始用双手在泥里挖掘，直到物体被移开。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>101</ID>
+			<DefaultText>你开始用双手在泥里挖掘，直到物体被移开。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>102</ID>
+			<DefaultText>你用手把它从湿土里拽了出来。
+
+这件物品是一个铁制半圆形的框架，有你的拳头大小。半圆中有个五角星，伸出的锯齿又像火舌又像阳光。
+
+在太阳的中心雕刻着一种沃拉思植物的轮廓。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>103</ID>
+			<DefaultText>[给哀伤之母看]“你认为你能帮助我们吗？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>104</ID>
+			<DefaultText>“你看，我很感激你的主动，但我不认为这位陌生而优雅的女士会刚好是个灵能师。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>105</ID>
+			<DefaultText>哀伤之母看着你。“我将尽我所能。但我需要通魂者的技能来帮助我自己…一旦我找到灵魂的痕迹后能够识别它。”
+
+她转向艾德，伸出手。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>106</ID>
+			<DefaultText>艾德将铁太阳递给她。他的动作机械化，没有意识。
+
+哀伤之母拿着铁太阳的一边，你拿着另一边，你可以感觉到她的存在，她的思绪让你放松。“专注，”她说道，这个词回荡着，仿佛一道无尽的鸿沟。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>107</ID>
+			<DefaultText>你闭上眼睛，集中精力。太阳在你的脑海中无比光明，因集体经历的脉搏和过去想法的嘈杂而温暖——战争、信仰、回家。
+
+你在声音与思绪间游弋，艾德的灵魂有一个充满活力的信号来定位他的兄弟。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>109</ID>
+			<DefaultText>“我们不需要等待了。我得到了我需要的。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>111</ID>
+			<DefaultText>他看着韦伯夫人。“这是我需要知道的一切。抱歉浪费了你的时间。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>112</ID>
+			<DefaultText>韦布夫人什么也没说。她轻轻点头，嘴唇撅起，但并不是愤怒。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>113</ID>
+			<DefaultText>“我…希望我可以帮上更多。我很同情你。我们知道自己需要知道的东西时总是会让人失望。
+
+“我的文件全都是过期的案子。在糟糕的日子里，我总是想着离开。把我的技能用在不那么…困惑的东西上。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>114</ID>
+			<DefaultText>“要是有些话能填补这种空虚…最好能除去他的怀疑，他的问题。
+
+“我很遗憾，我的答案只是加深了他的痛苦。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>115</ID>
+			<DefaultText>“在我的神需要我时，我却背弃了他。这就是我知道的。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>116</ID>
+			<DefaultText>“我…希望我可以帮上更多。我很同情你。我们知道自己需要知道的东西时总是会让人失望。
+
+“我的文件全都是过期的案子。在糟糕的日子里，我总是想着离开。把我的技能用在不那么…困惑的东西上。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

@@ -1,0 +1,271 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_cv_jailer</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>52</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“你 好 ，主 人 。我 是 来 替 你 留 住 牢 房 的 。如 果 你 在 旅 途 中 抓 住 囚 犯 ，我 会 确 保 他 们 按 你 的 要 求 处 置 。”</DefaultText>
+			<FemaleText>“你 好 ，夫 人 。我 是 来 替 你 留 住 牢 房 的 。如 果 你 在 旅 途 中 抓 住 囚 犯 ，我 会 确 保 他 们 按 你 的 要 求 处 置 。” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“这 里 暂 时 没 人 ，但 …我 相 信 你 很 快 会 带 人 来 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“你 对 我 有 什 么 指 示 吗 ？你 想 怎 么 处 置 这 些 囚 犯 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“让 他 们 知 道 谁 才 是 主 人 。我 要 他 们 定 期 遭 鞭 打 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“我 想 释 放 一 名 囚 犯 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>[离 开 ]“我 暂 时 没 任 何 需 要 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“哦 ？今 天 谁 是 这 个 幸 运 儿 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“释 放 艾 奥 恩 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>“释 放 尼 里 德 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>“我 想 释 放 卢 肯 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>“释 放 埃 弗 雷 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>“我 想 释 放 格 兰 菲 尔 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>“我 想 释 放 克 斯 托 里 克 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>“我 想 释 放 奈 尔 德 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>“释 放 艾 斯 玛 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>“主 人 ，你 …捕 获 的 那 头 生 物 ，克 斯 托 里 克 …她 一 直 寻 衅 滋 事 。你 想 怎 么 处 理 ？”</DefaultText>
+			<FemaleText>“夫 人 ，你 …捕 获 的 那 头 生 物 ，克 斯 托 里 克 …她 一 直 寻 衅 滋 事 。你 想 怎 么 处 理 ？”</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>“艾 奥 恩 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>“让 他 知 道 惹 怒 塞 德 努 亚 主 人 的 下 场 。”</DefaultText>
+			<FemaleText>“让 她 知 道 惹 怒 塞 德 努 亚 主 人 的 下 场 。”</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>“卢 肯 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>“埃 弗 雷 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>21</ID>
+			<DefaultText>“格 兰 菲 尔 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>“让 她 知 道 惹 怒 塞 德 努 亚 主 人 的 下 场 。”</DefaultText>
+			<FemaleText>“让 她 知 道 惹 怒 塞 德 努 亚 女 士 的 下 场 。”</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>“让 她 知 道 惹 怒 塞 德 努 亚 主 人 的 下 场 。”</DefaultText>
+			<FemaleText>“让 她 知 道 惹 怒 塞 德 努 亚 女 士 的 下 场 。”</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>“很 好 ，主 人 …呃 ，你 想 怎 么 个 惩 罚 法 ？”</DefaultText>
+			<FemaleText>“很 好 ，夫 人 …呃 ，你 想 怎 么 个 惩 罚 法 ？” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>“你 好 ，主 人 ！来 参 观 地 牢 吗 ？”</DefaultText>
+			<FemaleText>“你 好 ，夫 人 ！来 参 观 地 牢 吗 ？” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>“主 人 ，有 急 事 ！”</DefaultText>
+			<FemaleText>“夫 人 ，有 急 事 ！” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>28</ID>
+			<DefaultText>“主 人 ，尼 里 德 最 近 老 惹 事 。你 想 我 怎 么 处 理 ？”</DefaultText>
+			<FemaleText>“夫 人 ，尼 里 德 最 近 老 惹 事 。你 想 我 怎 么 处 理 ？”</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>“主 人 ，奈 尔 德 老 惹 事 。你 想 我 怎 么 处 理 ？”</DefaultText>
+			<FemaleText>“夫 人 ，奈 尔 德 老 惹 事 。你 想 我 怎 么 处 理 ？”</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>“你 自 己 看 着 办 。不 关 我 的 事 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>“囚 犯 们 很 不 安 分 ，主 人 。你 想 我 怎 么 处 理 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>“三 鞭 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>“够 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>“囚 犯 已 严 重 受 伤 。够 了 吗 ，主 人 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>“打 断 他 们 一 人 一 根 手 指 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>“砍 掉 几 根 手 指 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>“如 你 所 愿 ，主 人 ！”</DefaultText>
+			<FemaleText>“如 你 所 愿 ，夫 人 ！” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>“就 照 你 说 的 ，主 人 ！请 再 说 一 遍 ，主 人 。”</DefaultText>
+			<FemaleText>“就 照 你 说 的 ，夫 人 ！请 再 说 一 遍 ，夫 人 。” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>“我 改 主 意 了 。时 刻 留 意 就 行 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>“没 问 题 ，主 人 。”</DefaultText>
+			<FemaleText>“没 问 题 ，夫 人 。” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>“遵 命 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>“就 这 么 办 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>“好 吧 ，如 果 你 确 定 …一 直 不 喜 欢 分 尸 …”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>“马 上 ，主 人 。”</DefaultText>
+			<FemaleText>“马 上 ，夫 人 。” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>“马 上 ，主 人 。”</DefaultText>
+			<FemaleText>“马 上 ，夫 人 。” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>“马 上 ，主 人 。”</DefaultText>
+			<FemaleText>“马 上 ，夫 人 。” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>“如 果 …如 果 你 确 定 ，主 人 。”</DefaultText>
+			<FemaleText>“如 果 …如 果 你 确 定 ，夫 人 。” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>“马 上 ，主 人 。”</DefaultText>
+			<FemaleText>“马 上 ，夫 人 。” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>“马 上 ，主 人 。”</DefaultText>
+			<FemaleText>“马 上 ，夫 人 。” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>“马 上 ，主 人 。”</DefaultText>
+			<FemaleText>“马 上 ，夫 人 。” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>“马 上 ，主 人 。”</DefaultText>
+			<FemaleText>“马 上 ，夫 人 。” </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>“算 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>狱 卒 露 出 了 邪 恶 的 笑 容 。“我 喜 欢 有 人 陪 。”
+
+“还 有 其 他 事 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
+

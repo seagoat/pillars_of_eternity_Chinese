@@ -1,0 +1,107 @@
+<StringTableFile>
+  <Name>conversations\07_gilded_vale\07_cv_eothas_altar_spirit</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>附近的水晶照亮了破碎的镶嵌地板，从某种角度看上去，你脚下的金属符号变成了金色。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>这时空气开始闪烁，如同夏日的热气，尘土和空气似乎开始聚集，直到眼前出现一道瘦长与发光的迷雾。在光芒的波动中，你似乎在看到了一个人的身影，由空气和烟雾所描绘而成。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“你是谁？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[退后]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[打那个身影。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>你的声音似乎触发了什么；灵魂发出了一道闪光，接下来你就不知道怎么地移动到了其他地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>你在大厅里，牧师和信徒聚集在一起，向大厅涌，人群推着你向前，你周围的人被你的哀怨所感染，有些人甚至已经开始哭泣了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>不知是谁熄灭了所有的蜡烛，房间顿时黑了下来，只有背光而立的演讲台仍然被照着。演讲台后站着两个昏暗的身影。其中一个男人正在大喊大叫，声音充满了恐惧，十分粗哑，你完全听不懂他到底在喊些什么。但瑞克特里斯仍然十分平静地屹立着，丝毫没有动摇。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>她的力量将会带你度过这些黑暗的时光，你会感觉到希望如同你体内的光芒一样，你会听到希望之歌。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>灵魂突然在你面前撕裂了，散发出了一股令人眩晕的力量，接着你就发现你回到了之前那个残破的祭坛上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>你谨慎地往后退了一步，灵魂并没有随你动，它摇晃了一会儿就消失了，似乎从未出现过。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>你挥出拳头，却感觉什么都没打到——你的手穿过了空气，但是在你接触到灵魂的那一刹那，灵魂向你冲了过来，你感觉自己被撕裂了，眼睛如着了火一般。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>“你没看到？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>“我看到了什么东西，似乎是一个灵魂。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[撒谎。] “我什么都没看到，继续前进吧。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[队员拒绝。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[队员回应]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>灵魂突然消失了，好像从未出现过。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>“有人……看到了么？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Trigger Conv Node 25</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

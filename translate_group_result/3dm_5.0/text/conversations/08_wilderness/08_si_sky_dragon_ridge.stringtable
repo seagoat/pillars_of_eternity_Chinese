@@ -1,0 +1,236 @@
+<StringTableFile>
+  <Name>conversations\08_wilderness\08_si_sky_dragon_ridge</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>峭壁上有盘旋的台阶，你沿着台阶一步一步往上走。
+
+走了没多远，你就发现自己无法前进了，前方有一块巨石挡在路中央。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>巨石将你的路封锁了，但在峭壁的边缘，有一段很窄的空间可以让你通过，但是那块地方的阶梯已经被巨石撞掉了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[使用锤子和凿子开出一条路来。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[将巨石推开。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[试着绕过巨石。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[离开。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>你听到了石头从峭壁上滚下来的声音，上方似乎发生了什么事情，突然一道黑影闪过你的面前，紧接着又有无数阴影从上方朝着你飞来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>谁来开这条路？</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[第0槽]。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[第1槽]。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[第2槽]。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[第3槽]。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[第4槽]。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[第5槽]。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>没有人。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>你退后了一步，思考策略。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Slot 0] 推着巨石，在经过一段时间的拉力赛之后，巨石开始缓缓地滚动——最后掉了下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Slot 0] 用肩膀顶着巨石，试图推动它，但是在一段时间的角力后，巨石仍然纹丝不动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Slot 1] 推着巨石，在经过一段时间的拉力赛之后，巨石开始缓缓地滚动——最后掉了下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Slot 1] 用肩膀顶着巨石，试图推动它，但是在一段时间的角力后，巨石仍然纹丝不动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Slot 2] 推着巨石，在经过一段时间的拉力赛之后，巨石开始缓缓地滚动——最后掉了下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Slot 2] 用肩膀顶着巨石，试图推动它，但是在一段时间的角力后，巨石仍然纹丝不动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Slot 3] 推着巨石，在经过一段时间的拉力赛之后，巨石开始缓缓地滚动——最后掉了下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Slot 3] 用肩膀顶着巨石，试图推动它，但是在一段时间的角力后，巨石仍然纹丝不动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Slot 4] 推着巨石，在经过一段时间的拉力赛之后，巨石开始缓缓地滚动——最后掉了下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Slot 4] 用肩膀顶着巨石，试图推动它，但是在一段时间的角力后，巨石仍然纹丝不动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Slot 5] 拉着巨石，在经过一段时间的拉力赛之后，巨石开始缓缓地滚动——最后掉了下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Slot 5] 用肩膀顶着巨石，试图推动它，但是在一段时间的角力后，巨石仍然纹丝不动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>用凿子凿巨石是一件非常累人的事情，不仅需要消耗大量的体力与时间，同时你也发现巨石的有些部分太过坚硬以至于根本无法凿开。过了很长时间以后，你的努力终于得到了回报，石头的一部分被你凿下来了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>你毫不犹豫地躲在一块岩石下。石头狠狠地砸向地面，弹向另一边。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>大家伙虽然一时间有些慌不择路，但都躲到了峭壁上的一块凸起下——但是 [SkillCheck 0] 绊倒了，碎石如冰雹一般落在了他身上。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>磨难告一段落了，于是你继续攀爬，接下来的一段路途中，没有发生任何意外。
+
+最后，你发现自己站在了盘旋阶梯的最顶端，你看到了赫丽雅神殿的柱子。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>满是伤痕的 [SkillCheck 0] 奋力一跃，终于到达了安全的位置，片刻之后，如雷动的落石声消失了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>靠近巨石才发现，那道空间比想象中的还要狭窄，每一步都可能是人生的最后一步，在片刻的犹豫之后，一片碎石由于 [Slot 0]的重量而落入深渊，惊魂未定的 [Slot 0]立刻选择冲向另一边。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>靠近巨石才发现，那道空间比想象中的还要狭窄，每一步都可能是人生的最后一步，在片刻的犹豫之后，一片碎石由于 [Slot 1]的重量而落入深渊，惊魂未定的 [Slot 1]立刻选择冲向另一边。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>靠近巨石才发现，那道空间比想象中的还要狭窄，每一步都可能是人生的最后一步，在片刻的犹豫之后，一片碎石由于 [Slot 2]的重量而落入深渊，惊魂未定的 [Slot 2]立刻选择冲向另一边。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>靠近巨石才发现，那道空间比想象中的还要狭窄，每一步都可能是人生的最后一步，在片刻的犹豫之后，一片碎石由于 [Slot 3]的重量而落入深渊，惊魂未定的 [Slot 3]立刻选择冲向另一边。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>靠近巨石才发现，那道空间比想象中的还要狭窄，每一步都可能是人生的最后一步，在片刻的犹豫之后，一片碎石由于 [Slot 4]的重量而落入深渊，惊魂未定的 [Slot 4]立刻选择冲向另一边。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>靠近巨石才发现，那道空间比想象中的还要狭窄，每一步都可能是人生的最后一步，在片刻的犹豫之后，一片碎石由于 [Slot 5]的重量而落入深渊，惊魂未定的 [Slot 5]立刻选择冲向另一边。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>你小心翼翼地沿着巨石的边缘走到了另一边。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>你。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>你用力地推着巨石，在经过一段时间的拉力赛之后，巨石开始缓缓地滚动——最后掉了下去。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>你用尽全力推动巨石，但是巨石纹丝不动——它太重了。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>靠近巨石才发现，那道空间比想象中的还要狭窄，每一步都可能是人生的最后一步，在片刻的犹豫之后，一片碎石由于你的重量而落入深渊，惊魂未定的你立刻选择冲向另一边。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[查看这片区域。]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

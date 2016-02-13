@@ -1,0 +1,612 @@
+<StringTableFile>
+  <Name>conversations\companions\companion_cv_gm_bell_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>121</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"那 是 精 神 之 石 adra形 成 的 高 原 。高 原 上 縱 深 的 峽 谷 內 設 了 一 口 鈴 鐺 ，隨 風 擺 動 著 ……當 同 伴 的 手 敲 擊 時 ，它 發 出 的 聲 音 意 味 著 聯 合 。"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「在 久 遠 的 時 代 ，鈴 鐺 扮 演 了 Glanfathan——也 許 是 守 衛 的 角 色 。我 不 知 道 他 們 為 什 麼 遺 棄 它 。另 一 群 定 居 者 適 時 出 現 ……並 宣 告 對 塔 樓 的 所 有 權 。而 我 接 替 他 們 占 有 了 它 。柱 子 成 為 了 搖 籃 ，讓 我 得 以 使 新 的 靈 魂 降 生 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「生 育 之 鈴 ……它 讓 我 得 以 使 新 的 靈 魂 降 生 。通 過 你 看 到 的 畫 面 我 能 回 想 起 一 些 有 關 它 的 記 憶 ……但 並 非 全 部 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「我 向 再 聽 一 遍 ，Hollowborn對 鈴 鐺 做 了 什 麼 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「在 你 的 記 憶 中 ，是 否 正 幫 助 一 個 女 人 生 育 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「生 育 之 鈴 在 哪 兒 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「我 想 談 些 別 的 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「眼 下 繼 續 我 們 的 旅 程 吧 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Trigger Conv Node 11</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「是 的 ……但 我 相 信 你 僅 僅 看 到 了 降 生 儀 式 的 一 部 分 。它 並 不 是 在 剎 那 間 或 一 天 內 完 成 的 。那 是 孩 子 、母 親 和 我 多 年 努 力 的 成 果 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「你 能 告 訴 我 有 關 降 生 儀 式 的 事 嗎 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「我 想 問 其 他 關 於 生 育 之 鈴 的 問 題 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「問 你 想 問 的 問 題 ——我 會 回 答 我 能 回 答 的 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「降 生 儀 式 ……是 許 多 步 驟 中 的 一 步 ，雕 琢 它 們 就 耗 費 了 數 十 年 ……但 引 導 我 的 往 往 是 孩 子 的 思 維 ，從 其 覺 醒 之 初 ，到 他 在 母 親 體 內 度 過 的 三 年 ，直 到 降 生 的 那 一 天 以 及 之 後 的 歲 月 。孩 子 的 思 維 ……是 一 切 的 開 始 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「懷 孕 的 目 前 ……我 經 常 能 感 受 到 她 ——和 她 孩 子 的 想 法 ——在 她 之 前 。我 會 安 慰 她 ，以 使 她 從 問 題 的 恐 慌 中 解 脫 。我 會 在 她 心 裡 喚 起 高 原 上 的 生 育 之 鈴 的 記 憶 聲 音 ，讓 共 鳴 的 回 憶 響 徹 在 我 ——和 她 的 心 裡 。通 常 孩 子 的 靈 魂 也 能 聽 到 聲 音 ，所 以 鈴 鐺 的 聲 音 ……回 響 在 母 親 的 思 緒 中 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>「我 有 很 多 方 法 來 幫 助 母 親 ……比 如 尋 求 在 儀 式 中 身 體 上 的 慰 藉 來 穩 定 他 們 的 思 緒 ——甚 至 是 鈴 鐺 上 的 adra。另 外 的 方 法 還 有 在 未 來 幾 天 征 求 意 見 ……忠 告 。我 能 提 供 跳 棋 、藥 酒 ……和 對 孩 子 靈 魂 的 解 讀 ，所 有 這 些 來 強 化 母 親 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「對 孩 子 靈 魂 的 解 讀 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>「許 多 母 親 ……會 來 尋 覓 對 孩 子 的 未 來 ……或 者 對 孩 子 的 過 往 ，即 其 靈 魂 曾 經 的 人 生 的 解 讀 。」寒 意 緩 緩 升 起 ，一 時 間 她 似 乎 正 從 你 的 視 野 中 淡 化 消 失 ……就 像 她 無 法 忍 受 被 看 見 似 的 ……警 告 ，恐 懼 突 然 而 至 ……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>「這 樣 的 事 ……不 是 我 想 要 看 到 的 。我 並 沒 有 惡 意 。」奇 怪 的 是 ，她 好 像 並 不 是 跟 你 在 說 話 ……感 覺 像 是 她 在 對 某 位 觀 眾 說 話 。空 氣 呈 現 出 一 種 奇 怪 的 狀 態 ，持 續 甚 久 的 寒 意 ……淡 化 為 沉 悶 的 恐 懼 。你 感 覺 到 「Watcher」一 詞 在 她 的 心 中 回 響 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>「你 害 怕 了 ……對 有 關 Watchers的 事 感 到 恐 懼 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>隨 著 有 關 Watchers的 想 法 縈 繞 在 你 的 腦 海 中 ，你 感 到 強 烈 的 痛 苦 ……刺 痛 心 靈 ……你 的 肩 背 突 然 受 到 燃 燒 的 鞭 擊 ……然 後 又 消 失 無 蹤 ……你 感 覺 到 面 前 的 Grieving Mother顯 得 沉 默 、恐 懼 而 小 心 翼 翼 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「我 曾 經 並 不 是 這 樣 的 。但 由 於 我 被 冠 上 了 『Watcher』之 名 ，這 一 頭 銜 帶 來 了 我 本 未 得 到 也 不 該 承 受 的 負 擔 。這 個 世 界 似 乎 已 經 滿 是 擁 有 此 類 頭 銜 的 人 。我 想 ，頭 銜 會 隨 人 的 行 為 和 力 量 而 轉 移 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「你 為 什 麼 曾 堅 信 你 是 個 Watcher？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「這 個 世 界 廣 闊 無 垠 ，在 某 些 角 落 ，Watcher之 名 更 為 人 們 所 熟 知 。這 個 頭 銜 相 比 其 他 更 易 獲 得 ，並 且 有 時 更 容 易 承 受 。把 頭 銜 加 諸 於 無 知 之 人 能 使 其 免 於 恐 懼 ……我 也 並 未 抗 爭 。我 甚 至 相 信 它 是 真 的 ，雖 然 我 對 Watchers的 行 為 方 式 幾 無 所 知 。它 甚 至 ……給 予 了 我 力 量 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「我 能 夠 看 到 並 重 塑 他 人 的 想 法 ，並 幫 忙 引 導 靈 魂 ……『Watcher』看 起 來 足 夠 了 ，並 且 這 一 頭 銜 似 乎 對 人 的 行 為 並 無 多 少 影 響 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「但 是 ……如 果 她 們 到 你 這 裡 來 尋 求 解 讀 她 們 孩 子 的 靈 魂 ，你 會 告 訴 她 們 什 麼 呢 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「我 ……根 據 現 狀 來 描 述 。我 先 感 受 面 前 母 親 的 靈 魂 ……然 後 用 它 來 描 述 孩 子 的 靈 魂 ，以 此 作 出 解 釋 。只 要 目 前 的 想 法 和 其 下 的 情 緒 由 我 給 予 ，我 也 確 實 那 樣 做 了 ……並 且 ……所 以 我 用 這 來 解 讀 她 們 孩 子 的 未 來 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>「如 果 那 被 證 明 是 錯 誤 的 怎 麼 辦 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>「由 自 己 靈 魂 完 滿 的 未 來 與 別 人 眼 中 的 現 狀 一 樣 真 實 。並 且 如 果 從 母 親 的 情 緒 中 提 取 信 息 ……除 非 造 成 了 傷 害 ，否 則 這 種 行 為 並 無 不 良 影 響 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>「他 們 的 生 活 我 很 熟 悉 。隨 著 時 間 的 推 移 ，我 可 以 編 織 他 們 的 生 活 ，他 們 的 想 法 ——無 論 是 母 親 或 孩 子 ——而 一 旦 孩 子 出 生 並 得 到 庇 護 ......我 可 以 逐 漸 放 松 思 想 的 控 制 ，直 到 孩 子 可 以 獨 立 生 活 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>「所 以 ……你 改 造 了 他 們 的 思 維 ，使 得 解 讀 成 為 事 實 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>「這 是 我 的 使 命 ……向 他 們 展 示 我 先 於 他 們 看 到 的 生 活 ，更 甚 者 ……使 他 們 信 服 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>「這 不 是 一 個 Watcher該 做 的 事 ……我 們 不 會 改 造 思 想 ，我 們 只 觀 察 既 定 的 存 在 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>「即 使 ……措 辭 最 強 硬 的 解 讀 不 足 以 拯 救 孩 子 並 使 他 出 生 ……如 果 我 有 能 力 剝 離 母 親 的 惡 意 來 編 織 良 善 ，從 不 屑 和 忽 視 中 喚 醒 生 育 ，那 麼 這 就 是 我 的 使 命 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>「在 我 的 思 想 背 後 的 『Watcher』的 作 用 下 ，這 些 解 讀 獲 得 了 力 量 ……我 自 己 從 未 掌 握 的 力 量 。他 們 相 信 了 。而 他 們 相 信 的 成 為 了 事 實 。隨 著 每 一 個 孩 子 被 設 定 為 那 樣 的 人 生 之 路 ，Watcher之 名 愈 發 強 大 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「你 必 須 理 解 ……沒 了 我 話 語 的 分 量 ……很 多 生 靈 早 就 迷 失 ，淹 沒 投 身 於 鈴 鐺 前 的 湖 泊 了 。現 在 前 往 湖 泊 的 小 徑 已 經 消 失 在 森 林 中 了 ……正 如 預 計 的 那 樣 。Watcher不 是 來 巡 視 人 們 的 ，但 Watcher拯 救 了 他 們 ……有 了 Watcher的 力 量 ，孩 子 們 得 以 出 生 、受 到 照 顧 並 茁 壯 成 長 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>「把 你 的 意 志 強 加 於 他 人 ……這 不 是 解 讀 ，這 是 控 制 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>「當 靈 魂 處 於 危 險 中 時 ，一 個 受 驚 的 意 志 又 有 什 麼 用 呢 ？你 會 讓 母 親 的 恐 懼 終 結 她 那 新 生 兒 的 生 命 嗎 ？你 在 回 憶 中 感 受 過 了 ，它 的 分 量 ，孩 子 生 命 的 重 要 性 ——這 是 我 們 共 享 的 回 憶 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>「但 是 ……當 Hollowborn到 來 的 時 候 你 做 了 什 麼 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「詛 咒 ……」由 一 陣 情 緒 帶 來 的 些 微 寒 意 在 你 們 兩 人 間 擴 散 。下 一 個 想 法 緩 慢 而 恐 懼 地 進 入 了 你 的 大 腦 ……就 像 被 母 親 的 恐 懼 覆 蓋 的 ，嚇 壞 了 的 孩 子 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「所 以 你 為 了 孩 子 ，扭 曲 了 母 親 的 感 覺 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「你 為 什 麼 要 做 這 種 事 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>「並 且 如 果 母 親 的 情 緒 是 痛 苦 的 ……受 傷 的 那 該 怎 麼 辦 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「當 借 用 他 人 的 思 維 時 必 須 保 護 自 己 。一 位 母 親 的 狂 怒 和 蔑 視 帶 來 的 痛 苦 ……就 像 是 致 命 毒 藥 一 樣 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>「聽 起 來 你 這 像 是 經 驗 之 談 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「是 的 ……並 且 我 仍 然 處 於 那 種 虛 弱 之 中 。我 學 會 了 在 那 樣 尖 銳 的 思 想 中 保 護 自 己 ，清 除 它 們 ，並 且 作 出 ……對 一 個 孩 子 的 更 清 晰 的 解 讀 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>「我 不 明 白 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>「我 不 知 道 你 能 解 讀 靈 魂 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>「那 種 見 解 ……過 去 的 生 命 ……未 來 的 生 命 ……」Grieving Mother有 些 微 的 猶 豫 ……短 暫 的 憂 慮 ，然 後 平 息 了 ……這 種 感 覺 很 奇 怪 ，來 得 快 去 得 也 快 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>「生 育 之 鈴 位 於 Dyrwood的 密 林 深 處 ，Glanfathan lands的 邊 緣 。在 它 的 周 圍 ……勉 強 能 稱 得 上 小 鎮 ，你 在 任 何 地 圖 上 都 找 不 到 ……但 它 對 那 裡 的 人 們 非 常 重 要 ，即 使 我 們 遠 離 了 世 俗 的 慣 例 。像 繩 結 一 樣 維 系 起 來 的 小 型 家 族 ，組 成 了 大 腦 和 思 維 中 的 一 個 個 關 節 。所 有 都 受 到 歡 迎 ，都 有 目 的 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>「第 一 次 降 生 使 我 印 象 最 深 刻 ，也 最 悲 傷 。對 於 找 到 孩 子 的 靈 魂 並 作 出 指 引 ，我 一 無 所 措 ……」你 感 到 奇 怪 的 ……離 散 感 存 在 於 你 的 思 維 之 中 ，就 像 你 的 想 法 在 遙 遠 的 距 離 間 分 享 。你 的 想 法 一 會 兒 滲 出 ，然 後 又 強 烈 地 回 到 近 處 ——成 為 自 我 的 想 法 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>「我 無 法 理 解 到 底 發 生 了 什 麼 。我 那 時 可 能 會 做 什 麼 。恐 怕 我 ……不 。我 不 能 糾 纏 於 這 個 想 法 。孩 子 一 直 是 過 去 所 發 生 之 事 的 提 醒 和 標 志 。我 讓 她 關 心 這 個 。我 讓 她 們 都 關 心 這 個 ……直 到 我 能 找 到 我 曾 ……什 麼 地 方 出 了 差 錯 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>「你 讓 她 關 心 這 個 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>「但 是 Hollowborn……那 不 是 你 的 行 為 。它 在 世 界 各 地 都 發 生 了 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>「我 明 白 ，你 不 得 不 保 護 你 自 己 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>「其 實 ……更 糟 。我 讓 她 認 為 那 就 是 全 部 ……並 且 ……然 後 更 多 的 生 命 降 生 於 鈴 鐺 ……像 往 常 一 樣 ，有 很 多 我 不 得 不 去 改 造 的 思 維 ……一 大 群 思 維 空 洞 的 孩 子 ，在 他 們 父 母 的 如 炬 目 光 下 ……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>「外 面 的 聲 音 很 少 能 傳 達 到 我 們 這 裡 。有 足 夠 的 時 間 讓 狂 怒 、痛 苦 和 不 幸 來 引 導 幫 助 ……我 害 怕 在 孩 子 身 上 會 發 生 什 麼 ……在 我 身 上 會 發 生 什 麼 ……每 一 個 母 親 都 知 道 她 可 能 產 下 死 胎 ，但 對 於 這 些 冰 冷 的 、沒 有 靈 魂 的 生 物 ？父 母 們 不 會 明 白 ……對 於 未 知 的 恐 懼 誘 發 了 暴 力 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>「是 的 ……但 是 母 親 不 也 是 無 辜 的 嗎 ？難 道 她 不 值 得 我 去 保 護 嗎 ？我 覺 得 我 的 理 由 是 正 當 的 ……但 對 我 所 做 的 並 不 滿 意 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>「我 們 共 享 了 記 憶 ？還 是 你 把 記 憶 強 加 於 我 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>「那 記 憶 ……不 是 真 的 吧 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>「一 件 大 好 事 完 成 了 ……孩 子 們 得 救 了 。這 個 選 擇 總 有 一 天 你 會 被 迫 遇 上 ，而 當 你 面 對 它 時 ，你 會 作 出 同 樣 的 選 擇 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>「當 它 發 生 時 ，我 會 做 出 自 己 的 選 擇 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>「是 的 ，我 確 信 我 會 的 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>「我 拒 絕 練 習 那 種 控 制 他 人 的 方 法 。甚 至 是 遠 比 這 更 好 的 方 法 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>「Watcher，這 不 是 你 要 做 的 選 擇 。你 會 按 照 世 界 和 孩 子 們 需 要 的 方 式 行 動 。這 遠 比 你 和 你 那 ……扭 曲 的 見 解 要 好 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>她 的 想 法 像 清 涼 舒 緩 的 水 流 一 樣 圍 繞 著 你 。「那 就 好 ，Watcher。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>「保 護 無 辜 生 命 ，值 得 付 出 一 切 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>「你 把 你 的 意 志 強 加 於 鎮 民 。那 是 錯 誤 的 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>「他 們 ……他 們 那 時 可 能 會 殺 了 孩 子 。我 別 無 選 擇 。當 時 的 狀 況 太 復 雜 以 至 於 無 法 尋 求 許 可 。所 以 我 讓 他 們 相 信 他 們 的 孩 子 完 整 健 康 地 活 著 。直 到 有 太 多 孩 子 ……使 得 保 護 崩 潰 了 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>「然 後 發 生 了 什 麼 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>「我 ……控 制 了 他 們 的 頭 腦 。我 盡 我 所 能 改 造 和 引 導 他 們 。隨 著 每 一 天 的 過 去 ，每 個 新 生 命 的 降 生 ，負 擔 愈 發 沉 重 。我 的 控 制 越 松 弛 ，我 的 思 想 越 集 中 。最 後 ，甚 至 連 我 也 屈 從 於 自 己 幻 覺 的 力 量 。我 把 思 線 編 織 得 太 過 緊 密 以 至 於 再 也 無 法 看 穿 它 們 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>「然 後 一 天 早 上 ，我 聽 到 喪 鍾 響 徹 村 莊 。哭 聲 從 薄 霧 中 升 起 。一 位 母 親 死 了 ，她 的 思 緒 全 部 集 中 到 了 照 顧 她 的 Hollowborn孩 子 身 上 ，以 至 於 她 忘 了 進 食 。由 此 ，幻 夢 破 裂 了 。Hollowborn是 怎 樣 ，鎮 民 看 到 的 就 是 怎 樣 ，而 不 再 是 我 希 望 他 們 看 到 的 那 樣 。從 那 天 起 ，他 們 看 我 的 眼 神 也 不 同 了 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>「我 不 明 白 發 生 了 什 麼 ，但 足 以 讓 我 知 道 逃 避 。我 埋 藏 了 每 個 浮 出 表 面 的 懷 疑 ，每 個 淡 忘 的 關 於 我 做 過 什 麼 的 記 憶 。」她 看 上 去 冷 淡 、孤 獨 而 死 板 。「我 的 能 力 使 我 失 敗 了 ，但 我 做 了 必 須 做 的 事 。我 ……對 那 位 母 親 的 死 感 到 遺 憾 ，但 如 果 我 沒 有 那 麼 做 的 話 ，情 況 會 變 得 怎 樣 更 糟 呢 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>「正 確 的 事 並 不 總 是 簡 單 的 。但 如 果 我 們 能 找 回 Dyrwood迷 失 的 孩 子 們 ，我 們 的 努 力 是 值 得 的 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>「像 那 樣 管 轄 另 一 方 ，即 使 為 了 善 行 ，也 是 不 對 的 。我 們 必 須 接 受 ，世 事 並 不 總 受 控 制 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>「我 不 想 與 你 一 起 旅 行 了 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>隨 著 你 說 出 你 的 想 法 ，你 能 感 覺 到 你 們 兩 人 間 的 距 離 不 斷 擴 大 。然 後 ……然 後 她 慢 慢 地 消 失 在 你 的 視 野 中 ，似 乎 沉 沒 在 空 氣 中 就 像 沉 沒 在 黑 色 湖 水 裡 一 樣 ，死 寂 。你 能 看 到 她 的 輪 廓 ，然 後 ……</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>「還 有 其 他 方 法 。你 本 可 以 尋 求 對 孩 子 的 外 部 幫 助 。或 者 如 果 擔 心 你 自 己 的 話 ，你 可 以 脫 身 不 管 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>「你 談 到 的 選 擇 在 危 機 中 並 不 總 是 清 楚 的 。當 第 一 位 母 親 乞 求 孩 子 而 我 不 得 不 決 定 應 該 給 她 什 麼 時 ，那 些 選 擇 並 不 在 我 的 想 法 中 。我 如 何 能 知 道 那 條 路 會 導 向 何 方 ，或 者 其 他 人 在 找 尋 求 同 樣 的 回 答 ？即 使 如 此 ，在 此 過 程 中 的 猶 豫 會 犧 牲 一 個 年 輕 的 生 命 ……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>觸 發 Conv Node 237</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>「我 的 行 為 反 而 造 成 了 更 多 的 痛 苦 。更 糟 的 是 ，我 對 於 整 個 村 莊 的 攫 取 ……使 得 他 們 像 我 努 力 保 護 的 孩 子 們 一 樣 空 虛 和 無 助 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>「但 是 然 後 呢 ？在 面 對 悲 劇 時 挺 身 而 出 更 好 ？還 是 讓 饑 餓 之 潮 席 卷 世 界 更 好 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>「生 活 總 是 痛 苦 的 。你 不 該 妄 想 它 並 不 痛 苦 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>「有 時 。如 果 你 的 行 為 只 會 讓 它 變 得 更 糟 的 話 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>「把 你 的 意 志 強 加 於 別 人 是 不 道 德 的 行 為 。這 種 做 法 除 了 引 發 悲 劇 外 還 能 怎 樣 呢 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>「這 個 世 界 終 究 有 一 套 自 我 糾 正 的 方 式 。你 必 須 讓 它 那 樣 做 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>「Watcher，我 隨 時 准 備 援 手 ……幫 助 孩 子 脫 離 自 宮 ，減 輕 母 親 的 痛 苦 ……冷 眼 旁 觀 不 是 我 的 作 風 。但 生 育 之 痛 苦 的 起 伏 就 像 命 運 之 輪 的 轉 彎 。一 番 新 的 降 生 ，一 次 新 的 機 會 ，一 個 新 的 生 命 ……只 要 這 一 痛 苦 痊 愈 。也 許 這 是 我 們 的 希 望 之 所 在 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>「你 感 覺 到 了 母 親 的 想 法 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>「分 享 記 憶 和 想 法 能 讓 生 命 團 結 在 一 起 ……就 像 困 難 一 樣 ……最 重 要 的 ，分 享 熟 悉 的 事 物 。鈴 鐺 本 身 提 供 了 這 種 想 法 的 庇 護 所 ，提 供 了 深 入 觀 察 裂 縫 的 機 會 ，以 及 可 用 於 掩 護 的 巖 石 空 洞 ……在 其 中 你 會 感 覺 被 adra包 圍 的 裂 縫 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>隨 著 她 的 講 話 ……你 感 到 你 的 腿 彎 曲 交 叉 ，感 到 周 圍 牆 壁 ……和 你 身 下 厚 毯 的 溫 暖 。「……像 這 樣 共 享 的 景 象 能 使 靈 魂 結 合 得 更 緊 密 ，並 使 得 他 們 能 夠 互 相 汲 取 力 量 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>「你 提 到 儀 式 持 續 了 很 多 年 ……降 生 後 會 發 生 什 麼 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>「一 旦 痛 苦 被 引 至 別 處 ，母 親 和 孩 子 重 新 開 始 呼 吸 ，我 聽 到 生 育 之 鈴 的 聲 音 從 手 臂 上 響 起 ，使 得 母 親 能 聽 到 孩 子 的 想 法 ，鈴 聲 在 雙 方 的 思 緒 中 回 響 ……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>「鈴 鐺 打 開 了 他 們 之 間 溝 通 的 道 路 ，讓 他 們 的 感 覺 相 互 傳 遞 ……當 感 覺 相 遇 時 ，我 會 編 織 另 一 個 回 憶 並 放 入 他 們 的 腦 海 中 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>「這 些 鍾 在 降 生 過 程 中 是 否 發 揮 了 重 要 作 用 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>「是 的 ，並 且 之 後 的 歲 月 也 是 如 此 。接 生 後 我 給 孩 子 一 個 集 合 。那 是 對 母 親 和 孩 子 間 共 享 記 憶 的 提 醒 。」你 有 一 種 奇 怪 的 感 覺 ，一 絲 溫 暖 ，一 個 分 享 的 笑 容 ，很 快 閃 爍 消 失 了 。「系 於 手 腕 上 的 鈴 鐺 引 導 孩 子 前 行 並 一 路 陪 伴 ……照 顧 他 的 心 理 和 身 體 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>「這 並 不 需 要 魔 法 ，除 了 ……實 踐 這 種 『魔 法 』。如 果 孩 子 力 圖 離 開 搖 籃 ，或 逃 離 嬰 兒 床 ……」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>「母 親 可 以 單 通 過 鈴 聲 得 知 警 告 。有 時 如 果 聯 系 緊 密 的 話 ，我 也 可 以 。」微 笑 的 感 覺 再 次 緩 慢 而 明 確 的 出 現 在 你 們 之 間 。「如 果 沒 有 得 到 看 顧 ，孩 子 們 ……會 有 很 多 麻 煩 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>「鈴 聲 會 一 直 存 在 ，直 到 孩 子 不 再 需 要 了 為 止 。當 我 不 再 聽 到 它 們 在 我 心 中 響 起 時 ，我 知 道 他 們 的 靈 魂 已 經 變 了 ……我 們 之 間 的 聯 系 從 此 蕩 然 無 存 。這 一 聯 系 的 脫 離 過 程 可 能 會 持 續 很 多 年 ……或 者 幾 年 。但 這 是 ……必 需 的 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>「這 些 孩 子 降 生 之 後 ，你 多 年 來 一 直 在 照 看 他 們 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>「孩 子 們 是 ……脆 弱 的 生 命 。即 使 血 脈 和 心 靈 的 維 系 也 本 能 不 足 以 保 護 他 們 。他 們 必 須 得 到 看 護 ，甚 至 ……即 使 那 樣 ，身 體 可 能 仍 會 與 心 靈 分 離 。但 如 果 得 到 看 護 ……如 果 足 夠 堅 決 ，即 使 是 最 多 病 的 孩 子 仍 能 延 續 生 命 ，並 且 很 多 他 們 的 靈 魂 會 與 我 聯 結 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>「如 果 孩 子 的 靈 魂 失 敗 了 ……我 可 以 鳴 響 他 們 心 中 的 警 鍾 並 甚 至 從 此 以 後 給 予 他 們 力 量 。這 ……並 不 總 是 有 效 ，但 ……它 能 帶 來 希 望 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>「聽 起 來 你 也 看 到 過 悲 劇 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>「足 以 讓 我 不 希 望 再 一 次 感 受 了 。在 鈴 鐺 存 世 之 前 ……死 去 的 孩 子 ……會 被 投 入 鈴 鐺 前 的 湖 水 裡 。有 時 候 ，即 使 是 活 著 的 孩 子 ，如 果 他 們 的 未 來 被 看 作 是 ……無 力 的 話 ，也 會 ……那 是 個 ……不 同 的 時 代 。孩 子 被 ……隨 意 地 對 待 。那 個 時 代 ……那 個 時 代 已 經 過 去 了 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>她 低 下 了 頭 。似 乎 有 什 麼 包 圍 著 你 ……一 陣 厚 重 的 迷 霧 。隨 著 Grieving Mother向 內 看 去 ，它 向 你 迫 近 ，快 要 使 你 窒 息 。終 於 ，她 抬 起 了 視 線 ，迷 霧 撤 退 了 。「我 只 知 道 這 是 Dyrwood所 有 爐 台 的 災 禍 ，使 這 個 國 家 支 離 破 碎 的 危 險 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>她 安 靜 了 許 久 。「你 的 話 語 撫 慰 了 我 的 心 ……用 我 沒 預 料 到 的 方 式 。Watcher，感 謝 你 贈 予 的 見 解 ……感 謝 你 用 它 來 引 導 我 走 出 內 心 的 牢 籠 。希 望 它 也 能 讓 你 免 於 Thaos編 織 的 幻 覺 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>「我 那 時 並 不 這 樣 看 ……我 力 圖 用 我 的 頭 腦 編 織 一 個 搖 籃 ……但 它 成 為 了 囚 籠 ，對 村 莊 和 我 而 言 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>「但 是 ……你 覺 得 控 制 並 引 導 他 們 的 頭 腦 是 對 的 ？即 使 知 道 這 樣 做 的 成 本 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>「你 不 知 道 那 時 的 成 本 。我 們 常 常 必 須 用 不 完 善 的 知 識 來 編 制 課 程 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>「仁 慈 給 予 了 孩 子 機 會 ，如 果 能 持 續 一 段 時 間 的 話 ，也 會 給 他 們 的 家 庭 帶 來 快 樂 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>「我 打 算 減 輕 他 們 的 痛 苦 ……就 像 我 已 經 幫 助 很 多 母 親 減 輕 分 娩 的 劇 痛 一 樣 。但 是 我 的 想 法 成 為 了 陷 阱 ……牢 籠 ，對 村 莊 和 我 而 言 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>「我 以 為 我 可 以 。我 已 經 迫 使 很 多 大 腦 接 受 ……仁 慈 ……然 而 那 些 想 法 成 為 了 陷 阱 ……牢 籠 ，對 村 莊 和 我 而 言 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>「一 段 旋 律 ……簡 短 卻 美 妙 。存 在 時 值 得 珍 稀 的 精 致 之 物 。命 運 之 輪 的 小 小 改 變 ，但 仍 然 是 改 變 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>「一 個 鮮 活 純 真 的 生 命 的 價 值 高 於 一 切 。是 的 ，它 值 得 那 樣 做 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>「一 個 線 與 線 間 編 織 而 成 的 掛 毯 ……從 未 見 過 的 樣 式 。所 以 思 維 和 夢 想 驅 動 著 我 們 ，並 形 成 了 我 們 的 現 實 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>「為 什 麼 你 為 解 讀 孩 子 的 靈 魂 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>「看 起 來 你 的 『解 讀 』是 必 需 的 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>「我 明 白 了 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>Grieving Mother的 思 緒 沉 默 平 靜 了 好 久 。她 讓 你 的 話 語 淹 沒 她 的 話 語 ，滲 入 她 思 想 中 的 裂 縫 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>「……你 談 到 發 生 在 孩 子 身 上 ，也 降 臨 在 這 個 國 家 的 詛 咒 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>「……是 的 ，這 樣 的 見 解 超 越 了 我 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>突 然 ，一 聲 嘶 啞 的 號 哭 闖 入 了 你 的 意 識 …她 伸 出 手 ，你 看 到 chimes在 那 裡 ，但 在 她 移 動 的 過 程 卻 寂 然 無 聲 。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

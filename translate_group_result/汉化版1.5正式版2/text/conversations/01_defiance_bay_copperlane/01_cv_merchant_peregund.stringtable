@@ -1,0 +1,68 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\01_defiance_bay_copperlane\01_cv_merchant_peregund</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>11</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“那 边 的 你 好 ！”当 你 靠 近 的 时 候 羽 精 向 微 笑 。“你 看 起 来 像 是 个 探 险 者 。在 集 市 上 寻 找 探 险 者 物 品 ？我 这 有 你 需 要 的 所 有 东 西 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“给 我 看 看 你 的 商 品 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“你 这 有 苍 运 钢 制 成 的 匕 首 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>[离 开 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“苍 运 钢 ？我 希 望 我 有 一 些 可 以 卖 给 你 但 是 很 抱 歉 ，我 没 有 。找 找 伊 格 伦 ，那 个 造 武 器 的 铁 匠 。他 在 那 儿 ，是 个 奥 玛 人 。他 货 源 充 沛 ——最 好 去 问 问 他 吧 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“有 什 么 事 我 可 以 为 你 效 劳 的 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“探 险 者 供 给 品 ……你 需 要 它 们 ，我 有 ，”女 羽 精 微 笑 着 说 道 。“想 看 看 我 的 物 品 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>“你 好 ，”女 羽 精 用 熟 悉 的 语 调 打 着 招 呼 。“感 谢 来 光 临 我 的 小 店 。”
+
+“我 还 在 为 失 去 了 那 辆 货 车 补 充 货 源 ，”她 愤 懑 地 说 道 。“我 的 物 品 栏 不 像 以 前 那 样 了 但 是 ……幸 运 的 是 我 有 你 会 喜 欢 的 东 西 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>女 羽 精 跳 起 来 落 到 你 的 跟 前 。“记 得 我 吗 ？我 们 在 马 德 米 尔 桥 碰 过 面 。”
+
+她 轻 佻 地 拍 了 拍 你 的 肩 膀 。“谢 谢 你 当 时 在 那 儿 帮 助 我 。正 如 我 承 诺 过 的 ，我 会 给 你 城 里 最 优 惠 的 价 格 。如 果 不 是 你 ，我 依 旧 会 是 一 文 不 名 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>“给 我 看 看 你 的 商 品 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>“给 我 看 看 你 的 商 品 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
+

@@ -1,0 +1,43 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\06_stronghold\06_tsk_boss_forest_lurker</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>懸 賞 ：常 居 客 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>殺 死 位 於 黑 草 甸 的 常 居 客 ，把 它 的 頭 帶 回 來 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>把 常 居 客 的 頭 交 給 塞 德 努 亞 的 費 爾 根 典 獄 長 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>一 只 被 稱 為 常 居 客 的 巨 大 森 林 潛 伏 者 對 通 過 黑 草 甸 的 商 隊 產 生 了 威 脅 。已 經 有 人 懸 賞 要 它 的 腦 袋 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>一 只 巨 大 的 森 林 潛 伏 者 出 現 於 黑 草 甸 ，商 人 們 都 叫 它 常 居 客 。然 而 它 很 快 就 會 成 為 商 隊 的 嚴 重 威 脅 ，他 們 會 提 供 賞 金 ，只 要 我 能 殺 死 那 東 西 並 帶 回 它 的 頭  - 或 者 至 少 是 冒 充 的 頭 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>常 居 客 不 再 是 威 脅 了 ，我 可 以 把 它 的 頭 帶 給 費 爾 根 典 獄 長 並 拿 到 賞 金 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 拿 到 了 常 居 客 的 賞 金 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

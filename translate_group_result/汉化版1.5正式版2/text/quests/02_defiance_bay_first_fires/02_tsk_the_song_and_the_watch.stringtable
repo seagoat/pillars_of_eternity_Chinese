@@ -1,0 +1,83 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\02_defiance_bay_first_fires\02_tsk_the_song_and_the_watch</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>15</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>失 踪 的 哨 兵 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>进 入 传 承 山 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>找 到 失 踪 的 守 卫 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>和 薇 拉 谈 话 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>薇 拉 是 炼 狱 骑 士 的 审 判 者 ，正 是 她 让 几 个 神 秘 失 踪 的 修 士 在 传 承 山 外 站 岗 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>通 往 传 承 山 的 大 门 被 封 死 了 ，但 是 薇 拉 告 诉 我 守 卫 在 等 着 我 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>失 踪 的 护 卫 很 可 能 在 传 承 山 里 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我 已 经 搞 定 了 蕾 拉 ，她 将 不 会 在 给 传 承 山 中 的 炼 狱 骑 士 或 是 其 他 什 么 人 找 麻 烦 了 。我 应 该 去 最 初 之 火 的 炼 狱 堡 垒 ，并 告 诉 薇 拉 发 生 了 什 么 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>在 门 口 站 岗 的 守 卫 说 ，最 后 一 次 巡 逻 时 他 听 到 有 人 在 下 达 什 么 命 令 。这 听 起 来 好 像 是 从 东 北 边 传 来 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>在 门 口 站 岗 提 到 卫 兵 们 两 次 都 消 失 了 ，门 也 没 上 锁 。很 可 能 是 因 为 某 种 不 为 人 知 的 原 因 ，他 们 进 了 传 承 山 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>我 找 到 了 一 具 似 乎 是 炼 狱 骑 士 高 级 骑 士 的 尸 体 。薇 拉 提 到 其 中 一 人 在 传 承 山 被 封 闭 前 就 不 见 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 告 诉 薇 拉 我 会 摆 平 蕾 拉 在 传 承 山 无 法 安 息 的 灵 魂 。知 道 了 她 修 士 发 生 了 什 么 事 之 后 ，她 很 欣 慰 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我 告 诉 薇 拉 我 会 摆 平 蕾 拉 在 传 承 山 无 法 安 息 的 灵 魂 。她 很 欣 慰 并 不 是 所 有 的 修 士 都 死 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我 告 诉 薇 拉 我 会 摆 平 蕾 拉 在 传 承 山 无 法 安 息 的 灵 魂 。她 很 欣 慰 所 有 的 修 士 都 还 安 全 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText>薇 拉 死 后 ，她 失 踪 的 修 士 对 我 来 说 已 经 不 值 一 提 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

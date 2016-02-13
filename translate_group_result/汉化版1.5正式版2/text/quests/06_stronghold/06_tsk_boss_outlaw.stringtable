@@ -1,0 +1,43 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\06_stronghold\06_tsk_boss_outlaw</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>悬 赏 ：斯 莱 •克 莱 戴 尔 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>杀 掉 斯 莱 •克 莱 戴 尔 ，把 他 的 头 带 回 来 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>把 斯 莱 •克 莱 戴 尔 的 头 交 给 塞 德 努 亚 的 费 尔 根 典 狱 长 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>臭 名 昭 著 的 罪 犯 斯 莱 •克 莱 戴 尔 因 为 他 的 罪 行 而 被 判 死 刑 。他 和 他 的 同 伙 出 现 在 玛 格 岚 岔 口 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>斯 莱 •克 莱 戴 尔 和 他 的 同 伙 逃 脱 了 监 狱 ，并 在 玛 格 岚 岔 口 出 现 。如 果 我 能 带 回 他 的 头 证 明 这 个 男 人 死 了 ，我 就 可 以 获 得 奖 励 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>斯 莱 •克 莱 戴 尔 不 能 再 逍 遥 法 外 了 。我 只 需 要 带 他 的 头 回 去 找 费 尔 根 典 狱 长 ，他 会 给 我 奖 励 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 拿 到 了 斯 莱 •克 莱 戴 尔 的 赏 金 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

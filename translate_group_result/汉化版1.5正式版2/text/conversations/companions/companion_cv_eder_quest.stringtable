@@ -1,0 +1,581 @@
+﻿<StringTableFile>
+  <Name>conversations\companions\companion_cv_eder_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>104</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“那 个 古 老 的 通 魂 者 ……”他 摇 了 摇 头 咯 咯 的 笑 了 。“我 不 知 道 我 在 期 待 什 么 ，但 是 肯 定 不 是 那 样 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“你 说 你 有 一 些 事 要 问 他 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“呃 。。好 吧 现 在 确 实 有 点 尴 尬 。我 只 是 脑 子 里 突 然 有 了 个 很 蠢 的 想 法 ，搞 不 懂 我 怎 么 会 认 为 那 会 管 用 。”                    “有 趣 ，这 可 能 是 ，我 猜 ，这 几 年 来 第 一 次 我 充 满 希 望 ，至 少 现 在 我 摆 脱 掉 它 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“那 是 什 么 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“快 走 吧 ，我 不 喜 欢 拖 拖 拉 拉 的 ！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“不 用 感 觉 尴 尬 ，我 不 会 说 什 么 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“反 正 你 都 要 当 着 我 的 面 问 他 ，不 如 现 在 就 告 诉 我 好 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>他 叹 了 口 气 。“好 吧 ，世 界 总 是 公 平 的 ，你 也 确 实 带 我 去 见 他 了 。”                                                                                   “在 丰 饶 之 谷 流 传 的 关 于 我 哥 哥 沃 登 的 流 言 ，关 于 他 如 何 投 靠 怀 德 温 反 过 来 对 付 我 们 的 流 言 ，已 经 在 我 的 脑 海 里 萦 绕 许 久 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>“为 什 么 不 向 我 寻 求 帮 助 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>“我 不 认 为 那 样 会 有 用 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>“你 说 得 对 ，你 应 该 觉 得 尴 尬 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>“可 能 是 因 为 我 不 认 识 你 把 。相 信 一 个 自 称 是 通 魂 者 的 人 是 很 难 的 。”</DefaultText>
+      <FemaleText>"I dunno. Guess 'cause I didn't know you. It's hard to trust a stranger that says she's a Watcher."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>“因 为 我 知 道 隐 藏 在 深 处 的 真 相 ，通 魂 者 并 不 是 灵 媒 。”                                                                                            “我 只 是 这 样 想 ，这 个 想 法 也 让 我 觉 得 很 可 靠 ，我 并 不 想 失 去 它 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>“说 真 的 ，如 果 我 想 找 到 我 哥 哥 的 东 西 我 应 该 从 查 资 料 开 始 而 不 是 跟 着 通 魂 者 乱 跑 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>“我 觉 得 ……或 许 这 个 古 老 的 通 魂 者 知 道 我 哥 哥 是 怎 么 死 的 ，我 就 可 以 判 断 这 是 不 是 真 的 ，好 像 —我 不 确 定 ，他 可 以 看 透 我 的 灵 魂 或 者 什 么 东 西 。利 用 我 们 的 这 种 关 系 。”                                                                                                                              “早 就 告 诉 过 你 这 样 太 蠢 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>“关 于 沃 登 我 想 说 的 是 ，他 总 是 知 道 并 且 去 做 对 的 事 。那 时 他 决 定 为 迪 伍 德 反 抗 那 个 自 称 是 我 们 的 神 的 人 ，所 以 我 知 道 我 也 应 该 这 样 做 ，因 为 那 是 对 的 。”                                       听 到 传 言 说 他 在 为 雷 德 塞 拉 斯 效 力 时 死 了 ，这 让 我 很 焦 虑 。我 觉 得 我 好 像 站 错 了 队 。怀 德 温 所 筹 划 的 看 起 来 并 不 对 ，但 假 如 他 真 的 是 伊 奥 萨 斯 的 话 ……”他 摇 了 摇 头 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>“所 以 为 什 么 不 呢 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>“想 清 楚 这 点 花 了 你 十 五 年 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>“你 应 该 做 好 心 理 准 备 那 儿 可 能 没 有 关 于 你 哥 哥 死 亡 的 记 录 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>他 咧 嘴 一 笑 。“在 你 告 诉 我 关 于 通 魂 者 的 这 些 疯 狂 想 法 之 前 我 从 来 没 想 过 要 去 调 查 这 个 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>“反 正 也 不 会 更 糟 糕 了 。是 吗 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>艾 德 想 了 一 会 ，嘴 扭 到 了 一 边 ，扬 起 眉 毛 。“如 果 真 的 有 关 于 这 个 的 记 载 ，那 就 一 定 在 挑 战 港 。他 们 在 那 里 的 宫 殿 里 有 个 档 案 馆 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>“你 为 我 做 的 已 经 够 多 了 ，但 是 如 果 你 能 跟 我 去 一 起 拜 访 一 下 那 个 档 案 馆 的 话 ，呃 ……你 懂 的 。”“就 知 道 记 录 员 会 发 疯 试 图 来 杀 我 ，你 跟 我 一 起 在 里 面 让 我 感 觉 好 多 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>“就 是 这 儿 了 。我 哥 哥 的 最 后 一 战 。”                                                                                                                   艾 德 在 你 之 前 检 查 了 这 块 茂 盛 草 地 的 所 有 地 方 。按 着 他 的 嘴 唇 。                                                                                        “真 希 望 能 告 诉 你 我 在 找 什 么 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>“任 何 东 西 ，任 何 还 没 有 被 十 五 年 的 雨 水 掩 盖 起 来 的 东 西 。”                                                                                                   他 看 着 你 。“你 看 到 了 我 哥 哥 的 鬼 魂 ，你 给 我 了 这 个 鬼 差 事 。”他 眨 眨 眼 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>“喂 ，一 块 金 属 在 地 上 ，就 在 船 旁 边 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>“这 没 什 么 东 西 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>“我 觉 得 我 看 到 了 什 么 ——不 ，不 是 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>“这 什 么 都 没 有 。他 们 战 场 打 扫 的 真 不 错 。真 是 太 尴 尬 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>“嗨 ，这 个 太 新 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>“他 们 说 对 了 ，这 确 实 是 个 轻 松 的 活 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>河 滩 淤 泥 上 有 一 些 金 属 物 件 的 顶 端 伸 了 出 来 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>你 抓 紧 它 把 它 从 湿 土 里 拔 出 来 。                                                                                                                          
+
+这 东 西 是 个 金 属 ，半 圆 形 框 架 ，大 约 有 拳 头 那 么 大 。在 半 圆 的 连 接 点 上 ，锯 齿 状 的 点 伸 出 来 就 像 火 舌 或 者 升 起 的 太 阳 发 出 的 光 芒 一 样 。                                                                                                                                      
+
+在 太 阳 的 中 心 ，雕 刻 的 是 沃 拉 斯 植 物 的 轮 廓 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>“我 以 前 见 过 这 个 ，他 们 在 雷 德 塞 拉 斯 军 旗 的 顶 端 ，或 者 在 怀 德 温 活 着 的 时 候 在 棋 子 的 顶 端 。”                                                             他 从 你 手 里 拿 过 来 仔 细 的 看 ，在 手 里 翻 来 覆 去 。“这 确 实 是 个 发 现 ，只 是 不 确 定 有 什 么 用 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>“我 很 擅 长 这 些 物 件 ，可 能 会 从 里 面 发 现 点 什 么 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>“我 们 应 该 拿 去 给 专 家 看 看 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>“敦 里 德 间 谍 机 构 可 能 会 发 现 什 么 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>“咒 术 师 可 能 会 发 现 什 么 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>他 耸 耸 肩 。“是 个 想 法 ，很 多 人 可 能 都 碰 过 它 了 。扛 旗 手 在 很 多 地 方 都 是 个 光 荣 职 位 。我 听 说 很 多 雷 德 塞 拉 斯 士 兵 都 会 为 了 它 奋 力 战 斗 。”                                            “并 没 有 太 大 希 望 ，但 是 我 们 毕 竟 还 是 走 运 的 找 到 了 一 些 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>他 把 物 件 递 给 你 。                                                                                                                                     “让 我 们 看 看 你 能 发 现 什 么 。”                                                                                                                    “最 好 别 瞎 编 ，否 则 某 天 醒 来 你 会 发 现 被 窝 里 有 蛇 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>“所 以 我 猜 我 们 又 绕 回 到 挑 战 港 了 ，除 非 我 们 在 回 去 的 路 上 发 现 了 我 哥 哥 的 骨 头 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>“当 然 ，这 样 做 的 话 太 简 单 了 ，如 果 你 的 朋 友 陶 斯 没 有 离 开 把 所 有 我 们 认 识 的 咒 术 师 都 杀 了 的 话 。。”                                                                            “当 然 ，在 双 生 木 城 那 里 会 有 一 些 人 。咒 术 师 可 能 就 是 从 那 里 开 始 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>你 把 金 属 物 件 放 在 一 只 手 上 ，用 另 一 只 手 握 紧 艾 德 的 手 ，没 有 看 他 不 确 定 的 眼 神 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>一 个 声 音 从 嘈 杂 中 显 出 ，粗 重 热 情 。一 个 比 艾 德 更 亮 的 阴 影 ，但 是 毫 无 疑 问 是 同 一 类 型 的 。                                                                       你 看 不 到 它 的 主 人 ，但 是 他 的 旅 途 被 铭 刻 在 了 金 属 物 件 的 点 和 雕 刻 中 。在 你 的 脑 海 中 ，它 在 你 面 前 像 一 条 道 路 一 样 同 时 向 南 方 和 北 方 展 开 。向 南 方 的 丰 饶 之 谷 ，往 北 方 跨 越 崎 岖 的 地 形 经 过 迪 伍 德 前 往 雷 德 塞 拉 斯 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>你 追 根 探 源 ，比 你 能 看 到 的 还 要 远 。在 平 原 和 山 丘 间 滑 翔 ，来 到 丰 饶 之 谷 中 一 座 只 有 茅 草 屋 顶 和 肮 脏 楼 梯 的 一 间 房 的 小 屋 子 。道 路 在 这 里 变 得 不 清 楚 ，时 间 上 的 距 离 使 得 影 像 变 得 模 糊 ，细 节 看 的 很 勉 强 。                                                                                                                   从 丰 饶 之 谷 它 顺 着 一 条 通 往 迈 德 默 大 桥 的 道 路 ，到 达 挑 战 港 的 大 门 后 急 速 转 向 ，向 北 以 一 条 直 线 前 往 雷 德 塞 拉 斯 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>道 路 通 往 一 座 阿 德 塞 拉 斯 城 市 ，典 型 的 阿 德 瑞 帝 国 风 格 ，豪 华 而 又 严 肃 。道 路 在 街 道 中 蜿 蜒 前 行 ，沿 着 宏 伟 的 台 阶 向 上 进 入 一 座 气 势 恢 宏 的 建 筑 ，穿 过 尖 拱 门 来 到 王 宫 大 殿 。                                                                                                                                        在 王 座 上 坐 着 一 个 人 。光 头 闪 着 刺 眼 的 光 。当 他 盯 着 你 的 时 候 ，光 吞 噬 了 其 他 的 一 切 。他 的 声 音 仿 佛 雷 霆 ，但 是 无 法 分 辨 清 楚 到 底 说 了 什 么 ，只 有 无 尽 的 回 声 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>光 和 声 逐 渐 消 失 ，道 路 折 回 带 你 来 到 一 处 栅 栏 ，之 后 向 南 ，向 迪 伍 德 前 进 ，沿 途 纷 争 不 断 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>“战 场 的 雕 刻 很 生 动 。你 看 到 一 个 倒 下 的 士 兵 手 中 紧 握 着 顶 部 有 着 铁 太 阳 的 雷 德 塞 拉 斯 军 旗 。你 看 到 一 位 穿 着 雷 德 塞 拉 斯 盔 甲 的 年 轻 人 冲 向 军 旗 拿 起 它 ，他 有 着 和 艾 德 一 样 的 黄 色 头 发 。你 一 直 跟 随 着 的 道 路 在 他 脚 下 清 晰 可 见 。当 他 的 手 摩 擦 着 军 旗 时 你 能 理 解 他 那 快 速 模 糊 的 想 法 ，他 想 到 了 神 ，他 的 国 家 和 远 离 此 地 的 弟 弟 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>一 瞬 间 ，这 些 想 法 和 那 个 年 轻 人 消 失 了 ，军 旗 交 给 了 另 外 一 名 士 兵 。你 又 顺 着 道 路 往 南 ，路 最 终 消 失 在 克 里 亚 班 ·雷 里 格 的 阴 影 下 。                                            
+
+你 睁 开 眼 睛 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>“能 帮 你 吗 ？你 看 起 来 像 很 忙 的 样 子 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>“你 兄 弟 转 去 雷 德 塞 拉 斯 之 前 到 了 挑 战 港 。在 那 里 他 遇 到 了 怀 德 温 ，然 后 就 入 伍 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>艾 德 睁 大 了 眼 睛 。“他 跟 怀 德 温 说 了 什 么 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>“怀 德 温 的 脑 子 像 探 照 灯 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>“我 不 知 道 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>【撒 谎 】“怀 德 温 说 信 得 过 他 。你 兄 弟 很 赞 同 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>“就 知 道 是 这 样 。我 和 沃 登 听 多 了 他 起 义 的 故 事 ，知 道 不 是 吹 的 。并 不 是 说 他 是 伊 奥 萨 斯 。可 能 是 法 师 搞 的 鬼 。”
+
+“重 要 的 是 他 们 谈 了 什 么 。他 们 怎 么 说 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>“不 ，这 说 不 通 。他 没 理 由 相 信 怀 德 温 。
+
+“那 里 出 来 什 么 事 ？他 到 底 说 了 什 么 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>艾 德 皱 起 眉 头 。“这 可 不 好 笑 。我 兄 弟 摸 过 那 个 金 属 太 阳 。你 看 到 他 往 哪 里 去 了 。他 能 跟 怀 德 温 说 什 么 ？我 兄 弟 为 什 么 要 为 雷 德 塞 拉 斯 而 战 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>“我 真 的 不 知 道 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>“我 就 知 道 这 么 多 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>“你 聋 了 吗 ？我 说 了 我 不 知 道 ！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>艾 德 长 大 了 嘴 ，眼 光 呆 滞 ，眉 头 皱 了 起 来 ，咬 紧 下 唇 。
+
+他 的 声 音 几 不 可 闻 。
+
+“看 来 就 是 这 样 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>“我 们 会 搞 清 楚 他 为 什 么 这 么 做 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>“本 来 就 没 希 望 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>“我 就 知 道 这 是 在 浪 费 时 间 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>“我 不 知 道 。”艾 德 的 表 情 变 得 麻 木 没 有 生 气 。
+
+“我 们 该 怎 么 做 ？寻 找 更 多 的 战 争 遗 物 ？找 到 这 个 已 经 很 幸 运 了 。
+
+“与 他 一 同 作 战 的 士 兵 早 就 死 了 。那 场 战 斗 就 是 屠 杀 。不 管 伊 奥 萨 斯 知 道 什 么 ，他 不 肯 说 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>他 慢 慢 地 点 了 点 头 ，凝 视 天 空 。他 的 表 情 变 得 麻 木 而 没 有 生 气 。
+
+“这 真 好 笑 。你 可 以 用 各 种 理 由 来 骗 自 己 ，最 后 却 没 有 什 么 不 同 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>“我 们 可 以 走 了 。我 已 经 看 到 了 想 看 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>“希 望 我 在 战 场 上 没 有 显 得 没 心 没 肺 的 。你 尽 力 最 大 努 力 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>“我 没 觉 得 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>“你 负 担 太 重 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>“这 还 差 不 多 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>“这 对 你 很 重 要 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>他 懊 恼 地 笑 了 。“没 想 到 只 差 一 步 。
+
+“我 还 以 为 我 终 于 能 找 到 答 案 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>“当 然 这 很 蠢 。我 为 什 么 要 找 答 案 ？伊 奥 萨 斯 信 徒 多 的 很 ，不 知 道 他 们 的 神 是 不 是 吹 出 来 的 。
+
+“可 是 ，还 是 忍 不 住 要 回 头 看 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>艾 德 眼 光 呆 滞 ，看 着 远 处 无 形 无 名 的 东 西 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>“你 的 兄 弟 会 怎 么 说 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>“你 做 了 该 做 的 事 。即 使 沃 德 温 就 是 伊 奥 萨 斯 ，他 的 行 为 是 恶 意 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>“看 来 你 的 确 是 错 信 了 。就 算 是 用 武 力 ，他 也 会 统 一 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>“你 错 就 错 在 等 别 人 来 告 诉 你 什 么 才 是 对 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>艾 德 眨 了 眨 眼 ，沉 思 着 。
+
+“他 会 告 诉 我 要 相 信 他 。”
+
+他 扬 起 眉 毛 ，嘴 角 上 翘 。“当 然 如 果 我 知 道 他 是 怎 么 想 的 就 容 易 多 了 。不 过 也 许 我 不 必 知 道 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>“作 为 神 他 的 行 为 不 够 正 义 。所 以 我 和 沃 等 认 为 怀 德 温 是 冒 牌 的 。
+
+“没 想 到 我 的 神 真 的 要 伤 害 自 己 人 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>“我 想 如 果 他 赢 了 很 多 事 都 会 更 好 。除 秽 运 动 不 会 发 生 。丰 饶 之 谷 会 是 ……不 一 样 的 。至 少 树 木 会 更 好 看 。甚 至 我 的 家 庭 还 会 在 那 里 。
+
+“也 许 不 会 有 遗 症 。如 果 他 们 知 道 会 发 生 什 么 ，迪 伍 德 人 会 排 着 队 投 降 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>他 眯 起 眼 想 了 想 。
+
+他 笑 起 来 。“我 大 概 永 远 都 不 会 知 道 了 ，我 不 妨 想 些 高 兴 的 事 。
+
+“崇 拜 一 个 亡 神 的 好 处 就 是 没 有 惩 罚 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>“是 该 好 好 想 想 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>他 拍 拍 你 的 肩 膀 。“我 想 你 会 一 样 很 清 楚 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>“那 个 老 通 魂 者 ……你 见 过 他 了 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>“他 疯 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>“全 部 ？”他 半 带 希 望 地 看 着 你 笑 着 说 。
+
+没 有 得 到 回 答 ，他 明 白 地 点 点 头 。“难 怪 我 们 没 有 他 的 消 息 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>你 和 艾 德 用 双 手 在 泥 里 挖 ，直 到 把 东 西 取 出 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>你 用 双 手 在 泥 里 挖 ，直 到 把 东 西 取 出 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>你 双 手 握 住 ，把 它 从 泥 里 拉 出 来 。
+
+这 东 西 是 个 半 圆 形 的 钢 画 ，大 约 拳 头 大 小 。半 圆 上 均 衡 分 布 着 突 起 ，像 火 舌 ，像 初 升 太 阳 的 光 芒 。
+
+在 太 阳 的 中 心 刻 着 沃 拉 斯 植 物 的 剪 影 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>【给 哀 伤 之 母 看 】“能 帮 我 们 看 看 吗 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>“我 感 谢 你 的 提 议 ，不 过 我 不 认 为 这 个 陌 生 的 和 蔼 女 人 恰 巧 是 个 咒 术 师 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>哀 伤 之 母 看 着 你 。“我 会 尽 力 。不 过 ，一 旦 我 找 到 线 索 ，我 需 要 守 护 者 的 帮 助 ……来 确 定 灵 魂 所 属 。
+
+她 转 向 艾 德 ，伸 出 手 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>艾 德 不 由 自 主 地 把 金 属 太 阳 递 给 她 。
+
+哀 伤 之 母 一 手 拿 着 金 属 太 阳 ，一 手 拉 着 你 ，你 脑 中 能 感 觉 到 她 让 你 放 松 。“集 中 思 想 。”她 说 ，她 的 话 语 如 在 无 尽 地 深 渊 中 回 荡 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>你 闭 上 眼 集 中 思 想 。你 脑 海 中 太 阳 十 分 明 亮 ，带 着 一 波 波 过 往 经 历 的 温 暖 ，和 回 忆 思 绪 的 杂 音 ——关 于 战 斗 ，关 于 信 仰 ，关 于 家 。
+
+你 在 各 种 声 音 和 思 绪 之 间 漫 游 ，追 随 艾 德 醒 目 的 灵 魂 去 寻 找 他 的 兄 弟 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>“我 们 不 必 再 等 了 。我 的 目 的 达 到 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>他 看 着 韦 伯 夫 人 。“这 就 够 了 。抱 歉 浪 费 你 的 时 间 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>韦 伯 夫 人 没 有 说 话 。她 向 他 微 微 点 头 ，撅 起 嘴 ，但 并 不 生 气 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>“我 ……希 望 能 帮 你 更 多 。我 很 同 情 你 。往 往 一 件 东 西 给 我 们 想 知 道 的 答 案 ，结 果 会 令 人 失 望 。
+
+“我 的 档 案 里 有 很 多 没 有 了 结 的 案 子 。不 顺 的 日 子 里 ，我 常 想 过 离 开 。把 我 的 能 力 用 于 其 它 ……不 那 么 有 挫 败 感 的 事 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>“如 果 有 语 言 能 填 补 这 空 虚 ……最 好 是 ，消 除 他 的 怀 疑 ，他 的 疑 问 。
+
+“我 很 后 悔 我 的 回 答 只 是 让 他 的 痛 苦 更 深 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>“在 我 的 神 需 要 我 的 时 候 ，我 可 能 背 叛 了 他 。我 永 远 只 知 道 这 些 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>“我 ……希 望 能 帮 你 更 多 。我 很 同 情 你 。往 往 一 件 东 西 给 我 们 想 知 道 的 答 案 ，结 果 会 令 人 失 望 。
+
+“我 的 档 案 里 有 很 多 没 有 了 结 的 案 子 。不 顺 的 日 子 里 ，我 常 想 过 离 开 。把 我 的 能 力 用 于 其 它 ……不 那 么 有 挫 败 感 的 事 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

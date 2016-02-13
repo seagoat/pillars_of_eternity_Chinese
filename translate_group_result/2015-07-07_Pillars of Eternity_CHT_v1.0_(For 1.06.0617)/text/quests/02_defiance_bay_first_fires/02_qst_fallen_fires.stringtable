@@ -1,0 +1,97 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\02_defiance_bay_first_fires\02_qst_fallen_fires</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>17</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>信仰灰燼</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>從菲爾加的幻境去到洞穴</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>找到馬格嵐的代幣。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>把「火花」交給菲爾加。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>菲爾加是馬格嵐的無名奉獻著，她的信心被反抗灣的無魂兒危機動搖了。最終，她無法再維持城市的生活。它們是成功與保護的象徵，現在它們比任何時候都重要。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>菲爾加看到一個洞穴，那裡有五顏六色的水池，還有向上流的瀑布。他堅信那裡的某些東西可以恢復她的信心，也堅信有些東西會殺了她。
+
+如果我能幫他找到那個東西，她或許就可以重新擔起她的職責，重新燃起反抗灣的神聖之火。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10006</ID>
+			<DefaultText>我在瀑布後面發現了一個洞穴。那裡冒著熱氣，但是菲爾加確定我會在這裡找到她女神的蹤跡。
+
+她也很肯定我會遇到一些十分危險的東西。我要小心點。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10007</ID>
+			<DefaultText>菲爾加都說對了- 我發現了一個發光的，奇怪的石頭，旁邊有一個巨大的偽龍在看守。那怪物似乎對這「火花」很崇敬。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>杜蘭斯說那個發光的石頭其實是聖錘炸彈的碎片，是個在馬格嵐神恩的幫助下完成的強大武器。我能明白這東西為什麼對菲爾加意義重大。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>菲爾佳不知道在哪裡可以找到她在幻象中看到的的地方，但是探險大廳裡的人也許知道。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>我發現了一副指向灼熱瀑布的地圖。雖然將會是一個漫長的旅程，但至少我知道它在哪裡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>十二人眾的維南向我展示了可以找到灼熱瀑布的地方，正是菲爾佳在她的幻象裡看到的地方。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我提醒菲爾佳聖錘碎片本身就是瑪格嵐威能和奇跡的證據。菲爾佳聽了我的話之後振作了起來，並且有能力重燃神聖之火了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我提醒菲爾佳瑪格嵐讓她的追隨者進行了試驗，而懷德溫的遺症正是這樣的試驗。菲爾佳聽了我的話之後振作了起來，並且有能力重燃神聖之火了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>聖錘碎片對菲爾佳毫無意義，因為她根本就沒有去尋找過它。菲爾佳意識到她證明自己配不上瑪格嵐的同時也把她的負擔推給了我。她最終將會不再扮演一個無名奉獻者了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>儘管菲爾佳有聖錘炸彈的碎片，但它並沒有恢復她的信仰。對她，我也束手無策了。她最終將會不再扮演一個無名奉獻者了。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText>此任務中的某個重要人物已死亡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

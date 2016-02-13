@@ -1,0 +1,151 @@
+<StringTableFile>
+  <Name>quests\00_dyrford_beodmar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>本地问题</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>前往Clíabán Ruíllaig</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>找到铁布兰德</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>击败雇佣兵。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>打开吊门。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>返回博德玛</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>在迪佛德的村子，接引之神贝拉瑟的神庙里，我遇见了一名年长的神父，叫做博德玛。博德玛雇了我去阻止雇佣兵，叫做铁布兰德。
+
+很显然雇佣兵想去探索本地北方的英格维斯废墟，叫做Clíabán Ruíllaig。博德玛担心本地的格兰方瑟部落会把这个当作挑衅，对迪伍德的居民进行报复。
+
+他也要我劝一劝他以前的助手赛尔比。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>我需要前往Clíabán Ruíllaig废墟。博德玛在我地图上标出了那个地方。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>我找到了进入博德玛的路。我要找到雇佣兵并阻止他们。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>铁印佣兵团已经被收拾掉了。但不幸的是，赛尔比不听劝告，结果死在了这场乱战之中。我要回迪佛德，把这个消息告诉博德玛。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>一支格兰方瑟部队守卫着克里亚班·雷里格的入口。我必须绕过他们才能继续前进。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>我找到了铁印佣兵团。在一阵简短的对峙后，他们发起了进攻。我得杀光他们才能完成使命。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>一支格兰方瑟部队看到我离开了克里亚班·雷里格。他们愤怒地发起了进攻。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>格兰方瑟的士兵已经被杀掉了。这样就能确保戴尔·布莱斯特部落民与迪佛德村民之间的和平。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>赛尔比和铁印是一群很难对付的佣兵，但他们仍然不够厉害。我消灭了整个铁印佣兵团。在我离开时，一队奉命前来剿灭佣兵团的格兰方瑟士兵拦住了我。很不幸，谈判以失败告终，他们发誓要报复迪佛德。当博德玛听到这个消息后，他勃然大怒。他拒绝支付任何报酬和奖金，就打发我上路，同时宣称正是我的愚蠢行径为这个村庄带来了灭顶之灾。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>赛尔比和铁印是一群很难对付的佣兵，但他们仍然不够厉害。我消灭了整个铁印佣兵团。但与博德玛的预测相反，我并没有在克里亚班遇到任何格兰方瑟人。博德玛对此非常高兴，因为这就意味着他的村子不会成为任何格兰方瑟部落的攻击目标。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>赛尔比和铁印是一群很难对付的佣兵，但他们仍然不够厉害。我消灭了整个铁印佣兵团。我不能把我遇到格兰方瑟人的事情告诉博德玛。当我离开废墟时，我确定避开了他们。博德玛对真实情况一无所知，尽管这可能会让小镇陷入危险的境地，但我还是卷走了一大笔钱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>赛尔比和铁印是一群很难对付的佣兵，但他们仍然不够厉害。我消灭了整个铁印佣兵团。在我离开时，一队奉命前来剿灭佣兵团的格兰方瑟士兵拦住了我。经过交涉，他们赞同了我的行为并决定对我以礼相待。当我把这个消息告诉博德玛后，他惊讶得合不拢嘴。很显然，格兰方瑟人一向以他们的固执闻名，而对我而言，能和他们达成协议就意味着我拥有极强的威势。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>赛尔比和铁印是一群很难对付的佣兵，但他们仍然不够厉害。 我消灭了整个铁印佣兵团。我们在路上遇到的格兰方瑟人不愿让步，结果他们也倒在了我的剑下。考虑到没有留下一个活口，博德玛非常确定，迪佛德不会遭受任何报复性回击。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

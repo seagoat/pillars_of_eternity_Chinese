@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\13_twin_elms_elms_reach\13_cv_tamrwn</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>21</EntryCount>
@@ -90,7 +89,7 @@ Tamrwn opens his eyes once more and looks Hiravias up and down before wincing, a
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"I would not normally advise one to speak with the circle at Blood Sands but... given your circumstances, the Ethik Nôl may prove of insightful."
+      <DefaultText>"I would not normally advise one to speak with the circle at Blood Sands but... given your circumstances, the Ethik N&#244;l may prove of insightful."
 
 He turns and, with he eyes still closed, points to the northwest. "Read the stone slabs carved by the druids of the Blood Sands. There are answers to be found, as well as more questions - but you must explore them for yourself."</DefaultText>
       <FemaleText />

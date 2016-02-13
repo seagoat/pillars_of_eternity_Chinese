@@ -1,0 +1,53 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\critical_path\act_2\cp_qst_ruins</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>9</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>废 墟 里 的 道 路 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>去 沃 迪 卡 的 神 殿 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>找 到 进 入 沃 迪 卡 神 殿 的 路 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>弄 清 楚 暗 灰 之 钥 要 干 什 么 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>废 墟 里 的 道 路 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>沃 迪 卡 神 殿 坐 落 在 反 抗 湾 的 最 初 之 火 地 区 。我 得 先 去 那 里 看 看 ，开 始 对 暗 灰 之 钥 的 调 查 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>沃 迪 卡 神 殿 已 是 一 片 废 墟  - 至 少 在 地 面 上 已 经 是 废 墟 了 。我 看 到 灵 魂 顺 着 楼 梯 向 下 走 走 到 了 神 殿 下 面 的 一 个 房 间 。楼 梯 对 我 是 不 可 用 的 ，不 过 在 反 抗 湾 的 地 下 墓 穴 之 中 或 许 还 会 有 另 一 条 通 往 神 殿 的 路 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我 到 达 了 沃 迪 卡 神 殿 的 地 下 部 分 。现 在 我 要 调 查 这 个 地 方 ，弄 清 楚 暗 灰 之 钥 正 在 反 抗 湾 做 什 么 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>我 假 装 成 了 暗 灰 之 钥 的 雇 佣 兵 ，所 以 我 可 以 在 那 里 自 由 行 动 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

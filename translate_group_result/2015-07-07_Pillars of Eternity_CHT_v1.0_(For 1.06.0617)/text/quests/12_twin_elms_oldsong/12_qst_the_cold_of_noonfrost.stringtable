@@ -1,0 +1,105 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\12_twin_elms_oldsong\12_qst_the_cold_of_noonfrost</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>18</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>冰之獄</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>進入Noonfrost的古老樂曲區。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>找到阿爾瓦。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>從Noonfrost釋放阿爾瓦。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>返回到Maw中的拉爾哈身邊。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>返回Maw中的拉爾哈。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>在古老樂曲區的湖自從一群臉色蒼白的精靈的到來後便開始結冰。尖牙的一位成員拉爾哈發派她的妹妹阿爾瓦前往調查。
+
+阿爾瓦去Noonfrost神殿尋找答案。而直到現在她還沒回來。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>尖牙的一個探子阿爾瓦在Noonfrost的湖上的神殿中失蹤了。拉爾哈曾派阿爾瓦去調查殿裡的寒氣。
+
+拉爾哈認為最近來到神廟的蒼白的精靈可能是這個問題的原因。不管怎麼說，我可能無法在Noonfrost找到阿爾瓦-或她失蹤的證據。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我找到了Noonfrost。格拉姆法倫有明顯的存在的痕跡。
+
+如果他們對阿爾瓦的失蹤負有責任，我懷疑他們是不會承認的。不過，我可能能夠親自跟蹤她。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>阿爾瓦被鎖在Noonfrost後部邊上的一個房間裡。她告訴我，格拉姆法倫在她試圖溜走的時候抓住了他。她想讓我幫助她逃跑。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>阿爾瓦逃出了Noonfrost。拉爾哈會高興見到她的，但她也想要聽到我對殿裡發生的事的報告。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>阿爾瓦死前依然沒能從Noonfrost逃脫。我必須把這個消息告訴拉爾哈。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>我告訴她還不到安全離開的時候。如果蒼白精靈在她逃走時抓住他的話可不是什麼好事，所以要麼得找出一條小道，要麼得找到某種方式來與他們的領導人進行談判。然而，他們好像並不想讓我見到他。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>格拉斯瓦爾給了我釋放阿爾瓦的權限。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我開闢了一條捷徑，使阿爾瓦能從Noonfrost逃脫。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>阿爾瓦死前依然沒能從Noonfrost逃脫。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我和蒼白的精靈的首領格拉斯瓦爾做了個交易，以確保阿爾瓦被釋放。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>此任務中的某個重要人物已死亡。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
+

@@ -1,0 +1,28 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\01_defiance_bay_copperlane\01_cv_defiance_bay_citizen_male_01</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“我 的 邻 居 一 直 在 哼 唱 着 关 于 他 的 可 怕 歌 谣 。我 有 必 要 跟 守 卫 说 一 下 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“看 起 来 似 乎 你 自 己 就 能 搞 定 。探 险 者 中 心 最 近 在 招 募 人 员 ，你 知 道 吗 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“如 果 放 聪 明 点 ，你 最 好 避 开 任 何 关 于 德 梅 尼 尔 家 族 的 事 情 。” </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>“如 果 你 的 口 味 不 是 很 挑 的 话 ，在 布 拉 肯 伯 里 区 也 有 一 个 旅 馆 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

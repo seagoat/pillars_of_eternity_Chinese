@@ -1,0 +1,28 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\00_dyrwood\00_bs_cultists_neutral</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>「這 些 城 主 在 這 之 後 一 定 會 提 放 他 們 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>「懷 蒙 德 是 個 很 沒 有 遠 見 的 人 。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>「默 默 為 陰 謀 家 祈 禱 ，兄 弟 們 。」</DefaultText>
+			<FemaleText>「默 默 為 陰 謀 家 祈 禱 ，姐 妹 們 。」</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>「想 想 看 ，像 哈 羅 德 這 樣 的 人 都 能 逃 脫 罪 行 ……」</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

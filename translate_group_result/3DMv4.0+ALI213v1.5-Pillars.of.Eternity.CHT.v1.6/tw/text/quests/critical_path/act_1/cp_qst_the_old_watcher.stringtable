@@ -1,0 +1,73 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\critical_path\act_1\cp_qst_the_old_通 魂 者 </Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>13</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>老 通 魂 者 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>前 往 塞 德 努 亞 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>進 入 堡 壘 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>找 到 馬 爾 瓦 德 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>卡 爾 達 拉 ‧德 ‧貝 蘭 茲 是 萊 德 裡 克 領 主 不 幸 的 受 害 者 之 一 ，他 的 靈 魂 帶 領 我 前 往 賽 德 努 亞 ，在 那 我 會 見 到 一 個 名 叫 馬 爾 瓦 德 的 人 。卡 爾 達 拉 說 我 變 成 了 一 個 所 謂 的 「通 魂 者 」，和 這 個 馬 爾 瓦 德 一 樣 。也 許 他 能 告 訴 我 發 生 在 我 身 上 的 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>塞 德 努 亞 在 豐 饒 之 谷 東 南 方 ，在 黑 草 甸 另 一 側 。如 果 我 想 和 馬 爾 瓦 德 談 話 就 必 須 去 那 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>塞 德 努 亞 規 模 之 大 令 人 印 象 深 刻 ，但 也 僅 僅 如 此 而 已 ……這 堡 壘 已 經 破 爛 不 堪 。但 如 果 老 馬 爾 瓦 德 仍 然 是 這 個 地 方 的 領 主 ，那 麼 我 可 能 會 找 到 他 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>在 堡 壘 內 部 ，我 發 現 了 一 個 埋 葬 在 大 廳 王 座 上 的 鬼 魂 。她 打 開 了 通 往 堡 壘 深 處 的 路 ，希 望 我 能 在 下 面 找 到 馬 爾 瓦 德 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>堡 壘 似 被 遺 棄 了 。這 裡 有 和 豐 饒 之 谷 一 樣 的 鬼 魂 ，還 有 生 物 。看 來 如 果 我 想 找 到 答 案 還 要 進 一 步 探 索 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>馬 爾 瓦 德 在 談 話 後 心 生 敵 意 並 突 然 攻 擊 了 我 。我 別 無 選 擇 ，只 能 殺 了 他 。他 讓 我 想 了 很 多 。他 說 我 的 靈 魂 可 能 和 他 一 樣 向 逝 去 的 生 命 覺 醒 了 。他 指 引 我 前 往 「反 抗 之 城 」，那 裡 可 能 會 有 暗 灰 之 鑰 的 成 員 ——就 是 這 個 組 織 喚 醒 了 我 體 內 的 痛 苦 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>馬 爾 瓦 德 在 談 話 後 心 生 敵 意 並 突 然 攻 擊 了 我 。我 別 無 選 擇 ，只 能 殺 了 他 。我 將 他 的 靈 魂 附 在 賽 德 努 亞 堡 壘 之 上 使 其 會 成 為 永 久 的 守 護 者 。他 讓 我 想 了 很 多 。他 說 我 的 靈 魂 可 能 和 他 一 樣 向 逝 去 的 生 命 覺 醒 了 。馬 爾 瓦 德 可 能 是 說 做 一 名 靈 魂 覺 醒 的 通 魂 者 要 付 出 沉 重 的 代 價 。他 指 引 我 前 往 「反 抗 之 城 」，那 裡 可 能 會 有 暗 灰 之 鑰 的 成 員 ——就 是 這 個 組 織 喚 醒 了 我 體 內 的 痛 苦 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>馬 爾 瓦 德 在 談 話 後 心 生 敵 意 並 突 然 攻 擊 了 我 。我 別 無 選 擇 ，只 能 殺 了 他 。我 從 他 的 鬼 魂 中 了 解 到 很 多 ，比 如 下 面 的 某 個 地 方 -最 底 層 的 某 種 密 室 ，連 接 著 一 個 帶 有 太 陽 形 狀 桌 子 的 圓 形 房 間 。他 讓 我 想 了 很 多 。他 說 我 的 靈 魂 可 能 和 他 一 樣 向 逝 去 的 生 命 覺 醒 了 。馬 爾 瓦 德 可 能 是 說 做 一 名 靈 魂 覺 醒 的 通 魂 者 要 付 出 沉 重 的 代 價 。他 指 引 我 前 往 「反 抗 之 城 」，那 裡 可 能 會 有 暗 灰 之 鑰 的 成 員 ——就 是 這 個 組 織 喚 醒 了 我 體 內 的 痛 苦 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText>馬 爾 瓦 德 在 談 話 後 心 生 敵 意 並 突 然 攻 擊 了 我 。我 別 無 選 擇 ，只 能 殺 了 他 。我 釋 放 了 他 的 靈 魂 ，讓 他 脫 離 自 己 的 苦 難 。他 讓 我 想 了 很 多 。他 說 我 的 靈 魂 可 能 和 他 一 樣 向 逝 去 的 生 命 覺 醒 了 。馬 爾 瓦 德 可 能 是 說 做 一 名 靈 魂 覺 醒 的 通 魂 者 要 付 出 沉 重 的 代 價 。他 指 引 我 前 往 「反 抗 之 城 」，那 裡 可 能 會 有 暗 灰 之 鑰 的 成 員 ——就 是 這 個 組 織 喚 醒 了 我 體 內 的 痛 苦 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

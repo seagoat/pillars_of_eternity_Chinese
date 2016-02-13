@@ -1,0 +1,247 @@
+<StringTableFile>
+  <Name>conversations\prototype_2\si_selected_member_proto</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>48</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一条墙体裂缝从底部一直蔓延到了顶部，一阵清风穿过它透了过来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[推动墙体。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[离开。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>使劲儿推，裂缝就会扩散开。最后，你感觉到这座古老的墙向你投降了，哗啦一声坍塌下来。一个阴暗的圆形房间显露出来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>你用尽全身的力气去推，但石墙纹丝不动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>你花了几分钟凿开石块。最后一下，石头终于松动了，清出了一条刚好能穿过的缝隙。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[使用锤子和凿子，凿开松动的墙壁] </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>谁来推墙？</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Slot 0]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Slot 1]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Slot 2]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Slot 3]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Slot 4]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Slot 5]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Slot 1] {if Male &amp; Might &gt; 16}用尽全力使劲儿推，裂缝就会扩散开。最后，墙壁哗啦一声坍塌下来。一个阴暗的圆形房间显露出来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Slot 1], {if Female &amp; Might &gt; 16}用尽全力使劲儿推，裂缝就会扩散开。最后，墙壁哗啦一声坍塌下来。一个阴暗的圆形房间显露出来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Slot 1] {if Male &amp; Might &lt; 16}用尽全力使劲儿推，但墙依然纹丝不动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Slot 1] {if Female &amp; Might &lt; 16}用尽全力使劲儿推，但墙依然纹丝不动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Slot 2] {if Male &amp; Might &gt; 16}用尽全力使劲儿推，裂缝就会扩散开。最后，墙壁哗啦一声坍塌下来。一个阴暗的圆形房间显露出来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Slot 2], {if Female &amp; Might &gt; 16}用尽全力使劲儿推，裂缝就会扩散开。最后，墙壁哗啦一声坍塌下来。一个阴暗的圆形房间显露出来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Slot 2] {if Male &amp; Might &lt; 16}用尽全力使劲儿推，但墙依然纹丝不动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Slot 2] {if Female &amp; Might &lt; 16}用尽全力使劲儿推，但墙依然纹丝不动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Slot 3] {if Male &amp; Might &gt; 16}用尽全力使劲儿推，裂缝就会扩散开。最后，墙壁哗啦一声坍塌下来。一个阴暗的圆形房间显露出来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Slot 3], {if Female &amp; Might &gt; 16}用尽全力使劲儿推，裂缝就会扩散开。最后，墙壁哗啦一声坍塌下来。一个阴暗的圆形房间显露出来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Slot 3] {if Male &amp; Might &lt; 16} 用尽全力使劲儿推，但墙依然纹丝不动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Slot 3] {if Female &amp; Might &lt; 16}用尽全力使劲儿推，但墙依然纹丝不动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Slot 4] {if Male &amp; Might &gt; 16}用尽全力使劲儿推，裂缝就会扩散开。最后，墙壁哗啦一声坍塌下来。一个阴暗的圆形房间显露出来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Slot 4], {if Female &amp; Might &gt; 16}用尽全力使劲儿推，裂缝就会扩散开。最后，墙壁哗啦一声坍塌下来。一个阴暗的圆形房间显露出来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Slot 4] {if Male &amp; Might &lt; 16} 用尽全力使劲儿推，但墙依然纹丝不动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Slot 4] {if Female &amp; Might &lt; 16}用尽全力使劲儿推，但墙依然纹丝不动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Slot 5] {if Male &amp; Might &gt; 16}用尽全力使劲儿推，裂缝就会扩散开。最后，墙壁哗啦一声坍塌下来。一个阴暗的圆形房间显露出来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Slot 5], {if Female &amp; Might &gt; 16} 用尽全力使劲儿推，裂缝就会扩散开。最后，墙壁哗啦一声坍塌下来。一个阴暗的圆形房间显露出来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Slot 5] {if Male &amp; Might &lt; 16} 用尽全力使劲儿推，但墙依然纹丝不动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Slot 5] {if Female &amp; Might &lt; 16} 用尽全力使劲儿推，但墙依然纹丝不动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Slot 0] {if Male &amp; Might &gt; 16}用尽全力使劲儿推，裂缝就会扩散开。最后，墙壁哗啦一声坍塌下来。一个阴暗的圆形房间显露出来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Slot 0], {if Female &amp; Might &gt; 16}用尽全力使劲儿推，裂缝就会扩散开。最后，墙壁哗啦一声坍塌下来。一个阴暗的圆形房间显露出来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Slot 0] {if Male &amp; Might &lt; 16}用尽全力使劲儿推，但墙依然纹丝不动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Slot 0] {if Female &amp; Might &lt; 16} 用尽全力使劲儿推，但墙依然纹丝不动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>使劲儿推，裂缝就会扩散开。最后，你感觉到这座古老的墙向你投降了，哗啦一声坍塌下来。一个阴暗的圆形房间显露出来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>你用尽全身的力气去推，但石墙纹丝不动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>使劲儿推，裂缝就会扩散开。最后，你感觉到这座古老的墙向你投降了，哗啦一声坍塌下来。一个阴暗的圆形房间显露出来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>你用尽全身的力气去推，但石墙纹丝不动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>使劲儿推，裂缝就会扩散开。最后，你感觉到这座古老的墙向你投降了，哗啦一声坍塌下来。一个阴暗的圆形房间显露出来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>你用尽全身的力气去推，但石墙纹丝不动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>使劲儿推，裂缝就会扩散开。最后，你感觉到这座古老的墙向你投降了，哗啦一声坍塌下来。一个阴暗的圆形房间显露出来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>你用尽全身的力气去推，但石墙纹丝不动。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>使劲儿推，裂缝就会扩散开。最后，你感觉到这座古老的墙向你投降了，哗啦一声坍塌下来。一个阴暗的圆形房间显露出来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>你用尽全身的力气去推，但石墙纹丝不动。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

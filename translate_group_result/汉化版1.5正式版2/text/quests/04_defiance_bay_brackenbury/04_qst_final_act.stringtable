@@ -1,0 +1,198 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\04_defiance_bay_brackenbury\04_qst_final_act</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>38</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>最 后 的 演 出 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>和 三 名 联 络 人 说 话 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>去 科 博 莱 茵 询 问 伦 达 拉 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>调 查 秘 密 剧 院 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>返 回 位 于 布 拉 肯 伯 里 的 哈 德 雷 特 的 家 中 找 库 伦 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>在 布 拉 肯 伯 里 的 哈 德 雷 特 家 中 向 库 伦 了 解 更 多 情 况 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>回 布 拉 肯 伯 里 找 库 伦 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>和 卡 达 尔 见 面 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>库 伦 ，是 一 名 顿 瑞 德 街 道 办 的 灵 能 师 ，由 于 太 忙 他 那 儿 有 一 些 失 踪 案 搁 置 了 ，他 请 求 我 帮 他 调 查 。库 伦 怀 疑 有 灵 魂 研 究 员 在 背 后 作 祟 ，希 望 我 尽 可 能 解 决 这 些 案 子 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>库 伦 告 诉 我 三 个 人 ，他 们 已 被 通 告 消 失 了 。奥 利 , 罗 拉 , 和 依 尔 佳 若 是 被 叫 来 谈 话 ，一 定 会 很 有 价 值 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>证 据 指 向 一 个 叫 伦 达 拉 的 女 人 ，和 明 星 剧 院 。在 科 博 莱 茵 有 一 个 竞 技 场 ，在 那 里 也 许 我 可 以 找 到 他 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>在 隐 蔽 的 剧 院 附 近 伦 达 拉 的 家 里 ，最 终 我 应 该 能 发 现 这 些 消 失 的 人 的 命 运 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我 发 现 这 些 消 失 的 人 ，是 被 伦 达 拉 ，在 布 拉 肯 伯 里 地 下 ，隐 蔽 剧 院 的 地 下 墓 室 ，以 一 种 特 殊 的 方 式 杀 害 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10006</ID>
+			<DefaultText>我 告 诉 库 伦 ，我 没 有 时 间 帮 助 他 ，他 说 如 果 我 改 变 主 意 我 一 定 要 对 他 讲 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10008</ID>
+			<DefaultText>我 收 集 到 的 所 有 线 索 都 指 向  Lumdala，他 是 明 星 剧 团 的 领 班 。然 而 在 她 死 后 ，这 项 调 查 也 就 随 之 结 束 了 。我 得 返 回 库 伦 那 里 ，把 我 所 有 的 发 现 告 诉 他 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10009</ID>
+			<DefaultText>卡 达 尔 ,伦 达 拉 的 追 随 者 之 一 ，在 科 柏 Lumdala家 里 想 要 秘 密 地 告 诉 我 ：伦 达 拉 与 消 失 事 件 的 关 联 比 她 所 表 现 出 的 更 多 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>奥 利 告 诉 我 ，在 他 最 后 一 次 见 到 她 的 时 候 ，他 看 见 一 个 叫 伦 达 拉 的 女 人 把 一 切 留 给  Lendry看 管 。他 们 将 去 她 的 家 里 ，在 科 博 莱 茵 北 部 不 远 的 某 个 地 方 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>罗 拉 告 诉 我 她 的 妹 妹 科 拉 参 加 了 明 星 剧 团 的 演 出 ，在 她 消 失 以 前 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>Lumdala became unwilling to speak with me once I asked her about the missing people. Perhaps I should check her residence for clues. She lives by the north gate of Copperlane.</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>依 尔 佳 说 肯 德 尔 是 一 个 有 抱 负 有 理 想 的 演 员 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20005</ID>
+			<DefaultText>伦 达 拉 给 我 讲 了 她 最 重 要 的 保 护 人 的 事 ，一 个 叫 加 德 尔 曼 大 人 的 贵 族 ，很 明 显 顿 瑞 德 街 道 办 很 迷 恋 他 ，而 我 也 必 须 面 对 他 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20006</ID>
+			<DefaultText>加 德 尔 曼 大 人 请 求 我 惩 处 谋 害 丽 奈 特 •雷 蒙 特 的 凶 手 。他 将 她 的 印 章 戒 指 给 了 我 作 为 证 据 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20007</ID>
+			<DefaultText>我 隐 隐 约 约 听 到 伦 达 拉 和 卡 达 尔 等 人 的 激 烈 的 争 吵 ，好 像 他 打 算 离 场 ，我 不 太 确 定 ，我 同 意 稍 后 在 她 家 里 再 讨 论 一 下 这 件 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20008</ID>
+			<DefaultText>依 尔 佳 提 到 肯 德 尔 无 所 事 事 ，天 天 围 绕 在 表 演 剧 团 一 个 女 人 的 身 边 。但 她 没 告 诉 我 这 个 妇 人 的 名 字 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20009</ID>
+			<DefaultText>奥 利 经 常 光 顾 昂 德 拉 之 地 的 妓 院 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20010</ID>
+			<DefaultText>劳 拉 是 科 博 莱 茵 的 一 名 商 人 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20011</ID>
+			<DefaultText>依 尔 佳 在 布 拉 肯 伯 里 生 活 .</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20012</ID>
+			<DefaultText>我 解 决 了 伦 达 拉 。她 再 也 没 有 机 会 向 她 的 客 人 提 供 特 殊 演 出 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20013</ID>
+			<DefaultText>加 德 尔 曼 领 主 死 了 ，他 在 地 下 墓 室 演 出 的 赞 助 也 随 之 结 束 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20014</ID>
+			<DefaultText>在 抗 议 加 德 尔 曼 大 人 的 事 情 结 束 以 后 ，我 决 定 对 他 放 手 ，但 我 还 是 告 诉 他 我 最 后 的 选 择 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 告 诉 库 伦 ， 伦 达 拉 是 死 在 那 三 个 消 失 的 人 死 去 之 后 。他 感 谢 我 解 决 了 这 个 麻 烦 ，并 奖 赏 了 我 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>因 为 谋 杀 的 事 我 为 雷 蒙 特 编 了 个 故 事 ，他 很 感 谢 我 并 给 我 一 些 奖 赏 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我 杀 了 库 伦 ，并 把 他 的 调 查 研 究 做 完 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我 供 出 了 加 德 尔 曼 大 人 的 罪 行 ，而 他 也 是 伦 达 拉 最 重 要 的 赞 助 人 。库 伦 对 我 解 决 此 事 表 示 感 谢 ，并 给 予 了 我 奖 赏 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText>我 把 加 德 尔 曼 大 人 和 伦 达 拉 的 罪 行 都 供 了 出 来 。库 伦 对 我 解 决 此 事 表 示 感 谢 ，并 给 予 了 我 奖 赏 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30005</ID>
+			<DefaultText>此 任 务 中 的 某 个 重 要 人 物 已 死 亡 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30006</ID>
+			<DefaultText>此 任 务 中 的 某 个 重 要 人 物 已 死 亡 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30007</ID>
+			<DefaultText>此 任 务 中 的 某 个 重 要 人 物 已 死 亡 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

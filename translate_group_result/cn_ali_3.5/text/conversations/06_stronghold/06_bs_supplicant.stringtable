@@ -1,0 +1,28 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_bs_supplicant</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>4</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“主人，我有件重要的事需要你引起注意…”</DefaultText>
+			<FemaleText>&quot;My lady, I have an important matter which requires your attention...&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>“我相信已经取得进展了，主人？”</DefaultText>
+			<FemaleText>&quot;I trust progress has been made, my lady?&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“我不是想给你压力，主人，但…时间至关重要。”</DefaultText>
+			<FemaleText>&quot;I do not mean to pressure you, my lady, but... time is of the essence.&quot; </FemaleText>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“你好，主人。我们之前讨论的事有消息吗？”</DefaultText>
+			<FemaleText>&quot;Greetings, my lady. Is there any news as to the matter we discussed?&quot; </FemaleText>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

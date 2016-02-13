@@ -1,0 +1,102 @@
+﻿<StringTableFile>
+  <Name>conversations\07_gilded_vale\07_si_raedric_bell_tower</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>T城 堡 的 钟 楼 越 过 城 墙 高 高 耸 立 。粗 壮 的 藤 曼 遍 布 在 外 墙 ，在 石 头 缝 内 外 穿 梭 。藤 曼 的 范 围 延 展 到 几 乎 与 城 墙 一 样 的 高 度 ，缠 绕 着 护 栏 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>检 查 墙 体 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>跳 上 去 抓 住 藤 曼 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>离 开 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>T生 长 过 盛 的 藤 曼 看 起 来 很 粗 壮 ，然 而 你 无 法 确 定 它 们 是 否 能 承 受 一 个 人 的 重 量 。极 目 向 上 望 去 ，你 看 到 一 部 分 护 栏 落 在 一 边 ，形 成 了 一 个 缺 口 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Y你 从 河 床 上 注 跑 ，起 跳 ，抓 住 了 最 粗 的 几 根 藤 曼 ，你 随 着 藤 曼 摇 摆 ，而 上 方 传 来 一 声 不 详 的 碎 裂 声 。然 而 藤 曼 撑 住 了 你 的 重 量 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>顺 着 藤 曼 攀 爬 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>回 到 护 城 河 的 河 床 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Y你 稳 健 的 顺 着 墙 面 向 上 攀 爬 。经 过 了 一 段 漫 长 而 令 人 厌 倦 的 过 程 ，城 墙 的 顶 端 出 现 在 了 你 可 以 够 到 的 范 围 内 ，你 成 功 的 攀 上 了 城 墙 并 翻 越 过 去 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>T攀 爬 城 墙 的 过 程 漫 长 而 令 人 厌 倦 。[SkillCheck 0]开 始 落 后 ，体 力 不 支 。但 终 于 城 墙 的 顶 端 出 现 在 了 你 可 以 够 到 的 范 围 内 ，你 成 功 的 攀 上 了 城 墙 并 翻 越 过 去 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>T攀 爬 城 墙 的 过 程 漫 长 而 令 人 厌 倦 。[SkillCheck 0], [SkillCheck 1]开 始 落 后 ，体 力 不 支 。但 终 于 城 墙 的 顶 端 出 现 在 了 你 可 以 够 到 的 范 围 内 ，你 成 功 的 攀 上 了 城 墙 并 翻 越 过 去 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>T攀 爬 城 墙 的 过 程 漫 长 而 令 人 厌 倦 。[SkillCheck 0], [SkillCheck 1], 和 [SkillCheck 2]开 始 落 后 ，体 力 不 支 。但 终 于 城 墙 的 顶 端 出 现 在 了 你 可 以 够 到 的 范 围 内 ，你 成 功 的 攀 上 了 城 墙 并 翻 越 过 去 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>T翻 越 城 堡 主 楼 围 墙 的 过 程 漫 长 而 乏 人 。[SkillCheck 0], [SkillCheck 1], [SkillCheck 2]和 [SkillCheck 3]开 始 因 为 疲 倦 而 落 后 。幸 好 墙 顶 及 时 出 现 ，因 此 你 打 起 精 神 登 顶 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>T翻 越 城 堡 主 楼 围 墙 的 过 程 漫 长 而 乏 人 。过 了 一 段 时 间 ，只 有 [SkillCheck 0]可 以 匀 速 前 进 ，剩 下 的 人 全 被 甩 在 后 面 了 。幸 好 墙 顶 及 时 出 现 ，因 此 每 个 人 都 总 算 打 起 精 神 登 顶 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>T翻 越 城 堡 主 楼 围 墙 的 过 程 漫 长 而 乏 人 。你 的 步 伐 迅 速 的 疲 软 起 来 ，伴 随 着 众 人 的 喘 气 声 ，每 个 人 都 尽 全 力 抓 牢 墙 壁 来 爬 墙 。在 经 历 了 似 乎 一 辈 子 的 时 间 后 ，墙 顶 终 于 出 现 了 ，所 有 人 总 算 打 起 精 神 登 顶 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>顺 着 藤 曼 攀 爬 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Y你 在 墙 面 上 平 缓 地 向 上 攀 爬 着 。经 过 了 漫 长 而 乏 人 的 攀 登 ，墙 顶 及 时 出 现 ，你 总 算 打 起 精 神 登 顶 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>T翻 越 围 墙 的 过 程 漫 长 而 乏 人 ，使 你 们 队 里 的 某 些 人 身 心 疲 惫 。但 是 墙 顶 的 及 时 出 现 让 你 总 算 打 起 精 神 登 顶 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>T翻 越 城 堡 主 楼 围 墙 的 过 程 漫 长 而 乏 人 。你 身 心 疲 惫 地 被 落 在 了 后 面 。幸 亏 墙 顶 及 时 出 现 ，你 总 算 打 起 精 神 登 顶 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

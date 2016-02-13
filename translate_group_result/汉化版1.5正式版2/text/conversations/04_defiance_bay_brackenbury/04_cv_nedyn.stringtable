@@ -1,0 +1,546 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\04_defiance_bay_brackenbury\04_cv_nedyn</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>107</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>一 个 女 人 站 在 花 园 阴 凉 处 ，喃 喃 自 语 。她 心 里 全 然 想 着 那 本 破 旧 的 书 ，对 盛 放 的 花 朵 和 阵 阵 飘 来 的 香 气 毫 无 感 觉 。直 到 你 靠 近 她 时 影 子 投 射 在 她 的 书 上 她 才 抬 起 了 头 。“你 不 介 意 吧 ？我 很 忙 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“你 在 忙 些 什 么 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“跟 我 说 说 你 自 己 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“我 会 让 你 一 个 人 静 静 。再 见 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>“很 高 兴 能 看 到 你 们 所 有 人 ，但 我 真 的 需 要 把 精 力 集 中 在 我 的 研 究 上 面 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>[告 诉 她 定 理 。]“你 不 会 相 信 我 发 现 了 什 么 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>“你 ……悲 痛 女 神 ，你 真 的 发 现 它 了 ！”内 等 像 抱 新 生 婴 儿 一 般 把 陈 旧 的 书 放 好 。“我 难 以 相 信 。它 真 的 存 在 ！”她 在 背 后 看 着 你 。“非 常 感 谢 。这 非 常 的 珍 贵 。”她 刚 要 转 身 ，但 在 最 后 一 刻 ，她 愣 了 一 下 并 给 了 你 一 袋 钱 币 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>她 笑 笑 。“再 次 谢 谢 你 的 帮 助 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>她 猛 地 合 上 书 。“我 在 研 究 灵 魂 附 着 。我 们 都 知 道 人 一 出 生 后 灵 魂 就 会 进 入 身 体 死 后 离 体 ，但 是 我 们 不 是 很 了 解 灵 魂 是 如 何 附 着 在 身 体 内 的 ，打 个 比 方 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>“我 是 疗 养 院 的 一 名 灵 魂 学 者 。目 前 ，我 在 研 究 维 德 文 的 遗 赠 的 事 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>35</ID>
+			<DefaultText>“你 所 说 的 灵 魂 ‘附 着 ’是 指 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>她 撩 开 额 前 的 秀 发 。“灵 魂 给 身 体 提 供 能 量 并 让 组 织 运 转 ，但 这 些 都 是 在 灵 魂 紧 紧 附 着 在 身 体 里 的 情 况 下 。灵 魂 脱 离 肉 体 后 就 会 带 来 各 种 病 痛 ，无 魂 儿 就 是 这 种 情 况 。“但 是 如 果 知 道 如 何 附 着 灵 魂 ，我 们 就 能 摆 脱 维 德 文 的 遗 赠 。甚 至 可 以 战 胜 死 亡 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>她 挠 着 耳 根 。“无 论 如 何 ，理 论 上 是 这 样 说 的 。不 幸 的 是 ，我 做 的 研 究 还 远 远 不 够 付 诸 实 践 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>39</ID>
+			<DefaultText>“这 些 都 是 灵 魂 学 者 研 究 的 东 西 。你 掺 和 进 自 己 都 搞 不 懂 的 事 里 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>“你 到 底 需 要 什 么 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>内 等 越 过 书 交 叉 着 双 臂 。“至 少 我 们 在 尝 试 做 了 。我 们 唯 有 亲 身 研 究 才 能 应 对 遗 赠 。不 幸 的 是 ，批 评 者 已 经 注 意 到 公 众 只 会 记 得 我 们 的 失 败 。”她 叹 气 。“这 样 我 们 很 难 获 取 想 要 的 信 息 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>42</ID>
+			<DefaultText>他 的 脸 上 闪 过 一 丝 狡 黠 的 微 笑 。“通 常 来 说 ，我 会 变 得 更 加 小 心 ，但 我 听 说 你 在 在 这 些 问 题 上 渐 渐 看 开 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>“有 个 手 稿 叫 做 潘 德 格 拉 姆 定 理 。它 里 面 记 载 了 潘 德 格 拉 姆 试 验 中 分 离 灵 魂 的 研 究 。据 说 揭 秘 堂 有 一 份 拷 贝 的 手 稿 放 在 先 祖 卷 宗 室 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>50</ID>
+			<DefaultText>“定 理 能 很 大 程 度 上 能 推 进 我 的 研 究 ，但 是 格 里 姆 达 ，最 高 卷 宗 保 管 员 ，非 常 崇 拜 瓦 尔 ，这 就 意 味 着 她 不 是 很 愿 意 把 宗 卷 拿 出 来 。加 上 她 并 不 支 持 灵 魂 研 究 ，她 应 该 不 会 向 我 透 露 有 用 的 信 息 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>内 等 震 惊 地 看 向 你 这 边 。她 缓 缓 地 合 上 书 。“我 ……听 说 神 殿 发 生 了 一 场 屠 杀 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>“关 心 眼 前 事 。我 得 到 了 你 的 书 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>“下 次 你 要 干 嘛 ，自 己 做 去 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>“你 说 你 能 用 这 本 书 做 好 事 。更 重 要 的 是 ：有 一 把 公 证 人 和 成 千 上 万 的 灵 魂 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>“我 不 想 事 情 发 展 到 这 种 地 步 ，但 是 我 别 无 选 择 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>她 拿 起 旧 书 并 把 它 紧 紧 地 贴 在 胸 前 。她 看 着 破 旧 的 封 面 和 发 黄 的 页 面 。“我 ……从 没 想 到 有 谁 会 受 伤 ……”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>“我 知 道 。“这 就 是 你 派 我 来 的 原 因 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>61</ID>
+			<DefaultText>“结 束 了 。接 受 它 并 用 这 本 书 做 些 好 事 补 偿 你 的 过 失 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>62</ID>
+			<DefaultText>“如 果 你 不 对 此 做 出 弥 补 ，除 了 公 证 人 还 会 有 更 多 人 等 着 你 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>“我 也 一 样 。发 生 这 种 事 我 也 很 内 疚 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>[谎 言 ]“真 可 怕 ！我 希 望 顿 瑞 德 街 道 办 会 抓 住 那 畜 生 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>她 清 了 下 喉 咙 。“我 也 是 。”内 等 拿 起 古 书 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>她 摸 进 口 袋 。她 喊 了 你 一 下 ，然 后 将 一 大 把 钱 硬 是 塞 到 你 手 里 。“收 下 并 离 开 这 里 。我 不 想 再 看 到 你 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>她 仔 细 地 翻 着 书 ，但 目 光 呆 滞 。“是 ，我 ……确 实 希 望 这 么 做 是 值 得 的 。”她 翻 找 着 自 己 的 口 袋 。“来 ，这 个 给 你 。就 当 你 的 报 酬 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>68</ID>
+			<DefaultText>“快 走 吧 。我 想 要 忘 掉 这 所 有 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>“什 么 是 维 德 文 的 遗 赠 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>“维 德 文 的 遗 赠 是 说 近 些 年 迪 伍 德 无 魂 儿 的 人 数 大 大 增 多 。也 有 人 把 它 和 席 卷 伊 尔 格 兰 法 斯 的 噬 魂 风 暴 联 系 在 一 起 。但 没 有 任 何 可 靠 数 据 显 示 它 们 有 所 关 联 ，所 以 我 不 能 妄 加 评 论 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>她 嗤 之 以 鼻 地 说 。“我 不 太 在 乎 ‘维 德 文 的 遗 赠 ’这 个 名 词 。这 听 起 来 有 点 迷 信 ，但 是 到 了 这 个 点 上 再 做 改 变 有 点 落 入 俗 套 了 。个 人 而 言 ，我 更 想 看 到 人 们 有 条 不 紊 地 应 付 这 件 事 而 不 是 啥 都 不 做 只 会 抱 怨 神 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>“关 于 潘 德 格 拉 姆 定 理 我 有 一 些 问 题 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>“什 么 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>“和 我 说 说 潘 德 格 拉 姆 定 理 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>“为 什 么 格 里 姆 达 不 把 你 要 的 书 借 你 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>“我 想 了 解 一 下 揭 秘 堂 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>“什 么 是 先 祖 卷 宗 室 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>“我 想 知 道 的 就 是 这 些 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+			<DefaultText>“潘 德 格 拉 姆 是 一 名 在 迪 伍 德 工 作 的 灵 魂 学 者 。他 做 过 一 些 与 精 华 相 关 的 有 趣 理 论 并 且 用 相 当 有 创 意 的 方 法 ……研 究 它 。他 能 让 亡 者 的 灵 魂 重 新 附 着 在 肉 体 里 ，虽 然 他 不 能 阻 止 他 病 人 的 病 情 恶 化 。”“退 一 步 说 ，他 当 时 备 受 争 议 ，但 是 人 们 开 始 意 识 到 他 只 是 走 在 时 代 的 前 沿 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>“无 论 如 何 ，因 为 这 事 ，流 传 下 来 的 潘 德 格 拉 姆 的 研 究 少 之 甚 少 。他 死 于 几 年 前 ，揭 秘 堂 存 有 他 的 唯 一 一 份 作 品 副 本 。她 无 奈 地 叹 气 。“我 多 想 能 见 他 一 面 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+			<DefaultText>“揭 秘 堂 对 他 们 的 书 保 管 得 相 当 ……森 严 ，特 别 是 些 珍 贵 的 书 。格 里 姆 达 尤 其 难 对 付 。她 憎 恨 灵 魂 研 究 。认 为 这 很 危 险 。我 不 明 白 你 是 怎 么 混 进 迪 伍 德 最 好 的 藏 书 室 工 作 并 如 此 反 对 知 识 和 研 究 的 传 播 ，但 是 我 从 来 就 没 搞 懂 过 这 些 宗 教 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>“你 会 在 科 博 莱 因 地 区 找 到 它 。它 效 命 于 秘 密 之 神 与 真 相 之 神 。最 重 要 的 是 ，它 在 迪 伍 德 拥 有 最 大 最 宽 敞 的 藏 书 室 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+			<DefaultText>“先 祖 卷 宗 室 藏 有 迪 伍 德 最 稀 有 ，最 神 秘 ，蕴 含 最 强 大 能 量 的 古 书 。把 它 当 做 揭 秘 堂 的 内 部 密 室 。不 用 说 ，你 得 经 过 格 里 姆 达 的 允 许 才 能 进 入 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>92</ID>
+			<DefaultText>“还 有 什 么 想 问 的 ？”她 乐 此 不 疲 继 续 搞 她 的 研 究 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>95</ID>
+			<DefaultText>“你 是 在 伊 马 特 尔 那 买 遗 迹 的 灵 魂 学 者 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>96</ID>
+			<DefaultText>“我 不 知 道 你 说 的 是 谁 ，但 是 我 做 的 事 都 有 理 论 支 持 ，而 不 是 用 些 石 头 陶 瓷 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>97</ID>
+			<DefaultText>“你 说 的 ‘恶 化 ’是 什 么 意 思 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>99</ID>
+			<DefaultText>内 等 绞 扭 双 手 。“好 吧 ，将 灵 魂 重 新 附 着 在 亡 者 肉 体 内 会 引 起 一 些 小 问 题 。身 体 会 重 新 复 活 甚 至 留 有 生 气 的 记 忆 和 品 性 ，但 是 他 们 会 ……饥 不 择 食 。进 食 肉 体 。且 是 活 的 ，拥 有 灵 魂 的 肉 体 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>100</ID>
+			<DefaultText>“没 有 进 食 的 话 ，他 们 就 会 衰 落 ，精 神 与 身 体 都 会 腐 败 。如 果 继 续 发 展 下 去 ，最 终 他 们 就 会 变 成 无 意 识 的 行 尸 ，攻 击 任 何 活 动 的 物 体 。我 们 ……还 没 有 找 到 阻 止 那 的 方 法 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>101</ID>
+			<DefaultText>“那 听 起 来 就 像 巫 术 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>102</ID>
+			<DefaultText>“那 听 起 来 很 危 险 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>103</ID>
+			<DefaultText>“胡 说 ！巫 术 是 魔 法 。这 是 科 学 。”她 在 最 后 一 个 字 上 加 重 语 气 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>104</ID>
+			<DefaultText>“当 然 了 ，哪 个 伟 大 发 现 不 经 历 反 复 试 验 和 失 败 ！所 以 我 们 需 要 潘 德 格 拉 姆 的 研 究 -帮 助 我 们 将 失 败 转 化 成 有 利 的 东 西 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>105</ID>
+			<DefaultText>“我 明 白 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>108</ID>
+			<DefaultText>她 叹 气 。“总 之 。我 该 做 我 的 研 究 去 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>109</ID>
+			<DefaultText>“很 高 兴 这 对 你 有 所 帮 助 。我 不 奢 求 你 会 再 腾 出 时 间 给 我 ……”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>110</ID>
+			<DefaultText>“就 这 些 吗 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>111</ID>
+			<DefaultText>“很 高 兴 能 帮 上 忙 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>112</ID>
+			<DefaultText>“奥 ……当 然 。”她 拔 出 戒 指 。“虽 然 不 是 很 贵 重 ，但 是 在 我 困 难 的 时 候 我 总 能 用 这 枚 戒 指 赚 来 一 些 外 快 。对 于 一 个 做 研 究 的 人 来 说 没 有 他 人 赞 助 确 实 有 点 辛 苦 。”她 微 笑 着 把 戒 指 交 给 你 。“请 收 下 吧 。“你 已 经 给 了 我 一 件 我 自 己 发 现 不 了 的 东 西 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>113</ID>
+			<DefaultText>“我 想 你 不 至 于 傻 到 说 出 那 样 的 话 。”内 等 越 过 书 交 叉 着 双 臂 。“至 少 我 们 在 尝 试 做 了 。我 们 唯 有 亲 身 研 究 才 能 应 对 遗 赠 。不 幸 的 是 ，批 评 者 已 经 注 意 到 公 众 只 会 记 得 我 们 的 失 败 。”她 叹 气 。“这 样 我 们 很 难 获 取 想 要 的 信 息 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>114</ID>
+      <DefaultText>她 叹 气 。“看 我 焦 头 烂 额 的 ，你 能 倾 听 真 是 太 好 了 ，但 是 我 真 的 得 回 去 工 作 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>“你 喜 欢 那 个 ，不 是 吗 ？杀 戮 …”内 迪 恩 退 开 。
+
+她 拿 起 旧 书 护 在 胸 前 。低 头 看 看 破 碎 的 捆 包 和 发 黄 的 书 页 。“我 …没 想 过 有 人 会 受 伤 …”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>“很 遗 憾 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>“也 许 能 说 服 她 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>“你 可 以 试 试 ，但 是 你 不 是 第 一 个 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>“真 丢 脸 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>“呃 ，那 是 她 的 决 定 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>“那 是 她 所 有 抄 写 员 说 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Bank Node 122</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>“这 件 事 终 于 有 人 说 的 在 理 上 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>“别 觉 得 迪 伍 德 人 会 看 笑 话 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>“真 的 。至 少 再 次 发 生 的 时 候 我 们 会 知 道 怎 么 对 抗 它 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Bank Node 126</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>“如 果 我 们 只 插 手 我 们 懂 的 事 ，那 就 没 什 么 可 以 插 手 的 理 由 了 ，不 是 吗 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>“但 那 就 是 研 究 的 目 的 。她 的 确 说 她 还 没 有 付 诸 实 践 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>“说 得 好 。至 少 这 个 国 家 还 讲 点 道 理 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Bank Node 130</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>“潘 格 拉 姆 的 工 作 被 认 为 是 更 ，啊 ，大 胆 的 灵 魂 研 究 文 献 。不 是 初 学 者 中 普 遍 流 传 的 那 些 。要 理 解 可 不 容 易 ——我 想 知 道 如 果 我 能 看 一 眼 …”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>“我 听 说 过 这 本 书 ，我 想 是 在 赛 罗 纳 ，但 是 我 从 没 看 过 。许 多 灵 魂 研 究 者 带 着 敬 畏 谈 论 它 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>“好 吧 ，解 决 了 ——我 们 只 是 必 须 明 白 ，对 吗 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Bank Node 135</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>“你 想 知 道 格 里 达 为 什 么 不 和 你 分 享 这 项 研 究 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>“不 仅 是 不 便 的 副 作 用 。你 重 现 了 一 个 对 它 不 自 然 而 且 无 征 兆 的 诅 咒 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>“那 是 ，呃 …”帕 雷 吉 纳 抓 了 抓 羽 毛 。“真 不 幸 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>亚 禄 怒 视 着 通 灵 家 。“有 些 知 识 最 好 被 锁 起 来 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>一 位 你 记 得 是 来 自 布 拉 肯 伯 里 的 女 人 大 踏 步 向 你 走 来 。她 的 袍 子 边 缘 已 经 磨 坏 并 布 满 毛 刺 。
+
+“你 本 可 以 拒 绝 。你 本 可 以 忘 记 所 有 潘 格 拉 姆 定 理 。但 是 你 必 须 去 告 诉 格 里 达 ！”她 的 声 音 颤 抖 ，并 用 颤 抖 的 手 抓 头 发 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>“这 是 来 自 好 学 之 人 的 话 语 。没 有 进 入 图 书 馆 的 权 力 ，我 的 工 作 就 此 结 束 ，明 白 ？”</DefaultText>
+      <FemaleText>"And this from a woman of learning. My work is over without access to that library, understand?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>“你 们 这 些 爱 财 之 人 为 了 一 点 利 益 就 会 做 任 何 事 。我 希 望 格 里 达 提 供 给 你 的 东 西 物 有 所 值 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>“我 知 道 你 倾 向 强 势 的 观 点 ，但 是 我 不 知 道 你 发 动 了 对 我 个 人 的 讨 伐 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>“还 是 个 骑 士 。我 以 为 你 的 命 令 以 荣 誉 而 闻 名 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>“还 是 个 骑 士 。我 忘 了 你 的 命 令 不 以 城 市 而 闻 名 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>“而 且 这 对 你 是 什 么 ？这 是 我 的 职 业 ！不 管 怎 么 说 ，你 似 乎 不 关 心 任 何 事 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>她 怒 视 。“我 以 为 你 值 得 相 信 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>她 怒 视 。“我 真 是 傻 ，居 然 相 信 你 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>“如 果 没 法 进 图 书 馆 ，我 的 职 业 生 涯 就 止 步 不 前 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>“真 的 很 抱 歉 ，内 迪 恩 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>[耸 肩 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>“忘 了 吧 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>“我 有 自 己 的 理 由 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>她 爆 出 一 阵 尖 锐 的 笑 。“无 所 谓 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>她 爆 出 一 阵 尖 锐 的 笑 。“我 也 是 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

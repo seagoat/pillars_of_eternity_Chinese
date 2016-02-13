@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>quests\12_twin_elms_oldsong\12_qst_old_queen_new_king</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>26</EntryCount>
@@ -60,7 +59,7 @@ Without a fight to resolve the matter, the Fangs are split over which beast is t
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Irensî explained that Sul's advantage in the Maw is one she has earned and one that no huntress of her cunning would concede. If Oernos wishes to seize her position, he should confront her in her lair.
+      <DefaultText>Irens&#238; explained that Sul's advantage in the Maw is one she has earned and one that no huntress of her cunning would concede. If Oernos wishes to seize her position, he should confront her in her lair.
 
 Furthermore, Sul has given birth to cubs that could one day be mightier than either beast if allowed to mature.
 
@@ -94,7 +93,7 @@ If neither beast will approach the other, then I will have to settle matters on 
     </Entry>
     <Entry>
       <ID>20002</ID>
-      <DefaultText>Irensî believes that Sul and her cubs will leave the best legacy for Galawain's Maw. If Oernos isn't strong enough to attack Sul where she is, then she doesn't think he's the true champion. She wants to see him eliminated by any means necessary.</DefaultText>
+      <DefaultText>Irens&#238; believes that Sul and her cubs will leave the best legacy for Galawain's Maw. If Oernos isn't strong enough to attack Sul where she is, then she doesn't think he's the true champion. She wants to see him eliminated by any means necessary.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -104,7 +103,7 @@ If neither beast will approach the other, then I will have to settle matters on 
     </Entry>
     <Entry>
       <ID>20004</ID>
-      <DefaultText>It sounds like both sides would be willing to fight under certain terms. Irensî explained that Sul's pride would leave if her cubs were allowed safe passage with the rest of the lions. Oernos could then fight Sul one-on-one at the back of the Maw.</DefaultText>
+      <DefaultText>It sounds like both sides would be willing to fight under certain terms. Irens&#238; explained that Sul's pride would leave if her cubs were allowed safe passage with the rest of the lions. Oernos could then fight Sul one-on-one at the back of the Maw.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

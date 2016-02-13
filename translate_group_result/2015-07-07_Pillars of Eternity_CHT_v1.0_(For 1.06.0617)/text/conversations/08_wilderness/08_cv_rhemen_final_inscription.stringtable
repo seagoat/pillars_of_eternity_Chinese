@@ -1,0 +1,27 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\08_wilderness\08_cv_rhemen_final_inscription</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>3</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>地板上雕刻著蛇紋符號和英格維斯的圖騰，在你腦子裡連成了一句話：
+
+
+
+「戰士應該喚來兩個見證人，見證人得依聖約的約定把徽章放在恰當的位置，，承擔起聖約給予自己靈魂的責任。戰士要登上高台，手持靈魂容器，接受轉換。」</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>你無法理解這上面刻的符文。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>&quot;帶上他的靈魂容器和武器，帶著一顆虔誠的綠螢之心，戰士或許就能接近骨灰盒。通過這種方式，他才能得到一把配得上他的技能和野心的武器。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

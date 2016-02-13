@@ -1,0 +1,73 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\03_defiance_bay_ondra_gift\03_cv_sea_chest</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>13</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>這 個 海 底 大 箱 子 被 埋 在 一 艘 刻 著 浮 雕 的 船 下 ，箱 底 刻 著 一 個 燙 金 名 字 『弗 塔 內 洛 』。箱 子 上 鎖 著 一 把 大 大 的 銅 鎖 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>[拿 起 大 箱 子 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>[試 著 打 開 箱 子 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>[離 開 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>盡 管 你 拼 盡 了 力 氣 ，鎖 還 是 紋 絲 不 動 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>你 又 試 了 幾 下 ，鎖 子 發 出 一 聲 令 人 驚 喜 的 沉 悶 聲 響 ，你 終 於 能 把 鎖 推 開 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>[打 開 箱 子 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>箱 子 裡 面 是 一 頂 海 軍 船 長 的 帽 子 還 有 一 把 精 工 打 造 的 長 劍 ——除 此 之 外 就 沒 什 麼 了 。看 樣 子 船 長 弗 塔 內 洛 很 是 寶 貝 她 的 帽 子 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>[把 它 們 留 在 箱 子 裡 。]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>[拿 走 帽 子 和 長 劍 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>鎖 子 比 你 想 象 中 的 難 撬 開 。你 又 堅 持 撬 了 幾 下 ，終 於 把 掛 鎖 打 開 了 。不 過 看 樣 子 你 是 關 不 上 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>Script Node 13</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>Script Node 14</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

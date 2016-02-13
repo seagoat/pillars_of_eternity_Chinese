@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\11_hearthsong\11_cv_rhanet</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「你看上去像個獵人，外邦人。也許德爾溫的武器能保護好你們這些自找麻煩的傢伙——而我的補給品才是真正能讓你在野外生存下來的東西。」</DefaultText>
+      <FemaleText>「你看上去像個女獵人，外邦人。也許德爾溫的武器能保護好你們這些自找麻煩的傢伙——而我的補給品才是真正能讓你在野外生存下來的東西。」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「精心佈置的陷阱對浴血狩獵是決定性的。這點我很清楚。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「我能看看你的商品嗎？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「再會了。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>拉內特點點頭，一揮胳膊示意他的貨物在那邊。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

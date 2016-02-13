@@ -1,0 +1,128 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\critical_path\act_2\cp_qst_heritage_hill</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>22</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>永 恒 的 遗 产 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>进 入 传 承 山 的 高 塔 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>前 往 传 承 山 高 塔 的 顶 部 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>查 明 传 承 山 上 的 因 格 维 斯 机 器 是 如 何 运 转 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>找 到 伊 坎 莎 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>解 决 因 格 维 斯 机 器 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>找 到 高 塔 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>侍 僧 让 我 看 到 在 反 抗 湾 一 个 废 弃 的 地 区 有 一 座 古 老 的 高 塔 。有 一 个 怪 人 在 塔 里 鼓 捣 某 种 机 器 。我 还 看 到 一 个 心 上 有 伤 疤 的 女 人 。我 不 知 道 她 在 哪 儿 ，但 我 猜 想 她 知 道 那 里 发 生 事 情 的 关 键 。
+
+暗 灰 之 钥 对 这 塔 感 兴 趣 是 有 原 因 的 。如 果 我 想 找 出 他 们 的 计 划 就 需 要 弄 明 白 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>我 看 到 的 高 塔 就 在 传 承 山 四 周 的 围 墙 后 若 隐 若 现 。我 希 望 在 那 里 能 找 到 下 一 个 难 题 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>侍 僧 的 窥 测 没 有 告 诉 我 该 在 这 里 找 到 什 么 。整 个 地 区 到 处 都 是 复 活 的 尸 体 。杀 出 一 条 前 往 塔 顶 的 路 -以 及 路 上 等 待 着 我 的 怪 物 -都 不 是 什 么 容 易 的 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我 在 塔 顶 找 到 一 个 古 老 的 机 械 。而 且 侍 僧 告 诉 我 的 ，上 面 还 有 其 他 人 。
+
+他 或 许 能 告 诉 我 更 多 关 于 发 生 在 这 里 的 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>我 得 到 传 承 山 去 和 伊 坎 莎 谈 谈 。他 好 像 知 道 关 于 塔 的 一 些 重 要 的 事 ，那 会 成 为 我 了 解 暗 灰 之 钥 任 务 的 关 键 。
+
+那 可 以 说 明 侍 僧 问 什 么 担 心 这 个 女 人 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10006</ID>
+			<DefaultText>既 然 我 懂 因 格 维 斯 语 ，我 可 以 回 到 泰 尔 瑙 内 斯 上 面 的 机 器 那 ，想 想 办 法 来 解 决 传 承 山 的 诅 咒 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10007</ID>
+			<DefaultText>暗 灰 之 钥  侍 僧 告 诉 我 有 一 个 古 老 的 塔 坐 落 在 一 个 墓 地 旁 边 ，墓 地 邻 近 一 片 破 败 的 土 地 。
+
+寻 找 这 些 线 索 需 要 知 道 塔 的 位 置 。应 该 先 问 问 周 围 的 人 ，或 许 那 些 很 了 解 这 城 市 的 patrolling justiciars会 知 道 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>驻 守 传 承 山 大 门 的 守 卫 说 我 需 要 在 最 初 之 火 的 薇 拉 的 特 殊 许 可 我 才 能 放 行 。
+
+当 然 ，一 大 堆 的 钱 或 着 使 用 些 武 力 也 会 说 服 他 让 我 进 去 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>我 杀 了 那 个 透 过 侍 僧 的 视 线 在 塔 上 看 到 的 亡 者 。我 想 他 当 时 是 在 想 弄 清 楚 怎 么 操 作 因 格 维 斯 机 械 。他 现 在 一 直 没 弄 清 楚 ，不 过 他 或 许 知 道 些 什 么 ，我 也 会 因 此 得 到 些 机 会 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>奥 尔 德 海 姆 是 个 被 放 逐 的 灵 魂 学 者 ，他 就 在 塔 上 ，他 保 证 ，如 果 我 得 到 了 伊 坎 莎 的 允 许 以 及 他 需 要 的 支 持 ，他 就 会 帮 我 提 高 自 己 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20005</ID>
+			<DefaultText>奥 尔 德 海 姆 已 经 堕 落 了  - 当 我 找 他 说 话 时 他 看 起 来 好 像 要 冲 上 来 打 我 。如 果 我 需 要 他 的 帮 助 ，我 得 给 他 一 个 受 害 者 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20006</ID>
+			<DefaultText>我 透 过 侍 僧 的 视 野 看 到 了 一 个 女 子 ，但 是 她 不 怎 么 想 帮 我 。或 许 利 用 这 个 视 野 找 到 一 个 男 人 或 许 会 让 我 找 到 一 个 更 好 的 办 法 来 搞 定 她 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>我 知 道 了 戴 尔 森 林 里 的 因 格 维 斯 机 械 可 以 用 来 移 动 灵 魂 。我 还 了 解 因 格 维 斯 语 ，所 以 我 可 以 操 作 它 们 。我 把 泰 尔 瑙 内 斯 上 的 机 器 关 掉 ，那 样 传 承 山 的 灵 魂 就 可 以 回 到 循 环 状 态 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>我 知 道 了 戴 尔 森 林 里 的 因 格 维 斯 机 械 可 以 用 来 移 动 灵 魂 。我 还 了 解 因 格 维 斯 语 ，所 以 我 可 以 操 作 它 们 。为 了 避 免 机 械 被 别 人 使 用 ，我 用 那 些 被 困 在 传 承 山 的 灵 魂 毁 灭 了 机 械 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我 知 道 了 戴 尔 森 林 里 的 因 格 维 斯 机 械 可 以 用 来 移 动 灵 魂 。我 还 了 解 因 格 维 斯 语 ，所 以 我 可 以 操 作 它 们 。我 用 这 机 械 吸 收 了 传 承 山 里 那 些 灵 魂 的 力 量 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

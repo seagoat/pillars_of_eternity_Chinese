@@ -1,0 +1,171 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\03_defiance_bay_ondras_gift\03_tsk_brave_derrin</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>31</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>勇 者 德 林 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>找 到 德 林 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>告 诉 奥 达 关 于 德 林 的 命 运 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>找 到 杀 死 德 林 的 凶 手 。（可 选 ）</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>告 诉 奥 达 你 杀 了 杀 死 德 林 的 凶 手 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>找 到 德 林 的 家 人 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>一 个 叫 做 德 林 的 小 男 孩 在 昂 德 拉 之 地 失 踪 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>奥 达 的 儿 子 德 林 已 失 踪 两 天 了 。她 不 得 不 呆 在 家 里 照 顾 她 的 无 魂 儿 ，所 以 她 让 我 去 寻 找 他 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>我 发 现 了 德 林 的 尸 体 。他 的 灵 魂 表 现 出 他 死 前 在 咸 桅 杆 附 近 正 从 一 群 暴 徒 手 中 保 护 一 个 妓 女 。他 们 杀 了 他 ，把 他 的 尸 体 留 在 了 码 头 下 面 。
+
+奥 达 想 要 知 道 发 生 了 什 么 事 。
+
+我 也 可 以 追 捕 亨 特 的 杀 手 ，并 摆 平 他 们 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>杀 死 德 林 的 凶 手 混 迹 于 咸 桅 杆 骚 扰 嫖 客 和 妓 女 的 小 混 混 中 间 。
+
+如 果 我 想 要 为 德 林 讨 回 公 道 ，或 许 能 在 妓 院 附 近 找 到 他 们 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10006</ID>
+			<DefaultText>我 用 布 拉 甘 有 关 德 林 死 亡 的 证 据 和 他 对 峙 。他 和 他 的 朋 友 攻 击 了 我 ，我 把 他 们 两 个 给 做 掉 了 。
+
+知 道 杀 死 德 林 的 凶 手 都 死 了 可 能 会 给 奥 达 带 来 一 些 平 静 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10007</ID>
+			<DefaultText>我 在 昂 德 拉 之 地 的 妓 院 边 上 的 河 里 发 现 一 个 小 男 孩 的 尸 体 。他 的 家 人 想 要 知 道 他 的 命 运 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>奥 达 上 次 见 到 德 林 是 当 他 与 他 的 父 亲 去 码 头 钓 鱼 的 时 候 。也 许 我 应 该 与 昂 德 拉 之 地 的 渔 民 和 水 手 谈 谈 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>我 听 说 过 德 林 的 父 亲 流 连 于 咸 桅 杆 的 谣 言 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>我 找 到 了 德 林 的 父 亲 。他 撇 开 那 个 男 孩 去 喝 杯 酒 ，此 后 便 失 去 了 他 的 行 踪 。他 太 惭 愧 了 ，以 至 于 不 敢 回 家 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20003</ID>
+			<DefaultText>当 地 的 水 手 马 森 诺 ，告 诉 我 ，德 林 几 天 前 要 求 在 船 上 玩 。马 森 诺 拒 绝 了 他 ，看 见 那 孩 子 走 向 咸 桅 杆 ，那 是 当 地 的 妓 院 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20004</ID>
+			<DefaultText>伊 马 特 尔 告 诉 我 德 林 喜 欢 到 码 头 的 船 边 上 玩 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20005</ID>
+			<DefaultText>我 捡 起 了 一 把 刻 着 “B”字 母 的 匕 首 。它 很 可 能 属 于 杀 死 德 林 的 凶 手 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20006</ID>
+			<DefaultText>我 杀 死 了 布 拉 甘 和 他 的 手 下 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20007</ID>
+			<DefaultText>我 用 布 拉 甘 有 关 德 林 死 亡 的 证 据 和 他 对 峙 。我 接 受 了 他 的 贿 赂 ，闭 上 了 嘴 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20008</ID>
+			<DefaultText>我 捡 起 了 一 把 刻 着 “B”字 母 的 匕 首 。它 很 可 能 属 于 杀 死 德 林 的 凶 手 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20009</ID>
+			<DefaultText>我 杀 死 了 布 拉 甘 和 他 的 手 下 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20010</ID>
+			<DefaultText>我 用 布 拉 甘 有 关 德 林 死 亡 的 证 据 和 他 对 峙 。我 接 受 了 他 的 贿 赂 ，闭 上 了 嘴 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20011</ID>
+			<DefaultText>我 在 咸 桅 杆 找 到 了 德 林 的 父 亲 韦 德 — — 他 看 上 去 好 像 已 经 在 那 里 待 了 好 一 段 时 间 了 。德 林 的 母 亲 奥 达 住 在 昂 德 拉 之 地 。我 应 该 找 她 以 确 保 她 听 说 了 她 儿 子 的 事 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>奥 达 错 误 的 以 为 德 林 留 在 了 一 艘 船 上 ，开 始 了 新 生 活 。最 好 她 不 要 知 道 德 林 死 亡 的 真 相 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>听 到 德 林 被 杀 的 消 息 奥 达 心 都 碎 了 ，但 至 少 她 明 白 德 林 发 生 了 什 么 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>我 告 诉 Weyd他 的 儿 子 死 了 ，并 强 制 他 回 到 家 里 将 这 一 消 息 告 诉 他 的 妻 子 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我 大 概 知 道 杀 害 德 林 的 凶 手 在 哪 ，完 成 了 小 男 孩 生 前 未 完 的 事 。我 告 诉 奥 达 让 他 的 灵 魂 安 息 吧 ，奥 达 把 她 为 德 林 保 存 的 家 庭 纪 念 品 给 了 我 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30004</ID>
+			<DefaultText>关 于 德 林 的 死 我 向 Weyd撒 了 谎 ，我 强 迫 WEYD乘 船 远 离 此 地 ，并 把 这 一 消 息 告 诉 他 的 妻 子 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30005</ID>
+			<DefaultText>我 努 力 寻 找 杀 死 德 林 的 凶 手 ，但 我 对 这 一 家 人 保 留 了 他 们 儿 子 死 亡 的 消 息 ，为 的 是 让 她 生 活 在 一 个 忽 略 儿 子 死 亡 的 环 境 中 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30006</ID>
+			<DefaultText>我 杀 了 奥 达 ，结 束 了 他 的 恐 惧 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

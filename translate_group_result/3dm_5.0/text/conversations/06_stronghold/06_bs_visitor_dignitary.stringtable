@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\06_stronghold\06_bs_visitor_dignitary</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“原来迪伍德是一个…让人讨厌的地方。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“迷人的城堡。很有古朴的质感。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“再次为了你的好客而感谢你，我的主人。”</DefaultText>
+      <FemaleText>"Thank you again, My Lady, for your hospitality." </FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,65 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\companions\companion_qst_aloth_and_iselmyr</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>11</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>雙 面 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>在 反 抗 灣 找 到 一 位 覺 醒 方 面 的 專 家 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>亞 洛 斯 說 他 體 內 有 一 個 覺 醒 的 靈 魂 ，伊 瑟 梅 爾 。它 請 他 幫 忙 找 一 位 懂 這 種 情 況 的 專 家 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>亞 洛 斯 提 到 反 抗 灣 有 一 整 個 致 力 於 研 究 靈 魂 的 疾 病 的 機 構 。肯 定 就 是 我 在 侍 僧 的 視 角 裡 看 到 的 那 個 地 方 。
+
+我 可 能 能 找 到 了 解 覺 醒 的 靈 魂 的 人 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>有 人 要 我 來 找 一 個 叫 Bellasege的 人 。她 在 療 養 院 的 低 層 工 作 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20001</ID>
+			<DefaultText>看 起 來 要 想 幫 助 亞 洛 斯 ，布 拉 肯 伯 裡 療 養 院 是 最 好 的 地 方 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20002</ID>
+			<DefaultText>我 准 備 參 加 公 爵 的 靈 魂 研 究 講 座 。要 想 幫 亞 洛 斯 解 決 伊 瑟 梅 爾 的 問 題 ，我 得 先 帶 著 他 找 到 這 個 療 養 院 裡 的 專 家 。現 在 還 不 知 道 這 個 講 座 會 對 反 抗 灣 裡 的 靈 魂 研 究 產 生 什 麼 影 響 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>在 得 知 伊 瑟 梅 爾 是 如 何 和 亞 洛 斯 脾 氣 暴 躁 的 父 親 直 接 對 抗 之 後 ，我 認 為 他 可 能 還 沒 有 意 識 到 伊 瑟 梅 爾 有 多 大 作 用 。他 看 起 來 有 些 懷 疑 ，不 過 我 相 信 他 會 考 慮 考 慮 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>在 得 知 每 當 進 退 兩 難 時 ，伊 瑟 梅 爾 就 會 得 到 控 制 權 之 後 ，我 就 建 議 亞 洛 斯 最 好 提 防 著 她 。他 不 該 把 控 制 權 讓 給 任 何 人 ，即 使 是 自 己 靈 魂 的 一 部 分 也 不 行 。他 看 起 來 同 意 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>看 起 來 伊 瑟 梅 爾 對 亞 洛 斯 來 說 是 把 雙 刃 劍 。一 方 面 來 說 ，當 亞 洛 斯 面 臨 困 難 的 時 候 她 會 幫 忙 ，但 是 另 一 方 面 ，他 有 時 候 並 不 滿 意 她 的 處 理 方 式 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30003</ID>
+			<DefaultText>我 們 沒 找 到 亞 洛 斯 需 要 的 靈 魂 學 者 。他 不 得 不 獨 自 解 決 這 個 問 題 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

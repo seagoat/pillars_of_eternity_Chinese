@@ -1,0 +1,33 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\01_defiance_bay_copperlane\01_bs_helig_book</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>5</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>海 利 格 的 死 对 他 的 书 法 没 有 帮 助 。这 些 凌 乱 狂 热 的 笔 记 详 细 说 明 了 各 种 灵 魂 研 究 仪 式 和 步 骤 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>你 从 海 利 格 尸 体 上 拿 到 的 护 符 在 你 碰 到 书 的 时 候 开 始 发 光 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>翻 过 一 些 页 之 后 ，你 发 现 护 符 的 一 个 快 速 完 成 的 ，潦 草 的 图 像 。笔 记 详 细 记 录 了 海 利 格 用 护 符 束 缚 Rowyna的 灵 魂 的 步 骤 -这 么 做 的 同 时 ，给 护 符 注 入 了 强 大 的 力 量 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>[检 查 这 本 书 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>[离 开 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

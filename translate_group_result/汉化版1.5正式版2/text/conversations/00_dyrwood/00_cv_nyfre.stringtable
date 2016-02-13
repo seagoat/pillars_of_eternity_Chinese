@@ -1,0 +1,933 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\00_dyrwood\00_cv_nyfre</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>185</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>你 偶 遇 一 位 娇 小 ，身 穿 黑 衣 戴 着 兜 帽 的 女 子 。她 紧 张 地 拧 着 双 手 自 言 自 语 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>她 注 意 到 你 时 停 了 下 来 。”你 迷 路 了 ？这 房 间 有 人 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>“看 看 谁 回 来 了 。没 什 么 可 多 说 的 了 ，朋 友 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“给 我 带 什 么 来 了 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>“我 说 了 ，碰 头 地 点 见 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“所 以 除 非 我 的 事 你 搞 定 了 ，不 然 别 打 扰 我 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“你 是 谁 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“你 似 乎 有 点 紧 张 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>“事 实 上 是 搞 定 了 。我 是 梅 德 雷 斯 派 来 的  - 偷 走 护 符 的 家 伙 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>“再 见 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>11</ID>
+			<DefaultText>“我 只 是 有 几 个 问 题 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>女 子 勉 强 地 笑 了 笑 ，她 的 目 光 游 离 着 你 的 脖 子 。”我 是 妮 芙 蕾 。只 是 个 路 过 的 旅 行 者 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>13</ID>
+			<DefaultText>“我 猜 你 也 是 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>“好 了 ，如 果 没 别 的 事 ，我 希 望 你 离 开 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>“有 什 么 可 紧 张 的 ？且 不 说 陌 生 人 闯 进 我 的 房 间 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>16</ID>
+			<DefaultText>“…说 实 话 ，我 确 实 有 些 事 找 你 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>17</ID>
+			<DefaultText>“但 我 相 信 你 自 己 也 有 事 要 忙 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>18</ID>
+			<DefaultText>妮 芙 蕾 变 得 紧 张 ，警 惕 地 注 视 着 你 。”是 吗 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>19</ID>
+			<DefaultText>“觉 得 你 可 能 需 要 帮 忙 而 已 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20</ID>
+			<DefaultText>“或 许 我 能 帮 上 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>22</ID>
+			<DefaultText>“嗯 。确 实 需 要 个 人 来 …平 衡 下 人 数 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>23</ID>
+			<DefaultText>“我 在 等 一 个 接 头 人 。村 里 戴 着 石 护 符 的 一 个 男 子 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>24</ID>
+			<DefaultText>“如 果 一 切 就 绪 ，我 要 你 安 排 见 面 。找 个 偏 僻 ，不 会 被 人 偷 袭 的 地 方 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>25</ID>
+			<DefaultText>“是 吗 ？你 为 什 么 要 那 么 做 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>26</ID>
+			<DefaultText>“如 果 这 把 戏 是 我 的 最 大 能 耐 ，那 我 麻 烦 就 大 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>27</ID>
+			<DefaultText>“我 冒 过 不 少 风 险 ，但 依 旧 好 好 活 着 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>29</ID>
+			<DefaultText>“你 想 帮 忙 ，我 告 诉 你 怎 么 帮 。安 排 好 见 面 之 前 别 来 打 扰 我 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30</ID>
+			<DefaultText>妮 芙 蕾 朝 你 眨 了 眨 眼 ，然 后 傻 笑 起 来 。”好 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>31</ID>
+			<DefaultText>“那 好 吧 。或 许 你 真 能 帮 上 我 的 忙 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>32</ID>
+			<DefaultText>妮 芙 蕾 仔 细 打 量 了 你 一 番 。”好 吧 …你 看 上 去 似 乎 挺 有 能 力 的 样 子 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>33</ID>
+			<DefaultText>“一 切 准 备 就 绪 我 就 回 来 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>34</ID>
+			<DefaultText>“我 到 哪 找 你 的 接 头 人 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>36</ID>
+			<DefaultText>“你 不 能 亲 自 去 见 他 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>37</ID>
+			<DefaultText>“见 面 做 笔 交 易 而 已 ，过 于 谨 慎 了 吧 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>38</ID>
+			<DefaultText>“你 们 交 易 什 么 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>40</ID>
+			<DefaultText>“他 应 该 在 镇 子 某 个 地 方 。如 果 他 走 了 …我 也 不 会 多 逗 留 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>41</ID>
+			<DefaultText>“我 现 在 宁 可 不 趟 这 摊 浑 水 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>43</ID>
+			<DefaultText>“如 果 你 想 八 卦 ，楼 下 有 很 多 村 民 愿 意 陪 你 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>44</ID>
+			<DefaultText>“我 说 了 ，我 不 喜 欢 冒 风 险 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>45</ID>
+			<DefaultText>“这 种 事 顺 利 的 时 候 都 会 出 岔 子 。当 你 的 老 搭 档 们 突 然 决 定 独 吞 赃 物 时 ，到 时 候 就 …”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>46</ID>
+			<DefaultText>“一 场 厮 杀 不 可 避 免 ，完 了 尸 体 被 扔 进 河 里 。你 懂 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>47</ID>
+			<DefaultText>“据 说 是 家 族 遗 物 。一 根 权 杖 。似 乎 对 当 地 其 中 一 个 名 贵 家 族 来 说 感 情 浓 厚 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>48</ID>
+			<DefaultText>“对 别 人 来 说 也 值 很 多 钱 ，鉴 于 权 杖 顶 端 安 置 了 一 颗 大 宝 石 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>49</ID>
+			<DefaultText>“我 ，我 只 想 赶 紧 把 东 西 卖 了 。东 西 越 早 转 手 越 好 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>51</ID>
+			<DefaultText>“我 ，我 是 来 休 息 的 。请 勿 打 扰 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>52</ID>
+			<DefaultText>“我 找 到 你 的 接 头 人 了 ，梅 德 雷 斯 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>53</ID>
+			<DefaultText>“我 还 有 几 个 问 题 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>54</ID>
+			<DefaultText>“再 见 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>55</ID>
+			<DefaultText>“说 来 听 听 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>56</ID>
+			<DefaultText>“很 好 。怎 么 样 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>57</ID>
+			<DefaultText>“简 单 的 交 易 。你 只 需 找 到 他 ，然 后 说 出 我 名 字 就 行  - 只 需 我 的 名 字 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>58</ID>
+			<DefaultText>“你 知 道 在 哪 能 找 到 我 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>59</ID>
+			<DefaultText>“梅 德 雷 斯 想 动 摇 我 背 叛 你 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>60</ID>
+			<DefaultText>[说 谎 ]“一 切 似 乎 就 绪 了 。他 会 来 交 易 点 见 我 们 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>63</ID>
+			<DefaultText>“迪 福 特 东 面 ，河 西 面 的 废 墟 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>64</ID>
+			<DefaultText>“是 吗 ？不 代 表 他 真 的 会 守 信 赴 约 ，不 是 吗 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>65</ID>
+			<DefaultText>“总 之 我 大 老 远 过 来 不 是 为 了 像 巷 子 猫 一 样 逃 跑 的 。这 笔 交 易 能 让 我 快 活 好 一 阵 子 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>66</ID>
+			<DefaultText>“我 们 必 须 谨 慎 行 事  - 速 进 速 出 ，干 净 利 落 。他 想 在 哪 见 面 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>67</ID>
+			<DefaultText>“运 气 总 算 站 在 我 这 边 了 …不 敢 相 信 一 切 就 快 结 束 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>71</ID>
+			<DefaultText>“哦 ，运 气 真 背 ！去 他 妈 的 ，他 们 …他 们 跟 踪 我 到 这 儿 来 了 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>72</ID>
+			<DefaultText>“我 杀 了 那 些 背 后 捅 刀 的 混 蛋 ！要 么 还 有 人 知 道 偷 走 遗 物 的 计 划 …要 么 我 之 前 的 老 板 想 独 吞 遗 物 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>73</ID>
+			<DefaultText>“我 可 以 跟 卖 遗 物 的 钱 说 再 见 了 ，但 我 不 打 算 像 害 怕 的 猫 一 样 逃 跑  - 我 要 见 见 这 个 冒 牌 货 ，再 把 自 己 的 名 字 刻 在 他 肉 体 上 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>74</ID>
+			<DefaultText>“这 样 应 该 行 了 。到 时 见 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>75</ID>
+			<DefaultText>“我 会 准 备 好 的 。到 时 见 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>76</ID>
+			<DefaultText>“你 最 好 快 说 。来 的 为 什 么 是 你 不 是 他 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>77</ID>
+			<DefaultText>“不 知 道 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>78</ID>
+			<DefaultText>“我 不 问 东 问 西 。我 只 是 来 送 信 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>79</ID>
+			<DefaultText>[说 谎 ]“他 身 体 不 适 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>80</ID>
+			<DefaultText>她 眯 了 眯 眼 。”那 他 在 哪 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>81</ID>
+			<DefaultText>“我 在 村 子 里 的 贝 拉 斯 神 庙 遇 见 他 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>82</ID>
+			<DefaultText>“村 里 某 个 地 方 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>83</ID>
+			<DefaultText>[说 谎 ]“不 知 道 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>84</ID>
+			<DefaultText>女 子 从 兜 帽 里 揣 摩 了 一 番 。她 横 起 双 臂 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>85</ID>
+			<DefaultText>“至 少 你 没 说 谎 。真 希 望 我 也 可 以 这 样 说 你 的 雇 主 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>86</ID>
+			<DefaultText>“你 指 望 我 会 上 当 ？还 是 你 觉 得 我 很 好 骗 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>87</ID>
+			<DefaultText>“…好 吧 。那 谈 正 事 吧 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>88</ID>
+			<DefaultText>“听 着 。我 没 理 由 相 信 你 。你 只 是 被 雇 来 做 交 易 的 打 手 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>89</ID>
+			<DefaultText>“我 不 是 来 玩 阴 的 ，但 我 不 会 再 中 你 的 陷 阱 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>90</ID>
+			<DefaultText>“不 说 了 。你 跟 你 主 人 说 交 易 取 消 了 。滚 吧 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>91</ID>
+			<DefaultText>“我 想 单 独 见 他 。不 耍 把 戏 。你 们 当 中 谁 敢 不 老 实 ，我 直 接 掏 出 你 们 的 五 脏 六 腑 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>99</ID>
+			<DefaultText>“好 吧 。他 想 在 哪 见 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>100</ID>
+			<DefaultText>“迪 福 特 东 面 ，河 西 面 的 废 墟 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>101</ID>
+			<DefaultText>“可 以 。到 时 见 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>102</ID>
+			<DefaultText>“没 事 ，再 见 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>103</ID>
+			<DefaultText>“我 该 怎 么 做 来 着 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>104</ID>
+			<DefaultText>“一 个 男 子 在 村 子 里 等 我  - 戴 石 护 符 的 男 子 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>105</ID>
+			<DefaultText>“如 你 所 愿 。再 见 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>106</ID>
+			<DefaultText>“我 跟 你 没 什 么 可 说 的 了 。离 开 吧 …”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>107</ID>
+			<DefaultText>“你 这 混 蛋 ，看 着 我 ！现 在 谁 栽 在 谁 手 上 了 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>108</ID>
+			<DefaultText>“我 要 杀 了 你 ，还 有 这 群 背 后 捅 刀 的 混 蛋 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>109</ID>
+			<DefaultText>“你 终 于 到 了 。梅 德 雷 斯 应 该 很 快 就 到 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>110</ID>
+			<DefaultText>“确 保 交 易 顺 利 。交 易 不 结 束 我 们 就 不 安 全 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>111</ID>
+			<DefaultText>“保 持 警 惕 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>112</ID>
+			<DefaultText>“我 不 认 识 你 ，我 也 不 喜 欢 冒 不 必 要 的 风 险 。管 住 自 己 的 钱 和 脑 袋 就 行 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>113</ID>
+			<DefaultText>“别 耍 花 招 。谈 谈 地 点 吧 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>114</ID>
+			<DefaultText>“这 笔 交 易 有 什 么 见 不 得 人 的 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>115</ID>
+			<DefaultText>“什 么 意 思 ，又 是 陷 阱 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>116</ID>
+			<DefaultText>“梅 德 雷 斯 为 什 么 要 耍 花 招 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>119</ID>
+			<DefaultText>“这 种 事 顺 利 的 时 候 都 会 出 岔 子 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>120</ID>
+			<DefaultText>“当 你 的 老 搭 档 们 突 然 决 定 独 吞 赃 物 时 ，到 时 候 就 …”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>121</ID>
+			<DefaultText>“这 样 很 容 易 显 得 你 不 可 信 ，如 果 你 懂 我 意 思 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>122</ID>
+			<DefaultText>“我 和 我 的 一 些 老 搭 档 被 派 去 找 这 根 权 杖 。乡 村 名 贵 家 族 的 家 族 遗 物 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>123</ID>
+			<DefaultText>“据 说 很 有 感 情 。但 对 别 人 来 说 也 值 很 多 钱 ，鉴 于 权 杖 顶 端 安 置 了 一 颗 大 宝 石 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>124</ID>
+			<DefaultText>“珍 贵 到 足 以 有 把 我 排 除 在 协 商 外 的 念 头 。别 以 为 老 板 看 到 我 脱 身 ，但 他 的 人 没 会 开 心 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>125</ID>
+			<DefaultText>“这 样 谁 会 开 心 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>126</ID>
+			<DefaultText>“或 许 他 太 过 贪 婪 。或 许 他 决 定 不 想 放 弃 到 手 的 钱 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>127</ID>
+			<DefaultText>“或 许 他 对 自 己 的 身 份 没 说 实 话 。很 难 知 道 ，不 是 吗 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>128</ID>
+			<DefaultText>“好 了 …我 也 是  - 他 们 都 是 一 伙 的 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>129</ID>
+			<DefaultText>“戴 兰 也 是 。他 知 道 这 里 发 生 过 什 么 后 一 定 会 更 凶 残 对 付 我 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>130</ID>
+			<DefaultText>“很 明 显 我 没 法 回 反 抗 湾 了 ……不 过 能 活 下 来 应 该 算 走 运 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>131</ID>
+			<DefaultText>“很 乐 意 帮 忙 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>132</ID>
+			<DefaultText>“先 把 交 易 完 成 吧 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>133</ID>
+			<DefaultText>[攻 击 ]“别 急  - 把 权 杖 给 我 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>134</ID>
+			<DefaultText>“这 次 没 你 我 甚 至 活 不 下 来 。真 希 望 能 给 你 更 多 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>135</ID>
+			<DefaultText>“好 了 ，我 走 了 ……或 许 还 有 机 会 再 见 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>136</ID>
+			<DefaultText>“什 么 ？！不 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>137</ID>
+			<DefaultText>“真 梅 德 雷 斯 已 经 死 了 。有 人 在 冒 充 他 ，并 要 求 我 找 到 你 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>138</ID>
+			<DefaultText>“那 …如 果 你 跟 这 冒 充 者 是 一 伙 的 ，你 告 诉 我 干 嘛 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>139</ID>
+			<DefaultText>“我 跟 他 不 是 一 伙 的 ，但 我 想 知 道 到 底 怎 么 回 事 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>140</ID>
+			<DefaultText>“我 愿 意 听 你 的 解 释 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>141</ID>
+			<DefaultText>“我 不 知 道 耍 把 戏 。恐 吓 更 有 效  - 把 你 带 的 东 西 给 我 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>142</ID>
+			<DefaultText>[攻 击 ]“我 总 是 在 杀 戮 开 始 前 感 受 到 真 诚 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>143</ID>
+			<DefaultText>“我 明 白 了 。现 在 没 什 么 可 失 去 的 了 …我 受 到 反 抗 湾 贵 族 的 雇 佣 收 取 一 件 珍 贵 的 传 家 宝 ，一 根 权 杖 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>144</ID>
+			<DefaultText>“我 搭 档 决 定 杀 了 我 并 独 吞 赃 物  - 我 当 时 心 情 不 好 。他 们 现 在 睡 在 自 己 的 归 属 地 了 ，到 处 是 耗 子 和 屎 的 阴 沟 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>145</ID>
+			<DefaultText>“我 怀 疑 我 的 前 任 老 板 是 布 置 陷 阱 的 人 。我 在 城 里 没 落 脚 地 ，但 我 知 道 交 易 遗 物 的 地 点 和 名 字 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>146</ID>
+			<DefaultText>“看 起 来 有 人 找 到 踪 迹 一 路 跟 踪 我 到 这 儿 了 。现 在 他 希 望 冒 充 接 头 人 收 取 遗 物 …然 后 在 我 数 钱 的 时 候 被 他 干 掉 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>147</ID>
+			<DefaultText>“雇 佣 打 手 是 么 ？那 你 明 白 我 说 的 了 …我 受 到 反 抗 湾 贵 族 的 雇 佣 收 取 一 件 珍 贵 的 传 家 宝 ，一 根 权 杖 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>148</ID>
+			<DefaultText>“我 一 起 去 见 冒 充 者 吧 ，到 时 我 会 解 决 他 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>149</ID>
+			<DefaultText>“我 告 诉 你 去 哪 见 这 家 伙 ，但 我 不 打 算 干 涉 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>150</ID>
+			<DefaultText>“悲 惨 的 故 事 。我 很 感 动  - 好 了 ，把 权 杖 给 我 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>151</ID>
+			<DefaultText>[攻 击 ]“就 我 而 言 ，我 宁 可 当 面 干 掉 你 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>152</ID>
+			<DefaultText>“我 曾 得 到 过 多 种 称 呼 ，但 我 不 是 傻 子 。权 杖 藏 在 很 隐 秘 的 地 方 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>153</ID>
+			<DefaultText>“显 然 没 理 由 把 权 杖 带 到 交 易 地 点  - 我 想 保 住 我 的 小 命 ，知 道 么 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>154</ID>
+			<DefaultText>“傻 子 通 常 觉 得 他 们 同 个 计 划 能 成 功 两 次 。你 想 又 交 易 权 杖 又 不 被 别 人 找 到 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>155</ID>
+			<DefaultText>[用 武 器 擦 伤 妮 芙 蕾 的 脖 子 ]“下 一 刀 会 刺 得 更 深 …深 到 在 你 流 血 至 死 前 供 出 权 杖 下 落 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>156</ID>
+			<DefaultText>“我 会 告 诉 他 你 会 为 交 易 定 条 件 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>157</ID>
+			<DefaultText>“回 你 主 人 那 ，告 诉 他 我 不 会 轻 易 被 骗  - 我 们 只 按 我 定 的 条 件 来 ，等 我 决 定 好 告 诉 你 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>158</ID>
+			<DefaultText>[攻 击 ]“你 在 挑 战 我 的 耐 心  - 在 我 解 决 你 之 后 我 会 找 到 权 杖 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>159</ID>
+			<DefaultText>“你 …不 只 是 为 了 点 钱 受 雇 的 打 手 ，我 看 出 来 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>160</ID>
+			<DefaultText>“是 的 ，你 说 对 了 。那 么 …如 果 我 告 诉 你 权 杖 在 哪 ，你 就 放 我 走  - 不 准 再 猎 杀 小 妮 芙 蕾 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>161</ID>
+			<DefaultText>你 的 移 动 速 度 惊 得 妮 芙 蕾 一 动 不 动 。她 只 能 盯 着 架 在 她 脖 子 上 的 武 器 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>162</ID>
+			<DefaultText>“好 了 …放 弃 吧 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>163</ID>
+			<DefaultText>“我 发 誓  - 我 不 会 伤 害 你 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>164</ID>
+			<DefaultText>[说 谎 ]“是 的 。你 可 以 毫 发 无 伤 地 离 开 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>165</ID>
+			<DefaultText>[攻 击 ]“直 接 杀 了 你 听 上 去 更 诱 人 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>166</ID>
+			<DefaultText>“权 杖 在 那 边 那 张 椅 子 的 坐 垫 里 ，紧 挨 房 间 的 桌 子 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>167</ID>
+			<DefaultText>“拿 去 吧 。拿 给 那 些 背 后 捅 刀 的 混 蛋  - 我 只 想 离 开 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>168</ID>
+			<DefaultText>“多 谢 你 的 信 息 。受 死 吧 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>169</ID>
+			<DefaultText>“我 和 你 要 找 的 家 伙 谈 过 了  - 他 要 我 找 到 你 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>171</ID>
+			<DefaultText>“你 应 该 小 心 你 身 边 的 雇 员 -找 到 你 真 是 太 简 单 了 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>173</ID>
+			<DefaultText>“梅 德 雷 斯 是 个 冒 牌 货 。他 杀 了 真 正 的 接 地 人 并 假 冒 了 他 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>174</ID>
+			<DefaultText>妮 芙 蕾 睁 大 了 眼 睛 。”什 么 ？”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>175</ID>
+			<DefaultText>“……嗯 ，那 结 束 了 。我 的 赚 钱 工 作 看 来 到 此 结 束 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>176</ID>
+			<DefaultText>“是 时 候 离 开 这 座 小 镇 了 。”我 不 能 再 回 到 反 抗 湾 ，这 点 很 明 确 ……或 许 我 们 会 再 碰 面 的 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>181</ID>
+			<DefaultText>“我 会 从 你 手 中 接 管 下 权 杖 。拿 过 来 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>183</ID>
+			<DefaultText>“……实 际 上 ，如 果 你 想 确 保 我 真 的 摆 脱 了 这 ，我 会 证 明 给 你 看 的 。如 果 你 帮 助 了 我 ，我 也 会 帮 助 你 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>187</ID>
+			<DefaultText>“这 把 权 杖 在 哪 里 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>188</ID>
+			<DefaultText>“我 不 会 让 任 何 事 发 生 在 你 身 上 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>189</ID>
+			<DefaultText>“别 做 傻 事 ，那 样 我 也 不 会 用 暴 力 解 决 事 情 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>190</ID>
+			<DefaultText>“我 会 考 虑 下 的 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>191</ID>
+			<DefaultText>妮 芙 蕾 睁 大 了 双 眼 。”安 全 的 地 方 。他 会 找 到 的 ，只 有 他 带 了 钱 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>192</ID>
+			<DefaultText>“很 高 兴 听 到 这 。你 不 会 后 悔 的 ，我 向 你 保 证 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>193</ID>
+			<DefaultText>“那 才 公 平 。记 住 报 价 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>194</ID>
+			<DefaultText>“别 考 虑 得 太 久 。我 会 表 现 的 很 大 方 -但 只 有 在 我 真 的 很 需 要 到 它 的 时 候 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>195</ID>
+			<DefaultText>“好 。让 我 们 谈 谈 会 面 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>196</ID>
+			<DefaultText>（攻 击 ）“我 会 找 到 它 的 -不 过 我 先 得 把 你 解 决 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>197</ID>
+			<DefaultText>“你 真 的 以 为 这 次 交 易 会 像 上 次 一 样 顺 利 ？“</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>198</ID>
+			<DefaultText>“什 么 ？别 做 白 日 梦 了 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>200</ID>
+			<DefaultText>“他 根 本 就 没 在 这 次 谈 判 中 活 着 出 来 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>201</ID>
+			<DefaultText>“他 现 在 很 可 能 还 躺 在 一 片 血 泊 之 中 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>202</ID>
+			<DefaultText>“我 ……”妮 芙 蕾 摇 头 。”如 果 不 是 呢 。那 这 就 会 是 我 一 次 翻 身 的 机 会 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>203</ID>
+			<DefaultText>“把 权 杖 给 我 ，然 后 我 会 告 诉 接 头 人 你 已 经 罢 手 了 。你 就 可 以 完 好 无 损 地 离 开 这 里 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>204</ID>
+			<DefaultText>“既 然 话 说 到 这 份 上 。那 就 让 我 们 谈 谈 见 面 的 事 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>205</ID>
+			<DefaultText>（抓 住 她 ）“告 诉 我 它 在 哪 里 ，不 然 你 失 去 的 可 不 就 是 一 把 权 杖 了 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>207</ID>
+			<DefaultText>“好 吧 。”妮 芙 蕾 指 着 角 落 旁 的 房 间 。”就 在 地 板 下 面 。你 ……你 去 拿 啊 拿 完 走 人 。你 再 也 不 会 见 到 我 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>209</ID>
+			<DefaultText>（撒 谎 ）“告 诉 我 它 在 哪 里 ，然 后 我 会 告 诉 接 头 人 你 已 经 罢 手 了 。你 就 能 完 好 无 损 地 离 开 这 里 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>210</ID>
+			<DefaultText>“好 吧 。”妮 芙 蕾 指 着 角 落 旁 的 房 间 。”就 在 地 板 下 面 。你 ……你 去 拿 啊 拿 完 走 人 。你 再 也 不 会 见 到 我 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>211</ID>
+			<DefaultText>妮 芙 蕾 惊 得 大 哭 起 来 。”好 -很 好 ！它 就 在 那 儿 。”她 指 着 角 落 旁 的 房 间 。”你 ……你 去 拿 啊 拿 完 走 人 。你 再 也 不 会 见 到 我 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>214</ID>
+			<DefaultText>（攻 击 ）“我 要 确 保 那 到 底 是 不 是 权 杖 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>215</ID>
+			<DefaultText>“明 智 之 举 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>216</ID>
+			<DefaultText>“什 -什 么 ？不 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>217</ID>
+			<DefaultText>“什 么 ？我 就 知 道 你 在 耍 花 招 ！你 点 子 低 啊 ，伙 计 ！”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>218</ID>
+			<DefaultText>“我 要 离 开 小 镇 了 。后 会 有 期 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>219</ID>
+			<DefaultText>“告 诉 梅 德 雷 斯 我 会 去 那 里 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>220</ID>
+			<DefaultText>“梅 德 雷 斯 不 像 他 表 面 看 上 去 的 那 样 ，他 是 德 梅 尼 尔 家 族 的 特 工 ，他 可 会 要 了 你 的 小 命 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

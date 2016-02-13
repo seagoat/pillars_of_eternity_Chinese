@@ -1,0 +1,31 @@
+<StringTableFile>
+  <Name>conversations\08_wilderness\08_cv_doemenel_thug</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>一群长相丑陋的流氓向你走来。这很奇怪，因为你正处在一片荒芜人烟的地方。
+
+“杰德玛·杜门朗向你问候，”其中一人对你说，“他还对你家人的遭遇表示哀悼。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“哀悼？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“真是奇怪。我也正想着要对你们的家人表示哀悼。”[攻击]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>领头的人拔出一把剑，有明显的用旧痕迹。
+
+“杜门朗给你提议，你就乖乖接受。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

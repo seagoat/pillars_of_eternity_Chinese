@@ -1,0 +1,254 @@
+﻿<StringTableFile>
+  <Name>conversations\13_twin_elms_elms_reach\13_cv_camp_infiltration_vision</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>“站 住 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>幻 影 士 兵 的 短 剑 指 着 你 的 胸 口 ，“你 来 错 城 市 了 ……审 判 官 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Trigger Conv Node 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“难 道 你 认 为 在 这 里 ，你 的 老 家 ，没 人 认 识 你 么 ？我 亲 眼 见 证 了 你 的 试 炼 ，我 看 到 你 活 活 烧 死 了 无 辜 的 人 ，我 的 朋 友 。”
+
+他 掐 着 你 的 喉 咙 ，你 无 法 说 话 ，“他 们 需 要 你 的 忏 悔 。”他 的 短 剑 离 你 的 眼 珠 只 有 一 根 发 丝 的 距 离 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"苏 罗 斯 ，你 在 干 什 么 ？“
+士 兵 大 吃 一 惊 ，马 上 放 了 你 并 转 向 说 话 者 ，一 个 穿 着 普 通 羊 毛 外 衣 的 女 人 ，比 他 矮 一 头 ，但 对 他 却 高 不 可 攀 。你 之 前 见 过 这 个 女 人 的 脸 ，但 在 远 处 看 ，满 是 阴 沉 和 残 忍 。而 现 在 则 满 是 关 切 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“如 果 他 这 个 刺 客 差 劲 到 想 在 白 天 接 近 一 个 全 副 武 装 的 侍 卫 的 话 ，我 就 没 什 么 可 害 怕 的 了 。我 要 听 听 他 会 说 什 么 。”
+她 盯 着 他 ，直 到 他 不 再 敢 看 她 。他 转 过 身 ，一 脸 愁 苦 ，斜 眼 看 着 你 ，握 剑 的 手 指 关 节 都 白 了 。</DefaultText>
+      <FemaleText>“如 果 他 这 个 刺 客 差 劲 到 想 在 白 天 接 近 一 个 全 副 武 装 的 侍 卫 的 话 ，我 就 没 什 么 可 害 怕 的 了 。我 要 听 听 他 会 说 什 么 。”
+她 盯 着 他 ，直 到 他 不 再 敢 看 她 。他 转 过 身 ，一 脸 愁 苦 ，斜 眼 看 着 你 ，握 剑 的 手 指 关 节 都 白 了 。</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>“你 怎 么 在 这 ，审 判 官 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“我 ……认 识 你 吗 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>一 见 到 你 ，艾 瓦 拉 的 眼 都 睁 大 了 。“我 的 亲 哥 哥 ，回 来 了 ！我 从 没 想 过 这 一 天 会 来 。”</DefaultText>
+      <FemaleText>一 见 到 你 ，艾 瓦 拉 的 眼 都 睁 大 了 。“我 的 亲 姐 姐 ，回 来 了 ！我 从 没 想 过 这 一 天 会 来 。”</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>一 见 到 你 ，艾 瓦 拉 的 眼 都 睁 大 了 。“我 一 定 是 在 做 梦 。从 没 想 过 还 能 见 到 你 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>“我 没 有 权 利 渴 求 它 。不 是 我 们 丢 下 东 西 那 个 样 子 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[说 谎 ]“我 只 是 想 再 见 到 你 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[说 谎 ]“我 是 来 尽 我 所 能 帮 你 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[说 谎 ]“我 相 信 你 的 学 说 是 正 确 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[说 谎 ]“我 以 审 判 官 的 名 义 犯 下 的 罪 恶 对 我 来 说 太 沉 重 了 。我 想 帮 你 来 了 结 它 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>“大 审 判 官 陶 斯 ·阿 卡 农 派 我 来 这 里 监 视 你 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[说 谎 ]“希 望 我 们 能 有 一 个 新 的 开 始 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>“很 有 帮 助 的 审 判 官 。不 错 的 想 法 。真 希 望 你 们 都 这 么 有 帮 助 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>“我 想 ……可 能 还 有 其 他 原 因 。不 过 你 在 这 里 ，这 就 已 经 足 够 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>“我 意 识 到 可 能 它 还 不 只 这 些 ，但 我 不 能 强 求 每 个 人 都 遵 从 自 己 的 意 愿 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>“你 有 没 有 想 到 ，当 你 的 大 审 判 官 让 你 投 降 的 时 候 ，他 是 让 你 招 降 其 他 人 ？”
+“不 管 怎 样 ，能 看 到 真 相 产 生 的 影 响 力 真 是 太 好 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>“能 有 一 个 老 学 生 回 来 真 是 太 好 了 。我 一 定 教 过 一 些 对 的 东 西 ，尽 管 也 教 了 很 多 错 误 的 东 西 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>“过 去 教 你 的 时 候 我 犯 了 很 多 错 误 。希 望 你 能 给 我 机 会 向 你 证 明 我 做 了 很 多 改 变 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>“不 管 怎 样 ，能 有 老 朋 友 回 来 太 好 了 。让 你 的 朋 友 变 成 随 从 ，你 想 象 不 出 其 中 的 难 过 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>艾 瓦 拉 好 奇 的 看 着 你 。“真 是 个 惊 喜 。好 久 都 没 见 过 老 朋 友 了 。而 你 ，我 更 是 ……没 想 到 能 见 到 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>“不 管 是 什 么 原 因 ，这 些 年 我 一 直 都 在 想 你 。身 边 都 是 陌 生 人 ，能 有 你 在 这 ，真 是 太 好 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>“没 有 什 么 东 西 能 比 得 上 家 人 的 维 系 。我 不 该 对 我 们 的 重 聚 产 生 怀 疑 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>“当 听 说 陶 斯 成 为 审 判 官 时 ，我 以 为 永 远 失 去 了 你 。能 看 到 我 们 的 家 庭 不 会 被 轻 易 拆 散 ，真 是 太 好 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>如 果 有 更 简 单 的 方 法 ，不 用 招 降 大 审 判 官 就 好 了 。但 你 的 到 来 或 许 意 味 着 ，我 们 的 目 标 可 能 不 远 了 。“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>“从 那 以 后 发 生 了 很 多 。审 判 官 ……”
+她 低 下 头 ，陷 入 了 沉 思 。
+“我 想 那 都 不 重 要 了 。毕 竟 你 已 经 在 这 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>“你 这 么 做 让 自 己 冒 着 很 大 的 风 险 。我 不 会 让 任 何 人 这 么 做 的 ，尤 其 是 他 的 生 命 对 我 很 重 要 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>“我 很 惊 讶 ，你 这 么 关 心 我 。你 知 道 我 是 不 会 让 你 做 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>“你 从 哪 来 ，审 判 官 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>“事 实 上 ，就 在 这 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>“是 这 样 吗 ？这 些 天 很 少 遇 到 人 。我 的 很 多 随 从 是 从 其 他 城 市 和 国 家 来 的 。而 且 这 些 士 兵 大 多 数 是 被 从 乡 下 征 兵 过 来 的 。”
+“我 很 欣 赏 这 个 想 法 ，多 找 一 些 了 解 克 雷 顿 的 人 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>她 盯 着 你 。“我 记 得 你 。那 是 几 年 前 ，我 还 是 个 传 教 士 。在 这 一 切 发 生 之 前 。”她 摇 了 摇 头 。
+“现 在 想 起 那 些 日 子 很 艰 难 ，是 不 是 ？我 不 会 忘 记 那 些 日 子 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>“我 很 少 有 随 从 来 自 那 个 地 方 。而 且 这 些 士 兵 大 多 数 是 被 从 乡 下 征 兵 过 来 的 。”我 很 欣 赏 这 个 想 法 ，多 找 一 些 了 解 克 雷 顿 的 人 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>“我 很 欢 迎 你 作 为 客 人 留 在 我 这 里 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>不 能 再 沉 默 下 去 ，士 兵 走 向 艾 瓦 拉 ，手 搭 在 她 肩 膀 上 ，把 她 转 过 来 。他 的 声 音 很 低 ，但 不 是 故 意 压 低 。
+“艾 瓦 拉 女 士 ，我 恳 请 你 。这 可 是 审 判 官 ！这 完 全 是 无 谓 的 牺 牲 。唯 一 能 成 功 的 方 法 ，就 是 你 放 任 其 不 管 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>她 坚 决 的 甩 开 了 他 的 手 。“这 是 个 传 教 士 ，和 我 以 前 一 样 。传 教 错 误 的 东 西 ，和 我 一 样 。”
+“如 果 我 都 不 能 相 信 ，一 个 人 在 知 道 真 相 后 就 会 辩 清 是 非 的 话 ，我 们 还 有 什 么 希 望 ？”</DefaultText>
+      <FemaleText>她 坚 决 的 甩 开 了 他 的 手 。“这 是 个 传 教 士 ，和 我 以 前 一 样 。传 教 错 误 的 东 西 ，和 我 一 样 。”
+“如 果 我 都 不 能 相 信 ，一 个 人 在 知 道 真 相 后 就 会 辩 清 是 非 的 话 ，我 们 还 有 什 么 希 望 ？”</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>“我 们 有 过 很 多 传 教 士 。他 们 是 我 们 最 坚 定 的 信 仰 ，也 对 我 们 帮 助 最 大 。他 们 很 多 为 了 我 们 而 死 。我 们 不 能 就 这 样 遗 忘 他 们 。”
+“如 果 审 判 官 想 要 的 我 的 性 命 ，尽 管 拿 去 。因 为 他 们 也 知 道 ，我 所 追 从 的 事 业 ，不 会 因 我 的 死 而 陨 落 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>艾 瓦 拉 并 不 眨 眼 。“事 情 像 那 样 绝 望 吗 ？我 不 知 道 。”
+“我 希 望 你 的 下 个 任 务 能 刺 激 点 。听 我 的 演 讲 ，对 一 个 刺 客 来 说 ，是 无 聊 了 点 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>艾 瓦 拉 在 冲 着 她 身 后 的 地 方 招 呼 你 。“来 吧 。我 们 有 很 多 要 谈 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>“一 个 审 判 官 派 来 的 刺 客 ，小 姐 。竟 敢 接 近 我 们 的 营 地 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>“小 姐 ，他 承 认 是 间 谍 了 ！”</DefaultText>
+      <FemaleText>"My Lady, she ADMITS being a spy!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>“那 他 就 不 是 个 威 胁 了 ，不 是 吗 ？”
+“我 没 什 么 要 隐 瞒 的 。我 看 到 的 ，是 说 服 一 个 可 能 帮 我 们 的 人 。”</DefaultText>
+      <FemaleText>“那 他 就 不 是 个 威 胁 了 ，不 是 吗 ？”
+“我 没 什 么 要 隐 瞒 的 。我 看 到 的 ，是 说 服 一 个 可 能 帮 我 们 的 人 。”</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

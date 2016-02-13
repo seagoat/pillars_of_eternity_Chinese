@@ -1,0 +1,477 @@
+﻿<StringTableFile>
+  <Name>conversations\07_gilded_vale\07_cv_nedmar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>94</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>虚 弱 的 老 神 父 伏 在 桌 前 ，戴 着 厚 厚 的 单 片 眼 镜 砍 树 ，四 周 全 是 书 卷 和 羊 皮 纸 。你 走 近 之 后 他 抬 起 头 ，眨 了 眨 眼 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>“你 回 来 了 。通 过 城 堡 时 要 小 心 。你 突 然 出 现 在 这 会 给 我 们 带 来 巨 大 的 灾 难 性 后 果 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>“你 回 来 了 ！找 到 他 没 有 ？有 人 幸 存 吗 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>“你 好 ，又 是 我 了 。我 希 望 你 在 下 决 定 之 前 和 莱 德 里 克 谈 一 谈 。或 许 能 帮 助 丰 饶 之 谷 走 出 黑 暗 ，沐 浴 神 的 荣 光 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>“很 遗 憾 。不 过 现 在 我 们 可 以 回 头 谈 谈 让 丰 饶 之 谷 重 归 和 平 的 问 题 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>“我 来 见 莱 德 里 克 。你 会 帮 助 我 吗 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“你 怎 么 知 道 是 寇 尔 什 派 我 来 的 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>奈 德 玛 后 悔 地 皱 起 眉 头 。“我 知 道 自 己 做 不 到 。我 曾 经 警 告 过 寇 尔 什 一 行 人 。我 也 确 实 想 劝 阻 他 们 。但 我 只 是 白 费 力 气 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>“如 果 我 救 了 基 亚 克 ，你 能 帮 忙 让 我 去 见 莱 德 里 克 吗 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>“基 亚 克 很 安 全 。他 让 我 转 告 你 ，他 小 时 候 你 给 的 那 个 雕 像 他 还 留 着 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>奈 德 玛 睁 大 了 眼 睛 。他 激 动 地 冲 过 去 抓 住 你 的 胳 膊 。“谢 天 谢 地 ，谢 谢 你 ！我 没 想 到 你 能 ……我 生 怕 ……”他 摇 摇 头 ，“我 不 希 望 他 这 么 早 就 遇 上 苍 白 骑 士 ……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>奈 德 玛 的 表 情 僵 住 了 ，他 沉 默 下 来 。这 位 老 人 喘 了 几 口 气 ，然 后 发 出 大 喊 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>“那 会 来 更 多 的 人 。你 既 不 是 寺 僧 也 不 是 守 卫 。”他 的 声 音 干 燥 又 嘶 哑 。“你 是 个 入 侵 者 。是 寇 尔 什 派 你 来 的 吗 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>“是 啊 ，他 总 是 让 年 轻 人 奋 不 顾 身 地 挑 战 城 堡 的 防 卫 。”他 摇 摇 头 。“要 是 我 布 道 时 能 像 他 那 样 激 励 人 心 就 好 了 。你 到 底 还 是 来 了 。你 想 做 什 么 ？”</DefaultText>
+      <FemaleText>“是 啊 ，他 总 是 让 年 轻 女 人 奋 不 顾 身 地 挑 战 城 堡 的 防 卫 。”他 摇 摇 头 。“要 是 我 布 道 时 能 像 他 那 样 激 励 人 心 就 好 了 。你 到 底 还 是 来 了 。你 想 做 什 么 ？” </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>“就 连 可 怜 的 基 亚 克 也 ……他 至 少 活 下 来 了 。但 他 落 入 了 欧 丝 丽 亚 手 中 ，当 了 实 验 小 白 鼠 。”他 低 下 头 ，把 颤 抖 的 手 放 在 桌 子 上 支 撑 自 己 。“我 也 是 勉 强 躲 过 了 怀 疑 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>“你 提 到 欧 丝 丽 亚 的 实 验 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>“跟 我 讲 讲 基 亚 克 吧 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>“莱 德 里 克 沉 浸 在 悲 伤 里 ，谁 都 劝 不 动 他 。他 会 迁 怒 那 些 可 怜 的 囚 犯 。”他 摇 摇 头 。“我 对 此 难 以 忍 受 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>“不 是 这 样 。我 只 是 不 赞 成 他 的 方 法 。我 们 是 老 朋 友 了 ……他 年 轻 时 我 就 认 识 他 。所 以 更 不 愿 意 看 到 他 变 得 盲 目 冲 动 。”奈 德 玛 皱 起 眉 。“尽 管 他 目 的 是 好 的 ，但 他 们 带 来 的 伤 害 更 大 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>“我 不 希 望 他 伤 害 别 人 。所 以 我 才 被 卷 入 了 他 们 的 权 利 斗 争 。”他 举 起 瘦 长 的 手 指 。“但 寇 尔 什 和 莱 德 里 克 都 无 法 解 决 这 场 危 机 。他 们 都 是 凡 人 。我 们 必 须 仰 仗 贝 拉 斯 。只 有 双 生 神 才 能 给 丰 饶 之 谷 的 灵 魂 带 来 安 宁 ，只 有 向 贝 拉 斯 祈 祷 ，才 能 根 绝 怀 德 温 遗 症 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>奈 德 玛 静 静 地 端 详 你 。“我 的 眼 睛 或 许 不 好 使 ，但 我 心 里 清 楚 。寇 尔 什 在 尽 可 能 地 招 募 支 持 者 ，他 开 始 执 着 地 攻 打 城 堡 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>“他 刚 刚 尝 试 过 攻 城 。我 早 就 预 料 到 这 是 一 场 灾 难 。现 在 正 如 你 所 见 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>“寇 尔 什 不 愿 意 认 清 事 实 ，也 不 理 解 为 什 么 莱 德 里 克 一 直 有 权 有 势 。如 果 他 想 代 替 莱 德 里 克 ，就 必 须 有 人 引 导 他 。我 ……我 只 希 望 他 能 听 进 去 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[离 开 ]“再 见 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>“有 一 个 寺 僧 ，”奈 德 玛 表 情 凝 重 ，“他 小 时 候 在 街 上 乞 讨 ，我 将 他 带 到 了 这 里 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>“我 希 望 他 能 在 教 堂 里 长 大 ，等 我 老 了 就 替 我 扶 持 莱 德 里 克 大 人 。”他 的 声 音 很 苦 涩 。“但 他 对 寇 尔 什 那 徒 劳 的 反 叛 更 感 兴 趣 。我 留 不 住 他 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>“现 在 他 加 入 了 寇 尔 什 来 对 付 我 们 的 大 人 ，最 后 被 锁 在 地 牢 里 。我 怕 他 已 经 沦 为 欧 丝 丽 亚 的 受 害 者 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>“欧 丝 丽 亚 原 本 是 个 聪 明 的 姑 娘 ，却 被 通 灵 师 洗 脑 了 。她 用 亵 神 的 理 论 和 虚 妄 的 希 望 迷 惑 了 莱 德 里 克 ，以 此 引 导 他 的 人 民 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>“莱 德 里 克 竟 然 蠢 到 相 信 欧 丝 丽 亚 的 鬼 话 。他 允 许 那 女 人 随 意 为 实 验 做 准 备 。如 今 城 堡 最 低 处 充 满 了 腐 烂 的 味 道 。不 知 有 多 少 灵 魂 悲 伤 地 栖 居 黑 暗 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>“我 ……祈 求 莱 德 里 克 放 过 基 亚 克 。但 我 只 是 延 缓 了 他 的 死 期 。”他 摇 摇 头 ，“他 现 在 任 由 欧 丝 丽 亚 摆 布 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>“我 ……我 能 告 诉 你 怎 么 去 下 面 莱 德 里 克 的 礼 拜 堂 。那 里 就 在 王 座 之 间 旁 边 。”奈 德 玛 的 声 音 在 颤 抖 。“但 基 亚 克 还 有 危 险 ，我 不 能 冒 险 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>“如 果 你 能 保 护 他 远 离 欧 丝 丽 亚 ，我 向 你 保 证 ，我 会 倾 尽 全 力 来 帮 助 你 。”他 小 心 地 环 视 房 间 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>“这 里 往 南 有 个 门 ，就 在 贝 拉 斯 神 龛 旁 边 ，能 直 通 地 牢 ，在 那 你 能 找 到 基 亚 克 。求 你 不 要 惹 人 注 意 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>“我 会 把 基 亚 克 送 到 安 全 的 地 方 再 回 来 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>“没 时 间 做 这 些 了 ！死 老 头 ，给 我 钥 匙 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>“我 会 尽 量 避 免 流 血 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>“……我 会 回 来 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>“多 加 小 心 。欧 丝 丽 亚 的 魔 法 很 强 ，而 且 喜 欢 用 残 忍 的 陷 阱 。如 果 她 被 激 怒 了 会 很 可 怕 。”奈 德 玛 双 手 交 叠 ，“愿 诸 神 指 引 你 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>奈 德 玛 站 直 了 身 体 ，尽 管 他 的 手 在 颤 抖 。“你 要 像 寇 尔 什 一 样 粗 鲁 ，来 威 胁 一 个 老 神 父 吗 ？你 不 救 基 亚 克 我 绝 不 会 帮 你 。我 话 就 说 到 这 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>老 神 父 放 心 地 吐 出 一 口 气 ，你 头 一 次 在 他 眼 中 看 到 了 希 望 的 微 光 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>“我 非 常 想 帮 助 你 ，但 基 亚 克 还 在 欧 丝 丽 亚 手 里 。如 果 他 有 个 三 长 两 短 ……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>“我 需 要 休 息 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>“你 应 该 不 会 ——”奈 德 玛 变 得 很 不 安 ，他 看 向 走 廊 。“也 好 。你 状 态 不 好 我 也 不 能 让 你 硬 闯 地 牢 。在 这 休 息 几 个 小 时 吧 ，我 会 看 着 不 让 别 人 进 来 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>“我 找 到 了 基 亚 克 ，但 是 在 逃 跑 途 中 他 被 杀 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>奈 德 玛 走 到 一 边 整 理 情 绪 。“这 是 我 许 给 你 的 。”他 从 长 袍 口 袋 里 取 出 一 把 铁 钥 匙 递 给 你 。“它 能 打 开 写 字 间 的 门 。”他 指 向 西 方 ，“走 这 边 你 就 能 避 开 许 多 守 卫 ，进 入 礼 拜 堂 找 到 莱 德 里 克 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>“在 你 走 之 前 我 想 恳 求 你 ……尽 管 莱 德 里 克 大 人 有 不 少 缺 点 ，但 他 一 直 虔 诚 地 奉 神 ，总 是 为 丰 饶 之 谷 的 整 体 利 益 着 想 。如 果 有 时 间 ，他 或 许 能 实 现 自 己 的 愿 望 。请 你 在 付 诸 暴 力 之 前 想 想 这 些 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>“这 钥 匙 能 打 开 什 么 门 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>“如 果 你 让 寇 尔 什 代 替 莱 德 里 克 坐 上 领 主 位 子 ，他 肯 定 会 很 开 心 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>“再 见 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>“我 诅 咒 你 ！你 的 灵 魂 将 四 处 游 荡 ，直 至 魂 飞 魄 散 ！守 卫 ，守 卫 ！过 来 帮 我 ！这 里 有 杀 人 凶 手 ！”这 位 老 人 从 胸 前 的 长 袍 掏 出 一 把 薄 薄 的 匕 首 朝 你 刺 过 来 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>“这 是 万 能 钥 匙 。”奈 德 玛 的 双 手 不 安 地 扭 动 ，“虽 然 不 是 每 扇 门 都 能 打 开 ，不 过 能 让 你 下 楼 去 大 人 的 礼 拜 堂 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>“你 还 能 打 开 城 堡 的 主 厅 大 门 。不 过 走 那 条 路 会 经 过 一 番 苦 战 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>“你 时 间 不 多 。不 管 你 怎 么 做 ，莱 德 里 克 大 人 都 会 很 快 发 现 一 个 囚 犯 逃 走 了 ，然 后 你 就 没 法 利 用 出 其 不 意 带 来 的 混 乱 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>“我 中 意 寇 尔 什 是 因 为 他 有 梦 想 。但 他 有 很 强 的 支 配 欲 望 ，尽 管 是 出 于 好 心 。他 的 行 动 不 是 出 自 己 的 信 念 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>“但 他 仍 然 是 我 的 朋 友 。我 愿 意 帮 助 寇 尔 什 使 丰 饶 之 谷 重 获 神 的 荣 光 。莱 德 里 克 大 人 该 下 台 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>“丰 饶 之 谷 也 将 迎 来 新 主 人 。我 希 望 你 能 做 出 明 智 的 选 择 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>奈 德 玛 看 起 来 比 往 常 更 加 虚 弱 ，他 的 皮 肤 皱 巴 巴 地 贴 在 骨 头 上 。他 一 直 盯 着 你 眨 眼 睛 ，仿 佛 想 看 得 更 清 楚 。“你 回 来 了 ……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>“恐 怕 你 找 不 到 他 了 。”奈 德 玛 颤 颤 巍 巍 地 指 向 拱 顶 ，“他 在 城 堡 的 最 高 处 等 着 你 。你 可 以 从 上 面 那 层 过 去 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>“祝 你 好 运 ，朋 友 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>“我 ……我 会 离 开 这 里 ，去 需 要 我 的 地 方 。将 贝 拉 斯 的 信 仰 扩 展 到 世 界 各 地 。”他 低 下 头 。“祝 你 好 运 ，朋 友 。请 ……让 这 一 切 都 落 幕 吧 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>“我 ……我 会 离 开 这 里 ，去 需 要 我 的 地 方 。或 许 我 还 能 找 到 基 亚 克 ，他 或 许 还 想 回 教 堂 来 。” 他 低 下 头 。“祝 你 好 运 ，朋 友 。请 ……让 这 一 切 都 落 幕 吧 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>“其 实 莱 德 里 克 让 我 去 解 决 寇 尔 什 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>“我 明 白 了 。那 你 会 结 束 他 的 叛 乱 。”奈 德 玛 低 头 面 对 桌 子 ，眼 睛 没 有 定 焦 。“那 么 或 许 ……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>“其 实 我 是 来 洗 劫 这 里 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>“你 似 乎 看 不 起 寇 尔 什 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>奈 德 玛 忧 虑 地 皱 起 眉 。“值 得 这 样 冒 风 险 吗 ？莱 德 里 克 一 直 饱 受 盗 贼 之 苦 。如 果 你 公 开 和 莱 德 里 克 的 敌 人 作 对 ，你 将 来 会 不 好 过 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>“不 管 你 有 什 么 理 由 ，我 都 要 劝 阻 你 。自 从 寇 尔 什 袭 击 失 败 ，莱 德 里 克 就 把 手 下 召 集 起 来 ，把 自 己 牢 牢 保 护 住 。” 奈 德 玛 摇 摇 头 ，“我 不 想 再 让 更 多 的 生 命 逝 去 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>奈 德 玛 摇 摇 头 。“我 不 会 阻 止 你 完 成 使 命 。我 祝 福 你 。为 了 寇 尔 什 的 野 心 ，太 多 无 辜 的 人 付 出 了 代 价 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>“去 丰 饶 之 谷 周 边 寻 找 寇 尔 什 吧 。他 不 会 走 太 远 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>“你 不 知 道 这 城 堡 了 发 生 了 多 可 怕 的 事 。莱 德 里 克 大 人 抛 弃 了 信 仰 ，开 始 痴 迷 非 自 然 生 物 。他 模 仿 欧 丝 丽 亚 造 出 了 许 多 怪 物 。”他 低 下 头 。“欧 丝 丽 亚 走 了 我 才 能 说 服 莱 德 里 克 让 我 留 下 来 。我 在 全 力 让 他 回 到 正 轨 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[攻 击 ]“欧 丝 丽 亚 让 我 问 候 你 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>这 位 老 人 跌 跌 撞 撞 地 远 离 你 ，长 皱 纹 的 脸 上 满 是 恐 惧 。他 惊 恐 地 呼 出 一 口 气 ，从 怀 里 摸 出 一 把 匕 首 。“守 卫 ，守 卫 ！快 来 救 我 ！这 里 有 杀 手 ！”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>“你 ……你 把 他 俩 都 杀 了 。现 在 我 们 该 做 什 么 ？丰 饶 之 谷 要 乱 套 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>“哦 ，这 可 比 伪 装 好 多 了 。我 们 有 一 句 暗 号 。‘旧 的 结 束 是 新 的 开 始 。’把 这 句 话 告 诉 守 卫 ，他 们 就 不 会 干 涉 你 。我 很 怕 独 自 待 在 这 一 楼 。莱 德 里 克 的 佣 兵 们 很 没 耐 性 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[撒 谎 ]“基 亚 克 很 安 全 。他 让 我 转 告 你 ，他 小 时 候 你 给 的 那 个 雕 像 他 还 留 着 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Bank Node 81</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>“通 灵 师 。”他 的 嘴 扭 曲 了 ，“我 就 知 道 他 们 也 牵 扯 进 来 了 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>“这 片 大 地 布 满 硝 烟 战 火 。世 道 艰 难 ，世 风 日 下 。就 算 找 到 怀 德 温 遗 症 的 解 决 办 法 又 有 什 么 用 ？”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>她 的 轮 廓 转 眼 变 得 模 糊 不 清 。“这 大 厅 里 许 久 没 有 孩 子 们 的 欢 声 笑 语 了 。大 家 都 陷 入 了 绝 望 ，变 得 不 择 手 段 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>“他 企 图 杀 死 你 和 你 的 朋 友 ，你 却 要 和 他 处 好 关 系 ？真 不 敢 相 信 他 们 连 这 么 合 理 的 建 议 都 不 听 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>“还 好 他 的 前 辈 降 低 了 期 望 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>“我 们 都 是 贝 拉 斯 的 奴 仆 ，你 必 须 得 帮 我 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>“只 要 你 帮 我 办 事 ，”老 神 父 两 眼 放 光 ，“我 就 信 守 诺 言 。已 经 死 去 太 多 人 了 ……可 怜 的 依 格 瑞 德 女 士 ……”他 轻 轻 呼 出 一 口 气 ，“拜 托 你 了 。我 知 道 基 亚 克 死 期 未 到 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>“当 然 ，当 然 ，我 会 闩 上 门 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>“拿 上 这 个 吧 。我 没 什 么 钱 ，不 如 给 你 有 用 的 东 西 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>“嗯 ？谁 在 那 里 ？走 近 点 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>“基 亚 克 安 全 了 。他 让 我 跟 你 提 一 个 雕 像 ，说 是 你 给 他 的 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>奈 德 玛 睁 大 了 眼 睛 。他 激 动 地 冲 过 去 抓 住 你 的 胳 膊 。“谢 天 谢 地 ，谢 谢 你 ！我 没 想 到 你 能 ……我 生 怕 ……”他 摇 摇 头 ，“我 不 希 望 他 这 么 早 就 遇 上 苍 白 骑 士 ……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>奈 德 玛 走 到 一 边 整 理 情 绪 。“这 是 我 许 给 你 的 。”他 从 长 袍 口 袋 里 取 出 一 把 铁 钥 匙 递 给 你 。“它 能 打 开 写 字 间 的 门 。”他 指 向 西 方 ，“走 这 边 你 就 能 避 开 许 多 守 卫 ，进 入 礼 拜 堂 找 到 莱 德 里 克 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>“保 重 ，朋 友 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>“寇 尔 什 获 胜 了 ……你 有 基 亚 克 的 消 息 吗 ”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>“基 亚 克 很 安 全 。他 让 我 转 告 你 ，他 小 时 候 你 给 的 那 个 雕 像 他 还 留 着 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>奈 德 玛 睁 大 了 眼 睛 。他 激 动 地 冲 过 去 抓 住 你 的 胳 膊 。“谢 天 谢 地 ，谢 谢 你 ！我 没 想 到 你 能 ……我 生 怕 ……”他 摇 摇 头 ，“我 不 希 望 他 这 么 早 就 遇 上 苍 白 骑 士 ……”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>“拿 上 这 个 吧 。我 没 什 么 钱 ，不 如 给 你 有 用 的 东 西 。诸 神 保 佑 你 ，朋 友 ……还 有 我 们 的 新 主 人 。”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

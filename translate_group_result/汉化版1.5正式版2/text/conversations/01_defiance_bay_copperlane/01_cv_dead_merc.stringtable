@@ -1,0 +1,44 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\01_defiance_bay_copperlane\01_cv_dead_merc</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>6</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>当 你 靠 近 那 具 尸 体 ，你 能 感 受 到 他 虚 弱 的 灵 魂 在 周 围 游 荡 ，一 种 未 知 的 恐 惧 占 据 着 那 地 方 。
+
+
+
+你 离 尸 体 更 近 了 ，毫 无 征 兆 下 ，那 灵 魂 便 朝 你 扑 面 而 来 ，仿 佛 把 你 当 成 一 道 即 将 照 亮 这 片 阴 暗 潮 湿 之 地 的 孤 光 。它 的 精 气 入 侵 你 的 意 识 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>9</ID>
+			<DefaultText>前 面 有 个 人 的 穿 着 打 扮 和 你 神 似 ，你 们 朝 着 同 一 方 向 走 去 。你 不 知 道 他 的 名 字 ，而 事 实 就 是 这 样 。
+
+黑 夜 之 中 ，又 有 巨 怪 抓 走 另 一 个 人 。你 转 身 逃 跑 但 是 发 现 巨 魔 就 站 在 你 的 对 面 。你 被 它 那 刀 子 锋 利 般 的 牙 齿 和 利 爪 吓 坏 了 ，脑 袋 突 然 一 片 空 白 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>你 从 那 具 尸 体 的 记 忆 之 中 挣 脱 出 来 。尸 体 躺 在 潮 湿 肮 脏 的 地 面 上 。他 的 头 巾 和 面 具 不 见 了 ，并 且 他 的 衣 服 也 被 切 烂 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>12</ID>
+			<DefaultText>[离 开 ]</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>14</ID>
+			<DefaultText>你 现 在 换 了 一 个 躯 体 ，走 进 地 下 墓 穴 深 处 ，身 体 藏 在 布 袍 内 ，面 具 遮 住 了 整 个 脸 。你 正 沿 着 运 河 走 过 熟 悉 的 小 道 ，前 往 那 间 矗 立 在 人 物 雕 像 附 近 的 房 子 ，那 具 雕 像 穿 着 一 件 和 你 相 似 的 布 袍 ，。其 他 戴 着 头 巾 的 人 等 候 着 你 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>15</ID>
+			<DefaultText>Trigger Conv Node 15</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

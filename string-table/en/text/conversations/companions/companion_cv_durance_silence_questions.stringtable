@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\companions\companion_cv_durance_silence_questions</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>5</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Keep troubling me, and I may extend the tithe bowl for each question. Enough questions for now – let the road keep us until the next campfire."</DefaultText>
+      <DefaultText>"Keep troubling me, and I may extend the tithe bowl for each question. Enough questions for now &#8211; let the road keep us until the next campfire."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Are you a servant of Wael? Let mysteries and questions remain with him – at least until the next time we need rest."</DefaultText>
+      <DefaultText>"Are you a servant of Wael? Let mysteries and questions remain with him &#8211; at least until the next time we need rest."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Do you have Wael's eyes painted on your skin? There's more mysteries than questions, and even a marching force of answers won't placate you. Even soldiers need to let their thoughts settle – just as their priests do."</DefaultText>
+      <DefaultText>"Do you have Wael's eyes painted on your skin? There's more mysteries than questions, and even a marching force of answers won't placate you. Even soldiers need to let their thoughts settle &#8211; just as their priests do."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

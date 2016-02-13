@@ -1,0 +1,33 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\06_stronghold\06_cv_artificer_shopkeeper</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>5</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>“你 好 ，主 人 。你 会 在 这 看 到 最 精 妙 的 陷 阱 装 置 。油 和 套 网 ，以 及 幻 术 设 计 ，皆 用 于 束 缚 和 阻 碍 你 的 敌 人 。你 想 看 看 吗 ？”</DefaultText>
+			<FemaleText>“你 好 ，夫 人 。你 会 在 这 看 到 最 精 妙 的 陷 阱 装 置 。油 和 套 网 ，以 及 幻 术 设 计 ，皆 用 于 束 缚 和 阻 碍 你 的 敌 人 。你 想 看 看 吗 ？”</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>“我 看 看 你 有 什 么 。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>&quot;再 见 。&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>“早 上 好 ，主 人 。我 们 今 天 需 要 陷 阱 吗 ？”</DefaultText>
+			<FemaleText>“早 上 好 ，夫 人 。我 们 今 天 需 要 陷 阱 吗 ？”</FemaleText>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“晚 上 好 ，主 人 。我 们 今 晚 需 要 陷 阱 吗 ？”</DefaultText>
+			<FemaleText>“晚 上 好 ，夫 人 。我 们 今 晚 需 要 陷 阱 吗 ？”</FemaleText>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

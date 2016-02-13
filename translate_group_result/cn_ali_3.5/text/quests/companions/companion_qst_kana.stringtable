@@ -1,0 +1,80 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\companions\companion_qst_kana</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>14</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>时间和潮汐</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>找到马尔瓦德</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>和卡纳探索无尽之路</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>找到加布兰诺斯或者石碑</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>5</ID>
+			<DefaultText>找到塞德努瓦之下的废墟</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>卡纳·鲁亚，一个来自北方劳亚泰的奥玛人，来到迪伍德寻找一段神圣的文字，Tanvii ora Toha，又称美德之书。经过多年的寻找，他找到了在塞德努瓦的守护下的废墟中的石碑。
+
+他迫不及待要探索废墟了，还要我帮助他。那个时候，他看起来很乐意有我的陪伴——虽然他胆怯地承认了，被神秘凶手追杀是一部分原因。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>卡纳·鲁亚一直徘徊在主楼门口，希望能找到助手一起穿越危险重重的城堡。他相信马尔瓦德会回答关于他正在找的那座碑的疑问。似乎我们两个都在找老通魂者。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>卡纳·鲁亚认定我们会在地牢“无尽之路”的深处找到那座碑。他不知道碑究竟在哪里，但他能肯定它和加布兰诺斯（一位因格维斯学者）的遗物在一起。致力于研究因格维斯人多年，卡纳对他们的或者说他们中的遗迹激动不已。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我们已经穿过了封印之门，门后就是通往无尽之路下层区域的通道。卡纳·鲁亚认为这就是藏有加布兰诺斯作品的地点。这是一个险恶的地方，尽管卡纳·鲁亚很高兴到这里来，但我们最好还是快点找到加布兰诺斯的遗物。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10005</ID>
+			<DefaultText>马尔瓦德遥不可及，无法回答我们的问题。我们必须靠自己穿越主楼下的废墟。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText/>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>从结果看，卡纳·鲁亚寻找的碑已经被摧毁很久了- 是谁干的或为了什么，已经无从知晓了。真相似乎给了卡纳沉重打击。我试着鼓励他- 无论怎么说，最终答案还在前头。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>寻找美德之书之旅结束了，我们已经找到了卡纳要找的那块碑的碎片。卡纳明显对碑的破碎痛心不已，先前的狂热已经明显降温了。鉴于我们看到的那些，这也许是最好的结局。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>卡纳被杀了，他的远大抱负也随之烟消云散。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

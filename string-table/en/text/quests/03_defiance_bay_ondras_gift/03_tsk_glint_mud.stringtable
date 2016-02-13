@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>quests\03_defiance_bay_ondras_gift\03_tsk_glint_mud</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>22</EntryCount>
@@ -31,7 +30,7 @@
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>I met Imatl, an old deckhand in Ondra's Gift. He was part of a riverboat crew carrying several crates of cargo, including a few boxes of Engwithan artifacts. Several suits of armor from Clîaban Rilag attacked the crew, causing the ship to run aground.
+      <DefaultText>I met Imatl, an old deckhand in Ondra's Gift. He was part of a riverboat crew carrying several crates of cargo, including a few boxes of Engwithan artifacts. Several suits of armor from Cl&#238;aban Rilag attacked the crew, causing the ship to run aground.
 
 Now, Imatl's looking for someone to retrieve three missing pieces of a broken Engwithan scepter. He knows an animancer who would be willing to buy the artifact if all of the parts are found.</DefaultText>
       <FemaleText />

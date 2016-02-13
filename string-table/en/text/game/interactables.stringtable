@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>game\interactables</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>765</EntryCount>
@@ -1229,7 +1228,7 @@ Flesh and enfeebling of bone. The barbarian godless succumbed at last."</Default
     <Entry>
       <ID>321</ID>
       <DefaultText>West to Gilded Vale
-South to Anslög's Compass
+South to Ansl&#246;g's Compass
 East to Black Meadow</DefaultText>
       <FemaleText />
     </Entry>
@@ -1393,7 +1392,7 @@ East to Black Meadow</DefaultText>
     </Entry>
     <Entry>
       <ID>353</ID>
-      <DefaultText>Alarhî's Herbals</DefaultText>
+      <DefaultText>Alarh&#238;'s Herbals</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1403,7 +1402,7 @@ East to Black Meadow</DefaultText>
     </Entry>
     <Entry>
       <ID>355</ID>
-      <DefaultText>Masdên's Supplies</DefaultText>
+      <DefaultText>Masd&#234;n's Supplies</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2048,7 +2047,7 @@ Sunset brings darkness but never a map in the stars of the sky?"</DefaultText>
     </Entry>
     <Entry>
       <ID>497</ID>
-      <DefaultText>Iŵen's Herbs</DefaultText>
+      <DefaultText>I&#373;en's Herbs</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2113,7 +2112,7 @@ Sunset brings darkness but never a map in the stars of the sky?"</DefaultText>
     </Entry>
     <Entry>
       <ID>510</ID>
-      <DefaultText>Urŵa's Goods</DefaultText>
+      <DefaultText>Ur&#373;a's Goods</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2567,7 +2566,7 @@ Sunset brings darkness but never a map in the stars of the sky?"</DefaultText>
     </Entry>
     <Entry>
       <ID>604</ID>
-      <DefaultText>A shipping manifest listing the cargo of the "Prìncipa me Ciamena" - four hundred sharkskins from Rauatai, twenty bales of blackwood from the Living Lands, and six dozen barrels of Aedyre ale.</DefaultText>
+      <DefaultText>A shipping manifest listing the cargo of the "Pr&#236;ncipa me Ciamena" - four hundred sharkskins from Rauatai, twenty bales of blackwood from the Living Lands, and six dozen barrels of Aedyre ale.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

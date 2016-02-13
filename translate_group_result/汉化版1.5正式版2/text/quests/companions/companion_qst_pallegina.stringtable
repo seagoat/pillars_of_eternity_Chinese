@@ -1,0 +1,78 @@
+﻿<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>quests\companions\companion_qst_pallegina</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>14</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>0</ID>
+			<DefaultText>五 阳 之 子 </DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>去 和 维 拉 大 使 馆 的 阿 格 斯 蒂 交 谈 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>在 双 榆 城 帮 助 帕 勒 吉 娜 与 灵 魂 王 子 协 商 一 项 贸 易 协 定 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>去 维 拉 大 使 馆 警 告 阿 格 斯 蒂 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>4</ID>
+			<DefaultText>帮 助 帕 勒 吉 娜 与 双 榆 城 灵 魂 王 子 协 商 贸 易 协 定 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10000</ID>
+			<DefaultText>帕 勒 吉 娜 感 到 自 己 在 反 抗 湾 做 那 些 琐 事 是 在 浪 费 生 命 。她 坚 信 维 拉 共 和 国 受 到 了 更 为 严 重 的 威 胁 ，希 望 你 能 帮 助 调 查 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10001</ID>
+			<DefaultText>帕 勒 吉 娜 要 去 位 于 最 初 之 火 的 维 拉 大 使 馆 和 大 使 阿 格 斯 蒂 谈 话 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10002</ID>
+			<DefaultText>尽 管 帕 勒 吉 娜 付 出 了 大 量 努 力 ，维 拉 共 和 国 大 使 阿 格 斯 蒂 仍 坚 持 要 帕 勒 吉 娜 执 行 命 令 ，与 双 榆 城 的 灵 魂 王 子 一 起 在 维 拉 共 和 国 和 格 兰 法 斯 人 之 间 达 成 协 议 。这 个 协 议 将 减 少 迪 伍 德 的 贸 易 额 ，加 剧 迪 伍 德 和 共 和 国 之 间 的 紧 张 局 势 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10003</ID>
+			<DefaultText>我 有 必 要 去 最 初 之 火 的 维 拉 大 使 馆 警 告 他 ，暗 灰 之 钥 已 经 对 帕 勒 吉 娜 的 调 查 产 生 了 兴 趣 。作 为 她 的 上 级 ，他 也 可 能 是 暗 灰 之 钥 一 个 目 标 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10004</ID>
+			<DefaultText>尽 管 意 外 遭 遇 到 了 暗 灰 之 钥 ，帕 勒 吉 娜 与 双 榆 城 的 灵 魂 王 子 协 商 贸 易 协 定 的 命 令 并 没 有 变 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>20000</ID>
+			<DefaultText>很 不 幸 ，阿 格 斯 蒂 大 使 死 于 与 暗 灰 之 钥 的 交 锋 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30000</ID>
+			<DefaultText>帕 勒 吉 娜 执 行 维 拉 共 和 国 公 爵 的 命 令 ，进 行 了 他 们 坚 持 要 求 的 贸 易 协 商 。然 而 ，帮 助 格 兰 法 斯 人 从 迪 伍 德 人 那 里 夺 走 贸 易 份 额 将 加 剧 两 者 之 间 的 紧 张 局 势  - 甚 至 有 可 能 导 致 战 争 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30001</ID>
+			<DefaultText>帕 勒 吉 娜 改 变 了 公 爵 授 意 的 贸 易 协 定 中 的 一 些 条 款 ，以 便 共 和 国 无 法 夺 取 贸 易 份 额 。这 种 做 法 能 保 持 迪 伍 德 和 共 和 国 之 间 的 关 系 ，但 如 果 共 和 国 在 这 场 交 易 中 一 无 所 获 ，帕 勒 吉 娜 也 就 失 去 了 在 她 任 务 中 的 意 义 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>30002</ID>
+			<DefaultText>帕 勒 吉 娜 死 去 了 。</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+

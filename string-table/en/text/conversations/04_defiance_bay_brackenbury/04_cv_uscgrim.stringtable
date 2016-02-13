@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<StringTableFile>
   <Name>conversations\04_defiance_bay_brackenbury\04_cv_uscgrim</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>25</EntryCount>
@@ -103,7 +102,7 @@ Who could put their faith in animancy now? </DefaultText>
       <ID>39</ID>
       <DefaultText>You are pulled again from your surroundings, transcending the boundaries of memories and lifetimes, deeper and deeper past betrayals and murders and lies upon lies that form the thick webbing of plots beyond mortal comprehension. 
 
-You settle at last on a room you have seen before, expansive, with a tall device encasing an adra monolith at its center. The room is filled with people and the people all look at the device…</DefaultText>
+You settle at last on a room you have seen before, expansive, with a tall device encasing an adra monolith at its center. The room is filled with people and the people all look at the device&#8230;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

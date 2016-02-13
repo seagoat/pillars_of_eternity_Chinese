@@ -1,0 +1,33 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Name>conversations\00_dyrwood\00_si_ruillag_bridge</Name>
+<NextEntryID>1</NextEntryID>
+<EntryCount>5</EntryCount>
+<Entries>
+<Entry>
+<ID>1</ID>
+<DefaultText>A你面前橫臥著一座破橋。橋身大部分顯然已經斷裂落入河中，水岸兩側只剩下兩塊鋸齒般的巖座。你看到另一邊有一條巨大的隧道通往山中。你或許可以直接跳過那個缺口。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>3</ID>
+<DefaultText>[跳到另一邊。]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>4</ID>
+<DefaultText>[離開]</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>5</ID>
+<DefaultText>Y你平安無事地跳過了缺口。</DefaultText>
+<FemaleText/>
+</Entry>
+<Entry>
+<ID>6</ID>
+<DefaultText>[SkillCheck 0]錯估估計了缺口的寬度，勉強跳了過去，不過卻扭傷了手腕。</DefaultText>
+<FemaleText/>
+</Entry>
+</Entries>
+</StringTableFile>
+

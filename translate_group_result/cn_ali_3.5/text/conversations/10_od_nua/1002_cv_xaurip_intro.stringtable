@@ -1,0 +1,43 @@
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Name>conversations\10_od_nua\1002_cv_xaurip_intro</Name>
+	<NextEntryID>1</NextEntryID>
+	<EntryCount>7</EntryCount>
+	<Entries>
+		<Entry>
+			<ID>1</ID>
+			<DefaultText>你走到房间中间，你被突如其来刺耳尖厉的呻吟和吼叫包围起来了。几个满身是血的蛇蜥人疯狂地跳动着奇异的舞蹈。另一边，一只蛇蜥人把双手浸在一只满是鲜血的桶里，渴盼着加入那边蛇蜥人的仪式中。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>2</ID>
+			<DefaultText>在房间的尽头，一个脖子上戴着一串用小头骨和羽毛做的项链的蛇蜥人冲着那群聚在一起的蛇蜥人挥舞着法杖，尖声嘶叫着，戳着他们的身体。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>3</ID>
+			<DefaultText>这个蛇蜥人牧师突然把法杖举过头顶，猛地爆发出全身气力嘶喊着。他挥着法杖落到深坑的底部—然后指向你。</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>6</ID>
+			<DefaultText>Bank Node 6</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>7</ID>
+			<DefaultText>“我不敢肯定我会喜欢这个提议…”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>8</ID>
+			<DefaultText>“我觉得我们刚刚被邀请参加进来。”</DefaultText>
+			<FemaleText/>
+		</Entry>
+		<Entry>
+			<ID>10</ID>
+			<DefaultText>&quot;&quot;</DefaultText>
+			<FemaleText/>
+		</Entry>
+	</Entries>
+</StringTableFile>
+
