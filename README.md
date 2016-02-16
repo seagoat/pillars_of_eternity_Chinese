@@ -1,6 +1,11 @@
 # pillars_of_eternity_Chinese
 Pillars of Eternity Chinese translation pack | 永恒之柱中文汉化包
 
+## 20160217 更新
+> 主程序更新到了3.0.对应的翻译包也更新到了3.0
+> 没有翻译的文本，保留了原有的有英文
+> 这样不会出现 miss gui的问题
+
 ## 20160213 更新
 > 直接翻译 StringTable 基本搞定了
 > 领悟到了破解省略号，最简单的就是每个汉字之间都加空格
