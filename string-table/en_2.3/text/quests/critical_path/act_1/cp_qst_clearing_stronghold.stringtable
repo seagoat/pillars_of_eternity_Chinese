@@ -1,0 +1,62 @@
+<StringTableFile>
+  <Name>quests\critical_path\act_1\cp_qst_clearing_stronghold</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Clearing the Road.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Repair the Eastern Barbican and Travel to Woodend Plains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Speak with the Steward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Travel to Defiance Bay.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>In the wake of Maerwald's demise, I have come into ownership of a disrepaired stronghold, Caed Nua. However, if I wish to venture further, repairs must be made.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Caed Nua is now mine, but the path is blocked by debris. If I am to travel on to Woodend Plains, the crossroads between here and Defiance Bay, I must repair the Eastern Barbican.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>The old watcher is dead and now the derelict keep known as Caed Nua is abandoned. Perhaps I should speak with the Steward about how I may find my way to Defiance Bay.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I have cleared the road to Defiance Bay. I should make my way to the city as soon as possible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I repaired the road leading to out of Caed Nua. It was a long road, but I have arrived in Defiance Bay.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I managed to pull together my resources and repair the road to Defiance Bay.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

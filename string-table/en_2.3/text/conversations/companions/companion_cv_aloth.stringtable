@@ -1,0 +1,541 @@
+<StringTableFile>
+  <Name>conversations\companions\companion_cv_aloth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>104</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You see four people gathered by the door to the inn. Their raised voices and chopping gestures suggest an argument reaching its climax.
+
+The first figure raises his hands for calm. His face is partially obscured by a hood, but his height and stature suggest an elf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The others, two folk men and an elven woman, don't look convinced. 
+
+The woman crosses her arms. "Hoping to soothe our pride with a few Aedyre coppers, eh?" She spits at his feet. "We don't need your coin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What's going on?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Say nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Everyone calm down. Whatever this is about, I'm sure it's an overreaction."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ooh, a fight!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>One of the other men points at the hooded elf. His eyes are red from drink, but his gaze is focused. "Mocking us even while he shelters in our village. Just goes to show you what these fancy Aedyre manners are worth.
+
+"We don't take to that kind of treatment. Not from foreigners, and 'specially not from Aedyrans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The second man thrusts his chin at the elf. He stinks of sour ale. "Go on. Say it again. I'm itching for an excuse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Fye, you're itching for the kindling touch of your sister, ye coxfither."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>One of the other men glares at the hooded elf. His eyes are red from drink, but his gaze is focused. "You've got a lot of gall, mocking us in our own village. We don't take ill treatment from foreigners. 'Specially not Aedyrans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>One of the other men glares at the hooded elf. His eyes are red from drink, but his gaze is focused. "We're humble folk, but we're no fools. Not like he thinks, mocking us while he shelters in our village. We don't take to that kind of talk from foreigners, 'specially not Aedyrans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>A collective cry of outrage rises from the three locals. The second man snarls. "I'll cut that barrel-licking tongue out of your head!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Horror and shock paint themselves across the elven man's face in broad, hasty strokes. "This is a misunderstanding. I didn't say..." He frowns and swallows. "...whatever it is you think I said."
+
+He plants his feet. Something surly and raw flickers through his eyes. "We've nye quarrel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The elven woman draws a blade. "That's where you're wrong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I don't think attacking him is such a good idea..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Back down, all of you! This is absurd."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"You're not going to take that from him, are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I'm staying out of this one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"This is unnecessary. Wouldn't you rather be inside drinking than out here arguing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The three drunks scowl at you. "And why's that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"He's reaching for something. And since it's not the rapier at his side, it's either a wand or a throwing dagger, and you don't look ready to deal with either."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Because then you'll have me to deal with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"If someone's baiting you as obviously as he is, it's generally wisest to walk away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"This will end badly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The woman looks you up and down. "And that means you, too. Don't push us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"No one gives us orders, Aedyran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"No one gives us orders, foreigner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>They round on you, their eyes full of scattershot rage. "Oh no you don't, Aedyran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>They round on you, their eyes full of scattershot rage. "Oh no you don't, foreigner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>They turn their ire on you. "No, and we're not taking it from you, either."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"We don't take orders from any blazing Aedyrans. We don't take charity, neither."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"We don't want your charity either, foreigner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>They look at each other. One of the men gives the other two a warning shake of his head before turning to you. "We're done for now. But this one better watch his step around here because we're not going anywhere." With a final scowl at the elf, he turns to leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>As the three stumble away, the elf turns to you, the tension almost gone from his smooth face. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"You're welcome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I'm glad I could help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Actually, that was fun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"You mean for making them piss their pants? You're welcome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"You mean for slaughtering them? You're welcome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>He gives you a quick smile. "Well. That is one way of putting it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>He gives you a quick smile. "Then I can't imagine you lack for entertainment in these parts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>He gives you a quick smile. "Courtesy is a rare pleasure in these parts. Though your accent suggests that you are no more local than I."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>He gives you a quick smile. "Courtesy is a rare pleasure in these parts. As is the company of a fellow countryman."</DefaultText>
+      <FemaleText>He gives you a quick smile. "Courtesy is a rare pleasure in these parts. As is the company of a fellow countrywoman."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>He straightens his hood, and you note the remains of fraying embroidery on his gloves. His boots are caked with the dirt of many months' travel, but the leatherwork beneath it is sturdy and fine. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"What are you doing in Gilded Vale?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Just how did you manage to cross those three drunks?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"I'm a wizard by training and an adventurer by necessity. I was born in the Cythwood, part of the mainland of the Aedyr Empire. Both of my parents served the nobility, which afforded me an education for which I'm grateful. However, there were no open positions in those houses, and so I decided to seek new means in a new land."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"An excellent question." He folds his arms and frowns, looking toward the center of town. "I came looking for fresh air and cheap land. Instead, the magistrate gave me directions to the inn and a story about the local lord's expectant wife." He cocks his head, looking at you. "But I take it that's a familiar tale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"You don't exactly look like a settler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>A sly grin crosses his lips. "Begging your pardon, but neither do you. Yet circumstances can find a person in the strangest of places."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I'm afraid that was a matter of misunderstandings and mistranslations." He tents his fingers and looks away. "It doesn't help that people in these parts remember their war with Aedyr like it was yesterday."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"You did tell that one man to go fuck his sister."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"You did make a rather lewd suggestion regarding one of the aggressors and his own sister."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Ah. That." He clears his throat and adjusts his sleeves. "As I tried to tell them, they misheard me. Happens all too easily after a few pints, and the accent doesn't help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"I heard the same thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>For just a moment, he looks as if he's about to say something else. His expression brightens with mischief, but before he can speak, he forces a tight smile, biting his lip so hard you expect to see blood. Finally, his face relaxes, and he shakes his head. 
+
+"I should speak more clearly next time. My apologies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"And you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Like you said, I'm also a settler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I've been experiencing strange things of late. I'm looking for an expert on souls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"That's my own business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"For which I am grateful. Let's, ah, discuss something else, shall we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I should get going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I'm looking for information on an organization known as the Leaden Key."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Indeed." His eyes flicker across you and your travel-worn clothing. "In that case, welcome to Gilded Vale. A true refuge from civilization."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>His eyes flicker as he looks you up and down. "Indeed? The local lord has searched far and wide for similar specialists. He has rid himself of them almost as desperately." He nods at the gnarled old tree in the center of town.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>His eyes flicker wide. "Keep your voice down. Whenever suspicion seizes the locals, they tend to seize whoever's nearest." He nods at the gnarled old tree in the center of town.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>His gaze darts downward. "Of course. I didn't mean to pry." He nods at the gnarled old tree in the center of town. "If there was ever a place for caution, this is it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"As should I, given recent events. It's just as well. I've had enough of the watered wine and lumpy beds at the inn." He wrinkles his nose. "They say even the owner tired of the place. Just up and left one day. It explains quite a lot about the upkeep."
+
+He gives you a guardedly hopeful look. "Perhaps I could join you. I could use a change of scenery, and I find it's better to travel in numbers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"So do I. Let's go, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"I prefer to travel light. Maybe later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Excellent. I shall follow you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"I quite understand." He looks back at the inn with a sigh. "A few more nights of stringy stew won't kill me, I suppose. Though if that dog goes missing, I may have to fast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>They squint at you through red, bleary eyes. "It sounds suspiciously like you're defending him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>As the last of the attackers falls, the elf turns to you, the tension almost gone from his smooth face. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Though the elf's face is a careful mask of neutrality, his eyes are bright with hope. "We meet again. What brings you back to Gilded Vale?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Tell me what's new around here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I'd like to travel together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>He utters a dry laugh. "Nothing. Though..." His gaze strays again to the tree strung with bodies. "That's not necessarily a bad thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"I... safe travels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"And how exactly did you come to be here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I was traveling with a caravan, but we were separated near some ruins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"A b&#238;a&#373;ac."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Engwithan ruins? Those can be dangerous places during the best of times... which these are not. Half the locals would arrest you for trespassing and the rest would kill you outright."
+
+He leans closer. "I'm curious. What exactly did you find there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Several hooded figures operating a strange machine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Lie] "Nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>A slow smile creeps across his face. "A man must have his secrets. Very well."</DefaultText>
+      <FemaleText>A slow smile creeps across his face. "A woman must have her secrets. Very well."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"And you survived? I've heard such a thing was impossible." He regards you with new interest. "It seems you either have a knack for timing or the favor of the gods."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Aloth goggles at you silently, apparently assessing your earnestness. Finally, he gives you a clipped, awkward laugh. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[Remain silent.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>As the last of the attackers falls, the elf turns to you, tension frozen on his smooth face. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"I meant no offense. Let's put this matter to rest over a round, shall we? My treat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Not quite how I hoped to get to know the neighbors. Thank you for your timely assistance with that... awkward situation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"I suppose introductions are in order after that little fiasco. Aloth Corfiser, at your service."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"You do manage to find yourself in rather interesting predicaments."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"That was... unexpected. Still, you have my thanks for getting me out of an... awkward situation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>His darting glance takes in the tumble-down buildings and the fallow, rock-strewn fields. "I expect that such expertise would be best sought elsewhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>His darting glance takes in the tumble-down buildings and the fallow, rock-strewn fields. "Whatever it is you're looking for, it would be best sought elsewhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"How did you manage to get stuck out here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"You'd better have more to say for yourself than that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>He laughs uncomfortably. "That... is something of a long story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>He holds up his hands. "Please, I didn't mean to drag you into this."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

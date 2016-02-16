@@ -1,0 +1,94 @@
+<StringTableFile>
+  <Name>quests\12_twin_elms_oldsong\12_tsk_songs_of_the_wild</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Songs of The Wild</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find and Capture Three Rare Songbirds</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return to Delem in Oldsong</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Delem, chanter of Oldsong is looking for rare songbirds. He claims that by consuming these exotic birds, he can absorb their musical nature. He hopes this will enable him to compose a song amazing enough to repulse the chill wind that has set upon Oldsong.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Delem, an orlan in the Oldsong District, misses the lively crowds that used to dance and sing in the plaza before the Noonfrost chill drove them away. 
+Delem believes that if he can consume the flesh of three rare songbirds, they will strengthen his spirit, and he will be able to draw back the crowds. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I've gathered three special songbirds for Delem. I should return to him, in the Oldsong district of Twin Elms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Delem gave me some useful information about the birds he seeks.
+
+The T&#238;am is a favorite among Glanfathans, usually kept in cages but uncommon to find nevertheless.
+
+The Shardwing is a small bird that tends to live in the underbrush and, usually, near large adra structures where its iridescent turquoise feathers blend against the rock.
+
+Finally, Delem wants a Cloudsinger, an extremely reclusive and hard to find bird who nests only against the rocks of the highest mountains of Eir Glanfath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I found a Shardwing out in the wilderness past Twin Elms. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I found a T&#238;am songbird inside a home in the Hearthsong district.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I caught a beautiful Cloudsinger atop a mountain, by the temple of Hylea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I found three songbirds for Delem. He was very pleased with my efforts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>After speaking with the priests of Hylea, I was able to convince Delem that he was wrong about birds conferring powers upon those who eat them. He seemed a little disappointed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>After speaking with Llensi, owner of one of the rare songbirds, I learned that Delem's plan is based on wild orlan superstition. I was able to convince him of the error of his plan, and he reluctantly abandoned the notion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Quest Failed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

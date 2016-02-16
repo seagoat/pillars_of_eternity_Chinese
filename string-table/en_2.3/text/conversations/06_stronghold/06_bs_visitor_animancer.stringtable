@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\06_stronghold\06_bs_visitor_animancer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"It's good to meet someone more tolerant of the sciences." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"There are some fascinating energies in this place..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I don't suppose you hear that sound? That voice? ...Never mind, then." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"This scenery is proving far more conducive to my experiments." </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

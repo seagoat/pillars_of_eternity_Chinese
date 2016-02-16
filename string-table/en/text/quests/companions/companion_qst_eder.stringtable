@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\companions\companion_qst_eder</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>20</EntryCount>
@@ -10,17 +11,17 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Bring Ed&#233;r to speak with Maerwald.</DefaultText>
+      <DefaultText>Bring Edér to speak with Maerwald.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Travel with Ed&#233;r to the records archive.</DefaultText>
+      <DefaultText>Travel with Edér to the records archive.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Seek out the Saint's War battlefield with Ed&#233;r.</DefaultText>
+      <DefaultText>Seek out the Saint's War battlefield with Edér.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -35,27 +36,27 @@
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Ed&#233;r has agreed to travel with me. He seemed to have some questions he thought a Watcher might be able to answer.</DefaultText>
+      <DefaultText>Edér has agreed to travel with me. He seemed to have some questions he thought a Watcher might be able to answer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>After telling Ed&#233;r that I was headed for Caed Nua to see its lord, an old Watcher named Maerwald, he expressed that there were things he'd like to ask Maerwald as well.</DefaultText>
+      <DefaultText>After telling Edér that I was headed for Caed Nua to see its lord, an old Watcher named Maerwald, he expressed that there were things he'd like to ask Maerwald as well.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Ed&#233;r believes he may be able to find more about the circumstances of his brother's death in Defiance Bay. He suggested there might be records of the Saint's War in an archive in the ducal palace.</DefaultText>
+      <DefaultText>Edér believes he may be able to find more about the circumstances of his brother's death in Defiance Bay. He suggested there might be records of the Saint's War in an archive in the ducal palace.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Ed&#233;r's brother Woden fought for Readceras and died in a battle at Cl&#238;aban Rilag. He wants to see the battlefield.</DefaultText>
+      <DefaultText>Edér's brother Woden fought for Readceras and died in a battle at Clîaban Rilag. He wants to see the battlefield.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Ed&#233;r admits he isn't sure what he is looking for here. He is hoping for some sign of his brother's presence here that might provide a clue as to why he fought for Readceras.</DefaultText>
+      <DefaultText>Edér admits he isn't sure what he is looking for here. He is hoping for some sign of his brother's presence here that might provide a clue as to why he fought for Readceras.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -80,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>20003</ID>
-      <DefaultText>Maerwald was not in any condition to answer questions when we found him. Ed&#233;r will have to decide how to proceed from here.</DefaultText>
+      <DefaultText>Maerwald was not in any condition to answer questions when we found him. Edér will have to decide how to proceed from here.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -90,17 +91,17 @@
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>We were able to confirm that Ed&#233;r's brother Woden fought for Readceras, and had even met Waidwen himself prior to enlisting. But his actual reasons for doing so were lost. Ed&#233;r will likely never know what inspired his brother to change his allegiance.</DefaultText>
+      <DefaultText>We were able to confirm that Edér's brother Woden fought for Readceras, and had even met Waidwen himself prior to enlisting. But his actual reasons for doing so were lost. Edér will likely never know what inspired his brother to change his allegiance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>Ed&#233;r has died, and his concerns will be pursued no further.</DefaultText>
+      <DefaultText>Edér has died, and his concerns will be pursued no further.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>It is unlikely we will be able to find a cipher capable of reading the standard piece we found in Cl&#238;aban Rilag.</DefaultText>
+      <DefaultText>It is unlikely we will be able to find a cipher capable of reading the standard piece we found in Clîaban Rilag.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

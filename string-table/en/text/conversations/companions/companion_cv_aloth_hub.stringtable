@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_cv_aloth_hub</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>95</EntryCount>
@@ -220,7 +221,7 @@ He steeples his fingers. "I've gotten accustomed enough to keeping my thoughts t
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"A ceremonial marriage between folk and elf. Because the Aedyre mainland has historically been split between the two races, we have many institutions that are designed to normalize relations. Our monarchy is headed by folk, but an elven consort rules alongside the reigning ferc&#246;nyng or mecwyn. This is the most prominent example of haemneg."</DefaultText>
+      <DefaultText>"A ceremonial marriage between folk and elf. Because the Aedyre mainland has historically been split between the two races, we have many institutions that are designed to normalize relations. Our monarchy is headed by folk, but an elven consort rules alongside the reigning fercönyng or mecwyn. This is the most prominent example of haemneg."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -386,7 +387,7 @@ He gives you the smallest of frowns. "The real issue, however, was my father."</
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>His eyes dart to Ed&#233;r. "No offense."</DefaultText>
+      <DefaultText>His eyes dart to Edér. "No offense."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

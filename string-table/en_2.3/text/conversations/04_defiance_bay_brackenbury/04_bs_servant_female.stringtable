@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\04_defiance_bay_brackenbury\04_bs_servant_female</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Lord Reymont doesn't like it when his servants talk to his guests."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I've never been outside of Defiance Bay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I'm very lucky to be a part of this household."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Shouldn't you be speaking to Lord Reymont?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

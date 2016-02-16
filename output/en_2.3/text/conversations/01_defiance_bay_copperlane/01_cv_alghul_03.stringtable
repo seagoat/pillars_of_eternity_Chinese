@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_alghul_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>這 個 生 物 的 脖 子 以 一 個 不 自 然 的 角 度 斜 著 ，它 的 脖 子 和 手 腕 上 有 繩 子 在 燃 燒 。它 這 房 間 裡 移 動 時 偶 爾 遭 受 痙 攣 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>你 好 ？</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[離 開 這 個 生 物 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>這 個 生 物 似 乎 沒 聽 到 你 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[離 開 這 個 生 物 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\06_stronghold\06_cv_warden</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>89</EntryCount>
@@ -129,7 +130,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Songsmith Roska, a Norwaech chanter. She and her associates have been looting Engwithan ruins, and the Glanfathans at Ibrel's Well want her to pay for her crimes. And they'll pay us to see it done. Roska has a camp outside of Cl&#238;aban Rilag."</DefaultText>
+      <DefaultText>"Songsmith Roska, a Norwaech chanter. She and her associates have been looting Engwithan ruins, and the Glanfathans at Ibrel's Well want her to pay for her crimes. And they'll pay us to see it done. Roska has a camp outside of Clîaban Rilag."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -144,12 +145,12 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"...I'm not sure what to make of this one. Something about a murderous cult of druids, led by a menp&#373;gra. The creature goes by Dev&#373;en, and it looks like she and her followers have set up in a cave in the Northweald."</DefaultText>
+      <DefaultText>"...I'm not sure what to make of this one. Something about a murderous cult of druids, led by a menpŵgra. The creature goes by Devŵen, and it looks like she and her followers have set up in a cave in the Northweald."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Captain Mu&#257;rumi. Mainly goes after Vailian vessels - and his crew just made landfall at Ansl&#246;g's Compass. Not sure how long he's planning on staying, but this is your chance to take him down before he sets sail again."</DefaultText>
+      <DefaultText>"Captain Muārumi. Mainly goes after Vailian vessels - and his crew just made landfall at Anslög's Compass. Not sure how long he's planning on staying, but this is your chance to take him down before he sets sail again."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,7 +167,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"The bounty's for Naroc the Prophet, a Glanfathan exile. He was banished from his tribe for his, ah, extreme views. Naroc's a cipher, and it seems like he's taken an interest in an Engwithan site north of Gilded Vale - Cilant L&#238;s. Several tribes have pooled together the coin for his bounty - they say they don't want him tampering with some 'machine' out there."</DefaultText>
+      <DefaultText>"The bounty's for Naroc the Prophet, a Glanfathan exile. He was banished from his tribe for his, ah, extreme views. Naroc's a cipher, and it seems like he's taken an interest in an Engwithan site north of Gilded Vale - Cilant Lîs. Several tribes have pooled together the coin for his bounty - they say they don't want him tampering with some 'machine' out there."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,12 +242,12 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"I'm here for the bounty on Dev&#373;en."</DefaultText>
+      <DefaultText>"I'm here for the bounty on Devŵen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Captain Mu&#257;rumi has been dealt with." </DefaultText>
+      <DefaultText>"Captain Muārumi has been dealt with." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -413,7 +414,7 @@
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"There's some ranger causing trouble out in the wilds. Then there's Galen Dalgard - slaver, not exactly popular around here. Then there's... some kind of cult, looks like. And here's one I haven't seen in a while - Captain Mu&#257;rumi, the pirate."</DefaultText>
+      <DefaultText>"There's some ranger causing trouble out in the wilds. Then there's Galen Dalgard - slaver, not exactly popular around here. Then there's... some kind of cult, looks like. And here's one I haven't seen in a while - Captain Muārumi, the pirate."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

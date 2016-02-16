@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_cv_eder_arc</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>86</EntryCount>
@@ -290,7 +291,7 @@ He looks down at the ground, drumming his fingers against his side restlessly. W
       <ID>53</ID>
       <DefaultText>His gaze remains low, distant. "When Woden left for war, we, uh-"
 
-Ed&#233;r's throat catches. He takes a slow breath. "We had a fight. As brothers will."</DefaultText>
+Edér's throat catches. He takes a slow breath. "We had a fight. As brothers will."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -302,14 +303,14 @@ Ed&#233;r's throat catches. He takes a slow breath. "We had a fight. As brothers
       <ID>55</ID>
       <DefaultText>"About him going off to war."
 
-Ed&#233;r looks up at you. "He was set on it. But my parents warned him. They said you get a new country with every trip across the border, but your god, you only get the one."</DefaultText>
+Edér looks up at you. "He was set on it. But my parents warned him. They said you get a new country with every trip across the border, but your god, you only get the one."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
       <DefaultText>"Me, I didn't know who was right. All I knew was I didn't want him to go."
 
-Ed&#233;r bites his lower lip. "It's the same for families as it is for gods. You only get the one."</DefaultText>
+Edér bites his lower lip. "It's the same for families as it is for gods. You only get the one."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,7 +322,7 @@ Ed&#233;r bites his lower lip. "It's the same for families as it is for gods. Yo
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>Ed&#233;r is quiet for a moment.
+      <DefaultText>Edér is quiet for a moment.
 
 "By the time I'd cooled off, months had passed. One morning it dawns on me that my brother always knew better than me, and if he was so sure of what he was doing then I should be there with him. I packed my things and was on the road that same morning.
 
@@ -421,7 +422,7 @@ Ed&#233;r bites his lower lip. "It's the same for families as it is for gods. Yo
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Ed&#233;r grins. "Those can be hard to come by. 
+      <DefaultText>Edér grins. "Those can be hard to come by. 
 
 "But maybe that's best. Forces you to find your own footing."</DefaultText>
       <FemaleText />
@@ -433,7 +434,7 @@ Ed&#233;r bites his lower lip. "It's the same for families as it is for gods. Yo
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Ed&#233;r's mouth perks at one corner. "Feels good, doesn't it? Got enough to worry about as it is."</DefaultText>
+      <DefaultText>Edér's mouth perks at one corner. "Feels good, doesn't it? Got enough to worry about as it is."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -448,7 +449,7 @@ Ed&#233;r bites his lower lip. "It's the same for families as it is for gods. Yo
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>Ed&#233;r grins. "Those can be hard to come by. 
+      <DefaultText>Edér grins. "Those can be hard to come by. 
 
 "I feel for people still looking for theirs. Easy to see what it means to them to have someone to look to for answers."</DefaultText>
       <FemaleText />

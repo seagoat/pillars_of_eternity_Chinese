@@ -1,0 +1,63 @@
+<StringTableFile>
+  <Name>conversations\14_burial_isle\14_cv_assignment_vision</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"You have stayed true to our cause, Inquisitor, when so many others have not. For every heretic we confess, for every betrayer that burns on our pyres, new sheep continue to flock to Iovara ix Ensios. But not you. I underestimated you in the beginning, but no longer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"You honor me, Grand Inquisitor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"It is not for honor that I summoned you today, but for duty.
+
+"Too many of our own have confessed upon the wheel and the rack and the flame. Too many of our faithful have had their minds poisoned by the Creitum witch. The tide is against us now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"We have but one option. Iovara's following must see her exposed for what she is. She must confess her heresy before my court."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"How would we reach her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Not in Creitum, surely. Their lord has embraced her heathen faith and protects her with his army. But in Ossionus, things would be different. 
+
+"The king of Ossionus is a sinful man. We have helped him to see the error of his ways, and now he fears for his soul. He would pay any price for absolution."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"But how would we get Iovara to move to Ossionus?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Thaos puts his hand on your shoulder. "You have already done much for the Inquisition. I wouldn't ask this were there any other choice..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"You told me once that you had never met Iovara. Now you will tell me the truth."
+
+Thaos stares into your eyes. He seems never to blink. A rush of panic spreads through your body and you can feel the sweat beginning to seep through your skin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Trigger Conv Node 17</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,447 @@
+<StringTableFile>
+  <Name>game\stronghold</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>88</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>{0}到 期 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>{0}已 添 加 ！任 務 將 於 {1}後 到 期 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>{0}建 設 完 成 ！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>已 收 集 加 工 原 料 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>雇 員 發 薪 日 ！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>{0}正 在 離 開 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>{0}得 到 了 {1}。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>{0}得 到 了 {1}而 重 新 活 躍 起 來 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>{0}沒 有 得 到 {1}。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>{0}沒 有 得 到 {1}，將 不 再 活 躍 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>{0} 完 成 ! {1} 帶 著  {2} 返 回 要 塞 。戰 利 品 在 大 廳 寶 箱 中 ！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>{0}攻 擊 了 據 點 ！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>{0}沒 有 得 到 {1}並 離 開 了 據 點 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>{0}攻 擊 了 據 點 ，但 沒 有 造 成 傷 害 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>{0}被 摧 毀 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>{0}被 殺 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>你 欠 {0}一 筆 債 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>已 征 收 稅 款 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>強 盜 掠 奪 了 {0}。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>獲 得 {0}。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>你 的 債 務 還 清 了 ！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>你 的 債 務 減 少 到 {0}。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>強 盜 掠 奪 了 所 有 收 益 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>發 生 越 獄 ！{0}已 經 逃 出 了 地 牢 ！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>發 生 綁 架 ！ {0}被 從 據 點 綁 架 了 ！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>{0}被 綁 匪 殺 掉 了 ！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>{1}救 出 了 {0}。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>{0}前 來 據 點 拜 訪 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>據 說 {0}將 在 {1}後 攻 擊 據 點 ！</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>{0}已 經 到 來 並 尋 求 就 業 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>一 組 人 前 來 希 望 釋 放 {0}。作 為 交 換 條 件 ，他 們 提 供 {1}或 {2}。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>{0}完 成 護 送 {1}並 返 回 據 點 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>{0}遺 棄 了 {1}。他 們 將 返 回 據 點 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>乞 求 者 已 從 {0}到 來 ，祈 求 {1}或 護 送 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>你 對 待 {0}的 記 憶 正 在 消 退 ，你 的 聲 望 已 恢 復 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>{0}已 經 到 來 ，並 能 以 {2}賣 給 你 {1}。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>你 忽 略 了 乞 求 者 ，他 離 開 了 據 點 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>你 忽 略 了 乞 求 者 ，她 離 開 了 據 點 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>{0}離 開 了 據 點 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>{0}正 在 前 往 塞 德 努 亞 ，但 在 路 上 遇 到 強 盜 並 不 得 不 逃 離 。考 慮 提 高 你 的 安 保 程 度 以 確 保 旅 客 的 安 全 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>{0}經 驗 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>錢 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>物 品 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>{0}的 聲 望 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>{0}和 {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>沒 有 新 報 告 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>一 個 北 方 殘 酷 的 統 治 者 {0}來 到 了 據 點 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>一 個 當 地 的 傻 瓜 {0}溜 進 了 據 點 並 准 備 住 上 一 段 時 間 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>一 個 叫 做 {0}的 通 緝 罪 犯 來 到 了 據 點 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>一 位 聖 戰 的 老 英 雄 {0}已 經 來 到 了 據 點 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>一 個 叫 {0}的 富 有 貴 族 來 到 了 據 點 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>一 名 鹿 叢 高 官 {0}來 到 了 據 點 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>一 個 異 國 商 人 {0}帶 著 稀 有 物 品 來 到 了 據 點 並 打 算 提 供 貿 易 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>{0}到 達 據 點 ，提 供 錢 物 希 望 解 決 麻 煩 或 安 全 護 送 通 過 野 外 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>{1}的 一 位 遠 親 抵 達 據 點 ，並 提 供 錢 物 請 求 釋 放 他 們 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>一 位 裡 德 塞 拉 斯 的 奴 隸 主 {0}已 經 到 達 據 點 ，並 請 求 購 買 一 個 囚 犯 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>一 個 靈 魂 學 者 {0}已 經 到 達 據 點 ，並 請 求 給 他 一 個 囚 犯 來 進 行 實 驗 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>第 {0}回 合 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>{3} {6}，{4}：{2}時 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>於 {0}後 完 成 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>於 {0}後 離 開 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>{0}剩 余 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>他 在 路 上 差 點 遇 到 強 盜 ，但 你 的 巡 邏 隊 成 功 干 預 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>她 在 路 上 差 點 遇 到 強 盜 ，但 你 的 巡 邏 隊 成 功 干 預 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>總 工 資 ：{0}。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>一 次 攻 擊 已 迫 在 眉 睫 ，但 你 的 巡 邏 隊 阻 止 了 敵 人 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>敵 軍 正 在 接 近 你 的 據 點 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>一 項 升 級 已 完 成 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>一 位 訪 客 已 經 到 達 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>敵 人 襲 擊 了 你 的 據 點 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>雇 員 已 經 得 到 工 資 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>已 征 收 稅 款 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>你 的 據 點 可 以 開 始 一 次 新 冒 險 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>一 次 冒 險 已 經 完 成 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>一 個 囚 犯 逃 走 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>一 名 訪 客 被 綁 架 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>我 在 科 博 萊 茵 發 現 了 尼 裡 德 ，這 個 暴 徒 被 雇 用 冒 充 一 個 欠 供 應 商 債 的 迷 草 商 人 。他 使 用 這 層 身 份 銷 售 迷 草 ，從 而 彌 補 供 應 商 的 損 失 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Naedle是 一 名 暗 灰 之 鑰 的 密 探 ，試 圖 在 風 暴 牆 大 峽 谷 伏 擊 我 。發 現 她 的 同 伴 們 都 不 敢 面 對 我 之 後 ，她 重 新 考 慮 後 投 降 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Kestorik是 一 名 盤 踞 在 奧 德 努 亞 無 盡 之 路 的 蛛 人 斥 候 。它 要 求 死 亡 ，但 我 認 為 最 好 把 它 鎖 在 地 牢 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>艾 弗 雷 是 衛 邦 十 二 人 團 的 成 員 ，其 策 劃 了 一 場 反 對 鹹 桅 桿 顧 客 的 騷 擾 活 動 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Esmer隊 長 發 現 自 己 在 侵 入 格 蘭 法 斯 人 領 地 時 被 包 圍 了 。格 蘭 法 斯 人 同 意 我 俘 虜 他 之 後 放 他 走 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>艾 奧 恩 是 一 名 因 謀 殺 煉 獄 騎 士 而 遭 通 緝 的 逃 犯 。我 發 現 他 藏 在 反 抗 灣 下 面 的 地 下 墓 穴 並 選 擇 以 我 自 己 的 正 義 讓 他 為 罪 行 付 出 代 價 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>格 蘭 菲 爾 和 一 群 亡 命 之 徒 在 我 經 過 瑪 格 嵐 岔 口 時 襲 擊 了 我 。看 起 來 他 還 沒 准 備 好 迎 接 自 己 的 死 亡 ，而 是 乞 求 監 禁 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>{0}：已 死 亡 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>{0}：被 綁 架 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>事 件 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>{0}：已 忽 略 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>其 它 </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

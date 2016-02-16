@@ -1,7 +1,7 @@
 <StringTableFile>
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1452</EntryCount>
+  <EntryCount>1852</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -6917,8 +6917,508 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1400</ID>
+      <DefaultText>Dragon Leap</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1401</ID>
+      <DefaultText>Healing Chain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1402</ID>
+      <DefaultText>Turning Wheel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1403</ID>
+      <DefaultText>Sap</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1404</ID>
+      <DefaultText>Sundering Blow</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1405</ID>
+      <DefaultText>Stasis Shell</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1406</ID>
+      <DefaultText>Time Parasite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1407</ID>
+      <DefaultText>Call to the Primordials</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1408</ID>
+      <DefaultText>Nature's Bounty</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1409</ID>
+      <DefaultText>Weather the Storm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1410</ID>
+      <DefaultText>Minor Avatar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1411</ID>
+      <DefaultText>Resurrection</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1412</ID>
+      <DefaultText>Storm of Holy Fire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1413</ID>
+      <DefaultText>Delayed Fireball</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1414</ID>
+      <DefaultText>Llengrath's Warding Staff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1415</ID>
+      <DefaultText>Ninagauth's Killing Bolt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1416</ID>
+      <DefaultText>Substantial Phantom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1417</ID>
+      <DefaultText>Tayn's Chaotic Orb</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1418</ID>
+      <DefaultText>Wall of Draining</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1419</ID>
+      <DefaultText>Play Dead</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1420</ID>
+      <DefaultText>Iron Wheel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1421</ID>
+      <DefaultText>The pain from the monk's wounds allows him or her to build Damage Reduction against incoming attacks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1422</ID>
+      <DefaultText>Abduction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1423</ID>
+      <DefaultText>Battle Cry</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1424</ID>
+      <DefaultText>Icy Spray</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1425</ID>
+      <DefaultText>Frost Breath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1426</ID>
+      <DefaultText>Fiery Breath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1427</ID>
+      <DefaultText>Guarding Flames</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1428</ID>
+      <DefaultText>Howl</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1429</ID>
+      <DefaultText>Invisibility</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1430</ID>
+      <DefaultText>Regeneration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1431</ID>
+      <DefaultText>Retaliatory Fire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1432</ID>
+      <DefaultText>Sickening Breath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1433</ID>
+      <DefaultText>Slick Ice</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1434</ID>
+      <DefaultText>Soul Binding</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1435</ID>
+      <DefaultText>Teleport</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1436</ID>
+      <DefaultText>Test Edit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1437</ID>
+      <DefaultText>Twinned Arrows</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1438</ID>
+      <DefaultText>The Dichotomous Soul</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1439</ID>
+      <DefaultText>Sacred Immolation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1440</ID>
+      <DefaultText>Take the Hit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1441</ID>
+      <DefaultText>Smoke Cloud</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1442</ID>
+      <DefaultText>Their Champion Braved The Horde Alone</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1443</ID>
+      <DefaultText>They Shielded Their Eyes 'Gainst the Fampyr's Gaze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1444</ID>
+      <DefaultText>Acolyte's Radiance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1445</ID>
+      <DefaultText>Runner's Wounding Shot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1446</ID>
+      <DefaultText>Veteran's Recovery</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1447</ID>
+      <DefaultText>Gallant's Focus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1448</ID>
+      <DefaultText>Apprentice's Sneak Attack</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1449</ID>
+      <DefaultText>Aspirant's Mark</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1450</ID>
+      <DefaultText>Novice's Suffering</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1451</ID>
+      <DefaultText>Enigma's Charm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1452</ID>
+      <DefaultText>Outlander's Frenzy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1453</ID>
+      <DefaultText>Prestidigitator's Missiles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1454</ID>
+      <DefaultText>Rhymer's Summon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1455</ID>
+      <DefaultText>Guardian Spirit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1456</ID>
+      <DefaultText>Ray of Pain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1457</ID>
+      <DefaultText>Destroys Vessels</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1458</ID>
+      <DefaultText>Blind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1459</ID>
+      <DefaultText>The barbarian cannot be Engaged by enemies that are more than 1 level lower than him or her. It does not prevent the barbarian from being attacked in melee.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1460</ID>
+      <DefaultText>Drawing upon reserves of intense spiritual power, barbarians are able to leap high into the air and crash down upon their foes, Dazing them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1461</ID>
+      <DefaultText>The cipher is able to isolate a single enemy from the world, leaving them unable to act, but also unable to be affected by outside parties.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1462</ID>
+      <DefaultText>By siphoning power from enemies' souls, the cipher is able to slow them down and increase his or her own speed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1463</ID>
+      <DefaultText>The druid pulls the raw spiritual energy of nature together into the physical forms of 2 or 3 random oozes and slimes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1464</ID>
+      <DefaultText>All unoccupied quick slots in the party are filled with wondrous nectar that can be consumed for combat bonuses and healing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1465</ID>
+      <DefaultText>The druid casts a powerful aegis against the forces of nature over his or her allies, granting large resistance to Burn, Corrode, Freeze, and Shock damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1466</ID>
+      <DefaultText>The fighter interposes himself or herself between incoming attacks at nearby allies. The final damage total of any attack against a nearby ally is cut in half, with the fighter taking the other half as Raw damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1467</ID>
+      <DefaultText>The fighter makes a Primary attack that does additional damage and lowers the target's base Damage Reduction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1468</ID>
+      <DefaultText>The paladin focuses his or her faith and self-immolates in blue flame.  Each time the ability pulses, the paladin takes a small amount of Raw damage, but enemies in the area take Burn damage.  Allies receive a small amount of Endurance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1469</ID>
+      <DefaultText>The paladin targets a single ally for healing, but the effect continues to jump between allies up to six times (including the initial hit).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1470</ID>
+      <DefaultText>The priest gains a supernatural glow as he or she is infused with power. As a minor avatar of their deity, the priest gains bonuses in all Attributes, Endurance, Health, and weapon damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1471</ID>
+      <DefaultText>A single ally is revived and healed. They receive the effects of Barring Death's Door and nearby allies are healed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1472</ID>
+      <DefaultText>A terrible rain of fire falls in the area of effect, repeatedly inflicting Burn damage on all in the area of effect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1473</ID>
+      <DefaultText>When the ranger uses a Hunting Bow or War Bow, they can opt to fire two arrows with each shot.  Each shot has reduced Accuracy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1474</ID>
+      <DefaultText>The ranger's animal companion falls over and appears to be dead (cannot be targeted) for a limited time. While playing dead, the companion regains Endurance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1475</ID>
+      <DefaultText>The rogue creates a small cloud of smoke that leaves adjacent enemies Distracted for a short duration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1476</ID>
+      <DefaultText>The wizard hurls out a tiny ball of flame that sits for a fixed amount of time before exploding for heavy Burn damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1477</ID>
+      <DefaultText>This spell conjures a powerful quarterstaff that adds Deflection and pushes enemies away with a Hobbled effect on each successful attack. The summoning itself also pushes everyone (including allies) away from the caster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1478</ID>
+      <DefaultText>This spell inflicts a heavy amount of Raw damage to the target. Any non-Spirit felled by the attack will summon a Spectre under the caster's control.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1479</ID>
+      <DefaultText>Substantial Phantom is an advanced version of Essential Phantom, creating an independent copy of the wizard that can cast a small set of low-level spells (Minoletta's Minor Missiles, Necrotic Lance, and Arduous Delay of Motion). Due to the advanced nature of the spell, the copy from Substantial Phantom is more durable than Essential Phantom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1480</ID>
+      <DefaultText>Named for the eccentric Aedyran wizard Tayn, the chaotic orb bounces between a number of enemies, dealing damage and inflicting a variety of negative Afflictions including Petrified, Paralyzed, Weakened, Sickened, Stunned, and Blinded.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1481</ID>
+      <DefaultText>Enemies passing through or standing in this wall will lose time from any of their timed beneficial status effects.  For each second drained, the Wizard gains duration on any beneficial status effects they have.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1482</ID>
+      <DefaultText>Channels power similar to a barbarian's tremendous rage, increasing Attack Speed, Might, and Constitution while lowering Deflection and concealing the character's Endurance and Health.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1483</ID>
+      <DefaultText>This rhyme mimics the chanter's ability to summon skeletons, though it cannot be used until some time has passed in combat and cannot be used frequently.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1484</ID>
+      <DefaultText>With the power of a fledgling cipher, the character is able to temporarily Charm an opponent. However, it takes time to contact the victim's psyche, meaning it cannot be used at the start of combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1485</ID>
+      <DefaultText>The character has attuned themselves to the natural world like a druid and is able to focus its power on an enemy with the effects of the Nature's Mark spell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1486</ID>
+      <DefaultText>By adopting the strict discipline of a fighter, the character is able to pace themselves in combat, steadily regaining Endurance over time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1487</ID>
+      <DefaultText>The character has learned a portion of the intense pain tolerance and spiritual power that monks possess. Their unarmed attacks do increased damage and gain power as they advance. Note: Novice's Suffering does not apply to a druid's Spiritshift form.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1488</ID>
+      <DefaultText>The character's intense beliefs have manifested as an aura with properties similar to a paladin's Zealous Focus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1489</ID>
+      <DefaultText>Nuanced faith in the gods has allowed this character to unleash a wave of spiritual energy similar to a priest's Holy Radiance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1490</ID>
+      <DefaultText>Rangers learn where to strike an enemy to inflict debilitating wounds. This technique can be imitated by other characters as a weaker form of Wounding Shot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1491</ID>
+      <DefaultText>Allows the character to imitate the brutal, opportunistic strikes of a rogue's Sneak Attack, taking advantage of opponents when they are at their most vulnerable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1492</ID>
+      <DefaultText>As a hedge wizard, the character has learned how to duplicate the effects of one of the most popular spells in the Eastern Reach: Minoletta's Minor Missiles. Because the character does not use a grimoire as a wizard does, the effect is not quite as powerful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1493</ID>
+      <DefaultText>Concelhaut's Crushing Doom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1494</ID>
+      <DefaultText>Invisibility</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1495</ID>
+      <DefaultText>Shock DR Reduction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1496</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1497</ID>
       <DefaultText>挑衅</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1498</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1499</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1500</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
@@ -7138,8 +7638,270 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1544</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1545</ID>
+      <DefaultText>Ninagauth's Death Ray</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1546</ID>
+      <DefaultText>Blessing of the Forgotten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1547</ID>
+      <DefaultText>Old Siec Would Not Rest 'til His Hunger Was Sated</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1548</ID>
+      <DefaultText>So Singt thy Biting Winds o' Eld Nary</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1549</ID>
+      <DefaultText>Her Courage Thick as Steel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1550</ID>
       <DefaultText>干扰者</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1551</ID>
+      <DefaultText>What Rou Naka Found Down the Deep</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1552</ID>
+      <DefaultText>Speckleback Jerky</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1553</ID>
+      <DefaultText>Rotting Stench</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1554</ID>
+      <DefaultText>Retaliatory Shock</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1555</ID>
+      <DefaultText>White Ynefer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1556</ID>
+      <DefaultText>Stalwart Rabbit Stew</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1557</ID>
+      <DefaultText>Self-Destruct</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1558</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1559</ID>
+      <DefaultText>Killing Bolt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1560</ID>
+      <DefaultText>Wing Storm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1561</ID>
+      <DefaultText>Soul Burn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1562</ID>
+      <DefaultText>Flick of the Wrist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1563</ID>
+      <DefaultText>Your time spent playing Orlan's Head in The Gréf's Rest is paying off, granting an Accuracy bonus with all daggers and stilettos.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1564</ID>
+      <DefaultText>Dozens' Luck</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1565</ID>
+      <DefaultText>How does luck at a dice game become fortune on the battlefield? Is it a blessing from the gods? A cosmic twist of fate? None can say, but you benefit all the same.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1566</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1567</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1568</ID>
+      <DefaultText>The monk meditates briefly on his or her pain, summoning two physical manifestations of suffering, one made of flame, the other of ice.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1569</ID>
+      <DefaultText>The rogue performs a Primary Attack that does additional damage and can leave the target Stunned.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1570</ID>
+      <DefaultText>This more powerful variant of the common Ray of Fire spell inflicts Raw damage, attacks the targets' Fortitude, and only affects enemies.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1571</ID>
+      <DefaultText>A curious variant of the ever-popular Fireball, Ninagauth's Shadowflame causes Freeze damage and Paralyzes anyone caught in the area of effect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1572</ID>
+      <DefaultText>Concelhaut's variant of Minoletta's Minor Missiles does Raw damage, attacks the target's Fortitude, and grants drained Endurance to the caster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1573</ID>
+      <DefaultText>A truly unique spell, Concelhaut's Crushing Doom summons an enormous magical hammer that repeatedly slams down into its target, doing Crush damage and knocking them Prone. The hammer strikes repeatedly, becoming larger, more accurate, and more damaging each time.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1574</ID>
+      <DefaultText>The chanter's allies gain a bonus to their Will defense and to resist Charmed, Confused, Dominated afflictions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1575</ID>
+      <DefaultText>Provides a barrier that soaks up damage against the chanter's allies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1576</ID>
+      <DefaultText>The chanter's allies regain a portion of damage they inflict as Endurance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1577</ID>
+      <DefaultText>Devastates enemies with a powerful blast of cold air that inflicts Freeze damage (ignoring a large amount of DR) and slows movement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1578</ID>
+      <DefaultText>The chanter fills himself or herself with frantic energy, significantly increasing Attack Speed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1579</ID>
+      <DefaultText>Summons a swamp spore to fight for the chanter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1580</ID>
+      <DefaultText>Mind Shrapnel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1581</ID>
+      <DefaultText>Soul Drain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1582</ID>
+      <DefaultText>Ray of the Void</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1583</ID>
+      <DefaultText>Ninagauth's Shadowflame</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1584</ID>
+      <DefaultText>Concelhaut's Draining Missiles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1585</ID>
+      <DefaultText>Visage of Concelhaut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1586</ID>
+      <DefaultText>Ambushing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1587</ID>
+      <DefaultText>Dazing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1588</ID>
+      <DefaultText>Dominate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1589</ID>
+      <DefaultText>Inflicts the Dominated Affliction on a single target for a short duration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1590</ID>
+      <DefaultText>Nature's Bounty</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1591</ID>
+      <DefaultText>Living Machine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1592</ID>
+      <DefaultText>The Devil of Caroc is an extraordinary being. Her artificial body is immune to the effects of Poison and Disease, but it is unable to process food, drink, and drugs. According to Galvino, the magic of potions affects the Devil despite her strange physiology. However, ordinary Field Triage is useless.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1593</ID>
+      <DefaultText>Galvino's Resonance Amplifier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1594</ID>
+      <DefaultText>Detects housed souls that lived a previous life in Durgan's Battery.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1595</ID>
+      <DefaultText>The wearer of the cloak gains Freeze DR. Anyone who attacks the wearer in melee will be hit for Burn damage.
+</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7153,6 +7915,16 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1598</ID>
+      <DefaultText>Utterly obliterates any Vessel that is lower level than the attacker.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1599</ID>
+      <DefaultText>Snowball</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1600</ID>
       <DefaultText>完全摧毁任何低于攻击者水平的灵魂。</DefaultText>
       <FemaleText />
@@ -7163,8 +7935,263 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1602</ID>
+      <DefaultText>Slow Spirits</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1603</ID>
+      <DefaultText>Paralyze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1604</ID>
+      <DefaultText>Invoke Vessels</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1605</ID>
+      <DefaultText>Summons several random vessels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1606</ID>
+      <DefaultText>Petrify</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1607</ID>
+      <DefaultText>Causes Blinded afflcition for a short duration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1608</ID>
+      <DefaultText>Causes the Dazed afflicition for a short duration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1609</ID>
+      <DefaultText>Causes the Paralyzed afflcition for a short duration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1610</ID>
+      <DefaultText>Causes the Petrified affliction for a short duration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1611</ID>
+      <DefaultText>Confuse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1612</ID>
+      <DefaultText>Causes the Confused affliction for a short duration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1613</ID>
+      <DefaultText>Creates a ray of between the caster and the target, inflicting continual Crush damage to any hostiles affected by the ray.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1614</ID>
+      <DefaultText>Barbaric Retaliation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1615</ID>
+      <DefaultText>Going Between</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1616</ID>
+      <DefaultText>Form of the Delemgan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1617</ID>
+      <DefaultText>The Long Pain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1618</ID>
+      <DefaultText>Abjuration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1619</ID>
+      <DefaultText>Symbol of Berath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1620</ID>
+      <DefaultText>Symbol of Eothas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1621</ID>
+      <DefaultText>Symbol of Magran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1622</ID>
+      <DefaultText>Symbol of Ondra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1623</ID>
+      <DefaultText>Symbol of Skaen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1624</ID>
+      <DefaultText>Symbol of Wael</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1625</ID>
+      <DefaultText>Powder Burns</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1626</ID>
+      <DefaultText>Watchful Guardian</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1627</ID>
+      <DefaultText>Litany Against Major Afflictions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1628</ID>
+      <DefaultText>Litany Against Minor Afflictions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1629</ID>
+      <DefaultText>Feign Death</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1631</ID>
+      <DefaultText>Wilting Wind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1632</ID>
+      <DefaultText>Charge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1633</ID>
+      <DefaultText>Her Embrace, The Walls of our Home</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1634</ID>
+      <DefaultText>Persistent Distraction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1635</ID>
+      <DefaultText>Wall of Many Colors</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1636</ID>
+      <DefaultText>Kalakoth's Freezing Rake</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1637</ID>
+      <DefaultText>Mercy and Kindness Followed Where'er She Walked</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1638</ID>
+      <DefaultText>With All Your Strength Slay the Beast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1639</ID>
+      <DefaultText>Boil Their Flesh From Skin to Bone</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1640</ID>
+      <DefaultText>Rejoice, My Comrades! Two Fingers of Daylight!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1641</ID>
+      <DefaultText>Called to His Bidding, the Ancient Instruments of Death</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1642</ID>
       <DefaultText>Second Wind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1643</ID>
+      <DefaultText>Llengrath's Superior Elemental Bulwark</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1644</ID>
+      <DefaultText>Wall of Many Colors - [FF0000]Red![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1645</ID>
+      <DefaultText>Wall of Many Colors - [FB8000]Orange![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1646</ID>
+      <DefaultText>Wall of Many Colors - [FFFF00]Yellow![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1647</ID>
+      <DefaultText>Wall of Many Colors - [00FF00]Green![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1648</ID>
+      <DefaultText>Wall of Many Colors - [26b4fc]Blue![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1649</ID>
+      <DefaultText>Wall of Many Colors - [0000FF]Indigo![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1650</ID>
+      <DefaultText>Wall of Many Colors - [9c439f]Violet![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1651</ID>
+      <DefaultText>Triggered Immunity</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1652</ID>
+      <DefaultText>Behold the Martyr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1653</ID>
+      <DefaultText>Desiccating</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1654</ID>
+      <DefaultText>Zephyr</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7264,6 +8291,11 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1674</ID>
+      <DefaultText>The companion of Concelhaut's skull has the ability to call upon the archmage's shade for assistance. While summoned, Concelhaut's visage will cast spells, but the summoner suffers Raw damage for the duration as the undead wizard drains their lifeforce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1675</ID>
       <DefaultText>Immunity: Poison</DefaultText>
       <FemaleText />
@@ -7291,6 +8323,983 @@
     <Entry>
       <ID>1680</ID>
       <DefaultText>Draining Touch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1681</ID>
+      <DefaultText>Tornado</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1682</ID>
+      <DefaultText>Helpless Beast Form</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1683</ID>
+      <DefaultText>Vengeful Grief</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1684</ID>
+      <DefaultText>Form of the Helpless Beast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1685</ID>
+      <DefaultText>Avenging Storm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1686</ID>
+      <DefaultText>Major Grimoire Imprint</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1687</ID>
+      <DefaultText>Solitary</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1688</ID>
+      <DefaultText>Clarity</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1689</ID>
+      <DefaultText>Aegis of Loyalty</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1690</ID>
+      <DefaultText>Carouse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1691</ID>
+      <DefaultText>A quick slot is filled with a drink that can be consumed for combat bonuses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1692</ID>
+      <DefaultText>Intimidating Presence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1693</ID>
+      <DefaultText>So Singt thy Biting Winds o' Eld Nary</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1694</ID>
+      <DefaultText>Howl</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1695</ID>
+      <DefaultText>Defensive Mindweb</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1696</ID>
+      <DefaultText>Mênpŵgra's Curse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1697</ID>
+      <DefaultText>Brisk Recitation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1698</ID>
+      <DefaultText>Shadow Step</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1699</ID>
+      <DefaultText>Blood Thirst</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1700</ID>
+      <DefaultText>Exalted Hands</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1701</ID>
+      <DefaultText>Reaping Knives</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1702</ID>
+      <DefaultText>Resonant Touch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1703</ID>
+      <DefaultText>Swap Endurance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1704</ID>
+      <DefaultText>Echoing Shout</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1705</ID>
+      <DefaultText>Fire Stag</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1706</ID>
+      <DefaultText>Overbearing Guard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1707</ID>
+      <DefaultText>Skyward Kick</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1708</ID>
+      <DefaultText>The Long Pain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1709</ID>
+      <DefaultText>Hand of Weal and Woe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1710</ID>
+      <DefaultText>Symbol of Woedica</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1711</ID>
+      <DefaultText>Revive Companion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1712</ID>
+      <DefaultText>Heal Companion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1713</ID>
+      <DefaultText>Maura's Writhing Tentacles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1714</ID>
+      <DefaultText>Minoletta's Piercing Sigil</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1715</ID>
+      <DefaultText>Pull of Eora</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1716</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1717</ID>
+      <DefaultText>Effigy's Resentment: Zahua</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1718</ID>
+      <DefaultText>Effigy's Resentment: Devil of Caroc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1719</ID>
+      <DefaultText>Effigy's Resentment: Maneha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1720</ID>
+      <DefaultText>The rogue collapses to the ground and pretends to be out of a fight, regaining Endurance and biding his or her time until the moment is right to return to battle. When the rogue stands up, he or she becomes invisible for a short period of time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1721</ID>
+      <DefaultText>By stepping through the Between, a rogue is able to seemingly teleport across the battlefield for a few moments, automatically returning to his or her starting position when the effect ends.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1722</ID>
+      <DefaultText>The wizard summons a black sphere that draws all nearby enemies toward it each time it pulses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1723</ID>
+      <DefaultText>The wizard invokes the sigil of the famed Vailian wizard Minoletta. When he or she is struck in melee, the sigil retaliates with Pierce damage, pushing the target back and leaving them Stunned.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1724</ID>
+      <DefaultText>The barbarian projects his or her rage into a wave of energy that causes Crush damage and Dazes everyone caught in its path. If the shout strikes a solid surface, it will bounce once.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1725</ID>
+      <DefaultText>The barbarian reflexively lashes out at anyone who hits him or her in melee, doing Raw damage to anyone unfortunate enough to be on the receiving end.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1726</ID>
+      <DefaultText>The chanter summons a collection of ancient weapons to attack his or her foes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1727</ID>
+      <DefaultText>This ghastly invocation causes victims' bodies and souls to rapidly dissolve, doing Raw damage to enemies caught in its path.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1729</ID>
+      <DefaultText>After killing an enemy, the barbarian's Recovery is waived, allowing them to attack again immediately. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1730</ID>
+      <DefaultText>The chanter creates two bouncing beams of pure light that restore Endurance and grant immunity to Frightened and Terrified on all allies struck by them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1731</ID>
+      <DefaultText>The chanter increases allies' Accuracy and Damage against all enemies of the Beast type.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1732</ID>
+      <DefaultText>All allies receive more Endurance from healing effects.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1733</ID>
+      <DefaultText>The cipher uses an ally's soul to create "blades" of pure energy that emerge from both hands. The blades do Raw damage and generate Focus for the cipher who created them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1734</ID>
+      <DefaultText>By linking his or her mind with those of nearby allies, the caster creates a series of defensive links between them. All allies in the mindweb use the best defense of anyone in the web.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1735</ID>
+      <DefaultText>An ally superficially takes on the form of a spirit. Their movement is increased and many incoming Crits, Hits, and Grazes are converted to a less severe result.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1736</ID>
+      <DefaultText>The druid makes himself or herself a conduit for the power of a storm. Any target they strike in melee, or who strikes them in melee, is attacked by a bolt of lightning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1737</ID>
+      <DefaultText>The druid coalesces tiny nature spirits into the form of a great stag made of flame. The stag leaves a trail of fire wherever it runs. The spirits inside can be made to disperse violently, destroying the stag but doing Fire or Pierce damage to anyone caught in the blast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1738</ID>
+      <DefaultText>Creates a rebounding ball of fire, inflicting Burn damage upon anyone in its path.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1739</ID>
+      <DefaultText>Allies gain a protective layer of wooden "skin" and are imbued with characteristics of delemgan, becoming faster, less vulnerable to Disengagement attacks, and immune to the Stuck affliction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1740</ID>
+      <DefaultText>The fighter dashes across the battlefield in a flash, inflicting Crush damage on anyone caught in his or her path.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1741</ID>
+      <DefaultText>If the fighter is hit by damage that does at least 10% of his or her total Endurance, he or she will gain immunity that damage type for a short duration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1742</ID>
+      <DefaultText>The monk launches a target into the air, slamming them back down to the ground and leaving them Prone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1743</ID>
+      <DefaultText>The monk's strikes generate a sympathetic resonance between the monk and his or her target. Successive strikes increase the intensity of the resonance. At a time of the monk's choosing, the monk can cause the resonance to inflict devastating Raw damage to anyone currently carrying them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1744</ID>
+      <DefaultText>The monk becomes capable of projecting force from his or her fists, inflicting damage at long range.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1745</ID>
+      <DefaultText>Through force of will, the paladin can destroy any spirit or summoned creature below the paladin's level. Spirits and summoned creatures equal to or greater than the paladin's level take Raw damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1746</ID>
+      <DefaultText>The paladin targets a fallen ally, creating a pulsing beacon over them that increases the Speed and Damage Reduction of nearby allies while decreasing the Speed and Damage Reduction of nearby enemies. The beacon disappears if the ally is revived. If the paladin is knocked out in battle, this ability is automatically applied to him or her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1747</ID>
+      <DefaultText>Confused, Charmed, and Dominated characters have severed Accuracy penalties when attacking the paladin. Additionally, the paladin's attacks against such characters do minimal damage and always end the effect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1748</ID>
+      <DefaultText>The priest calls forth a beam of light that heals allies and burns enemies caught in the ray.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1749</ID>
+      <DefaultText>Emblazons the ground with the symbol of Berath, periodically causing Corrode damage to enemies and leaving them Weakened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1750</ID>
+      <DefaultText>Emblazons the ground with the symbol of Eothas, periodically causing Burn damage to enemies in the area and granting defensive bonuses to allies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1751</ID>
+      <DefaultText>Emblazons the ground with the symbol of Magran, periodically causing Burn damage to enemies in the area and leaving them Blinded.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1752</ID>
+      <DefaultText>Emblazons the ground with the symbol of Ondra, periodically causing Crush damage to enemies in the area and granting Damage Reduction to allies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1753</ID>
+      <DefaultText>Emblazons the ground with the symbol of Skaen, periodically causing Pierce damage to enemies in the area and leaving them Hobbled.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1754</ID>
+      <DefaultText>Emblazons the ground with the symbol of Wael, periodically causing Freeze damage to enemies in the area and granting Confused, Charmed, and Dominated resistance to allies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1755</ID>
+      <DefaultText>Emblazons the ground with the symbol of Woedica, periodically causing Slash damage to enemies in the area and granting bonus Accuracy to allies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1756</ID>
+      <DefaultText>The priest's faith becomes a wellspring of indomitability for his or her allies. When an affected ally is knocked unconscious in battle, he or she will immediately be revived and have some Endurance healed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1757</ID>
+      <DefaultText>Grants a single ally temporary immunity to the Blinded, Confused, Dazed, Distracted, Frightened, Hobbled, Prone, Sickened, and Stuck afflictions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1758</ID>
+      <DefaultText>Grants a single ally temporary immunity to the Charmed, Dominated, Paralyzed, Petrified, Stunned, Terrified, and Weakened afflictions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1759</ID>
+      <DefaultText>The ranger overloads each shot of his or her firearm with excessive powder. The resulting blast generates a powerful cone of flame, but temporarily leaves the ranger Blinded.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1760</ID>
+      <DefaultText>When a ranger or his or her animal companion are knocked out, the partner suffers the normal effects of Bonded grief, but becomes filled with focused rage for a short duration. While so focused, they gain Speed, Movement, and do additional Damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1761</ID>
+      <DefaultText>The ranger can revive his or her animal companion and heal a small amount of Endurance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1762</ID>
+      <DefaultText>The ranger can heal his or her animal companion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1763</ID>
+      <DefaultText>Whenever the rogue is contributing to the Flanked affliction on a target, the victim is also Distracted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1764</ID>
+      <DefaultText>The wizard summons a frightful bow that does Corrode damage to enemies and leaves them Terrified. Each bolt of energy the wizard fires bounces to one additional target.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1765</ID>
+      <DefaultText>A ghostly, skeletal hand rakes across the area, doing Freeze damage to enemies in the area, leaving them Weakened and Hobbled.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1766</ID>
+      <DefaultText>The wizard is protected by elemental shields that guard him or her against Burn, Corrode, Freeze, and Shock damage until they are overwhelmed or the duration expires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1767</ID>
+      <DefaultText>Allows the wizard to temporarily "borrow" druid, priest, or wizard spells of 7th level or lower. For a short duration, the wizard can cast the stolen spells freely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1768</ID>
+      <DefaultText>Summons a scintillating wall of varied colors that inflicts varied damage and afflictions on enemies passing through it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1769</ID>
+      <DefaultText>A parching wind blows across the battlefield, inflicting Raw damage on anyone in the area and leaving them Weakened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1770</ID>
+      <DefaultText>Transforms a single kith enemy (aumaua, dwarf, elf, godlike, human, or orlan) into a pig. The pig has very poor defenses but can move quickly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1771</ID>
+      <DefaultText>Summons a trio of powerful tentacles that cannot move, but can inflict Crush and Corrode damage and the Stuck affliction on anyone they hit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1772</ID>
+      <DefaultText>Paralytic Poison</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1773</ID>
+      <DefaultText>Moon Spider Radiance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1774</ID>
+      <DefaultText>Moon Spider Essence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1775</ID>
+      <DefaultText>Wild Attack</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1776</ID>
+      <DefaultText>Skuldrak Poison Breath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1777</ID>
+      <DefaultText>Eyeless Scream</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1778</ID>
+      <DefaultText>Eyeless Ray of Fire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1779</ID>
+      <DefaultText>Eyeless Kick</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1780</ID>
+      <DefaultText>Eyeless Ground Pound</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1781</ID>
+      <DefaultText>The chanter is able to recite phrases more quickly, allowing them to use invocations earlier in combat while increasing the overlap between their phrases.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1782</ID>
+      <DefaultText>Martyr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1783</ID>
+      <DefaultText>The Parade of Souls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1784</ID>
+      <DefaultText>All Break Upon the Wheel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1785</ID>
+      <DefaultText>Immunity: Ground</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1786</ID>
+      <DefaultText>The target cannot be affected by attacks or specific afflictions with this keyword.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1787</ID>
+      <DefaultText>Immunity: Dragon Breath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1788</ID>
+      <DefaultText>Resistance: Prone</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1789</ID>
+      <DefaultText>Increased defense against the listed affliction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1790</ID>
+      <DefaultText>Snow Bear Terrifying Roar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1791</ID>
+      <DefaultText>Snow Bear Swipe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1792</ID>
+      <DefaultText>Lets out a dreadful shout, Frightening enemies in the area of effect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1793</ID>
+      <DefaultText>Psychically assaults enemies near the caster, causing Raw damage and Dazing anyone in the area of effect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1794</ID>
+      <DefaultText>Summon Illusionary Weapons</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1795</ID>
+      <DefaultText>Conjures a destructive vortex of wind that can launch people into the air, knock victims Prone, and inflict Crush damage on everyone it touches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1796</ID>
+      <DefaultText>Transforms the user into a mênpŵgra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1797</ID>
+      <DefaultText>Summon Swamp Lurker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1798</ID>
+      <DefaultText>The mossy rock releases captive soul magic that coalesces into the physical form of a Swamp Lurker.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1799</ID>
+      <DefaultText>Conjure Rain Blight</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1800</ID>
+      <DefaultText>Blind Monk's Venom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1801</ID>
+      <DefaultText>Wrath of Five Suns</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1802</ID>
+      <DefaultText>Whenever the paladin uses Sworn Enemy, five orbs of flame leap from his or her hand and fly toward the target.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1803</ID>
+      <DefaultText>Vielo Vidòrio</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1804</ID>
+      <DefaultText>"Vielo vidòrio!" is a battle cry meaning "swift victory" used among the Frermàs mes Canc Suolias. When the paladin uses Flames of Devotion, nearby allies gain increased Attack Speed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1805</ID>
+      <DefaultText>Acid Breath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1806</ID>
+      <DefaultText>Tail Whip</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1807</ID>
+      <DefaultText>Destroys Eyeless</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1808</ID>
+      <DefaultText>Utterly obliterates any Eyeless hit by the effect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1809</ID>
+      <DefaultText>Abydon's Labor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1810</ID>
+      <DefaultText>Unleashes a spiritual projection of the hammer's power, causing Crush damage to enemies and pushing them back. Fatigues the wielder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1811</ID>
+      <DefaultText>Ring of the Ancient Forge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1812</ID>
+      <DefaultText>The ringing of Abydon's hammer is powerful enough to Interrupt enemies around the wielder and leave them Stunned.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1813</ID>
+      <DefaultText>Frightens Vessels around the wielder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1814</ID>
+      <DefaultText>Knocks Vessels Prone on Crit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1815</ID>
+      <DefaultText>Gréf's Authority</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1816</ID>
+      <DefaultText>Accurate melee attack that does Crash/Slash damage, bypasses some Damage Reduction, and can Stun the target.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1817</ID>
+      <DefaultText>Frighten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1818</ID>
+      <DefaultText>Restore Spiritshift</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1819</ID>
+      <DefaultText>Javelin Launch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1820</ID>
+      <DefaultText>Ground Stab</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1821</ID>
+      <DefaultText>Paralyzing Shot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1822</ID>
+      <DefaultText>Deadfire Shanty</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1823</ID>
+      <DefaultText>Dragon's Breath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1824</ID>
+      <DefaultText>Berath's Kiss</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1825</ID>
+      <DefaultText>Gravestep</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1826</ID>
+      <DefaultText>Wit Dyr Jerky</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1827</ID>
+      <DefaultText>Mind Grub</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1828</ID>
+      <DefaultText>Pestilent Cloud</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1829</ID>
+      <DefaultText>Llengrath's Dread Haze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1830</ID>
+      <DefaultText>Wyrthoneg</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1831</ID>
+      <DefaultText>Stone Fling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1832</ID>
+      <DefaultText>Death Spores</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1833</ID>
+      <DefaultText>Fearless</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1834</ID>
+      <DefaultText>The fighter is immune to the Frightened and Terrified afflictions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1835</ID>
+      <DefaultText>Brute Assault</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1836</ID>
+      <DefaultText>Llengrath's Mental Shields</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1837</ID>
+      <DefaultText>Llengrath's Physical Shields</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1838</ID>
+      <DefaultText>Mental Prowess</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1839</ID>
+      <DefaultText>Sever the Soul</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1840</ID>
+      <DefaultText>Javelin Stab</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1841</ID>
+      <DefaultText>Your truce with Llengrath was sealed with a mutually beneficial exchange, and you have departed from that meeting a little wiser for your troubles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1842</ID>
+      <DefaultText>The Watcher targets the very essence of a creature with their next attack, bypassing the target's defenses and leaving them Weakened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1843</ID>
+      <DefaultText>Rally the Crag Ogres</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1844</ID>
+      <DefaultText>Heavy Cannon Blast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1845</ID>
+      <DefaultText>Burning Pitch Trebuchet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1846</ID>
+      <DefaultText>Your encounter with the Watcher Adaryc has heightened your abilities, allowing you to penetrate your foes' defenses and leave them Weakened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1847</ID>
+      <DefaultText>Sever the Soul</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1848</ID>
+      <DefaultText>Radiant Spore Ichor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1849</ID>
+      <DefaultText>Fills targets with an intense malaise that leaves them Sickened and incapable of evaluating their Endurance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1850</ID>
+      <DefaultText>The caster gains immunity to the Charmed, Confused, Dazed, Distracted, Dominated, Frightened, Stunned, and Terrified afflictions. The shields will negate two attacks from each affliction type.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1851</ID>
+      <DefaultText>The caster gains immunity to the Blinded, Paralyzed, Petrified, Prone, Sickened, Stuck, and Weakened afflictions. The shields protect against two attacks from each affliction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1852</ID>
+      <DefaultText>Llengrath's Blunt Wisdom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1853</ID>
+      <DefaultText>The wizard summons a rod that hurls a ball of magical energy. When the ball arrives at its target, it hovers for a few moments before exploding, inflicting terrible Raw damage on nearby enemies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1854</ID>
+      <DefaultText>Maul</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1855</ID>
+      <DefaultText>Adaryc's Readceran forces fire trebuchets at your enemies in Cayron's Scar, inflicting Burn damage over time and leaving them Hobbled.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1856</ID>
+      <DefaultText>Your allies at Durgan's Battery fire the heavy cannons toward Cayron's Scar, inflicting tremendous Crush damage and knocking enemies Prone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1857</ID>
+      <DefaultText>A trio of Matron Beregan's ogres promptly arrive at Cayron's Scar to deal with your enemies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1858</ID>
+      <DefaultText>Noxious Wave</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1859</ID>
+      <DefaultText>Lord's Authority</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1860</ID>
+      <DefaultText>Spell Steal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1861</ID>
+      <DefaultText>Anitlei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1862</ID>
+      <DefaultText>Anitlei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1863</ID>
+      <DefaultText>Satisfied Mind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1864</ID>
+      <DefaultText>Clean Conscience</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1865</ID>
+      <DefaultText>Satisfied Mind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1866</ID>
+      <DefaultText>Clean Conscience</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1867</ID>
+      <DefaultText>As the undisputed ruler of Caed Nua, you are able to draw upon this heirloom of the Gathbin family to increase your Might, Resolve, and Damage Reduction while gaining immunity to the Charmed and Dominated afflictions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1868</ID>
+      <DefaultText>Infestation of Spiders</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1869</ID>
+      <DefaultText>Victims of this trap suffer massive initial Pierce damage and are Hobbled and Frightened by the experience. They continue to take Raw damage over time long after the trap has been sprung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1870</ID>
+      <DefaultText>Ethereal Cloak</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1871</ID>
+      <DefaultText>Llengrath's Siphoning Image</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1872</ID>
+      <DefaultText>With the memory of her crime erased from her mind, Maneha is finally at peace. She's able to focus on the battles before her, improving her Dexterity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1873</ID>
+      <DefaultText>Maneha has learned to live with the memory that has troubled her. In this decision, she's found new Resolve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1874</ID>
+      <DefaultText>Empowered Heavy Cannon Blast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1875</ID>
+      <DefaultText>Your allies at Durgan's Battery fire the heavy cannons - empowered by the souls bound to them -  toward Cayron's Scar, inflicting tremendous Crush damage and knocking enemies Prone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1876</ID>
+      <DefaultText>When a Nalpazca warrior has learned to free himself from the snares that root him to the material world, he is said to become the anitlei.
+
+Among his many gifts, the anitlei possesses a preternatural understanding of the suffering of all beings, and from that insight can divine an opponents' intentions and react to them before their opponent has even put them into effect. As a result, they know exactly where and when to strike, and can do so confidently at great speed.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

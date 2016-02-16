@@ -1,0 +1,107 @@
+<StringTableFile>
+  <Name>quests\companions\companion_qst_eder</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Fragments of a Scattered Faith</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bring Ed&#233;r to speak with Maerwald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Travel with Ed&#233;r to the records archive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Seek out the Saint's War battlefield with Ed&#233;r.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Search the battlefield for signs of the Saint's War.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Bring the battle artifact to a cipher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ed&#233;r has agreed to travel with me. He seemed to have some questions he thought a Watcher might be able to answer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>After telling Ed&#233;r that I was headed for Caed Nua to see its lord, an old Watcher named Maerwald, he expressed that there were things he'd like to ask Maerwald as well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ed&#233;r believes he may be able to find more about the circumstances of his brother's death in Defiance Bay. He suggested there might be records of the Saint's War in an archive in the ducal palace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ed&#233;r's brother Woden fought for Readceras and died in a battle at Cl&#238;aban Rilag. He wants to see the battlefield.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ed&#233;r admits he isn't sure what he is looking for here. He is hoping for some sign of his brother's presence here that might provide a clue as to why he fought for Readceras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I found a steel ornament that once capped a standard of Readceras during the Saint's War. The object is useless by itself, but it is possible that in the hands of a cipher it could be more telling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>The records keeper was unwilling to show us records from the Saint's War, citing concerns about vengeful Dyrwoodans hunting down Readceran refugees. He said things might be different were my reputation in the city stronger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Dunryd Row would seem to be a promising place to go, as its cipher agents specialize in this sort of work.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>With Dunryd Row no longer an option, I may have to look to Twin Elms for the help I need.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Maerwald was not in any condition to answer questions when we found him. Ed&#233;r will have to decide how to proceed from here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I approached the records keeper, but the rioting just outside the palace had him preoccupied. I will have to wait for a better time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>We were able to confirm that Ed&#233;r's brother Woden fought for Readceras, and had even met Waidwen himself prior to enlisting. But his actual reasons for doing so were lost. Ed&#233;r will likely never know what inspired his brother to change his allegiance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ed&#233;r has died, and his concerns will be pursued no further.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>It is unlikely we will be able to find a cipher capable of reading the standard piece we found in Cl&#238;aban Rilag.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

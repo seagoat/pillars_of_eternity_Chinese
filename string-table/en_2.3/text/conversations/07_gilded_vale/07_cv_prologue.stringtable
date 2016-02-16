@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\07_gilded_vale\07_cv_prologue</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Any answer but silence. Five wagons grope blindly for the path on a starless night, their master glancing ever upward to the skies for assurance that he is on the right course, a dim lantern his only protection against the encroaching darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The caravan carries travelers bound for the frontier hamlet of Gilded Vale, you among them, where a local lord has offered land and wealth to settlers from abroad looking for a fresh start. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>You have taken suddenly ill, sweating and shivering, and one of the other travelers signals for the caravan master to stop on your behalf. He pulls up just in time to avoid plowing into the trunk of a fallen tree that bars the way ahead. You will go no further tonight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>But the skies bring no comfort, shining no light, betraying no hint of what they know.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

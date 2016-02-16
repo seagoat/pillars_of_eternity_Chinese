@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\08_wilderness\07_cv_beafi</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"What manner of Goldpact cretins are you? I gave you coin enough to kill a king - never mind a few travelers!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"By your command." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"There, that one! Get that one!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Keep your eyes on the road. One of these sorry peasants is bound to suit our purposes." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"And you can have first pickings of whatever else they're carrying." </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

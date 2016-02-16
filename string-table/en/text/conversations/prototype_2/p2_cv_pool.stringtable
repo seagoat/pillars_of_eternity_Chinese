@@ -1,7 +1,8 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\prototype_2\p2_cv_pool</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>136</EntryCount>
+  <EntryCount>140</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -219,7 +220,7 @@ You hear a third voice, trembling at the edge of sanity. "Give us one of your co
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Ed&#233;r."</DefaultText>
+      <DefaultText>"Edér."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -386,7 +387,7 @@ Kana shakes his head. "Let's be out of this place, before it claims another." </
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>Ed&#233;r's mouth tightens as the body fades from view. He looks as though he is ready to dive in after it, but he stops himself. He covers his face with one hand.
+      <DefaultText>Edér's mouth tightens as the body fades from view. He looks as though he is ready to dive in after it, but he stops himself. He covers his face with one hand.
 
 "Enough of this. Come on."</DefaultText>
       <FemaleText />
@@ -400,9 +401,9 @@ He falls to his knees, choking and coughing. Blood gushes from his open mouth to
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>You feel a jolt of power jump from you to Ed&#233;r. He blinks, his eyes turning to you for just a moment.
+      <DefaultText>You feel a jolt of power jump from you to Edér. He blinks, his eyes turning to you for just a moment.
 
-He falls to his knees, choking and coughing. Blood gushes from his open mouth to the paving stones, running into the pool in a steady stream. Ed&#233;r tries to cry out, but the blood filling his throat strangles the sound.</DefaultText>
+He falls to his knees, choking and coughing. Blood gushes from his open mouth to the paving stones, running into the pool in a steady stream. Edér tries to cry out, but the blood filling his throat strangles the sound.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -543,7 +544,7 @@ Kana shakes his head. "Let's be out of this place, before it claims another." </
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>Ed&#233;r's mouth tightens as the body fades from view. He looks as though he is ready to dive in after it, but he stops himself. He covers his face with one hand.
+      <DefaultText>Edér's mouth tightens as the body fades from view. He looks as though he is ready to dive in after it, but he stops himself. He covers his face with one hand.
 
 "Enough of this. Come on."</DefaultText>
       <FemaleText />
@@ -749,6 +750,28 @@ The blood pool is still.</DefaultText>
     <Entry>
       <ID>211</ID>
       <DefaultText>The pool itself begins to ripple with the sound of a dissonant chorus of perverse laughter that rakes at your ears. The lapping blood stirs a large metal cage, half-submerged in the center of the pool, and it creaks loudly as it rocks back and forth on a rusted pulley, as if in answer to your question.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Wasn't me this time!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"I'd be lying if I said I didn't wanna learn how to do that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"In all my years, I've never seen-" She swallows, hiding the hitch in her voice. "Don't make us stay any longer, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>You feel a jolt of power jump from you to Zahua. He blinks, his eyes turning to you for just a moment.
+
+He falls to his knees, choking and coughing. Blood gushes from his open mouth to the paving stones, running into the pool in a steady stream. Zahua tries to cry out, but the blood filling his throat strangles the sound.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

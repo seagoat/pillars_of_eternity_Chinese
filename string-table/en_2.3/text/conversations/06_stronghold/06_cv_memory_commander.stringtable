@@ -1,0 +1,62 @@
+<StringTableFile>
+  <Name>conversations\06_stronghold\06_cv_memory_commander</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A spectral man arrayed in armor and an officer's cloak studies a single sheet of paper. You can see straight through it to the ducal and Aedyre insignias on his breastplate. 
+
+He seems to read over the page several times before looking up at you. When he does, his expression is unreadable. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Tell me about the orders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Listen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"The instructions come from Admeth Hadret himself, which means they might as well have come from the duc." He rolls the orders into a thin scroll. 
+
+"We're to burn those hut-dwellers out. Set fire to the Dyrwood so they've nowhere to retreat. Cut them down when they come out or let them blaze if they won't." A ghostly sigh forms a mist in front of his lips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"There's been a change of plans. Take your squad and march south, all the way to the bow in the river. 
+
+"Bring a wagon team and a dozen barrels of pitch." His voice falters, and he shakes his head. The hand holding the paper drops to his side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>His mailed fist tightens around the rolled paper. "It'll make this even shorter than the Broken Stone War, all right." He looks at you. "And we can only hope it'll discourage future conflicts."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You feel nothing when his hand drops to your shoulder. "I know this is personal for you. It is for many of us. But understand - we're doing this to end this war, not to continue the last one.
+
+"Remember that we're flushing out the enemy, not burning villages for sport. Berath will have his work cut out for him tonight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"New orders, lieutenant. Ready your squad."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,696 @@
+<StringTableFile>
+  <Name>conversations\05_defiance_bay_heritage_hill\05_cv_icantha_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>125</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A woman bends over a roaring fireplace, feeding a splintered chair leg into it. As you get closer, you notice something unnatural about her - a certain pallor to her skin, a lack of movement beneath her flesh even while her arms execute deft, efficient movements.
+
+And then you see the puckered flesh, ragged and bloodless, over her heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"You return. What have you come seeking this time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The fampyr smiles with bloodless lips. "Always a pleasure to speak with someone who appreciates true learning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>DEBUG: Set Conditions for Quest Resolution = True.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"It's rude to stare, you know. Don't worry, I've no mind to start anything with you. After all, I've stayed in such good shape by choosing my meals carefully." She laughs to herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"It's time for me to get going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I need the words that operate the Engwithan machine in the tower."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I'm looking for Icantha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>She laughs, a noise that blends the crunch of dry leaves with something piercing and white-hot. 
+
+"That fool, Aldhelm. He sent you, didn't he? I can hardly believe he's had the cleverness to survive. That simpleton thinks he can understand how to use something without understanding what it is. Or why it is."
+
+You feel a hot core of pride smoldering at the center of her soul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"He dabbles with ancient and powerful devices with all the finesse of a blacksmith. He sends you here to petition me for aid after years of disparaging my research."
+
+She shakes her head as she pokes at the fire with renewed ferocity. "I'll bet he didn't even tell you the tower's name, did he? That's his problem. Always looking for solutions without caring for meaning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>She watches you with unblinking eyes. "And what would you want with her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Tell me the tower's name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"The problems in Heritage Hill are bigger than your rivalry, Icantha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Humble Aldhelm now by demonstrating the value of your research."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"How do you operate the machine atop Teir Nowneth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Icantha closes her eyes. "Teir Nowneth." Her voice is suddenly soothing. "It is called Teir Nowneth."
+
+She stands and turns to you, wiping parchment-dry hands on her clothes. "They built the machine atop it to contain souls. Hold them in place. But the others I've seen, machines scattered all over the Dyrwood, are relays. Built to move souls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"My silence demonstrates it more succinctly."
+
+Your words fan the strange coals at the center of her soul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"What do I care? I prepared myself for an eventuality such as this. And I can assure you those dwindling souls in the streets are beyond caring, as well."
+
+Her pride burns brighter still.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Where would they move souls?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Another mystery. Hypothetically, anywhere they wished. The real question, as always, is why. To intermix them the way a player shuffles his deck, the way a farmer rotates his fields? To collect them like butterflies under glass? To melt them down for raw essence?
+
+"Unfortunately, I don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Back to these tinker's concerns! And what would you do with these tethered souls if I told you?" She crosses her arms over her unmoving chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"I'd release them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I'd harvest them for essence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"I don't know yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"A level of humility rarely found in my line of work. Most refreshing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"And so give their existence purpose. But what kind, I wonder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"So you say. And just what would you release them to? They'd abandon their existence here for another somewhere else, equally aimless and meaningless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I could help you. But I won't." The pride lodged in her soul flares up, twisting into the shape of something that writhes and squeals within her.
+
+"Here, I have specimens aplenty and time enough to observe them all. It's every scientist's dream.
+
+"My answer is no."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"You seem to know a lot about Teir Nowneth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"I read the runes like a journal. I understand their meaning. People like Aldhelm try to read them like instructions, and in so doing, they miss their true meaning completely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Extinguish Icantha's pride.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>The fampyr doesn't seem to notice as you wrap your mind around the squalling, burning mass. 
+
+However, it sears your very bones. You jump back, crying out in pain.
+
+"I won't abandon this opportunity. These souls will remain here, with me, and I'll accomplish more than any animancer in the history of the field."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"And who will know about it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"You're dead. Why does any of this matter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"The fate of these trapped souls is more important."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Because my research will outlive me. I'll have time and opportunity enough to accomplish more than any animancer in the history of the field."
+
+The pride sparks and squalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Hoarding knowledge is pointless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>The burning thing roars to life. "Nothing is more important! We gather and study and through it transcend the thousand insectoid lives that brought it to us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>The pride-thing flickers as the flames around it abate. "All I've learned. Years of studying the Engwithan language. No one understands it better than me. That counts for something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Knowledge is meaningless unless it's shared."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Your opportunities here are finite. One day, that knowledge will die with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"But what use is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Her pride rages inside her. "Uses! Why must something so pure be fashioned into a blunt instrument?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"A foolish and false sentiment. Knowledge is meaning. It needs no external purpose."
+
+Her pride smolders still.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Extinguish Icantha's pride.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>You force your essence around the burning lump inside her, but it scorches you. Your flesh is whole and unmarked when you draw back, but it nevertheless stings at the memory of the heat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>The pride hisses and sputters. It's little more than an ember now.
+
+"You're wrong." But there's no conviction in her voice. "I'll build it forever. I'll cling to it. That will give me... something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[Extinguish Icantha's pride.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Teach me what you know. I'll make sure that it grows and your legacy lives on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Will that really be enough for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>You reach for it, but it's still too hot to grasp in your mind for more than a second. 
+
+"It may not be much, but it's still something. You can't take that away from me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Your words finally quench her pride, and all that remains is a blackened, diamond-hard rock. You cast it away, where it melts into the darkness. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>The dying cinder clings to life. "It will. It must be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"These are the words you need." Her cold, dry fingertips rest on your temples, and you feel her reaching into your mind, forming images from the darkness. Runes flash through your head, but they're no longer just pictures. They have meaning, and you understand them. They're commands.
+
+Something triggers in your mind, a distant memory unearthed from a past life long since buried. You can see a vast array of runes, far more than Icantha has shown you, and you know their sound and their meaning and how they fit together, the language of Engwith once more at your command.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>She retreats from you. "Something has awakened in your mind. You understand far more than I ever did.
+
+"Take this knowledge, then, and do what you will with Teir Nowneth. Now that you understand its purpose, it will serve you in whatever way you wish."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"They're inconsequential. Their existence means nothing. They don't even understand their predicament, which you and I see so clearly."
+
+Her pride blazes on. "Through them, I'll accomplish more than any of my peers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"You can't leave these souls imprisoned!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"And who will stop me? Only I understand the control words for Teir Nowneth. So, yes, I can."
+
+Her pride blazes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>She gives you a hollow laugh. "A survivor by the grace of my own careful preparations."
+
+She traces a finger over the jagged hole in her chest. "When I heard the claws scrabbling at the door outside, I took care of matters myself. And since then, I've been careful to keep myself fresh and fed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Do you know what happened here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"An incredible act of animancy. Of a magnitude this part of the world likely hasn't seen since Engwithan times." Her dead eyes glaze over with wonder. 
+
+"Someone found something very powerful and ancient. And I'd bet my own preserved life it wasn't Aldhelm or his lovely assistant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"I'd like to ask you a few more questions about Teir Nowneth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Certainly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"You said the other towers around the Dyrwood were constructed to move souls. Why would the Engwithans have wanted to do that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Another mystery. Hypothetically, anywhere they wished. The real question, as always, is why. To intermix them the way a player shuffles his deck, the way a farmer rotates his fields? To collect them like butterflies under glass? To melt them down for raw essence?
+
+"Unfortunately, I don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Remind me, how do you know so much about the tower?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Explain how the control words work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"I read the runes like a journal. I understand their meaning. People like Aldhelm try to read them like instruction manuals, and in so doing, they miss their true meaning completely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"That's all. Thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Harnessing the power of Teir Nowneth is about understanding what it was designed to do. You know the words and their meanings. You can speak them, and the tower shall obey."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"What do I do with the tower now that I know these words?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Turn it off, I expect. That will be easy now that you can read the runes. The vessels would still roam, but striking them down would return their essence to the cycle.
+
+"But be careful. That machine controls hundreds of souls, and that volume of essence could easily overload it. Improperly channeling the essence would destroy the machine along with the souls. It would be a terrible loss for posterity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Bank Node 151</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"We should think about just killing her first and having you talk to the body."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Unnatural creature. We should correct it, send it scampering back to the foulest depths of animancy from whence it came."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Aloth casts a wary eye at the fampyr. "I sincerely hope you're not planning on asking her to join us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"I would not get too close, [Player Name]... Look there - she is not truly living, and such things always hunger after life." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Pallegina's eyes grow wide and she thrusts a feathered arm out to stop you from moving forward. "[Player Name], be careful. She does not appear... well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"This one's mind is full of hunger and violence. And yet... there is a deeper thirst, one not satisfied by blood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Careful, [Player Name]. This one thirsts for kith blood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"You'll stay clear of that parasite if you know what's good for you..." he shakes his head and shrugs. "On second thought, I talk to trees and once tried to seduce a female stelgaer... who am I to judge?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Bank Node 166</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Hiravias turns to you, "So what she's saying is," he whispers, "we COULD use the time-honored tactic of negligence to destroy this contraption and prevent further ensnarement of souls."
+
+His face contorts into a frown. "Still... It seems a wretched deed to have to sacrifice those trapped within the device - they deserve a better fate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Bank Node 171</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"What could possibly be more meaningless an existence than their current predicament? Maybe not even Wael knows what would become of the them, but it'd be wrong not to give the souls a chance to leave their prison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Tell me what you know about this Aldhelm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>She smirks. "I truly doubt that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"His name barely merits repeating. He's a charlatan who liked to dig up pretty artifacts and call himself a scholar. The pity with animancy these days is that just about anyone can claim to be an expert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"I still don't understand why this district is full of walking corpses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>She spins from the fire to face you. "Because someone found a way to tether their souls to their bodies, don't you see?" She taps her skull with an impatient finger. "So when the heart stops beating, when the blood stops flowing, their bodies still animate. And with a newfound hunger."
+
+She turns back to the fire. "Those that can feed it with living flesh and essence stay strong and sharp. Those that can't, degenerate. Quickly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"I came across a group of people in the back room..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>She clucks. "I hope you didn't disturb them. Rounding them up is quite the chore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>[Attack] "You've been helpful. Unfortunately, I can't let you live..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Tell me more about your situation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"What would you like to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"I'd like to hear your theory about what happened to Heritage Hill."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Explain how you've managed to... preserve yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Someone activated the machine atop the tower. And based on what I know, it could only have been someone who understands Engwithan as well as I.
+
+"Once the people started dying around here, it was only a matter of time before the district descended into chaos. For my part, I'm just disappointed I didn't get to meet this mysterious provocateur. Imagine all the knowledge he or she must have..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"There's no need to be squeamish. It's a matter of flesh and essence. Those of us who died in the district after the machine was activated found ourselves in a state of constant decay. The only way to stave it off is to regularly partake of living flesh and essence."
+
+She shrugs. "It's been unpleasant, but I've gotten used to it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"I imagine I'll stay here a while longer, working on my notes. My present state allows me to observe the other vessels freely. It's an unprecedented study opportunity, really.
+
+"Eventually, though, I'll find my way out of the city. The district can't stay closed forever, and I can blend in well enough as I am. I'll be able to continue my work, and as long as I keep myself fed, I can enjoy decades more of productivity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>She shows nothing more than a few scratches after your fight. "I hope you've gotten that out of your system."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Out of the corner of his eye, Aloth gives you a sly look. "It seems your ravenous new friend has just given us the key to ending this wretchedness for good.
+
+"And now that we've seen what this machine is capable of, I do hope you're not squeamish about the loss of a few hundred souls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"I don't know, destroying it seems like it might do this place some good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"A cruel fate has befallen this place... yet crueler still to banish these souls to oblivion. We must free this district... and the souls trapped within it. There must be hope of a new life after this one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"If only we could get all the animancers together in one place, perhaps we could destroy their souls as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"We should destroy the machine. It doesn't matter whether the souls inside belong to the Wheel or oblivion. Their lives are over. Dead is dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Icantha frowns, rubbing at her fresh scars. "What exactly did you hope to accomplish? You and I both know I'll return to this body as long as that machine is on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Why would the Engwithans have wanted to tether souls like this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Perhaps they didn't. Perhaps that's why they built no other machines like this one.
+
+"We now see the Engwithans as masters of soul manipulation, but they couldn't have attained their expertise without copious trial and error. Perhaps this was one such experiment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"I'd destroy them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"A sudden end, but for what purpose?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"I still don't understand why the Engwithans would want to build a machine that tethers souls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Perhaps they didn't. Perhaps that's why they built no other machines like this one.
+
+"We now see the Engwithans as masters of soul manipulation, but they couldn't have attained their expertise without copious trial and error. Perhaps this was one such experiment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"About those people locked in the back room..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"An unpleasant necessity, given my present condition. Leave them be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"I saw you in a vision. There's something you need to do for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>She laughs again. "Believe me, I've heard that line before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>She laughs again. "Believe me, I've heard that line before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"A speaker of dead tongues, now! And so he surpasses a hundred frustrated scholars in the matter of a few moments. I don't suppose you could look at a few books for me...?" </DefaultText>
+      <FemaleText>"A speaker of dead tongues, now! And so she surpasses a hundred frustrated scholars in the matter of a few moments. I don't suppose you could look at a few books for me...?" </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"What? But what good is observing all this if you're going to hoard it for yourself? Tell her, [Player Name]! An entire language at your fingertips and she hides it away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Her voice is calm and quiet. "So be it. My studies and efforts shall grow through yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Trigger Conv Node 212</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,37 @@
+<StringTableFile>
+  <Name>conversations\companions\poi\poi_bs_woedica_church</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bank Node 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「這 看 起 來 像 是 馬 爾 瓦 德 描 述 的 地 方 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「這 是 你 正 在 尋 找 的 老 教 堂 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「這 就 是 馬 爾 瓦 德 談 到 的 神 殿 。或 者 它 的 遺 址 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「這 曾 是 忠 於 沃 迪 卡 的 神 聖 之 所 。我 想 知 道 它 被 遺 棄 了 多 久 …」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「這 就 是 我 們 要 找 的 沃 迪 卡 教 堂 。呵 ，迪 伍 德 人 。也 許 我 們 革 命 時 首 先 要 燒 的 東 西 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

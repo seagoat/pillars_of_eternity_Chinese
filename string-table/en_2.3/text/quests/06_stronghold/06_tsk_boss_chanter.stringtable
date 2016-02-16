@@ -1,0 +1,42 @@
+<StringTableFile>
+  <Name>quests\06_stronghold\06_tsk_boss_chanter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Bounty: Songsmith Roska</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Kill Songsmith Roska and take her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bring Roska's head to Warden Fyrgen at Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>The infamous Norwaech chanter, Songsmith Roska, is wanted for pillaging Engwithan ruins. She was last seen at Cl&#238;aban Rilag. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Songsmith Roska has a camp outside of Cl&#238;aban Rilag. If I'm to claim this bounty, I'll have to travel there, kill her, and bring her head back as proof of her death.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Roska is dead - and in return for her head, Fyrgen will give me the bounty reward I was promised. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I claimed the bounty on Songsmith Roska.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

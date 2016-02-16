@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\11_hearthsong\11_bs_dyrwoodan_noble</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I travel here often to buy herbs and furs. It's a long way, but the quality is unmatched."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"The homes here are so quaint. Imagine, living in a little shack."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I understand barring most visitors from the other districts, but surely exceptions can be made." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Be watchful. These Glanfathans will lie to your face, and smile all the while." </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

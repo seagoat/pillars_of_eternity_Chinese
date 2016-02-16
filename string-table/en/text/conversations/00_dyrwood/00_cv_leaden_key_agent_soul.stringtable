@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\00_dyrwood\00_cv_leaden_key_agent_soul</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>11</EntryCount>
@@ -54,7 +55,7 @@ All the while, it feels as if you're falling toward the machine, your stomach ma
 
 You awaken from the vision to find yourself kneeling and gasping for air. Holding your head, you let the tiles between your knees gradually come into focus.
 
-As you catch your breath, you remember the strange scene you saw outside Cilant L&#238;s, where several robed figures fell amidst a howling b&#238;a&#373;ac. </DefaultText>
+As you catch your breath, you remember the strange scene you saw outside Cilant Lîs, where several robed figures fell amidst a howling bîaŵac. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -69,7 +70,7 @@ As you catch your breath, you remember the strange scene you saw outside Cilant 
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>The orders were clear. The effects of the machine in Cl&#238;aban Rilag were wearing off - a child had been born not far from Dyrford recently, its soul intact. The machine would need to be reactivated.</DefaultText>
+      <DefaultText>The orders were clear. The effects of the machine in Clîaban Rilag were wearing off - a child had been born not far from Dyrford recently, its soul intact. The machine would need to be reactivated.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

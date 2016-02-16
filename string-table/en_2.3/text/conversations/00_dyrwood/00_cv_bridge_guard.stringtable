@@ -1,0 +1,61 @@
+<StringTableFile>
+  <Name>conversations\00_dyrwood\00_cv_bridge_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The guard gives you an appraising eye. "You've recently come to Dyrford, I take it. I don't suppose you saw a young elven noblewoman on the road. I'm stuck in this wretched place with the rest of my unit until we find her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I haven't seen anyone like that." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Who is she?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Get out of my way." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Same as everyone else in this blazing village." He sighs. "Perhaps you could go speak with Lord Harond at the inn anyway. He'll be grateful for the assistance, and it could be the locals'll open up to you about his daughter's disappearance more than they have to us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Lady Aelys." He bites his lip. "She's the daughter of Lord Nestor Harond, and she's gone missing." He sighs. "Perhaps you could go speak with Lord Harond at the inn. He'll be grateful for the assistance, and it could be the villagers'll open up to you more than they have to us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>He shakes his head, laughing humorlessly. "You're every bit as helpful as that innkeeper, Dengler. Yes, you'll fit right in this charming little dump. Beasts take the whole sullen lot of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"If you find Lady Aelys, escort her to the Dracogen Inn with all haste." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The guard sighs with relief as he looks at you. "What are the odds. Stuck in this backwater only to meet the famed champion of Defiance Bay. Berath's Wheel brings mercy today, indeed."
+
+His demeanor grows serious. "Perhaps you could help. I don't suppose you saw a young elven noblewoman on the road. I'm stuck in this wretched place with the rest of my unit until we find her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The guard gives you an appraising eye. "What are the odds. Stuck in this backwater only to meet a Kind Wayfarer. Berath's Wheel brings mercy today, indeed."
+
+His demeanor grows serious. "Perhaps you could help. I don't suppose you saw a young elven noblewoman on the road. I'm stuck in this wretched place with the rest of my unit until we find her."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

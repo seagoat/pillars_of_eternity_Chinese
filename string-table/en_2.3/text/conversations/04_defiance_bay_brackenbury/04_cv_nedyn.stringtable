@@ -1,0 +1,558 @@
+<StringTableFile>
+  <Name>conversations\04_defiance_bay_brackenbury\04_cv_nedyn</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>107</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>A woman stands in the shade of the garden, muttering to herself. She's fixated on the pages of a large and well-worn tome, seemingly oblivious to the blooming flowers and the cool, fragrant breeze. She only looks up when your shadow crosses her page. "Do you mind? I'm rather busy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What are you so busy with?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I'll leave you alone. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"It's nice to see you and all, but I really need to focus on my studies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Give her the Theorems.] "You'll never believe what I found."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"You... Lady of Lament, you really found it!"
+
+Nedyn cradles the musty tome like a newborn. "I can't believe it. It really exists!" She looks back to you. "Thank you so much. This will be invaluable." She almost turns to the book, but at the last moment, she remembers herself and gives you a bag of coin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>She smiles. "Thanks again for all your help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>She snaps her book shut. "I'm studying soul attachment. We all know that souls move into people at birth and out of them at death, but we still have a lot of questions about what makes them stick, so to speak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I'm an animancer at the sanitarium. Currently, I'm researching matters related to Waidwen's Legacy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"What do you mean about making them 'stick'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>She brushes a stray lock from her forehead. "Souls power bodies and give their tissues life, but only when they're firmly attached. It's separation that leads to a whole spate of soul-related ailments, including the Hollowborn.
+
+"But if we understood how to reattach souls, we could end Waidwen's Legacy. Maybe even conquer death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>She scratches behind her ear. "That's the theory, anyway. Unfortunately, I don't have all of the research I need to put it into practice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"This is the problem with animancers. You meddle in things you don't understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"What exactly do you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Nedyn crosses her arms over her book. "At least we're trying to do something. The only real progress against the Legacy has come from our research. Unfortunately, our critics have seen to it that the public remembers our failures over our successes."
+
+She sighs. "Which can make it rather difficult to get the information we need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>A sly smile crosses her face. "Normally, I'd be more careful, but I've heard that you're progressively-minded in these matters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"There's a manuscript called the Theorems of Pandgram. It contains research from Pandgram's experiments on detached souls. The Hall of Revealed Mysteries is rumored to have a copy in the Elder Archives."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"The Theorems could advance my research by leaps and bounds, but Grimda, the High Archivist, worships Wael, which means she has some paradoxical views on sharing and restricting knowledge. And since she's not exactly a proponent of animancy, she tends to restrict the kinds of information that would be useful to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Nedyn looks startled at your approach. She slowly closes her book. "I... heard there was a massacre at the temple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Focus on the present. I got your book."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Next time you want something done, do it yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"You said you could do good with this book. What's more important: a handful of scriveners or thousands of souls?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"I didn't want things to turn out this way, but I had no choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>She takes the old book and holds it protectively against her chest. She looks down at the cracked binding and yellowed pages. "I... never thought anyone would get hurt..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Sure you did. That's why you sent me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"It's done. Accept it and use the book to make something good out of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Those scriveners won't be the only ones if you don't pay up for this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Neither did I. I'm so sorry this happened."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Lie] "How terrible! I hope Dunryd Row catches the bastard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>She clears her throat. "Yes, me too." Nedyn takes the ancient tome.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>She reaches into her pockets. Snarling, she shoves a fistful of coins into your hand. "Take this and begone. I don't want to see you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>She thumbs carefully through the pages, but her eyes are glazed over. "Yes, I... do hope this will be worth it." She rummages in her pockets. "Here, take this. For your efforts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Just go. I want to forget all of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"What's Waidwen's Legacy?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"'Waidwen's Legacy' refers to the rise in Hollowborn children in the Dyrwood in recent years. Some have also connected it to so-called b&#238;a&#373;acs that blow through Eir Glanfath. There's hardly any reliable data on those, though, so I can't really comment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>She sniffs. "I don't much care for the term 'Waidwen's Legacy.' It reeks of superstition, but it's too prevalent to change at this point. Personally, I'd like to see people take a more methodical approach to these matters rather than throwing up their hands and blaming the gods."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"I have some questions about the Theorems of Pandgram."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Such as?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Tell me about the Theorems of Pandgram."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Why doesn't Grimda lend you the books you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"I'd like to know about the Hall of Revealed Mysteries."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"What are the Elder Archives?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"That's all I wanted to ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Pandgram was an animancer working in the Dyrwood. He had some interesting theories about essence and some rather... innovative techniques for studying it. He was able to reattach souls to bodies after death, although he wasn't able to prevent his patients from degenerating.
+
+"He was controversial, to say the least, but many are starting to realize that he was merely ahead of his time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Anyway, because of this, very little of Pandgram's research is in circulation. He's thought to have died several years ago, and the Hall of Revealed Mysteries owns the only copy of his work." She sighs wistfully. "How I would love to have met him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"The Hall of Revealed Mysteries is rather... protective of its books, especially the rarer ones. And Grimda in particular. She hates animancy. Thinks it's dangerous. I don't see how you can run the greatest library in the Dyrwood and be so adverse to the spread of knowledge and research, but I've never understood these religious types."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"You'll find it in the Copperlane district. It's dedicated to the god of secrets and revelations. Most importantly, it houses the largest and most expansive library in the Dyrwood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"The Elder Archives hold the rarest, most arcane, and most powerful texts in the Dyrwood. Think of it as the inner sanctum of the Hall of Revealed Mysteries. Needless to say, you need Grimda's permission to enter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Anything else?" She looks eager to return to her studies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Are you the animancer who's been buying relics from Imatl?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"I don't know who you're talking about, but I work with theories, not rocks and potsherds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"What do you mean by 'degenerating'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Nedyn twists her hands together. "Well, there seems to be a tiny problem with reattaching souls after death. The bodies will reanimate and may even retain memories and personality, but they develop a... hunger. For flesh. Living, soul-infused flesh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Without it, they start to devolve, decaying mentally and physically. If the process goes too far, which it eventually does, they become mindless corpses, attacking anything that moves. We... haven't figured out a way to avoid that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"That sounds like necromancy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"That sounds dangerous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Nonsense! Necromancy is magic. This is science." She emphasizes the last word.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Of course it is, but every great discovery carries years of trial and error! This is why we need the research of people like Pandgram - to help us turn these failures into something useful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>She sighs. "Anyway. I should probably get back to my work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"I'm glad this will be useful to you. I don't suppose you could spare a little more..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Is that all?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"I was glad to help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Ah... of course." She pulls a ring from her finger. "It may not look like much, but I've always been able to use this ring to generate a little extra money when I was between stipends. It's critical for someone doing research without the benefit of a wealthy patron."
+
+She smiles weakly and hands it to you. "Please, take it. You've certainly given me a resource I couldn't have found on my own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"I thought you had more sense than to say something like that." Nedyn crosses her arms over her book. "At least we're trying to do something. The only real progress against the Legacy has come from our research. Unfortunately, our critics have seen to it that the public remembers our failures over our successes."
+
+She sighs. "Which can make it rather difficult to get the information we need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>She sighs. "Look at me spilling my troubles. It's kind of you to listen, but I should really get back to my work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"You enjoyed that, didn't you? The killing..." Nedyn backs away.
+
+She takes the old book and holds it protectively against her chest. She looks down at the cracked binding and yellowed pages. "I... never thought anyone would get hurt..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"I'm sorry to hear that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Maybe she could be persuaded."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"You're welcome to try, but you wouldn't be the first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"That's a shame."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Well, it's her decision."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"That's what all of her scriveners say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Bank Node 122</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Good to hear someone speaking sense on the matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Don't think Dyrwoodans would see too much fun in that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Verus. At least then we'd understand how to fight it if happens again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Bank Node 126</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"If we only meddled with things we understood, there'd be no reason to meddle, would there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"But that's the purpose of research. She did say she hasn't put it into practice yet." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Well-put. At least there's some sense left in this country."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Bank Node 130</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Pandgram's work is considered to be one of the more, ah, daring animancy texts. Not something generally circulated among novices. Nor easy to get a hold of - I wonder if we might have a peek at it..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"I have heard of this book - back in Selona, I think - but never seen it. Many animancers speak of it with awe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Well, that settles it - we simply must go see it. Right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Bank Node 135</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"And you wonder why Grimda won't share this research with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"That is more than an inconvenient side effect. You've reproduced an unnatural curse with little to show for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"That is, uh... " Pallegina scratches her feathers. "Unfortunate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Aloth scowls at the animancer. "Some knowledge is best kept under lock and key."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>A woman you remember from Brackenbury strides over to you. The hem of her robe is torn and covered in burs. 
+
+"You could have just refused. You could have forgotten all about the Theorems of Pandgram. But you had to go and tell Grimda!" Her voice trembles, and she clutches at her hair with a shaking hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"And this from a man of learning. My work is over without access to that library, understand?"</DefaultText>
+      <FemaleText>"And this from a woman of learning. My work is over without access to that library, understand?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"You coin-grubbers will do anything for a little profit. I hope whatever Grimda offered you was worth it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"I know you're prone to strong opinions, but I had no idea you'd launched a personal crusade against me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"And a paladin, no less. I thought your order was known for honor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"And a paladin. I forgot that your order isn't exactly known for honesty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"And what was this to you? This was my career! You hardly seem to care about anything, anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>She scowls. "I thought you were trustworthy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>She scowls. "I was a fool to trust you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Without access to that library, my career here is over."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"I'm truly sorry, Nedyn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>[Shrug.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Get over it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"I had my reasons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>She barks with harsh laughter. "No matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>She barks with harsh laughter. "Me, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

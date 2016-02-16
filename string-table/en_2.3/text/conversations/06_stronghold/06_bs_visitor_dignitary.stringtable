@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\06_stronghold\06_bs_visitor_dignitary</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"The Dyrwood's proven to be a... trying place." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"It's a charming keep. Very rustic." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Thank you again, My Lord, for your hospitality." </DefaultText>
+      <FemaleText>"Thank you again, My Lady, for your hospitality." </FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

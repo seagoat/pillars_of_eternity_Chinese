@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\companions\companion_cv_durance_silence_questions</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Keep troubling me, and I may extend the tithe bowl for each question. Enough questions for now &#8211; let the road keep us until the next campfire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Are you a servant of Wael? Let mysteries and questions remain with him &#8211; at least until the next time we need rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Do you have Wael's eyes painted on your skin? There's more mysteries than questions, and even a marching force of answers won't placate you. Even soldiers need to let their thoughts settle &#8211; just as their priests do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"We do not share the road, Watcher, save your questions for another day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"It's as if you swallowed a gadfly nest. Keep silent and keep them to yourself, lest you tire yourself before the next campfire."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

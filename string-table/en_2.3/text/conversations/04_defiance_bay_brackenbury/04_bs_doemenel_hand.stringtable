@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\04_defiance_bay_brackenbury\04_bs_doemenel_hand</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"The downstairs bedroom is available if you need it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The servant nods quickly and returns to work.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"The young master's most pleased with you, it seems."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Don't you know where you've landed yourself? This is no place for visitors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Whatever it is, it's nothing to do with me. You'll want to speak to young master Abrecan."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

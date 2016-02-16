@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\03_defiance_bay_ondra_gift\03_bs_brothel_chef</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"The patrons and the courtesans work up a fierce appetite, if you know what I mean. Keeps me busy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Best fried eel in the whole city, right here in this kitchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"A pint of bitter and my famous boiled crab would settle those troublemakers outside."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"If you're just going to stand there, could you pass the salt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

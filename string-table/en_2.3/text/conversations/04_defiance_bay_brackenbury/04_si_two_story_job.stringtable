@@ -1,0 +1,82 @@
+<StringTableFile>
+  <Name>conversations\04_defiance_bay_brackenbury\04_si_two_story_job</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The mortared stone wall is sheltered by the eaves. A knotty green vine climbs all the way up to an open window. Two ornate shutters seem to beckon you in.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Toss a grappling hook to the window.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Climb the vines.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>You cast your grappling hook, and it catches on the window sill. The rope remains taut as you put your weight on it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Climb the rope.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Bracing your legs against the wall, you climb the rope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You perch atop the windowsill and steady yourself against the frame while the breeze cools your back. You detect movement inside the house.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Blinking as your eyes adjust to the dim interior, you slip inside the manor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You begin to ascend. As you rise, you feel the vines begin to give way beneath your weight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You quickly pull yourself the rest of the way up, grabbing the bottom of the windowsill.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Test the vines.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>You give the vines a shake. They're thick and sturdy in your hands, but near the top they look flimsier. You might be able to make it to the top if you're quick.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>You attempt to scramble up the wall, pushing your limbs as fast as they'll move. The vines crumple to the ground while you struggle for purchase.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>You return to the bottom exhausted.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

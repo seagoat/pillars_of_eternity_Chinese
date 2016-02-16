@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\te_ambients_all</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>230</EntryCount>
@@ -175,7 +176,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Alarh&#238; dealt with the Vailian, aided by a foreigner."</DefaultText>
+      <DefaultText>"Alarhî dealt with the Vailian, aided by a foreigner."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -185,7 +186,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Poor child, Alarh&#238; cared for her well."</DefaultText>
+      <DefaultText>"Poor child, Alarhî cared for her well."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -566,7 +567,7 @@
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"How many more must die for the Ethik N&#244;l, and our sacred blood paint?"</DefaultText>
+      <DefaultText>"How many more must die for the Ethik Nôl, and our sacred blood paint?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -1,0 +1,42 @@
+<StringTableFile>
+  <Name>quests\06_stronghold\06_tsk_boss_wizard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Bounty: High Arcanist Ysly</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Kill Ysly and take her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bring Ysly's head to Warden Fyrgen in Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>There's a bounty out on the wizard Ysly. She and her allies have taken refuge in the Heritage Hill tower. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>High Arcanist Ysly has apparently angered the wrong people, as there is a hefty bounty on her head. A bounty I can claim, if I kill her and bring her head back as proof of the deed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ysly is dead. I can return her head to Warden Fyrgen to receive my reward. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I claimed the bounty on Ysly.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

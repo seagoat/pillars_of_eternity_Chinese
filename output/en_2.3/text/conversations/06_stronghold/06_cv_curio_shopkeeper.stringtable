@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\06_stronghold\06_cv_curio_shopkeeper</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「很 高 興 見 到 你 ，主 人 。我 有 各 種 各 樣 的 東 西 ，都 是 從 迪 伍 德 各 個 角 落 收 集 的 。蜘 蛛 毒 液 ，蝠 魔 的 耳 朵 …任 何 你 想 得 到 的 東 西 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「我 想 看 看 你 有 什 麼 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[離 開 ]「再 會 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「你 好 ，主 人 。你 有 什 麼 需 要 嗎 ？甲 蟲 殼 ？蛇 蜥 人 的 舌 頭 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「當 然 ！」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,7 +1,7 @@
 <StringTableFile>
   <Name>conversations\05_defiance_bay_heritage_hill\05_cv_crucible_watch_male_01</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>35</EntryCount>
+  <EntryCount>36</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -188,6 +188,11 @@
     <Entry>
       <ID>49</ID>
       <DefaultText>別 緊 張 ！他 看 著 另 一 個 守 衛 。聽 著 ，你 自 己 承 擔 風 險 。別 說 我 們 沒 有 警 告 過 你 ...守 衛 轉 過 身 打 開 了 門 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I'll keep an eye on things here."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

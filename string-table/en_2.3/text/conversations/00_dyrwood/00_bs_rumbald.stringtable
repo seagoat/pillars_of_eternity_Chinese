@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\00_dyrwood\00_bs_rumbald</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I'll mount that beast's head on a pike, I will!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Damn Galawain for monsters like that, and damn the rest of the gods, too!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"...ruined my pen! Didn't even have the decency to open the gate..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

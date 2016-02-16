@@ -1,0 +1,42 @@
+<StringTableFile>
+  <Name>quests\06_stronghold\06_tsk_boss_forest_lurker</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>悬赏：居住者</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>杀了居住者，带回他的头。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>把居住者的头带给凯德 努阿的佛莱根守卫。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>一个巨大的被称作居住者的潜伏者被往来黑森林的商队视作威胁。有一个悬赏要他的头。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>一个巨大的潜伏者在黑森林被发现，商队称它为居住者。它很快就会变成一个严重的威胁，如果我能杀了那个生物并且把它的头，或者被视作头的东西带回来，商队会为它付钱。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>居住者死了。把头带给佛莱根守卫领取报酬。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我获得了关于居住者的赏金。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

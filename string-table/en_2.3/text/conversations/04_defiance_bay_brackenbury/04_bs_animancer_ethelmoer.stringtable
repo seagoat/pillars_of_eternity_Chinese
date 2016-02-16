@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\04_defiance_bay_brackenbury\04_bs_animancer_ethelmoer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Warden, an animancer from the Republics, Bancello, has requested a visit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Extend a formal invitation. See to it that the necessary preparations are made." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Of course." </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

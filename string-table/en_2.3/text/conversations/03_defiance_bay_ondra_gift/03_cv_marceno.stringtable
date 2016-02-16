@@ -1,0 +1,444 @@
+<StringTableFile>
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_marceno</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>87</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This young, lanky sailor is wringing his cap anxiously, sweat beading on his furrowed brow. His eyes widen as you approach, and he takes a few steps forward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I-if you've a moment? You're... not from around here, right? You don't look like you're from the docks." He looks around nervously. "I could use your help." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What's the problem?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"What makes you think I'm not from around here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Look, I don't have any coin for you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The sailor looks up at you. "Uh..." He opens his mouth to speak, then thinks better of it. "It's just a hunch." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"We, uh... don't see many like you around here, is all." He shuffles awkwardly. "Even on the docks." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Gut feeling." The sailor grins weakly. "I really could use your help, though." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Marceno looks at you hopefully. "You're back. I don't suppose I could convince you to help me out after all? I'm in a bit of a bind, here." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"What? No, I'm not - it's not that." Marceno rises up on his toes to glance past you anxiously, then leans forward. "It's a little more complicated." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Oh, thank you. Thank you." He casts his gaze skywards, briefly. "It's the captain. Or rather, not the captain himself, but his chest. Er, his sea chest." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"He keeps all his valuables in there, tucked away safe. I was unloading it with the rest of the things, what with us staying in port a couple days... and..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>He coughs. "I may have gotten a little distracted." Marceno nods towards the buildings nearby. "I wasn't gone long. Just an hour at the Salty Mast." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"When I got back, the chest was gone." He sets a pleading look on you. "It really hasn't been that long - whoever took it can't be too far. But the shift's changed, and I'm on watch. I can't sneak off to look for it, and the Captain will kill me if he hears of it. I'll get strung up on the yardarm." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I... lost something. A sea chest. A very important sea chest." He looks at his boots. "The captain's sea chest." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"How did you manage that?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"So?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"You're right, that is more complicated." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Marceno blinks at you. "So? So he's going to murder me. And then he'll hunt down my soul and kill me again." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"This is Captain Fortanero. Hangsman Fortanero, on account of he's always hanging people from the masts." He shudders. "We cut them down before we pull into port and throw them overboard." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Please, if you could get it back for me, I swear by the flame, I'll make it worth your while. You can have my pay - I won't be spending it if Captain Fortanero finds out anyway." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Look, I wasn't gone that long, and chances are whoever snatched it can't be too far. But the shift's changed, and I'm on watch... I can't go looking for it. And the Captain will have me dangling from a rope if he figures it out." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"As far as I understand it, you brought this on yourself. You deal with it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"How did you lose it?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"He sounds like a nice man." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I'll find the captain's chest for you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Very well. But you'd better have that pay ready." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I'll think about it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I'd rather not get involved." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"You said you had a problem?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>He breathes out a sigh of relief. "It's the sea chest I was guarding for Captain Fortanero. It's gone missing." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Marceno gives a ragged laugh. "Look, the thieves can't have gone far. I'd wager they're part of the rough bunch here on the docks. But I can't sneak off and look for it while the first mate's watching." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Of course! Thank you! I'll be here, waiting." He grimaces. "That is, if the Captain doesn't decide to leave off his drinking early." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"You will? I mean, thank you! I'll, uh, keep an eye out here, I guess. Please hurry. I don't know how long I have before the Captain comes to fetch his things." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I see." Marceno looks up towards the ship, gulping. "Just... just don't think too long, yes?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"But..." Marceno takes a step back, expression mournful. "Fine. Go on, then. Sorry I asked." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Marceno fidgets nervously. He grins hopefully at you. "Any luck finding the captain's chest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Here you are. Contents intact." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Not yet. I'll keep looking." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Marceno goes pale. "W-what?" He shakes his head. "Then it's hopeless. I'd better... I'd better get out of here." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Look, thanks for helping me out, anyway. Here's some of my pay. I'm going to need the rest to book passage somewhere far away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Watch out for Captain Fortanero, friend! He'll be surly as ever, now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Y-you found it! All of it!" He checks the lock on the chest, then lets out a relieved breath. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"You've saved my life, friend, truly. I owe you one. Here - the week's wages, like I promised." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"No need for that. You keep it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Try to be a little less careless from now on." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Glad to help." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I will! I'll never set foot in the Salty Mast again!" He pauses. "Well, I mean. Not while I'm on watch, at least." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Really? I... Then thank you, again, for all you've done. At least take this. I picked it up while we were in port in Aedyr as a good luck charm, but I want you to have it. I won't forget this." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>He nods at you. "Hey, there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Lie] "Here you are." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Oh, thank you! Thank you! I don't know what to say! I-" He blinks, glancing down at the sea chest. "This is... lighter than I expected." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"But never mind that - you've saved my life, friend, truly! I owe you one. Here: the week's wages, just like I promised." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Beware Fortanero!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"The captain won't be happy to hear about this..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"You're a sailor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Yes, sir. I signed on about half a year back. The pay's decent, and the sight of the sun coming up over the sea... I wouldn't give that up for anything." He sighs. "I just wish I'd asked around about the Captain, first." </DefaultText>
+      <FemaleText>"Yes, ma'am. I signed on about half a year back. The pay's decent, and the sight of the sun coming up over the sea... I wouldn't give that up for anything." He sighs. "I just wish I'd asked around about the Captain, first." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Any ideas where the thieves might have taken the chest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Well, the chest itself is pretty heavy. Nobody I've asked has seen it getting carried around, either. I figure they must have snuck it off somewhere nearby, just out of sight. They can't have gone far..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"There's a pretty good lock on it, too, so I'm hoping they haven't got it open. U-unless they take an axe to it, I suppose. Oh, gods..." He takes a breath. "If they've got it open, I really am done for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Y-you found it!" He looks the chest over, and checks the lock. A look of panic crosses his face. "W-wait, you're sure it's all here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Not quite. I took the hat and rapier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Lie] "The thieves were trying to open the chest. They didn't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Oh, gods - Please, I need those back. Fortanero, he - you don't know how angry he'll be if his hat goes missing." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"I don't blame him. It's a very nice hat. And now it's mine." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Guess you'd better start running, then." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Marceno goes pale. "W-what?" He shakes his head. "You... I'd better... I'd better get out of here." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"I should have never asked for your help! You had better hope that Fortanero never finds you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"S-say, you're the one they're talking about, right? The one helping people? I... I could use some help, as it happens. Please." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Oh, thank you - they weren't lying, saying you're a kindhearted sort." He runs a hand through his hair nervously. "It's the captain. Or rather, not the captain himself, but his chest. Er, his sea chest." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Heh, no, that's not - it's not coin I'm after. Please, I'm in trouble. M-maybe that doesn't move you, so much, especially since you don't know me, but... But I don't know who else to turn to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Y-you did it! I mean, I knew you would, but... Oh, thank you! It's all here!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"You know, I did just save your life..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"O-oh, of course. I... let me think... Oh, I know - You can have this." He reaches for an amulet around his neck, and hands it to you. "It's all I have... Hope it brings you some luck." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Here you are. Contents intact."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Y-you found it! All of it!" He checks the lock on the chest and a look of panic crosses his face. "O-oh no... You're sure it's all in here? I-it must be. You wouldn't lie to me. I just have to... put the lock just so, and no one's the wiser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Y-you found it! All of it!" He checks the lock on the chest and a look of panic crosses his face. "W-wait, you're sure it's all here?" 
+
+He sets the chest down to check the contents quickly. After a moment, he sighs in relief. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"I found the chest - and found this hat and rapier inside." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Oh. Well, as long as you stopped them in time... I'm sure I can find a way to explain the lock." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Any chance you've seen a little boy named Derrin?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Huh? Oh, sure... He wanted to play on the ship, but I couldn't let him. Fortanero's very strict about that sort of thing. I had to shoo him off. Felt a bit bad about it..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Saw him heading towards The Salty Mast. Not really somewhere he ought to be playing. Hope you find him." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"May Magran grant you victory in all things! Thank you again!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Fine, fine. Here you are, then." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Yes, sir. I signed on about half a year back. The pay's decent, and the sight of the sun coming up over the sea... I wouldn't give that up for anything." He sighs. "I just wish I'd asked around about the Captain, first." </DefaultText>
+      <FemaleText>"Yes, ma'am. I signed on about half a year back. The pay's decent, and the sight of the sun coming up over the sea... I wouldn't give that up for anything." He sighs. "I just wish I'd asked around about the Captain, first." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Anything else I can do for you?" </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

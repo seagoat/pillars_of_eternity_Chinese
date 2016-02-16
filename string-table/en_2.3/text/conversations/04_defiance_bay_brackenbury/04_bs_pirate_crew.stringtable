@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\04_defiance_bay_brackenbury\04_bs_pirate_crew</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"The captain takes her shore leave with the rest of us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I love seeing the looks on those nobles' faces when we show up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Nothing like good port while at port."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

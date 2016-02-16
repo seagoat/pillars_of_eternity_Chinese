@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\06_stronghold\06_bs_merc_prisoner</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「也 許 我 們 可 以 做 個 交 易 ？我 付 你 錢 ，你 放 我 走 ，行 不 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「也 許 你 在 這 裡 需 要 幫 手 ？放 我 出 來 幫 你 吧 。我 在 外 面 幫 忙 ，總 比 在 這 裡 有 用 ！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「你 這 墮 落 的 混 蛋 ！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「離 我 遠 點 …你 已 經 嘗 過 甜 頭 了 …」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「眾 神 ，你 對 他 們 做 了 什 麼 ？你 瘋 了 ！」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

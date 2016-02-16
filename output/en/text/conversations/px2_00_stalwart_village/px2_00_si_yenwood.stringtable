@@ -1,0 +1,481 @@
+<StringTableFile>
+  <Name>conversations\px2_00_stalwart_village\px2_00_si_yenwood</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>90</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As you crest a small hill overlooking Yenwood Field, Lord Gathbin's army is a flurry of activity, scurrying to and fro. Even from this distance, you can hear the drums of war beating their steady cadence designed to intimidate their foes while organizing the rank and file into battle formations.
+
+Marshal Forywn approaches. "You've arrived just in time. Lord Gathbin's forces are beginning to move - an attack is imminent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"[Player Name]!" Lord Gathbin strides through the carnage, his elite guard accompanying him. "The day can still be mine if I take your head. Come now, it's time I put you down like the dog you are!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Inspect your forces.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Local militia constitutes the majority of the rank and file. As you walk the unorganized ranks, young faces look to you with hope and determination. The fear in the air is palpable as many fidget with unfamiliar weaponry and armor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Sound the horn, Marshal Forwyn. It's time to finish this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Local militia constitutes the majority of the army, but veteran soldiers have organized the ranks and walk amongst the young, unseasoned warriors offering advice or the occasional joke. They cheer, striking sword to shield as you pass, in thunderous approval of their lord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Any idea what Gathbin is planning?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Marshal Forwyn strokes his chin. "His ultimate objective is to face you in battle and to be seen defeating you. I doubt he is foolish enough to challenge you to single combat, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Here I am. Let's finish this!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>[Point at Gathbin, then make a throat-slicing gesture.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>[Salute Gathbin with your weapon.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Dozens of bowstrings twang in unison behind you as your archers unleash a hail of arrows at Gathbin's army. The missiles hiss through the air with deadly accuracy, felling scores of enemies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Your infantry charges headlong into the enemy infantry in the center of the field. The cacophonous sound of metal on metal is nearly deafening as the two forces collide. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>The fighting is fierce and the screams of the dying numerous. Your troops fight bravely, but they're their inexperience is leading to heavy losses. Within a few moments it is clear that Gathbin's troops have the advantage as your forces are slowly being pushed back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>The fighting is fierce and the screams of the dying numerous. Led by veteran warriors rallied to your cause, the troops fight valiantly and appear to be holding their ground. The battle thus far appears to be a stalemate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Then, a group of Aedyran Battlemages emerges from behind the enemy lines. They begin weaving their hands in unison with practiced precision. Suddenly, waves of arcane fire erupt among your troops. The acrid smell of smoke and burning flesh is nearly overwhelming.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>From the left flank a unit of Rauatai berserkers, clad in plate armor and wielding greatswords, begins to collapse the left side of the line. The ground is thick with the dead as they press their advantage. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Meanwhile, Bleak Walker paladins, dressed in dark armor and carrying sword and shield, stride back and forth behind Gathbin's lines, rallying his warriors and exhorting them to fight harder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Sound the charge for our ogre allies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>The crag ogres fearlessly charge the berserker enemies. The fighting is brutal as both Rauatai and ogre warriors refuse to give ground. But the size and strength of the ogre shock troops proves too much for the smaller Rauatai. When the smoke clears, not a single berserker is left standing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Send in the Crucible Knights."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>The Knights of the Crucible form a shieldwall to reinforce the crumbling left flank. Rauatai berserkers throw themselves against the wall with reckless abandon. Each time a knight falls, another steps into the breach, shield held high and spear at the ready. The berserkers losses are many, and within a few minutes, it is clear the wall will hold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Have the Dozen's arquebusiers open fire!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>The arquebusiers quickly form a line and unleash a salvo of gunfire on the charging berserkers. Bullets tear through their plate armor and the berserkers fall by the score. By the time the berserkers realize the danger and attempt to charge the gunmen, another volley rips most of them to pieces. Those left standing quickly retreat. While the line has held, you spot dozens of your own troops killed by the gunfire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Send the signal to the Doemenel saboteurs!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>The Doemenel saboteurs reveal themselves from within Gathbin's ranks. They quickly dispatch the leader of the berserkers and unleash arcane traps on the unsuspecting Rauatai. Leaderless and trapped between two enemies, the berserkers are quickly routed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Take out the berserkers!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"What unit should I send?" Forwyn bellows over the din of battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Order the Readceran Pathfinders to give 'em a few volleys!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>The Readceran archers send volleys of arrows into the charging berserkers. The precision of the archers shocks the heavily armored warriors as the Readcerans find weak points between the thick plates or armor. The berserker losses allow your infantry to rally and secure the line, at least temporarily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>[Do nothing right now.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"We need to deal with those battlemages!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"What's your plan, Lord [Player Name]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"The Bleak Walkers must die!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Marshal Forwyn avoids an incoming arrow before answering. "And how do you plan on doing that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Everyone on me. Charge!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Send in the Crucible Knights."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Have the Dozen's arquebusiers open fire!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Send the signal to the Doemenel saboteurs!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Sound the charge for our ogre allies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Order the Readceran Pathfinders to give 'em a few volleys!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>The knights lock shields and drive forward in a wedge formation through the enemy lines. The formation allows them to penetrate the line quickly but leads to heavy losses. As they reach the battlemages the formation falls apart. The battlemages cease their magical attack against your lines, as the remaining knights put them to the sword, but you fear the maneuver has sealed a grisly fate for the last of the knights.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>The arquebusiers quickly form a line and unleash a salvo of gunfire into the battlemage ranks. Bullets tear through their magical defenses and the wizards fall by the score. Fearing the gunfire, the unit breaks and retreats from the battlefield.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>The Doemenel saboteurs reveal themselves from within Gathbin's ranks. They quickly dispatch the leader of the battlemages and one by one, the mages fall to daggers in their backs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>The crag ogres charge the Gathbin lines in a blood frenzy. Using their size, many of the ogres leap over the enemy line, ignoring grievous wounds. While many fall, nearly a dozen reach the battlemages. 
+
+A high-pitched scream permeates the din of battle as you see an unarmed ogre lift one of the mages overhead and rip him in two. Shortly after, the magical barrage against your army ceases.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Accurate arrow fire from the Readcerans disrupts and fells many of the battlemages, but arcane defenses thwart some of the arrows.
+
+The survivors retreat from the battle and move out of range, but not before hurling a volley of fireballs into your archers' ranks. The screams of the dying echo in your ears as the Readcerans are set afire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Send in the Crucible Knights."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Have the Dozen's arquebusiers open fire!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Send the signal to the Doemenel saboteurs!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Sound the charge for our ogre allies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>At the sound of Marshal Forwyn's horn, the leader of Crucible Knights, a justiciar with a long, greying beard, issues a challenge to the Bleak Walker Captain.The steel clad formations clash and battle furiously. Both heavily-armored units fair well against the other, but the Crucible Knights appear to have the upper hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>The arquebusiers quickly form a line and unleash a salvo of gunfire into the Bleak Walker ranks. Bullets tear through their plate armor and the knights fall by the score. The remaining knights fall back and create a protective circle around Lord Gathbin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Nearby Gathbin infantry suddenly turn on the Bleak Walkers, plunging their blades into unsuspecting backs. The knights rally after the initial surprise, but the without their leadership, the center line of Gathbin's army begins to falter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>The crag ogres charge the Gathbin lines in a blood frenzy. Using their size, the ogres leap over the enemy line, ignoring grievous wounds. While many fall, nearly a dozen reach the Bleak Walker ranks.
+
+Now preoccupied with the ogres, the Bleak Walkers can no longer support the center of the line. Within moments your own forces surge forward as the Gathbin line begins to falter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Order the Readceran Pathfinders to give 'em a few volleys!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>The Readceran archers send volleys of arrows into the Bleak Walker ranks. The precision of the archers shocks the heavily armored warriors as the Readcerans find weak points between the thick plates or armor.
+
+With Gathbin's elite guard behind them and the line in front of them, the Bleak Walkers are forced to charge. 
+
+This doesn't stop the Pathfinders from launching volley after volley into both the knights, and their allied troops on the front line. Each volley lands with devastating effect as dozens of enemies drop to the bloody earth clutching lethal arrow wounds. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>As the battle rages your forces fight valiantly, pressing ever forward. Casualties on both sides are high and victory remains elusive for either side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>As the battle rages your forces are clearly winning the day. Gathbin's army begins to collapse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>As the remainder of your forces charge, a horn sounds in the distance. A new contingent of warriors crests a nearby hill. As Gathbin's reinforcements charge headlong into the fray, his other troops cheer triumphantly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>The new arrivals quickly join up with Gathbin's army.
+
+You make out the form of Captain Emery, leading the charge in her dark armor. She kills one of your troops with a well-aimed pistol shot, before running another through with a gleaming rapier.
+
+She kills foe after foe, and at one point, with the dead piled around her she seems to face you from across the battlefield and shrug.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Shouts of joy soon turn to roars of dismay as the new arrivals begin attacking Gathbin's infantry.
+
+You make out the figure of Captain Emery, leading the charge in her dark armor. She kills one of Gathbin's men with a well-aimed pistol shot before running another through with a gleaming rapier.
+
+She fells one foe after another, pausing briefly at one point to salute you with her sword from across the battlefield. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>As the battle rages, Marshal Forwyn looks to you for orders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>[Study the battlefield.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Your troops fight bravely and your lines are holding for the moment. Gathbin's army is slowly pushing you back and casualties are mounting. Defeat is likely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>The heavy losses inflicted on Gathbin's troops have clearly lifted morale. Your troops push forward with renewed vigor while Gathbin's army is slowly losing ground. Victory is within your grasp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Lord Gathbin's army is in disarray. The battlefield is littered with the corpses of your enemies and those that remain appear to be on the verge of collapse. Victory appears inevitable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>The betrayal by their reinforcements breaks the will of Gathbin's regulars. They drop sword and shield and flee the battle field in a full rout.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Surrounded by the screams of the dying and unable to hold any longer, your forces falter. Most that are still able drop their weapons and flee the battle field in full rout.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Gathbin's army is clearly superior to your own. Your lines are barely holding and the troops appear on the verge of panic. Without a change in tactics or fortune, you fear this battle is lost.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Among the troops, a small group of warriors shine brighter than the others. Crucible Knights, standing tall in gleaming plate armor and armed with spear and shield. They stand at attention, spear centered, as you pass.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Some marksmen from the Dozens make final preparations for the upcoming battle. They collectively sing a bawdy tavern song as they meticulously clean arquebuses nearly as tall as a man.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>A lone man approaches. He leans in close and clasps your hand with a firm grip. 
+
+"Fear not, milord. The others are already in place- just point at who you want dead. House Doemenel is with you." He inclines his head at Gathbin's army, a crooked smile on his face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>You pass a group of crag ogres working themselves into a frenzy. They carve jagged wounds across each other's chest and back, their war cries echoing throughout the camp. Your troops give them a wide berth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>A squad of Readceran Pathfinders make ready for the upcoming battle. War bows are strung and quivers are filled as you pass. One of the archers spots you and whistles. Silently, each of them places a closed fist over heart in salute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Lord Gathbin lies dead before you, his army scattered. Bloodied and exhausted, your remaining troops look to you, swords raised high in victory, chanting your name.
+
+"[Player Name]! [Player Name]! [Player Name]!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Marshal Forwyn begins barking orders and your troops quickly form up. Gathbin's army follows suit as Aedyran war drums echo across the field.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Within a few moments, the marshal raises a brass horn in the visage of a mighty boar to his lips. He looks at you expectantly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"For Caed Nua!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Send these Aedyran dogs to Berath!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Tonight, the ravens will feast on our enemies while we drink, fuck and revel in glorious victory!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>[Nod.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Your troops bellow across the field, pounding weapon to shield, as the marshal's horn sounds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>[Raise your weapon above your head and scream at the top of your lungs.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>In a bold move, Gathbin points his sword towards your position, giving an unheard order. His infantry, shields raised, charge the field.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>[Point your weapon at Gathbin.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"[Player Name]!" Lord Gathbin strides through the carnage, his elite guard accompanying him. "I'll not have you take this victory from me. It's time I put you down like the dog you are!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"[Player Name]!" Lord Gathbin strides through the carnage, his elite guard accompanying him. "We both knew it must come to this. Come now, it's time I put you down like the dog you are!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"[Player Name]!" Lord Gathbin strides through the carnage, his elite guard accompanying him. "You thought to defeat me with this rabble? Come now, it's time I put you down like the dog you are!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Marshal Forwyn shakes his head. "We have no allies available to throw against them! Our only hope is to break through Gathbin's line and kill him!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>The new arrivals quickly join Gathbin's forces on the field.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,157 @@
+<StringTableFile>
+  <Name>quests\07_gilded_vale\07_tsk_breaking_bread</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Against the Grain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Resolve the feud between Trumbel and Sweynur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Resolve the feud between Trumbel and Sweynur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Report to Sweynur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Report to Trumbel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Investigate the feud.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Report to Sweynur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Report to Trumbel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Some of the farmers in Gilded Vale claim that Trumbel, the miller, is withholding grain. The hungry farmers are on edge, and it seems likely that the situation will escalate. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>I spoke to Sweynur inside the Black Hound inn. He claims that the miller, Trumbel, is keeping all the village's food stores for himself. I have offered to speak to Trumbel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I have spoken to Trumbel, the miller of Gilded Vale. He fears that his family will come under attack from a group of villagers who insist that he is charging them unjust prices for grain. He has asked me to speak with Sweynur, the leader of this group, and bring an end to the conflict. Sweynur is likely to be in the inn. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I have convinced the miller to relinquish his control over the grain supply. Sweynur should be pleased to hear it, though one wonders how long the grain will last. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I have convinced Sweynur to stop threatening Trumbel and his family. Trumbel will be relieved to hear of it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>It seems that tensions between the miller and some local farmers are reaching a boiling point. It may be worth investigating. The miller has taken refuge inside his mill, and the farmers have headed to the local inn for the time being.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I've slain the miller, Trumbel. Perhaps this news will be of interest to Sweynur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I've slain Sweynur and his cohorts. This news may bring Trumbel some relief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I killed Trumbel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I killed Sweynur and his allies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I've slain the miller. Perhaps the news will be of interest to Sweynur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I've slain Sweynur and his allies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>I have killed Trumbel, the miller. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>I have killed Sweynur, the farmer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I've slain Trumbel and Sweynur both. Whatever becomes of the village and its grain, neither of them will have any say in it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I convinced Trumbel that it was in his best interest to deal fairly with Sweynur and his lackeys. Sweynur was pleased with the outcome, and offered me a round at the inn, as well as a small amount of coin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I convinced Sweynur to leave the miller and his family be. Sweynur and his buddies seemed rather despondent at this turn of events, but the miller was relieved to know his family will be safe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>I slew Sweynur, ensuring that he couldn't trouble Trumbel any longer. The miller should be safe, and the village has lost some of its troublemakers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>I slew Trumbel, the miller of Gilded Vale. Sweynur and the others were a little shocked by my proactive approach, and decided to go scavenge what they could from the grain stores. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>I killed both Trumbel and Sweynur. Whatever their argument was about, it's none of my concern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30009</ID>
+      <DefaultText>Negotiations have come to a decided end, now that I've slain one of the parties involved.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30010</ID>
+      <DefaultText>I had a change of heart, and killed Trumbel. The village will have to do without him.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

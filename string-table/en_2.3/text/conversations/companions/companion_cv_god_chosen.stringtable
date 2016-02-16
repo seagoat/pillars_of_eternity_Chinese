@@ -1,0 +1,12 @@
+<StringTableFile>
+  <Name>conversations\companions\companion_cv_god_chosen</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Fires once the player has promised to champion the cause of a particular god. Certain companions may wish to react to the choice.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

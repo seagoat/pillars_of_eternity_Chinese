@@ -1,0 +1,72 @@
+<StringTableFile>
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_sea_chest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This sea chest bears a large, embossed sigil of a ship, and the word 'FORTANERO' beneath it in gilded letters. It's held shut by a heavy brass padlock. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Take the sea chest.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Try to unlock the chest.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Leave it alone.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Despite your best efforts, the lock holds fast. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>After a little bit of work, the lock turns with a satisfying clunk, and you are able to pull away the padlock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Open the chest.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The sea chest contains a sea Captain's hat and a finely wrought rapier - and nothing else. It seems Captain Fortanero greatly values his hat. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Leave them inside the chest.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Take the hat and rapier]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The lock proves more difficult to pick than expected. After a point it seems to stick, but you are able to force the padlock open. It doesn't seem like you could close it again, however.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Script Node 13</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Script Node 14</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

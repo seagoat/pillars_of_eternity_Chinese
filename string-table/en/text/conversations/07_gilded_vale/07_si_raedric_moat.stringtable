@@ -1,7 +1,8 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\07_gilded_vale\07_si_raedric_moat</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>53</EntryCount>
+  <EntryCount>57</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -266,6 +267,26 @@
     <Entry>
       <ID>60</ID>
       <DefaultText>The piled logs creak and shift dangerously beneath you, but hold. Ahead, crooked iron bars frame the dark passage leading into the sewer. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Put on Iverra's diving helmet and swim through.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Wearing the diving helmet has the added benefit of warding off the worst of the acrid stench around you. You slip forward into the flooded tunnel. The walls soon fade from view as you plunge into a foreboding darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>It is hard going, and after a long period of swimming, [SkillCheck 0]'s strokes grow slow and erratic with fatigue. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>As you swim on, light begins to filter through the murky water ahead of you. You press on, seeking out the source, until you find yourself standing beneath a circular gap in the tunnel - and a way out. </DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

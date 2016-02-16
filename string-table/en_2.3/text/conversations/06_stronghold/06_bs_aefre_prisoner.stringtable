@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\06_stronghold\06_bs_aefre_prisoner</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Making a little collection for yourself, I see. This place smells worse than Ondra's Gift." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"The Dozens will find you... they know I am in the right." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"You're a real lord, then. Just as much a tyrant as the Aedyran bastards." </DefaultText>
+      <FemaleText>"Real lady of the keep, you are. Just as much a tyrant as the Aedyran fucks." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ugh... You think getting knocked around a little is going to break me?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Losing your temper, are we? You'll have an empty dungeon at this rate." </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

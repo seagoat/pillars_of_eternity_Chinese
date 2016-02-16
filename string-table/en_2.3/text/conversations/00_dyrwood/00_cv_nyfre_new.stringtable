@@ -1,0 +1,282 @@
+<StringTableFile>
+  <Name>conversations\00_dyrwood\00_cv_nyfre_new</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>47</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The orlan hovers by the window, peering out of it every few seconds. As you enter the room, she watches you carefully, her hand hovering over her stiletto. She cranes her head to peer behind you. 
+
+"Anyone follow you? Who sent you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I came across someone named Medreth just outside town."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What are you talking about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I was just looking around."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The hand over her weapon relaxes, but she's still watching you closely. "Some... old friends from Defiance Bay are looking for me. We're not exactly friends anymore if you catch my drift. I'm just trying to lie low and mind my own business. Know what I mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The man leaning against the wall glances out the door and nods to the orlan. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Boss." An aumaua looks at the orlan and jerks his head at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"All right, all right." She raises a hand to the aumaua before turning back to you.
+
+"My friend here thinks you could maybe help us out. Now, I'm sure you're a busy man. So I'll make it worth your time." She flips you a few coins. 
+
+"Just go take a look around town. Come back and let me know if the coast is clear or if you see any... suspicious figures."</DefaultText>
+      <FemaleText>"All right, all right." She raises a hand to the aumaua before turning back to you.
+
+"My friend here thinks you could maybe help us out. Now, I'm sure you're a busy woman. So I'll make it worth your time." She flips you a few coins. 
+
+"Just go take a look around town. Come back and let me know if the coast is clear or if you see any... suspicious figures."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"You're pretty suspicious. What's this about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I'll report back if I find anyone skulking in a corner and cackling maniacally."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I met an elf named Medreth just outside town. Sound familiar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"No promises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>She scratches the back of her neck. "I... may have gotten myself into trouble with some powerful people in Defiance Bay. Powerful criminal people. I suppose it was bound to happen eventually. I'm a thief by trade, and it's hard to do my kind of business in the city without crossing them eventually.
+
+"Now, I'm just trying to put some distance between us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Her eyes fly wide. "I knew it!" She draws her stiletto. "I'm not going down without a fight, you hear?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Relax. I just want to hear your side of the story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Attack] "I'll consider myself warned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Attack] "I'm here to avenge the murdered children of Defiance Bay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"What th-?" Nyfre's eyes fly wide, but the rest of her question is cut off by the sounds of battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"What story? The Doemenels came after me! I just happened to rob the wrong place. How was I supposed to know they'd already claimed it?"
+
+She runs her hands under her hood and through her hair. "It was an honest mistake. I'm just trying to survive now. And if you spoke with Medreth, you know where he's waiting. Please, help me get out of here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Lie] "Head west toward the temple. That way's clear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Go east. Medreth's waiting for you just west of the river."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Attack] "I'm siding with the Doemenels on this one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>She nods slowly. "All right. I'm trusting you. Don't have much choice.
+
+"See if you can send him the other way. That should buy me some more time." She follows the hooded figures toward the stairs, giving you a final uncertain glance as she passes through the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>She watches you and nods slowly. "All right. I'm trusting you. Don't have much choice."
+
+She follows the hooded figures toward the stairs, giving you a final uncertain glance as she passes through the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"He's dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>She heaves deep, gasping breaths, holding a hand out to steady herself. "I... gods, I'm free." She looks at the door. "For now. I've got to go while I have a head start. And I've got to shed some weight. Here." She reaches under her cloak and gives you a set of folded leathers. "If I move fast, I won't be needing this again. Take care."
+
+She and the rest of her companions hurry down the stairs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"How's it look out there? See anything suspicious?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Attack] "Sorry, but Medreth made a better offer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Leave] "I'm still looking around. I'll be back later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Nyfre folds her arms and gnaws her lower lip. Her eyes bore holes into you.
+
+"That's a lie. You're working for Medreth, I know it! I should kill you right now..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Lie] "I'm telling you the truth. I swear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Attack] "You can try."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"If you think I'm lying, then go the other way. You can probably stay ahead of him if you leave now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>She nods. "You're right." She jerks her head at the other hooded figures. "Let's get out of here.
+
+"See if you can send him the other way. That should buy me some more time." She follows the hooded figures toward the stairs, giving you a final uncertain glance as she passes through the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Who are you running from?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Do you know anything about Aelys Harond?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I'd rather not get into it. Suffice to say I angered the wrong people back in Defiance Bay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"That girl everyone's looking for? She was already missing by the time I got to town."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I did come across a rather suspicious figure just outside town. He's dead now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>She licks her lips, watching you intently. "An elf wearing a cloak? Brown hair, lean features? Were there others with him?" She watches you nod.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Someone told me you were responsible for heinous killings in Defiance Bay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Let me guess. Was that someone named Medreth?" She draws her stiletto. "It's a lie, plain and simple. I got on the wrong side of his employers, and now he's after me.
+
+"But if you're here to do his dirty work, I won't make it easy on you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Let me guess. Was that someone named Medreth?" She draws her stiletto. "You're a big shot in Defiance Bay. If I'd gone on some kind of rampage, don't you think you'd have heard about it?" 
+
+She shakes her head. "I got on the wrong side of his employers, and now he's after me.
+
+"But if you're here to do his dirty work, I won't make it easy on you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Let me guess. Was that someone named Medreth?" She draws her stiletto. "You're a big shot with the Crucible Knights. If I'd gone on some kind of rampage, don't you think you'd have heard about it?" 
+
+She shakes her head. "I got on the wrong side of his employers, and now he's after me.
+
+"But if you're here to do his dirty work, I won't make it easy on you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Let me guess. Was that someone named Medreth?" She draws her stiletto. "You're a big shot with Dunryd Row. If I'd gone on some kind of rampage, don't you think you'd have heard about it?" 
+
+She shakes her head. "I got on the wrong side of his employers, and now he's after me.
+
+"But if you're here to do his dirty work, I won't make it easy on you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>She scratches the back of her neck. "I... may have gotten myself into trouble with some powerful people in Defiance Bay. Powerful criminal people. I suppose it was bound to happen eventually. I'm a thief by trade, and it's hard to do my kind of business in the city without crossing them eventually.
+
+"Now, I'm just trying to put some distance between us. I probably shouldn't be telling you this, but you don't seem like the type to run your mouth off."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

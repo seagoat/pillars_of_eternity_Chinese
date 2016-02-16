@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_cv_watcher_reaction</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>60</EntryCount>
@@ -61,7 +62,7 @@ Letting go and stepping back, she regards you with concern. "Everything going al
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>He gives you a sly grin. "And I expect that explains how you survived a b&#238;a&#373;ac, hm?"</DefaultText>
+      <DefaultText>He gives you a sly grin. "And I expect that explains how you survived a bîaŵac, hm?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

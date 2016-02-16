@@ -1,7 +1,8 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_cv_kana_voice_set</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>86</EntryCount>
+  <EntryCount>92</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -40,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"For T&#226;kowa!"</DefaultText>
+      <DefaultText>"For Tâkowa!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -160,7 +161,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"No! Ed&#233;r has fallen!" </DefaultText>
+      <DefaultText>"No! Edér has fallen!" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -431,6 +432,36 @@
     <Entry>
       <ID>90</ID>
       <DefaultText>[Unintelligible, layered whispers]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Sagani's hurt!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Hiravias! Hang in there!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Pallegina's down!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"They got Durance!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Someone, help Aloth!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Edér! Hang on!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

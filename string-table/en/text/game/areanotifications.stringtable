@@ -1,7 +1,8 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\areanotifications</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>5</EntryCount>
+  <EntryCount>8</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -36,13 +37,13 @@ You look above at the opening you jumped through, now barely a speck of light li
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Defiance Bay. The city at the heart of the Dyrwood&#8217;s revolution now seems on the brink of another.
+      <DefaultText>Defiance Bay. The city at the heart of the Dyrwood’s revolution now seems on the brink of another.
 
-Refugees line the streets, homeless and hungry, displaced by Waidwen&#8217;s Legacy, hoping for relief within the city walls and finding none.
+Refugees line the streets, homeless and hungry, displaced by Waidwen’s Legacy, hoping for relief within the city walls and finding none.
 
-Dissidents congregate to protest and to heckle, calling for an end to animancy and the ouster of their duke. The city&#8217;s militiamen cast fearful looks as they patrol the streets, their hands trembling at the hilts of their weapons.
+Dissidents congregate to protest and to heckle, calling for an end to animancy and the ouster of their duke. The city’s militiamen cast fearful looks as they patrol the streets, their hands trembling at the hilts of their weapons.
 
-The capital of a country that had not long ago incinerated a god now appears to be a spark away from sharing the deity&#8217;s fate&#8230;
+The capital of a country that had not long ago incinerated a god now appears to be a spark away from sharing the deity’s fate…
 </DefaultText>
       <FemaleText />
     </Entry>
@@ -57,6 +58,35 @@ Word had spread immediately that Duc Aevar had been assassinated, and that an an
 In the center of it all, Brackenbury Sanitarium burned. And down the lane, Hadret House, the last bastion of stability in the Dyrwood, had fallen silent.
 
 Now safely outside the city gate, your path points eastward, to Twin Elms, where Thaos is bound for reasons that remain mysterious as the Leaden Key itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You set out for Stalwart. The White March rises up in the distance, stretching to the north and south as far as the eye can see. It beckons to you with peaks like broken fingers.
+
+The road thins to a tattered ribbon, and the shadow of the mountains falls across your path. You've barely begun your climb when the darkening sky pummels you with hailstones and turns the ground beneath you to ice.
+
+You press on.
+
+The air grows thin, and the treacherous mountain passes funnel screeching winds past your ears. A blizzard forces you to make camp for three days, huddling for safety while snow piles around your refuge.
+
+At last the weather clears and you approach Stalwart under a crisp, blue sky. There's a noise, high and sharp, coming from the village that sounds at first like another frozen gale. But when you top the rise and reach the village's wooden gates, you see what lies beyond them...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>By the time you stepped out of Durgan's Battery and into the new snow outside, word had already spread of strange lights rising from the fortress and energy crackling in the sky.
+
+The survivors of Stalwart flocked to Durgan's Battery, their steps hastened by the promise of peace and prosperity at last. They mended their walls, gathered their strength, and prepared their town for the new opportunities that were sure to come.
+
+And with the voices of Durgan's Battery silent at last, none heard the distant groan of something stirring among the peaks, as massive and relentless as an avalanche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The Eyeless disappeared beneath the lake, their bond to Ondra finally severed. With this threat ended, hope returned to the White March.
+
+Hunters returned to the wildernesses and travelers to the roads. Tales of the Watcher's bravery replaced stories of monsters in the woods. The villagers of Stalwart busied their hands with work and their tongues with song, eager to seize on the promise of peace.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

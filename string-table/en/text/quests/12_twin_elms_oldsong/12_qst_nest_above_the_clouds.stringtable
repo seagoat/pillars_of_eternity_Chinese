@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\12_twin_elms_oldsong\12_qst_nest_above_the_clouds</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>24</EntryCount>
@@ -59,7 +60,7 @@ Hopefully the goddess will understand my perspective. I can pray to her at Teir 
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>High Priest Casfath and High Priestess On&#373;en told me about the dragon and suggested I seek counsel from Hylea herself. I may be able to communicate with the goddess at Teir Evron, in the Elms' Reach district.</DefaultText>
+      <DefaultText>High Priest Casfath and High Priestess Onŵen told me about the dragon and suggested I seek counsel from Hylea herself. I may be able to communicate with the goddess at Teir Evron, in the Elms' Reach district.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -74,17 +75,17 @@ Hopefully the goddess will understand my perspective. I can pray to her at Teir 
     </Entry>
     <Entry>
       <ID>20003</ID>
-      <DefaultText>The priests Casfath and On&#373;en confirmed that a dragon roosts in the Nest, Hylea's temple. They warned that the beast will prove a considerable challenge, but they explained that the way to the Nest lies through a mountain pass in Oldsong and along the cliffs of the Northweald.</DefaultText>
+      <DefaultText>The priests Casfath and Onŵen confirmed that a dragon roosts in the Nest, Hylea's temple. They warned that the beast will prove a considerable challenge, but they explained that the way to the Nest lies through a mountain pass in Oldsong and along the cliffs of the Northweald.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20004</ID>
-      <DefaultText>Casfath and On&#373;en were very happy to hear that the Nest had been cleared. They suggested I speak to Hylea, who will surely reward me for my efforts.</DefaultText>
+      <DefaultText>Casfath and Onŵen were very happy to hear that the Nest had been cleared. They suggested I speak to Hylea, who will surely reward me for my efforts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20005</ID>
-      <DefaultText>Casfath and On&#373;en were less than pleased with my decision to let the creatures stay. Still, perhaps Hylea will see things differently.</DefaultText>
+      <DefaultText>Casfath and Onŵen were less than pleased with my decision to let the creatures stay. Still, perhaps Hylea will see things differently.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -94,7 +95,7 @@ Hopefully the goddess will understand my perspective. I can pray to her at Teir 
     </Entry>
     <Entry>
       <ID>20007</ID>
-      <DefaultText>A local explained that Hylea's temple lies through the Northweald and at the top of a mountain. Casfath and On&#373;en, the two priests, are in Oldsong, however.</DefaultText>
+      <DefaultText>A local explained that Hylea's temple lies through the Northweald and at the top of a mountain. Casfath and Onŵen, the two priests, are in Oldsong, however.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

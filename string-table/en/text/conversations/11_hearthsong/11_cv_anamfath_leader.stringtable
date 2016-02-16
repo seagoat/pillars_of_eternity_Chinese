@@ -1,11 +1,12 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\11_hearthsong\11_cv_anamfath_leader</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>154</EntryCount>
   <Entries>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Our paths cross again, Gal&#373;s an Anams."</DefaultText>
+      <DefaultText>"Our paths cross again, Galŵs an Anams."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -139,7 +140,7 @@ The angry anamenfath winces.
       <ID>45</ID>
       <DefaultText>She gasps as the last of Ferwlt's soul fades back into her. The tribesmen gape at you.
 
-"There's no way you could have known this saying. Not unless..." She takes another step toward you. "You are a Gal&#373;s an Anams. A watcher of souls."</DefaultText>
+"There's no way you could have known this saying. Not unless..." She takes another step toward you. "You are a Galŵs an Anams. A watcher of souls."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -402,12 +403,12 @@ She crosses her arms. "They are not the most renown of the tribes, but they are 
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"I've been investigating F&#238;orm's disappearance."</DefaultText>
+      <DefaultText>"I've been investigating Fîorm's disappearance."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Indeed. Arthwn and R&#238;da&#238; have spoken of little else. I do not envy your position, Gal&#373;s an Anams. Yet your testimony may resolve the tensions between the Keepers of the Stone and the Twice-Split Arrows."
+      <DefaultText>"Indeed. Arthwn and Rîdaî have spoken of little else. I do not envy your position, Galŵs an Anams. Yet your testimony may resolve the tensions between the Keepers of the Stone and the Twice-Split Arrows."
 
 She steeples her fingers. "When you've gathered your evidence, I'll call a hearing."</DefaultText>
       <FemaleText />
@@ -424,7 +425,7 @@ She steeples her fingers. "When you've gathered your evidence, I'll call a heari
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>She nods "I will summon Arthwn and R&#238;da&#238;. Their fates, and the names of their tribes, depend on what you will reveal to us, Gal&#373;s an Anams."</DefaultText>
+      <DefaultText>She nods "I will summon Arthwn and Rîdaî. Their fates, and the names of their tribes, depend on what you will reveal to us, Galŵs an Anams."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -436,43 +437,43 @@ She steeples her fingers. "When you've gathered your evidence, I'll call a heari
       <ID>112</ID>
       <DefaultText>Bethwl stands at the head of the hall, lit from behind by dozens of candles. She casts a long shadow across the floor. 
 
-"We've gathered to weigh the claims of Arthwn and R&#238;da&#238; in the matter of F&#238;orm's disappearance. To that end, we are honored by the presence of a Gal&#373;s an Anams, whose insight will help us render a verdict."
+"We've gathered to weigh the claims of Arthwn and Rîdaî in the matter of Fîorm's disappearance. To that end, we are honored by the presence of a Galŵs an Anams, whose insight will help us render a verdict."
 
 Murmurs of astonishment echo from the front of the hut.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"We begin with Arthwn's claim. He asserts that F&#238;orm lured him into a confrontation with the stelgaer and that he slew the beast on his own. F&#238;orm, he says, exiled himself, fearing that knowledge of his actions would heap shame on the Keepers of the Stone."
+      <DefaultText>"We begin with Arthwn's claim. He asserts that Fîorm lured him into a confrontation with the stelgaer and that he slew the beast on his own. Fîorm, he says, exiled himself, fearing that knowledge of his actions would heap shame on the Keepers of the Stone."
 
 She holds up a tooth as long as her arm. "As evidence, he brings a fang from the great stelgaer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"On the other hand, R&#238;da&#238; states that his brother was tricked and murdered by Arthwn during the hunt. A hunter of F&#238;orm's renown would not have fallen in the Blood Hunt but by treachery."</DefaultText>
+      <DefaultText>"On the other hand, Rîdaî states that his brother was tricked and murdered by Arthwn during the hunt. A hunter of Fîorm's renown would not have fallen in the Blood Hunt but by treachery."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>Her shadow flickers and dances in the candlelight as she looks at you. "And now, we turn to our Gal&#373;s an Anams. We ask only that you share your observations, that we may find closure for these two tribes."
+      <DefaultText>Her shadow flickers and dances in the candlelight as she looks at you. "And now, we turn to our Galŵs an Anams. We ask only that you share your observations, that we may find closure for these two tribes."
 
-She lowers her head. "What fate befell F&#238;orm?"</DefaultText>
+She lowers her head. "What fate befell Fîorm?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"F&#238;orm is dead."</DefaultText>
+      <DefaultText>"Fîorm is dead."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>[Lie] "F&#238;orm exiled himself."</DefaultText>
+      <DefaultText>[Lie] "Fîorm exiled himself."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>[Lie] "F&#238;orm is dead."</DefaultText>
+      <DefaultText>[Lie] "Fîorm is dead."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -482,7 +483,7 @@ She lowers her head. "What fate befell F&#238;orm?"</DefaultText>
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"What?!" R&#238;da&#238; stares at you, his face contorted between surprise and anger. He turns to Arthwn. "How?! You puny weakling, how?!"</DefaultText>
+      <DefaultText>"What?!" Rîdaî stares at you, his face contorted between surprise and anger. He turns to Arthwn. "How?! You puny weakling, how?!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -492,14 +493,14 @@ She lowers her head. "What fate befell F&#238;orm?"</DefaultText>
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>Arthwn's eyes search the ground for words to say. "Because F&#238;orm left!" He lifts his head and looks at his anamenfath. "I already have spoken the truth, there's no need for this."</DefaultText>
+      <DefaultText>Arthwn's eyes search the ground for words to say. "Because Fîorm left!" He lifts his head and looks at his anamenfath. "I already have spoken the truth, there's no need for this."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
       <DefaultText>The anamenfath whips her neck toward the tribesmen. "Do not forget your place..."
 
-R&#238;da&#238;'s chest balloons, but he quickly lowers his chin in obedience. Arthwn's eyes dart from side to side.
+Rîdaî's chest balloons, but he quickly lowers his chin in obedience. Arthwn's eyes dart from side to side.
 
 The anamenfath continues. "It saddens us to know this truth, but we must still reveal it deeper."
 </DefaultText>
@@ -512,7 +513,7 @@ The anamenfath continues. "It saddens us to know this truth, but we must still r
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"F&#238;orm killed the giant beast."</DefaultText>
+      <DefaultText>"Fîorm killed the giant beast."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -522,7 +523,7 @@ The anamenfath continues. "It saddens us to know this truth, but we must still r
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>[Lie] "F&#238;orm killed the giant beast."</DefaultText>
+      <DefaultText>[Lie] "Fîorm killed the giant beast."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -532,7 +533,7 @@ The anamenfath continues. "It saddens us to know this truth, but we must still r
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Of course he did!" R&#238;da&#238; shakes his fist, and looks to everyone in the hall. "Arthwn is just a feeble hunter from the Twice-Split Arrows, and a liar!"</DefaultText>
+      <DefaultText>"Of course he did!" Rîdaî shakes his fist, and looks to everyone in the hall. "Arthwn is just a feeble hunter from the Twice-Split Arrows, and a liar!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -542,44 +543,44 @@ The anamenfath continues. "It saddens us to know this truth, but we must still r
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"I do!" Arthwn pounds his chest. "F&#238;orm didn't measure to this feat. It was me who killed that monster."</DefaultText>
+      <DefaultText>"I do!" Arthwn pounds his chest. "Fîorm didn't measure to this feat. It was me who killed that monster."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
       <DefaultText>Fur bristles along Bethwl's arms. "Silence!"
 
-Her slitted pupils narrow as she regards you. "And now we come to it. Claim the truth for the six tribes, Gal&#373;s an Anams."</DefaultText>
+Her slitted pupils narrow as she regards you. "And now we come to it. Claim the truth for the six tribes, Galŵs an Anams."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"F&#238;orm tricked Arthwn and fought the giant stelgaer by himself. They killed each other in the fight. Arthwn tried to cover F&#238;orm's shame, but lied about besting the creature."</DefaultText>
+      <DefaultText>"Fîorm tricked Arthwn and fought the giant stelgaer by himself. They killed each other in the fight. Arthwn tried to cover Fîorm's shame, but lied about besting the creature."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"F&#238;orm tricked Arthwn and fought the giant stelgaer by himself. He died in the battle against the giant creature. I know nothing else."</DefaultText>
+      <DefaultText>"Fîorm tricked Arthwn and fought the giant stelgaer by himself. He died in the battle against the giant creature. I know nothing else."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"The giant stelgaer died by F&#238;orm's hand just as the creature was stalking Arthwn for an easy kill. I know nothing else."</DefaultText>
+      <DefaultText>"The giant stelgaer died by Fîorm's hand just as the creature was stalking Arthwn for an easy kill. I know nothing else."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>[Lie] "F&#238;orm tricked Arthwn and fought the stelgaer by himself. He died in the battle against the giant creature. Arthwn avenged F&#238;orm and then tried to cover his shameful actions."</DefaultText>
+      <DefaultText>[Lie] "Fîorm tricked Arthwn and fought the stelgaer by himself. He died in the battle against the giant creature. Arthwn avenged Fîorm and then tried to cover his shameful actions."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>[Lie] "The giant stelgaer died by F&#238;orm's hand just as the creature was stalking Arthwn for an easy kill. F&#238;orm exiled himself, perhaps in shame for having risked Arthwn's life needlessly."</DefaultText>
+      <DefaultText>[Lie] "The giant stelgaer died by Fîorm's hand just as the creature was stalking Arthwn for an easy kill. Fîorm exiled himself, perhaps in shame for having risked Arthwn's life needlessly."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>[Lie] "F&#238;orm exiled himself in shame after Arthwn, the hunter of much less renown, managed to kill the giant stelgaer in single combat."</DefaultText>
+      <DefaultText>[Lie] "Fîorm exiled himself in shame after Arthwn, the hunter of much less renown, managed to kill the giant stelgaer in single combat."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -591,12 +592,12 @@ Bethwl nods. "It is as you say. We thank you for sharing your truth with us."</D
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>The anamenfath turns to Arthwn and R&#238;da&#238;. "Brothers of the tribes, let these wounds mend. Go in peace, and contemplate the shame brought into our hearth."</DefaultText>
+      <DefaultText>The anamenfath turns to Arthwn and Rîdaî. "Brothers of the tribes, let these wounds mend. Go in peace, and contemplate the shame brought into our hearth."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Gal&#373;s an Anams, I'd have a word with you."</DefaultText>
+      <DefaultText>"Galŵs an Anams, I'd have a word with you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -673,7 +674,7 @@ Bethwl nods. "It is as you say. We thank you for sharing your truth with us."</D
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>"Looters have grown bolder at the sites of the Builders. The people of Defiance Bay set fire to their own city. And every week, the Three-Tusk Stelgaer bring news of more desperate settlers pushing at our borders, trying to escape their plague of onolf&#234;n children."</DefaultText>
+      <DefaultText>"Looters have grown bolder at the sites of the Builders. The people of Defiance Bay set fire to their own city. And every week, the Three-Tusk Stelgaer bring news of more desperate settlers pushing at our borders, trying to escape their plague of onolfên children."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -799,7 +800,7 @@ Twin Elms."</DefaultText>
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>"The burden of the onolf&#234;n has been light on our shoulders. But I am not so naive as to think that we are immune from this affliction, or that its presence among our neighbors does not also threaten us. As I am often reminded, we share a fragile border."</DefaultText>
+      <DefaultText>"The burden of the onolfên has been light on our shoulders. But I am not so naive as to think that we are immune from this affliction, or that its presence among our neighbors does not also threaten us. As I am often reminded, we share a fragile border."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

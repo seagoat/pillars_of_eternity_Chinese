@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\13_twin_elms_elms_reach\13_qst_true_to_form</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>31</EntryCount>
@@ -68,7 +69,7 @@ The tablets also mentioned that many anamfatha would travel to the Burial Isle t
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>We have spoken with both Naca of the Ethik N&#244;l of Blood Sands, and with Tamrwn of the Ovates of the Golden Grove. Both of these druids were passingly familiar with Hiravias' spiritform, and both recommended reading the tablets in the Blood Sands - insisting the tablets contained wisdom Hiravias needed to read for himself.</DefaultText>
+      <DefaultText>We have spoken with both Naca of the Ethik Nôl of Blood Sands, and with Tamrwn of the Ovates of the Golden Grove. Both of these druids were passingly familiar with Hiravias' spiritform, and both recommended reading the tablets in the Blood Sands - insisting the tablets contained wisdom Hiravias needed to read for himself.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

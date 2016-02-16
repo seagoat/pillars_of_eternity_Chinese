@@ -1,0 +1,82 @@
+<StringTableFile>
+  <Name>conversations\05_defiance_bay_heritage_hill\05_cv_tayr_nowneth_machine_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>A jagged adra pillar rises in front of you, encased in stonework and run through with copper veins. Unintelligible runes cover the panel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Inspect the machine.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Choose "End."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Maximize the machine's throttle in hopes of overloading the device.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>As the command words leave your lips, the dial sinks into the adra under your hand. Something like a thunderclap sounds overhead.
+
+The glow fades from the machine as it falls dormant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Muttering a command, you give the dial a violent twist. The moving spires spin faster and faster, wobbling from their axes. The light filling the machine quickly becomes too bright to behold.
+
+You look away and cover your ears, but the thunderous crash that follows shakes the floor beneath you. When you look back, the machine is in ruins, never to be used again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>A sunburst of copper filaments surrounds a dial that looks to be about twice the size of a hen's egg. The filaments cross and diverge, ending in bead-tipped nodes. Each wire has a point of origin somewhere along the edge of the dial.
+
+Runes are inscribed around the dial.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Redirect the flow of essence to yourself according to Aldhelm's instructions.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>A jagged adra pillar rises in front of you, encased in stonework and run through with copper veins. The panel is covered with runes, which you can now understand.
+
+You recognize words for "End," and for "Hold." The dial is currently fixed on "Hold." You also recognize by an inscription that the manner in which you turn the dial is a means of throttling the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Turn the dial.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Nothing happens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>You look at the copper wires and recall what Aldhelm showed you. You twist the dial to the furthest set of nodes and command the machine to release the essence.
+
+Your bones hum and your teeth rattle as a strange power fills you. Your blood feels like it's boiling, and you press your hands to your head to contain the building pressure. Just as you're about to scream, the pain ceases, and you feel only power.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

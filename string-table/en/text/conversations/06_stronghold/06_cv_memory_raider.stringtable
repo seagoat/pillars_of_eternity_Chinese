@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\06_stronghold\06_cv_memory_raider</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>12</EntryCount>
@@ -7,7 +8,7 @@
       <ID>1</ID>
       <DefaultText>An elven man turns to face you. His cheeks, his forearms, and the cartilage of his long, pointed ears are smeared with indigo and blue paints. He grins wickedly beneath a thatch of wild hair.
 
-"Almost time. Da&#238; and Hedhwr scouted the village last night. They're rounding up the rest of the party now."</DefaultText>
+"Almost time. Daî and Hedhwr scouted the village last night. They're rounding up the rest of the party now."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -27,7 +28,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>His phantasmal fist sails through your shoulder. "Don't worry, everyone remembers the raid was your idea. The r&#238;ow had to go along with it after you'd gotten the rest of the clan riled up. 
+      <DefaultText>His phantasmal fist sails through your shoulder. "Don't worry, everyone remembers the raid was your idea. The rîow had to go along with it after you'd gotten the rest of the clan riled up. 
 
 "No one wants it said that the Nine Claws were too cowardly to stand with the rest of the tribe when the foreigners desecrated our ruins."</DefaultText>
       <FemaleText />
@@ -39,14 +40,14 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"The r&#238;ow?"</DefaultText>
+      <DefaultText>"The rîow?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>The ragged stripes of paint on his face twist as he laughs. "You may not like them, but they're still our elders. For now." A dead, gray tooth peers from between his lips.
 
-"That was clever, drawing the support of the community first. By the time you approached the r&#238;ow, they had no choice but to support us."</DefaultText>
+"That was clever, drawing the support of the community first. By the time you approached the rîow, they had no choice but to support us."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

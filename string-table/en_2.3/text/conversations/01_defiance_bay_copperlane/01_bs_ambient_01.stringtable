@@ -1,0 +1,17 @@
+<StringTableFile>
+  <Name>conversations\01_defiance_bay_copperlane\01_bs_ambient_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Someone actually stole something from the Hall? How'd they manage to do that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Wael only knows. Grimda's looking for someone to blame, though, so stay clear of her for a few days."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

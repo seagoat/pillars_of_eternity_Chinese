@@ -1,7 +1,8 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\tutorial</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>48</EntryCount>
+  <EntryCount>49</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -234,11 +235,11 @@ A character's ability to find hidden objects is based on his or her Mechanics sk
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>One of your characters has become fatigued. Fatigue represents the physical and psychological wear and tear of demanding activity on a character. It builds up over time as characters travel, explore, and especially when they engage in combat. Some scripted interactions will also result in Fatigue if they are especially grueling. The Athletics skill automatically slows the onset of Fatigue from any source.
+      <DefaultText>One of your characters has become fatigued. Fatigue represents the physical and psychological wear and tear of demanding activity on a character. It is most commonly received as an Injury when a character is knocked out, but some scripted interactions will also result in Fatigue if they are especially grueling.
 
  Fatigue goes through multiple stages, initially inflicting minor penalties but growing in severity over time.
 
- Resting is the easiest way to remove the effects of Fatigue, though some consumables can also lower a character's Fatigue total.</DefaultText>
+ Resting is the easiest way to remove the effects of Fatigue, though some consumables can also remove Fatigue.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -249,6 +250,13 @@ A character's ability to find hidden objects is based on his or her Mechanics sk
     <Entry>
       <ID>47</ID>
       <DefaultText>Use the Tab key to highlight interactive objects in the environment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>The White Forge is now available for your use. It has the unique ability to refine Durgan iron ingots. Multiple iron ingots are required to create a single refined ingot. 
+
+After refinement, these ingots can be used at any time in enchanting recipes to augment weapons, shields, and armor with Durgan steel.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,0 +1,47 @@
+<StringTableFile>
+  <Name>conversations\07_gilded_vale\07_bs_gv_inn_drunkard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Our great Lord had my sister run out of town after the buoy was born. She was the only family I had left. Not sure where she is now." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Blazes, I need another drink." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I should have left town years ago." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"And who are you then? Another fool come to answer Raedric's invitation?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"You-! You did what we ought to have done after they hanged the first of us." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Bless you, sir! Bless you! Gods be good, and that'll be the fate of every proud lord!"</DefaultText>
+      <FemaleText>"Bless you, my lady! Bless you! Gods be good, and that'll be the fate of every proud lord!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Folk here ought to sing your name! [Player Name]!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I keep saying as much." </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

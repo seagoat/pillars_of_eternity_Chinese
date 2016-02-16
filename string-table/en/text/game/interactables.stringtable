@@ -1,7 +1,8 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\interactables</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>765</EntryCount>
+  <EntryCount>1095</EntryCount>
   <Entries>
     <Entry>
       <ID>5</ID>
@@ -997,7 +998,7 @@ The pale stones around the room look dull and lifeless.</DefaultText>
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>This mural must be ancient, yet the colors are still bright and vivid.</DefaultText>
+      <DefaultText>This mural must be ancient, yet the colors are still bright and vivid. It shows a procession of Engwithans from all the kith races: aumaua, elf, orlan, dwarf, and human. They walk among pillars similar to the ones that span this chamber, each one topped with a flame.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1228,7 +1229,7 @@ Flesh and enfeebling of bone. The barbarian godless succumbed at last."</Default
     <Entry>
       <ID>321</ID>
       <DefaultText>West to Gilded Vale
-South to Ansl&#246;g's Compass
+South to Anslög's Compass
 East to Black Meadow</DefaultText>
       <FemaleText />
     </Entry>
@@ -1392,7 +1393,7 @@ East to Black Meadow</DefaultText>
     </Entry>
     <Entry>
       <ID>353</ID>
-      <DefaultText>Alarh&#238;'s Herbals</DefaultText>
+      <DefaultText>Alarhî's Herbals</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1402,7 +1403,7 @@ East to Black Meadow</DefaultText>
     </Entry>
     <Entry>
       <ID>355</ID>
-      <DefaultText>Masd&#234;n's Supplies</DefaultText>
+      <DefaultText>Masdên's Supplies</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2047,7 +2048,7 @@ Sunset brings darkness but never a map in the stars of the sky?"</DefaultText>
     </Entry>
     <Entry>
       <ID>497</ID>
-      <DefaultText>I&#373;en's Herbs</DefaultText>
+      <DefaultText>Iŵen's Herbs</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2112,7 +2113,7 @@ Sunset brings darkness but never a map in the stars of the sky?"</DefaultText>
     </Entry>
     <Entry>
       <ID>510</ID>
-      <DefaultText>Ur&#373;a's Goods</DefaultText>
+      <DefaultText>Urŵa's Goods</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2566,7 +2567,7 @@ Sunset brings darkness but never a map in the stars of the sky?"</DefaultText>
     </Entry>
     <Entry>
       <ID>604</ID>
-      <DefaultText>A shipping manifest listing the cargo of the "Pr&#236;ncipa me Ciamena" - four hundred sharkskins from Rauatai, twenty bales of blackwood from the Living Lands, and six dozen barrels of Aedyre ale.</DefaultText>
+      <DefaultText>A shipping manifest listing the cargo of the "Prìncipa me Ciamena" - four hundred sharkskins from Rauatai, twenty bales of blackwood from the Living Lands, and six dozen barrels of Aedyre ale.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3889,6 +3890,1671 @@ South to the Salty Mast</DefaultText>
     <Entry>
       <ID>867</ID>
       <DefaultText>Store</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>868</ID>
+      <DefaultText>Stalwart Fishery</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>869</ID>
+      <DefaultText>Hidden Compartment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>870</ID>
+      <DefaultText>Bottles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>871</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>872</ID>
+      <DefaultText>Gréf's Rest Inn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>873</ID>
+      <DefaultText>The mine looks like it was deliberately collapsed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>874</ID>
+      <DefaultText>These smelters haven't seen use in a long time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>875</ID>
+      <DefaultText>Yduran's Wares</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>876</ID>
+      <DefaultText>The Gréf's Rest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>877</ID>
+      <DefaultText>The shaft of each spear is splintered and broken, each of them held together only by tightly bound leather straps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>878</ID>
+      <DefaultText>These necklaces have been made from the teeth and claws of various predators - wolves, bears, and lions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>879</ID>
+      <DefaultText>Judging from the large hole behind the gills, it can be safely assumed this trophy fish was shot with a pistol and not caught by a hook or a net.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>880</ID>
+      <DefaultText>This door appears to be barred from the inside. It does not budge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>881</ID>
+      <DefaultText>The dead eyes of speckleback, irontooth pike, and frostdiver fish gaze up at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>882</ID>
+      <DefaultText>These roasting fish provide much of the pungent odor permeating the fishery.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>883</ID>
+      <DefaultText>This tattered net appears to have been set aside for mending. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>884</ID>
+      <DefaultText>This large piece of stone is adorned with an engraving of a hammer and chisel, though the writing beneath is too worn away to read.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>885</ID>
+      <DefaultText>Under a hail of knives and hatchets is a fading set of charcoal scratches apparently meant to suggest a face. Someone has helpfully carved 'Mayor Cyneheod' underneath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>886</ID>
+      <DefaultText>An assortment of dusty vintages lines these shelves. Many date to before the War of Defiance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>887</ID>
+      <DefaultText>Copper Minnow</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>888</ID>
+      <DefaultText>Silver Catfish</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>889</ID>
+      <DefaultText>Golden Whale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>890</ID>
+      <DefaultText>The petrified skull is as cold and hard as stone. Wax tears dribble from the eye sockets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>891</ID>
+      <DefaultText>This crystal glows with a smoky amber light. It gives off a faint warmth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>892</ID>
+      <DefaultText>There's a cannonball-shaped dent in the front of this shield.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>893</ID>
+      <DefaultText>This map depicts the peak of the mountain, with markers denoting altitude.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>894</ID>
+      <DefaultText>These teeth have been sanded smooth in preparation for carving.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>895</ID>
+      <DefaultText>Tables, shields and collapsed stones have been piled up to form an impassable barricade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>896</ID>
+      <DefaultText>Hollow Log</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>897</ID>
+      <DefaultText>These stones are strangely warm to the touch. Though most of the runes are indecipherable, a few look like names.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>898</ID>
+      <DefaultText>The inside of this minecart is caked with blackened grease. It smells of burnt fat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>899</ID>
+      <DefaultText>A note pasted to the door reads: "Busy. Return later. If you must. - Galvino"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>900</ID>
+      <DefaultText>Rat Nest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>901</ID>
+      <DefaultText>Frozen Corpse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>902</ID>
+      <DefaultText>In the trampled, bloody slush around this toppled wagon, you spy tracks leading back south along the path. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>903</ID>
+      <DefaultText>This crate is empty, though it smells strongly of fish.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>904</ID>
+      <DefaultText>Crevice</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>905</ID>
+      <DefaultText>Morug</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>906</ID>
+      <DefaultText>The road continues climbing for a short distance before turning sharply down into the pass beyond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>907</ID>
+      <DefaultText>Lifting up a corner of the tarp reveals a jumble of rusted metal alongside the firewood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>908</ID>
+      <DefaultText>[TEMP] An altar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>909</ID>
+      <DefaultText>"Do not remove any equipment from the armory without permission from Armswarden Marunn or Captain Gregur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>911</ID>
+      <DefaultText>Francesca</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>912</ID>
+      <DefaultText>Coal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>913</ID>
+      <DefaultText>Many of these frozen corpses are missing fingers or have had chunks of flesh cut out from their thighs and torsos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>914</ID>
+      <DefaultText>Taragaer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>915</ID>
+      <DefaultText>These scrolls catalog quantities of ore and minerals taken from the mines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>916</ID>
+      <DefaultText>Heat ripples and rises from grate-covered hallways below you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>917</ID>
+      <DefaultText>Skeletons lie crushed beneath enormous stone slabs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>918</ID>
+      <DefaultText>Only a few bones protrude from the rubble, and they've been broken like twigs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>919</ID>
+      <DefaultText>A freezing draft filters through the collapsed wall. It looks as if something broke through from the outside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>920</ID>
+      <DefaultText>Heat from the level below prickles your skin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>921</ID>
+      <DefaultText>Something burns beneath you, but you can't see what.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>922</ID>
+      <DefaultText>A bronze statue of Abydon stands over incense ash and rusted metal tokens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>923</ID>
+      <DefaultText>The surface of the anvil hums with power. It's warm to the touch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>924</ID>
+      <DefaultText>The interior of the forge is crusted with dark, rippled stone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>925</ID>
+      <DefaultText>Eye-watering heat wafts from the mouth of the White Forge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>926</ID>
+      <DefaultText>This globe is marked with the various Pargrunen settlements around Eora.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>927</ID>
+      <DefaultText>Books and pages scrawled with equations and measures of essence are scattered across this table as if someone went through them in a hurry.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>929</ID>
+      <DefaultText>Frozen Corpse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>930</ID>
+      <DefaultText>Pool of Water</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>931</ID>
+      <DefaultText>Pile of Snow</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>932</ID>
+      <DefaultText>Shrubbery</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>933</ID>
+      <DefaultText>Hollow Tree</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>934</ID>
+      <DefaultText>Snowy Mound</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>935</ID>
+      <DefaultText>Pile of Rocks</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>936</ID>
+      <DefaultText>Rocky Cluster</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>937</ID>
+      <DefaultText>Pile of Bones</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>938</ID>
+      <DefaultText>Mushroom Cluster</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>939</ID>
+      <DefaultText>Ore Vein</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>940</ID>
+      <DefaultText>Minecart</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>941</ID>
+      <DefaultText>Mining Tools</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>942</ID>
+      <DefaultText>Display Case</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>943</ID>
+      <DefaultText>Stag</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>944</ID>
+      <DefaultText>An upper section of the side of the tower has crumbled, blocking access within.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>945</ID>
+      <DefaultText>A hole bores into the stone. Its edges are blackened and gritty with soot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>946</ID>
+      <DefaultText>A body lies beneath a blood-soaked shroud. It reeks of rot and infection.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>947</ID>
+      <DefaultText>A cold wind from the south</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>948</ID>
+      <DefaultText>Reached Old Vailia in the west</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>949</ID>
+      <DefaultText>And bore our parents east</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>950</ID>
+      <DefaultText>To seek the White Forge in the north.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>951</ID>
+      <DefaultText>The creature in the tank remains still, but its eyes follow you as you get close.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>952</ID>
+      <DefaultText>There's no movement from the creature inside this tank.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>953</ID>
+      <DefaultText>This tower looks like it was carved from the stone of the cliff. The entrance is collapsed and sealed with ice, but you imagine that it commands an impressive view of the valley below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>954</ID>
+      <DefaultText>The cliffside plunges for a thousand feet to the valley below. Stalwart is barely a speck amongst the trees in the distance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>955</ID>
+      <DefaultText>Pile of Scrolls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>956</ID>
+      <DefaultText>Machine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>957</ID>
+      <DefaultText>Grating</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>958</ID>
+      <DefaultText>Mannequin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>959</ID>
+      <DefaultText>Bubbles rise from the depths of a murky, sludgy stew. The few bones in the pot have been picked clean, and they float amidst swirling globules of grease.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>960</ID>
+      <DefaultText>These shields all sport signs of battle, ranging from blood stains to deep gouges in the wood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>961</ID>
+      <DefaultText>A scattered pile of mechanical finger joints lies strewn across this desk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>962</ID>
+      <DefaultText>These crates hold innumerable discarded mechanical hinges, face-plates and limbs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>963</ID>
+      <DefaultText>This appears to be a crude rendering of the mountains surrounding Durgan's Battery.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>964</ID>
+      <DefaultText>This hulking contraption hums with power. Approaching within a few feet sets a peculiar buzzing in your teeth. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>965</ID>
+      <DefaultText>This mannequin's head has been all but seared away by some unknown spell. The wood is warped and pitted through.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>966</ID>
+      <DefaultText>A gelatinous green film has congealed along the bottom of this shattered machine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>967</ID>
+      <DefaultText>This platter has gone entirely untouched, leaving the tantalizing meal to the flies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>968</ID>
+      <DefaultText>An impressive assortment of wine bottles lines these shelves. Most appear to be Vailian vintages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>969</ID>
+      <DefaultText>An assortment of scrap materials has been left behind on this worktable. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>970</ID>
+      <DefaultText>A thick layer of dust coats these empty shelves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>971</ID>
+      <DefaultText>An aumaua-sized creature floats in this tank. Its flesh is shriveled and gray.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>972</ID>
+      <DefaultText>The corpse's skin has been peeled back and held in place with a thick, viscous webbing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>973</ID>
+      <DefaultText>The glass jars on the shelves contain brains of various sizes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>974</ID>
+      <DefaultText>Workshop</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>975</ID>
+      <DefaultText>Water trickles down glistening pillars and spears of ice. A few rocks peek out from between them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>976</ID>
+      <DefaultText>A pungent, sulfuric odor rises with the steam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>977</ID>
+      <DefaultText>This brazier looks large enough to have held a signal fire once.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>978</ID>
+      <DefaultText>The iron and copper deposits are spattered with blood. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>979</ID>
+      <DefaultText>The woman's rigid fingers still dig into the earth. Her battered armor squeezes her bloat-swollen limbs. Maggots squirm from a ragged wound in her back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>980</ID>
+      <DefaultText>A bloody hammer rests where this corpse's head should be. Bone fragments and dried chunks of brain matter are stuck to the grass.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>981</ID>
+      <DefaultText>The corpse's remaining hand clutches at its own trailing innards. The stench of decay is almost unbearable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>982</ID>
+      <DefaultText>This trebuchet smells of fresh pine and hemp. Its beams are still sticky with sap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>983</ID>
+      <DefaultText>Gnats buzz over a film of murky, algae-choked water. Something glints just beneath the surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>984</ID>
+      <DefaultText>Coal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>985</ID>
+      <DefaultText>The book contains a list of names, most of which are crossed off. You recognize the four names which haven't been touched yet: Sabel, Pelden, Tanoss, and Uariki.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>986</ID>
+      <DefaultText>The clay tablet is ancient, and most of the symbols inscribed upon it are indecipherable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>987</ID>
+      <DefaultText>This is a map of the mines, but various tunnels and choke points have been marked off with arrows and X's. It looks like a hasty battle plan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>988</ID>
+      <DefaultText>Every bone in this skeleton has been snapped in two - or more - places.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>989</ID>
+      <DefaultText>Shattered skeletons lie prostrate before the shrine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>990</ID>
+      <DefaultText>Swords and helms have been laid at the feet of this statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>991</ID>
+      <DefaultText>Something heavy broke through the railing and gouged a chunk out of the bridge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>993</ID>
+      <DefaultText>The wall has been smashed into great, jagged shards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>994</ID>
+      <DefaultText>These stone slabs have shattered like pottery.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>995</ID>
+      <DefaultText>The breastplates and cuisses are all smashed or bent beyond further use.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>996</ID>
+      <DefaultText>A heavy bronze suit appears to have been ripped apart, its pieces scattered across the floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>997</ID>
+      <DefaultText>Rocks choke the tunnel mouth as if it caved in - or was purposefully collapsed - some time ago.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>998</ID>
+      <DefaultText>Many of these bones have been ground into grit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>999</ID>
+      <DefaultText>This skeleton's ribcage has been smashed into fragments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1000</ID>
+      <DefaultText>Dented minecarts and heaps of rubble block this tunnel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1001</ID>
+      <DefaultText>Most of these crates and barrels are empty, and several are overturned. It looks as if they were cleared out in a hurry.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1002</ID>
+      <DefaultText>The surface of this large, square anvil is completely smooth. The adra pillar in the middle seems to tug at your essence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1003</ID>
+      <DefaultText>Ancient scrolls have been yanked out of the shelves and left on the floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1004</ID>
+      <DefaultText>Pargrunen histories lie open and abandoned. Some are missing pages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1005</ID>
+      <DefaultText>Something pulled this construct apart like a child's toy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1006</ID>
+      <DefaultText>This wall was a yard thick and solid stone, yet something broke through it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1007</ID>
+      <DefaultText>Boulders and stone blocks tumble from the broken wall. It would require at least a dozen aumaua to move even one of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1008</ID>
+      <DefaultText>These pliers, picks, and awls were made for shaping metal. Dried blood flakes off of them like rust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1009</ID>
+      <DefaultText>A star-patterned crack radiates from the center of this table, as if a hammer or mace smashed it. A pair of skeletal hands protrudes from beneath it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1010</ID>
+      <DefaultText>Torn scrolls and books with broken spines litter the floor below the shelves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1011</ID>
+      <DefaultText>Cracked skulls and splintered bones lie in a jumble. Most of the remains have been ground into dust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1012</ID>
+      <DefaultText>Bones, chipped but whole, have been swept into a pile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1013</ID>
+      <DefaultText>It looks as if these skeletons were once stacked, but they've fallen apart as their connective tissue has rotted away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1014</ID>
+      <DefaultText>A few tokens - filthy coins and tattered ribbons - have been scattered in this bone pile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1015</ID>
+      <DefaultText>Several skeletons have been laid alongside one another. Their legs and ribs are broken, but a dented Abydon statuette has been left amongst them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1016</ID>
+      <DefaultText>This boulder appears to have crashed through the tower, taking a section of the wall with it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1017</ID>
+      <DefaultText>This fading banner depicts two linked circles above a snowy mountain peak.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1018</ID>
+      <DefaultText>Tubes of stiff, frozen mud rise from the ground, and warm air buffets your face as you peer into them. You see shiny, jagged shards inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1019</ID>
+      <DefaultText>You trace fading outline and shapes in these panels. It looks like they were once a sequence of reliefs, but the images have worn away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1020</ID>
+      <DefaultText>These panels have been worn smooth. In one, you can just detect the shape of a sword, and in another, the stocky body of a dwarf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1021</ID>
+      <DefaultText>This shelf has been nicked and notched all along its length.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1022</ID>
+      <DefaultText>Liquid metal drips from the dangling skeleton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1023</ID>
+      <DefaultText>Something bubbles and hisses within this vat. Its metal sides are hot enough to scald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1024</ID>
+      <DefaultText>This book burns your hands when you touch it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1025</ID>
+      <DefaultText>The rich fabric is as smooth as lambskin and softer than most beds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1026</ID>
+      <DefaultText>As you draw close, the words on this scroll fade and disappear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1027</ID>
+      <DefaultText>The rust-red figures on this scroll look as though they were written in blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1028</ID>
+      <DefaultText>Despite the years of weathering, where the helmets on the other armors in the room are plain and lusterless, this one is brighter and more reflective.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1029</ID>
+      <DefaultText>This armor has been posed bracing behind a broad shield, thick and sturdy as a city gate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1030</ID>
+      <DefaultText>The sword wielded by this suit of armor is covered in fine detail work, far more intricate than that of the armor itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1031</ID>
+      <DefaultText>The pungent stench of some type of preservative emanates from these shelves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1032</ID>
+      <DefaultText>"Meditate on those who came before you
+And those who go beyond you.
+Remember first your father
+And last your younger brother,
+But know all Pargrunen as kin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1033</ID>
+      <DefaultText>Cracks snake across this stone tablet. The edges have been worn smooth over centuries of handling. It reads:
+
+"We who stand shoulder to shoulder alongside the oldest of kith empires send you forth.
+Honor us as we remember you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1034</ID>
+      <DefaultText>The corners of this tablet are chipped, but it's otherwise in good condition. It reads:
+
+"We plant ourselves in a strange and wild land but remember well our roots.
+Though we are distant, know us still as kin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1035</ID>
+      <DefaultText>The letters on this tablet are crisp and deep, as if chiseled recently. They read:
+
+"Though our towers of stone are surrounded by gates of coral
+We are Pargrunen still. Write our names in your halls and your hearts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1036</ID>
+      <DefaultText>Surgery Table
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1037</ID>
+      <DefaultText>Journal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1038</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1039</ID>
+      <DefaultText>Sparks crawl over the wires and plates of this machine, illuminating the innards with each burst of light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1040</ID>
+      <DefaultText>Tufts of hair are still stuck to the metal slats of this helmet. You spy dark smudges along the edges of the manacles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1041</ID>
+      <DefaultText>Viscous green liquid seeps from a crack in this glass tank. It exudes a strong chemical odor that is almost painful to inhale. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1042</ID>
+      <DefaultText>Charred Remains</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1043</ID>
+      <DefaultText>Arranged from top to bottom, these boxes boast increasingly intricate locks. A few broken lockpicks lie discarded on the shelves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1044</ID>
+      <DefaultText>Bones, stripped of flesh and gouged with tooth-marks, are piled beneath the snow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1045</ID>
+      <DefaultText>This statue of Abydon is mottled and tarnished, but each bolt and rivet appears crafted with meticulous detail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1046</ID>
+      <DefaultText>You think you glimpse flickers of movement in this tarnished, clouded mirror.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1047</ID>
+      <DefaultText>Fresh Grave</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1048</ID>
+      <DefaultText>(TEMP) A sunken boat. Very old.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1049</ID>
+      <DefaultText>Tiny spiders have nested in this round shot casting station.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1050</ID>
+      <DefaultText>A map shows the peaks and passes surrounding Durgan's Battery. Faded red circles mark choke points.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1051</ID>
+      <DefaultText>A peek through the crack reveals a long, long drop.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1052</ID>
+      <DefaultText>These cannons are encrusted with thick, pungent slime.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1053</ID>
+      <DefaultText>This broken panel has rusted beyond repair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1054</ID>
+      <DefaultText>The cannons are cold as ice and banded by angular patterns and prayers to Abydon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1055</ID>
+      <DefaultText>These foul-smelling nests hold twigs, rags, and half-gnawed bones.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1056</ID>
+      <DefaultText>Linstocks, rammers, sponges and other cannon supplies line the wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1057</ID>
+      <DefaultText>Hamond's Emporium</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1058</ID>
+      <DefaultText>Engravings depict the Pargrunen's journey to the White March.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1059</ID>
+      <DefaultText>Heat rises from the pipes below. The cannon feels warm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1060</ID>
+      <DefaultText>The cannon is frozen and immobile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1061</ID>
+      <DefaultText>Through the gap, you see winding stairs and the dull glint of more cannons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1062</ID>
+      <DefaultText>Scrolls and papers documenting the sale of iron ore and sulfur are crammed onto the shelves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1063</ID>
+      <DefaultText>The rails lie crushed beneath the collapsed tunnel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1064</ID>
+      <DefaultText>The cave-ins have created openings to the outside. Snow has settled upon the rocks above.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1065</ID>
+      <DefaultText>A peek inside these shallow burrows reveals the gleaming stare of many eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1066</ID>
+      <DefaultText>The stalagmites glisten in the light of some indiscernible source below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1067</ID>
+      <DefaultText>The heavy, strange odor of sweat and sulfur wafts up from somewhere below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1068</ID>
+      <DefaultText>The stalagmites glisten in the glow of some indiscernible light source below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1069</ID>
+      <DefaultText>Clusters of unrefined iron glint in the lamplight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1070</ID>
+      <DefaultText>The planks have been peeled from the bow of this old fishing boat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1071</ID>
+      <DefaultText>Nest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1072</ID>
+      <DefaultText>The yurt is empty but for a few heavy bedrolls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1073</ID>
+      <DefaultText>Cold water drips from the roof of this yurt and puddles in the hearth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1074</ID>
+      <DefaultText>This looks like Stalwart from the road to Dyrwood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1075</ID>
+      <DefaultText>These identical Abydon figurines are all of equally poor quality. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1076</ID>
+      <DefaultText>A bloody thumbprint marks where someone pulled away a piece of bread.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1077</ID>
+      <DefaultText>Someone has torn away several pages, leaving bloody smears behind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1078</ID>
+      <DefaultText>The fire has died down to a handful of glowing embers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1079</ID>
+      <DefaultText>Pillowcase</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1080</ID>
+      <DefaultText>This shrine to Abydon is smooth and shiny, as if it were made recently.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1081</ID>
+      <DefaultText>TEMP: A double forge, glowing with heat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1082</ID>
+      <DefaultText>Recently forged, these swords still need sharpening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1083</ID>
+      <DefaultText>Drowned Low Tide Ondrite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1084</ID>
+      <DefaultText>A thin film of iridescent dust floats on the calm surface of the waters, obscuring its depths.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1085</ID>
+      <DefaultText>The spigot on this cask exudes a thick chemical stench.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1086</ID>
+      <DefaultText>This trebuchet is disassembled but intact.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1087</ID>
+      <DefaultText>Hot pitch roils ominously within this deep cauldron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1088</ID>
+      <DefaultText>A gentle rap elicits a hollow sound. This cask is almost empty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1089</ID>
+      <DefaultText>Like its neighbors, this gravestone holds only a hastily scratched name.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1090</ID>
+      <DefaultText>Mangled woolskins and straw provide the bedding in this kennel. All of it stinks of dog.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1091</ID>
+      <DefaultText>These cots have been recently washed. The dirt and mud beneath them is flecked with darker stains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1092</ID>
+      <DefaultText>A peek under the tarp reveals barrels marked as powder stores.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1093</ID>
+      <DefaultText>A few enterprising individuals have carved crude figures into the wooden logs of the latrine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1094</ID>
+      <DefaultText>A simple meal of meat and carrots, boiled into a soupy mixture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1095</ID>
+      <DefaultText>The tents hold little. You spy boots, drying tunics, and the very occasional book.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1096</ID>
+      <DefaultText>The devastation to the surrounding forest stretches near to the horizon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1097</ID>
+      <DefaultText>You can see the water's dark surface not far below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1098</ID>
+      <DefaultText>A massive crystal, its jagged edges iridescent with an unearthly glow, pierces through the dome. Mosaics and tiles have been carefully arranged around the strange rock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1099</ID>
+      <DefaultText>Water flows upward from a thin slit that cuts along the tiles of the floor. The water swells and condenses when touched, forming an elastic barrier that resists any attempts to cross it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1100</ID>
+      <DefaultText>You can just make out the blurred shape of an Eyeless behind the ice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1101</ID>
+      <DefaultText>Sack of Grain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1102</ID>
+      <DefaultText>Tent</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1103</ID>
+      <DefaultText>The massive, coppery bones encased under the ice seem to be part of the hips of a giant skeleton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1104</ID>
+      <DefaultText>A thin layer of frost sparkles over this store of bread and cabbages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1105</ID>
+      <DefaultText>An acrid and pungent smell climbs up from the depths of this pit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1106</ID>
+      <DefaultText>Despite the icy sheen that covers these webs, their threads gently vibrate at the slightest disturbance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1107</ID>
+      <DefaultText>Skeletons draped in tattered blue clothes lie encased under layers of ice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1108</ID>
+      <DefaultText>Clumps of moss, frozen under a layer of slick and green slime, build up between the cut stones.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1109</ID>
+      <DefaultText>Beyond the door, you catch glimpses of shapes in the darkness. Wails and whispers, faint and erratic, echo from within the sealed halls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1110</ID>
+      <DefaultText>A turbulent murmur echoes faintly from the depths of this chasm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1111</ID>
+      <DefaultText>Dead Sled Dog</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1112</ID>
+      <DefaultText>This door is sealed shut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1113</ID>
+      <DefaultText>Not a drop of spilled ink stains the stones of this pulprit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1114</ID>
+      <DefaultText>Pile of Straw</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1115</ID>
+      <DefaultText>The inside of this cauldron is caked with the remnants of cooling tar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1116</ID>
+      <DefaultText>Minecart</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1117</ID>
+      <DefaultText>Apart from a few flecks of soot, the supplies on this cart are untouched. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1118</ID>
+      <DefaultText>Embers still smolder in these blackened ruins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1119</ID>
+      <DefaultText>There are an assortment of maps showing the nearby passes leading to Durgan's Battery on the table. You can see faded circles of ink around choke points and open terrain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1120</ID>
+      <DefaultText>This pale, rough stone doesn't resemble any other formation in the area.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1121</ID>
+      <DefaultText>The shallow reserves of water in this trough have frozen over.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1122</ID>
+      <DefaultText>"Wymarc Homestead - No Trespassing!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1123</ID>
+      <DefaultText>"To Longwatch Falls and Stalwart"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1124</ID>
+      <DefaultText>Sameth's body is laid out cleanly. You can see that his throat has been torn out and his face has deep scratches in it. His hands are stained a light yellow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1125</ID>
+      <DefaultText>Sameth's body is laid out cleanly. You can see that his throat has been torn out and his face has deep scratches in it. His hands are stained a light yellow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1126</ID>
+      <DefaultText>These stone formations are strangely warm to the touch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1127</ID>
+      <DefaultText>Hollow Pedestal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1128</ID>
+      <DefaultText>The upper edge of this engraved slab has been worn smooth by the hands of travellers eager for some good luck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1129</ID>
+      <DefaultText>Patch of Snow</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1130</ID>
+      <DefaultText>The Radiant Spore's roots have grown into and over this burrow, blocking access. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1131</ID>
+      <DefaultText>The throat of the vithrack has been torn out, and deep gouges have been scratched into its face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1132</ID>
+      <DefaultText>The light from these mushrooms illuminates the dust in the air, revealing the thick clouds of spores. You feel your nose tense up as you breathe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1133</ID>
+      <DefaultText>Minerals from the stalactite overhead have condensed on this small web. Clean water falls from the web and coalesces below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1134</ID>
+      <DefaultText>Tiny spiders run across the web in droves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1135</ID>
+      <DefaultText>Wrapped up in a bundle of webs, you can see small, spiked vithrack eggs. Periodically they pulse with movement from within.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1136</ID>
+      <DefaultText>Small pods dangle from the thin spire, tethered by strands of webbing. You can pick out a few dark shapes curled up inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1137</ID>
+      <DefaultText>As large as these mushrooms are, you see far vaster forms dotting the swamp beyond the treeline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1138</ID>
+      <DefaultText>Gaps between the stones reveal a hollow space, lined with birds' nests.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1139</ID>
+      <DefaultText>Beneath the water's murky surface lie worn engravings and ancient stones, buried in the silt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1140</ID>
+      <DefaultText>Simply but sturdily constructed, these platforms and shacks appear to be connected by rope ladders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1141</ID>
+      <DefaultText>The plumes of gas ejected by these vents have a strong, acrid odor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1142</ID>
+      <DefaultText>Pile of Cogs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1143</ID>
+      <DefaultText>Yellow, gelatinous residue lines the bottom of the broken tube.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1144</ID>
+      <DefaultText>What seems like half a mountain's worth of snow has tumbled down across the trade road, blocking further passage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1145</ID>
+      <DefaultText>This crude arrangement of antlers, bones and sticks exudes a strong, fishy odor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1146</ID>
+      <DefaultText>Standing by the pedestal, you can hear a low, hollow sound, as if the stone were set over a well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1147</ID>
+      <DefaultText>Pile of Stones</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1148</ID>
+      <DefaultText>Like a living prison, thick arms of coral have grown around an assortment of old, weathered relics.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1149</ID>
+      <DefaultText>Despite the warmth of the nearby fires, a thin layer of frost clings to this store of supplies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1150</ID>
+      <DefaultText>The craftsmanship that gave form to this statue appears too skilled and refined to come from mere mortal hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1151</ID>
+      <DefaultText>Ore veins trace patterns across the walls of the mining tunnels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1152</ID>
+      <DefaultText>Scattered spots of yellow powder blotch the surface of the barrels. The stench of sulfur lingers in the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1153</ID>
+      <DefaultText>A barrier lies across this doorway, humming with a strange energy. You can see no obvious way past it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1154</ID>
+      <DefaultText>A yellow-tinged vapor gusts occasionally from these vents, leaving an acrid odor in the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1155</ID>
+      <DefaultText>Herla's Supplies
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1156</ID>
+      <DefaultText>Undisturbed by the high winds above, a mist hides the depths of this chasm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1157</ID>
+      <DefaultText>Currents of wind bounce off the jagged rocks, rising to meet your face with a freezing touch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1158</ID>
+      <DefaultText>As if thrown into the chasm, skeletal remains rest precariously on the ledges of this cliff as far as you can see.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1159</ID>
+      <DefaultText>An angry wind whistles as it twists around the frozen fingers of this giant skeletal hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1160</ID>
+      <DefaultText>Ice has built upon every space between the bones of this skeletal hand, forming a slippery incline into the jagged cliffs below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1161</ID>
+      <DefaultText>Protruding from the side of the cliff, what appears to be a massive hip bone lies encrusted in a prison of rocks and ice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1162</ID>
+      <DefaultText>A coppery sheen glistens, under the layers of ice that cling around this giant femur, with the colors of a rainbow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1163</ID>
+      <DefaultText>This giant wrist bone ends without providing any clues as to the location of its matching hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1164</ID>
+      <DefaultText>The structure behind this giant ribcage appears to have been built around it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1165</ID>
+      <DefaultText>The strange crystal formations of this rock, intact even after their collision against the thick bones of this giant skull, seem to radiate with a warmth of their own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1166</ID>
+      <DefaultText>Judging by the distance to the nearby skull, a tremendous force severed this vertebrae from the rest of its giant body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1167</ID>
+      <DefaultText>The cracks on this jawbone suggest that a forceful blow separated it from its skull.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1168</ID>
+      <DefaultText>Korbal's Supplies</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1170</ID>
+      <DefaultText>These glyphs seem similar to those seen in the Battery, but they are too worn to make out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1171</ID>
+      <DefaultText>Heavy stones block the hall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1172</ID>
+      <DefaultText>Lard-streaked pots and dirty cups are stacked next to a note: "I COOK, YOU WASH."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1173</ID>
+      <DefaultText>Between red hand prints, a clump of hair dangles from a stain of thick, coagulated blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1174</ID>
+      <DefaultText>Oozing Tree Root</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1175</ID>
+      <DefaultText>You recognize this rigid, blue-tinged corpse as that of Gamel, the mine worker.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1176</ID>
+      <DefaultText>Anvil</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1177</ID>
+      <DefaultText>Under the pillow are a child's crude charcoal drawings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1178</ID>
+      <DefaultText>This cot smells smoky. It's stained with black powder and ash.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1179</ID>
+      <DefaultText>Warm drippings simmer at the bottom of this pot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1180</ID>
+      <DefaultText>Wheels and levers from minecarts lay scattered.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1181</ID>
+      <DefaultText>Black Powder - Handle with Care!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1182</ID>
+      <DefaultText>Fish bones lie among the coals.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1183</ID>
+      <DefaultText>Someone carved a swirling crescent into the bench.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1184</ID>
+      <DefaultText>This yurt reeks of stale sweat. There's only one bedroll inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1185</ID>
+      <DefaultText>This warped breastplate is still warm from the forge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1186</ID>
+      <DefaultText>This smooth anvil hardly looks like it's seen use.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1187</ID>
+      <DefaultText>You can see your own reflection in these shields.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1188</ID>
+      <DefaultText>Cheap perfumes line the bottom shelf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1189</ID>
+      <DefaultText>Lumps of iron ore fill the cart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1190</ID>
+      <DefaultText>Fresh coals lie at the bottom of the smelter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1191</ID>
+      <DefaultText>Tiny, perfect motes of snow rise and drift away on an unseen breeze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1192</ID>
+      <DefaultText>The grass ripples and heaves, like the flank of a breathing animal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1193</ID>
+      <DefaultText>Small fish dart between the stones, little flickers of color there and gone again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1194</ID>
+      <DefaultText>You gaze at the stone's surface, and find yourself reflected there, your eyes bright as stars.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1195</ID>
+      <DefaultText>The totem murmurs as you pass, too softly to understand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1196</ID>
+      <DefaultText>Every log of this home is coated in fine hairs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1197</ID>
+      <DefaultText>You draw close to the embers and find the air between you cold. Your arms prickle with goosebumps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1198</ID>
+      <DefaultText>Wind howls through the trees, fluting and musical. But you feel no breeze upon your skin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1199</ID>
+      <DefaultText>Somewhere beneath your feet you hear a low, hollow drumming.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1200</ID>
+      <DefaultText>A trap</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

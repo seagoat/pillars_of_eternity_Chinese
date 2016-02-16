@@ -1,0 +1,52 @@
+<StringTableFile>
+  <Name>conversations\12_oldsong\12_bs_oldsong_fangs_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"She won't accept, and the lion-clan's warriors guard her deep inside the Maw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Oernos will run her down. This, I claim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I was a child, and Sul already reigned in Galawain's Maw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"That many seasons? She won't stand a chance against the giant bear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Whatever the outcome, I long for the temple to feel like home again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"A matter of time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"An estramor, I heard. He dealt with the beasts."</DefaultText>
+      <FemaleText>"An estramor, I heard. She dealt with the beasts."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"The outcome, after all, brought much surprise with it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"The Maw can now regain its peace."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

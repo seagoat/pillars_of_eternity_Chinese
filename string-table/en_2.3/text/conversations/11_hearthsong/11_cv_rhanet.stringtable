@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\11_hearthsong\11_cv_rhanet</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"You have the look of a hunter, estramor. Derwn's weapons may protect the man who seeks out misfortune - but my supplies will help you to survive out in the wilds." </DefaultText>
+      <FemaleText>"You have the look of a hunter, estramor. Derwn's weapons may protect the woman who seeks out misfortune - but my supplies will help you to survive out in the wilds." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"A well-placed trap can turn the tide of any hunt. This I know well." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"May I see your wares?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Rhanet nods, gesturing to his goods with a sweep of his arm.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

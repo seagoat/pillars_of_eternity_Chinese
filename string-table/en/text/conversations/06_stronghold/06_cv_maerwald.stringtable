@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\06_stronghold\06_cv_maerwald</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>132</EntryCount>
@@ -546,7 +547,7 @@ He looks off to his side, as if at someone else standing nearby. "Light it."</De
       <ID>104</ID>
       <DefaultText>Before you turn to exit, he tilts his head forward. His eyes lock with yours, cold and dangerous, his voice gravelly.
 
-"Hold! I know your will, Da&#238;! Your actions were seen. You would sooner betray us to the Aedyr land thieves than take orders from me."</DefaultText>
+"Hold! I know your will, Daî! Your actions were seen. You would sooner betray us to the Aedyr land thieves than take orders from me."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -1,7 +1,8 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\00_dyrwood\00_si_cliaban_water_tunnel</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>55</EntryCount>
+  <EntryCount>69</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -286,6 +287,82 @@ At last, your head breaks the surface. You gulp air into your aching lungs and y
     <Entry>
       <ID>57</ID>
       <DefaultText>You pull yourself into the tunnel, executing deft scissor kicks while the passage narrows around you. Before you reach the end, you feel your lungs hitting their limit and turn back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Put on Iverra's Diving Helmet and swim into the tunnel.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>You place the helmet over your head, and press forward. It does little to ward off the chill of the stream, but air, at least, is in plentiful supply. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>The current pushes you through the tunnel faster and faster, tugging you downward. Over your head, the tunnel narrows and drops, leaving only a thin pocket of air. You take a final deep breath before the current drags you into the depths.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Rays of light pierce the darkness, but the current is moving too fast now for you to see more than flickering glimpses as you speed by.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>You keep your hands in front of yourself and focus on avoiding the jagged rocks that appear suddenly in the darkness, jutting from the walls. 
+
+A light winks at you up ahead. You're approaching it fast, but it looks to be the mouth of a second, smaller tunnel. You might be able to reach it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Continue with the current.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>You rush past the side tunnel and see a corkscrew turn up ahead. You angle your body with the current just in time to avoid the onrushing wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>The last of the light disappears behind you. You can no longer see the walls around you. You extend your feet outwards and hope for the best.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Your foot strikes an outcropping. Your arm grazes another. The pain has you gritting your teeth, but it's not as bad as you'd feared. Either the cold waters have numbed your skin or you've slowed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>A halo of light appears above you. The current is no longer pushing you toward it, so you kick, push, and twist your body up, the surface always seeming just out of reach.
+ 
+At last, your head breaks the surface. Crawling out of the water, you look at the cavern around you as you massage feeling back into your aching, cold-numbed limbs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Swim toward the glint.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>You wrap your fingers around the rocks lining the tunnel and peer inside. The tunnel comes to a dead end, but something glints among the rocks at the far side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>You pull yourself into the tunnel, which narrows as you progress. At the end, you find a skeleton with a handle protruding from its ribs. You pull it free and push off from the wall, propelling yourself back toward the main tunnel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Swirling and tumbling through the darkness of the tunnel, you at last see a halo of light above, and you swim and kick toward it.
+
+At last, your head breaks the surface. Crawling out of the water, you look at the cavern around you as you massage feeling back into your aching, cold-numbed limbs.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

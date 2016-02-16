@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\12_twin_elms_oldsong\12_tsk_songs_of_the_wild</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>16</EntryCount>
@@ -38,7 +39,7 @@ Delem believes that if he can consume the flesh of three rare songbirds, they wi
       <ID>20000</ID>
       <DefaultText>Delem gave me some useful information about the birds he seeks.
 
-The T&#238;am is a favorite among Glanfathans, usually kept in cages but uncommon to find nevertheless.
+The Tîam is a favorite among Glanfathans, usually kept in cages but uncommon to find nevertheless.
 
 The Shardwing is a small bird that tends to live in the underbrush and, usually, near large adra structures where its iridescent turquoise feathers blend against the rock.
 
@@ -52,7 +53,7 @@ Finally, Delem wants a Cloudsinger, an extremely reclusive and hard to find bird
     </Entry>
     <Entry>
       <ID>20002</ID>
-      <DefaultText>I found a T&#238;am songbird inside a home in the Hearthsong district.</DefaultText>
+      <DefaultText>I found a Tîam songbird inside a home in the Hearthsong district.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

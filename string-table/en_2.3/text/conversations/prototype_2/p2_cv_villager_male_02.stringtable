@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\prototype_2\p2_cv_villager_male_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Have you seen our temple? We'll make a proper town out of this place someday."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Now we just need a whorehouse - that's my kind of worship."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Hard to find entertainment so far from big towns. The frontier calls for strong spirits, and also for ugly faces!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I bet you anything that this 'missing' girl up and left because this place is so dull."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

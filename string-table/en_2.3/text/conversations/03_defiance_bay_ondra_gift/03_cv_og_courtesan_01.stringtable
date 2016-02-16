@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_og_courtesan_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"You must be new in town. How's about I give you a proper welcome?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I've got time and more for you, gorgeous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The courtesan winks at you and grins.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\01_defiance_bay_copperlane\01_bs_key</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Feels nice to kick back after a few expeditions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Been out to Caed Nua yet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The orlan woman nods at you, a cup of wine in hand and a scepter across her lap.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

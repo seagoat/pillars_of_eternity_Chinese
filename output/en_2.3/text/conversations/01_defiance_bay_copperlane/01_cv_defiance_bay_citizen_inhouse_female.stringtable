@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_defiance_bay_citizen_inhouse_female</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「你 -你 是 誰 ？你 在 這 做 什 麼 ？」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「出 去 ！立 馬 出 去 ！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「請 離 開 ，不 然 我 就 要 叫 守 衛 了 ！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「小 偷 ！立 馬 從 我 的 房 子 裡 出 去 ！」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

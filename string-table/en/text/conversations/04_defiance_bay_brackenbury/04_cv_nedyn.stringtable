@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\04_defiance_bay_brackenbury\04_cv_nedyn</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>107</EntryCount>
@@ -186,7 +187,7 @@ She sighs. "Which can make it rather difficult to get the information we need."<
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"'Waidwen's Legacy' refers to the rise in Hollowborn children in the Dyrwood in recent years. Some have also connected it to so-called b&#238;a&#373;acs that blow through Eir Glanfath. There's hardly any reliable data on those, though, so I can't really comment."</DefaultText>
+      <DefaultText>"'Waidwen's Legacy' refers to the rise in Hollowborn children in the Dyrwood in recent years. Some have also connected it to so-called bîaŵacs that blow through Eir Glanfath. There's hardly any reliable data on those, though, so I can't really comment."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

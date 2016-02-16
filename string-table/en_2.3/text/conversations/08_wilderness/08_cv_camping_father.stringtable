@@ -1,0 +1,62 @@
+<StringTableFile>
+  <Name>conversations\08_wilderness\08_cv_camping_father</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Good tidings to you! Here for some fishing? Me and the lad are here for a few days. Brought a whole mess of camping supplies so we can stay out here for a good long while."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Good tidings to you! Here for some fishing? Me and the lass are here for a few days. Brought a whole mess of camping supplies so we can stay out here for a good long while."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Hope we get some bites! Safe travels, stranger!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Hello, there! Here for some hunting? I'm teaching the lad to snare rabbits, myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Brought a whole mess of camping supplies, so we can stay out here for a good long while. Think we can catch a whole brace of hares if we put our minds to it. Right, son?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Hello, there! Here for some hunting? I'm teaching the lass to snare rabbits, myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Hunting on an empty stomach's hard, but it builds character!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I feel good about our chances."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Nothing like a good bit of fishing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"No!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Brought a whole mess of camping supplies, so we can stay out here for a good long while. Think we can catch a whole brace of hares if we put our minds to it. Right, sweetheart?" </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

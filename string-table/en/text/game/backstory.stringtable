@@ -1,7 +1,8 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\backstory</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>407</EntryCount>
+  <EntryCount>439</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -117,7 +118,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>You have seen visions of another time and place. You were walking in a grand chamber toward a giant machine and a man standing in front of it. You wanted to ask him something, but what it was wasn&#8217;t clear.</DefaultText>
+      <DefaultText>You have seen visions of another time and place. You were walking in a grand chamber toward a giant machine and a man standing in front of it. You wanted to ask him something, but what it was wasn’t clear.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -137,7 +138,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>A third vision of the man you&#8217;ve been searching for seemed to come at some time after the last one you saw. You were attempting to leave the missionary order.</DefaultText>
+      <DefaultText>A third vision of the man you’ve been searching for seemed to come at some time after the last one you saw. You were attempting to leave the missionary order.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -197,7 +198,7 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>You admitted knowing the heretic, but explained that you hadn&#8217;t been close.</DefaultText>
+      <DefaultText>You admitted knowing the heretic, but explained that you hadn’t been close.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -217,7 +218,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>He referred to you as &#8220;Inquisitor,&#8221; and he referred to a growing movement of people gathering around a heretic woman named Iovara ix Ensios. He sought her apprehension.</DefaultText>
+      <DefaultText>He referred to you as “Inquisitor,” and he referred to a growing movement of people gathering around a heretic woman named Iovara ix Ensios. He sought her apprehension.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -237,12 +238,12 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Another vision of Iovara came to you at the docks of the Burial Isle. She was concerned for her home city, and was contemplating building an army to counter Thaos&#8217; inquisition. You did as Thaos had asked, telling her she should seek refuge in Ossionus, where in fact the king was already prepared to turn her over to the inquisition.</DefaultText>
+      <DefaultText>Another vision of Iovara came to you at the docks of the Burial Isle. She was concerned for her home city, and was contemplating building an army to counter Thaos’ inquisition. You did as Thaos had asked, telling her she should seek refuge in Ossionus, where in fact the king was already prepared to turn her over to the inquisition.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>In the court of the Penitents, you witnessed a moment from Iovara&#8217;s trial. Thaos pressed her on charges of heresy and ordered her torture, but she did not confess - at least, not in the way that Thaos had intended.</DefaultText>
+      <DefaultText>In the court of the Penitents, you witnessed a moment from Iovara’s trial. Thaos pressed her on charges of heresy and ordered her torture, but she did not confess - at least, not in the way that Thaos had intended.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -292,7 +293,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Calisca had voiced her disapproval at the thought of resting in a place where you might be killed in your sleep by looters. You chose to press on, despite Heodan&#8217;s wounds.</DefaultText>
+      <DefaultText>Calisca had voiced her disapproval at the thought of resting in a place where you might be killed in your sleep by looters. You chose to press on, despite Heodan’s wounds.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -327,12 +328,12 @@
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>When you arrived in Gilded Vale, you found that the town was not the growing and prosperous settlement you had been told it was. Instead you found a dying town at the mercy of a phenomenon called Waidwen&#8217;s Legacy, and received a cold welcome from the town magistrate. Your prospects of settling in Gilded Vale looked bleaker as it was, but they may have been totally dashed when the tolling bells of Raedric&#8217;s Hold announced that their master&#8217;s child had not been born in good health. The magistrate advised you to rest at an inn.</DefaultText>
+      <DefaultText>When you arrived in Gilded Vale, you found that the town was not the growing and prosperous settlement you had been told it was. Instead you found a dying town at the mercy of a phenomenon called Waidwen’s Legacy, and received a cold welcome from the town magistrate. Your prospects of settling in Gilded Vale looked bleaker as it was, but they may have been totally dashed when the tolling bells of Raedric’s Hold announced that their master’s child had not been born in good health. The magistrate advised you to rest at an inn.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>When you tried to sleep, it was restless, full of encroaching whispers, and you experienced a vivid nightmare. You saw an old dwarf woman hanging from the tree in the center of Gilded Vale. She said a single word, &#8220;Watcher.&#8221;</DefaultText>
+      <DefaultText>When you tried to sleep, it was restless, full of encroaching whispers, and you experienced a vivid nightmare. You saw an old dwarf woman hanging from the tree in the center of Gilded Vale. She said a single word, “Watcher.”</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -347,7 +348,7 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>You arrived at Caed Nua to find the place haunted by hostile spirits, its master&#8217;s whereabouts unknown to the steward who watches over the keep.</DefaultText>
+      <DefaultText>You arrived at Caed Nua to find the place haunted by hostile spirits, its master’s whereabouts unknown to the steward who watches over the keep.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -357,17 +358,17 @@
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Maerwald&#8217;s body was taken over by a personality from one of his past lives, and you were forced to slay him. You bound his soul to the keep to remain there as a vigilant guardian.</DefaultText>
+      <DefaultText>Maerwald’s body was taken over by a personality from one of his past lives, and you were forced to slay him. You bound his soul to the keep to remain there as a vigilant guardian.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Maerwald&#8217;s body was taken over by a personality from one of his past lives, and you were forced to slay him. You freed his soul from the keep, allowing it to proceed onward to the next life.</DefaultText>
+      <DefaultText>Maerwald’s body was taken over by a personality from one of his past lives, and you were forced to slay him. You freed his soul from the keep, allowing it to proceed onward to the next life.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Maerwald&#8217;s body was taken over by a personality from one of his past lives, and you were forced to slay him. You searched his soul for valuable knowledge and caught a glimpse of a room deep below the keep that may contain something of value.</DefaultText>
+      <DefaultText>Maerwald’s body was taken over by a personality from one of his past lives, and you were forced to slay him. You searched his soul for valuable knowledge and caught a glimpse of a room deep below the keep that may contain something of value.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -412,17 +413,17 @@
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>In the ruin of Cl&#238;aban Rilag, you discovered more ashen bodies of members of the Leaden Key, apparently dead after an act of self-sacrifice that had somehow catalyzed the Engwithan machine there. As a Watcher, you were able to relive one of the agents&#8217; last moments, and from that it became clear that these machines play a role in Waidwen&#8217;s Legacy.</DefaultText>
+      <DefaultText>In the ruin of Clîaban Rilag, you discovered more ashen bodies of members of the Leaden Key, apparently dead after an act of self-sacrifice that had somehow catalyzed the Engwithan machine there. As a Watcher, you were able to relive one of the agents’ last moments, and from that it became clear that these machines play a role in Waidwen’s Legacy.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>In Brackenbury Sanitarium, you found the man you were searching for. He had taken possession of the body of a patient there, and he seemed to be using it to ruin the career of a man who had once been one of Dyrwood&#8217;s most prominent animancers, a man who had been working on a cure for Waidwen&#8217;s Legacy. The man wasn&#8217;t interested in helping you with your Awakening - at least not voluntarily. He made a hasty exit from the sanitarium, sending his soul from body to body, and left you to clean up the mess.</DefaultText>
+      <DefaultText>In Brackenbury Sanitarium, you found the man you were searching for. He had taken possession of the body of a patient there, and he seemed to be using it to ruin the career of a man who had once been one of Dyrwood’s most prominent animancers, a man who had been working on a cure for Waidwen’s Legacy. The man wasn’t interested in helping you with your Awakening - at least not voluntarily. He made a hasty exit from the sanitarium, sending his soul from body to body, and left you to clean up the mess.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>You were summoned by Lady Webb of Dunryd Row, who seemed to know something about who you were and what you&#8217;d done.</DefaultText>
+      <DefaultText>You were summoned by Lady Webb of Dunryd Row, who seemed to know something about who you were and what you’d done.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -432,7 +433,7 @@
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>With everything you&#8217;ve seen you were able to convince Lady Webb that the Leaden Key was behind Waidwen&#8217;s Legacy, and that their plot involved animancers taking the blame for it. She advised you to seek out Duc Aevar Wolf-grin, who is currently holding hearings at the palace on the future of animancy. She thought he would listen to your case, provided you were able to secure an invite to the hearings.</DefaultText>
+      <DefaultText>With everything you’ve seen you were able to convince Lady Webb that the Leaden Key was behind Waidwen’s Legacy, and that their plot involved animancers taking the blame for it. She advised you to seek out Duc Aevar Wolf-grin, who is currently holding hearings at the palace on the future of animancy. She thought he would listen to your case, provided you were able to secure an invite to the hearings.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -467,7 +468,7 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>You followed Thaos&#8217; trail to Dunryd Row, where you found all its ciphers murdered, including Lady Webb. But in examining the last moments of her life through her soul, you were able to learn that Thaos was headed next for Twin Elms.</DefaultText>
+      <DefaultText>You followed Thaos’ trail to Dunryd Row, where you found all its ciphers murdered, including Lady Webb. But in examining the last moments of her life through her soul, you were able to learn that Thaos was headed next for Twin Elms.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -487,12 +488,12 @@
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>You communed with the gods in Teir Evron, and learned that Thaos&#8217; plot does not end with the destruction of animancy in Dyrwood. He intends to give the souls he displaced to Woedica, a move that would likely restore her dominion over the other gods.</DefaultText>
+      <DefaultText>You communed with the gods in Teir Evron, and learned that Thaos’ plot does not end with the destruction of animancy in Dyrwood. He intends to give the souls he displaced to Woedica, a move that would likely restore her dominion over the other gods.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Rymrgand asked you to seal a doorway to his domain, the Frost-Hewn Breach, in his temple of Noonfrost. It was being opened by a group of pale elves seeking a final death and removal from the churn of Berath&#8217;s Wheel.</DefaultText>
+      <DefaultText>Rymrgand asked you to seal a doorway to his domain, the Frost-Hewn Breach, in his temple of Noonfrost. It was being opened by a group of pale elves seeking a final death and removal from the churn of Berath’s Wheel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -537,7 +538,7 @@
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Hylea gave you a vision of a winged terror that had taken over her temple, and there you found a dragon protecting its young. You slew the dragon, making the area safe for Hylea&#8217;s followers to return.</DefaultText>
+      <DefaultText>Hylea gave you a vision of a winged terror that had taken over her temple, and there you found a dragon protecting its young. You slew the dragon, making the area safe for Hylea’s followers to return.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -587,7 +588,7 @@
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>At the far end of Breith Eaman you met Iovara, who remembered you from your life long ago. She said you had come to visit her once after she had been sentenced, and that it was to ask her if her teachings were true, that the gods weren&#8217;t real. She had given you an answer, but no proof, and still unsatisfied, you had gone to confront Thaos about it in Sun in Shadow. She suggested that perhaps your soul still sought resolution in this matter, though Thaos would not be likely to provide it.</DefaultText>
+      <DefaultText>At the far end of Breith Eaman you met Iovara, who remembered you from your life long ago. She said you had come to visit her once after she had been sentenced, and that it was to ask her if her teachings were true, that the gods weren’t real. She had given you an answer, but no proof, and still unsatisfied, you had gone to confront Thaos about it in Sun in Shadow. She suggested that perhaps your soul still sought resolution in this matter, though Thaos would not be likely to provide it.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -612,17 +613,17 @@
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>You sent Thaos&#8217; soul to the Cycle, that he might be forced to live with his failure for the remainder of his days, and understand the futility of his mission.</DefaultText>
+      <DefaultText>You sent Thaos’ soul to the Cycle, that he might be forced to live with his failure for the remainder of his days, and understand the futility of his mission.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>You tore Thaos&#8217; soul apart, a mercy for a man living under the burden of such a secret as the one protected by the Leaden Key.</DefaultText>
+      <DefaultText>You tore Thaos’ soul apart, a mercy for a man living under the burden of such a secret as the one protected by the Leaden Key.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>You sent Thaos&#8217; soul to Breith Eaman, sentencing it to remain there forever, granting justice to all those he had wronged and preventing him from ever resuming his plots.</DefaultText>
+      <DefaultText>You sent Thaos’ soul to Breith Eaman, sentencing it to remain there forever, granting justice to all those he had wronged and preventing him from ever resuming his plots.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -632,12 +633,12 @@
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>As punishment for his crimes and for his personal affronts to you, you tore Thaos&#8217; soul apart, destroying him forever.</DefaultText>
+      <DefaultText>As punishment for his crimes and for his personal affronts to you, you tore Thaos’ soul apart, destroying him forever.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>With Thaos&#8217; death, you were able to receive confirmation at last of the origin and nature of the gods, and that answer seemed to bring some relief to your soul. The hallucinations and whispers receded. All that remained was to decide what to do with the souls trapped in Sun in Shadow.</DefaultText>
+      <DefaultText>With Thaos’ death, you were able to receive confirmation at last of the origin and nature of the gods, and that answer seemed to bring some relief to your soul. The hallucinations and whispers receded. All that remained was to decide what to do with the souls trapped in Sun in Shadow.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -897,12 +898,12 @@
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>In your homeland, [Player Culture], your knowledge of nature allowed you to extract powerful substances from plants that could be used to alter the states of people&#8217;s minds and bodies, and you would supply these substances to others in exchange for favors and profit.</DefaultText>
+      <DefaultText>In your homeland, [Player Culture], your knowledge of nature allowed you to extract powerful substances from plants that could be used to alter the states of people’s minds and bodies, and you would supply these substances to others in exchange for favors and profit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>In your homeland, [Player Culture], you developed an interest in nature&#8217;s most basic elements, and how one could be transformed into another, and it led you to become an alchemist.</DefaultText>
+      <DefaultText>In your homeland, [Player Culture], you developed an interest in nature’s most basic elements, and how one could be transformed into another, and it led you to become an alchemist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -932,7 +933,7 @@
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>But your family&#8217;s secret would not remain so forever, and when the source of your family&#8217;s title came to light, you were disgraced, never again to be considered an equal among the other nobles.</DefaultText>
+      <DefaultText>But your family’s secret would not remain so forever, and when the source of your family’s title came to light, you were disgraced, never again to be considered an equal among the other nobles.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -952,7 +953,7 @@
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>But you are not in your family&#8217;s good graces, and they would deny your existence if they could.</DefaultText>
+      <DefaultText>But you are not in your family’s good graces, and they would deny your existence if they could.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -997,7 +998,7 @@
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>Everything changed one day when you returned to your workshop to find years&#8217; worth of your work stolen out from under you, leaving you without a copper to your name.</DefaultText>
+      <DefaultText>Everything changed one day when you returned to your workshop to find years’ worth of your work stolen out from under you, leaving you without a copper to your name.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1012,12 +1013,12 @@
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>You followed stories of other people&#8217;s good fortunes to find that you had arrived too late, and the land was stripped bare, all its resources exhausted.</DefaultText>
+      <DefaultText>You followed stories of other people’s good fortunes to find that you had arrived too late, and the land was stripped bare, all its resources exhausted.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>But the lifestyle wasn&#8217;t satisfying to you, and the time came when you realized it was time to move on.</DefaultText>
+      <DefaultText>But the lifestyle wasn’t satisfying to you, and the time came when you realized it was time to move on.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1052,7 +1053,7 @@
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>But few rebellions are fated to succeed, and your cause was crushed under the heel of your oppressor&#8217;s boot, leaving you with little to fight for.</DefaultText>
+      <DefaultText>But few rebellions are fated to succeed, and your cause was crushed under the heel of your oppressor’s boot, leaving you with little to fight for.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1137,7 +1138,7 @@
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>But as to why they&#8217;re looking for you, you have no idea. All you know is that you have to keep moving.</DefaultText>
+      <DefaultText>But as to why they’re looking for you, you have no idea. All you know is that you have to keep moving.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1827,12 +1828,12 @@
     </Entry>
     <Entry>
       <ID>366</ID>
-      <DefaultText>In Gilded Vale, you met Ed&#233;r, a local farmer and follower of Eothas. His family's faith - and his brother's role in the Saint's War - had earned him the suspicion of the local authorities, so you decided to make your way out of town together.</DefaultText>
+      <DefaultText>In Gilded Vale, you met Edér, a local farmer and follower of Eothas. His family's faith - and his brother's role in the Saint's War - had earned him the suspicion of the local authorities, so you decided to make your way out of town together.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>367</ID>
-      <DefaultText>You finally learned that Ed&#233;r's brother, Woden, fought for Readceras in the Saint's War after meeting Waidwen himself. Ed&#233;r came to realize that he may never know why his brother chose to support Waidwen.</DefaultText>
+      <DefaultText>You finally learned that Edér's brother, Woden, fought for Readceras in the Saint's War after meeting Waidwen himself. Edér came to realize that he may never know why his brother chose to support Waidwen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1892,7 +1893,7 @@
     </Entry>
     <Entry>
       <ID>379</ID>
-      <DefaultText>At great risk to her own position in the Frerm&#224;s mes Canc Suolias, Pallegina changed the terms of the ducs' trade agreement to prevent the Republics from stealing the Glanfathans' trade with the Dyrwood.</DefaultText>
+      <DefaultText>At great risk to her own position in the Frermàs mes Canc Suolias, Pallegina changed the terms of the ducs' trade agreement to prevent the Republics from stealing the Glanfathans' trade with the Dyrwood.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1957,7 +1958,7 @@
     </Entry>
     <Entry>
       <ID>392</ID>
-      <DefaultText>Ed&#233;r perished in your company.</DefaultText>
+      <DefaultText>Edér perished in your company.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2026,6 +2027,96 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>406</ID>
+      <DefaultText>You reached Stalwart only to find it under attack and half-destroyed by a mob of ogres. You helped the townsfolk defeat them, but the damage was already severe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>Renengild, the mayor of Stalwart, told you about Durgan's Battery, an ancient dwarven fortress, and the town's attempts to reach a powerful forge within it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>You found the ogre matron Beregan and slew her in her clan's cave in the Russetwood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>You found the ogre matron Beregan and reached a truce with her. She promised that her clan would not harm you or Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>You met Galvino, an eccentric and cantankerous old inventor living near Durgan's Battery. He told you about the tradition of "cantecs" among the Pargrunen dwarves and introduced you to the Devil of Caroc, a construct he built.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>The Devil of Caroc, a sentient construct with the soul of a murderer, asked to join you, and you agreed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>The Devil of Caroc revealed that she is still hunting for a man who took part in the purge of her village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>After finding Harmke, the man the Devil of Caroc had sought, you read his soul and explained that he wasn't responsible for what happened in Cold Morn. The Devil let him go.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>After finding Harmke, the man the Devil of Caroc had sought, you read his soul and explained that he was responsible for the destruction of the Devil's home in Cold Morn. She took her revenge on him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>The Devil of Caroc has been destroyed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>While in Stalwart, you met Zahua, a monk from Ixamitl, and invited him to travel with you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>Zahua told you about his training as a warrior and about his master, who held back the final part of Zahua's instruction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>Zahua has perished.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>You learned how to open the gates of Durgan's Battery and became the first person in two centuries to enter the old fortress.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>At the bottom of Durgan's Battery, you found the White Forge, which the Pargrunen dwarves used to bind themselves into the fortress.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>After speaking with the Battery's komendants, you released the souls of the dwarves back to the Wheel, where they can rejoin the cycle of life and death.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>After speaking with the Battery's komendants, you bound the souls of the dwarves to the White Forge so that their connection to it shall forever strengthen its yield.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>After speaking with the Battery's komendants, you bound the souls of the dwarves to the cannons atop the Battery so that they can improve the defense of the mighty fortress they spent generations building.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>424</ID>
       <DefaultText>In time, civilization settled on the lands you called home, and spoiled them, and you were uprooted.</DefaultText>
       <FemaleText />
@@ -2038,6 +2129,76 @@
     <Entry>
       <ID>426</ID>
       <DefaultText>But you wore out the patience of the locals, and eventually they chased you from your own lands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>After your adventures at Durgan's Battery, you dreamed of an army that descended from the mountains and hunted you to your keep. You realized that something in the White March would destroy you if left unchecked.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>You learned of the Iron Flail, an armed band from Readceras that had built a fort near Durgan's Battery in hopes of seizing the White Forge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>At the Iron Flail's fort, you encountered a mysterious Ondrite. She killed herself before you could speak with her, but in her departing soul, you saw the Abbey of the Fallen Moon, the key to stopping the army of Eyeless.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>You reached the Abbey of the Fallen Moon and discovered Abydon's ancient corpse. You learned that he had sacrificed himself to save Eora's civilizations from a fragment of the moon, which Ondra had pulled from the sky.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>You reforged Abydon's Hammer with a fragment that you'd found among his remains. Thus armed, you were ready to face the Eyeless.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>You tracked the Eyeless to a hollow piece of the moon buried at Cayron's Scar. You destroyed this fragment with the Eyeless inside, ending their threat once and for all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>In the essence of the Eyeless, you recognized pieces of Abydon, their original creator. You restored this essence to Abydon, giving him the memory of his death and his former purpose of preservation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>In the essence of the Eyeless, you recognized pieces of Abydon, their original creator. You restored this essence to Abydon, giving him the memory of his death but tempering his former purpose of preservation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>In the essence of the Eyeless, you recognized pieces of Abydon, their original creator. You dispersed this essence so that Abydon would not remember his death or his former purpose of preservation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>In Stalwart, you met Maneha, an Ondrite Giftbearer. She explained that she was searching for the Abbey of the Fallen Moon, where she was bound to deposit tokens of the faithful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>You learned that Maneha carried a terrible burden - a memory of her crimes in a past life. She confided that this was what she truly intended to leave behind at the abbey.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>With your help, Maneha found the Salt Well at the Abbey of the Fallen Moon. There, she surrendered her painful memory to Ondra. She emerged with no recollection of the events that had haunted her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>With your help, Maneha found the Salt Well at the Abbey of the Fallen Moon. Yet you convinced her to hold onto this memory and live with her past.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>Maneha died during your adventures together.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

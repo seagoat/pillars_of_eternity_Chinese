@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\loadingtips</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>95</EntryCount>
@@ -465,7 +466,7 @@
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Soulbound weapons gain additional powers as the wielder meets specific requirements. The weapon's description always lists the next requirement.</DefaultText>
+      <DefaultText>Soulbound items gain additional powers as the wielder meets specific requirements. The item's description always lists the next requirement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

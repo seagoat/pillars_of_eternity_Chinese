@@ -1,0 +1,205 @@
+<StringTableFile>
+  <Name>conversations\00_dyrwood\00_cv_sevis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A man turns to face you, wiping blood from his estoc. His knit brows betray a moment of confusion. But as he watches you, a slow, confident smile creeps over his face. "The Iron Brand does not meet many travelers this far from the road. What would they be doing out here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>An elven man cocks his head at the other. "Probably after that dragon egg, same as us, boss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>A dwarf curses and spits into the grass. "It's a rhetorical question, you dimwit." He tightens his grip on his sword. "Everyone knows the roads between the villages are crawling with brigands. They're obviously bandits... same as us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Attack] "Do your worst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Surely we can divide the spoils somehow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I'll just head back to the road."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Why would you want a dragon egg?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>He laughs. "To sell it, of course. If I wanted to eat it, I would have grabbed some pigs from that farm in Dyrford, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"An excellent idea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Just leave your coppers and equipment in a pile at your feet..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"And we'll call that a fair split."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Boss, I don't think they're going for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I would love to let you walk away, but Raolf has this thing against shooting people in the back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The bandits look at one another. The elf opens his mouth to speak, but the others are quick to silence him.
+
+Their leader flashes that confident smile again. "An egg in good condition could easily fetch 400 pands from the right buyer. But, since we were here first, we'd have to add a finder's fee to account for our time and effort..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The elf raises his pistol. "You know I've been practicing lots! I could hit them on either side now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Lie] "Only that drakes mark their eggs. So you'd better hope you've sold it to the next poor sod before the mother comes looking for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>He grins. "I appreciate the warning, but I think I'll take my chances."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>The other bandits whisper amongst each other. The leader holds up his hand. "Quiet! You can't seriously believe this... and even if it is true, we'll sell it before that happens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Let's make a deal. You walk away, and I'll pay you the egg's value."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Pay 800 cp.] "Take it. Now go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"You can't be serious. I'm not paying that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"What do you know about dragon eggs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>He shrugs. "They are round and large and they come from dragons and drakes. What else is there to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Plenty, which is why you shouldn't go disturbing their nests."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I'm not taking any chances with drakes. Say what you want, I'm out." She hurries off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"It's a good thing there's a giant egg nearby. Nothing stirs up my appetite like looting corpses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"For once, Raolf, I think you've got the right idea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Careful. It sounds as if you are questioning my honesty..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>He bows. "I am nothing if not a man of business. I can only hope we have dealings again one day. Until then, farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Let her go. That just means a bigger cut for us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Where are you cowards going?" He watches Raolf and Norgar flee with mounting dismay.
+
+He looks back at you. "First things first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"That... doesn't sound good for us." He begins to back away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Raolf. The joke is not funny if I have to explain it to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>He shrugs, raising his blade. "It was worth a try."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>The bandits look at one another. The elf opens his mouth to speak, but the others are quick to silence him.
+
+Their leader flashes that confident smile again. "I thought I pegged you for a mercantile man. An egg in good condition could easily fetch 400 pands from the right buyer. But, since we were here first, we'd have to add a finder's fee to account for our time and effort..."</DefaultText>
+      <FemaleText>The bandits look at one another. The elf opens his mouth to speak, but the others are quick to silence him.
+
+Their leader flashes that confident smile again. "I thought I pegged you for a mercantile woman. An egg in good condition could easily fetch 400 pands from the right buyer. But, since we were here first, we'd have to add a finder's fee to account for our time and effort..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I've seen all sorts of deadly creatures. Few are worse than an angry drake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Excellent idea. A true Shieldbearer, this one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"That... doesn't sound good for us. I've heard stories about the Bleak Walkers..." He begins to back away.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

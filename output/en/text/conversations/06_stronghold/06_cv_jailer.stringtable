@@ -1,7 +1,7 @@
 <StringTableFile>
   <Name>conversations\06_stronghold\06_cv_jailer</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>52</EntryCount>
+  <EntryCount>43</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -49,11 +49,6 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>10</ID>
-      <DefaultText>「我 想 釋 放 盧 肯 。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>11</ID>
       <DefaultText>「釋 放 埃 弗 雷 。」</DefaultText>
       <FemaleText />
@@ -84,29 +79,9 @@
       <FemaleText>「夫 人 ，你 …捕 獲 的 那 頭 生 物 ，克 斯 托 裡 克 …她 一 直 尋 釁 滋 事 。你 想 怎 麼 處 理 ？」</FemaleText>
     </Entry>
     <Entry>
-      <ID>17</ID>
-      <DefaultText>「艾 奧 恩 。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>18</ID>
       <DefaultText>「讓 他 知 道 惹 怒 塞 德 努 亞 主 人 的 下 場 。」</DefaultText>
       <FemaleText>「讓 她 知 道 惹 怒 塞 德 努 亞 主 人 的 下 場 。」</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>19</ID>
-      <DefaultText>「盧 肯 。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>20</ID>
-      <DefaultText>「埃 弗 雷 。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>21</ID>
-      <DefaultText>「格 蘭 菲 爾 。」</DefaultText>
-      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
@@ -149,23 +124,8 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>32</ID>
-      <DefaultText>「囚 犯 們 很 不 安 分 ，主 人 。你 想 我 怎 麼 處 理 ？」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>33</ID>
       <DefaultText>「三 鞭 。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>34</ID>
-      <DefaultText>「夠 了 。」</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>35</ID>
-      <DefaultText>「囚 犯 已 嚴 重 受 傷 。夠 了 嗎 ，主 人 ？」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -220,11 +180,6 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>「馬 上 ，主 人 。」</DefaultText>
-      <FemaleText>「馬 上 ，夫 人 。」 </FemaleText>
-    </Entry>
-    <Entry>
-      <ID>47</ID>
       <DefaultText>「馬 上 ，主 人 。」</DefaultText>
       <FemaleText>「馬 上 ，夫 人 。」 </FemaleText>
     </Entry>

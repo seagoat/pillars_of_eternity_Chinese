@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\03_defiance_bay_ondra_gift\03_bs_crucible_knight</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Keep your guard up and your weapon ready while you're in the Gift."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"The Salty Mast isn't the most reputable tavern, but Maea keeps it under control."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"The Vailians have a trading company here if you're looking to buy exotic goods."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I need to get back to my duties."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

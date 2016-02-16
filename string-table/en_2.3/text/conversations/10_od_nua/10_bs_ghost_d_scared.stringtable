@@ -1,0 +1,47 @@
+<StringTableFile>
+  <Name>conversations\10_od_nua\10_bs_ghost_d_scared</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"H-hello? Is someone there?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Oh, gods, I can't... I can't see..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I cannot hear myself. How am I to tell him anything? Please, there is nothing here!" </DefaultText>
+      <FemaleText>"I cannot hear myself. How am I to tell her anything? Please, there is nothing here!" </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Please... Will I never be out of this place?" You hear a gulping sob. "T-turn back! Come no further! The gods cannot reach us." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I'm here." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Who are you?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Say nothing.] </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I told him. I told him, please, please let me out. Let me out. Let me out!" </DefaultText>
+      <FemaleText>"I told her. I told her, please, please let me out. Let me out. Let me out!" </FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

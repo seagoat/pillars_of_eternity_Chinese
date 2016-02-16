@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\04_defiance_bay_brackenbury\04_bs_dunryd_agent</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Kurren's wasting his time with those disappearances."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"It's hard to believe that a respectable man like Lord Gaderman could be involved in such crimes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Well done on bringing Lumdala to justice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Lady Webb is in charge of Hadret House, but she rarely deals with anyone personally."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"There are no secrets in Defiance Bay, not while we're around."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,7 +1,7 @@
 <StringTableFile>
   <Name>game\tutorial</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>48</EntryCount>
+  <EntryCount>49</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -249,6 +249,13 @@
     <Entry>
       <ID>47</ID>
       <DefaultText>使 用 Tab鍵 高 亮 周 圍 環 境 中 的 可 互 動 物 體 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>The White Forge is now available for your use. It has the unique ability to refine Durgan iron ingots. Multiple iron ingots are required to create a single refined ingot. 
+
+After refinement, these ingots can be used at any time in enchanting recipes to augment weapons, shields, and armor with Durgan steel.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

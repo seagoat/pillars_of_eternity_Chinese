@@ -1,0 +1,72 @@
+<StringTableFile>
+  <Name>quests\critical_path\act_1\cp_qst_the_old_watcher</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Old Watcher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Travel to Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Enter the Keep.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Find Maerwald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>The spirit of Caldara de Berranzi, one of Lord Raedric's unfortunate victims, has directed me towards Caed Nua, where I will find a man named Maerwald. Caldara has informed me that I have become something known as a "Watcher," and that this Maerwald is a Watcher as well. Perhaps he can tell me more about what's happening to me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Caed Nua is southeast of Gilded Vale, past the Black Meadow. I will have to travel there if I am to speak with Maerwald. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Caed Nua is impressive in size, but little else... the keep is in complete disrepair. But if Old Maerwald is still lord of this place, then I am likely to find him within. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Inside the keep, I found a spirit entombed within the throne that sits in the great hall. She has opened the way down into the depths of the keep, in the hopes that I might find Maerwald somewhere below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>The keep seems abandoned. There are spirits here, as there were in Gilded Vale. Creatures, too. It seems I will have to explore further if I am to find answers. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Maerwald grew hostile after our conversation, and suddenly attacked me. I had no choice but to kill him. He has given me much to think about. He suggested my soul had been Awakened to past lives, as his had. If Maerwald is any indication, being a Watcher with an Awakened soul comes with a heavy price. He has directed me towards the "city of defiance," which seems as good a place as any to seek out members of the Leaden Key - the group which awoke this affliction within me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Maerwald grew hostile after our conversation, and suddenly attacked me. I had no choice but to kill him. I have bound his soul to the keep of Caed Nua itself to remain in eternal guardianship. He has given me much to think about. He suggested my soul had been Awakened to past lives, as his had. If Maerwald is any indication, being a Watcher with an Awakened soul comes with a heavy price. He has directed me towards the "city of defiance," which seems as good a place as any to seek out members of the Leaden Key - the group which awoke this affliction within me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Maerwald grew hostile after our conversation, and suddenly attacked me. I had no choice but to kill him. I have gleaned what knowledge I could from his spirit, and it has shown me a vision of someplace far below - a secret chamber of some kind, near the bottom, connected to a circular room with a table shaped like the sun. He has given me much to think about. He suggested my soul had been Awakened to past lives, as his had. If Maerwald is any indication, being a Watcher with an Awakened soul comes with a heavy price. He has directed me towards the "city of defiance," which seems as good a place as any to seek out members of the Leaden Key - the group which awoke this affliction within me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Maerwald grew hostile after our conversation, and suddenly attacked me. I had no choice but to kill him. I have released his spirit, freeing Maerwald from his misfortune. He has given me much to think about. He suggested my soul had been Awakened to past lives, as his had. If Maerwald is any indication, being a Watcher with an Awakened soul comes with a heavy price. He has directed me towards the "city of defiance," which seems as good a place as any to seek out members of the Leaden Key - the group which awoke this affliction within me.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,42 @@
+<StringTableFile>
+  <Name>quests\06_stronghold\06_tsk_boss_outlaw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Bounty: Sly Cyrdel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Kill Sly Cyrdel and take his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bring Sly Cyrdel's head to Warden Fyrgen in Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>The notorious outlaw Sly Cyrdel is wanted dead for his crimes. He and his associates were spotted in Magran's Fork.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Sly Cyrdel and his band of outlaws have escaped prison, and were last seen in Magran's Fork. If I can bring back his head as proof that the man is dead, I'll earn a reward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Sly Cyrdel's outlaw days are done. I need only take his head back to Warden Fyrgen, and he will give me my reward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I claimed the bounty on the outlaw Sly Cyrdel.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

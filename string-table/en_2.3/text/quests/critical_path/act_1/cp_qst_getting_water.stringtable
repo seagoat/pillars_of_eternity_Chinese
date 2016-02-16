@@ -1,0 +1,102 @@
+<StringTableFile>
+  <Name>quests\critical_path\act_1\cp_qst_getting_water</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>A Moment's Respite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Return to Odema.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Reach the camp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Collect some springberries to concoct a remedy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Slaughter the caravan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Find Sparfel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Find Sparfel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A sudden sickness has come over me. The caravan master has urged me to make a remedy before my condition worsens. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>I've found the springberry plant Odema was looking for. So long as Sparfel's fetched that water, Odema should be able to get started on that remedy for me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>We have been ambushed by Glanfathan warriors at the river. Sparfel has been killed, and if the screams from camp are any indication, we aren't the only ones under attack. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Odema suggested that a certain tea, brewed with local berries, should cure me. Sparfel has gone to fetch water from the river, but it falls to me to gather some springberries. Odema says they grow on a distinctive bush. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I have tired of the company of my fellow caravanners. Killing them will do far more to improve my mood than a sip of tea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Sparfel seems to be in no hurry to gather water. I should go look for him myself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Sparfel seems to be in no hurry to gather water. I should go look for him myself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I have tired of the company of my fellow caravanners. Killing them will do far more to improve my mood than a sip of tea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I have tired of the company of my fellow caravanners. Killing them will do far more to improve my mood than a sip of riverwater. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Sparfel left his pack by a stream in the wilderness. There's no reason to wait around for him to get water for me now. I'll just do it myself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>The caravan has been ambushed by Glanfathan warriors. Illness is the least of my worries now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Whatever ails me, it has not diminished my abilities. I am rid of my fellow caravanners - but a peculiar wind has picked up in these woods. Illness is the least of my worries now.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

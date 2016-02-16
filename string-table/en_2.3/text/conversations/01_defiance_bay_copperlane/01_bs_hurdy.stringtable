@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\01_defiance_bay_copperlane\01_bs_hurdy</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A burly aumaua raises a hand in greeting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Best to visit Ansl&#246;g's Compass by land. Too many ships been wrecked by the reefs there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Daedon here claims he can hit a pand from a rolling deck."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

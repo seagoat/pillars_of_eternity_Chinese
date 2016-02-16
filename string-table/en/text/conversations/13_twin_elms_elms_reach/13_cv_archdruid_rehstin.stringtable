@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\13_twin_elms_elms_reach\13_cv_archdruid_rehstin</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>64</EntryCount>
@@ -48,7 +49,7 @@ He watches you with eyes like two black pits as he wipes his hatchet on his robe
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"I am the archdruid of the Ethik N&#244;l. For centuries it has been my duty to guide our rituals and guard our knowledge."
+      <DefaultText>"I am the archdruid of the Ethik Nôl. For centuries it has been my duty to guide our rituals and guard our knowledge."
 
 His black eyes glitter. "It is work that requires a certain resilience. But it is not without its benefits."</DefaultText>
       <FemaleText />
@@ -100,7 +101,7 @@ His black eyes glitter. "It is work that requires a certain resilience. But it i
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Tell me more about the Ethik N&#244;l."</DefaultText>
+      <DefaultText>"Tell me more about the Ethik Nôl."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

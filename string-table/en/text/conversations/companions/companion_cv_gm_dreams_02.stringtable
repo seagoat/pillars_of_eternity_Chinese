@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_cv_gm_dreams_02</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>37</EntryCount>
@@ -62,7 +63,7 @@ This scene feels familiar, a moment you have lived - and dreamed - a thousand ti
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>And as you try to recall how you've reached this place, you feel the same hollowness inside yourself, a pit filled with the clawing winds of a b&#238;a&#373;ac. The very thought fills you with disquiet, like the memory of a nightmare.</DefaultText>
+      <DefaultText>And as you try to recall how you've reached this place, you feel the same hollowness inside yourself, a pit filled with the clawing winds of a bîaŵac. The very thought fills you with disquiet, like the memory of a nightmare.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

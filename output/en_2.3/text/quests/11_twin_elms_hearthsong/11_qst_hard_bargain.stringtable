@@ -1,0 +1,119 @@
+<StringTableFile>
+  <Name>quests\11_twin_elms_hearthsong\11_qst_hard_bargain</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>艱 難 的 交 易 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>去 爐 火 樂 曲 區 市 場 和 阿 拉 赫 利 談 話 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>把 錢 給 裡 納 托 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>說 服 裡 納 托 離 開 雙 榆 城 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>告 訴 阿 拉 赫 利 你 已 經 與 裡 納 托 做 交 易 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>在 阿 拉 赫 利 位 於 爐 火 樂 曲 區 的 住 所 找 到 她 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>從 阿 拉 赫 利 那 裡 拿 到 裡 納 托 的 錢 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>我 在 爐 火 樂 曲 區 遇 到 了 一 位 忿 怒 不 已 的 維 拉 商 人 裡 納 托 。事 情 的 原 委 是 他 購 買 了 一 批 昂 貴 的 Elardh Golah，一 種 采 集 自 伊 爾 格 蘭 法 斯 叢 林 深 處 的 植 物 類 壯 陽 藥 。可 是 ，有 人 告 訴 他 ，那 個 格 蘭 法 斯 的 藥 草 商 阿 拉 赫 利 ，賣 給 他 的 是 劣 質 品 。裡 納 托 決 定 不 惜 一 切 代 價 挽 回 損 失 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>裡 納 托 告 訴 我 說 爐 火 樂 曲 區 市 場 的 一 個 商 人 阿 拉 赫 利 ，賣 給 他 一 批 質 量 低 劣 的 Elardh Golan。我 應 該 去 和 那 位 格 蘭 法 斯 女 人 談 談 ，勸 她 把 錢 還 給 維 拉 人 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>我 幫 裡 納 托 找 回 了 他 付 給 阿 拉 赫 利 買 Elardh Golan的 錢 。我 應 該 去 爐 火 樂 曲 區 找 裡 納 托 了 ，上 Celestial Sapling去 ，然 後 在 那 裡 把 錢 給 他 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>阿 拉 赫 利 聲 稱 維 拉 人 買 Elardh Golan是 為 了 自 己 用 ，並 不 是 為 了 做 生 意 ，而 且 在 他 用 後 覺 得 效 果 不 理 想 後 還 當 眾 侮 辱 了 她 。
+
+不 過 ，這 個 格 蘭 法 斯 女 人 還 想 繼 續 這 筆 買 賣 ，但 不 願 和 裡 納 托 直 接 接 觸 。阿 拉 赫 利 認 為 如 果 我 威 脅 以 交 易 因 格 維 斯 文 物 罪 控 告 維 拉 人 的 話 ，維 拉 人 將 自 行 離 開 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>告 訴 阿 拉 赫 利 你 已 經 與 裡 納 托 做 交 易 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>伊 文 ，阿 拉 赫 利 的 徒 弟 ，告 訴 我 藥 草 商 現 在 正 在 她 位 於 爐 火 樂 曲 區 的 住 所 。如 果 我 要 當 面 揭 穿 阿 拉 赫 利 騙 裡 納 托 錢 的 事 ，就 應 該 去 那 裡 找 她 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>在 阿 拉 赫 利 位 於 爐 火 樂 曲 區 的 住 所 ，我 決 定 用 武 力 拿 回 裡 納 托 的 錢 。我 應 該 把 錢 從 她 的 屍 體 上 拿 走 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>阿 拉 赫 利 已 經 離 開 了 爐 火 樂 曲 區 市 場 ，估 計 是 已 經 知 道 我 在 幫 助 裡 納 托 追 究 壯 陽 藥 的 事 。我 該 去 找 藥 草 商 的 藏 身 之 所 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>伊 文 告 訴 我 阿 拉 赫 利 住 在 爐 火 樂 曲 區 的 最 北 邊 ，從 市 場 向 上 走 幾 級 台 階 就 到 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>我 在 阿 拉 赫 利 位 於 爐 火 樂 曲 區 的 住 所 找 到 了 她 。她 周 圍 是 一 群 格 蘭 法 斯 武 士 ，看 來 是 要 竭 盡 全 力 保 護 她 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我 成 功 地 從 阿 拉 赫 利 那 裡 拿 回 了 裡 納 托 的 錢 ，這 位 藥 草 商 曾 欺 騙 裡 納 托 用 高 價 買 了 一 批 劣 質 的 壯 陽 藥 。我 把 錢 還 給 了 裡 納 托 。作 為 我 努 力 的 回 報 ，他 賣 給 我 一 些 特 殊 的 貨 物 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>我 決 定 幫 助 阿 拉 赫 利 甩 掉 裡 納 托 ，打 算 正 面 和 維 拉 商 人 對 抗 。在 壓 力 下 他 屈 從 了 ，匆 匆 離 開 了 這 座 格 蘭 法 斯 城 市 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>我 打 算 幫 助 阿 拉 赫 利 ，正 面 和 維 拉 商 人 對 抗 。裡 納 托 死 去 了 ，他 再 也 不 會 麻 煩 格 蘭 法 斯 人 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>阿 拉 赫 利 和 裡 納 托 都 死 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

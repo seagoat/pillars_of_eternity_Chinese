@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\06_stronghold\06_cv_curio_shopkeeper</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"It's good to see you, my lord. I have all manner of odds and ends here, acquired from every corner of the Dyrwood. Spider venom, skuldr ears... anything you might wish."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I'd like to see what you have." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Greetings, my lord. Were you in need of something? Beetle shells? Xaurip tongues?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Certainly!" </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

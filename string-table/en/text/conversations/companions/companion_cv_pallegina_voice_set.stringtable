@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_cv_pallegina_voice_set</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>72</EntryCount>
@@ -15,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Cu&#232;?"</DefaultText>
+      <DefaultText>"Cuè?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -160,7 +161,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Ed&#233;r! No!"</DefaultText>
+      <DefaultText>"Edér! No!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

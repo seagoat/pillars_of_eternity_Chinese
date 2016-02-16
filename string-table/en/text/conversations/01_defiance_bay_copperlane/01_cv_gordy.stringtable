@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\01_defiance_bay_copperlane\01_cv_gordy</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>99</EntryCount>
@@ -489,7 +490,7 @@ She frowns. "I wouldn't trust this kid with a butter knife."</DefaultText>
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>Ed&#233;r stares you down. "Hey. How about we save the violence for someone who's a real threat next time, huh?"</DefaultText>
+      <DefaultText>Edér stares you down. "Hey. How about we save the violence for someone who's a real threat next time, huh?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

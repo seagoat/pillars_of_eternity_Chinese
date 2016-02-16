@@ -1,0 +1,81 @@
+<StringTableFile>
+  <Name>quests\04_defiance_bay_brackenbury\04_qst_change_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Changing of the Guard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Assassinate Eldrid Wenfeld in the Crucible Keep in First Fires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return to Gedmar Doemenel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Marshal Wenfeld, one of the Crucible Knights, has made his personal crusade to disrupt and destroy Doemenel business activities in Defiance Bay. Gedmar would like him dead, and he'd like the Dozens blamed for the killing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Gedmar wants Marshal Wenfeld dead before the latter rallies the Crucible Knights against House Doemenel. Gedmar suggested that I could find my target alone in the chapel.
+
+Lord Doemenel wants the assassination blamed on the Dozens. He gave me a token from the Dozens to place on the altar in the chapel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Wenfeld is disposed of. Lord Doemenel will want to hear of my success, but he also asked me to plant the Dozens token on the altar in the keep's chapel.
+
+Abrecan, on the other hand, told me not to leave anything linking the assassination to the Dozens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Abrecan approached me and asked me not to blame the Dozens for the attack. He thinks his father has been too cautious, and he wants to return to the days when the Doemenel name was feared throughout the city. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I've placed the token on the altar as Gedmar Doemenel requested.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Gedmar was impressed that I assassinated Eldrid without alerting anyone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I assassinated Eldrid, but Gedmar was displeased at the collateral damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I warned Eldrid of Gedmar Doemenel's assassination plot. He rewarded me for my actions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>I assassinated Wenfeld and left evidence that points to the Dozens. This should escalate the conflict between the Dozens and the Crucible Knights, just as Gedmar Doemenel intended.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>I assassinated Wenfeld and didn't leave the token from the Dozens. The Crucible Knights will likely suspect House Doemenel for the murder, but this will also earn the clan infamy, just as Abrecan intended.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>I assassinated Lord Doemenel and turned House Doemenel against me. Whatever's left of it, anyway.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

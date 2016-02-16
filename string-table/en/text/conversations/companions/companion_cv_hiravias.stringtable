@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_cv_hiravias</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>192</EntryCount>
@@ -424,7 +425,7 @@ He blushes and looks down at his feet with a smirk. "Thanks, my kin didn't find 
     </Entry>
     <Entry>
       <ID>270</ID>
-      <DefaultText>"The r&#238;ow of my circle believe the Autumn Stelgaer to be a heinous abomination - it is said that if it eats you, your soul is invariably lost. As this was my first and most intuitive form, they deemed me a carrier of its evil."</DefaultText>
+      <DefaultText>"The rîow of my circle believe the Autumn Stelgaer to be a heinous abomination - it is said that if it eats you, your soul is invariably lost. As this was my first and most intuitive form, they deemed me a carrier of its evil."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -724,7 +725,7 @@ He spits on the ground. "Anything."</DefaultText>
     </Entry>
     <Entry>
       <ID>351</ID>
-      <DefaultText>"Yeah?" he smiles as his face turns flush. "Well I was an angry wreck when the r&#238;ow exiled me. I'm just thankful for the solitude of the wilderness and the wisdom of Wael - without them I'd never have come to terms with my situation."</DefaultText>
+      <DefaultText>"Yeah?" he smiles as his face turns flush. "Well I was an angry wreck when the rîow exiled me. I'm just thankful for the solitude of the wilderness and the wisdom of Wael - without them I'd never have come to terms with my situation."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -776,7 +777,7 @@ He pulls on the eye patch strap and lets it go with a loud snap. "So if you thin
     </Entry>
     <Entry>
       <ID>362</ID>
-      <DefaultText>"What do you think of Ed&#233;r?"</DefaultText>
+      <DefaultText>"What do you think of Edér?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1013,7 +1014,7 @@ He scratches his eye patch and chuckles softly. "Durance makes me feel I'm the s
     </Entry>
     <Entry>
       <ID>480</ID>
-      <DefaultText>"A wise hunter does what it is necessary to preserve those alive in the here and now. The souls will strengthen all of us, and perhaps this will help those ravaged by the b&#238;a&#373;acs. Whatever comes next, we are all bettered by your actions."
+      <DefaultText>"A wise hunter does what it is necessary to preserve those alive in the here and now. The souls will strengthen all of us, and perhaps this will help those ravaged by the bîaŵacs. Whatever comes next, we are all bettered by your actions."
 
 Hiravias smiles and slaps your side. "It almost makes me want to overlook all your trespassing crimes."</DefaultText>
       <FemaleText />

@@ -1,0 +1,387 @@
+<StringTableFile>
+  <Name>conversations\07_gilded_vale\07_si_temple_bells</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>76</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Three bells hang from the stone protrusion that runs along this wall. Years of dust and grime coat the metal. There is one large bell at the center, flanked by two smaller ones.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Ring the left, smaller bell.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Ring the middle, large bell.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Ring the right, smaller bell.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Ring the middle, larger bell.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Ring the right, smaller bell.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Silence the bell.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Ring the left, smaller bell.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Ring the right, smaller bell.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Ring the left, smaller bell.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Ring the middle, larger bell.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You heave at the bell, and as it swings back in the other direction, the clapper strikes a low, powerful note against the heavy iron. You feel the ringing in your chest, as the sound moves through the ruined halls in a rolling tide. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The bell sounds a strange, warbling peal that grows to a painful shrillness before it diminishes to a mournful chime. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The bell tolls a high, piercing note of startling power. The tone echoes merrily through the halls, until it seems that a dozen chirping notes ring through the temple. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Examine the bells.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The bells appear to be fully intact. They are made of a thick iron, and look very heavy. There doesn't appear to be much out of the ordinary about them. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You reach out to hold the clapper still. Around you, the echoes diminish. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>You heave at the bell, and as it swings back in the other direction, the clapper strikes a low, powerful note against the heavy iron. You feel the ringing in your chest, as the sound moves through the ruined halls in a rolling tide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The bell sounds a strange, warbling peal that grows to a painful shrillness before it diminishes to a mournful chime. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Ring the left bell again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The bell's merry tolling sounds once more through the ruins. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Ring the left bell a third time.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Ring the middle, larger bell.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Ring the right, smaller bell.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Ring the right bell again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Ring the left bell a fourth time.] </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Ring the middle, larger bell.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Ring the right, smaller bell.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>The bell's merry tolling sounds once more through the ruins. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>You heave at the bell, and as it swings back in the other direction, the clapper strikes a low, powerful note against the heavy iron. You feel the ringing in your chest, as the sound moves through the ruined halls in a rolling tide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>The bell sounds a strange, warbling peal that grows to a painful shrillness before it diminishes to a mournful chime. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>The bell's merry tolling sounds once more through the ruins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>A strange hush falls upon the room, muting the sound of the bells and the eternal drip of damp stone alike. And then, a sudden, dissonant toll sounds from the bells, so loud and piercing that you are compelled to cover your ears. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>And then, at last, silence once more. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>You heave at the bell, and as it swings back in the other direction, the clapper strikes a low, powerful note against the heavy iron. You feel the ringing in your chest, as the sound moves through the ruined halls in a rolling tide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>The bell sounds a strange, warbling peal that grows to a painful shrillness before diminishing to a mournful chime. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Ring the left, smaller bell.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Ring the middle bell once more.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>The deep, resonating peal echoes through the ruins. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Ring the right bell once more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>The peculiar chime rings through the ruins. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Ring the left bell again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>The bell's merry tolling sounds once more through the ruins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Ring the left bell once more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>The peculiar chime rings through the ruins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Ring the middle bell again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>The bell tolls a high, piercing note of startling power. The tone echoes merrily through the halls, until it seems that a dozen chirping notes ring through the temple. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>The deep, resonating peal echoes through the ruins. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Ring the left, smaller bell.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Ring the middle bell a third time.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Ring the middle bell a fourth time.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>The deep, resonating peal echoes through the ruins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>The bell sounds a strange, warbling peal that grows to a painful shrillness before diminishing to a mournful chime. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Ring the right bell once more.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Ring the right bell again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>The bell tolls a high, piercing note of startling power. The tone echoes merrily through the halls, until it seems that a dozen chirping notes ring through the temple. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>You heave at the bell, and as it swings back in the other direction, the clapper strikes a low, powerful note against the heavy iron. You feel the ringing in your chest, as the sound moves through the ruined halls in a rolling tide. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>The peculiar chime rings through the ruins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Ring the left, smaller bell.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Ring the middle bell once more.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Ring the right, smaller bell.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>The peculiar chime rings through the ruins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>The bell tolls a high, piercing note of startling power. The tone echoes merrily through the halls, until it seems that a dozen chirping notes ring through the temple. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Ring the left bell again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Ring the middle, larger bell.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Ring the right, smaller bell. ]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Ring the left, smaller bell.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Ring the middle, larger bell.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Ring the right bell again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>The bell tolls a high, piercing note of startling power. The tone echoes merrily through the halls, until it seems that a dozen chirping notes ring through the temple. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>The deep, resonating peal echoes through the ruins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>The peculiar chime rings through the ruins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>The peculiar chime rings through the ruins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>There's a quiet, melodic chime from all three bells, before their discordant voices meet in one powerful, rising rush of sound. It seems to fill the whole of the temple, a driving flood of song that drowns all other thought. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>As the tolling fades, you hear a creak from the direction of the doors, as the passage to the lower level swings open. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

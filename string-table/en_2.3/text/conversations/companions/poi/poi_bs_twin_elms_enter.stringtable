@@ -1,0 +1,52 @@
+<StringTableFile>
+  <Name>conversations\companions\poi\poi_bs_twin_elms_enter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bank Node 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Twin Elms. I've never been this far into Eir Glanfath before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"This is where the famous hunters of Eir Glanfath dwell?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"So, this is Twin Elms. Home to the six tribes of Eir Glanfath. And some very good hides, from what I hear." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"On behalf of all Glanfathans, welcome to Twin Elms. Mind your manners, refrain from public intoxication, and don't mention your history of violating Engwithan ruins..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Trees could use more of Magran's touch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"The Glanfathans... such beautiful cities they have woven with nature."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Never been out this way before. Hard to believe it's the same country."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Bank Node 9</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

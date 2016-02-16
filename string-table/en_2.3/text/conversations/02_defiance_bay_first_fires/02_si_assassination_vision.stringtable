@@ -1,0 +1,31 @@
+<StringTableFile>
+  <Name>conversations\02_defiance_bay_first_fires\02_si_assassination_vision</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The words "Shall I end it for you?" ring in your ears. You find yourself gasping for breath, struggling to keep your own balance. You drop to a knee and watch as Thaos hurries out of the building. The world dims around you, the screams and clashing of weapons fading to silence. All that remains are the words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Shall I end it for you?" Thaos stands at a pulpit high above an assembly of robed onlookers, you among them, clustered around a wide, circular pit carved of stone. 
+
+He addresses a woman bound backward over a large iron wheel overlooking the great stone maw. Many of the woman's fingers and toes are severed, and the bottoms of her feet are charred black. The skin on one side of her face looks like melted candle wax, black and red and seeping, and the angle of her back suggests a spine in ruins. Yet for all that, her expression betrays little of her anguish.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Her eyes are barely open and her words come between strangled breaths, but they are steady, unbroken. "I am already at peace, Grand Inquisitor. Are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"So be it. If you desire no end, you shall have none. I find you guilty of heresy. May the eternal prison bar your soul from passage, for it is beyond redemption."
+
+He nods to a hooded attendant, who begins untying her from the wheel.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\11_hearthsong\11_bs_market_db_trader_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Got to admit, these folks know how to make weapons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I'd pick their spears above all else. Fine bows and axes too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Many goods to bring back to Defiance Bay... more than I thought."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"If you don't mind the trip, lots of copper to be made here."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

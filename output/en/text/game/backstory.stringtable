@@ -1,7 +1,7 @@
 <StringTableFile>
   <Name>game\backstory</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>407</EntryCount>
+  <EntryCount>439</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2024,6 +2024,96 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>406</ID>
+      <DefaultText>You reached Stalwart only to find it under attack and half-destroyed by a mob of ogres. You helped the townsfolk defeat them, but the damage was already severe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>Renengild, the mayor of Stalwart, told you about Durgan's Battery, an ancient dwarven fortress, and the town's attempts to reach a powerful forge within it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>You found the ogre matron Beregan and slew her in her clan's cave in the Russetwood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>You found the ogre matron Beregan and reached a truce with her. She promised that her clan would not harm you or Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>You met Galvino, an eccentric and cantankerous old inventor living near Durgan's Battery. He told you about the tradition of "cantecs" among the Pargrunen dwarves and introduced you to the Devil of Caroc, a construct he built.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>The Devil of Caroc, a sentient construct with the soul of a murderer, asked to join you, and you agreed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>The Devil of Caroc revealed that she is still hunting for a man who took part in the purge of her village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>After finding Harmke, the man the Devil of Caroc had sought, you read his soul and explained that he wasn't responsible for what happened in Cold Morn. The Devil let him go.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>After finding Harmke, the man the Devil of Caroc had sought, you read his soul and explained that he was responsible for the destruction of the Devil's home in Cold Morn. She took her revenge on him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>The Devil of Caroc has been destroyed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>While in Stalwart, you met Zahua, a monk from Ixamitl, and invited him to travel with you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>Zahua told you about his training as a warrior and about his master, who held back the final part of Zahua's instruction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>Zahua has perished.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>You learned how to open the gates of Durgan's Battery and became the first person in two centuries to enter the old fortress.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>At the bottom of Durgan's Battery, you found the White Forge, which the Pargrunen dwarves used to bind themselves into the fortress.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>After speaking with the Battery's komendants, you released the souls of the dwarves back to the Wheel, where they can rejoin the cycle of life and death.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>After speaking with the Battery's komendants, you bound the souls of the dwarves to the White Forge so that their connection to it shall forever strengthen its yield.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>After speaking with the Battery's komendants, you bound the souls of the dwarves to the cannons atop the Battery so that they can improve the defense of the mighty fortress they spent generations building.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>424</ID>
       <DefaultText>In time, civilization settled on the lands you called home, and spoiled them, and you were uprooted.</DefaultText>
       <FemaleText />
@@ -2036,6 +2126,76 @@
     <Entry>
       <ID>426</ID>
       <DefaultText>But you wore out the patience of the locals, and eventually they chased you from your own lands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>After your adventures at Durgan's Battery, you dreamed of an army that descended from the mountains and hunted you to your keep. You realized that something in the White March would destroy you if left unchecked.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>You learned of the Iron Flail, an armed band from Readceras that had built a fort near Durgan's Battery in hopes of seizing the White Forge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>At the Iron Flail's fort, you encountered a mysterious Ondrite. She killed herself before you could speak with her, but in her departing soul, you saw the Abbey of the Fallen Moon, the key to stopping the army of Eyeless.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>You reached the Abbey of the Fallen Moon and discovered Abydon's ancient corpse. You learned that he had sacrificed himself to save Eora's civilizations from a fragment of the moon, which Ondra had pulled from the sky.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>You reforged Abydon's Hammer with a fragment that you'd found among his remains. Thus armed, you were ready to face the Eyeless.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>You tracked the Eyeless to a hollow piece of the moon buried at Cayron's Scar. You destroyed this fragment with the Eyeless inside, ending their threat once and for all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>In the essence of the Eyeless, you recognized pieces of Abydon, their original creator. You restored this essence to Abydon, giving him the memory of his death and his former purpose of preservation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>In the essence of the Eyeless, you recognized pieces of Abydon, their original creator. You restored this essence to Abydon, giving him the memory of his death but tempering his former purpose of preservation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>In the essence of the Eyeless, you recognized pieces of Abydon, their original creator. You dispersed this essence so that Abydon would not remember his death or his former purpose of preservation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>In Stalwart, you met Maneha, an Ondrite Giftbearer. She explained that she was searching for the Abbey of the Fallen Moon, where she was bound to deposit tokens of the faithful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>You learned that Maneha carried a terrible burden - a memory of her crimes in a past life. She confided that this was what she truly intended to leave behind at the abbey.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>With your help, Maneha found the Salt Well at the Abbey of the Fallen Moon. There, she surrendered her painful memory to Ondra. She emerged with no recollection of the events that had haunted her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>With your help, Maneha found the Salt Well at the Abbey of the Fallen Moon. Yet you convinced her to hold onto this memory and live with her past.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>Maneha died during your adventures together.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

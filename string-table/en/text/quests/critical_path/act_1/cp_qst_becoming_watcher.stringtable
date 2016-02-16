@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\critical_path\act_1\cp_qst_becoming_watcher</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>9</EntryCount>
@@ -20,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>After surviving an explosion outside of the ruins of Cilant L&#238;s, I experienced a vision. Since then, I have been hearing sounds with no source, and seeing things that aren't there.</DefaultText>
+      <DefaultText>After surviving an explosion outside of the ruins of Cilant Lîs, I experienced a vision. Since then, I have been hearing sounds with no source, and seeing things that aren't there.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

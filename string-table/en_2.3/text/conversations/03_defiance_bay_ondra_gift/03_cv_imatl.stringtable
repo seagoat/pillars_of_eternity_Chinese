@@ -1,0 +1,440 @@
+<StringTableFile>
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_imatl</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>81</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>He shows you the object in his hand. It's a large, round opal with Engwithan runes carved into it. It glistens with his sweat. 
+
+"See the ship that went down over there? I've been looking for someone to help me recover some missing cargo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Tell me more about this missing cargo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"What happens if I find the rest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>He licks his lips. "We started in Cold Morn and were making our way down the river, loading and unloading as we went. Business as usual."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"You find the missing pieces of the artifact, and I've got an animancer friend from my expedition days who'll find you a stack of coppers." He scratches his beard. 
+
+"All I want out of this is a few hundred pands for my lost payday. If that sounds fair to you, I'll give you this stone and the name of my contact once you have everything else."
+
+Imatl regards the opal again. "Seeing as the kid dredged this stone up in his net, I'd wager you could probably find the missing pieces out in the shallows during low tide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The old deckhand looks up at you. "Back for a taste of the sea breeze?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Imatl rubs a calloused thumb over the runes in the opal. "Is this about the broken scepter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I'm still searching."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>He shakes his head. "The Salty Wench isn't one to surrender a treasure easily, that's for sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I think I've already found some of the missing pieces."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Do you have any idea what your animancer friend wants with this relic?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"She was always tinkering with these things back when we were young. I used to think she was the fool, retiring to some dusty study in Brackenbury, but after that horror on the boat, I'm thinking she made the wiser choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>An old man paces the dock and looks out over the water. He's fussing over something large and round, which he constantly shifts from one hand to the other. 
+
+You're not certain whether his wide-eyed, gape-mouthed expression marks surprise or fear. It seems he isn't, either. "You, uh, don't look like a guard..." He examines you - and your equipment - more closely. "Say, you wouldn't be interested in making some coppers, would you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Have you seen a boy named Derrin around here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I see him near every time I'm at port." He nods at the half-sunken boat. "He's the one who found the opal. Good kid, despite that loafer of a father."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Loafer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Any idea where Derrin could be now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>A scowl crosses his leathery face. "Drunk more often than sober, and poor company either way. He spends his scant coin at the Salty Mast when he's got mouths to feed, and yet he thinks his Hollowborn daughter is the curse on his family."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>He frowns. "That boy loves the ships. He's probably playing pirates with the sailors. If he hasn't stowed away with the cargo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Thank you for the information."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"You see that lad, you tell him old Imatl remembers the deal. I owe him a basket of mussels for finding that opal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"I don't have the time right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"It's part of that scepter. From what I recall, there were three other pieces, and I'd bet you anything they're somewhere in the shallows, too. If anyone could find them, there'd be profit to follow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"How's business?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>He spits into the water. "I'll be glad to sail with captains who're more careful about their cargo from now on. I don't give a wurm's wings about the duc's trafficking laws, but I'm too old to fight ancient horrors."
+
+He takes a deep breath of the salty air. "I just want to enjoy my twilight years doing an honest day's work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"I already found the missing pieces."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"You don't say?" He shrugs. "Well, they'll be worth a lot more if you can find the rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>His bristled eyebrows rise to a peak. "You mean you got past those armored monsters? I don't know how..." He shakes his head.
+
+"Listen, if you're willing, I'll give you this last piece." He holds up the opal. "And the name of someone who'll buy it all. All I want is two hundred pands for getting the cargo here. Sound fair?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>He sighs. "Come back if you change your mind. Looks like the Lady of Lament is keeping the rest of the scepter for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Yes, I have three pieces."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"About that Engwithan relic..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Yes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>DEBUG: Give all scepter pieces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Imatl gazes out over the water. "Anything else you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Some payday this turned into."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Tell me about Ondra's Gift."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>He scratches his sunburned scalp. "We've got docks, fishing, and steady ship traffic. All this..." He waves at the listing shanties crowded against one another. "This sprang up around the docks. It's the poorest district in Defiance Bay, but one of the liveliest."
+
+He grins. "And for lively, nothing beats the Salty Mast. You'd do better to ask a younger man than me if you want to know about that place." He nods toward a large, round building to the east.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"I saw one of those suits of armor, walking around all by itself. It was covered in blood. When it saw me, it started running for the hatch. So I closed it." He squeezes his eyes shut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"So how did the ship get here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"How could you lock your crewmates in the hold with those creatures?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"You had to keep those monsters from getting out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"The rest of the crew was probably dead anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Imatl shakes his head, his eyes still closed. "That's what I keep telling myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Imatl covers his face with his hands. "What choice did I have? I couldn't fight them by myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>He rolls the stone between his hands. "I'm just a deckhand, but I was the only one left. I piloted the ship as best I could, but I hit rocks as we were passing Brackenbury. I barely made it to Ondra's Gift before I had to jump overboard and swim for the docks.
+
+"I'd given up on the cargo - not to mention the payday - when one of the lads pulled this up in his nets." He shows you the opal again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>He sighs. "I'll take anything at this point."
+
+He accepts your money and gives you the opal. It's still warm from his hands. "You'll want to go to the Brackenbury Sanitarium and find Nans. She'll know more about this artifact, and I know for a fact she's bought others from our crew before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Those creatures you described sound like animats. They were probably guarding the relic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"There must be a reason you haven't gone looking for the rest of the artifact yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Have you talked to the Crucible Knights about this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Whatever they were, they cut down the rest of the crew like straw dummies. I doubt a little salt water would've rusted them any."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"And admit that I was smuggling relics?" He shakes his head. "I doubt they'd arrest me, but I also doubt I'd see any coin from this mess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"I'm lucky to have escaped the ship like I did. I'm not taking a chance with those things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>[Give 200 cp.] "We've got a deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"You want two hundred pands for locking the rest of the crew in the hold and sinking the ship?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Give me that opal and the name or you'll wish those suits of armor had finished you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"You should have perished with the rest of this ship, you pathetic old dog."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>[Snatch the opal from Imatl.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>[Give 50 cp.] "I'm afraid this is all I've got."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Look, I..." He rubs the back of his sunburned neck. "How about one hundred? I'm just trying to get by until the next job."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>[Give 100 cp.] "Fair enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>[Give 50 cp.] "I'm afraid this is all I've got."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>He accepts your money and gives you the opal. It's still warm from his hands. "You'll want to go to the Brackenbury Sanitarium and find Nans. She'll know more about this artifact, and I know for a fact she's bought them from our crew before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>He shoves the opal, still warm from his hands, into yours. "Take it." His mouth withers into a sullen frown. "And look for Nans at the Brackenbury Sanitarium."
+
+He turns away. "Now leave me alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Give that back!" He lunges for the stone, losing his balance and falling to the ground. As he picks himself back up, he shoots you a sullen glare. "Keep it, then. But you'll get nothing else from me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Imatl scowls and shakes his head at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Imatl doesn't sound like a Dyrwoodan name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Well, you should know, shouldn't you? From your accent, I take it you're from the Ixamitl Plains, too. They're just another kind of ocean when you think about it. Places where you can stand and see nothing on the horizon but the wind making waves in the grass."
+
+He watches the surf lapping against the wrecked boat. "And perhaps this is the gods' way of saying that people like us should never have taken to the water."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"That's because it isn't. I'm from the Ixamitl Plains, a broad savanna north of the Dyrwood. Not so different from the ocean, in a way. There are places where you can stand and turn a full circle and see nothing but the winds making waves in the grass."
+
+He watches the surf lapping against the wrecked boat. "But at moments like this, I wonder what business a plainsman like me had taking to the water."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>He closes his hand around the opal in a white-knuckled grip. "We were almost to Defiance Bay when the screaming started. I've seen my share of barroom brawls, but this sounded different. I was topside with the captain, but he and the first mate went belowdecks to see what all the commotion was about. When they didn't come back, I looked into the hold." He shudders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>He massages the opal in a clammy palm. "When we reached Eina's Rest, we may have agreed to, uh, take on a few crates from some place called Cl&#238;aban Rilag. A couple of the lads snuck a peek at the cargo. Saw suits of armor and a broken scepter." 
+
+He shrugs. "Don't know why anyone would want a broken anything, but these animancers'll buy dirty stockings if you say they came from the ruins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"I'm out of coin at the moment. I'll come back later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Back to for the last piece of the scepter? I'm still looking to sell it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"What exactly happened?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Give me the short version."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"We picked up some crates from Cl&#238;aban Rilag. Suits of armor and a broken scepter is what I heard. We were almost to Defiance Bay when the armor came to life and slaughtered everyone in the hold."
+
+He avoids your gaze. "So I locked the hatch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Have you seen anyone come this way carrying a large chest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Come to think of it, I did." He points to the east. "They went that way. Couldn't have gotten too far."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Hiravias blinks three times, his face twitching more each time. "So... aiding and abetting in the looting of Engwithan treasures? The real crime is that I'm not allowed to tear his lungs out through his navel!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Did you see them? Swarming the docks, looking for Crucible Knights. I saw them fall on one patrol like stelgaers on a deer." He closes his eyes, grimacing.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

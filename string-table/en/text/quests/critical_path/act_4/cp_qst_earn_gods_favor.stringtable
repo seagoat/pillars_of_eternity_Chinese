@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\critical_path\act_4\cp_qst_earn_gods_favor</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>18</EntryCount>
@@ -25,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>S&#238;dha and R&#238;henwn, the delemgan of Elms' Reach, told me that Thaos has destroyed the route from Teir Evron to Breith Eaman. To reach him, I will have to descend through the pit in the Burial Isle.
+      <DefaultText>Sîdha and Rîhenwn, the delemgan of Elms' Reach, told me that Thaos has destroyed the route from Teir Evron to Breith Eaman. To reach him, I will have to descend through the pit in the Burial Isle.
 
 That requires the aid of the gods.</DefaultText>
       <FemaleText />

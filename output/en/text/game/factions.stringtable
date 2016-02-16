@@ -1,7 +1,7 @@
 <StringTableFile>
   <Name>game\factions</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>50</EntryCount>
+  <EntryCount>51</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -251,6 +251,11 @@
     <Entry>
       <ID>49</ID>
       <DefaultText>五陽兄弟會</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Stalwart</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

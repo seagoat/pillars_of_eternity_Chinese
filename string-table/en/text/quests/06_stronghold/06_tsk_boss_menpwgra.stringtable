@@ -1,44 +1,45 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\06_stronghold\06_tsk_boss_menpwgra</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>7</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Bounty: Dev&#373;en</DefaultText>
+      <DefaultText>Bounty: Devŵen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Kill the menp&#373;gra Dev&#373;en and take her head.</DefaultText>
+      <DefaultText>Kill the menpŵgra Devŵen and take her head.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Bring Dev&#373;en's head to Warden Fyrgen in Caed Nua.</DefaultText>
+      <DefaultText>Bring Devŵen's head to Warden Fyrgen in Caed Nua.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>A strange, murderous cult of druids has sprung up around the menp&#373;gra Dev&#373;en. The group is using a cave in the Northweald as their base of operations. </DefaultText>
+      <DefaultText>A strange, murderous cult of druids has sprung up around the menpŵgra Devŵen. The group is using a cave in the Northweald as their base of operations. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>A druidic cult has formed up around a menp&#373;gra in the Northweald. I will need to find their cave, and there kill Dev&#373;en, their leader. Her head will serve as proof of her demise. Without Dev&#373;en, the cult should fall apart.
+      <DefaultText>A druidic cult has formed up around a menpŵgra in the Northweald. I will need to find their cave, and there kill Devŵen, their leader. Her head will serve as proof of her demise. Without Devŵen, the cult should fall apart.
 
 
-The druidic cult of Dev&#373;en is based in Northweald Cave. I need to kill Dev&#373;en and take its head as proof that it's dead.</DefaultText>
+The druidic cult of Devŵen is based in Northweald Cave. I need to kill Devŵen and take its head as proof that it's dead.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Dev&#373;en has been slain, and I need but bring her head to Warden Fyrgen at the lodge in Caed Nua to receive my reward.</DefaultText>
+      <DefaultText>Devŵen has been slain, and I need but bring her head to Warden Fyrgen at the lodge in Caed Nua to receive my reward.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>I claimed the bounty on the menp&#373;gra Dev&#373;en.</DefaultText>
+      <DefaultText>I claimed the bounty on the menpŵgra Devŵen.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

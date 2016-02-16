@@ -1,0 +1,52 @@
+<StringTableFile>
+  <Name>conversations\11_hearthsong\11_bs_glanfathan_gate_locals_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"How could the estramor intruder sneak over the grounds of Elms' Reach?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"He wielded dark sorcery, the intruder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Our sacred Hall of Stars... soiled by unclean feet!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"...The anamfatha know of the intruder. They must act!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"...It did happen. The warriors saw the strange man break into Teir Evron."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Too few of our leaders remain within Twin Elms."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I've heard it so, a foreigner tracks the intruder that broke into Elms' Reach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Let the estramorwn take their squabbles out of our city, I claim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Don't mistake this estramor. He walks with sure stride."</DefaultText>
+      <FemaleText>"Don't mistake this foreigner. She walks with sure stride."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

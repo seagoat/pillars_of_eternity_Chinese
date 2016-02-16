@@ -1,0 +1,52 @@
+<StringTableFile>
+  <Name>quests\10_od_nua\10_tsk_cannibal_ogres</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Desperate Measures</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Kill Zolla the ogre chieftain and retrieve her ceremonial torc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Return the torc to Thulgar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Trapped within a section of the Endless Paths of Od Nua, a clan of ogres has resorted to cannibalism to stay alive. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>One of the ogres I encountered proved willing to talk. Thulgar claims to be one of the only - if not the only - ogres to retain his sanity. The others have yielded to the commands of their chieftain, Zolla, who - driven to madness by starvation and peculiar nightmares both - has resorted to cannibalism to stay alive. Thulgar has asked me to do what he cannot: end Zolla's life, and in so doing bring about an end to this brutal existence. He has asked me to bring back her torc as proof.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I have slain the ogre chieftain Zolla. All that remains is to tell Thulgar that the deed is done. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I informed Thulgar that the grim task is done, and Zolla is dead. He seemed to find some measure of peace in this, though he was also much grieved . With luck he'll find a new place for himself far from here. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I decided there was little point in helping a man-eating ogre, and put an end to his life. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>I informed Thulgar that the grim task is done, and Zolla is dead. He seemed grieved by this, though relieved to find the matter settled, and resolved to follow her into the afterlife, in time. Even so, he thanked me for my assistance.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

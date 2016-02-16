@@ -1,0 +1,42 @@
+<StringTableFile>
+  <Name>quests\06_stronghold\06_tsk_boss_cipher</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Bounty: Naroc the Prophet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Kill Naroc and take his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bring Naroc's head to Warden Fyrgen in Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>The Glanfathan exile, Naroc, has had a bounty placed on his head by several Glanfathan Tribes. He was said to be traveling to the ruins of Cilant L&#238;s. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Naroc is an exiled Glanfathan cipher, condemned for his extreme views. The Glanfathans are willing to pay a good sum if I travel to Cilant L&#238;s and separate his head from the rest of him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Naroc has been dealt with. All I have to do is return his head to Warden Fyrgen, and claim my bounty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I claimed the bounty on Naroc.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

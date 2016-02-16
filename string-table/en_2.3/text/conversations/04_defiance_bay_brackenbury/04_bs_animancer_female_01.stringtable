@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\04_defiance_bay_brackenbury\04_bs_animancer_female_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"You're welcome to browse. The spread of knowledge is a healthy thing, don't you agree?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Here, we study the soul and all of the ailments that can affect it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Souls inhabit all living things and, on occasion, inanimate objects and substances."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I've heard the souls of Glanfathan elders are preserved in adra after death. If only they'd let outsiders observe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"We've been getting a lot of threats. You can bet it's the Dozens behind it."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

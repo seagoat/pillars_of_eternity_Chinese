@@ -1,0 +1,104 @@
+<StringTableFile>
+  <Name>conversations\08_wilderness\08_si_rhemen_gorge_entrance</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The stone here has been carved with a few simple shapes. A small circular indentation marks the center, and a much larger circle surrounds it. You see what appears to be writing above the two circles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Look at the circular indentation.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Examine the outer circle.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Place the adra disc in the indentation.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Several shapes have been carved along the outer ring. Though most have been worn away, you can make out a crescent above the center.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The indentation is rather shallow but appears to be perfectly sized for the adra disc you got from the Giantslayers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The stone rests easily in the space and you feel air rushing into tiny gaps in the indentation. It appears to be held firmly in place now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The indentation is shallow and smooth. It looks like it was intended to hold something specific.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Examine the writing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The characters are completely foreign to you, no doubt the remnants of some long-forgotten language.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The curving, twisting runes are strangely familiar to you. You recognize them as ancient Engwithan. They read:
+
+"All things end, only to continue anew. Enter now at dusk, that we may all experience a new dawn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The stone fits into the indentation, but with nothing to hold it in place, it simply falls out. You feel as if you are doing something wrong.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>You hear the sliding of stone underneath your feet and the sudden rush of water. The pool before you begins to drain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Wait a while.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The bright sun casts its light on a pattern in the ground. You kneel to get a better look. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The starlight illuminates a pattern in the ground. You kneel to get a better look. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You wait for a few hours, watching as the stars wink and glow overhead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>You wait for a few hours, marking the sun's journey across the sky.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

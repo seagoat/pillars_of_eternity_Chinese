@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\12_oldsong\12_bs_pale_elf_paladin_f_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"We've come from the White that Wends to worship the Beast of Winter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Our god rewards perseverance through hardship."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The paladin watches you with cool, patient eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

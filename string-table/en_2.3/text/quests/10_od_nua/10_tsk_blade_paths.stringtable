@@ -1,0 +1,97 @@
+<StringTableFile>
+  <Name>quests\10_od_nua\10_tsk_blade_paths</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Blade of the Endless Paths</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find more pieces of the ancient sword</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Forge the blade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retrieve the Blade of Endless Paths from Dunstan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A great and ancient weapon has been dismantled, its pieces strewn throughout the Endless Paths of Od Nua. Perhaps if all these pieces can be found again, the weapon can be reforged. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>While exploring the Endless Paths, I have discovered what appears to be a piece of an ancient sword. Perhaps I can find more such pieces elsewhere in the ruins. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I have discovered all the broken fragments of the ancient sword. I will need to find a skilled smith to reforge this weapon for me before I can wield it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Dunstan was impressed by my find. He agreed to reforge the Blade of Endless Path for me, and I need only retrieve it once he is finished.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I have found a polished stone sphere. It hums with power, and there are markings upon it that suggest it was once set within something.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I have found part of a shattered blade. It isn't much use like this - but perhaps it can be reforged if I find the rest of it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I have found both halves of the broken blade. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I have found the ornate hilt of a sword. The ornamentation seems to be Aedyran in style, and clearly valuable. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I successfully retrieved all the pieces of the Blade of Endless Paths, and had it reforged by the smith Dunstan in Defiance Bay. This powerful weapon should serve me well in my travels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I have reforged the Blade of the Endless Paths, and applied the spider venom I took from the great spider queen to its surface. The powerful poisons should prove helpful in battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I have reforged the Blade of the Endless Paths, and used the tentacle I cleaved from the giant Dank Spore in its crafting. The blade is now enchanted with powerful soul energy, which should prove useful in battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>I have reforged the Blade of the Endless Paths, and used the fire gland I took from the drake in its crafting. The blade now burns with drake's fire, which should prove useful in battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>I have reforged the Blade of the Endless Paths, and used the gem I took from the adra animat in its crafting. The blade is tremendously sharp, hewn to a razor's edge. It should prove deadly in battle. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Quest Failed</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,52 @@
+<StringTableFile>
+  <Name>quests\critical_path\act_1\cp_qst_becoming_watcher</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>幻想与低语</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>找到梦中的矮人女性。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>寻求帮助。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>在从希兰特里斯遗迹外的爆炸中幸存下来后，我出现了一次幻觉。从那之后，我经常听到不明来源的声音，看到实际并不存在的东西。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>在梦中，我听到一个女人对我说话- 那是一个死去的女人，吊在丰饶之谷中央的一颗树上。这也许仅仅是一个梦而已，但我总觉得它有一种奇异的真实感。看来有必要重返那里，看一看究竟是怎么回事。我的情况一直没有改善，始终睡不好。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>在路上我并没有生病。这也许是一种新出现的，精神上的折磨。幸运的话，丰饶之谷可能会有人知道怎么治疗它。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>执法官曾建议我找到固定住处前要注意休息。也许多休息就能解决这个问题。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我有一个词形容现在的我：通魂者。看来如果我想更多地了解这种折磨，就必须找到一个叫马尔瓦德的人，他住在塞德努亚的老旧的主楼里。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

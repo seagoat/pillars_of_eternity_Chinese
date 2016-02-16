@@ -1,0 +1,89 @@
+<StringTableFile>
+  <Name>quests\12_twin_elms_oldsong\12_qst_the_streamstilled</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Into the White Void</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find Noonfrost in Twin Elms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Locate the Frost-Hewn Breach in Noonfrost.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Seal the Frost-Hewn Breach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Return to Teir Evron in Elms' Reach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Return to Teir Evron in Elms' Reach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Rymrgand showed me a vision of a gate - the Frost-Hewn Breach - and the pale elves trying to open it. In the vision, the elves crumbled into snow, and I sealed the gate with an ice crystal that I still had when the waking dream ended.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The Frost-Hewn Breach appeared to be part of a temple called Noonfrost. If I can find Rymrgand's place of worship in Twin Elms, I may also find the meaning behind the vision.
+
+The locals must know something about this place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I've found Noonfrost, Rymrgand's temple in Oldsong. The Frost-Hewn Breach must be here. When I find it, I can use the shard from the vision to close it according to Rymrgand's wishes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Finally, I've found the Frost-Hewn Breach. Placing the shard in the frozen doorway will close it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I've completed the task Rymrgand gave me. Now, I can return to Teir Evron to ask for his blessing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I gave Glasvahl the shard, which allowed him to pass into the White Void. With the shard gone and the Frost-Hewn Breach still open, there's nowhere to go but back to Rymrgand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Noonfrost lies in Oldsong. Apparently, it's frozen the lake there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I closed the Frost-Hewn Breach in Noonfrost and prevented Glasvahl and his clan from passing through it. Rymrgand, Ondra, and Skaen were pleased and have promised to help me descend the pit to Sun in Shadow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I allowed Glasvahl and his clan to pass through the Frost-Hewn Breach, and I convinced Rymrgand that this also honors him. Rymrgand, Ondra, and Skaen vowed to help me descend the pit to Sun in Shadow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>I allowed Glasvahl and his clan to pass through the Frost-Hewn Breach. Rymrgand was displeased and has refused to aid me - I'll have to seek the help of another god.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

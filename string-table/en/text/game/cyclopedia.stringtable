@@ -1,7 +1,8 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>304</EntryCount>
+  <EntryCount>338</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -50,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Ethik N&#244;l</DefaultText>
+      <DefaultText>Ethik Nôl</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -223,9 +224,9 @@ Despite all appearances to the contrary, there is an underlying complexity to th
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Phantoms are souls that did not properly separate from the body after death. This usually happens as a result of severe trauma, particularly in the case of a violent death. Unlike lost souls, which are incapable of interacting with or being detected by normal mortals, phantoms (like shadows and cean g&#373;la) maintain a connection to the physical world. They will attack other life forms without discrimination.
+      <DefaultText>Phantoms are souls that did not properly separate from the body after death. This usually happens as a result of severe trauma, particularly in the case of a violent death. Unlike lost souls, which are incapable of interacting with or being detected by normal mortals, phantoms (like shadows and cean gŵla) maintain a connection to the physical world. They will attack other life forms without discrimination.
 
-Phantoms can also manifest from kith who lived particularly chaotic lives, including violent criminals and the insane. Anyone can become a phantom under the right circumstances, but the fear of phantoms &#8211; and their association with the mentally ill &#8211; can result in vulnerable populations being shunned across many communities. 
+Phantoms can also manifest from kith who lived particularly chaotic lives, including violent criminals and the insane. Anyone can become a phantom under the right circumstances, but the fear of phantoms – and their association with the mentally ill – can result in vulnerable populations being shunned across many communities. 
 </DefaultText>
       <FemaleText />
     </Entry>
@@ -240,7 +241,7 @@ On the rare occasions that ogres are found working together, they are almost alw
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Shadows are created when creatures with heavily fractured souls die without re-entering the cycle of rebirth. Because these souls are damaged, they drain essence from other creatures in a futile attempt to repair themselves. The more essence they steal, the more powerful and dangerous shadows become. As they devour essence, they pick up pieces of corporeal matter, giving them a visible, if indistinct, form. Luckily, shadows can only draw a small bit of spiritual energy from souls still attached to a body or bound to an object. They mainly rely on creatures like the p&#373;gra, who can draw souls out of their physical form, to help them obtain the essence they crave.
+      <DefaultText>Shadows are created when creatures with heavily fractured souls die without re-entering the cycle of rebirth. Because these souls are damaged, they drain essence from other creatures in a futile attempt to repair themselves. The more essence they steal, the more powerful and dangerous shadows become. As they devour essence, they pick up pieces of corporeal matter, giving them a visible, if indistinct, form. Luckily, shadows can only draw a small bit of spiritual energy from souls still attached to a body or bound to an object. They mainly rely on creatures like the pŵgra, who can draw souls out of their physical form, to help them obtain the essence they crave.
 
 Shadows have been known to draw spiritual energy from people while they sleep, when their souls are not bound as strongly to their bodies. This results in horrible nightmares that leave the person in an exhausted state the next day. If an entire town suddenly begins to suffer nightmares, it is highly probable that a strong shadow has taken up residence there.
 
@@ -252,7 +253,7 @@ Since shadows absorb spiritual energy, they appear invisible to creatures that r
       <ID>47</ID>
       <DefaultText>Young dragons begin their life cycle as wurms, though most never develop beyond that stage. Wurms are clever and sly, if not especially intelligent. To develop into a drake (and eventually a dragon), a wurm must have ample space and resources. They will not develop if they live near existing drakes and dragons. They must seek out a habitat that has not already been claimed by a larger counterpart.
 
-Since the chances of further development are low, most wurms will band together in covens for survival. They are bold and highly aggressive creatures, if not particularly intelligent &#8211; the intense competition for food and territory demands this. 
+Since the chances of further development are low, most wurms will band together in covens for survival. They are bold and highly aggressive creatures, if not particularly intelligent – the intense competition for food and territory demands this. 
 </DefaultText>
       <FemaleText />
     </Entry>
@@ -330,7 +331,7 @@ Despite their extreme intelligence and power, vithrack are not a major force in 
       <ID>56</ID>
       <DefaultText>These amorphous clouds rapidly swirl with violent energy. Within the maelstrom, dozens of humanoid shapes materialize and vanish within an instant. Faces scream in silent agony while hands desperately clutch and claw at the air around the mass.
 
-B&#238;a&#373;acs (spirit winds), as these storms are known, often create blights. If souls are ripped free of bodies and caught in the center of the storm, they may become stuck together and bonded with any other elemental substances in the maelstrom. They are pure chaos and confusion, and destroying them is considered a mercy to the souls trapped within. 
+Bîaŵacs (spirit winds), as these storms are known, often create blights. If souls are ripped free of bodies and caught in the center of the storm, they may become stuck together and bonded with any other elemental substances in the maelstrom. They are pure chaos and confusion, and destroying them is considered a mercy to the souls trapped within. 
 
 Experimenting with blight creation is yet another questionable activity that has earned animancers a bad reputation in many circles. Some see it as dangerous and inhumane, others as a means to an end. The creation of blights is an accusation many fearful kith level at animancers.
 </DefaultText>
@@ -338,9 +339,9 @@ Experimenting with blight creation is yet another questionable activity that has
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>A delemp&#373;gra ("rotten leaf"), more typically called p&#373;gra ("rotten"), is a delemgan that has been corrupted by the destruction of their home tree or adra stone. They are as ugly as delemgan are beautiful, spindly and emaciated with cool tones to their skin. Their hair is dead, dark, and slimy, their facial features contorted, and their teeth long and sharp. Unlike delemgan, they are not surrounded by motes of light, and they are more than willing to attack unfortunate travelers with their long talons. P&#373;gra decorate themselves with the skulls, skins, and feathers of animals they've killed.
+      <DefaultText>A delempŵgra ("rotten leaf"), more typically called pŵgra ("rotten"), is a delemgan that has been corrupted by the destruction of their home tree or adra stone. They are as ugly as delemgan are beautiful, spindly and emaciated with cool tones to their skin. Their hair is dead, dark, and slimy, their facial features contorted, and their teeth long and sharp. Unlike delemgan, they are not surrounded by motes of light, and they are more than willing to attack unfortunate travelers with their long talons. Pŵgra decorate themselves with the skulls, skins, and feathers of animals they've killed.
 
-Just as delemgan seek to maintain the health of their forests, p&#373;gra seek to corrupt them, making the two species mortal enemies. The rot that infects them endows their attacks with a ghastly poison, but it also makes their bodies weak and brittle, leaving them vulnerable to piercing and crushing attacks. 
+Just as delemgan seek to maintain the health of their forests, pŵgra seek to corrupt them, making the two species mortal enemies. The rot that infects them endows their attacks with a ghastly poison, but it also makes their bodies weak and brittle, leaving them vulnerable to piercing and crushing attacks. 
 
 Since they can no longer draw essence from a healthy forest, they must survive by drawing energy and essence out of plants, animals, and kith. This makes them natural allies with shadows, which feed by similar means and enjoy the benefits of a shared hunt. 
 
@@ -412,7 +413,7 @@ Like all living creatures, they have a measure of soul essence, but their lack o
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Cean G&#373;la are violent and confused spirits that have been unable or unwilling to move beyond the Shroud. More specifically, these are the spirits of women who die under particularly tragic or traumatic circumstances, hence the name "cean g&#373;la," which translates to "blood mother." The popular image of the cean g&#373;la as the spirit of a jilted lover has changed in recent years, as the effects of Waidwen's Legacy have become more widely known. With so many Hollowborn arising and a similarly steep rise in cean g&#373;la sightings, many assume these spirits are linked to mothers who have died in childbirth. In reality, the Cean G&#373;la manifest just as readily from the spirits of women who perished in violent crimes or accidents, or those who led particularly violent lives.</DefaultText>
+      <DefaultText>Cean Gŵla are violent and confused spirits that have been unable or unwilling to move beyond the Shroud. More specifically, these are the spirits of women who die under particularly tragic or traumatic circumstances, hence the name "cean gŵla," which translates to "blood mother." The popular image of the cean gŵla as the spirit of a jilted lover has changed in recent years, as the effects of Waidwen's Legacy have become more widely known. With so many Hollowborn arising and a similarly steep rise in cean gŵla sightings, many assume these spirits are linked to mothers who have died in childbirth. In reality, the Cean Gŵla manifest just as readily from the spirits of women who perished in violent crimes or accidents, or those who led particularly violent lives.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -712,7 +713,7 @@ Any Ability or Talent that does not use a weapon as part of the attack gains a s
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>Characters with Bruised Ribs suffer a penalty to their Fortitude defense and Constitution.</DefaultText>
+      <DefaultText>Characters with Bruised Ribs suffer a penalty to their Constitution.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -722,7 +723,7 @@ Any Ability or Talent that does not use a weapon as part of the attack gains a s
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>Concussions inflict a penalty to the character's Intellect as well as their Will defense.</DefaultText>
+      <DefaultText>Concussions inflict a penalty to the character's Resolve and Intellect.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -732,7 +733,7 @@ Any Ability or Talent that does not use a weapon as part of the attack gains a s
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>The Sprained Wrist injury inflicts a penalty to Deflection and Accuracy.</DefaultText>
+      <DefaultText>The Sprained Wrist injury inflicts a penalty to Deflection.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -742,7 +743,7 @@ Any Ability or Talent that does not use a weapon as part of the attack gains a s
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>Characters with a Swollen Eye suffer penalties to Accuracy and Perception.</DefaultText>
+      <DefaultText>Characters with a Swollen Eye suffer penalties to Perception.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -752,7 +753,7 @@ Any Ability or Talent that does not use a weapon as part of the attack gains a s
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>A Twisted Ankle injury reduces Reflex and Dexterity.</DefaultText>
+      <DefaultText>A Twisted Ankle injury reduces a character's Reflex defense.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -762,7 +763,7 @@ Any Ability or Talent that does not use a weapon as part of the attack gains a s
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Characters with a Wrenched Knee suffer a penalty to Movement Speed and Dexterity.</DefaultText>
+      <DefaultText>Characters with a Wrenched Knee suffer a penalty to Movement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1133,8 +1134,7 @@ Note that many suits of armor and many creatures will grant different Damage Red
 
 Some afflictions make it impossible for a character to Engage an enemy. Paralyzed, Petrified, Prone, and Stunned all automatically drop Engagement and can be used to get out of trouble.
 
-Note that there are a number of Talents and Abilities that modify Engagement rules, such as Graceful Retreat, Hold the Line, the fighter's Defender, the barbarian's Wild Sprint, and the rogue's Escape. Some creatures, especially large ones, may be able to Engage more than one creature at a time.
-</DefaultText>
+Note that there are a number of Talents and Abilities that modify Engagement rules, such as Graceful Retreat, Hold the Line, the fighter's Defender, the barbarian's Wild Sprint, and the rogue's Escape. Some creatures, especially large ones, may be able to Engage more than one creature at a time.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1146,8 +1146,7 @@ Note that there are a number of Talents and Abilities that modify Engagement rul
       <ID>205</ID>
       <DefaultText>Flanking occurs any time two attackers Engage an opponent in melee from opposite directions. When this situation exists, defenders are Flanked, inflicting various penalties and allowing them to be Sneak Attacked. Any condition on an attacker that would break his or her Engagement will also remove the Flanked condition on the defender if it cannot be sustained without him or her.
 
-Note that there are a small number of Abilities that grant exceptions to the standard flanking rules, such as the barbarian's One Stands Alone, the ranger's Stalker's Link, and the cipher's Phantom Foes.
-</DefaultText>
+Note that there are a small number of Abilities that grant exceptions to the standard flanking rules, such as the barbarian's One Stands Alone, the ranger's Stalker's Link, and the cipher's Phantom Foes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1165,8 +1164,7 @@ Active and modal bonuses (e.g. from Abilities or consumable items) use the highe
 
 Equipment also uses the highest bonus and lowest penalty to any given statistic. It includes all items equipped directly on the character except for weapons. Equipment is a separate category from active/modal, so the highest bonuses and lowest penalties from each category are added together.
 
-Afflictions (e.g. Stunned, Prone) are generally considered active effects. If an affliction is applied to a character while the same affliction is already active, it will replace the existing affliction's duration if the new duration is longer.
-</DefaultText>
+Afflictions (e.g. Stunned, Prone) are generally considered active effects. If an affliction is applied to a character while the same affliction is already active, it will replace the existing affliction's duration if the new duration is longer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1176,11 +1174,11 @@ Afflictions (e.g. Stunned, Prone) are generally considered active effects. If an
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>Fatigue represents the physical and psychological wear and tear of demanding activity on a character. It builds up over time as characters travel, explore, and especially when they engage in combat. Some scripted interactions will also result in Fatigue if they are especially grueling. The Athletics skill automatically slows the onset of Fatigue from any source.
+      <DefaultText>Fatigue represents the physical and psychological wear and tear of demanding activity on a character. It is most commonly received as an Injury when a character is knocked out, but some scripted interactions will also result in Fatigue if they are especially grueling.
 
-Fatigue goes through multiple stages, initially inflicting minor penalties but growing in severity over time.
+ Fatigue goes through multiple stages, initially inflicting minor penalties but growing in severity over time.
 
-Resting is the easiest way to remove the effects of Fatigue, though some consumables can also lower a character's Fatigue total.</DefaultText>
+ Resting is the easiest way to remove the effects of Fatigue, though some consumables can also remove Fatigue.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1339,7 +1337,7 @@ This means that all of the statistics of the weapons still apply, including the 
     </Entry>
     <Entry>
       <ID>240</ID>
-      <DefaultText>A nation that resulted from the merger of a human kingdom and an elf kingdom four hundred years ago, ruled by a ferc&#246;nyng ("first king") or mecwyn ("illustrious queen"). Both Dyrwood and Readceras originated as colonies of Aedyr.</DefaultText>
+      <DefaultText>A nation that resulted from the merger of a human kingdom and an elf kingdom four hundred years ago, ruled by a fercönyng ("first king") or mecwyn ("illustrious queen"). Both Dyrwood and Readceras originated as colonies of Aedyr.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1434,7 +1432,7 @@ This means that all of the statistics of the weapons still apply, including the 
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>B&#238;a&#373;ac</DefaultText>
+      <DefaultText>Bîaŵac</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1651,6 +1649,94 @@ However, even an ordinarily hostile AoE will not affect allies in the outer marg
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>301</ID>
+      <DefaultText>Lagufaeth are territorial, four-armed amphibians. Though their thick skin protects them from the cold climate of the White March, they tend to favor hot springs. Lagufaeth are communal wilder with rudimentary weapons but a natural aptitude for magic. They are especially dangerous in the mountains, where storms and snowfall may hide their presence from travelers until it's too late. They can remain under ice for extended periods of time and have been known to surprise unwary fishermen.
+
+A lagufaeth redfin is a dominant, mature lagufaeth. They may be male or female. A lagufaeth that transitions into a redfin develops a reddish-brown tint to its skin and a bony crest atop its head. They are rarely the oldest member of a group, but they are the most aggressive, and they are typically responsible for defending a nest or group. When a lagufaeth redfin loses status, its crest falls off and its skin returns to a shade of blue, green, or purple.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>The fate of the dwarves of Durgan's Battery remained a mystery to scholars for two hundred years. What little was known indicated that the dwarves had been divided by a great disagreement among their komendants. They locked the doors of the Battery and never emerged again.
+
+These skeletons are the size of dwarves, and the armor they wear was once of excellent quality, much like the legendary Durgan steel. Unlike most skeletons, they fight in organized battle formations. Their skill and discipline in battle make them formidable foes, as does their sturdy armor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>Like phantoms, wraiths are spirits that have remained behind after an especially violent life or death. Though they appear all over Eora, the passes of the White March - populated as they are with ogres, lagufaeth, bandits, and slavers - propagate them with alarming speed.
+
+Wraiths seek to feed on living essence, and they will attack any kith or wilder nearby. Though seemingly mindless in their aggression, they are clever enough to fragment groups, snatching up and isolating their victims so they can feed upon them one at a time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>Sirens are believed to be manifestations of essence drawn together by some fervent longing or desire imprinted by its former host. They are commonly associated with the sea and with Ondra as many stories of sirens entail navigational mishaps thought to have been caused by their irresistible call. In truth, however, sirens can be found anywhere the right conditions arise, and they are less dangerous for their call than for their earsplitting shriek. 
+
+They are said to most often take the shape of an alluring woman, regardless of the identity of the person or people who surrendered the essence, and the reasons for this are uncertain, though the most popular theory suggests that this was a preference of Ondra.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>Spite is among the most enduring of negative emotions. Hatred often cools over time. Sadness surrenders to acceptance. But the indignation brought about by cruelty, injustice, or even simple annoyance can infect the spirit and survive even beyond death. 
+
+So it is with bitter spirits, which exist as little more than an amalgam of resentful instincts, inclined to lash out at anyone they perceive, and unsatisfied until their victim has suffered and died. "Bitter spirits" is also the name of a homebrewed liquor popular in the rural areas of northern Dyrwood, and it can be described in much the same terms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>When Durgan's Battery had nearly fallen, a final stand was made. Its best surviving craftsmen used the White Forge to create guardians made of their finest materials and most heroic souls. In the end, however, the Battery fell all the same.
+
+Attempts to create artificial beings from metal, stone, and other materials substantially predate modern animancy, but advances in the science have taken constructs from rare, malfunction-prone automatons to semi-sentient beings that have become somewhat more commonplace in recent years. Malfunctions are less common, though the use of souls - often from dubious sources - does seem to increase the severity and violence of such episodes.
+
+Because metal is frequently employed in their construction, constructs are often thought of as walking suits of armor, but this is a misnomer. Constructs are rarely empty shells - more typically they are made of solid materials, or filled with clockwork mechanisms to aid with locomotion. More subtly, but perhaps more significantly to their creators, constructs are typically designed to be kith-like in both shape and function, and constructs with any semblance of personality are rare, companionship is one of the most cited motivations for building them.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>Alguls are guls whose physical deterioration has been halted by a wizard's ritual. The number of wizards who have successfully converted a gul to an algul are few - the ritual is complex, and it is rumored that the ingredients required in the ritual are unsavory and difficult to acquire. Sages believe that the ritual is the first step for a cure for undeath.
+
+Whatever reasoning behind the ritual, alguls are fearsomely powerful and intelligent. Though their bodies no longer decay, their eternal hunger for kith flesh remains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>Liches are as formidable as they are rare. They're masters of the arcane who have discovered ways to extend their own lives without facing the mental deterioration of fampyrs and other vessels. There are no reliable records or accounts of how to become a lich - the few who've managed to succeed have been hesitant to share their methods - but it's believed that the process is both difficult and excruciating. The annals of wizardry are littered with cautionary tales of ambitious mages who attempt immortality but manage only to rip their own bodies apart.
+
+While liches decay physically, they retain their mental faculties, which is part of what separates them from vessels. They achieve this by binding their own essence to phylacteries, which are popularly represented as vials or charms worn or kept close to the body. However, none of the few known liches have ever revealed the nature or location of their phylacteries, so theories about them are ultimately speculation.
+
+Most liches are believed to be powerful wizards or mages, but this is a generalization rather than a rule. One lich who lived almost a thousand years ago was a priestess of Berath who was sustained through her own rigorous devotion. Animancers have been rumored to experiment with similar concepts, but given the profession's questionable reputation, none have been willing to admit this. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>Animancers, necromancers, and other unscrupulous spellcasters who experiment with the bodies of kith have been known to create all sorts of constructs and vessels. Some exist as subjects for study, and others are sources of amusement.
+
+Void seers are skulls filled with essence. The first accounts of void seers come from Old Vailia, where a now-infamous necromancer created them as a diversion for court. Since then, they've been used as patrols, guards, and attendants. Their small size makes them easier to create and direct.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>Wizards have experimented with constructs for centuries, but the process of transferring soul essence out of a living body and into something else - be it stone, metal, or bone - has always been a difficult one. As the body of research on the subject has grown - thanks in large part to animancy - methods have improved. 
+
+Yet transferring an intact soul - one that retains personality, memory, and intelligence - is harder still. Ethelmoer, the head of the Brackenbury Sanitarium in Defiance Bay, is one of the few successes. Proponents argue that perfecting this method would allow kith to extend their own lives without degenerating into fampyrs, guls, and other flesh-eating vessels. Others contend that the metallic monstrosities that fill clandestine animancy labs are more horrific still.
+
+It's been estimated that, for every truly sentient construct, there are scores - if not hundreds - of maimed souls trapped in half-finished bodies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>Skeletons make formidable and persistent warriors, though their exposed bones can be vulnerable. Armor can mitigate this somewhat, though plate, chain, and scale mail gradually wear away at bones. Various solutions have been sought to prevent this, including the coating of bones in protective sheaths or resins. The challenge is to cover the bones without impeding their movement. It's a difficult task that, when successful, creates incredibly strong and durable skeletons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>Flying swords and floating brooms has been a dream of would-be battlemages and overworked apprentices forever. But while many wizards can levitate everyday objects, few can control them midair, especially in the heat of battle. Yet if a magically and martially skilled spellcaster could learn to manipulate dozens of weapons at once, she would be powerful, indeed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>313</ID>
       <DefaultText>Immune</DefaultText>
       <FemaleText />
@@ -1658,6 +1744,15 @@ However, even an ordinarily hostile AoE will not affect allies in the outer marg
     <Entry>
       <ID>314</ID>
       <DefaultText>A subset of enemies may be immune to one or more damage types. In these cases the defender will never any take damage of that type. However, secondary effects that are applied separately from the damage can still affect the target.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>Soulbound items are unique items that can magically bond with the soul of a single character. Once bound, the item can only be used by that character unless the bond is severed. A soulbound item will increase in power as the wielder completes certain requirements specified in the item's description.
+
+Most soulbound items can only bond with characters of certain classes. However, regardless of the item's type, a soulbound item always qualifies for any Talents or Abilities like Weapon Focus and Specialization that the character may have. E.g. if a fighter has Weapon Focus and Specialization in Ruffian, he or she would gain their benefits even when wielding a soulbound great sword or wand. Benefits from multiple Talents or Abilities of the same type (e.g. Weapon Focus Ruffian and Peasant) do not stack.
+
+If the bond to a soulbound item is ever severed, it will lose all of the abilities it has gained over time.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1673,6 +1768,16 @@ The arms of the White March can still be seen on fine pieces of bronze and steel
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>318</ID>
+      <DefaultText>Maegfolc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>Maegfolc are among the largest creatures in Eora. They typically live in remote, rugged areas where they often live and hunt alone or in small groups. While there are many different kinds, almost all are known to be aggressive and reclusive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>320</ID>
       <DefaultText>Spellchance</DefaultText>
       <FemaleText />
@@ -1683,6 +1788,11 @@ The arms of the White March can still be seen on fine pieces of bronze and steel
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>322</ID>
+      <DefaultText>The Distracted affliction lowers all of the target's defenses by 6 and lowers their number of Engagement targets by 1. For most characters, this means they cannot hold any enemies in Engagement while Distracted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>323</ID>
       <DefaultText>Unconscious</DefaultText>
       <FemaleText />
@@ -1690,6 +1800,108 @@ The arms of the White March can still be seen on fine pieces of bronze and steel
     <Entry>
       <ID>324</ID>
       <DefaultText>Unconscious characters can't take action. Dexterity is reduced to 0. Reflex and Deflection are reduced by 40.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>Frostbites lowers a character's Freeze DR and Fortitude defense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>A Severe Burn lowers a character's Burn DR and Dexterity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>A Severe Wound reduces a character's received healing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>System Shock reduces a character's Shock DT and resistance to Stunned and Prone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>Strange Illness</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>This is the illness you contracted near the ruins of Cilant Lîs. It is characterized by simultaneous chills and intense flashes of warmth as well as shortness of breath. The caravan master, Odema, identified it as a common illness, the Rumbling Rot, but there's something strange about it. In spite of the symptoms, it doesn't feel like any sickness you've ever had before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>Sailors all over Eora tell stories of the beasts that haunt the deep. Of these, few are more feared than the kraken.
+
+Krakens rarely venture to the surface, and they almost never leave survivors in their wake. They are massive, tentacled beasts, capable of crushing small ships and plucking sailors from their decks. Despite their size, krakens' soft, flexible bodies allow them to squeeze through tight spaces in search of prey or shelter. Thankfully, they prefer dark, quiet spaces to open water.
+
+They are cunning hunters and, according to legend, Ondra's terrible servants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>The Eyeless are ancient, mysterious maegfolc, more widely known in myth than fact. With their grotesque build and their crude yet functional limbs, they vaguely resemble constructs, though their origins and purpose are unknown. They know neither hunger nor fatigue, making them singularly relentless foes.
+
+Popularly, Eyeless are said to serve Ondra by seeing old or dangerous things forgotten. The peoples of the White March describe them as boogeymen that stalk old roads and secluded places. Parents warn their children not to forget their chores lest the Eyeless see them "forgotten," and people who lose something traditionally thank Ondra that the Eyeless did not come for them, too.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Like the more common Dank Spore, the Radiant Spore is a giant, fungal organism drawn to the soul energy of living creatures. Unlike its more overtly predatory cousins, however, the Radiant Spore appears to boast a kind of central, sentient intelligence. It is capable of forming and utilizing parasitic bonds with several prey species by releasing potent clouds of mind-altering spores. These provide the Radiant Spore with a link to its many victims, through which it is able to project its will. 
+
+Held upright by a network of thick, mobile roots, the Radiant Spore is also capable of more direct attacks, utilizing its tendrils as gripping appendages or else as immense bludgeons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>Ground</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>Any attack marked as "Ground" is one that affects the ground itself or creates a hazard immediately above it. Spells like Slicken or Tanglefoot are both classified as Ground attacks. Some creatures, especially flying monsters or spirits, are immune to attacks classified as Ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>Though superficially similar to the cavern-dwelling skuldr, skuldrak are found in colder climes, and typically at much higher altitudes. They boast considerably better eyesight, but are still most effective as scavengers or ambush hunters. While the skin flaps beneath skuldr forelimbs are entirely vestigial at all ages, young skuldrak have fully functional wings. These wings are capable of sustaining their body weight at first, but once skuldrak mature, they can only glide for short periods of time. 
+
+Like their hairless cousins, skuldrak are communal, and nest and raise their young together. Their close-knit communities depend upon such bonds in order to survive the harsh climate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>Enormous and hostile spiders come in a terrifying array of shapes, colors, and sizes throughout the Eastern Reach. Much more aggressive than their tiny kin, these giants actively seek out kith and animal prey. 
+
+Moon spiders are infamous for forming symbiotic relationships with other, typically intelligent species, actively seeking out allies which might further their own survival. In turn, they project an aura which heals and rejuvenates these allies. It is hypothesized that this aura is in fact comprised of minute particles of moon spider venom, which is alleged to be a powerful stimulant. But few moon spider specimens have been captured for study, and even fewer scholars have survived the aftermath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>War dogs are a common enough sight upon the battlefield, though they have never held a particularly large role in the pitched fighting between Dyrwood and Readceran forces. The dogs employed by The Iron Flail hail from a large, sturdy breed common to the Readceran countryside, where they are valued as guardians against wolves and other predators. The Flail's war dogs, of course, have been bred and raised to take on far more formidable opponents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>Spellstamina</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>Items with the spellstamina property will automatically trigger the associated effect when the user hits the listed percentage of Endurance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>Bog bats are differentiated from their skuldr and skuldrak relatives by several physiological differences. Chief among these is the fact that bog bats appear to retain their juvenile morphology even once mature. This provides adult bog bats with the capacity for flight, but it limits their prey to what creatures they can bring down individually. To that end, bog bats are equipped with a noxious secretion which they spit at their intended victims. Bog bats also eschew the large, communal broods of their larger relatives. Bog bats are typically found in small swarms, and will frequently squabble over food, mates and territory.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\01_defiance_bay_copperlane\01_cv_nyrid</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>73</EntryCount>
@@ -10,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"How dare you hit your own fianc&#233;e! How can you live with yourself?"</DefaultText>
+      <DefaultText>"How dare you hit your own fiancée! How can you live with yourself?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

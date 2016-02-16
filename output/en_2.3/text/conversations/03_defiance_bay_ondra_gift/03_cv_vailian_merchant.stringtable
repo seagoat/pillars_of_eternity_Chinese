@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_vailian_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「來 看 看 我 賣 的 東 西 吧 -都 是 來 自 共 和 國 和 前 維 拉 的 奇 異 貨 品 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「讓 我 看 看 你 賣 的 是 些 什 麼 東 西 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"再 見 。"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「朋 友 ，今 天 想 買 我 的 哪 類 物 品 ？」</DefaultText>
+      <FemaleText>「朋 友 ，今 天 想 買 我 的 哪 類 物 品 ？」</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

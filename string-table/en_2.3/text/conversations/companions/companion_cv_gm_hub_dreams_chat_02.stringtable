@@ -1,0 +1,435 @@
+<StringTableFile>
+  <Name>conversations\companions\companion_cv_gm_hub_dreams_chat_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>78</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A mixture of curiosity and fear wells up between you. She raises her left hand, the chiming at her wrists quelling the rise within her... she is frightened, but curiosity anchors her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"The dream... the memory I saw upon meeting you. It was you, helping give birth to a child."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I want to talk about the birth memory again, help you recall it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I saw a Hollowborn at the Birthing Bell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Never mind... I had other questions I wanted to ask you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"It is no matter. Let us continue on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Trigger Conv Node 9</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>There is silence, and as your breath falls still, you hear the faint cry of a child in the distance, a newborn child, almost exactly like what you heard in the dream. 
+
+As you listen, the Grieving Mother raises both her hands, as if weaving, her wrists chiming as she does so... in a semblance of the gentle turning she provided while the newborn was crowning... to your surprise, you recognize the motions and the words from the memory, even as they are new to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>As she weaves her hands through the air in front of her, the child's cries grow still... yet the sound of the chimes weaves almost hypnotically into your thoughts. The sky seems sharp and clear... and you feel as if you are... towering over your surroundings, as if kneeling atop a great pillar... just as she did in the memory.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>To your surprise, the Grieving Mother falls as if her strings were cut, and her knees crack hard against the ground. Her hands never cease moving in the air, the chimes echoing her movements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Tell me what you saw... show me what you saw." 
+
+Her eyes... now terribly sharp and real, are filmed with white... silver white, like adra. "Where were you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"A... mountain ledge, I think? It was high up... snow, I think?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"A huge forest? Stretching out beneath a great rock?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"We were in the middle of a clear forest... with a strong wind tearing through it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"It was in the middle of a forest, atop a great plateau. The sky was clear, mist blanketing the trees."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I do not remember."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>She leans back, as if looking back at the sky - but her eyes are closed, the film building on them. With a slow intake of breath, you feel time become quiet around you...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I... do not feel the memory. I do not know if it is mine. But..."
+
+Her hair falls across her features again like a veil, and she nods... not with her chin, but a push in her mind. "But thank you for trying."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>She shakes her head slowly, and her arms collapse, her hands falling against the ground...
+
+The film of her eyes give way to tears that move slowly down her cheeks... but her expression doesn't change. You feel a well of... emptiness. Anguish... but more absence than sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>As she kneels before you on the ground, she whispers to you, hoarsely and even fainter with the distance between you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"It was silver adra, its surface warmed by the sun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"It was desert rock, copper-colored, arched, blasted by the sun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"It may have been the same stone as the circle I found you in, I'm not sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"It was a plateau of granite, carved into a tower."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>As you watch, her hands rise before her. She clasps them, then cups them, as if feeling them for the first time... and she stares down into the cradle of her hands... and the chimes sound once, twice, as they swing with the movement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"The same chimes you hold now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"They held a mother while she gave birth, painfully."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I am not sure... there was a child you were bringing forth, and your hands... I don't recall."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"A newborn child."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>There is a sudden intake of breath, and then... a release. Her eyes blur closed, forming into slits... but in the brief glimpse you have of her changing expression, the rippling pain in her features seems to have... smoothed. 
+
+She swallows, once, twice... and then you feel her once again in your thoughts, the rasping husk of her voice swallowed and drawn within her. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"It was the Birthing Bell you saw." There is surprise... 
+
+...followed by a rising horror swirling beneath the words. "Has it been so long? Have I forgotten so much?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>With the words comes a river of impulses, thoughts, as if loosed from a breaking dam... and as your mind wraps the impulses into words, you realize it is her muscles and her hardened thoughts relaxing and breathing again... 
+
+...there is such an intensity you almost want to step back from the flow, but you find the wave of impulses cause questions to float to the surface.
+
+Among them is a name - "Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"What is the Birthing Bell?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Trigger Conv Node 42</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Your help has allowed me to remember the Birthing Bell and the children born there. For these happy memories, I thank you."
+
+Even as her gratitude laps at you, warm and placid, she shivers as if at a sudden breeze. For an instant, you feel raging winds, a b&#238;a&#373;ac, clawing at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Something's wrong. What is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"We've shared much together. Tell me what troubles you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>The winds die, and a heavy fog seems to settle in the Grieving Mother's mind. 
+
+"It is nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Something within her begins to open up, a ray of sunlight on a desolate landscape. 
+
+"I do not exactly know. Of late I find my sleep beset with nightmares and my waking hours haunted by visions of... terrible things. Empty things.
+
+"But these are delusions born of fear, nothing more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>The Grieving Mother's head bows, and she raises her hands, cradling them, slowly, so the chimes do not sound as she moves them. You feel a chill in the air, as if the vault of your mind is growing, too large for the thoughts within... and your breath is laced with a chill.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>To your horror, you hear her breathing, ragged, hacking, but strangely steady... and you can see saliva bunching at the corners of her lips, becoming thick ropes of drool that cast themselves down her chin.
+
+There is the smell of blood in the air, new, wet, and the salt... sharp tang in your mind. Coupled with this is the smell of sodden undergarments cloying at your senses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Grab her, shake her.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Take her shoulder, try and steady her.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Are you all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>To your surprise, her thin frame fights you, remains upright, yet she does not seem to be exerting herself... she seems to be drawing strength from the horrid breathing you hear. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Stepping forward, your hand falls on her shoulder... and then you feel her begin to fall, rigid as a falling stone, and you place your other hand on her shoulder to steady her. Throughout, there is the horrid, steady breathing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>She doesn't answer... and you don't think she even heard the question... or even knows someone is speaking to her. You sense no thoughts, no awareness from her at all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Her clothes are wet... it is as if she is burning with fever beneath her tangled hair and beneath her threadbare robes... as if she is giving birth. 
+
+With a slow hissing intake of breath, her head rolls back on her shoulders, her eyes pressed tightly together like the lids of a newborn. Yet past the lids, you can feel the piercing stare, vacant, cold... horribly, you sense nothing from her, not a thought, like the Hollowborn you held in her memory. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>You know if you try and pull away now, she will vanish into herself, and vanish from your thoughts, perhaps forever... and you have a terrible feeling that whatever connects the two of you will be cut.
+
+She is as helpless before you as a child, and you search your thoughts for a way to coax her to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Sound the birthing chimes in your mind.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Imagine the cries of the newborn from the first memory when you met.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Share a memory of peace and comfort.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Wake up - listen to me, listen to my voice!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Grab the chimes on her wrists.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Your soul is strong. You were meant for more than this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Leave her alone.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>She makes no motion... and you know you are about to lose her and the memory of her if you don't act.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>She makes no motion... no sign that she's heard you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>You know you are about to lose her and the memory of her if you don't act.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Her skin is cold, so cold you can't imagine she is even has a pulse... you know for certain, she cannot feel your touch.
+
+As you touch them, the chimes make the same hollow, dull sound as in the strange nightmare. They remind you of emptiness and regret.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Then she slowly vanishes from your vision, as if sinking into the air like sinking into a black lake, and there is a great stillness. You can see her silhouette, then... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>As you step back, you can feel the distance between the two of you widening. Then...
+
+Then she slowly vanishes from your vision, as if sinking into the air like sinking into a black lake, and there is a great stillness. You can see her silhouette, then... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>You feel a sudden chill escaping you, an absence in your gut, then a growing warmth... a faint moment where you believe you have forgotten something, but can't recall it. You touch your abdomen for a moment... what...
+
+...on the ground before you is an odd collection of items, as if someone simply left them there. Curious.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>She jerks slightly before you, then her head tilts, and the steady breathing breaks... and she gives a wracking cry. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"I... do not know. I think you helped give birth to the child - then gave it to the mother."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"It was a reverse of the previous memory... the child was born dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"You helped give birth to a Hollowborn... yet you made the mother think otherwise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Her breathing is steady again, but there is a life in it where there was not one before... and her emotions are... building in her. Apprehension, confusion... welling up. She seems afraid to do more than simply... be aware the memory is there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"You have found a death within me, one that many women have born within them." 
+
+The words swirl with impulses and weight, spiraling around her, and you feel as if you are being dragged into it. "I sought to serve women in need, and instead, my hands ushered no new life. What happened next... I... bear the responsibility for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"What happened next?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Trigger Conv Node 95</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"We shall discuss this another time. Let's move on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>In a ragged voice, you hear her speak... the voice is that of a much older woman than the one before you, harsh, almost desperate. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"The stone of the plateau... its color? Tell me its color."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Again, she speaks - sharp, hoarse. "And what did these hands hold?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"And what did you see in my memories? I would... hear you speak of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"I... thought it was my doing..." She swallows, so dry and rasping, you feel it in your thoughts as you hear it. "I... thought that I had stilled it with my thoughts... the child... it was just a child... what was done with it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"It was not the last Hollowborn on the Birthing Bell, and never again did I hear a child's cry."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

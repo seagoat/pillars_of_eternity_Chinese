@@ -1,0 +1,71 @@
+<StringTableFile>
+  <Name>quests\critical_path\act_4\cp_qst_enter_breith_eaman</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Court of the Penitents</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Travel to the Burial Isle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Find the Court of the Penitents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Leap into the pit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>The Delemgan Sisters of Twin Elms know that Thaos has escaped into a subterranean path to an Engwithan location called Sun in Shadow, blocking access behind him. 
+
+The sisters revealed to me another way to reach him - perhaps even overtake him. The Burial Isle offers a path through the ruins of an ancient Engwithan prison, Breith Eaman. The route is perilous, but it may be the fastest way to Sun in Shadow, as it involves a long fall straight down.
+
+My hallucinated memories are becoming more frequent now, barely distinguishable from the waking world. I am running out of time. I need to know what Thaos remembers about the past that we share, so that whatever it is that plagues my soul can be put to rest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>I've learned from S&#238;dha and R&#238;henwn that the way into Sun in Shadow lies in the Burial Isle district. There is an ancient court there that can lead me to Thaos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I've reached the shores of the Burial Isle. Somewhere in the island, the Court of the Penitents offers a way into Breith Eaman, and to Sun in Shadow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>At the center of the Court of the Penitents is a pit so deep that the bottom cannot be seen, nor does it make a noise when pebbles are knocked into it. The fall would surely kill anyone who jumped.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Dorvhal, guard and bargeman of Oldsong, has told you that the Burial Isle is unlike any other district of Twin Elms. The island is a burial ground for the anamfaths of the Six Tribes, and a dangerous place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I have found a shortcut to the Court that appears to save me a dangerous journey.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>It would likely take some form of divine intervention to be able to safely reach the bottom of this pit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I've survived the fall to the bottom of the pit of the Court of the Penitents.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

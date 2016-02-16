@@ -1,7 +1,8 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\factions</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>50</EntryCount>
+  <EntryCount>51</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -205,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Ethik N&#244;l</DefaultText>
+      <DefaultText>Ethik Nôl</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -250,7 +251,12 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Frerm&#224;s mes Canc Suolias</DefaultText>
+      <DefaultText>Frermàs mes Canc Suolias</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Stalwart</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

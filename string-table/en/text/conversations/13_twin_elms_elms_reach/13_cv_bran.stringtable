@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\13_twin_elms_elms_reach\13_cv_bran</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>59</EntryCount>
@@ -117,7 +118,7 @@ He grimaces, looking at the nearby warriors. His voice returns to a whisper. "Th
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"It's not like that. The r&#238;ow have already determined that my soul isn't strong enough. Whoever follows my father, it won't be me."</DefaultText>
+      <DefaultText>"It's not like that. The rîow have already determined that my soul isn't strong enough. Whoever follows my father, it won't be me."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

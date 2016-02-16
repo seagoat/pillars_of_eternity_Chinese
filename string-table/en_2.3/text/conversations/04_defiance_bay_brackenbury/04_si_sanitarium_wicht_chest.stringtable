@@ -1,0 +1,79 @@
+<StringTableFile>
+  <Name>conversations\04_defiance_bay_brackenbury\04_si_sanitarium_wicht_chest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>In a corner of Moedred's lab rests a large, weathered trunk. It seems likely to contain something important, if only by virtue of its size. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Examine the trunk more closely.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Open the trunk.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Leave the trunk alone.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Unlock the trunk.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Nothing grabs your attention except for the large padlock on the front. Whatever this animancer keeps in here, he does not want anyone else to have or see.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The lack of dust on the trunk's surface and the long scratches on the tile flooring suggest that the trunk is frequently used and moved throughout the laboratory despite its considerable size. 
+
+Deep yet narrow gouges score the wood at the edges of the trunk. They look like claw marks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The trunk lies open, emptied of its grim contents. There are only a few scraps of cloth and a gnawed rat bone within. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>A heavy lock holds the trunk shut. It's too sturdy to break, and the mechanism looks too complicated to pick. You'll need to find the key.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You take the key you acquired from Helig and place it in the lock. It fits perfectly and turns with a solid clunk. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The trunk holds no grimoires or treasures. Instead, you find yourself staring into the feral gaze and toothy maw of a twisted, monstrous creature. Its humanoid form has been overwhelmed by bony angles and terrible claws.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>With a start, you recognize the vague shape of a young girl beneath the elongated, malformed bones and grayish skin. It growls and leaps from the trunk, not toward you, but toward Moedred. Moedred has no time to scream before his throat is torn out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>With a start, you recognize the vague shape of a young girl beneath the elongated, malformed bones and grayish skin. It growls and leaps from the trunk, claws outstretched.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

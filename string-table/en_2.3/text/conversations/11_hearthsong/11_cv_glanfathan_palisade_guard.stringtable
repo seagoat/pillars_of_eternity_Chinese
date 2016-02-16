@@ -1,0 +1,171 @@
+<StringTableFile>
+  <Name>conversations\11_hearthsong\11_cv_glanfathan_palisade_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The warrior saunters over, a sneer of suspicion visible beneath streaks of paint. He glances at your gear before favoring you with a long look.
+
+"Another fugitive from the burning city?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"The six tribes of Eir Glanfath welcome you to Twin Elms. Before you lies the Hearthsong district. You are free to explore it, but do not let your feet stray into the other districts. Those are forbidden to estramorwn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What can you tell me about Twin Elms?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Why is it forbidden to enter the remaining districts of Twin Elms?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I'll keep your words in mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Estramor, still!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"The sacred city is divided into four districts, Hearthsong, the commons district, Oldsong, the site of our temples, Elms' Reach, home of delemgan and druids, and the Burial Isle, which is the most sacred place in the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Twin Elms is a sacred city, built where the first Keepers of the Stone met the Builders. It exists alongside the works of the Builders, and it is the only place in all of Eir Glanfath where it is permitted to set foot among these sacred places."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I haven't heard of the Keepers of the Stone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Who are the Builders?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"The oldest of the six tribes." He points the tip of his sword at a long hut behind him. "Up the stairs and into the Passage of the Six. This is where our anamfatha gather. Bethwl, the anamenfath of the Guided Compass, can tell you more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"You know them as the Engwithans. To us, they are the Builders, creators of the sacred places that we guard to this day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I'd like to hear about Hearthsong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Which temples lie in Oldsong?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Tell me about Elms' Reach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Do you know anything about the Burial Isle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"This is Hearthsong. It's a place where Glanfathans and estramorwn may gather together. It is also the site of the Passage of the Six, where our tribal leaders, the anamfatha, meet." 
+
+He points to a large, round building at the other end of the district. "That way is the market. Guard your purse there - no one bargains like a Glanfathan. And if you need a place to stay, follow the fence to the east. There, you will find the way to the Celestial Sapling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"It is the place where our anamfatha are laid to rest among stones placed by the Builders. They say the souls of some of the anamfatha linger there still.
+
+"The way lies through Oldsong. It is the holiest place in all of Twin Elms."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"That's all I wanted to know about the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"There is Noonfrost, which is dedicated to Rymrgand. A group of pale elves from the frozen southlands arrived not long ago to oversee it.
+
+"There is also The Nest, a temple of Hylea, and Galawain's Maw, a den of beasts dedicated to the hunter god. The route to the Burial Isle also lies that way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"There lies Teir Evron, one of the only towers of the Builders still in perfect condition. Two great elm trees twine around it - even the mightiest works of the gods protect the works of the Builders. Two delemgan sisters dwell there now.
+
+"The Hall of Warriors stands at the other end of the district. Rumor has it that Anamfath Simoc of Three-Tusk Stelgaer is there now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Something else you wish to hear?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"The estramorwn, however, do not have proper respect for the stones here."
+
+His words trigger something in your memory. You see an image of a perfect cube of adra. Just as quickly, the image fades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Bank Node 24</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"My Watcher friend," Hiravias pipes up from behind you, "I would be honored to accompany you to Elm's Reach to meet those druids - though I'm a bit wary of any circle with a reputation for brutal sacrifices."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"You have other questions about Twin Elms?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"A leader of one of the tribes could give you the permission of the city. Only Anamenfath Bethwl is present in the Passage of the Six today, and she has her own troubles." He jerks his head at a long hut in the middle of the district.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Elms' Reach is also where the druids keep their halls. There are the Ovates of the Golden Grove and the Ethik N&#244;l of Blood Sands. Many shudder at the brutal sacrifices of the Ethik N&#244;l, but High Ovate Erona is just as powerful in her own way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"The city is sacred to all Glanfathans, as it is the place where our ancestors first encountered the Builders. That fated meeting turned our people from generations of wandering to a permanent home among the Builders' relics.
+
+"When the Builders commanded us to settle here, they allowed us the unique privilege to live among their structures here. It is the only place in Eir Glanfath where this is permitted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Best that you keep your visit brief. Word has reached our ears that the riots have ended and the gates of Defiance Bay have opened once more."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

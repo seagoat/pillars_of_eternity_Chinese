@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\14_burial_isle\14_cv_thaos_2</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>61</EntryCount>
@@ -248,7 +249,7 @@ He gives Thaos another kick. "And before you suggest the option, no - I'm not ea
       <ID>52</ID>
       <DefaultText>You return to the landscape of Thaos' memory, to the vast terrain of deceptions and crippling despair, and you can feel your agency in this world now, an ability to reshape to the whims of your dominant will. 
 
-You focus on a vision of pure emptiness, and your will becomes a swirling vortex around you, sweeping through the landscape and bearing away moments and lifetimes like some apocalyptic b&#238;a&#373;ac that would tear away the essence of the planet itself.</DefaultText>
+You focus on a vision of pure emptiness, and your will becomes a swirling vortex around you, sweeping through the landscape and bearing away moments and lifetimes like some apocalyptic bîaŵac that would tear away the essence of the planet itself.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -327,7 +328,7 @@ The last thing you see is a white void, boundless in all directions, unfettered 
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Perhaps this is the best place in the world for Thaos, somewhere he can&#8217;t cause further harm. Still, you eventually found Iovara. What is a few thousand years to someone like him?"</DefaultText>
+      <DefaultText>"Perhaps this is the best place in the world for Thaos, somewhere he can’t cause further harm. Still, you eventually found Iovara. What is a few thousand years to someone like him?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

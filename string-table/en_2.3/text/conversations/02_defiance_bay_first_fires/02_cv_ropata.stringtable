@@ -1,0 +1,66 @@
+<StringTableFile>
+  <Name>conversations\02_defiance_bay_first_fires\02_cv_ropata</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The burly aumaua wipes his soot-stained hands on the hem of his tunic. "Haven't seen you in the Keep before. Welcome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Is there something I can do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Show me what you have for sale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"What do you do here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I'm Master Dunstan's apprentice. When he's not instructing me in blacksmithing techniques, I'm assisting him in maintaining the weapons and armor of all the knights in the Keep.
+
+"I've also been entrusted with handling the sale of Keep-forged items to special customers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Are you one of the Knights?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Was there something else you wanted to talk about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>He shakes his head. "I'm just a novitiate and haven't been promoted to justiciar yet."
+
+He grins. "Of course, there are more than a few novitiates who refer to themselves as 'Knights,' but only outside the Keep walls and never within earshot of a true justiciar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Can I buy something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I can't sell anything to you without Master Dunstan's permission - he's the one who decides who gets to be customers of the Keep."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

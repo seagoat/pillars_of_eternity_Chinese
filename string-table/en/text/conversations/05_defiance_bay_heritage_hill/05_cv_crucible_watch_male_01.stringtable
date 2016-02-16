@@ -1,7 +1,8 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\05_defiance_bay_heritage_hill\05_cv_crucible_watch_male_01</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>35</EntryCount>
+  <EntryCount>36</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -182,6 +183,11 @@ The guard turns and unlocks the gate.</DefaultText>
     <Entry>
       <ID>49</ID>
       <DefaultText>"Take it easy!" He looks at the other guard. "Look, it's your neck. Don't say we didn't warn you." He turns and unlocks the gate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I'll keep an eye on things here."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

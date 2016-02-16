@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\03_defiance_bay_ondra_gift\03_bs_aefre_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Aefre's in charge here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"We'll stay out of Maea's way as long as you stay out of ours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"You're gonna tell Maea she can't lock us out like this, right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"We live here. We just want to be treated fair-like."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

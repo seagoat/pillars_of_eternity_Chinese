@@ -1,0 +1,260 @@
+<StringTableFile>
+  <Name>conversations\06_stronghold\06_cv_visitor_slaver</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>49</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"At last! I'm glad you're here, my Lord. My name is Solmar. I've a matter of some importance to discuss, if you have the time."</DefaultText>
+      <FemaleText>"At last! I'm glad you're here, my Lady. My name is Solmar. I've a matter of some importance to discuss, if you have the time."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I'll cut to the meat of it. I have a dozen orlan slaves in port at Girrara. Good, healthy stock that will fetch a fine price in Ixamitl, if I can get a ship up the coast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Trigger Conv Node 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Very well. Let's hear it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You gesture for your allies to join you, and take your place upon your throne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I hoped you could be of some assistance. You're not originally from the Dyrwood, I hear. So surely you understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I think you should continue up the coast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I'll help you sell those slaves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I'd like a moment to discuss this with my people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I cannot help you with this at the moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Script Node 12</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Script Node 13</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Continue as before? That seems... unwise, I'm afraid. We've taken care to avoid foul weather, but we can do little about any meddling officials at the port."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"That's much appreciated! What did you have in mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Of course, of course." 
+
+Solmar inclines his head politely and steps out of earshot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Trust me. You won't have any trouble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"You'll find they're less inquisitive in New Heomar. Dock there and you'll have no trouble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"On second thought, perhaps not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Indeed. Perhaps there's some other way?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Hiravias, I want you to head down to Girrara and see if you can free these slaves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Motion for your guest to return.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I would love to. It gives me something to do with my hands while I plot this man's painful death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I hope your discussion was productive?" Solmar steps closer, smiling pleasantly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Motion for your guest to return.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Have you come to a decision?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Lie] "I need some time to look into the matter. Return to Girrara, and I will send word."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Of course. I appreciate you taking the time! I'll await your letter."
+
+Pleased, Solmar bows slightly and turns to stride from the hall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I'll put a good word in with the Crucible Knights. Your ship can dock at Fleetbreaker Castle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I'll call in a favor with the Doemenels. A boat will meet you off the coast by Geiran's Grasp with supplies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I'll talk to contacts in the Dozens. You'll have no trouble at Road's End."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Very well! There's little profit to be made without some risk, hm? Thank you for the advice, my Lord! This is quite a relief."</DefaultText>
+      <FemaleText>"Very well! There's little profit to be made without some risk, hm? Thank you for the advice, my Lady! This is quite a relief."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Truly? Then I was right to come here! Your advice has saved me much time and money, my Lord. Thank you!"</DefaultText>
+      <FemaleText>"Truly? Then I was right to come here! Your advice has saved me much time and money, my Lady. Thank you!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"The Dozens? That's... Well, that is, I'm grateful, of course! Thank you, my Lord!"</DefaultText>
+      <FemaleText>"The Dozens? That's... Well, that is, I'm grateful, of course! Thank you, my Lady!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Knew I could count on you, my Lord. Thank you! Give my thanks to the, ah, Doemenels, too, of course!"</DefaultText>
+      <FemaleText>"Knew I could count on you, my Lady. Thank you! Give my thanks to the, ah, Doemenels, too, of course!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"The Knights? Well! I wouldn't have expected it of them, but... I'm very grateful, my Lord! I'll set off at once!"</DefaultText>
+      <FemaleText>"The Knights? Well! I wouldn't have expected it of them, but... I'm very grateful, my Lady! I'll set off at once!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"My Lord! I have urgent business."</DefaultText>
+      <FemaleText>"My Lady! I have urgent business."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Yes. I've decided to hang you. Guards, take him away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"What? You can't be-! This is madness! Stop! You can't do this to me!" 
+
+Solmar's cries continue even as he is dragged out of the hall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Give 5000cp] "Sell them to me. I'll take them off your hands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Wonderful! That settles the matter entirely! Perhaps I can keep you in mind for future transactions, yes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"My Lord? What is it you plan to do with these orlans?"</DefaultText>
+      <FemaleText>"My Lord? What is it you plan to do with these orlans?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Free them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I'll sell them for more in Spirento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"It is our great fortune that a kind soul sits upon the throne. Would that more followed in your stead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I see. Of course. I'll make the arrangements. There will be no shortage of interested parties, I'm sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"That's the, ah, tricky part. I haven't got the coin to stock a ship for the whole journey. Not without docking at a Dyrwood port along the way, and running the risk of having my goods seized."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Really, these Dyrwood laws are completely impractical for any honest merchant traveling outside of Defiance Bay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Hm. I suppose you've had more experience with the locals. Lax enforcement, is it?" 
+
+Solmar strokes his moustache thoughtfully. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

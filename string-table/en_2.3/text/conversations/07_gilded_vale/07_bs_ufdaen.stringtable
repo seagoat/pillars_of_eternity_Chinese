@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\07_gilded_vale\07_bs_ufdaen</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I'm sure Father can explain better just what's happened here." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"You got what you wanted. Leave us alone." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Good work, putting that mad dog down. Only sorry I couldn't help." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Bastards. Threatening us like that, after all we've done..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I'm glad you convinced them. Last thing we need is our grain stores burned down by a drunk." </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

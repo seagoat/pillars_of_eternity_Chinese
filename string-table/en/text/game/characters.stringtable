@@ -1,7 +1,8 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\characters</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1333</EntryCount>
+  <EntryCount>1830</EntryCount>
   <Entries>
     <Entry>
       <ID>11</ID>
@@ -10,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Ed&#233;r</DefaultText>
+      <DefaultText>Edér</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1180,7 +1181,7 @@
     </Entry>
     <Entry>
       <ID>279</ID>
-      <DefaultText>Cean G&#373;la</DefaultText>
+      <DefaultText>Cean Gŵla</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2130,12 +2131,12 @@
     </Entry>
     <Entry>
       <ID>476</ID>
-      <DefaultText>S&#238;dha</DefaultText>
+      <DefaultText>Sîdha</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>477</ID>
-      <DefaultText>R&#238;henwn</DefaultText>
+      <DefaultText>Rîhenwn</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2230,7 +2231,7 @@
     </Entry>
     <Entry>
       <ID>496</ID>
-      <DefaultText>Masd&#234;n</DefaultText>
+      <DefaultText>Masdên</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2255,7 +2256,7 @@
     </Entry>
     <Entry>
       <ID>501</ID>
-      <DefaultText>Alarh&#238;</DefaultText>
+      <DefaultText>Alarhî</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2270,7 +2271,7 @@
     </Entry>
     <Entry>
       <ID>504</ID>
-      <DefaultText>R&#238;den</DefaultText>
+      <DefaultText>Rîden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2365,7 +2366,7 @@
     </Entry>
     <Entry>
       <ID>523</ID>
-      <DefaultText>On&#373;en</DefaultText>
+      <DefaultText>Onŵen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2410,7 +2411,7 @@
     </Entry>
     <Entry>
       <ID>532</ID>
-      <DefaultText>Irens&#238;</DefaultText>
+      <DefaultText>Irensî</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2560,12 +2561,12 @@
     </Entry>
     <Entry>
       <ID>565</ID>
-      <DefaultText>P&#373;gra</DefaultText>
+      <DefaultText>Pŵgra</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>566</ID>
-      <DefaultText>Llens&#238;</DefaultText>
+      <DefaultText>Llensî</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2605,7 +2606,7 @@
     </Entry>
     <Entry>
       <ID>574</ID>
-      <DefaultText>&#202;r Pames</DefaultText>
+      <DefaultText>Êr Pames</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2615,7 +2616,7 @@
     </Entry>
     <Entry>
       <ID>576</ID>
-      <DefaultText>R&#238;da&#238;</DefaultText>
+      <DefaultText>Rîdaî</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3161,7 +3162,7 @@
     </Entry>
     <Entry>
       <ID>686</ID>
-      <DefaultText>M&#234;np&#373;gra</DefaultText>
+      <DefaultText>Mênpŵgra</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3401,7 +3402,7 @@
     </Entry>
     <Entry>
       <ID>735</ID>
-      <DefaultText>Br&#238;shalgwin Mindmarker</DefaultText>
+      <DefaultText>Brîshalgwin Mindmarker</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3986,7 +3987,7 @@
     </Entry>
     <Entry>
       <ID>854</ID>
-      <DefaultText>Aodh&#225;n the Ingenious</DefaultText>
+      <DefaultText>Aodhán the Ingenious</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4166,7 +4167,7 @@
     </Entry>
     <Entry>
       <ID>890</ID>
-      <DefaultText>Ishg&#373;nan</DefaultText>
+      <DefaultText>Ishgŵnan</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4266,7 +4267,7 @@
     </Entry>
     <Entry>
       <ID>910</ID>
-      <DefaultText>&#372;idhwn</DefaultText>
+      <DefaultText>Ŵidhwn</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5016,7 +5017,7 @@
     </Entry>
     <Entry>
       <ID>1060</ID>
-      <DefaultText>Pensiavi mes R&#232;i</DefaultText>
+      <DefaultText>Pensiavi mes Rèi</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5186,7 +5187,7 @@
     </Entry>
     <Entry>
       <ID>1097</ID>
-      <DefaultText>Sc&#226;thden</DefaultText>
+      <DefaultText>Scâthden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5216,7 +5217,7 @@
     </Entry>
     <Entry>
       <ID>1103</ID>
-      <DefaultText>F&#238;orm</DefaultText>
+      <DefaultText>Fîorm</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5796,7 +5797,7 @@
     </Entry>
     <Entry>
       <ID>1220</ID>
-      <DefaultText>I&#373;en </DefaultText>
+      <DefaultText>Iŵen </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5906,7 +5907,7 @@
     </Entry>
     <Entry>
       <ID>1243</ID>
-      <DefaultText>Ur&#373;a</DefaultText>
+      <DefaultText>Urŵa</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6625,6 +6626,81 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1389</ID>
+      <DefaultText>Renengild</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1390</ID>
+      <DefaultText>Yduran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1391</ID>
+      <DefaultText>Lafda</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1392</ID>
+      <DefaultText>Owynna</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1393</ID>
+      <DefaultText>Reyfald</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1394</ID>
+      <DefaultText>Feara</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1395</ID>
+      <DefaultText>A Trap</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1396</ID>
+      <DefaultText>Galvino</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1397</ID>
+      <DefaultText>Haeferic</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1398</ID>
+      <DefaultText>Cook</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1399</ID>
+      <DefaultText>Assistant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1400</ID>
+      <DefaultText>Andred</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1401</ID>
+      <DefaultText>Byrhtwen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1402</ID>
+      <DefaultText>Teanleycg</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1403</ID>
+      <DefaultText>Gambler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1404</ID>
       <DefaultText>High Priest</DefaultText>
       <FemaleText />
@@ -6640,6 +6716,31 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1407</ID>
+      <DefaultText>Ailef</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1408</ID>
+      <DefaultText>Harmke</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1409</ID>
+      <DefaultText>Devil of Caroc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1410</ID>
+      <DefaultText>Cort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1411</ID>
+      <DefaultText>Thyrsc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1412</ID>
       <DefaultText>Elder Lioness</DefaultText>
       <FemaleText />
@@ -6650,8 +6751,53 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1414</ID>
+      <DefaultText>Baetti</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1415</ID>
+      <DefaultText>Palloc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1416</ID>
       <DefaultText>Naedle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1417</ID>
+      <DefaultText>Quest Debugger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1418</ID>
+      <DefaultText>Grynde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1419</ID>
+      <DefaultText>Fishery Worker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1420</ID>
+      <DefaultText>Fishery Guard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1421</ID>
+      <DefaultText>Taena</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1422</ID>
+      <DefaultText>Matron Beregan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1423</ID>
+      <DefaultText>Winter Wolf</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6665,8 +6811,2349 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1426</ID>
+      <DefaultText>Defala</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1427</ID>
+      <DefaultText>Pale Elf Assassin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1428</ID>
+      <DefaultText>Readceran Mercenary</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1429</ID>
+      <DefaultText>Slave Tracker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1430</ID>
+      <DefaultText>Readceran Marksman</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1431</ID>
+      <DefaultText>Statue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1432</ID>
+      <DefaultText>Armswarden Marunn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1433</ID>
+      <DefaultText>Chief Curate Exandru</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1434</ID>
+      <DefaultText>Coinmaster Zoltun</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1435</ID>
+      <DefaultText>Räzken</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1436</ID>
+      <DefaultText>Uldric</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1437</ID>
+      <DefaultText>Lagufaeth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1438</ID>
+      <DefaultText>Sabel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1439</ID>
+      <DefaultText>Garodh</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1440</ID>
+      <DefaultText>Pelden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1441</ID>
+      <DefaultText>Wall of Draining</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1442</ID>
+      <DefaultText>Battery Defender</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1443</ID>
+      <DefaultText>Battery Shieldwall</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1444</ID>
+      <DefaultText>Battery Siren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1445</ID>
+      <DefaultText>Ice Beetle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1446</ID>
+      <DefaultText>Young Ice Beetle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1447</ID>
+      <DefaultText>Ice Blight</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1448</ID>
+      <DefaultText>Greater Ice Blight</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1449</ID>
+      <DefaultText>Forge Guardian</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1450</ID>
+      <DefaultText>Lagufaeth Warrior</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1451</ID>
+      <DefaultText>Crag Ogre Cannoneer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1452</ID>
+      <DefaultText>Crag Ogre Chanter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1453</ID>
+      <DefaultText>Crag Ogre Matron</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1454</ID>
+      <DefaultText>Crag Ogre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1455</ID>
+      <DefaultText>Frost Ooze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1456</ID>
+      <DefaultText>Lesser Frost Ooze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1457</ID>
+      <DefaultText>Ice Troll</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1458</ID>
+      <DefaultText>Frozen Spirit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1459</ID>
+      <DefaultText>Wraith</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1460</ID>
+      <DefaultText>Clerk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1461</ID>
+      <DefaultText>Ista</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1462</ID>
+      <DefaultText>Mirror</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1463</ID>
+      <DefaultText>Mirror</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1464</ID>
+      <DefaultText>Suldrun</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1465</ID>
+      <DefaultText>Woodcutter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1466</ID>
+      <DefaultText>Battery Defender</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1467</ID>
+      <DefaultText>Battery Shieldwall</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1468</ID>
+      <DefaultText>Battery Siren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1469</ID>
+      <DefaultText>Ice Beetle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1470</ID>
+      <DefaultText>Young Ice Beetle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1471</ID>
+      <DefaultText>Ice Blight</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1472</ID>
+      <DefaultText>Greater Ice Blight</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1473</ID>
+      <DefaultText>Forge Guardian</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1474</ID>
+      <DefaultText>Lagufaeth Redfin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1475</ID>
+      <DefaultText>Crag Ogre Cannoneer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1476</ID>
+      <DefaultText>Crag Ogre Chanter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1477</ID>
+      <DefaultText>Crag Ogre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1478</ID>
+      <DefaultText>Frost Ooze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1479</ID>
+      <DefaultText>Lesser Frost Ooze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1480</ID>
+      <DefaultText>Ice Troll</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1481</ID>
+      <DefaultText>Bitter Spirit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1482</ID>
+      <DefaultText>Wraith</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1483</ID>
+      <DefaultText>Zahua</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1489</ID>
+      <DefaultText>Wounded Hunter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1493</ID>
+      <DefaultText>Morug</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1494</ID>
       <DefaultText>Sigil of the Arcane</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1495</ID>
+      <DefaultText>Crag Ogre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1496</ID>
+      <DefaultText>Crag Ogre Cannoneer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1497</ID>
+      <DefaultText>Urthal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1498</ID>
+      <DefaultText>Mercenary Priest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1499</ID>
+      <DefaultText>Mercenary Wizard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1500</ID>
+      <DefaultText>Mercenary Fighter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1501</ID>
+      <DefaultText>Fampyr Skirmisher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1502</ID>
+      <DefaultText>Fampyr Berserker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1503</ID>
+      <DefaultText>Keydy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1504</ID>
+      <DefaultText>Fampyr Beguiler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1505</ID>
+      <DefaultText>Keydy's Ring</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1509</ID>
+      <DefaultText>Francesca</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1510</ID>
+      <DefaultText>Marshal Waeferth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1511</ID>
+      <DefaultText>Giant Ice Troll</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1512</ID>
+      <DefaultText>Villager</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1513</ID>
+      <DefaultText>Okrun</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1514</ID>
+      <DefaultText>Young Lagufaeth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1515</ID>
+      <DefaultText>Lafda's Acolyte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1516</ID>
+      <DefaultText>Liandei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1517</ID>
+      <DefaultText>Makanu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1518</ID>
+      <DefaultText>Silwha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1519</ID>
+      <DefaultText>Vamrel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1520</ID>
+      <DefaultText>Pale Elf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1521</ID>
+      <DefaultText>Mercenary Warpriest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1522</ID>
+      <DefaultText>Cloak of the Frozen Hunt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1523</ID>
+      <DefaultText>Ninagauth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1524</ID>
+      <DefaultText>Qexetl</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1525</ID>
+      <DefaultText>Taragaer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1526</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1527</ID>
+      <DefaultText>Mercenary Warpriest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1528</ID>
+      <DefaultText>Mercenary Warmage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1529</ID>
+      <DefaultText>Mercenary Soldier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1530</ID>
+      <DefaultText>Mercenary Pyromancer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1531</ID>
+      <DefaultText>Ancestor Pendant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1532</ID>
+      <DefaultText>Frigid Claim</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1533</ID>
+      <DefaultText>Greyjaw</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1534</ID>
+      <DefaultText>Ingot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1535</ID>
+      <DefaultText>Taragaer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1536</ID>
+      <DefaultText>Mercenary Berserker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1537</ID>
+      <DefaultText>Mercenary Marksman</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1538</ID>
+      <DefaultText>Mercenary Gunslinger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1539</ID>
+      <DefaultText>Cape of the Master Mystic</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1540</ID>
+      <DefaultText>Ancient Death Guard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1541</ID>
+      <DefaultText>Concelhaut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1542</ID>
+      <DefaultText>Ring of Changing Heart</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1543</ID>
+      <DefaultText>Lord Gaderman</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1544</ID>
+      <DefaultText>Bob the Understudy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1545</ID>
+      <DefaultText>Jim the Understudy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1546</ID>
+      <DefaultText>Sally the Understudy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1547</ID>
+      <DefaultText>Julie the Understudy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1548</ID>
+      <DefaultText>Biff the Understudy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1549</ID>
+      <DefaultText>Amy the Understudy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1550</ID>
+      <DefaultText>Battery Sharpshooter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1551</ID>
+      <DefaultText>Battery Priest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1552</ID>
+      <DefaultText>Lurgolder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1553</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1554</ID>
+      <DefaultText>Ruphec's Watchful Cloak MKII</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1555</ID>
+      <DefaultText>Ultimate Hat of Alluring Perfection</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1556</ID>
+      <DefaultText>Mercenary Brawler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1557</ID>
+      <DefaultText>Mercenary Chanter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1558</ID>
+      <DefaultText>Firedorn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1559</ID>
+      <DefaultText>Crothar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1560</ID>
+      <DefaultText>Animated Poleaxe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1561</ID>
+      <DefaultText>Tanoss</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1562</ID>
+      <DefaultText>Animated Wand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1563</ID>
+      <DefaultText>Animated Spear</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1564</ID>
+      <DefaultText>Uariki</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1565</ID>
+      <DefaultText>Mercenary Sergeant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1566</ID>
+      <DefaultText>Mercenary Sergeant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1567</ID>
+      <DefaultText>Bartender's Ring</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1568</ID>
+      <DefaultText>Tealdor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1569</ID>
+      <DefaultText>Ondra's Spellweaver</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1570</ID>
+      <DefaultText>Ondra's Swordsman</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1571</ID>
+      <DefaultText>Ondra's Shieldsman</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1572</ID>
+      <DefaultText>Baelsyr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1573</ID>
+      <DefaultText>Rotting Flesh Construct</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1574</ID>
+      <DefaultText>Burning Flesh Construct</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1575</ID>
+      <DefaultText>Floating Skull</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1576</ID>
+      <DefaultText>Gleaming Society Disciple</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1577</ID>
+      <DefaultText>Gleaming Society Priestess</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1578</ID>
+      <DefaultText>Gleaming Society Paladin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1579</ID>
+      <DefaultText>Old Dunryd Beguiler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1580</ID>
+      <DefaultText>Old Dunryd Junior Wizard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1581</ID>
+      <DefaultText>Old Dunryd Conjurer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1582</ID>
+      <DefaultText>Old Dunryd Necromancer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1583</ID>
+      <DefaultText>Old Dunryd Spellsword</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1584</ID>
+      <DefaultText>Laenric</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1585</ID>
+      <DefaultText>True Flame Barbarian</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1586</ID>
+      <DefaultText>True Flame Druid</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1587</ID>
+      <DefaultText>Firedorn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1588</ID>
+      <DefaultText>True Flame Priest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1589</ID>
+      <DefaultText>True Flame Adragan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1590</ID>
+      <DefaultText>Slaked Skull Cipher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1591</ID>
+      <DefaultText>Slaked Skull Monk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1592</ID>
+      <DefaultText>Slaked Skull Paladin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1593</ID>
+      <DefaultText>Slaked Skull Priestess</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1594</ID>
+      <DefaultText>Slaked Skull Rogue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1595</ID>
+      <DefaultText>Slaked Skull Wizard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1596</ID>
+      <DefaultText>Meztla</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1597</ID>
+      <DefaultText>Steelspine Warrior</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1598</ID>
+      <DefaultText>Steelspine Magus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1599</ID>
+      <DefaultText>Ulmar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1600</ID>
+      <DefaultText>Thrall Ravager</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1601</ID>
+      <DefaultText>Thrall Shaman</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1602</ID>
+      <DefaultText>Thrall Assassin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1603</ID>
+      <DefaultText>Baby Lagufaeth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1604</ID>
+      <DefaultText>Sandals of the Forgotten Friar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1605</ID>
+      <DefaultText>Coil of Resourcefulness</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1606</ID>
+      <DefaultText>Ryona's Buckle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1607</ID>
+      <DefaultText>Concelhaut's Skull</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1608</ID>
+      <DefaultText>Commander Baelorin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1609</ID>
+      <DefaultText>Broken Construct</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1610</ID>
+      <DefaultText>Malfunctioning Construct</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1611</ID>
+      <DefaultText>Misshapen Construct</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1612</ID>
+      <DefaultText>Alpine Dragon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1613</ID>
+      <DefaultText>Lagufaeth Sidewinder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1614</ID>
+      <DefaultText>Lagufaeth Broodmother</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1615</ID>
+      <DefaultText>Fragment of Marunn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1616</ID>
+      <DefaultText>Fragment of Zoltun</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1617</ID>
+      <DefaultText>Fragment of Exandru</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1618</ID>
+      <DefaultText>Felisa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1619</ID>
+      <DefaultText>Warleader Darzir</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1620</ID>
+      <DefaultText>Fragment of Pargrunen Warrior</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1621</ID>
+      <DefaultText>Fragment of Pargrunen Rogue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1622</ID>
+      <DefaultText>Fragment of Pargrunen Wizard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1623</ID>
+      <DefaultText>Fragment of Pargrunen Paladin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1624</ID>
+      <DefaultText>Fragment of Pargrunen Chanter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1625</ID>
+      <DefaultText>Drunken Orlan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1626</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1627</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1628</ID>
+      <DefaultText>Echoing Misery</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1629</ID>
+      <DefaultText>Algul</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1630</ID>
+      <DefaultText>Ailef</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1631</ID>
+      <DefaultText>Alpine Dragon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1632</ID>
+      <DefaultText>Lich</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1633</ID>
+      <DefaultText>Void Seer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1634</ID>
+      <DefaultText>Galvino's Construct</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1635</ID>
+      <DefaultText>Animated Weapon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1636</ID>
+      <DefaultText>Mercenary Veteran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1637</ID>
+      <DefaultText>Young Lagufaeth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1638</ID>
+      <DefaultText>Commander Baelorin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1639</ID>
+      <DefaultText>Mercenary Chanter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1640</ID>
+      <DefaultText>Sentinel's Girdle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1641</ID>
+      <DefaultText>Curate Elune</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1642</ID>
+      <DefaultText>Voice</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1643</ID>
+      <DefaultText>Iron Construct</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1644</ID>
+      <DefaultText>Unstable Construct</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1645</ID>
+      <DefaultText>Bard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1646</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1647</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1648</ID>
+      <DefaultText>Animated Great Sword</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1649</ID>
+      <DefaultText>Animated Pike</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1650</ID>
+      <DefaultText>Animated War Bow</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1651</ID>
+      <DefaultText>Ondrite Tidalfist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1652</ID>
+      <DefaultText>Ondrite Swornsword</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1653</ID>
+      <DefaultText>Deryan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1654</ID>
+      <DefaultText>Kraken</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1655</ID>
+      <DefaultText>Tentacle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1656</ID>
+      <DefaultText>Iron Flail Archer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1657</ID>
+      <DefaultText>Iron Flail Champion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1658</ID>
+      <DefaultText>Iron Flail Gunner</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1659</ID>
+      <DefaultText>Iron Flail Votarist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1660</ID>
+      <DefaultText>Lagufaeth Barbarian</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1661</ID>
+      <DefaultText>Iron Flail Warlock</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1662</ID>
+      <DefaultText>Lagufaeth Cipher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1663</ID>
+      <DefaultText>Icetreader Paladin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1664</ID>
+      <DefaultText>Icetreader Rifleman</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1665</ID>
+      <DefaultText>Adaryc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1666</ID>
+      <DefaultText>Radiant Spore</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1667</ID>
+      <DefaultText>Moon Spider</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1668</ID>
+      <DefaultText>Ondrite Galesinger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1669</ID>
+      <DefaultText>Wall of Many Colors</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1670</ID>
+      <DefaultText>Ondrite Mindgazer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1671</ID>
+      <DefaultText>Ondrite Faithbinder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1672</ID>
+      <DefaultText>Ondrite Crescentward</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1673</ID>
+      <DefaultText>Ondrite Spellseer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1674</ID>
+      <DefaultText>High Abbot Kaoto</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1675</ID>
+      <DefaultText>Farentis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1676</ID>
+      <DefaultText>Skuldrak</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1677</ID>
+      <DefaultText>Idle Soldier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1678</ID>
+      <DefaultText>Villager</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1679</ID>
+      <DefaultText>Houndmaster</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1680</ID>
+      <DefaultText>Eyeless Hammer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1681</ID>
+      <DefaultText>Stalwart Delegate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1683</ID>
+      <DefaultText>Test Talking Sword</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1684</ID>
+      <DefaultText>Gytha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1685</ID>
+      <DefaultText>Hamond</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1686</ID>
+      <DefaultText>Masca</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1687</ID>
+      <DefaultText>Tarfos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1688</ID>
+      <DefaultText>War Dog</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1689</ID>
+      <DefaultText>Dozing Guard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1690</ID>
+      <DefaultText>Abydon Acolyte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1691</ID>
+      <DefaultText>Dead Scout
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1692</ID>
+      <DefaultText>Bog Cult Assassin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1693</ID>
+      <DefaultText>Wengra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1694</ID>
+      <DefaultText>Culmar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1695</ID>
+      <DefaultText>Worker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1696</ID>
+      <DefaultText>Foreman Ismey</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1697</ID>
+      <DefaultText>Miner</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1698</ID>
+      <DefaultText>Stalwart Militia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1699</ID>
+      <DefaultText>Nesta</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1700</ID>
+      <DefaultText>Vithrack Brute</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1701</ID>
+      <DefaultText>Sadon Twice-Hanged</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1702</ID>
+      <DefaultText>Skuldrak Screecher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1703</ID>
+      <DefaultText>Young Skuldrak</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1704</ID>
+      <DefaultText>Bog Bat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1705</ID>
+      <DefaultText>Brigand Rogue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1706</ID>
+      <DefaultText>Cape of the Cheat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1707</ID>
+      <DefaultText>Bog Lurker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1708</ID>
+      <DefaultText>Low Tide Cipher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1709</ID>
+      <DefaultText>Low Tide Fighter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1710</ID>
+      <DefaultText>Low Tide Monk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1711</ID>
+      <DefaultText>Low Tide Paladin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1712</ID>
+      <DefaultText>Low Tide Priest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1713</ID>
+      <DefaultText>Lost Periapt of the Winding Path</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1714</ID>
+      <DefaultText>Mantle of the Excavator</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1715</ID>
+      <DefaultText>Looped Rope</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1716</ID>
+      <DefaultText>Frythr's Plated Greaves</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1717</ID>
+      <DefaultText>Master Diometto</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1718</ID>
+      <DefaultText>Chief Rending-Maw</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1719</ID>
+      <DefaultText>Viettro's Formal Footwear</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1720</ID>
+      <DefaultText>Iron Circle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1721</ID>
+      <DefaultText>Gwyn's Band of Union</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1722</ID>
+      <DefaultText>Arthek's Cord</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1723</ID>
+      <DefaultText>Lord Gathbin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1724</ID>
+      <DefaultText>ycg Br Tomb Fragment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1725</ID>
+      <DefaultText>St. Borragia's Tears</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1726</ID>
+      <DefaultText>Terenat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1727</ID>
+      <DefaultText>Wyrwood Ring</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1728</ID>
+      <DefaultText>Captain Ogne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1729</ID>
+      <DefaultText>Souls of the Eyeless</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1730</ID>
+      <DefaultText>Turisulfus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1731</ID>
+      <DefaultText>Gafonercos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1732</ID>
+      <DefaultText>Belt of Chimes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1733</ID>
+      <DefaultText>Swaddling Sheet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1734</ID>
+      <DefaultText>Maneha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1735</ID>
+      <DefaultText>Bog Cult Acolyte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1736</ID>
+      <DefaultText>Bog Cult Apprentice</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1737</ID>
+      <DefaultText>Bog Cult Chanter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1738</ID>
+      <DefaultText>Binding Rope</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1739</ID>
+      <DefaultText>Cloak of Comfort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1740</ID>
+      <DefaultText>Patchwork Boots</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1741</ID>
+      <DefaultText>Royse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1742</ID>
+      <DefaultText>Nîdhen's Finger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1743</ID>
+      <DefaultText>Asca</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1744</ID>
+      <DefaultText>Kern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1745</ID>
+      <DefaultText>Brigand Priest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1746</ID>
+      <DefaultText>Engrim</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1747</ID>
+      <DefaultText>Spirit Boar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1748</ID>
+      <DefaultText>Worried Neighbor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1749</ID>
+      <DefaultText>Worried Neighbor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1750</ID>
+      <DefaultText>Spirit Bear</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1751</ID>
+      <DefaultText>Spirit Pig</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1752</ID>
+      <DefaultText>Spirit Stag</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1753</ID>
+      <DefaultText>Spirit Wolf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1754</ID>
+      <DefaultText>Spirit Wurm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1755</ID>
+      <DefaultText>Radiant Spore Tendril</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1756</ID>
+      <DefaultText>Terror of Whitestone Hollow</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1757</ID>
+      <DefaultText>Lover's Ring</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1758</ID>
+      <DefaultText>Bleak Walker Paladin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1759</ID>
+      <DefaultText>Hired Scout</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1760</ID>
+      <DefaultText>Eska</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1761</ID>
+      <DefaultText>Giant Moon Spider</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1762</ID>
+      <DefaultText>Cevestin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1763</ID>
+      <DefaultText>Confused Miner</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1764</ID>
+      <DefaultText>Cillan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1765</ID>
+      <DefaultText>Teryc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1766</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1767</ID>
+      <DefaultText>Vithrack Luminary</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1768</ID>
+      <DefaultText>Bog Guardian</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1769</ID>
+      <DefaultText>Xaurip Trollmaster</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1770</ID>
+      <DefaultText>Xaurip Forager</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1771</ID>
+      <DefaultText>Whitestone Brigand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1772</ID>
+      <DefaultText>Llengrath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1773</ID>
+      <DefaultText>Turisulfus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1774</ID>
+      <DefaultText>Ancient Wraith</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1775</ID>
+      <DefaultText>Ondra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1776</ID>
+      <DefaultText>Brynlod</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1777</ID>
+      <DefaultText>Constellated Cloak</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1778</ID>
+      <DefaultText>Chancellor Warrin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1779</ID>
+      <DefaultText>Benno</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1780</ID>
+      <DefaultText>Palace Messenger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1781</ID>
+      <DefaultText>Captain Emery</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1782</ID>
+      <DefaultText>Wailing Shade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1783</ID>
+      <DefaultText>Herla</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1784</ID>
+      <DefaultText>Snow Bear</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1785</ID>
+      <DefaultText>Young Snow Bear</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1786</ID>
+      <DefaultText>Marked Amulet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1787</ID>
+      <DefaultText>War Pup</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1788</ID>
+      <DefaultText>Giftbearer Beasca</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1789</ID>
+      <DefaultText>Bog Batling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1790</ID>
+      <DefaultText>Mylla</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1791</ID>
+      <DefaultText>Town Guard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1792</ID>
+      <DefaultText>Lödgar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1793</ID>
+      <DefaultText>Gamel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1794</ID>
+      <DefaultText>Marshal Forwyn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1795</ID>
+      <DefaultText>Farmer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1796</ID>
+      <DefaultText>Merchant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1797</ID>
+      <DefaultText>Elder Skuldrak</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1798</ID>
+      <DefaultText>Aedyran Mercenary</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1799</ID>
+      <DefaultText>Aedyran Archer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1800</ID>
+      <DefaultText>Magma Blight</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1801</ID>
+      <DefaultText>Iron Flail Soldier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1802</ID>
+      <DefaultText>Brigand Mage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1803</ID>
+      <DefaultText>Brigand Priest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1804</ID>
+      <DefaultText>Whitestone Looter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1805</ID>
+      <DefaultText>Aedyran Mercenary</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1806</ID>
+      <DefaultText>Aedyran Beguiler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1807</ID>
+      <DefaultText>Long Bosc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1808</ID>
+      <DefaultText>Bog Cult Summoner</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1809</ID>
+      <DefaultText>Arcanist Badrwn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1810</ID>
+      <DefaultText>Xaurip Archer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1811</ID>
+      <DefaultText>Xaurip Beastmaster</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1812</ID>
+      <DefaultText>Xaurip Blighter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1813</ID>
+      <DefaultText>Greater Peatsucker Ooze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1814</ID>
+      <DefaultText>Lesser Peatsucker Ooze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1815</ID>
+      <DefaultText>Aedyran Bleak Walker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1816</ID>
+      <DefaultText>Aedyran Battlemage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1817</ID>
+      <DefaultText>Rauatai Berserker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1818</ID>
+      <DefaultText>Aedyran Beguiler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1819</ID>
+      <DefaultText>Aedyran Shieldwarden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1820</ID>
+      <DefaultText>Explorer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1821</ID>
+      <DefaultText>Ondrite Fanatic Chanter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1822</ID>
+      <DefaultText>Ondrite Fanatic Fighter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1823</ID>
+      <DefaultText>Ondrite Fanatic Wizard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1824</ID>
+      <DefaultText>Ondrite Fanatic Monk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1825</ID>
+      <DefaultText>Ondrite Fanatic Cipher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1826</ID>
+      <DefaultText>Ondrite Fanatic Priest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1827</ID>
+      <DefaultText>Ondrite Fanatic Paladin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1828</ID>
+      <DefaultText>Eyeless Stonepiercer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1829</ID>
+      <DefaultText>Gathbin Family Signet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1830</ID>
+      <DefaultText>Whitestone Bandit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1831</ID>
+      <DefaultText>Täog</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1832</ID>
+      <DefaultText>Gas cloud</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1833</ID>
+      <DefaultText>Caed Nua Skirmisher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1834</ID>
+      <DefaultText>Haddi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1835</ID>
+      <DefaultText>Caed Nua Archer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1836</ID>
+      <DefaultText>Elwyna</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1837</ID>
+      <DefaultText>Caed Nua Veteran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1838</ID>
+      <DefaultText>Silver Lover's Ring</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1839</ID>
+      <DefaultText>Kosta</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1840</ID>
+      <DefaultText>Brys</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1841</ID>
+      <DefaultText>Spirit Wurm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1842</ID>
+      <DefaultText>Gruff Delegate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1843</ID>
+      <DefaultText>Dwarven Delegate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1844</ID>
+      <DefaultText>Frightened Delegate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1845</ID>
+      <DefaultText>Raving Delegate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1846</ID>
+      <DefaultText>Spirit Wolf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1847</ID>
+      <DefaultText>Bigtongue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1848</ID>
+      <DefaultText>Littletooth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1849</ID>
+      <DefaultText>Hired Mender</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1850</ID>
+      <DefaultText>Dozens Arquebusier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1851</ID>
+      <DefaultText>Doemenel Assassin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1852</ID>
+      <DefaultText>Readceran Pathfinder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1853</ID>
+      <DefaultText>Hair of Ondra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1854</ID>
+      <DefaultText>Dominated Miner</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1855</ID>
+      <DefaultText>Tethered Spirit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1856</ID>
+      <DefaultText>Redwater Broodmother</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1857</ID>
+      <DefaultText>Bog Cult Barbarian</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1858</ID>
+      <DefaultText>Roedwith</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1859</ID>
+      <DefaultText>Radiant Sporeling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1860</ID>
+      <DefaultText>Magran's Faithful Soldier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1861</ID>
+      <DefaultText>Magran's Faithful Druid</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1862</ID>
+      <DefaultText>Priest of Magran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1863</ID>
+      <DefaultText>Volentari</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1864</ID>
+      <DefaultText>Dairatha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1865</ID>
+      <DefaultText>Ebraenn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1866</ID>
+      <DefaultText>Deadfire Shanty-Singer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1867</ID>
+      <DefaultText>Deadfire Illusionist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1868</ID>
+      <DefaultText>Deadfire Backstabber</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1869</ID>
+      <DefaultText>Dragon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1870</ID>
+      <DefaultText>Battery Guards</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1871</ID>
+      <DefaultText>Construct</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1872</ID>
+      <DefaultText>Lurker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1873</ID>
+      <DefaultText>Ooze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1874</ID>
+      <DefaultText>Wisp</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1875</ID>
+      <DefaultText>Spider</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1876</ID>
+      <DefaultText>Spore</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1877</ID>
+      <DefaultText>Skeleton</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1878</ID>
+      <DefaultText>Amaia's Codex</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1879</ID>
+      <DefaultText>Korbal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1880</ID>
+      <DefaultText>Byrnwigar's Forces</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1881</ID>
+      <DefaultText>Bleak Sentinel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1882</ID>
+      <DefaultText>Bleak Commander</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1883</ID>
+      <DefaultText>Bleak Deadshot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1884</ID>
+      <DefaultText>Bleak Ripper</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1885</ID>
+      <DefaultText>Moon Spiderling</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1886</ID>
+      <DefaultText>Crag Rogue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1887</ID>
+      <DefaultText>Spectral Great Sword</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1888</ID>
+      <DefaultText>Spectral Pike</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1889</ID>
+      <DefaultText>Spectral War Bow</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1890</ID>
+      <DefaultText>Dominated Thief</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1891</ID>
+      <DefaultText>Dominated Raider</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1892</ID>
+      <DefaultText>Dominated Priest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1893</ID>
+      <DefaultText>Pale Elf Vanquisher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1894</ID>
+      <DefaultText>Pale Elf Healer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1895</ID>
+      <DefaultText>Spirit Lion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1896</ID>
+      <DefaultText>Spirit Antelope</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1897</ID>
+      <DefaultText>Nahualtia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1898</ID>
+      <DefaultText>Greenstained Boots</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1899</ID>
+      <DefaultText>Shaman</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1900</ID>
+      <DefaultText>Ixepillo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1901</ID>
+      <DefaultText>Haggard Man</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1902</ID>
+      <DefaultText>Image of Zahua</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1903</ID>
+      <DefaultText>Chieftain Ehuilia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1904</ID>
+      <DefaultText>Father's Teeth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1905</ID>
+      <DefaultText>Eyeless</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1906</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

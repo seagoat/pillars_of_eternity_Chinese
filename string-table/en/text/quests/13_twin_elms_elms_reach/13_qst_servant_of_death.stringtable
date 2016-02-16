@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\13_twin_elms_elms_reach\13_qst_servant_of_death</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>14</EntryCount>
@@ -37,7 +38,7 @@ I think this is the god's way of telling me that these two individuals have chea
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>The dwarf in the vision had an eerily ageless face and he seemed to renew himself with the blood of others. He said something about the "Ethik N&#244;l." When I learn who (or what) this is, he will no doubt be nearby. </DefaultText>
+      <DefaultText>The dwarf in the vision had an eerily ageless face and he seemed to renew himself with the blood of others. He said something about the "Ethik Nôl." When I learn who (or what) this is, he will no doubt be nearby. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -67,7 +68,7 @@ I think this is the god's way of telling me that these two individuals have chea
     </Entry>
     <Entry>
       <ID>20007</ID>
-      <DefaultText>The Ethik N&#244;l reside in a cave known as "Blood Sands." It's in northern Elms' Reach, not far from the giant trees.</DefaultText>
+      <DefaultText>The Ethik Nôl reside in a cave known as "Blood Sands." It's in northern Elms' Reach, not far from the giant trees.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\03_defiance_bay_ondra_gift\03_cv_imatl</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>81</EntryCount>
@@ -384,7 +385,7 @@ He watches the surf lapping against the wrecked boat. "But at moments like this,
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>He massages the opal in a clammy palm. "When we reached Eina's Rest, we may have agreed to, uh, take on a few crates from some place called Cl&#238;aban Rilag. A couple of the lads snuck a peek at the cargo. Saw suits of armor and a broken scepter." 
+      <DefaultText>He massages the opal in a clammy palm. "When we reached Eina's Rest, we may have agreed to, uh, take on a few crates from some place called Clîaban Rilag. A couple of the lads snuck a peek at the cargo. Saw suits of armor and a broken scepter." 
 
 He shrugs. "Don't know why anyone would want a broken anything, but these animancers'll buy dirty stockings if you say they came from the ruins."</DefaultText>
       <FemaleText />
@@ -411,7 +412,7 @@ He shrugs. "Don't know why anyone would want a broken anything, but these animan
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>"We picked up some crates from Cl&#238;aban Rilag. Suits of armor and a broken scepter is what I heard. We were almost to Defiance Bay when the armor came to life and slaughtered everyone in the hold."
+      <DefaultText>"We picked up some crates from Clîaban Rilag. Suits of armor and a broken scepter is what I heard. We were almost to Defiance Bay when the armor came to life and slaughtered everyone in the hold."
 
 He avoids your gaze. "So I locked the hatch."</DefaultText>
       <FemaleText />

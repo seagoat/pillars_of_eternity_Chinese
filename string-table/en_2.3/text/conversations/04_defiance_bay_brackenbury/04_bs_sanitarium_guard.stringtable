@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\04_defiance_bay_brackenbury\04_bs_sanitarium_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Sometimes we get people in here trying to make trouble for the animancers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I wouldn't mind being better armed. So what if it makes the clients a little nervous?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I never thought I'd be taking orders from a talking statue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"If you're here as a client, you'll want to be talking to an animancer, not me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I'd best be getting back to my watch."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,170 @@
+<StringTableFile>
+  <Name>quests\03_defiance_bay_ondras_gift\03_tsk_brave_derrin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Brave Derrin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find Derrin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Tell Odda about Derrin's fate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Find Derrin's killers.(Optional)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Tell Odda you've killed Derrin's murderers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Find Derrin's family.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A young boy named Derrin has gone missing in Ondra's Gift.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Odda's son, Derrin, has been missing for two days. She has to care for her Hollowborn child at home, so she's asked me to search for him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I found Derrin's body. His soul revealed that he was defending a prostitute from a pair of thugs near the Salty Mast. They murdered him and left his body beneath one of the docks.
+
+Odda will want to know what happened.
+
+I can also hunt down Derrin's killers and deal with them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Derrin's murderers are among the townsfolk harassing prostitutes and patrons at the Salty Mast.
+
+If I want to seek justice for Derrin, I can probably find them near the brothel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I confronted Bragan with evidence of his role in Derrin's death. He and his friend attacked, and I killed them both.
+
+It may bring Odda some peace to know that her son's killers are dead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I found a young boy's corpse in the canals near the brothel in Ondra's Gift. His family will want to know his fate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Odda last saw Derrin when he left with his father to go fishing at the docks. Perhaps I should speak with the sailors and fishermen in Ondra's Gift.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I have heard rumors that Derrin's father frequents the Salty Mast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I found Derrin's father. He left the boy for a quick drink and lost track of him. He's too ashamed now to return home.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Marceno, a local deckhand, told me that Derrin came by a few days ago asking to play on the ship. Marceno refused and saw the kid heading towards The Salty Mast, a local brothel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Imatl told me that Derrin likes to play around the ships at the docks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>I picked up a dagger with the letter 'B' engraved upon it. It most likely belonged to Derrin's killer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>I killed Bragan and his cronies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>I confronted Bragan with evidence of his role in Derrin's death. I accepted his bribe to keep quiet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>I picked up a dagger with the letter 'B' engraved upon it. It most likely belonged to Derrin's killer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>I killed Bragan and his cronies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>I confronted Bragan with evidence of his role in Derrin's death. I accepted his bribe to keep quiet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>I found Derrin's father, Weyd, at the Salty Mast - he looked like he'd been there a while. Odda, Derrin's mother, lives in Ondra's Gift. I should find her to make sure she hears about her son.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Odda is under the mistaken impression that Derrin left on a ship to start a new life. It's best that she doesn't know the truth about Derrin's death.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Odda was crushed by the news that Derrin was murdered, but at least she knows what happened to him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I told Weyd of his sons demise and forced him to return to his wife with the news.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>I was able to locate the thugs who killed Derrin and finished what the young boy started by killing them. I told Odda that his soul rests in peace, and she gave me family keepsakes that she'd been saving for Derrin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>I lied to Weyd about Derrin's demise and told he left on a ship to a far off land. I forced him to go tell his wife the news</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>I managed to find Derrin's killers, but I spared the family the news of their son's demise and let her live in ignorance of her son's death.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>I killed Odda, putting an end to all of her worries.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

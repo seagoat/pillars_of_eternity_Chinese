@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_cv_durance_v2</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>129</EntryCount>
@@ -247,7 +248,7 @@ You look up to see the man watching you studying the staff. As his gaze meets yo
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>He stares at your face, then into your eyes &#8211; almost dully at first, then more intently. "Disease? Spirit wind?" He shrugs. "Both could have touched you, yet here you stand."</DefaultText>
+      <DefaultText>He stares at your face, then into your eyes – almost dully at first, then more intently. "Disease? Spirit wind?" He shrugs. "Both could have touched you, yet here you stand."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

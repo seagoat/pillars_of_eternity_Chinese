@@ -1,0 +1,896 @@
+<StringTableFile>
+  <Name>conversations\companions\companion_cv_sagani_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>167</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A dwarven woman, dressed in skins and hides, leans against the road marker. Her face is turned down, her eyes darkened by a thick stripe of face paint. 
+
+She's sharpening a bone arrowhead with a scrimshaw-handled knife. Her attention, however, is focused on a bear figurine between her feet.
+
+A large, white-furred fox standing at her heels looks up at your approach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Hush, Itumaak. We'll just wait a little longer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"This outfit may not be flattering, but I am definitely not 'him.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Who are you waiting for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Can I help you find him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>She stops sharpening her arrowhead and slowly folds her arms. "That's an interesting question. The last helpful stranger only succeeded in lightening my purse. I think I'll handle this on my own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Short version? I'm looking for a very, very old friend. I'm not sure what skin he's wearing now, but I'll know him when I see him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Your friend is supposed to meet you here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Standing around here is probably not the most productive thing you could do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"That's what I heard. Of course, the man who told me so was carrying a staff he claimed was made from dragon bone, but I know whitewood when I see it."
+
+She rolls her eyes and shakes her head. "That should've been my first clue, but I had to try something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>She lifts her head and looks at you. "No argument there. It's just not you I'm looking for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Back up. What does this stranger have to do with your friend?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"'Try something'? What exactly are you talking about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>She dusts the figurine on her trousers and raises it in her small, flat palm. It's carved in the shape of a bear, smooth and round. The polished adra is worn to a dull matte along its arched back and ovoid haunches. A soft glow emanates from within.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Fine. But if you try to run, just remember that my arrows are faster." She hands you the figurine, her chapped knuckles grazing your hand.
+
+She watches you examine it, wary but curious.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>You raise the adra bear, turning it in the light. As your eyes catch a tiny, glinting scratch, the scenery around you melts away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"What's on your mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"How did you get picked to come search for Persoq?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"What do you do back in Naasitaq?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>You're standing on a cliff overlooking the water, seeing through eyes that aren't your own. You catch the musk of beasts amidst the fresh scent of vegetation, and your heart beats a little faster. You'll have to watch your step up here.
+
+You look down just long enough to see the sharp, pale cliffs drop into the water hundreds of feet below you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Return the figurine.] "I've got it. He's standing on a cliff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I see a vision of cliffs high over the water. Does that sound familiar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Sniff the breeze.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Pallegina nods. "There are some high cliffs on the south coast of Pearlwood Gulf. I saw them not long ago when we were sailing into Defiance Bay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Your question is greeted with shrugs and silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Examine the roads nearby.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Breathing deeply, you smell salt in the air. Wherever you're standing - wherever Persoq is standing - must be near the ocean, not a lake.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Deep ruts score the hard-packed dirt. These are the marks of wagons, numerous and heavy-laden. A large city is close.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"You realize I've got no coin to give you, even if I did believe you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Sagani draws up beside you, her fox following at her heels, and takes a seat next to you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"You've been searching for Persoq for five years?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Sounds like you've been gone from home a long time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>She grins. "Another old village tradition. The elders watched the caribou migrations and cast seal bones to determine the right time for this journey. 
+
+"When the omens were determined, all the village wives drew shark teeth. We're the ones that go away to hunt and fish, so we're the best suited for a task like this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"You have a family back in your village?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Of course. We'd never send a woman who hasn't had the chance to find a mate and have a couple children of her own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Tell me about Itumaak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>She scratches behind his ear. "A good hunter but not much of a talker, and that's been fine by me.
+
+"When we hunt in Naasitaq, we almost always bring our foxes with us. They help us track and flush game, and they're fearless defenders against bears and snow leopards. Clever Itumaak has always been my favorite." 
+
+He wags his brushy tail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I'm curious about your search for Persoq."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Why do your people have this tradition?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"I'll tell you what I can, but Tarneq-Ilitsaak pilgrimages like mine are rare."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Are elders usually reborn so far from the village?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"What happens when the elder is found?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>She pulls the bear figurine out of her satchel, running a finger along its smooth back. "It's something we've always done. The elders say it was first begun to forge ties with other villages. It's hard to fight over caribou herds when you see someone you respect on the other side."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"That's all I wanted to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Shall we continue on?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"We also believe that passing our history on in this way keeps us stronger. And it helps them - the elders, I mean - return to us after they've been away from us for a generation or more. They can use the experiences they've accumulated over lifetimes to lead the village again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"What are your thoughts on my search?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Sagani shakes her head. "A deer in the middle of Eir Glanfath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Have a moment to talk?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>The dwarf is still waiting where you last saw her, patiently watching the bear figurine. She shushes the fox at her side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Finding Persoq must be important for you to have traveled so long."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Come with me. I've got other business in the area, and we can look for Persoq on the way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[Leave] "Take the information or leave it, but good luck to you either way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Sagani looks at you, her arms folded across her chest. "If this is your idea of a joke, you may be stuck with me for a while."
+
+She tucks the figurine into her pouch, and her fox stands, shaking its pale coat. "Lead the way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>She nods. "Good hunting to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Back again?" She turns the bear figurine in her hands. "Whatever you're looking for, I hope you're having better luck than me."
+
+Curled up in a bed of leaves, Itumaak yawns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Aren't you worried your husband will..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Are you kidding? I'm the best shot in Massuk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Most often, they return somewhere in Naasitaq, a member of another village. Or they're reborn among the Glamfellen of the White that Wends. Even so, it's hard to say what's usual."
+
+A mischievous grin crinkles her eyes. "When my grandfather was a boy, the elder came back as a polar bear. The huntress chosen for the task had to recite half of her village's deeds while running from the beast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Tell me about your children."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"I've had five. Yakona, Estuya, Najuo, Aniik, and Malaak. Estuya and Aniik died young in long, lean winters. Malaak was barely talking when I left." She scrapes a thumbnail along the handle of her hunting knife. "He probably won't know me when I get home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"What's your husband like?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Kallu's a good man. He's raised our children well and built us a strong home while I've been away on hunts. 
+
+"Our parents chose us for one another when we were still young. Not the way things are usually done here, but ours chose well." She smiles. "We came to appreciate each other as helpmates first, then friends, and then... well, you know how it goes." There's a hint of a blush below the stripe of face paint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"That's all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>She nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"I'm a long hunter. I stalk game across the tundra with some of the other wives. We usually hunt caribou and oxen, but we find hares and birds, too. 
+
+"It's a good and respected position. To see so much of Naasitaq in the company of my friends and sisters... this is one of the pleasures of life in Massuk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"It's something we've always done. The elders say it was first begun to forge ties with other villages. It's hard to fight over caribou herds when you see someone you respect on the other side."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Her expression sobers. "Even so, there have been journeys longer than mine. Some last decades, and the huntress doesn't always return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"That depends on the man or woman he's become. It's easiest when the rebirth happens in another village of Naasitaq, where the tradition is understood. Even in the White that Wends and the southern islands of the Deadfire Archipelago, people understand this custom and will welcome you politely enough, even if their souls do not remember." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>She shrugs. "But, sometimes you find someone whose soul has no memory of the village, and you have to tell him of people who remember him still. As disheartening as this is, you hope that the reminder will aid his soul in a future life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Anyway, I grabbed the little tooth." She frowns. "Traveling so far is a rare privilege for us, but as you can see, the journey can be unpredictable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>She crosses her arms. "Thaos has made for an interesting chase. What I can't figure is whether he's on the run from something or pursuing a quarry of his own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Let's move on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"The end of my nose is itching again. I just hope you're satisfied with what you find."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>She frowns. "Helps to know what you're hunting. You've got a lot of tracks to follow, but where they'll lead is anyone's guess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"I want to know about your homeland."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Naasitaq?" She rubs her nose with one broad finger. "It's a big island in the middle of the Deadfire Archipelago, just off the coast of the White that Wends. Tundra, mostly, with a few snow-covered forests in the warmer parts.
+
+"Most of us live in fairly small villages - by standards here, anyway. Mine is Massuk." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"What's Naasitaq like?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Who lives there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>She shrugs. "Cold, but not as cold as the White that Wends. The few kith who visit Naasitaq find it... sparse. But there's plenty to sustain a village if you know where to look."
+
+She ticks the items off on her calloused fingers. "We get hides and meat from caribou, seals, and small whales. Bone, too, which makes fine bows and arrowheads."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Mostly Enutanik, like me. People here call us 'boreal dwarves.'
+
+"Migratory clans of Glamfellen from the White that Wends sometimes spend the colder seasons on Naasitaq. But we don't see too many other foreigners who can tolerate the elements."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>She pats a weather-bronzed arm. "Those of us born in Naasitaq like to say we have a hardy layer of sealskin just beneath our flesh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Tell me more about Massuk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"We're a tundra village. To an outsider's eyes, we're probably not much different from the others around us, but our elders have stories that go back hundreds of years. Epic hunts, battles with neighboring villages, sojourns across the sea - we share these stories, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Community's important to us. We survive or perish together, so everything we do - every week-long hunt, every wall we build - is for the village."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"The long version. Here we go." Her shoulders rise and fall as she takes a deep breath.
+
+"I'm from an island to the far south called Naasitaq. I came here looking for a village elder, a man we knew as Persoq. I'm a hunter back home, so tracking someone wouldn't normally be a problem.
+
+"But Persoq's trail is cold, to say the least."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>She frowns, her hand falling from the knife. "Even in Naasitaq, I spend most of my time on the hunt. But then, it's easier to relish the hunt when I know I'll see my family enjoying our kill."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Easy, Itumaak. It's not him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"You seem lost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>She lifts her head and looks at you. "I know exactly where I am. It's my friend who's lost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"'Haps not, but running around all over the Dyrwood hasn't done much good so far."
+
+The fox next to her yawns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"So you've been searching five years for a stranger you barely remember? Who could be anyone now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Why can't you find him? There can't be that many of your people in the Dyrwood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"How long have you been looking for Persoq?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Her painted brows lower, and her compact, muscular frame sags for just an instant. "Five years."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"He died when I was still a young girl. Forgot to mention that part, did I? I'm looking for his latest reincarnation... which could be anyone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>She gives you a slow, thoughtful nod. "That about sums it up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Then it must be an important duty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Actually, I know how you feel..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Sounds like a waste of time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>She cocks an eyebrow. "Then you have my sympathies. Hopefully you've got a better lead than I do." She looks at the adra figurine in the dirt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Feels like it some days." She looks down at the adra figurine in the dirt. "Especially when I can't get so much as a flicker out of that thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"So I keep reminding myself. Still, it would be nice if important duties came with clearer instructions." She looks at the adra figurine in the dirt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Why do you have to find Persoq?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>She smiles wryly. "That's more of a campfire tale. I'm not quite ready to get into it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"How does that statuette figure into it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Earlier, you'd mentioned an unhelpful stranger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Cute, isn't it? It belonged to Persoq. Before he returned to the Wheel, he left a splinter of his soul in it. Something to help us find him later."
+
+As she holds it out to you, you feel wisps of sensation. Not quite memories, but traces of someone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"When I left Naasitaq, it was completely dark inside. But as I've gotten closer to Persoq, it's glowed steadily brighter. Since I've reached the Dyrwood, however, it's gotten hard to read. Some days it flickers and goes dark. Others, it shines nice and bright... for a few hours. 
+
+"But most of the time, it looks just like this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Maybe it's broken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Persoq could be farther away still."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"I could take a look at it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>She shakes her head. "I spent a year circling the area, thinking the same thing. Got as far south as Ozia and as far north as Fleetbreaker Castle when I realized the figurine was going dark again. Same thing happened when I trekked through the White March and circled the bays to the west."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>She laughs hollowly. "Even Skaen couldn't be that cruel. It's working, I'm sure of it. It's just... not as precise as I'd hoped." Even so, she squints at it, looking doubtful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"I can tell you what I won't do again. Rely on miracle-peddlers. It was some so-called 'Watcher' who sent me to this crossroads in the middle of nowhere in the first place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>She eyes you cautiously. "I've heard that one before. Whole reason I'm standing here is because some so-called 'Watcher' from Forked Vale told me he could 'take a look.' For a few Golden Ducs, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"I was on my way out of the Bael Marsh when I heard talk of a traveling mystic who could supposedly see souls." She shrugs. "I knew it was a long shot, but what did I have to lose?
+
+"I went to see this fellow and gave him the adra figurine. He made a big show of moaning and rolling his eyes, and after I'd given him five Golden Ducs to lift the Shroud, he told me to seek the crossroads in the field between the 'wolf's lair' and the 'twining trees.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"He thought he was being vague, but I know the area well enough to recognize that he meant this place - right between Defiance Bay and Twin Elms. 
+
+"I had a bad taste in my mouth, but my coin was spent and I'd already left an arrow in his knapsack as a friendly warning. Told him I'd come back and leave him with another if it turned out he was giving me the run-around.
+
+"I've been here a week now. Guess he had the last laugh after all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"What's the 'wolf's lair'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Is 'twining trees' a real place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Defiance Bay. Locals call the current duc 'Wolf-grin.' Sounds like he'd be fun to drink with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"He meant Twin Elms. I haven't been there yet, but I hear they have some especially memorable trees."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"You could still go after that false Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>She swats at the air. "I was mostly trying to scare him. I wouldn't really kill a man over a few gold pieces. I don't have much use for coin, anyway. 
+
+"'Sides, knowing his type, he's cleared out of town by now and spent whatever he made."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"May I see the figurine?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"I'm a real Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>She looks at the adra bear and then back to you, her eyes narrowed. "Why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"I just want a better look at it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Why not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>She chuckles. "You expect me to believe that? After the story I just told you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"I mean it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"You've got nothing to lose by letting me try."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"What if I'm telling the truth? After five years, it's worth taking the chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Please?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>She looks at the adra bear herself, turning it a few times. "What are you talking about?" She looks back at you. "What just happened?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"I'm a real Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"I told you, I'm a Watcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>She blinks at you a few times, calculating.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Bank Node 238</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"I know this sounds strange, but it's the truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"If you'd seen the way he stares at dead things, you'd know he's serious."</DefaultText>
+      <FemaleText>"If you'd seen the way she stares at dead things, you'd know she's serious."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Her mind is full of doubt... the fresh wound of misplaced trust. Yet there is hope, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>[Leave] "Then stay here for all I care. I've got other things to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"...What if I'm Persoq?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Not to disappoint you, but there's no chance. This thing would glow like a torch." She wiggles the figurine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"True enough. But first, I should explain about the figurine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>[Leave] "Me, too. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>Trigger Conv Node 276</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>Trigger Conv Node 305</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>Trigger Conv Node 306</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>Trigger Conv Node 307</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"To think, the decisions the Engwithans made thousands of years ago still shape our lives today." She shakes her head. "It would be a shame to deny these souls the chance to find their own way and their own purpose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"All of these notions of who we are, what shapes us..." She shakes her head. "None of it really matters, does it? And yet if we could heal these broken families, I suppose our journey would be worth something." Itumaak licks at her fingers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"It's a bitter thing to have come so far only to find that it was all for nothing. Somehow, I don't think we're any better off, knowing what we do." She gazes ruefully at the adra pillar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"Even if you are putting one over on me, it's nice to have a hunting party again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>She shakes her head, marveling at the great chamber all around you. "Never thought I'd see something like this in my travels. Lends a little perspective, doesn't it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"What now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"I told you I'd get you home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"I guess that's up to you, isn't it? Because I'm too short to reach the controls on that thing." She nods at the machine.
+
+"For all I know, when you flip the switch, that thing'll blast us all as far as Naasitaq. Whatever happens, though, I'm glad we journeyed together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>She laughs. "So you did. It's been an honor, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Thank you for traveling with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"It's time I settled this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"I'd probably still be twiddling my thumbs by the side of the road if you hadn't come along." She scratches Itumaak's head. 
+
+"Thanks for bringing us this far."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>She nods. "Good hunting, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

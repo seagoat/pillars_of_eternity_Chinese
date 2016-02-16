@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\prototype_2\p2_cv_villager_inn_male_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Keep yourself fed and happy. Never know when the good times will end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Danger ahead I tell you. If it's not the Glanfathans, it'll be some plague or a monster - or my wife, same thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The villager pays no heed to the conversations in the room and stares at his drink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"You talk to that man over by the bar yet? He's been barking about his daughter all day."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

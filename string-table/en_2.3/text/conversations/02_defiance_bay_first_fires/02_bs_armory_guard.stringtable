@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\02_defiance_bay_first_fires\02_bs_armory_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I heard that Penhelm was the reincarnation of an Aedyran. Is that true?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I wonder who will take Penhelm's post in the armory."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"They took Penhelm's rank so quickly, there must be a reason."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

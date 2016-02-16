@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\04_defiance_bay_brackenbury\04_bs_mafia_capo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Just having a little chat with my 'associates.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Word is you're in with the Doemenels. I've got nothing but respect for them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Friend of the Knights, are you? Don't worry, we're minding our own business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"The Dozens aren't much for subtlety, are they?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Skerrion has an excellent Vailian red on the rack over there."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

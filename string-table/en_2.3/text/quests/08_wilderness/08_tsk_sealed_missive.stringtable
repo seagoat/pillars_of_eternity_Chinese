@@ -1,0 +1,64 @@
+<StringTableFile>
+  <Name>quests\08_wilderness\08_tsk_sealed_missive</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Sealed Missive</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Deliver Missive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>I stumbled across a monk in Elmshore that was attacked by a stelgaer pack. In his last, dying moments, he gave me a sealed missive to deliver on his behalf to the brothers of his order.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>I need to deliver the dead monk's missive to members of his order. They should be staying at the Celestial Sapling - an inn located within Twin Elms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I have read the missive the monk carried. Here is what it said:
+
+Rejoice, seekers. The judicious application of pain has loosened the tongue of our informant. The artifact we seek has recently been moved to Elm's Reach - it should be secured in a residence near the entrance of the settlement. The informant suggested it is likely stashed away under the floor. We have endured much in our pursuit of this hallowed relic - soon our efforts will come to fruition. The council of Archmartyrs awaits your triumphant return. Do not fail us.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I returned the message, with the seals intact, to the monks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I returned the message to the monks, though I was attacked when it was discovered the seals on the scroll case had been broken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Someone critical to the completion of this task has died.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>I returned the message to the monks. I was able to read the contents of the message without physically breaking the seals. The monks are none the wiser...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>I reported the monk's death to his brethren, but I lied about the monk giving me anything, and have kept the missive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>I returned the message to the monks. Though I read the missive, I was able to convince the monks that I was not the one who broke the seal.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

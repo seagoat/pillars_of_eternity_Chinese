@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\03_defiance_bay_ondras_gift\03_tsk_lighthouse</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>18</EntryCount>
@@ -15,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Deal with the cean g&#373;la.</DefaultText>
+      <DefaultText>Deal with the cean gŵla.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -42,7 +43,7 @@ This must be the creature that's been haunting the lighthouse for over a century
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>A banshee, or what the locals refer to as a "cean g&#373;la," wails and screams from the third floor of the lighthouse. It hasn't attacked me yet, but I'll need to get rid of it one way or another before the tower is safe for Niah's workers.</DefaultText>
+      <DefaultText>A banshee, or what the locals refer to as a "cean gŵla," wails and screams from the third floor of the lighthouse. It hasn't attacked me yet, but I'll need to get rid of it one way or another before the tower is safe for Niah's workers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\07_gilded_vale\07_qst_mothers_plea</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>18</EntryCount>
@@ -10,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Travel to Ansl&#246;g's Compass and Speak to Mother Ranga.</DefaultText>
+      <DefaultText>Travel to Anslög's Compass and Speak to Mother Ranga.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -35,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>In Gilded Vale, I met Calisca's sister, Aufra. Aufra is expecting a child and is worried that she, too, will give birth to a hollowborn, as have many unlucky women before her. She has asked me to travel south to Ansl&#246;g's Compass, where I can find Ranga, a midwife who is said to know a way to ensure that Aufra's child retains its soul.</DefaultText>
+      <DefaultText>In Gilded Vale, I met Calisca's sister, Aufra. Aufra is expecting a child and is worried that she, too, will give birth to a hollowborn, as have many unlucky women before her. She has asked me to travel south to Anslög's Compass, where I can find Ranga, a midwife who is said to know a way to ensure that Aufra's child retains its soul.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

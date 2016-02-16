@@ -1,11 +1,12 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_bs_kana_banter</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>61</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ed&#233;r , you have said you fought in the Saint's War - but for which side?" </DefaultText>
+      <DefaultText>"Edér , you have said you fought in the Saint's War - but for which side?" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -90,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"T&#226;kowa may be more traditional, but it has its share of festivals. Drink a little wine, find someone to dance with..."</DefaultText>
+      <DefaultText>"Tâkowa may be more traditional, but it has its share of festivals. Drink a little wine, find someone to dance with..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -120,7 +121,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"My own brothers and sisters are doing very well for themselves, back in T&#226;kowa. ...I don't know that they'd search for me, if I were killed so far from home." </DefaultText>
+      <DefaultText>"My own brothers and sisters are doing very well for themselves, back in Tâkowa. ...I don't know that they'd search for me, if I were killed so far from home." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -245,7 +246,7 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"In T&#226;kowa we have a memorial for the Saint's War. They say a Rauatai artillery master contributed to the Godhammer bomb. I wondered - " </DefaultText>
+      <DefaultText>"In Tâkowa we have a memorial for the Saint's War. They say a Rauatai artillery master contributed to the Godhammer bomb. I wondered - " </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -255,7 +256,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"On second thought, I'll ask Ed&#233;r." </DefaultText>
+      <DefaultText>"On second thought, I'll ask Edér." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

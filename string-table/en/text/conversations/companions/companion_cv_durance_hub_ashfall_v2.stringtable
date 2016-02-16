@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_cv_durance_hub_ashfall_v2</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>75</EntryCount>
@@ -74,7 +75,7 @@ He pauses. "I called it a cathedral before. That's not the full truth of it."</D
       <ID>16</ID>
       <DefaultText>"It's more a battlefield... it lies in the heart of the War of Black Trees, its timbers built from the burnt forest there, each timber blessed by fire, and one of Magran's greatest battles.
 
-"Many of us helped shape the war effort there &#8211; with flames and firearms."</DefaultText>
+"Many of us helped shape the war effort there – with flames and firearms."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -167,7 +168,7 @@ Durance closes his eyes for a moment, as if thinking back. "Some chambers were c
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>You notice Ed&#233;r's been listening. He speaks under his breath.
+      <DefaultText>You notice Edér's been listening. He speaks under his breath.
 
 "Don't know if the problem is so much a cathedral in his head as bats in his bell tower..."
 

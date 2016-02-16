@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_cv_aloth</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>104</EntryCount>
@@ -437,7 +438,7 @@ He gives you a guardedly hopeful look. "Perhaps I could join you. I could use a 
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"A b&#238;a&#373;ac."</DefaultText>
+      <DefaultText>"A bîaŵac."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

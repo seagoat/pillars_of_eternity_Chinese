@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_cv_eder_hub2</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>83</EntryCount>
@@ -189,7 +190,7 @@ He laughs. "Real pain in my ass. Made me look bad about every way he could. Wasn
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Ed&#233;r scratches his head and smirks. "Well, I guess talking to a crazy Watcher is better than talking to no Watcher at all."</DefaultText>
+      <DefaultText>Edér scratches his head and smirks. "Well, I guess talking to a crazy Watcher is better than talking to no Watcher at all."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -240,7 +241,7 @@ He laughs. "Shoulda seen it coming after the tailor said he was gonna fit me for
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Ed&#233;r pauses a moment, lost in thought. "The family whose farm I worked on, they had a little Hollowborn girl. When they heard the animancers had this cure - the Salvation, it was called - they went running."</DefaultText>
+      <DefaultText>Edér pauses a moment, lost in thought. "The family whose farm I worked on, they had a little Hollowborn girl. When they heard the animancers had this cure - the Salvation, it was called - they went running."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -302,12 +303,12 @@ He laughs. "Shoulda seen it coming after the tailor said he was gonna fit me for
       <ID>54</ID>
       <DefaultText>"Me and Woden got tired of hearing it. I was maybe eleven, twelve at the time."
 
-Ed&#233;r grins widely at something remembered. "We, uh, we 'borrowed' about six different dyes from the dyer one night. Dyed Hereward's chickens every color but white."</DefaultText>
+Edér grins widely at something remembered. "We, uh, we 'borrowed' about six different dyes from the dyer one night. Dyed Hereward's chickens every color but white."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Next morning, the butcher comes knocking, asking for six of his whitest chickens." Ed&#233;r chuckles, beaming mischievous pride.
+      <DefaultText>"Next morning, the butcher comes knocking, asking for six of his whitest chickens." Edér chuckles, beaming mischievous pride.
 
 "We were feeling great, up until Hereward saw what we'd done. He just got on his knees and cried right there, all those colorful chickens around him not knowing what to make of it."</DefaultText>
       <FemaleText />
@@ -426,7 +427,7 @@ He smirks. "If that's the case he deserves all the mourning."</DefaultText>
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Ed&#233;r looks at you as though he's looking directly into the sun. "You sure you don't wanna talk about something more pleasant, like the War of Black Trees or the Legacy or something?"</DefaultText>
+      <DefaultText>Edér looks at you as though he's looking directly into the sun. "You sure you don't wanna talk about something more pleasant, like the War of Black Trees or the Legacy or something?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -436,7 +437,7 @@ He smirks. "If that's the case he deserves all the mourning."</DefaultText>
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Ed&#233;r shrugs. "Nah, not that last part. But you had to think about it. Says a lot about the place I've been calling home all these years."</DefaultText>
+      <DefaultText>Edér shrugs. "Nah, not that last part. But you had to think about it. Says a lot about the place I've been calling home all these years."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -481,7 +482,7 @@ He smirks. "If that's the case he deserves all the mourning."</DefaultText>
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"I found this object buried outside Cl&#238;aban Rilag. Might be from the Saint's War."</DefaultText>
+      <DefaultText>"I found this object buried outside Clîaban Rilag. Might be from the Saint's War."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

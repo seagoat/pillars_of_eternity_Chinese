@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\03_defiance_bay_ondra_gift\03_bs_club_member</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I daresay we've never met. New to the Club?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Dwellier sells excellent gear, but only to members."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Terribly unfortunate about the last proprietor, but we have standards to maintain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"They say the Gilt Blade of Lorn was once a formidable weapon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I fear the quality of the performances at the Copperlane amphitheater has declined in recent years."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

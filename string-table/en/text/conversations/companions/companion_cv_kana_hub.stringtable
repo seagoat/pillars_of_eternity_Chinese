@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_cv_kana_hub</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>359</EntryCount>
@@ -37,7 +38,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Hm. What shall I tell...? I am Kana Rua, born in the royal city of T&#226;kowa, from which rules the ranga nui. There, that is a solemn enough start." He grins brightly.
+      <DefaultText>"Hm. What shall I tell...? I am Kana Rua, born in the royal city of Tâkowa, from which rules the ranga nui. There, that is a solemn enough start." He grins brightly.
 
 "I'm a lore chanter in the college there. Or at least a student of lore and a chanter both."</DefaultText>
       <FemaleText />
@@ -183,7 +184,7 @@ He laughs. "But I can try, all the same." </DefaultText>
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Much as it sounds - a maze of walls, like the teeth of some nautical terror. It sits outside the city, and guards T&#226;kowa from invaders and storms. The storms have always been more trouble. Nuitanri - the angry titans, throwing themselves against Rauatai's shores." </DefaultText>
+      <DefaultText>"Much as it sounds - a maze of walls, like the teeth of some nautical terror. It sits outside the city, and guards Tâkowa from invaders and storms. The storms have always been more trouble. Nuitanri - the angry titans, throwing themselves against Rauatai's shores." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -585,7 +586,7 @@ Kana chuckles. "Sorry." </DefaultText>
       <ID>122</ID>
       <DefaultText>"The Pahari grow in influence. They'd have the ranga nui focus our efforts on expanding north, and close all the ports to foreigners from the south." 
 
-"T&#226;kowa, at least, feels smaller. With the Gate of Great Teeth finished, trade has diminished." </DefaultText>
+"Tâkowa, at least, feels smaller. With the Gate of Great Teeth finished, trade has diminished." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -815,7 +816,7 @@ Kana chuckles. "Sorry." </DefaultText>
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>"I haven't been to Gilded Vale save in your company. ...It's quaint, but I don't see why Ed&#233;r remained here for so long, if I'm honest." </DefaultText>
+      <DefaultText>"I haven't been to Gilded Vale save in your company. ...It's quaint, but I don't see why Edér remained here for so long, if I'm honest." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -994,12 +995,12 @@ Kana chuckles. "Sorry." </DefaultText>
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>"Sorry, Ed&#233;r."</DefaultText>
+      <DefaultText>"Sorry, Edér."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>"I'll make it. Besides, T&#226;kowa women have an eye for scars. I'll finally be as popular as the cannoneers."</DefaultText>
+      <DefaultText>"I'll make it. Besides, Tâkowa women have an eye for scars. I'll finally be as popular as the cannoneers."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1043,7 +1044,7 @@ Kana chuckles. "Sorry." </DefaultText>
       <ID>219</ID>
       <DefaultText>"I decided that my third degree would be in history, and that I would study the Engwithans. They were at the heart of so much discussion abroad. So many discoveries." 
 
-"It drew some mockery. We'd watched Aedyr draw itself into several conflicts with the Glanfathans over these ruins. T&#226;kowa had its own concerns." </DefaultText>
+"It drew some mockery. We'd watched Aedyr draw itself into several conflicts with the Glanfathans over these ruins. Tâkowa had its own concerns." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1111,7 +1112,7 @@ Kana smiles. "He may not believe what I'm saying, but at least he's willing to l
     </Entry>
     <Entry>
       <ID>235</ID>
-      <DefaultText>"Tell me about the city you're from, T&#226;kowa."</DefaultText>
+      <DefaultText>"Tell me about the city you're from, Tâkowa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1397,12 +1398,12 @@ Kana eyes you. "They don't like the sea much, I've noticed." </DefaultText>
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>"T&#226;kowa is doubly famed, a royal city and home to the Coral Harbor. The ranga nui's palace is there, and we've a fleet of royal ships sitting outside of the Gate of Great Teeth. Every so often you'll hear the roar of a cannon being tested." </DefaultText>
+      <DefaultText>"Tâkowa is doubly famed, a royal city and home to the Coral Harbor. The ranga nui's palace is there, and we've a fleet of royal ships sitting outside of the Gate of Great Teeth. Every so often you'll hear the roar of a cannon being tested." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText>"T&#226;kowa is also home to the lore college, of course, and we get a great many people traveling long distances to speak with the lore keeper, or else hear the chants and peruse the books." 
+      <DefaultText>"Tâkowa is also home to the lore college, of course, and we get a great many people traveling long distances to speak with the lore keeper, or else hear the chants and peruse the books." 
 
 "At least, that is how it was when I was younger. Things were a little different when I left." </DefaultText>
       <FemaleText />
@@ -1428,12 +1429,12 @@ Kana eyes you. "They don't like the sea much, I've noticed." </DefaultText>
       <ID>300</ID>
       <DefaultText>"Rauatai has a lot of artillery. We've made great advances with explosives. One of our artillery masters advised on the Godhammer Bomb during the Saints' War, actually. In Rauatai itself our efforts are more modest - bombards, cannons. We're having some luck with mortars." 
 
-"You might ask my sister, if you ever visit T&#226;kowa. She captains the Ratuwhana. She knows far more than I do, and enjoys great fame for it." </DefaultText>
+"You might ask my sister, if you ever visit Tâkowa. She captains the Ratuwhana. She knows far more than I do, and enjoys great fame for it." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>"T&#226;kowa has a lot of this artillery?" </DefaultText>
+      <DefaultText>"Tâkowa has a lot of this artillery?" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1788,7 +1789,7 @@ Kana eyes you. "They don't like the sea much, I've noticed." </DefaultText>
     </Entry>
     <Entry>
       <ID>374</ID>
-      <DefaultText>"Ansl&#246;g's Compass? Put simply, it's named for that rock over by the water. But there's a tale behind the name, as there always is. Ansl&#246;g was a man, you see, with a rather sad fate."</DefaultText>
+      <DefaultText>"Anslög's Compass? Put simply, it's named for that rock over by the water. But there's a tale behind the name, as there always is. Anslög was a man, you see, with a rather sad fate."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1803,7 +1804,7 @@ Kana eyes you. "They don't like the sea much, I've noticed." </DefaultText>
     </Entry>
     <Entry>
       <ID>377</ID>
-      <DefaultText>"So - why not throw aside the compass, yes? But Ansl&#246;g could not help himself. There are some that say that, wherever his soul resides now, it still yearns for these lost corners of the world." </DefaultText>
+      <DefaultText>"So - why not throw aside the compass, yes? But Anslög could not help himself. There are some that say that, wherever his soul resides now, it still yearns for these lost corners of the world." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1813,7 +1814,7 @@ Kana eyes you. "They don't like the sea much, I've noticed." </DefaultText>
     </Entry>
     <Entry>
       <ID>379</ID>
-      <DefaultText>"Ansl&#246;g's Compass. All lovely sand and sharp teeth." </DefaultText>
+      <DefaultText>"Anslög's Compass. All lovely sand and sharp teeth." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1843,7 +1844,7 @@ Kana eyes you. "They don't like the sea much, I've noticed." </DefaultText>
     </Entry>
     <Entry>
       <ID>385</ID>
-      <DefaultText>"If you should ever find that the sand beneath your feet is that of T&#226;kowa, seek me out, and you can tell me what other impossible things you have accomplished." </DefaultText>
+      <DefaultText>"If you should ever find that the sand beneath your feet is that of Tâkowa, seek me out, and you can tell me what other impossible things you have accomplished." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

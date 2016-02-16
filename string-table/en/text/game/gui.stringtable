@@ -1,7 +1,8 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2092</EntryCount>
+  <EntryCount>2421</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -10,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>C&#246;nyngsdag</DefaultText>
+      <DefaultText>Cönyngsdag</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -30,17 +31,17 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Foniv&#232;rno</DefaultText>
+      <DefaultText>Fonivèrno</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Tariv&#232;rno</DefaultText>
+      <DefaultText>Tarivèrno</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Pr&#233;prima</DefaultText>
+      <DefaultText>Préprima</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -60,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Pr&#233;&#235;stu</DefaultText>
+      <DefaultText>Préëstu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -80,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Pr&#233;auton</DefaultText>
+      <DefaultText>Préauton</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -100,12 +101,12 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Pr&#233;&#239;v&#232;rno</DefaultText>
+      <DefaultText>Préïvèrno</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Majiv&#232;rno</DefaultText>
+      <DefaultText>Majivèrno</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -160,7 +161,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Cl&#238;aban Rilag</DefaultText>
+      <DefaultText>Clîaban Rilag</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -340,7 +341,7 @@
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>&#956;</DefaultText>
+      <DefaultText>μ</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2375,7 +2376,7 @@
     </Entry>
     <Entry>
       <ID>479</ID>
-      <DefaultText>Orlans are the smallest of the kith races, though many cultures don't consider them to be civilized at all. Also notable for their large ears, two-toned skin, and hirsute bodies, orlans are commonly found in Eir Glanfath, the Ixamitl Plains, and parts of the Dyrwood. They are known for their mental intensity and quickness.</DefaultText>
+      <DefaultText>Orlans are the smallest of the kith races, though many cultures don't consider them to be civilized at all. Also notable for their large ears, two-toned skin, and hirsute bodies, orlans are commonly found in Eir Glanfath, the Ixamitl Plains, and parts of the Dyrwood. They are known for their mental intensity and sharp senses.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2580,7 +2581,7 @@ Wounds - As monks are damaged, their pain generates Wounds. Wounds can be used t
     </Entry>
     <Entry>
       <ID>505</ID>
-      <DefaultText>A recent discovery in the Eastern Reach, ciphers were once called "br&#238;shalgwin" ("mind hunters") by the Glanfathans. Ciphers have the ability to directly contact and manipulate another person's soul and psyche, using an ally's or enemy's essence as the focus for their magic. Though most ciphers are still found in the Eastern Reach, practitioners of the techniques have spread throughout the known world. They are gaining acceptance over time, but are generally distrusted, especially by the uneducated. 
+      <DefaultText>A recent discovery in the Eastern Reach, ciphers were once called "brîshalgwin" ("mind hunters") by the Glanfathans. Ciphers have the ability to directly contact and manipulate another person's soul and psyche, using an ally's or enemy's essence as the focus for their magic. Though most ciphers are still found in the Eastern Reach, practitioners of the techniques have spread throughout the known world. They are gaining acceptance over time, but are generally distrusted, especially by the uneducated. 
 
 Starting Ability:
 
@@ -3135,7 +3136,7 @@ Invocations - Powerful magical effects that chanters can create after they have 
     </Entry>
     <Entry>
       <ID>615</ID>
-      <DefaultText>The Western Barbican bars the passage of invaders coming across the Isce &#206;en river.</DefaultText>
+      <DefaultText>The Western Barbican bars the passage of invaders coming across the Isce Îen river.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3725,7 +3726,7 @@ Invocations - Powerful magical effects that chanters can create after they have 
     </Entry>
     <Entry>
       <ID>738</ID>
-      <DefaultText>Frerm&#224;s mes Canc Suolias</DefaultText>
+      <DefaultText>Frermàs mes Canc Suolias</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3755,7 +3756,7 @@ Invocations - Powerful magical effects that chanters can create after they have 
     </Entry>
     <Entry>
       <ID>744</ID>
-      <DefaultText>Frerm&#224;s mes Canc Soulias Description</DefaultText>
+      <DefaultText>Frermàs mes Canc Soulias Description</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4960,12 +4961,12 @@ Invocations - Powerful magical effects that chanters can create after they have 
     </Entry>
     <Entry>
       <ID>985</ID>
-      <DefaultText>Cean G&#373;las and Spectres.</DefaultText>
+      <DefaultText>Cean Gŵlas and Spectres</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>986</ID>
-      <DefaultText>A host of Cean G&#373;las and Spectres has reached the outskirts of the keep, and will attack the stronghold soon!</DefaultText>
+      <DefaultText>A host of Cean Gŵlas and Spectres has reached the outskirts of the keep, and will attack the stronghold soon!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6985,12 +6986,12 @@ Invocations - Powerful magical effects that chanters can create after they have 
     </Entry>
     <Entry>
       <ID>1392</ID>
-      <DefaultText>Ethik N&#244;l Keepers and Chanters</DefaultText>
+      <DefaultText>Ethik Nôl Keepers and Chanters</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1393</ID>
-      <DefaultText>A group of Ethik N&#244;l Keepers and Chanters have been spotted approaching Caed Nua!</DefaultText>
+      <DefaultText>A group of Ethik Nôl Keepers and Chanters have been spotted approaching Caed Nua!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7010,7 +7011,7 @@ Invocations - Powerful magical effects that chanters can create after they have 
     </Entry>
     <Entry>
       <ID>1397</ID>
-      <DefaultText>Adventuring is tiring work. Traveling, fighting, and scrambling up fallen statues can take its toll. The Athletics skill counters the effects of accrued Fatigue, allowing characters to go farther and fight longer before they suffer penalties. In conversations and scripted interactions, Athletics is used for physical feats like climbing, swimming, and jumping.</DefaultText>
+      <DefaultText>Adventuring is tiring work. In addition to the hazards of mortal combat, adventurers have walls to climb, rivers to cross, and pits to leap over. Once per encounter, characters with Athletics can use the Second Wind ability to recover lost Endurance. A higher Athletics score increases the effect of Second Wind. In conversations and scripted interactions, Athletics is used for physical feats like climbing, swimming, and jumping.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7025,7 +7026,18 @@ Invocations - Powerful magical effects that chanters can create after they have 
     </Entry>
     <Entry>
       <ID>1400</ID>
-      <DefaultText>Survival allows characters to make better use of the food and potion items they find. The higher the character's Survival skill, the longer the duration of such items. Survival can also be used in conversations and scripted interactions that involve wilderness challenges or specialization information.</DefaultText>
+      <DefaultText>Survival allows characters to choose from a variety of long-term bonuses each time they camp. The first six ranks grant the following bonuses:
+
+1 - Damage Reduction
+2 - Received Healing Multiplier
+3 - Bonus Movement
+4 - Accuracy Bonus vs. Creature Type
+5 - Increased Consumable Duration
+6 - Bonus Damage vs. Flanked Enemies
+
+After the sixth rank, the previously-earned bonuses become more powerful in the same order they were received.
+
+Survival can also be used in conversations and scripted interactions that involve wilderness challenges or specialized information about nature.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7071,6 +7083,16 @@ Invocations - Powerful magical effects that chanters can create after they have 
     <Entry>
       <ID>1409</ID>
       <DefaultText>Inspect</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1410</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1411</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
@@ -7699,7 +7721,7 @@ Despite these advantages, there are risks to the relationship. Rangers share a l
     </Entry>
     <Entry>
       <ID>1536</ID>
-      <DefaultText>{0}&#176; Cone</DefaultText>
+      <DefaultText>{0}° Cone</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7714,7 +7736,7 @@ Despite these advantages, there are risks to the relationship. Rangers share a l
     </Entry>
     <Entry>
       <ID>1539</ID>
-      <DefaultText>Summon: {0}</DefaultText>
+      <DefaultText>Summon</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8309,7 +8331,7 @@ Despite these advantages, there are risks to the relationship. Rangers share a l
     </Entry>
     <Entry>
       <ID>1659</ID>
-      <DefaultText>{0}% Consumable Duration</DefaultText>
+      <DefaultText>{0} Consumable Duration</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9526,6 +9548,41 @@ Are you sure you want to finish Character Creation?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1903</ID>
+      <DefaultText>Temple of Ondra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1904</ID>
+      <DefaultText>The Gréf's Rest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1905</ID>
+      <DefaultText>Fishery</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1906</ID>
+      <DefaultText>Renengild's House</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1907</ID>
+      <DefaultText>Thyrsc's House</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1908</ID>
+      <DefaultText>Taena's House</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1909</ID>
+      <DefaultText>Yduran's Wagon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1910</ID>
       <DefaultText>Treasury</DefaultText>
       <FemaleText />
@@ -9533,6 +9590,11 @@ Are you sure you want to finish Character Creation?</DefaultText>
     <Entry>
       <ID>1911</ID>
       <DefaultText>Steward</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1912</ID>
+      <DefaultText>The Devil of Caroc</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9671,6 +9733,16 @@ Are you sure you want to finish Character Creation?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1940</ID>
+      <DefaultText>Russetwood</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1941</ID>
+      <DefaultText>Flames-That-Whisper Caverns</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1942</ID>
       <DefaultText>Combat Auto-Slow</DefaultText>
       <FemaleText />
@@ -9716,6 +9788,11 @@ Are you sure you want to finish Character Creation?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1951</ID>
+      <DefaultText>Durgan's Battery</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1952</ID>
       <DefaultText>{0} to Crit Damage multiplier against targets with low Endurance</DefaultText>
       <FemaleText />
@@ -9728,6 +9805,26 @@ Are you sure you want to finish Character Creation?</DefaultText>
     <Entry>
       <ID>1954</ID>
       <DefaultText>Dyrwood</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1956</ID>
+      <DefaultText>Frozen Storage Room</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1957</ID>
+      <DefaultText>Guards' Quarters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1958</ID>
+      <DefaultText>War Room</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1959</ID>
+      <DefaultText>Feasthall</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9753,6 +9850,66 @@ Are you sure you want to finish Character Creation?</DefaultText>
     <Entry>
       <ID>1964</ID>
       <DefaultText>Automatically advances Companions when they first join the party. Disable this option to manually advance Companions from 1st level.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1965</ID>
+      <DefaultText>Lake</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1966</ID>
+      <DefaultText>Armory</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1967</ID>
+      <DefaultText>Mine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1968</ID>
+      <DefaultText>Scrying Chamber</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1969</ID>
+      <DefaultText>Ice Chute</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1970</ID>
+      <DefaultText>Sleeping Quarters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1971</ID>
+      <DefaultText>Eating Room</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1972</ID>
+      <DefaultText>To Russetwood</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1973</ID>
+      <DefaultText>To Lower Cavern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1974</ID>
+      <DefaultText>Russetwood Pond</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1975</ID>
+      <DefaultText>Woodcutters' Grove</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1976</ID>
+      <DefaultText>Hunters' Camp</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9793,6 +9950,11 @@ Are you sure you want to finish Character Creation?</DefaultText>
     <Entry>
       <ID>1984</ID>
       <DefaultText>Determines how frequently companions and player characters will play their voice cues. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1986</ID>
+      <DefaultText>Landslide</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9841,6 +10003,11 @@ Are you sure you want to finish Character Creation?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1996</ID>
+      <DefaultText>Morug</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1997</ID>
       <DefaultText>Frame Rate Max</DefaultText>
       <FemaleText />
@@ -9861,6 +10028,46 @@ Are you sure you want to finish Character Creation?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2001</ID>
+      <DefaultText>Hall of Remembrance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2002</ID>
+      <DefaultText>Workshop</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2003</ID>
+      <DefaultText>Mine Cart Tunnels</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2006</ID>
+      <DefaultText>Battle Chamber</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2008</ID>
+      <DefaultText>Battery Gate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2009</ID>
+      <DefaultText>Hall of Brothers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2012</ID>
+      <DefaultText>Chamber of Durgan's Pride</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2014</ID>
+      <DefaultText>The White March</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2015</ID>
       <DefaultText>Examine</DefaultText>
       <FemaleText />
@@ -9871,8 +10078,33 @@ Are you sure you want to finish Character Creation?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2017</ID>
+      <DefaultText>Wolf Cave</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2018</ID>
       <DefaultText>Unused points will carry to the next level</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2021</ID>
+      <DefaultText>Cavern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2022</ID>
+      <DefaultText>Durgan's Battery</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2023</ID>
+      <DefaultText>Galvino's Cabin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2024</ID>
+      <DefaultText>Caravan</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9881,8 +10113,68 @@ Are you sure you want to finish Character Creation?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2026</ID>
+      <DefaultText>To Upper Cavern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2027</ID>
+      <DefaultText>Shrine of Galawain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2028</ID>
+      <DefaultText>Russetwood Crater</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2029</ID>
+      <DefaultText>Abandoned Camp</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2030</ID>
+      <DefaultText>Bind Soul</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2031</ID>
+      <DefaultText>Sever Binding</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2032</ID>
+      <DefaultText>Are you sure you want to soulbind {0} to {1}? Once bound, this item cannot be equipped by any other character.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2033</ID>
+      <DefaultText>Are you sure you want to sever the binding between {0} and {1}? All abilities that have been awakened on {1} will be lost.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2034</ID>
+      <DefaultText>Binds With: {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2035</ID>
+      <DefaultText>This weapon can only be bound to characters of the following classes: {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2036</ID>
       <DefaultText>, </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2037</ID>
+      <DefaultText>Bound To: {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2038</ID>
+      <DefaultText>{0} is soulbound to {1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9891,8 +10183,48 @@ Are you sure you want to finish Character Creation?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2040</ID>
+      <DefaultText>Durgan's Crossing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2041</ID>
+      <DefaultText>Battery Watchtower</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2042</ID>
+      <DefaultText>Taragaer's Camp</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2043</ID>
       <DefaultText>Destroyed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2044</ID>
+      <DefaultText>Soulbound</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2045</ID>
+      <DefaultText>{0} to unlock the next level.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2046</ID>
+      <DefaultText>Kill {0} {1} with {2}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2047</ID>
+      <DefaultText>Deal {0} damage to {1} with {2}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2048</ID>
+      <DefaultText>Bind this weapon</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9909,6 +10241,16 @@ If you would like, the critical path can be increased in difficulty to give you 
 The rewards you receive will be the same regardless of the option you choose.
 
 Your choice cannot be changed once it has been selected.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2051</ID>
+      <DefaultText>Standard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2052</ID>
+      <DefaultText>High Level</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9947,8 +10289,248 @@ Your choice cannot be changed once it has been selected.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2060</ID>
+      <DefaultText>Fighters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2061</ID>
+      <DefaultText>Rogues</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2062</ID>
+      <DefaultText>Priests</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2063</ID>
+      <DefaultText>Wizards</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2064</ID>
+      <DefaultText>Barbarians</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2065</ID>
+      <DefaultText>Rangers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2066</ID>
+      <DefaultText>Druids</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2067</ID>
+      <DefaultText>Paladins</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2068</ID>
+      <DefaultText>Monks</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2069</ID>
+      <DefaultText>Ciphers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2070</ID>
+      <DefaultText>Chanters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2071</ID>
+      <DefaultText>Trolls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2072</ID>
+      <DefaultText>Ogres</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2073</ID>
+      <DefaultText>Wolves</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2074</ID>
+      <DefaultText>Spiders</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2075</ID>
+      <DefaultText>Oozes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2076</ID>
+      <DefaultText>Stelgaer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2077</ID>
+      <DefaultText>Imps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2078</ID>
+      <DefaultText>Dank Spores</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2079</ID>
+      <DefaultText>Swamp Lurkers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2080</ID>
+      <DefaultText>Eoten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2081</ID>
+      <DefaultText>Xaurips</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2082</ID>
+      <DefaultText>Vithrack</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2083</ID>
+      <DefaultText>Will-O-Wisps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2084</ID>
+      <DefaultText>Delemgan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2085</ID>
+      <DefaultText>Pŵgra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2086</ID>
+      <DefaultText>Wurms</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2087</ID>
+      <DefaultText>Skuldrs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2088</ID>
+      <DefaultText>Drakes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2089</ID>
+      <DefaultText>Sky Dragons</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2090</ID>
+      <DefaultText>Adra Dragons</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2091</ID>
+      <DefaultText>Blights</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2092</ID>
+      <DefaultText>Animats</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2093</ID>
+      <DefaultText>Flesh Constructs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2094</ID>
+      <DefaultText>Shadows</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2095</ID>
+      <DefaultText>Phantoms</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2096</ID>
+      <DefaultText>Cean Gŵla</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2097</ID>
+      <DefaultText>Skeletons</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2098</ID>
+      <DefaultText>Revenants</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2099</ID>
+      <DefaultText>Guls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2100</ID>
+      <DefaultText>Darguls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2101</ID>
+      <DefaultText>Fampyrs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2102</ID>
+      <DefaultText>Wichts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2103</ID>
+      <DefaultText>Beetles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2104</ID>
       <DefaultText>Animal Companion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2105</ID>
+      <DefaultText>Weak Enemies</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2106</ID>
+      <DefaultText>Heralds of Woedica</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2107</ID>
+      <DefaultText>Priests of Woedica</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2108</ID>
+      <DefaultText>Lagufaeth</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9974,6 +10556,21 @@ Your choice cannot be changed once it has been selected.</DefaultText>
     <Entry>
       <ID>2113</ID>
       <DefaultText>No AI script selected</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2114</ID>
+      <DefaultText>The White March</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2115</ID>
+      <DefaultText>The Steward of Caed Nua has received a letter for you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2116</ID>
+      <DefaultText>All soulbound upgrades are completed.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10007,6 +10604,11 @@ Your choice cannot be changed once it has been selected.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2124</ID>
       <DefaultText>Animal Companion Auto-Attack</DefaultText>
       <FemaleText />
@@ -10032,13 +10634,108 @@ Your choice cannot be changed once it has been selected.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2129</ID>
+      <DefaultText>Talkers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2130</ID>
+      <DefaultText>The Saint</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2131</ID>
+      <DefaultText>Witnesses</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2132</ID>
+      <DefaultText>Towers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2133</ID>
+      <DefaultText>Godhammers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2134</ID>
+      <DefaultText>The Dozen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2135</ID>
+      <DefaultText>nothing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2136</ID>
+      <DefaultText>the fur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2137</ID>
+      <DefaultText>the skin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2138</ID>
+      <DefaultText>the ear</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2139</ID>
+      <DefaultText>the mouth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2140</ID>
+      <DefaultText>the eye</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2141</ID>
+      <DefaultText>the nose</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2142</ID>
+      <DefaultText>{0}, value {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2143</ID>
       <DefaultText>Description</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2144</ID>
+      <DefaultText>Concelhaut's Chamber</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2145</ID>
+      <DefaultText>Tanoss' Lab</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2146</ID>
+      <DefaultText>Pelden's Lab</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2147</ID>
+      <DefaultText>Sabel's Lab</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2148</ID>
-      <DefaultText>Summon {0} Of: {1}</DefaultText>
+      <DefaultText>Summon {0} Of</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2149</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
@@ -10064,6 +10761,21 @@ Your choice cannot be changed once it has been selected.</DefaultText>
     <Entry>
       <ID>2154</ID>
       <DefaultText>AI Behavior</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2155</ID>
+      <DefaultText>Uariki's Lab</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2156</ID>
+      <DefaultText>To Crägholdt Bluffs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2157</ID>
+      <DefaultText>Crägholdt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10107,8 +10819,53 @@ Your choice cannot be changed once it has been selected.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2166</ID>
+      <DefaultText>Workroom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2167</ID>
+      <DefaultText>Laboratory</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2168</ID>
+      <DefaultText>Testing Ground</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2169</ID>
+      <DefaultText>Galvino's Study</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2170</ID>
+      <DefaultText>Stalwart Hot Springs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2171</ID>
       <DefaultText>{0} added to Inventory</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2172</ID>
+      <DefaultText>Cause the {1} affliction {0} times with {2}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2173</ID>
+      <DefaultText>Be revived during combat {0} times</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2174</ID>
+      <DefaultText>Deal {0} {2} damage to {1} with {3}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2175</ID>
+      <DefaultText>{0} with critical hits</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10142,6 +10899,31 @@ Your choice cannot be changed once it has been selected.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2182</ID>
+      <DefaultText>Torn Pack</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2183</ID>
+      <DefaultText>Hot Springs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2184</ID>
+      <DefaultText>Dwarven Ruins</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2185</ID>
+      <DefaultText>Dwarven Watchtower</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2186</ID>
+      <DefaultText>kith {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2187</ID>
       <DefaultText>Imm.</DefaultText>
       <FemaleText />
@@ -10149,6 +10931,11 @@ Your choice cannot be changed once it has been selected.</DefaultText>
     <Entry>
       <ID>2188</ID>
       <DefaultText>Immune!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2189</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
@@ -10174,6 +10961,22 @@ Your choice cannot be changed once it has been selected.</DefaultText>
     <Entry>
       <ID>2194</ID>
       <DefaultText>{0} single-weapon Speed penalty</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2195</ID>
+      <DefaultText>Feasthall
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2196</ID>
+      <DefaultText>Soulbound Weapon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2197</ID>
+      <DefaultText>Soulbound</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10224,6 +11027,51 @@ Your choice cannot be changed once it has been selected.</DefaultText>
     <Entry>
       <ID>2207</ID>
       <DefaultText>Requires Endurance above {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2208</ID>
+      <DefaultText>Cursed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2209</ID>
+      <DefaultText>Command Tent</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2210</ID>
+      <DefaultText>Cave</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2211</ID>
+      <DefaultText>Field Infirmary</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2212</ID>
+      <DefaultText>Training Grounds</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2213</ID>
+      <DefaultText>Testing Grounds</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2214</ID>
+      <DefaultText>Laboratory</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2215</ID>
+      <DefaultText>Workroom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2216</ID>
+      <DefaultText>Crägholdt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10292,6 +11140,16 @@ Your choice cannot be changed once it has been selected.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2231</ID>
+      <DefaultText>Ladder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2232</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2233</ID>
       <DefaultText>Scouting</DefaultText>
       <FemaleText />
@@ -10324,6 +11182,11 @@ Your choice cannot be changed once it has been selected.</DefaultText>
     <Entry>
       <ID>2239</ID>
       <DefaultText>Recover immediately</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2240</ID>
+      <DefaultText>Resonance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10373,7 +11236,7 @@ Your choice cannot be changed once it has been selected.</DefaultText>
     </Entry>
     <Entry>
       <ID>2250</ID>
-      <DefaultText>Placeholder description of Story Time difficulty.</DefaultText>
+      <DefaultText>Story Time mode is for players who are more interested in exploration and story development than the challenge of combat. While Story Time is active, the enemy composition of battles is the same as Normal difficulty, but the game mechanics are biased in the player's favor. Additionally, the party can carry an unlimited number of Camping Supplies.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10418,7 +11281,7 @@ Your choice cannot be changed once it has been selected.</DefaultText>
     </Entry>
     <Entry>
       <ID>2259</ID>
-      <DefaultText>Grants Second Wind level {0}</DefaultText>
+      <DefaultText>Grants Second Wind ({0} Endurance)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10447,6 +11310,16 @@ Your choice cannot be changed once it has been selected.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2265</ID>
+      <DefaultText>Cayron's Scar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2266</ID>
+      <DefaultText>Crystal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2267</ID>
       <DefaultText>The character's AI will not use any spells or abilities.</DefaultText>
       <FemaleText />
@@ -10467,6 +11340,16 @@ Your choice cannot be changed once it has been selected.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2271</ID>
+      <DefaultText>Cayron's Scar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2272</ID>
+      <DefaultText>White March</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2273</ID>
       <DefaultText>Steals {1} spells of Level {0} or lower</DefaultText>
       <FemaleText />
@@ -10474,6 +11357,26 @@ Your choice cannot be changed once it has been selected.</DefaultText>
     <Entry>
       <ID>2274</ID>
       <DefaultText>Stole {0} from {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2275</ID>
+      <DefaultText>Ondrite Shrine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2276</ID>
+      <DefaultText>Ionni Brathr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2277</ID>
+      <DefaultText>Ondrite Fanatic Camp</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2278</ID>
+      <DefaultText>Ice Floes</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10489,6 +11392,11 @@ Your choice cannot be changed once it has been selected.</DefaultText>
     <Entry>
       <ID>2281</ID>
       <DefaultText>Next Menu Screen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2282</ID>
+      <DefaultText>Pool</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10537,8 +11445,53 @@ Your choice cannot be changed once it has been selected.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2292</ID>
+      <DefaultText>Stalwart Mines</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2293</ID>
+      <DefaultText>Temple of Abydon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2294</ID>
       <DefaultText>Previous Menu Screen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2295</ID>
+      <DefaultText>Command Post</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2296</ID>
+      <DefaultText>Kennels</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2297</ID>
+      <DefaultText>Drill Yard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2298</ID>
+      <DefaultText>Siege Equipment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2299</ID>
+      <DefaultText>West Gate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2300</ID>
+      <DefaultText>Gravesite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2301</ID>
+      <DefaultText>Front Gate</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10559,6 +11512,712 @@ Your choice cannot be changed once it has been selected.</DefaultText>
     <Entry>
       <ID>2305</ID>
       <DefaultText>Remove {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2306</ID>
+      <DefaultText>{0} characters hit by {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2307</ID>
+      <DefaultText>{0} characters hitting {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2308</ID>
+      <DefaultText>Characters hit by {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2309</ID>
+      <DefaultText>Characters hitting {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2310</ID>
+      <DefaultText>Iron Flail Fort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2311</ID>
+      <DefaultText>{0} Phrase Recitation time</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2312</ID>
+      <DefaultText>Hamond's Emporium</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2313</ID>
+      <DefaultText>Dragon Breath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2314</ID>
+      <DefaultText>minimum damage against Confused, Charmed, Dominated characters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2315</ID>
+      <DefaultText>If successful: {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2316</ID>
+      <DefaultText>Applies the same effect as {0}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2319</ID>
+      <DefaultText>Take {0} damage from {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2320</ID>
+      <DefaultText>Take {0} {2} damage from {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2321</ID>
+      <DefaultText>Deal {0} damage to {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2322</ID>
+      <DefaultText>Deal {0} {2} damage to {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2323</ID>
+      <DefaultText>{0} Drug effect duration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2324</ID>
+      <DefaultText>{0} on kill</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2325</ID>
+      <DefaultText>Paired character</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2326</ID>
+      <DefaultText>{0} Endurance transferred from caster </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2327</ID>
+      <DefaultText>Veil Piercing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2328</ID>
+      <DefaultText>{0} {1} stolen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2329</ID>
+      <DefaultText>Have at least {0} {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2330</ID>
+      <DefaultText>male {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2331</ID>
+      <DefaultText>female {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2332</ID>
+      <DefaultText>Are you sure you want to duplicate {0}? This will consume {1} permanently.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2333</ID>
+      <DefaultText>The duplicate of {0} has been placed in the Stash.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2334</ID>
+      <DefaultText>Only equipment can be duplicated.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2335</ID>
+      <DefaultText>{0} cannot be duplicated.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2336</ID>
+      <DefaultText>Equipped items cannot be duplicated.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2337</ID>
+      <DefaultText>Abbey of the Fallen Moon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2338</ID>
+      <DefaultText>Halls of Presence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2339</ID>
+      <DefaultText>Giant Skeleton's Hip</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2340</ID>
+      <DefaultText>Pool of the Anointed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2341</ID>
+      <DefaultText>Chamber of Tears</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2342</ID>
+      <DefaultText>The Rising Waterway</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2343</ID>
+      <DefaultText>Halls of Silence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2344</ID>
+      <DefaultText>Chamber of the Fallen Moon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2345</ID>
+      <DefaultText>Hall of the Tidal Wave</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2346</ID>
+      <DefaultText>The Abbot's Quarters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2347</ID>
+      <DefaultText>The Crested Quarters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2348</ID>
+      <DefaultText>The Crested Hall</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2349</ID>
+      <DefaultText>The Library</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2350</ID>
+      <DefaultText>The Vault of Forgotten Thoughts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2351</ID>
+      <DefaultText>The Veil of Tears</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2352</ID>
+      <DefaultText>The Reliquary</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2353</ID>
+      <DefaultText>Giant Skeleton's Ribcage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2354</ID>
+      <DefaultText>Giant Skeleton's Hand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2355</ID>
+      <DefaultText>Giant Skeleton's Leg</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2356</ID>
+      <DefaultText>The Passages of Ondra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2357</ID>
+      <DefaultText>Whitestone Hollow</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2358</ID>
+      <DefaultText>Sinking Ruin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2359</ID>
+      <DefaultText>Ancient Tower</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2360</ID>
+      <DefaultText>Cultist Settlement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2361</ID>
+      <DefaultText>Armor Efficiency</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2363</ID>
+      <DefaultText>Ionni Brathr Fragment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2364</ID>
+      <DefaultText>Ionni Brathr Fragment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2365</ID>
+      <DefaultText>Frozen Eyeless</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2366</ID>
+      <DefaultText>Cannot enter Scouting mode in combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2367</ID>
+      <DefaultText>Resistances: {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2368</ID>
+      <DefaultText>Immune to {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2369</ID>
+      <DefaultText>Web</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2370</ID>
+      <DefaultText>{0} every {1} levels between {2} and {3}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2371</ID>
+      <DefaultText>{0} every {1} levels after {2}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2372</ID>
+      <DefaultText>Party AI is active.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2373</ID>
+      <DefaultText>Party AI is inactive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2374</ID>
+      <DefaultText>Foreman's Quarters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2375</ID>
+      <DefaultText>Sulfur Mines</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2376</ID>
+      <DefaultText>Sameth's Body</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2377</ID>
+      <DefaultText>Mining Shaft</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2378</ID>
+      <DefaultText>Cave In</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2379</ID>
+      <DefaultText>Whitestone Lake</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2380</ID>
+      <DefaultText>Haddi's House</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2381</ID>
+      <DefaultText>Scorched Barn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2382</ID>
+      <DefaultText>Avalanche Site</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2383</ID>
+      <DefaultText>Isolated Pedestal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2384</ID>
+      <DefaultText>Cave</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2385</ID>
+      <DefaultText>Looter Camp</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2386</ID>
+      <DefaultText>set to {0} by {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2387</ID>
+      <DefaultText>Pile of Logs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2388</ID>
+      <DefaultText>Ground</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2389</ID>
+      <DefaultText>Yenwood Field</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2390</ID>
+      <DefaultText>Ionni Brathr Rubble</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2391</ID>
+      <DefaultText>Restore {0} use of {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2392</ID>
+      <DefaultText>Restore {0} uses of {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2393</ID>
+      <DefaultText>Clearing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2394</ID>
+      <DefaultText>Vithrack Common House</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2395</ID>
+      <DefaultText>Brute Quarters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2396</ID>
+      <DefaultText>Vithrack Nests</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2397</ID>
+      <DefaultText>Strange Mushrooms</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2398</ID>
+      <DefaultText>Holding Chambers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2399</ID>
+      <DefaultText>Shrine of Abydon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2400</ID>
+      <DefaultText>Forge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2401</ID>
+      <DefaultText>Barracks
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2402</ID>
+      <DefaultText>Training Room</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2403</ID>
+      <DefaultText>War Room</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2404</ID>
+      <DefaultText>Archives</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2405</ID>
+      <DefaultText>{0} requests an audience with you at the stronghold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2406</ID>
+      <DefaultText>bounces up to {0} times</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2407</ID>
+      <DefaultText>On bounce: {0} damage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2408</ID>
+      <DefaultText>Dwarven Archive</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2409</ID>
+      <DefaultText>Roundshot Smithery</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2410</ID>
+      <DefaultText>Artillery Lift</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2411</ID>
+      <DefaultText>Patination Chamber</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2412</ID>
+      <DefaultText>Potionmaster's Quarters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2413</ID>
+      <DefaultText>Maintenance Room</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2414</ID>
+      <DefaultText>Iron Flail Fort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2415</ID>
+      <DefaultText>Action Icons on Portraits</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2416</ID>
+      <DefaultText>If this option is set, each party member's current action will be displayed on his or her portrait during combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2417</ID>
+      <DefaultText>Current Action</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2418</ID>
+      <DefaultText>Hall of Records</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2419</ID>
+      <DefaultText>Shrine of Magran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2420</ID>
+      <DefaultText>{0} will be busy for {1}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2421</ID>
+      <DefaultText>Raw</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2422</ID>
+      <DefaultText>The White March: Part 2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2423</ID>
+      <DefaultText>Eyeless</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2424</ID>
+      <DefaultText>Top of the Abbey</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2425</ID>
+      <DefaultText>Ramparts of the Abbey</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2426</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2427</ID>
+      <DefaultText>Pillars of Eternity: The White March Part II released!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2428</ID>
+      <DefaultText>Pick up your copy today!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2430</ID>
+      <DefaultText>{0} {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2431</ID>
+      <DefaultText>Cliffs of the Abbey</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2432</ID>
+      <DefaultText>{0} with at least {1} Endurance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2433</ID>
+      <DefaultText>{0} with less than {1} Endurance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2434</ID>
+      <DefaultText>Prevent {1} ({0} times)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2435</ID>
+      <DefaultText>Lord Byrnwigar's forces have been spotted approaching the keep. They will arrive soon!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2436</ID>
+      <DefaultText>Byrnwigar's Forces</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2438</ID>
+      <DefaultText>You have installed Pillars of Eternity: The White March Part 2. It will be accessible to you once you have completed the main story of Part 1.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2439</ID>
+      <DefaultText>You have completed Pillars of Eternity: The White March Part 1. To begin the next chapter of the story, rest in any location outside of the White March.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2440</ID>
+      <DefaultText>Path North</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2441</ID>
+      <DefaultText>Common Room</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2442</ID>
+      <DefaultText>Stairs to Battery's Parapet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2444</ID>
+      <DefaultText>Stalwart Village</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2445</ID>
+      <DefaultText>Ritual Circle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2446</ID>
+      <DefaultText>You may call upon the aid of crag ogres by using Beregan's Battle Horn in Cayron's Scar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2447</ID>
+      <DefaultText>You may call upon the cannons of Durgan's Battery by using the Heavy Cannon Blast ability in Cayron's Scar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2448</ID>
+      <DefaultText>You can call for the Readcerans' aid by using the Burning Pitch Trebuchet ability in Cayron's Scar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2449</ID>
+      <DefaultText>To West Tower</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2450</ID>
+      <DefaultText>Engraved Boiler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2451</ID>
+      <DefaultText>{0} melee enemies</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2452</ID>
+      <DefaultText>dragons or drakes</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

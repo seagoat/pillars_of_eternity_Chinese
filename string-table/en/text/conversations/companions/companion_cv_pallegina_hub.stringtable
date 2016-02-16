@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_cv_pallegina_hub</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>84</EntryCount>
@@ -15,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Pallegina nods softly. "Back in the Republics, we call it the Frerm&#224;s mes Canc Suolias. The five suns are the 'ducs bels,' the great ducs who rule over the most powerful republics - Spirento, Ancenze, Selona, Ozia, and Revua."</DefaultText>
+      <DefaultText>Pallegina nods softly. "Back in the Republics, we call it the Frermàs mes Canc Suolias. The five suns are the 'ducs bels,' the great ducs who rule over the most powerful republics - Spirento, Ancenze, Selona, Ozia, and Revua."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -120,7 +121,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Pirates attacked the town where my family lived. It was not uncommon when I was young. They were more of a nuisance than a real threat, but they were persistent enough that the duc of Ozia saw fit to send the Frerm&#224;s to deal with the threat."</DefaultText>
+      <DefaultText>"Pirates attacked the town where my family lived. It was not uncommon when I was young. They were more of a nuisance than a real threat, but they were persistent enough that the duc of Ozia saw fit to send the Frermàs to deal with the threat."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -402,7 +403,7 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"The ducs would have me killed for saying this, but you should strengthen the Dyrwood with these souls. Nothing&#8217;s going to bring those children back. The Dyrwood has suffered enough, too much. This can give them the strength to carry on."</DefaultText>
+      <DefaultText>"The ducs would have me killed for saying this, but you should strengthen the Dyrwood with these souls. Nothing’s going to bring those children back. The Dyrwood has suffered enough, too much. This can give them the strength to carry on."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

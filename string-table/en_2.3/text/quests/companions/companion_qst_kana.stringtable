@@ -1,0 +1,79 @@
+<StringTableFile>
+  <Name>quests\companions\companion_qst_kana</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Time and Tide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find Maerwald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Explore the Endless Paths with Kana Rua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Find Gabrannos or the tablet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Find the ruins beneath Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Kana Rua, an aumaua from the northern lands of Rauatai, has come to the Dyrwood in search of a sacred text, the Tanvii ora Toha, or Book of Virtues. After a long year's search, he believes that he has tracked the text to a tablet within the buried ruins beneath the keep of Caed Nua.
+
+He is eager to explore the ruins, and has asked for my assistance in doing so. Until then, he seems happy enough to accompany me on my travels - though he has sheepishly admitted that this is in part due to his being pursued by mysterious assailants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Kana Rua has been waiting outside the gates of the keep, hoping to find assistance in crossing the infested bailey. He believes that Maerwald may provide him with answers concerning the tablet he is searching for. It seems we both seek this Old Watcher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Kana Rua believes that we will find the tablet within the depths of the dungeons known as The Endless Paths. He does not know precisely where it will be found, though he is certain that it will be found by the remains of Gabrannos, an ancient Engwithan scholar. Kana seems just as excited about the ruins in and of themselves, having studied the Engwithan people for many years.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>We have passed the sealed door which barred passage into the lower regions of the Endless Paths. Kana Rua believes that this was the site of Gabrannos' work. It is a grim place, for all that Kana Rua seems pleased to be here, and it may be best that we find Gabrannos' remains or his work with haste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Maerwald was too far gone to give us answers. We will have to navigate the ruins beneath the keep on our own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>The tablet Kana Rua was looking for turned out to have been destroyed long ago - by who or what, there's no way to tell. Kana seems to have been hit hard by this revelation. I have tried to encourage him - whatever answers either of us are going to find, it seems they still lie ahead of us. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Our search for the Tanvii ora Toha has come to an end, for we have found the shattered fragments of the tablet Kana sought. Kana seems to have been hit hard by the loss of the tablet, and his feverish excitement over the Endless Paths has lessened considerably. Given what we have seen, that may be for the best. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Kana has been killed, and his ambitions die with him.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

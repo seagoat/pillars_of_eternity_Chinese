@@ -1,0 +1,64 @@
+<StringTableFile>
+  <Name>conversations\05_defiance_bay_heritage_hill\05_cv_icantha_prisoner</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"You- you're not one of Icantha's servants. Please, you've got to get us out of here before she feeds on us!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"What happened to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"We're just groundskeepers. When the district fell into chaos, Icantha took us in, said we'd be safe until the Knights got things under control."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Instead, she locked us in here. Every week one of those monsters who serves her comes in and takes one of us away.
+
+"I don't know what she's doing, but sometimes we can hear the screams..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Is it safe for us to leave yet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Please get us out of here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Stay here for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"The way to the district exit should be safe. Go now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Lie] "You can't get out of the district, but the top of the tower is safe. Aldhelm will take care of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I wish we could leave Heritage Hill entirely, but even the tower has to be better than here. Thank you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Thank you! We'll never forget this!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

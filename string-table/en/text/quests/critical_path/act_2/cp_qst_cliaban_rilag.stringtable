@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\critical_path\act_2\cp_qst_cliaban_rilag</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>15</EntryCount>
@@ -20,12 +21,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Travel to Cl&#238;aban Rilag.</DefaultText>
+      <DefaultText>Travel to Clîaban Rilag.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Find signs of the Leaden Key within Cl&#238;aban Rilag.</DefaultText>
+      <DefaultText>Find signs of the Leaden Key within Clîaban Rilag.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -35,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Travel to Cl&#238;aban Rilag.</DefaultText>
+      <DefaultText>Travel to Clîaban Rilag.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -55,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Beodmar showed me where to find Cl&#238;aban Rilag, but he warned me to steer clear of the Glanfathan tribes guarding the ruin. </DefaultText>
+      <DefaultText>Beodmar showed me where to find Clîaban Rilag, but he warned me to steer clear of the Glanfathan tribes guarding the ruin. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -70,14 +71,14 @@
     </Entry>
     <Entry>
       <ID>10006</ID>
-      <DefaultText>Beodmar is dead, but I was able to learn the location of Cl&#238;aban Rilag from his soul.
+      <DefaultText>Beodmar is dead, but I was able to learn the location of Clîaban Rilag from his soul.
 
 I caught a sense of foreboding from the old man's essence, but I couldn't determine the reason for his unease.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>I saw a vision of the Leaden Key agents surrendering their souls to the Engwithan machine in Cl&#238;aban Rilag. They performed the same ritual I witnessed outside Cilant L&#238;s, which means they must be doing this all over the Dyrwood. The thoughts of one of the agents suggested that they were there to ensure that infants in the area would be Hollowborn.</DefaultText>
+      <DefaultText>I saw a vision of the Leaden Key agents surrendering their souls to the Engwithan machine in Clîaban Rilag. They performed the same ritual I witnessed outside Cilant Lîs, which means they must be doing this all over the Dyrwood. The thoughts of one of the agents suggested that they were there to ensure that infants in the area would be Hollowborn.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

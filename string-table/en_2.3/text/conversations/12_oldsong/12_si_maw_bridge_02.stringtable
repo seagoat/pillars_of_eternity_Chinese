@@ -1,0 +1,106 @@
+<StringTableFile>
+  <Name>conversations\12_oldsong\12_si_maw_bridge_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The remains of a broken bridge, long-collapsed, lead to a deep chasm. The other side of the bridge pierces through the mist at the far end of the chasm, hanging precariously over the steep fall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Examine the area.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Toss your rope and grappling hook across the chasm.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The broken stones of the bridge, weathered after centuries of disrepair, are scattered along the edge and side of the chasm. A thin mist rises from below. The stones are coated with slick green moss, making them impossible to grip safely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The wooden beams lodged between the stones on either side of the bridge seem sturdy enough to support your weight, however.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You aim for the wooden beam on the opposite side of the bridge and hurl your grappling hook across the chasm. It strikes the bridge with a solid thunk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The hook snags firmly, digging into the wood as you pull. The rope tightens, taut and secure. You tie the free end of the rope to the wooden beam next to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The crossing is strenuous, particularly as the rope's shaking grows more intense. You hear labored breathing all around you, as everyone begins to tire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Cross the chasm.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The crossing is strenuous, particularly as the rope's shaking grows more intense. [SkillCheck 0]'s breathing grows labored, and [SkillCheck 1], [SkillCheck 2] and [SkillCheck 3] begin to slow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>The crossing is strenuous, particularly as the rope's shaking grows more intense. You hear labored breathing all around you. Only [SkillCheck 0] is able to keep up their pace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>At last, your efforts bring you back over solid ground, and you reach the other side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The rope tenses and vibrates as you move forward, gripping the line. Reverberating throughout the underground cave, the creaks of the wooden beams mark your every effort.
+
+You keep your progress slow and steady.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>The remains of a broken bridge, long-collapsed, lead to a deep chasm. The other side of the bridge pierces through the mist at the far end of the chasm, hanging precariously over the steep fall.
+
+Your rope stretches across the gap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The crossing is strenuous, particularly as the rope's shaking grows more intense. [SkillCheck 0]'s breathing grows labored, and [SkillCheck 1] and [SkillCheck 2] begin to slow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You reach the other side without incident. The knots on the other side of the bridge remain secure, and the wooden beams appear undamaged by the strain of your passage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The crossing is strenuous, particularly as the rope's shaking grows more intense. [SkillCheck 0]'s breathing grows labored, and [SkillCheck 1] begins to slow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>The crossing is strenuous, particularly as the rope's shaking grows more intense. [SkillCheck 0]'s breathing grows labored. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

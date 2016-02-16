@@ -1,7 +1,7 @@
 <StringTableFile>
   <Name>conversations\prototype_2\p2_cv_pool</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>136</EntryCount>
+  <EntryCount>140</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -811,6 +811,28 @@
     <Entry>
       <ID>211</ID>
       <DefaultText>血 池 本 身 開 始 蕩 漾 起 一 層 層 不 和 諧 的 邪 惡 笑 聲 。折 疊 的 血 液 掀 起 一 個 大 型 金 屬 籠 子 ，半 露 在 血 池 的 中 間 ，籠 子 在 生 銹 的 滑 輪 上 前 後 搖 動 時 發 出 刺 耳 的 嘎 吱 聲 ，仿 佛 急 著 回 應 你 的 問 題 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Wasn't me this time!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"I'd be lying if I said I didn't wanna learn how to do that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"In all my years, I've never seen-" She swallows, hiding the hitch in her voice. "Don't make us stay any longer, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>You feel a jolt of power jump from you to Zahua. He blinks, his eyes turning to you for just a moment.
+
+He falls to his knees, choking and coughing. Blood gushes from his open mouth to the paving stones, running into the pool in a steady stream. Zahua tries to cry out, but the blood filling his throat strangles the sound.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,0 +1,208 @@
+<StringTableFile>
+  <Name>conversations\06_stronghold\06_cv_visitor_town_drunk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Hello. Uh, greetings, Lord [Player Name], I mean. I was hoping to talk to you. I'm in a spot of trouble."
+
+This man's breath stinks of ale.</DefaultText>
+      <FemaleText>"Hello. Uh, greetings, Lady [Player Name], I mean. I was hoping to talk to you. I'm in a spot of trouble."
+
+This man's breath stinks of ale.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Thing is, I've worked up a few debts in Dyrford. And a few other places. More than a few." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Trigger Conv Node 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Very well. Let's hear it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You call your allies together, and motion for the petitioner to step forward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I was thinking... Maybe you'd know of someone looking to hire on, or something. I'm willing to work!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Script Node 8</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Don't worry. I can settle this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I know a way you can pay off your debt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Why should I trouble myself with a shiftless vagabond? You're wasting my time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I-I didn't mean to, my Lord! I just- I thought... Forgive me!" </DefaultText>
+      <FemaleText>"I-I didn't mean to, my Lady! I just- I thought... Forgive me!" </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Guards, get this creature out of my sight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Guards, hang this wastrel." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Thank you, my Lord. I wasn't sure anybody would care, really."</DefaultText>
+      <FemaleText>"Thank you, my Lady. I wasn't sure anybody would care, really."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Give him 1200cp.] "This ought to be enough to settle your debts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Material goods, debts - these things aren't important. Zahua can tell you more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I'll have the Dozens harry you from town to town, all the way to the harbor. I'll see you on a ship to the Living Lands!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I never did learn much of a trade. What'd you have in mind?"
+
+Gafol fidgets nervously.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Pallegina can put you in contact with researchers in the Vailian Republics. You'll have work as an assistant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I'll talk to Bellasege at the Brackenbury sanitarium. You can help her with her research."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I cannot help you with this at the moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Script Node 23</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Gafol's eyes widen. 
+"It sure is! Gods keep you, my Lord! I'll set out to Eina's Rest, see about paying out what I owe. Won't they be surprised!"</DefaultText>
+      <FemaleText>Gafol's eyes widen. 
+"It sure is! Gods keep you, my Lady! I'll set out to Eina's Rest, see about paying out what I owe. Won't they be surprised!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"On second thought, perhaps not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Oh. Well... Did you have any other ideas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"These are snares that tie you to the world. The solution is to burn all your possessions, and to pay your creditors with acts of self-mutilation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Uh. Like in tests, you mean? Suppose that ought to pay well, at least, right?"
+
+He bows, awkwardly. "Thank you! I'll head out there soon as I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"The Vailian Republics? But that's so far away... Then again, maybe a change of scenery will do me some good."
+
+He bows, awkwardly. "Thank you! I'll work hard, I promise!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Wait, I didn't-! Ahh!" 
+
+Gafol ducks to avoid a guard's reach. He runs whimpering from the hall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>With a fearful yelp, Gafol runs whimpering from the hall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"No, wait! Wait! I'm sorry!" 
+
+The guards seize Gafol by the arms, dragging him from the hall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Sounds uh, interesting. Thanks, Lord [Player Name]! I knew you could help!"</DefaultText>
+      <FemaleText>"Sounds uh, interesting. Thanks, Lady [Player Name]! I knew you could help!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Oh, very well." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Gafol cringes anxiously, sweat beading on his brow. He waits for you to speak.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"H-hey! I just need a second of your time..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I haven't got the coin, my Lord. I'd pay it off if I could!" </DefaultText>
+      <FemaleText>"I haven't got the coin, my Lady. I'd pay it off if I could!" </FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

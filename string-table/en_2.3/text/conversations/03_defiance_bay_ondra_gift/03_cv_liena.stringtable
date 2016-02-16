@@ -1,0 +1,56 @@
+<StringTableFile>
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_liena</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A young woman stands behind the counter, watching you with quick, intelligent eyes.
+
+"Welcome. This is your first visit to the Vailian Trading Company, is it not? Please, let me know how I can assist you." Her tone is both professional and inquisitive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"You have more business to discuss?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What is this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"The Vailian Trading Company is an association of merchants from the Vailian Republics. We oversee trade deals and negotiations on behalf of our merchants." 
+
+She gestures toward the door on her right. "This is our warehouse, where we store goods in transit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I'm the assistant manager of this warehouse. Currently, I help Verzano run things, but I'll take over when he retires. Or when the company bosses back home decide it's time for new management." She rolls her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Welcome to the Vailian Trading Company."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I'm the new warehouse manager. Verzano, my predecessor..." She rolls her eyes toward the door. "He was no longer up to the task."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

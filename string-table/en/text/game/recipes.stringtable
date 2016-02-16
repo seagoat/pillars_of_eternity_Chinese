@@ -1,7 +1,8 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\recipes</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>180</EntryCount>
+  <EntryCount>197</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -560,7 +561,7 @@
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>Casit&#224; Casserole</DefaultText>
+      <DefaultText>Casità Casserole</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -901,6 +902,91 @@
     <Entry>
       <ID>179</ID>
       <DefaultText>Potions Level 5</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Scroll of Prayer Against Bewilderment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Scroll of Minoletta's Concussive Missiles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Potion of Barring Death's Door</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Speckleback Jerky</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Potion of Flame Shield</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>White Forge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Durgan-Refined Weapon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Durgan-Reinforced Armor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Durgan-Reinforced Shield</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Refined Durgan Iron Ingot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Efficient Refined Durgan Iron Ingot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Scroll of Restore Critical Endurance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Scroll of Prayer Against Treachery</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Scroll of Prayer Against Imprisonment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Scrolls Level 6</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Legendary</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

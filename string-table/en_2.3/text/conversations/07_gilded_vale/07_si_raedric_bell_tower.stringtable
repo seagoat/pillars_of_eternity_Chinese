@@ -1,0 +1,102 @@
+<StringTableFile>
+  <Name>conversations\07_gilded_vale\07_si_raedric_bell_tower</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The castle's bell tower rises up over the walls before you. Thick vines have grown over the outer wall, weaving over and between the stones. The vines span nearly the full height of the wall, curling over the parapets. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Examine the wall. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Jump to reach the vines. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The overgrown vines look fairly sturdy, though it is unclear whether they would bear a person's weight. Far above, you notice that a section of the parapets has fallen away, presenting a gap in the defenses. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You get a running start on the bank of the moat and leap, aiming for some of the thicker vines. Your handhold sways, and there is an ominous cracking sound above, but the vines hold. The tower looms above you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Climb up the vines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Return to the moat's bank. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You make your way steadily up the face of the wall. After a long and wearying climb, the top of the wall finally comes within reach, and you are able to pull yourself up and over. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The climb up the keep wall is long and wearying. [SkillCheck 0] begins to lag behind, fatigued. But in time, the top of the wall comes within reach, and you are able to pull yourself up and over. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The climb up the keep wall is long and wearying. [SkillCheck 0] and [SkillCheck 1] begin to lag behind, fatigued. But in time, the top of the wall comes within reach, and you are able to pull yourself up and over. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The climb up the keep wall is long and wearying. [SkillCheck 0], [SkillCheck 1], and [SkillCheck 2] begin to lag behind, fatigued. But in time, the top of the wall comes within reach, and you are able to pull yourself up and over.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>The climb up the keep wall is long and wearying. [SkillCheck 0], [SkillCheck 1], [SkillCheck 2], and [SkillCheck 3] begin to lag behind, fatigued. But in time, the top of the wall comes within reach, and you are able to pull yourself up and over. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The climb up the keep wall is long and wearying. After several moments, only [SkillCheck 0] is able to keep a steady pace, the rest lagging behind. But in time, the top of the wall comes within reach, and everyone is able to pull themselves up and over the side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The climb up the keep wall is long and wearying. Your pace flags quickly, and in their exhaustion, everyone strains to reach the top of the wall without losing their grip. After what seems an eternity, the top of the wall comes within reach, and everyone is able to pull themselves up and over the side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Climb up the vines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>You make your way steadily up the face of the wall. After a long and wearying climb, the top of the wall finally comes within reach, and you are able to pull yourself up and over.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>The climb up the keep wall is long and wearying, fatiguing some in your party. But in time, the top of the wall comes within reach, and you are able to pull yourself up and over.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>The climb up the keep wall is long and wearying. You lag behind, fatigued. But in time, the top of the wall comes within reach, and you are able to pull yourself up and over. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,42 @@
+<StringTableFile>
+  <Name>conversations\04_defiance_bay_brackenbury\04_cv_servant_upstairs</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>老 女 僕 模 糊 的 雙 眼 看 向 你 向 你 致 意 。「請 原 諒 ，但 是 我 不 得 不 要 求 你 回 到 樓 下 去 。到 訪 者 是 不 允 許 到 樓 上 去 的 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「到 訪 者 還 是 不 允 許 上 去 的 。請 到 樓 下 來 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[攻 擊 ]「我 哪 兒 也 不 去 。」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[回 到 樓 下 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「救 命 ！」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[幫 助 她 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>她 一 聲 不 響 地 倒 下 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

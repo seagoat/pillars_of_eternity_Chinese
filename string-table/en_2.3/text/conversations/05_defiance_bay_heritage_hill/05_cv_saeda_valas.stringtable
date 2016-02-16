@@ -1,0 +1,279 @@
+<StringTableFile>
+  <Name>conversations\05_defiance_bay_heritage_hill\05_cv_saeda_valas</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>54</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A little girl cowers in the back of the tomb. Her face is streaked with dirt, and even in the shadows, you can tell she's far too thin. She watches you, holding her breath. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Saeda looks like she's had a bath and a few square meals. She smiles shyly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Tell me what happened to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Who are the 'hungry people'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>DEBUG: Set Conditions for Quest Resolution = True.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Is it safe? Are the hungry people out there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"It's still dangerous, but the path to the main gate should be clear. Run for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>She inches into the candlelight. Her clothes are little more than filthy rags now, but ripped and stained fabric looks like embroidered silk. "You have to be quiet. Noise brings the hungry people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"My name is Saeda. Are you hiding from them, too?" She watches the door of the vault, her eyes wide and careful. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Where's your family?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>She whispers, and her eyes are round with terror. "The ones outside. They don't sleep or die but they eat..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"At the house. Mother told me to hide and not let anyone in. Then I heard a lot of noise. Fighting and yelling and..." Her eyes glaze over. "And then Mother told me to open the door again. But she didn't sound right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Her eyes take on a distant look. Her legs start to tremble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>She takes a deep breath and stares at the stone floor. "There was a big noise and light in the sky. Everyone thought it was a storm, but then people started waking up. After they died, I mean. They..." She twists her shredded sleeve into knots.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Mother and Father and Emilo boarded up the door. But the hungry people found our house." Her fidgeting becomes more agitated. "They fought, but the hungry people always get up again. They broke through the door, and Mother told me to hide.
+
+"And then I came here to hide. But the door got stuck, and I didn't know when it would be safe outside."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"You're Saeda? I came across some darguls in a house..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The girl's eyes widen. "You saw Mother and Father? And Emilo? How did you get away?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"You need to get out of here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I won't let anything catch me, I promise!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"There! That's the nice man who helped me."</DefaultText>
+      <FemaleText>"There! That's the nice lady who helped me."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"And thank the Iron Arm for it. We'll get you sorted out at the Keep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"What are you doing in here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"It's all right. You're safe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Is this what you kids do for fun these days?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Be strong. Think back to how this started."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"You're frightened and you've been stuck here for too long. But try to remember what happened before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>[Lie] "Get to the top of the big tower. You can wait there until it's safe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Oh, all right. I hope you come get me soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"I killed them. I had no choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>[Lie] "They never saw me. I was very quiet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>She picks at a thumbnail, watching you. She nods slowly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>She picks at a thumbnail, watching you. It isn't clear whether she's unconvinced or just dazed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Those aren't your parents any more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Let's not worry about that right now. We should focus on getting out of here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Goodbye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Wait!" She darts toward you. "I can't stay here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"I've turned off the machine that makes the hungry people come back. You can leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Thank you!" She gives you a quick hug and runs for the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Bank Node 133</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Sagani stands stock-still, looking at the girl as if at a wounded rabbit. "Aurochs' shadow. Looks like she's been on her own for weeks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"If she's afraid of hungry people, maybe I should step outside."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Maddicho! How did she survive in this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Poor child, by the look of it, she's been hiding and foraging for months. We should help her find her home, or at least catch her a proper dinner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Has she been in here all along? Hiding from those... creatures?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"A grim lesson for a child to learn. Poor lass. How long has she been here?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>The Grieving Mother holds her hands over her heart, and you hear the ringing of chimes. "Such bravery from one so young. But I sense fear... despair... beginning to fill her mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Trigger Conv Node 141</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Trigger Conv Node 142</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Durance frowns. "The child has endured one trial already, Watcher. Would you put her through another so soon?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Trigger Conv Node 144</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Ed&#233;r looks at you, blinking, his jaw dangling. "Well that's ONE way to take care of your problems, I suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Hiravias shrugs. "The strong are meant to prey on the weak, at least in Galawain's eyes. If she can't kill one measly decaying maniac in single combat, she has it coming."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Bank Node 147</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

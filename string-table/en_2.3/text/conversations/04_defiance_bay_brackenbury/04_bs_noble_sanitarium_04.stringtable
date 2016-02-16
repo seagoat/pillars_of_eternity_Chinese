@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\04_defiance_bay_brackenbury\04_bs_noble_sanitarium_04</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"It's okay, dear, the animancers are here to help you. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"The treatments are expensive, but I'd gladly pay tenfold to cure my daughter of her nightmares."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"The animancers say she's haunted by a previous life. She wakes up screaming."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I'll never understand those fanatics in the Dozens. If their children suffered like mine, they'd be lined up for an appointment, no question."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

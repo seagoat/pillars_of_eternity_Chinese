@@ -1,0 +1,642 @@
+<StringTableFile>
+  <Name>conversations\15_yenwood\15_cv_chancellor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>125</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Thank you for coming, [Player Name]. I've been trying to track you down for some time."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"What's this about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Get to the point."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"The legitimacy of your claim to Caed Nua is in question. Erl Bademar has issued a ruling on the matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Caed Nua is mine. Any who challenge my claim will face my wrath." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I trust the erl to make a fair judgment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"All will be made clear once Lord Gathbin arrives. Do you have any questions for me while we wait?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"What do you know of Gathbin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Tell me more about Rännig Gathbin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Do you know which way Erl Bademar has ruled?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I don't have any more questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"While I've met him but once, it was ample time to determine the character of Lord Arledr Gathbin, or lack thereof."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Rännig Gathbin, the Erl of Yenwood, sided with Aedyr during the War of Defiance. In the latter days of the campaign, when it was clear Aedyr would be defeated, Rännig attempted to negotiate a peace with the duc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I'm sorry, milord, I do not. The erl's decree is sealed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Your timing is impeccable. Here comes Lord Gathbin now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>An opulently dressed man strides towards the chancellor, his sandy hair trailing him like a banner caught in a light breeze, boot heels echoing throughout the hall. 
+
+An elven woman with cropped hair dressed in dark, glinting mail shadows his steps before taking position alongside him. She watches you unabashedly, taking your measure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"This man here? This is the Lord of Caed Nua? I thought he was just another servant. Perhaps a valet or a porter."</DefaultText>
+      <FemaleText>"This woman here? This is the Lady of Caed Nua? I thought she was just another servant. Perhaps a valet or a scullery maid." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Well, I can't say that Gathbin's reaction was entirely unexpected. Through no fault of your own, I'm afraid you've made a powerful enemy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"My apologies, but these are dire times. Our business must wait until these riots have ceased, milord!"</DefaultText>
+      <FemaleText>"My apologies, but you these are dire times. Our business must wait until these riots have ceased, milady!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I've dealt with much worse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Shrug.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I hope you're right." Warrin smiles thinly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"In any case, Caed Nua now officially belongs to you since Lord Gathbin has rejected the erl's decree." He hands you a deep blue scepter which looks to have been carved entirely out of sapphire. "Here - this belonged to one of the old lords of Caed Nua. By right, it's yours now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"And where is this pretender? He who murdered the Raedrics - my own sister and her husband - and now steals MY land! Where is this low-born wretch?" </DefaultText>
+      <FemaleText>"And where is this pretender? She who murdered the Raedrics - my own sister and her husband - and steals my land! Where is this low-born wretch?" </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Warrin clears his throat and glances at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Actually, I'm part of the aristocracy myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Raise your hand.] "Everyone who owns their own keep, raise a hand. Go on, don't be shy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Can we get on with this, please?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I don't know what distant lands you come from, but your title carries little weight in the Dyrwood. Chancellor, read the decree. I'm losing my patience with this backwater fop."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Warrin breaks the seal on the scroll and unfurls it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"'Regarding the matter of the Gathbin claim on Caed Nua, Erl Bademar finds that the Gathbin claim was never relinquished. By law, Caed Nua is the rightful property of the Gathbin family.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I knew it." Gathbin smirks at you, triumphantly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I'm not yet finished reading, milord." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"'However, the erl recognizes [Player Name]'s part in reclaiming Caed Nua, a site that has stood abandoned and even, some would say, cursed, for over a century. Before Caed Nua is returned to the Gathbin family, the erl has decreed that Lord Gathbin will provide compensation in the form of-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Absolutely not." Gathbin folds his arms, a defiant scowl on his face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Milord?" Warrin raises his eyebrows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I'll not pay a single copper to this miscreant for MY ancestral land! Do you think I'm blind to the erl's motives, lackey? He thinks he can send a message with this insult."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Punch Gathbin.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Grab Gathbin's arm.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Gah!" Gathbin's nose crunches under your fist. He staggers back with a hand clutched over the injury, teary eyes wide with shock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Enough!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Do nothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Milord, I suggest you calm yourself. Immediately." The marshal's tone is calm, but his hand rests on the hilt of his sword.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Keep your hands off me, you... you peasant!" Gathbin yanks his arm free of your hand and steps back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"How DARE you give me an order!" Gathbin whirls to face you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I'll be coming for what's mine. Count on it! Come, Captain Emery - we're leaving." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"My lords, please! There's no need for violence!"</DefaultText>
+      <FemaleText>"Milord, milady, please! There's no need for further violence!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"He did seem a little upset, didn't he?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I've heard he's always been vicious, even as a boy. And he can hold a grudge for a very long time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Give 1000 cp.] "Have this sent to Lord Gathbin as a token of friendship."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Tell Gathbin if I catch him or any of his people on my land, they'll be executed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"I'm done here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"That is a generous offer, and I'll make sure it reaches Lord Gathbin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"It was a pleasure to finally meet you, milord." Warrin bows. "Perhaps we'll speak again under more pleasant circumstances."</DefaultText>
+      <FemaleText>"It was a pleasure to finally meet you, milady." Warrin bows. "Perhaps we'll speak again under more pleasant circumstances."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"An extreme measure to be sure, but I will pass the message along."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Please extend an invitation to Lord Gathbin to feast with me within the halls of Caed Nua. There's no need for us to be enemies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Imbecile! I hope you've enjoyed your time squatting on my land. Provoke me further and I'll hang you from the highest wall of Caed Nua when our business is finished. Chancellor, read the erl's decree."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Lord [Player Name]! What brings you to Brackenbury?"</DefaultText>
+      <FemaleText>"Lady [Player Name]! What brings you to Brackenbury?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"You sent a missive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Put down the ale, old man - you summoned me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Look around the room.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"No, I didn't. I received a missive. From you." 
+
+The chancellor sets down his mug of ale and looks at you quizzically. 
+
+"As far as I know, nothing has changed regarding your rightful possession of Caed Nua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>You realize that the Charred Barrel has gone quiet, and turn to see the last of the patrons quickly disappearing through the front door. A moment later, a group of armed men and women stride into the tavern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Oh, dear." The chancellor quickly ducks behind the table.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Well, that was unexpected." Warrin emerges from beneath his table and smooths the rumpled sleeves of his robe. "It does make the strange reports I've received from the Grasp make more sense in context, however."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Erl Bademar decided to keep an eye on Lord Gathbin's activities. Gathbin has been hiring a lot of men recently, but for what purpose, we can't say. I'd advise you to take extra precautions at Caed Nua - he may be attempting to place spies or saboteurs within your walls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Be wary, [Player Name]. I don't think you've seen Lord Gathbin's endgame yet." He swallows the rest of his ale and gives you a curt nod before heading for the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"What haven't you told me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Well met, Roadwarden. Your reputation precedes you. I admit, you've created a bit of stir throughout the nobility with your reclamation of Caed Nua. Most are still not sure what to think of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Farewell, [Player Name]." The marshal nods at you and leaves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Tell me about Erl Bademar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Erl Bademar comes from an esteemed line of lords that rose to prominence after the War of Defiance, some 150 years ago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"This is Marshal Forywn, Erl Bademar's military advisor. He will serve as a witness for this proceeding."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>He gestures at the man next to him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Caed Nua was abandoned for over a century and I've claimed the land through strength of arms. My claim is legitimate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Your cooperation is duly noted and much appreciated."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"If there were no other claimant you would be correct. Unfortunately, this is not the case."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Threats will not make your occupation of Caed Nua legal, I'm afraid. Only the erl can do that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"The Dyrwood consists of seven erldoms. The Bademars govern the northern erldom known as the Grasp."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"That is all I need to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Tell me more about the Grasp."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"The Grasp is now the largest of the seven erldoms after it consumed the prewar erldom of Yenwood. It encompasses notable settlements such as New Heomar, Geiran's Grasp, Gilded Vale and, of course, Caed Nua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Yenwood?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I thought Lord Raedric was the lord of Gilded Vale?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"I have other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"He is... er, was. Lord Raedric was a thayn, however - a title below that of an erl. If your claim on Caed Nua is legitimized, I assume it is a title you will soon carry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"He is. Lord Raedric is a thayn, however - a title below that of an erl. If your claim on Caed Nua is legitimized, I assume it is a title you will soon carry." "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"As to the current Bademar, he is as fine a man as I know. It is an honor to serve him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"When the Dyrwood was a mere colony of Aedyr, it was divided into nine erldoms. When the Aedyrans were defeated, and ultimately driven out, two of the erldoms were absorbed and borders were adjusted. The Yenwood was one such erldom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"I thought Lord Kolsc was the lord of Gilded Vale?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"From what I hear you had a hand in that, no? To your question, Lord Kolsc is a thayn, a title below that of an erl. If your claim on Caed Nua is legitimized, I assume it is a title you will soon carry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"He is descended from an old Aedyran line that predates the War of Defiance. His great grandfather, Rännig Gathbin, was the erl of Yenwood during the war. That is, until he was stripped of his lands and driven from the Dyrwood." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Without any leverage, the erl was forced to accept a near complete forfeiture of his lands and the erldom of Yenwood was absorbed into the erldom known today as the Grasp."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"As an additional slight, the duc allowed Gathbin to retain his claim to Caed Nua, a cursed, and therefore worthless, ruin. Knowing he could not reside within the halls of Caed Nua, Rännig Gathbin returned to Aedyr in shame."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"The amount is quite reasonable and a requirement for your land to be returned to you. If you'll just allow me to finish..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"I have a message you can send that son of a whore!" Gathbin raises an open hand as the chancellor shrinks from him, arms raised in defense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"No. The erl hasn't been able to enforce his edicts this far south in decades... and now Duc Aevar is dead! Erl Bademar's enemies outweigh his allies, it appears."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Let's move past this formality as quickly as possible. I've other matters to attend to. It's well known that Caed Nua belongs to me, by right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>The elven woman deftly draws a pistol from her thick leather belt. Her eyes widen in anticipation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>He sneers defiantly before storming down the hall. 
+
+The captain lowers her pistol and gives a smirking shrug before following her employer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Gathbin rolls his eyes and motions for the chancellor to continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Holding the hem of his robe as he steps over several bodies, Chancellor Warrin approaches you. Although his face is pale, and he looks as if he will be sick at any moment, he forces a smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Lord [Player Name], while I'm grateful this dispute is finally over, it is regrettable so many lives were lost in the process. Gathbin should have just been reasonable from the start." He gags involuntarily as his silk boot brushes against a severed head.</DefaultText>
+      <FemaleText>"Lady [Player Name], while I'm grateful this dispute is finally over, it is regrettable so many lives were lost in the process. Gathbin should have just been reasonable from the start." He gags involuntarily as his silk boot brushes against a severed head.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"In any event, as the legal arbiter of Erl Bademar, I'm here to inform you that you've been declared a thayn of the Dyrwood, and Caed Nua has been recognized as your domain. It shall forever be thus, and will pass down to any descendants you may have in the future."</DefaultText>
+      <FemaleText>"In any event, as the legal arbiter of Erl Bademar, I'm here to inform you that you've been declared a thaynu of the Dyrwood, and Caed Nua has been recognized as your domain. It shall forever be thus, and will pass down to any descendants you may have in the future."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Sounds reasonable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>[Nod.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Tell Erl Bademar that I'm grateful for his assistance. I'll make sure his taxes are collected with regularity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Well, then... if everything is in order..." The chancellor clears his throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"It appears my work is done. Feel free to visit the palace if-" He steps in a pile of entrails with a wet squish as he turns to leave. "On second thought, I'll come and visit you. Yes, yes. Perhaps in a year... or three."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Lord [Player Name], it's been an honor to serve you. I'll be making my way back to Geiran's Grasp, the erl has some urgent business for me there, unfortunately." </DefaultText>
+      <FemaleText>"Lady [Player Name], it's been an honor to serve you. I'll be making my way back to Geiran's Grasp. The erl has some urgent business for me there, unfortunately."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Excellent. I'll inform Erl Bademar that everything is in order."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"And where is this pretender? He who murdered Lord Kolsc, my own cousin - and now steals MY land! Where is this low-born wretch?" </DefaultText>
+      <FemaleText>"And where is this pretender? She who murdered Lord Kolsc, my own cousin, and now steals MY land! Where is this low-born wretch?" </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"And where is this pretender? Show me the fool that thinks to steal MY land! Where is this low-born wretch?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Lord Gathbin holds your gaze for several heartbeats, his eyes burning with hatred.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Well! This is by far the best legal dispute I've ever been to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Of course, now that your claim has been upheld, you are expected to forward a small portion of any taxes you collect to your rightful lord, Erl Bademar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"I've done all the work and I'll keep all the taxes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"I see. I assure you, the erl will not be happy with that decision, but I will convey your wishes all the same, Lord [Player Name]."</DefaultText>
+      <FemaleText>"I see. I assure you, the erl will not be happy with that decision, but I will convey your wishes all the same, Lady [Player Name]."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"What was that about 'Roadwarden'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"The one who rules Caed Nua on behalf of the erl of Yenwood is traditionally known as the Roadwarden. Your position might not be entirely official - yet - but the title is an appropriate form of address." The marshal nods and smiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"In fact, that blade you carry was forged by the very first Roadwarden." He gestures at the sword at your side. "I've heard that the Whispers of Yenwood is only ever found by those meant to rule Caed Nua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Should you ever find yourself that far north, feel free to call on me. I'd love to trade war stories with you over a cup or two." He grasps your hand briefly in a firm grip, then turns on his heel.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

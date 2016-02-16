@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\06_stronghold\06_cv_artificer_shopkeeper</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Greetings, my lord. Here you will find only the most ingenious of contraptions. Oils and snares and dwimmer-crafts, all to fetter and frustrate your foes. Do you wish to have a look?" </DefaultText>
+      <FemaleText>"Greetings, my lady. Here you will find only the most ingenious of contraptions. Oils and snares and dwimmer-crafts, all to fetter and frustrate your foes. Do you wish to have a look?" </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Let me see what you have." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Good day, my lord. Are we in need of traps today?" </DefaultText>
+      <FemaleText>"Good day, my lady. Are we in need of traps today?" </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Good eve, my lord. Are we in need of traps this night?" </DefaultText>
+      <FemaleText>"Good eve, my lady. Are we in need of traps this night?" </FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

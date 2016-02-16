@@ -1,0 +1,17 @@
+<StringTableFile>
+  <Name>conversations\06_stronghold\06_bs_visitor_town_drunk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Raise a goblet with me, m'lord!" </DefaultText>
+      <FemaleText>"Raise a goblet with me, m'lady!" </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"*Hic* Have you ever heard the one about the orlan and the mecwyn?" </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

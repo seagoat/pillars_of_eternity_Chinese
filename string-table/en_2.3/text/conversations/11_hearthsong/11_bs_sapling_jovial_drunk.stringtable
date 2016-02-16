@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\11_hearthsong\11_bs_sapling_jovial_drunk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"This tree house keeps shifting slightly... or maybe I'm drunk... or maybe both..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"What a beautiful city! It's like buildings were planted by seed instead of built by hand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"The more I drink, the less the tribesmen smell like stelgaer droppings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Nothing ales me more than people who wine. Get it? Get it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

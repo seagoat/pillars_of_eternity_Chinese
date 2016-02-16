@@ -1,0 +1,52 @@
+<StringTableFile>
+  <Name>quests\critical_path\act_2\cp_qst_ruins</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ruins Critical Path</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Go to the temple of Woedica.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Find a way into the temple of Woedica.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Learn what the Leaden Key are up to.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ruins Critical Path</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The temple of Woedica is located in the First Fires district of Defiance Bay. I should begin my investigation of the Leaden Key by looking there first.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>The temple of Woedica is in ruins - above ground, at least. I had a vision of souls descending a ruined staircase to a chamber beneath the temple. The staircase is inaccessible, but it's possible there's an alternate route to the temple through the catacombs of Defiance Bay.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I reached the underground section of the temple of Woedica. Now I just need to investigate the place and find out what the Leaden Key are doing in Defiance Bay.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I posed as a mercenary hired by the Leaden Key and can move around the ruins freely.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

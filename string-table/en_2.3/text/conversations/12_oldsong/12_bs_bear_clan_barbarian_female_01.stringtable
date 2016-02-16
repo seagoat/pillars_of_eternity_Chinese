@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\12_oldsong\12_bs_bear_clan_barbarian_female_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Only cowards hide in caves when there's a battle to be fought."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Galawain favors might and raw strength."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Gruff and unkempt, this barbarian's hair spills over her shoulders.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

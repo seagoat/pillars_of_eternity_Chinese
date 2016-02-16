@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_cv_eder_banter</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>39</EntryCount>
@@ -75,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"That means a lot, Ed&#233;r."</DefaultText>
+      <DefaultText>"That means a lot, Edér."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -90,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Ed&#233;r clicks his tongue at the dog. "Who's a good boy? Who needs his belly scratched?"</DefaultText>
+      <DefaultText>Edér clicks his tongue at the dog. "Who's a good boy? Who needs his belly scratched?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -195,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"What? NO! Damn it, Ed&#233;r! Is your family tree just one looping square?!"</DefaultText>
+      <DefaultText>"What? NO! Damn it, Edér! Is your family tree just one looping square?!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

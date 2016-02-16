@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\12_oldsong\12_cv_casfath_onwen</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>91</EntryCount>
@@ -42,7 +43,7 @@ Apart from their clothing, they couldn't be more different. She folds her arms a
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>On&#373;en peers at you eagerly. "We saw you go up the mountain. Well? What happened?"</DefaultText>
+      <DefaultText>Onŵen peers at you eagerly. "We saw you go up the mountain. Well? What happened?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -72,14 +73,14 @@ Apart from their clothing, they couldn't be more different. She folds her arms a
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>He makes a placating gesture. "Relax, On&#373;en, I'm sure he meant nothing by it."
+      <DefaultText>He makes a placating gesture. "Relax, Onŵen, I'm sure he meant nothing by it."
 
-He turns to you. "Forgive my consort. She's been rather excitable of late." He ignores a pointed look from On&#373;en.
+He turns to you. "Forgive my consort. She's been rather excitable of late." He ignores a pointed look from Onŵen.
 
 "This is not, as you seem to recognize, our actual temple. It's merely a shrine we've set up after this business with the dragon."</DefaultText>
-      <FemaleText>He makes a placating gesture. "Relax, On&#373;en, I'm sure she meant nothing by it."
+      <FemaleText>He makes a placating gesture. "Relax, Onŵen, I'm sure she meant nothing by it."
 
-He turns to you. "Forgive my consort. She's been rather excitable of late." He ignores a pointed look from On&#373;en.
+He turns to you. "Forgive my consort. She's been rather excitable of late." He ignores a pointed look from Onŵen.
 
 "This is not, as you seem to recognize, our actual temple. It's merely a shrine we've set up after this business with the dragon."</FemaleText>
     </Entry>
@@ -110,14 +111,14 @@ He turns to you. "Forgive my consort. She's been rather excitable of late." He i
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>On&#373;en squints at you. "Your vision did reveal that the menace is a dragon, yes?"
+      <DefaultText>Onŵen squints at you. "Your vision did reveal that the menace is a dragon, yes?"
 
 She steps back and gives you a long look. "To be honest, I expected the Sky-Mother would summon a whole flock of warriors to fight this monster... I fear so few will be like sparrows attacking an eagle."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>On&#373;en eyes you carefully. "You could..."</DefaultText>
+      <DefaultText>Onŵen eyes you carefully. "You could..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -190,7 +191,7 @@ She steps back and gives you a long look. "To be honest, I expected the Sky-Moth
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>He folds his hands. "Contrary to On&#373;en's suggestion, I am in favor of sending someone to kill the dragon. But I suggest a smaller party, and one willing to seek Hylea's blessing."
+      <DefaultText>He folds his hands. "Contrary to Onŵen's suggestion, I am in favor of sending someone to kill the dragon. But I suggest a smaller party, and one willing to seek Hylea's blessing."
 
 He gives you a curious look.</DefaultText>
       <FemaleText />
@@ -239,7 +240,7 @@ He gives you a curious look.</DefaultText>
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"It's large, it breathes fire, and it's taken over our goddess' temple on the top of the mountain." On&#373;en shrugs. "What else do you need to know?"</DefaultText>
+      <DefaultText>"It's large, it breathes fire, and it's taken over our goddess' temple on the top of the mountain." Onŵen shrugs. "What else do you need to know?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,7 +257,7 @@ He gives you a curious look.</DefaultText>
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"But if Hylea has tasked you, then who are we to doubt? On&#373;en is right, however. You must prepare yourself for a powerful and crafty foe.
+      <DefaultText>"But if Hylea has tasked you, then who are we to doubt? Onŵen is right, however. You must prepare yourself for a powerful and crafty foe.
 
 "The Nest - and the dragon - are perched atop a mountain beyond the Northweald." He points northward along the path. "Follow this trail into the wilderness, and then look for another path carved into the cliffs. May the Sky-Mother's blessings aid you."</DefaultText>
       <FemaleText />
@@ -319,7 +320,7 @@ He breathes in deeply, smiling as if awash in the smell of baked goods. "This is
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>On&#373;en glares at you, but Casfath smiles placidly. "Don't mind her. The Queen of Birds can be worshiped anywhere there's a view of the sky. How may we help?"</DefaultText>
+      <DefaultText>Onŵen glares at you, but Casfath smiles placidly. "Don't mind her. The Queen of Birds can be worshiped anywhere there's a view of the sky. How may we help?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -366,14 +367,14 @@ He breathes in deeply, smiling as if awash in the smell of baked goods. "This is
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>On&#373;en squints at you. "Your vision did reveal that the menace is a dragon, yes?"
+      <DefaultText>Onŵen squints at you. "Your vision did reveal that the menace is a dragon, yes?"
 
 She steps back and gives you a long look. "To be honest, I expected the Sky-Mother would summon all of your allies in the Fangs... I fear so few will be like sparrows attacking an eagle."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>On&#373;en squints at you. "Your vision did reveal that the menace is a dragon, yes?"
+      <DefaultText>Onŵen squints at you. "Your vision did reveal that the menace is a dragon, yes?"
 
 She steps back and gives you a long look. "To be honest, I expected the Sky-Mother would summon a whole flock of warriors to fight this monster... Despite your fame among us, I fear so few will be like sparrows attacking an eagle."</DefaultText>
       <FemaleText />
@@ -385,7 +386,7 @@ She steps back and gives you a long look. "To be honest, I expected the Sky-Moth
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>On&#373;en eyes you carefully. "Someone of your... ferocity could..."</DefaultText>
+      <DefaultText>Onŵen eyes you carefully. "Someone of your... ferocity could..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -397,7 +398,7 @@ She steps back and gives you a long look. "To be honest, I expected the Sky-Moth
       <ID>81</ID>
       <DefaultText>"A dragon. One that has taken up residence in the Nest, the true temple of Hylea, and slain many of her faithful."
 
-He winces at On&#373;en. "And one which On&#373;en has been in favor of killing from the beginning."</DefaultText>
+He winces at Onŵen. "And one which Onŵen has been in favor of killing from the beginning."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -407,7 +408,7 @@ He winces at On&#373;en. "And one which On&#373;en has been in favor of killing 
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"We'll tell you as much as we can." He gives On&#373;en a stern look.</DefaultText>
+      <DefaultText>"We'll tell you as much as we can." He gives Onŵen a stern look.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -462,7 +463,7 @@ He winces at On&#373;en. "And one which On&#373;en has been in favor of killing 
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"On&#373;en, please..." He lays a hand on her shoulder.</DefaultText>
+      <DefaultText>"Onŵen, please..." He lays a hand on her shoulder.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -496,7 +497,7 @@ She narrows her eyes, speaking between her teeth. "And if you ever discover why,
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>On&#373;en only fumes.</DefaultText>
+      <DefaultText>Onŵen only fumes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\11_hearthsong\11_bs_glanfathan_market_locals_01</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>12</EntryCount>
@@ -35,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Alarh&#238; dealt with the Vailian, aided by a foreigner."</DefaultText>
+      <DefaultText>"Alarhî dealt with the Vailian, aided by a foreigner."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -45,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Poor child, Alarh&#238; cared for her well."</DefaultText>
+      <DefaultText>"Poor child, Alarhî cared for her well."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -1,0 +1,57 @@
+<StringTableFile>
+  <Name>conversations\05_defiance_bay_heritage_hill\05_cv_rescued_justiciar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ugh, I feel like I was punched in the face by an ogre. I can't wait to get back to the Keep to take a very long nap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"The way to the district exit should be safe enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"[Lie] Get to the top of the tower - it's the only safe place in the district right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Damn, I was hoping to get out of this place sooner, but I'd rather hole up at the tower than stick around this tomb any longer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Got it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Where you go from here is up to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"In that case, I'm getting out of this district. Thanks again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Thanks again for the rescue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"What happened here, anyway?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"We were scouting the district and heard someone calling out from this mausoleum. We investigated, and then it all becomes blurry. Sorry I can't be more helpful than that."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

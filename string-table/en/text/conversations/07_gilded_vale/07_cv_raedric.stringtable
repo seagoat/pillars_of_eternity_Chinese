@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\07_gilded_vale\07_cv_raedric</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>95</EntryCount>
@@ -309,12 +310,12 @@ Raedric breathes out through his nose. "Nor can I make the effort necessary to b
       <ID>69</ID>
       <DefaultText>"Thought he'd be better looking, even with all the inbreeding."
 
-Though his face is calm, you notice Ed&#233;r's hand straying toward his weapon, as though with a mind of its own.</DefaultText>
+Though his face is calm, you notice Edér's hand straying toward his weapon, as though with a mind of its own.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Ed&#233;r grimaces. "Not even a little?"</DefaultText>
+      <DefaultText>Edér grimaces. "Not even a little?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

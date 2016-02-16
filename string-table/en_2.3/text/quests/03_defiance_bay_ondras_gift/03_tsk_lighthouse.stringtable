@@ -1,0 +1,99 @@
+<StringTableFile>
+  <Name>quests\03_defiance_bay_ondras_gift\03_tsk_lighthouse</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Wailing Banshee</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find the source of the howling noise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Deal with the cean g&#373;la.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Return to Niah by the lighthouse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Go to the lighthouse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Niah's trying to renovate the old lighthouse in Ondra's Gift, but rumors of its haunting have driven away her laborers. She'd like someone to take a look around the place to prove that it's safe for work to begin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The lighthouse appears to have been abandoned for quite some time. It's infested with malevolent shadows, and I hear some kind of screaming coming from one of the floors above. 
+
+This must be the creature that's been haunting the lighthouse for over a century.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>A banshee, or what the locals refer to as a "cean g&#373;la," wails and screams from the third floor of the lighthouse. It hasn't attacked me yet, but I'll need to get rid of it one way or another before the tower is safe for Niah's workers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>The banshee shouldn't be a problem any longer. Niah's in Ondra's Gift, waiting for the good news.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Niah gave me a key to the lighthouse in the southwest corner of Ondra's Gift. She doesn't seem to think there's anything wrong with the place, but she'd like me to investigate the rumors of its supposed haunting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>The last lighthouse keeper kept a log seemingly into the final days of the War of Defiance. This person was also tracking the appearance of a ship called "the Red Dream." Niah might know more about it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Maerwith revealed that the last lighthouse keeper - presumably the creature that now haunts the upper level - was her mother. I convinced Maerwith to visit in hopes of pacifying the spirit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Niah told me that the Red Dream is a pirate ship captained by an elf named Maerwith. She's known to frequent the Charred Barrel in Brackenbury when she's in town, which she apparently is now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Maerwith obviously had a personal connection to the lighthouse and its last keeper, but she won't be visiting. I'll have to deal with the spirit another way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>When I got close enough for a good look, I noticed that the spirit seemed to be watching the horizon for something. Its hands were stained with something dark - blood or ink, perhaps. Maybe I'll find something nearby that can help me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I slew the banshee in the lighthouse. Niah was able to resume her renovations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I convinced Maerwith to visit the banshee. Now that the angry spirit is at rest, Niah can resume her renovations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>I killed Niah. I won't get any reward from her now for clearing out the lighthouse.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

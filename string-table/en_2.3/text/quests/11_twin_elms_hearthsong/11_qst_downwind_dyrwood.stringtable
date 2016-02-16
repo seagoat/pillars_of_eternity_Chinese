@@ -1,0 +1,135 @@
+<StringTableFile>
+  <Name>quests\11_twin_elms_hearthsong\11_qst_downwind_dyrwood</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>At the Mercy of the Tribes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Intercept Cwineth's Dyrwoodan expedition in the Northweald wilderness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Find the Dyrwoodan expedition by the pilgrims' camp in the Northweald wilderness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Track the Dyrwoodan expedition to the eastern edge of the Northweald wilderness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Resolve the stalemate between the Dyrwoodan expedition and the Fangs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Return to Cwineth in the Northweald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Return to the Fangs in the Northweald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Report to Esmar in the Northweald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Cwineth, a Dyrwoodan scout, has come to Twin Elms to find help for her friends, who are on an expedition to recover lost artifacts. Though the group hasn't been directly confronted by the Glanfathans yet, Cwineth was on patrol and discovered that local sentries have already caught scent of her expedition. Cwineth asked me to warn her mercenary companions about the impending danger while she attempts to thwart the scouting efforts of the pursing Glanfathans.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Cwineth, a Dyrwoodan scout I met at the Celestial Sapling in Twin Elms, asked me to warn her expedition of an impending Glanfathan ambush. I'm to find the expedition at the Northweald, by the side of the path leading to Hylea's Temple.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I've arrived to the Northweald Wilderness, where Cwineth's expedition should be making camp beside the pilgrim's trail leading to Hylea's Temple. I am to warn them that Glanfathan scouts are on their trail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I've found the ruins where Cwineth's expedition camped. There are signs of battle everywhere. Tracks on the ground run directly east, probably made by the expedition while retreating from the battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>I've found the expedition in the eastern Northweald. They are entrenched by the remains of an old Engwithan tower, above the woods' narrow gorge.
+
+A score of Glanfathan Fangs have surrounded the Dyrwoodans, waiting for the right time to strike their prey down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I've aided the Dyrwoodan expedition - they are safe from immediate harm. Cwineth waits on the southern edge of the Northweald to know of their fate. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>I've aided the Fangs. Esmar, leader of the expedition of Dyrwoodan mercenaries is no more. The Fangs await word of my success south of where I dealt with the mercenaries in the Northweald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>I've aided the Dyrwoodan expedition - they are safe from immediate harm. Esmar waits by the eastern ruins of the Northweald to know it's safe for his men to escape the forest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I've met the expedition's captain, Esmar, who has sought refuge from the Glanfathans within the cover of old ruins. With the Fangs to the south and a pride of stelgaers to the north, the Dyrwoodans are trapped. Removing any of those obstacles would open a way for the expedition's escape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I've met an elven woman, a huntress with the Fangs, leader of the Glanfathans who tracked Cwineth's expedition. She wants me to deal with the Dyrwoodans to prove that I'm a friend of Eir Glanfath and not another looter from Dyrwood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I've convinced the Fangs to let the expedition go, but not without severe terms. Esmar, leader of the Dyrwoodan mercenaries, must pay with his life or his freedom to earn his companions safe passage out of Glanfathan lands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>With the path cleared, I can let Esmar know that it's safe for his men to escape the forest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I returned to Cwineth with news of her company's fate. She was relieved to hear about their escape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I returned to the Fang's leader with news of the Dyrwoodan company's fate. Something tells me she would rather have dealt with the mercenaries herself, but my service earned me her favor nonetheless.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Someone critically important to this quest has died.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>I returned to Esmar to let him know that a way out of the Northweald was now open to him and his men.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>I returned to Cwineth with news of her company's fate. Though Esmar is to be held prisoner, his sacrifice means the rest of the expedition is free to return home.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

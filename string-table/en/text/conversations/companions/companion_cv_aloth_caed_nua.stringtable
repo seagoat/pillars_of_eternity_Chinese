@@ -1,4 +1,5 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_cv_aloth_caed_nua</Name>
   <NextEntryID>1</NextEntryID>
   <EntryCount>116</EntryCount>
@@ -415,7 +416,7 @@ He looks down. "I came to the Dyrwood a little over a year ago. My orders were t
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"I needed some kind of direction. After that scrape with the locals, I was ready to get out of town. But then you mentioned that you'd survived that b&#238;a&#373;ac, and I thought you might be able to put me back on the Leaden Key's trail."</DefaultText>
+      <DefaultText>"I needed some kind of direction. After that scrape with the locals, I was ready to get out of town. But then you mentioned that you'd survived that bîaŵac, and I thought you might be able to put me back on the Leaden Key's trail."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

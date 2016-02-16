@@ -1,0 +1,42 @@
+<StringTableFile>
+  <Name>conversations\07_gilded_vale\07_si_engwithan_relief</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A relief of a man's face gapes at you from the wall. The surrounding sunburst has chipped away in places, but the details of his head, from the tight curls of hair to the ridges of his pointed ears, still showcase remarkable craftsmanship. One eye socket is empty - a gem fills the other.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>A viscous slick of something dark and tar-like runs down this wall. The shapes and bulges in the ooze suggest that something lies beneath it, but you can't tell what.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Use your waterskin to clear off the ooze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>You rinse the ooze away, revealing an intricate relief of a man's face. The sunburst surrounding it has chipped away in places, but the details of his head, from the tight curls of hair to the ridges of his pointed ears, still showcase remarkable craftsmanship. One eye socket is empty - a gem fills the other.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Place the gem in the eye socket.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The chamber begins to rumble, stray rocks dancing across the tile floor. Finally, a large section of the wall gives way.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

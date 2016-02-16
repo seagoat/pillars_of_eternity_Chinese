@@ -1,0 +1,96 @@
+<StringTableFile>
+  <Name>conversations\04_defiance_bay_brackenbury\04_cv_hearing_reactivity</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I recognize you. You were the one who spoke up at the hearing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"You were at the hearing today. You spoke well in there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What were you just doing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Aren't you with the Dozens?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I got a few of the animancers out of the building through the back. Lot of 'em didn't make it out though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I was. The things I heard at the hearing today, though..." He shakes his head.
+
+"I had it all backwards. If it was good enough for the duc, it was good enough for me. I don't care if an animancer did kill him, it doesn't mean we gotta hold 'em all responsible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"This," he gestures at the flames behind him, "isn't what we're supposed to be about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Leave] "I have to go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>He nods. "Get out of sight. Wait this thing out. Good luck, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Keep a low profile till this blows over."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"It's for the best."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"What happened here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Why did you do this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Leave] "I have to go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"The animancers. Some of them tried to get out the back of the sanitarium through one of the windows. I couldn't let them go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"The duc... he tried to do what's best, and they killed him for it. Happened right in front of me.
+
+"I know we're supposed to be keeping the order, but the Knights are on the wrong side of this. Animancy's too dangerous. It's just like you said."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>He nods. "The streets aren't safe. Good luck to you, stranger. I'm going to stay and watch the place burn. I want to remember what we accomplished here today."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

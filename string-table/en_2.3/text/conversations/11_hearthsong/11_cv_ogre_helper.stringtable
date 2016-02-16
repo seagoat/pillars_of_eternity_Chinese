@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\11_hearthsong\11_cv_ogre_helper</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Estramor. Welcome. Behave. Be merry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"You see a problem, I throw it over the side."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Don't make trouble and I won't have to thump your skull. Simple, right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

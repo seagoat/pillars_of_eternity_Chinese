@@ -1,0 +1,42 @@
+<StringTableFile>
+  <Name>quests\06_stronghold\06_tsk_boss_fampyr</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>悬赏：达罗斯·格里玛特</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>杀死达罗斯·格里玛特，把他的头带回来。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>把达罗斯·格里玛特的头交给塞德努亚的费尔根典狱长。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>近亡者达罗斯·格里玛特一直盘踞在铜径墓穴场中。公爵殿希望有人解决掉他。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>达罗斯·格里玛特历经近乎死亡的折磨，并且继续带领某种邪教深藏于反抗湾铜径地区的地下墓穴中。我需要再杀他一次——这一次带回他的头作为证据。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>达罗斯·格里玛特已经死亡。如果我给费尔根典狱长带回他的头，我可以要求我的奖励。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我拿到了达罗斯·格里玛特的赏金。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,62 @@
+<StringTableFile>
+  <Name>conversations\10_od_nua\1011_si_fungus_wall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A winding mass of vicious thorns and thick vines spans the gap between the cavern walls. There are spaces here and there in the vegetation, and you can see into the chamber beyond - but it will be difficult to pass through unscathed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Cross the wall.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Cut away at the vegetation with a weapon.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Despite your best efforts to avoid them, [SkillCheck 0] gets hit hard in the head by one of the vines. The plants seem to react to their victory, thrashing all the more vigorously.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You deal a sturdy blow to the nearest vine... and get little result. These vines seem unnaturally resistant. No amount of hacking, smashing, or cutting seems to have much effect. It would take far too long to cut away all of them. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You skillfully avoid the thorns as you maneuver your way past the vines and brambles, and emerge on the other side relatively unharmed. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The moment you start to step through, the entire wall gives a great heave, coming alive in a surging mass of branches and vines. Thick, thorny branches swing towards you with vindictive force. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Scythelike barbs tear and scrape at you as you pass, surrounding you in a hailstorm of scratching, thrashing plants. With one final great effort, you scrabble clear of the vines, stumbling out into the space beyond the wall - and out of reach. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Look at the vines.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The vines have grown so thick and tangled as to form a nearly impenetrable wall. Many of the thorns are as long as the span of your palm. From time to time you hear the faintest creak, as if something has shifted slightly within the mass. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

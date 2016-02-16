@@ -1,0 +1,513 @@
+<StringTableFile>
+  <Name>conversations\07_gilded_vale\07_cv_magistrate_urgeat</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>90</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A man approaches you, his skin as dull and gray as the desolate village behind him.
+
+He scans you with sunken, lifeless eyes. "You must be one of the new settlers." His voice is a dry croak. "Welcome to Gilded Vale.
+
+"You'll be pleased to know that we've had some recent vacancies here." He glances at the gnarled, leafless monstrosity of a tree next to him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I still await the birth of Lord Raedric's heir. When that matter is settled, I can attend to your business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Urgeat wears a twisted frown. "I'm afraid I still can't help you find residence here. Lord Raedric's son was deemed a Hollowborn. This makes circumstances even more fraught than before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wirtan lied about the presence of worshipers in the Temple of Eothas. I found the bones of the men and women who were sealed inside."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Goodbye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Magistrate Urgeat looks down his nose at you. "This means, of course, that you went into the temple yourself." He scratches his chin with a long, thin finger. "Not ideal, but it's better to know this now, before the temple is rededicated to Berath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"There is no excuse for Wirtan, however. His deceit cost lives and could have jeopardized Lord Raedric's careful efforts. He will be dealt with." He turns toward the tree.
+
+"I appreciate your coming forward. Here is a token of that appreciation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"He already has been."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"There is no excuse for Wirtan, however. His deceit cost lives and could have jeopardized Lord Raedric's careful efforts. He will be dealt with." He turns toward the tree.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Then you've saved us trouble twice over. Accept this with our thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I should warn you, stranger. Here in Gilded Vale, we have a special place for dissidents, charlatans, and those who would hide a curse in our midst." He steps to the side and inclines his head ever so slightly toward the deformed tree.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>His gaze swivels back to you. "Of course, we'll need to make some inquiries first. The inestimable Lord Raedric VII has taken great pains to insulate our town from Waidwen's Legacy."
+
+He appraises you over half-moon spectacles and scratches his chin. "Have you ever sired a Hollowborn child?"</DefaultText>
+      <FemaleText>His gaze swivels back to you. "Of course, we'll need to make some inquiries first. The inestimable Lord Raedric VII has taken great pains to insulate our town from Waidwen's Legacy."
+
+He appraises you over half-moon spectacles and scratches his chin. "Have you ever conceived a Hollowborn child?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"What are you talking about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"That's a rather personal question..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Mind your own damn business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Refuse to answer.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"And an important one nevertheless.
+
+"Lord Raedric has made it his first priority to eliminate this scourge from our village."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"His lordship's wife is with child and due any day now. Without his approval, I shan't be able to find you a permanent settlement. It will have to wait until after the birth." He folds his arms. "We can continue our interview then, after the bell tolls from Raedric's Hold to signal my lord's new heir."
+
+"In the meantime, you can find temporary accommodations at the inn just southwest of here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Urgeat gapes at you. "You! You're the one who murdered Lord Raedric on behalf of that cretinous traitor." He sniffs. "I'm sure you understand your request for housing and land is completely out of my hands now..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"If you have any other questions, don't hesitate to ask. It's important that everyone in Gilded Vale understand our rules."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>His eyes narrow. "Are you... absolutely certain?
+
+"Lord Raedric has made it his first priority to eliminate this scourge from our village."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"An infant born without a soul, of course. Lord Raedric has made it his first priority to eliminate this scourge from our village."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>His chest puffs up. "The well-being of this village is my business. You'd best get used to the idea if you intend to live among us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"That kind of surliness will get you nowhere in Gilded Vale. Lord Raedric has made it his first priority to eliminate this scourge from our village, and to him, no answer at all is as good as an admission of guilt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Tell me about Lord Raedric."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"You said something about 'Hollowborn' and 'Waidwen's Legacy' before..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Before I got here, I saw several people conducting a strange ceremony near some ruins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I'd like to know more about Gilded Vale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"He comes from a line of nobles who have defended these lands since Aedyre times. Raedric II was an early supporter of Dyrwoodan independence during the revolution, and the current lord's father perished in the Saint's War.
+
+"Hollowborn began appearing in the Dyrwood shortly after the war's end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"The Saint's War?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Lord Raedric's decrees may seem strict at times, but he has our best interests at heart." He nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Our age's most egregious example of man's madness. Fifteen years ago, the people of Readceras decided that Waidwen, their living saint, was the literal incarnation of the god Eothas." Urgeat wrinkles his pinched nose.
+
+"This supposed saint took it upon himself to liberate the Dyrwood. Supposedly from allegiances to less worthy gods, but I've never known an army to conquer a land for its people's own good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"The war lasted about a year, but you can guess what that year did to the worship of Eothas in the Dyrwood. Lord Raedric's forebears had all been Eothasians, but after his father fell defending us from those fanatics, he personally saw that the Temple of Eothas here in town was shut down." He points at a few ruined walls near the tree.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>He shakes his head. "Pitiful, dumb things that breathe - barely - but do not truly live. Some say the Hollowborn are a disease. Some say they are a punishment from the gods."
+
+He raises his empty hands. "In truth, no one knows. But they began spreading after the Saint's War, and so the name 'Waidwen's Legacy' stuck in honor of that foul, blasphemous pretender." His voice shakes with vitriol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"We're a frontier village, as are most settlements in the Dyrwood. Gilded Vale hasn't grown much since its establishment in the colonial days, and the last fifteen years have seen our population shrink further." He takes in the ramshackle houses and half-fallen fences. 
+
+"Hence our recruitment of fresh settlers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Why has Gilded Vale's population been shrinking?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"That tree over there..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Enough about Gilded Vale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Waidwen's Legacy, of course. Many women have had difficulty bearing healthy children of late. A few years ago, Lord Raedric decreed that no mothers of Hollowborn are to be allowed in Gilded Vale." His mouth tightens into a firm line. "His lordship dealt swiftly with the objectors.
+
+"It may be harsh, but if it purges us of this curse, is it not worth it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Lord Raedric has taken it upon himself to purge the curse from Gilded Vale. His measures have been severe but necessary. 
+
+"Now that his own wife is pregnant, he has been especially careful to see that no one afflicted with the curse enters the village."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Lord Raedric has taken it upon himself to purge the curse from Gilded Vale. His measures have been severe but necessary. 
+
+"Unfortunately, it may not have been enough, if the bells were any indication."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Urgeat doesn't even look over his shoulder. "Ah, yes. Not everyone has accepted the measures necessary to keep the village safe. Ever since Lord Raedric banished the mothers of Hollowborn, some have taken up arms against him.
+
+"And while he's been searching for a cure, he's been beset with frauds and opportunists."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"We've had ciphers, wizards, and animancers come through town, taking the lord's coin and promising to end the curse. Lord Raedric finally decided to make an example of those who would profit from our tragedy."
+
+He points to the body of a dwarven woman. "The latest was an animancer from the Vailian Republics, who claimed to know techniques none of us had seen.
+
+"By now, we've seen it all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>He regards you carefully. "You'll want to mind where you mention that. Trespassing on Engwithan ruins is illegal, not to mention dangerous.
+
+"You probably saw someone attempting some new ritual to appease the gods. People will try anything these days. Berath have mercy, we certainly have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Maybe so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I don't think so. Just as they finished, there was a b&#238;a&#373;ac."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"You'll get to know the town well enough as you explore, I'm sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Like I said, it's best to stay away from those sorts of places."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>He polishes his spectacles on his sleeve. "If you'd been that close to a b&#238;a&#373;ac, you wouldn't be standing here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Tell me about those ruins behind the tree."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"That's what's left of the Temple of Eothas." His lips pucker. "Lord Raedric forbade worship of the dead god after the Saint's War. It's been abandoned for almost fifteen years, but there are plans to rededicate it to Berath, the god of life and death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"I've been feeling strange ever since a close call with a b&#238;a&#373;ac. Is there someone in town who could help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>The magistrate frowns. "Whatever your... problem, it sounds like a matter for an animancer. However, the only animancer in Gilded Vale isn't in any condition to speak." He points at a body hanging from the tree. 
+
+He sneers. "Consider yourself fortunate. After she failed Lord Raedric, we saw to it that she wouldn't profit from the misplaced trust of others. A bad cure is often worse than none at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"But if you're set on finding a bottle of troll piss or a dead adra pebble to rub on your forehead, you're welcome to check her pockets. A little corpse stink is nothing when you're digging for shit.
+
+"My advice, however, is to be satisfied that you escaped and leave it at that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"I'd like to report a murder." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>The magistrate raises a brow. "As is your duty. What was happened?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"The man called Nonton has killed his friend, Perly, out in the wilds." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I had a vision of the victim's final moments. I saw the crime unfold." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"A cruel and cowardly deed... if, indeed, it occurred at all. What evidence do you have?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"A...vision?" Urgeat sighs. "We do not take such accusations lightly in these parts. Next time you feel inclined to jest about such things, I would suggest that you reflect upon the risks involved." He looks pointedly at the tree.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I will go find some." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Urgeat nods slowly. "These are not accusations to make lightly." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Aloth snorts. "Indeed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"'Abandoned' because some nice lord decided to pull it down because he was scared of its god even after it died.
+
+"Berath's a good choice, though, I like it. Berath believes in cycles. I like to think that what happened to that temple will get repaid someday, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Urgeat nods curtly. "Keep out of-" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Urgeat looks out toward the east, his expression unreadable. He blinks slowly, and turns his attention back to you. "It seems your arrival is ill-timed." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Three bells toll only for the death of a Raedric. I fear Lord Raedric's heir is lost - or else Hollowborn, and so lost all the same." 
+
+A peculiar spasm crosses his face, and the corner of his mouth quirks up into a mirthless smile. "You should tread carefully. Circumstances have changed a great deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"What happened?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Does this affect the lord's offer to new settlers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>He shrugs one bony shoulder. "I will know more details when the messengers arrive. The vagaries of childbirth, perhaps. But that is not your concern." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"What do you mean?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"You come to us at a time of mourning. The Legacy has struck at the heart of Gilded Vale. Our efforts to redeem ourselves in the eyes of Berath must be redoubled." He sets a steady gaze on you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Don't threaten me, little man." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>He shakes his head, unmoved. "It is no threat. Only a warning. Lord Raedric will tolerate no threats to his kin, or those who live upon his lands. Grief will not make him more docile." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"I can be sure of nothing right now. I advise you to get some rest - the inn... or a stable for all I care. Find me afterwards. I will know more soon enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I have received confirmation that Lord Raedric's heir was not... born well.
+
+"My lord has issued an injunction on all new homesteads until he can be assured that the village has been cleansed of Eothasians and whatever other undesirables that have brought this curse upon his lands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"It would be best if you left town as soon as possible. I would suggest returning to your old home. There will be no place for you here.
+
+"You may stay at the inn until you can make the necessary arrangements. But I would not advise remaining long. I expect Lord Raedric will be most thorough in his efforts to purify this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"This is outrageous! I came a long way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Then you should have no problem continuing on.
+
+"Trust me when I say it would be best if you were not here when Lord Raedric's men are dispatched from his Hold. They will be looking for anyone who might've brought the Legacy upon us - whose very presence might've polluted his wife's womb. They will extinguish all possibilities."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Lord Raedric has taken it upon himself to purge the curse from Gilded Vale. His measures have been severe but necessary. 
+
+"Unfortunately, it doesn't appear to have been enough to protect his heir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Do you welcome everyone this way?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"I feel at home already!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Are you mad? No wonder this place looks half-empty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>The only answer you hear is the buzzing of flies from the tree.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"I might reconsider your lord's offer..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Nonsense. Gilded Vale is a perfectly suitable village for those who respect the lord's decrees. Besides..." He looks you up and down. "You won't find a better offer anywhere else in the Dyrwood these days. And you look as if you could use a fresh start."
+
+He looks around at the town, his face a mask of sober contentment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>He blinks. "I forget that you foreigners do not have this curse in your homelands. The Hollowborn have been a scourge upon the Dyrwood for almost fifteen years now." He lowers his voice to a whisper. "Children born without souls."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,212 @@
+<StringTableFile>
+  <Name>conversations\07_gilded_vale\07_cv_berath_priestess_generic</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Hey! Wait right there, brother."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Hey! Wait right there, sister."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Pardon my interruption, but I don't seem to recall seeing you before..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"What? I don't have time to entertain your lack of perception. Off with you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I've only recently taken my vows." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Attack] "Never mind. I'll do this the hard way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I see. Who is your assigned superior?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I'm ashamed to admit it, but I've forgotten their name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"High Priest Nedmar hasn't yet assigned one to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I... I did not mean to offend, acolyte. Please, continue with your duties." The priestess turns to hurriedly move away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The priestess frowns. "That is unbecoming of an acolyte. See to it that you remedy such oversights swiftly." Satisfied with the admonishment, the priestess turns to walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The priestess nods, satisfied. "The High Priest toils endlessly to spread the wisdom of Berath across this forsaken land - mundane concerns often need to be set aside. Carry on, then." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The priestess takes a step back. "Help! Intruders!" The shout of alarm echoes through the halls of the keep.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"No one is to leave their post until Raedric gives word - where are you going?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Are you thick? Raedric just ordered us to search the rooms. Kolsc's men may still be in the keep." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I was heading back to my post." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Attack] "Enough of this sneaking about. Defend yourself! "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>The priestess regards you quietly for a brief moment. "And just where are you coming from?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Well, it's just that... there's this one acolyte, you see..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I was with Osrya. She needed someone to fetch more supplies." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>The priestess wrinkles her nose. "Such lax discipline is unbecoming of our order. Rest assured, I will speak of this with your superior." Satisfied with this chiding, she briskly walks away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The priestess shudders upon hearing the animancer's name. "Yes, I suppose that her orders should not be ignored. ...Do be sure not to linger in her presence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Intruders have been seen inside the keep. I must ask you to step outside."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"We do not have time for this! The intruders must be found before they become a threat to our thayn!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Certainly, sister, as soon as I am able."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Attack] "Looks like we're doing this the hard way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>The priestess blinks at you, taken aback. "Well, then... yes, I'll leave you to it. May Berath grant your foes a swift passing." Without any further delay, the priestess hurries out of your sight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The priestess blinks at your outburst. "Of course. I would not suggest otherwise. Search that hall, then, and I will go the other way. We will find them!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>The priestess frowns. "Do you mock me, brother? You know the rules. What keeps you?" </DefaultText>
+      <FemaleText>The priestess frowns. "Do you mock me, sister? You know the rules. What keeps you?" </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I'm afraid I have a nervous bladder. I have to get to a privy!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>The woman frowns, and shakes her head disapprovingly. "Hurry about your business, then." She turns around, muttering to herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Imposter! Guards, guards!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Hold there - what are you doing here?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"From every ending, a beginning." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The priestess narrows her eyes, but nods. "Apologies, acolyte. Go on your way." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Hm. And who is this?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Raedric's new mercenaries. I was told to show them to their posts." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"More new recruits." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>The priestess considers you a moment longer, then nods. "Then be about your business." Satisfied, she turns to walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Trigger Conv Node 44</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Apologies. I must attend to my duties."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

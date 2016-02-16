@@ -1,0 +1,22 @@
+<StringTableFile>
+  <Name>conversations\10_od_nua\1012_cv_guards</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>They look up as you approach. You feel a peculiar, itchy sensation in your head, as if someone were running thin fingers through your thoughts. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>A muted sense of distress fills your mind, followed by a far louder screech of alarm from one of the robed creatures. As one, the creatures turn towards you, and attack. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>A group of robed figures blocks passage. Their heads bear a fearsome resemblance to those of the spiders that infest these caverns, their mandibles clacking in small, constant movements. In the dim light of the caverns, their round, black eyes gleam like gems.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

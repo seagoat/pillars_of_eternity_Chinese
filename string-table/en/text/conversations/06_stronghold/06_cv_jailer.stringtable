@@ -1,7 +1,8 @@
-<StringTableFile>
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\06_stronghold\06_cv_jailer</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>52</EntryCount>
+  <EntryCount>43</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -49,11 +50,6 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>10</ID>
-      <DefaultText>"I would like to free Lucen."</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>11</ID>
       <DefaultText>"Release Aefre." </DefaultText>
       <FemaleText />
@@ -84,29 +80,9 @@
       <FemaleText>"My Lady, that... creature you captured, Kestorik... she's been causing some trouble. What would you like me to do about it?"</FemaleText>
     </Entry>
     <Entry>
-      <ID>17</ID>
-      <DefaultText>"Eorn."</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>18</ID>
       <DefaultText>"Show him what happens when you cross the lord of Caed Nua."</DefaultText>
       <FemaleText>"Show him what happens when you cross the master of Caed Nua."</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>19</ID>
-      <DefaultText>"Lucen."</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>20</ID>
-      <DefaultText>"Aefre."</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>21</ID>
-      <DefaultText>"Gramrfel."</DefaultText>
-      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
@@ -149,23 +125,8 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>32</ID>
-      <DefaultText>"There is much unrest among the prisoners, my lord. What would you have me do?"</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>33</ID>
       <DefaultText>"Three lashes."</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>34</ID>
-      <DefaultText>"That is enough."</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>35</ID>
-      <DefaultText>"The prisoner has been severely injured. Is that enough my lord?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -220,11 +181,6 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Right away, m'lord." </DefaultText>
-      <FemaleText>"Right away, m'lady." </FemaleText>
-    </Entry>
-    <Entry>
-      <ID>47</ID>
       <DefaultText>"Right away, m'lord." </DefaultText>
       <FemaleText>"Right away, m'lady." </FemaleText>
     </Entry>

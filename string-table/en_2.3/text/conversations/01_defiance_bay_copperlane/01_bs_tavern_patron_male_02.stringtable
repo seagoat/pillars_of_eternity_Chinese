@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\01_defiance_bay_copperlane\01_bs_tavern_patron_male_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Hate to say it, but the Legacy's been good for business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"It's driving people out of these stagnant backwaters and into the cities."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What the Dyrwood really needs is strong urban growth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I was told Erol left the inn after falling in love with a woman from Selona."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
