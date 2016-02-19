@@ -1,6 +1,14 @@
 # pillars_of_eternity_Chinese
 Pillars of Eternity Chinese translation pack | 永恒之柱中文汉化包
 
+## 如何使用
+release 中按照主程序版本打包好了压缩包。包含 language.xml 文件
+### 使用方法
+* 选择对应自己版本的 release
+* 下载 mod.zip
+* 解压缩到游戏的 data\localized 目录下
+* 进入游戏，选择语言
+
 ## 20160217 更新
 > 主程序更新到了3.0.对应的翻译包也更新到了3.0
 > 没有翻译的文本，保留了原有的有英文
