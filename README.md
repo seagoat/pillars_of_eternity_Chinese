@@ -61,13 +61,26 @@ release 中按照主程序版本打包好了压缩包。包含 language.xml 文�
 * 合并了游侠最新的3.5版本以及 3DM 最新的5.0版本
 * 生成一个能用的版本
 
+## mod.7z （最简单就是下载这个文件解压缩就好了）
+       最新的汉化包（目前是配合3.0版本的）
+       直接解压缩到游戏的 data/localized 目录下就好了
+       
 ## excel 目录
        存放了添加翻译的excel，做为下次翻译的基础
 
-## mod 目录
+## output 目录
        生成的 string table，直接 copy 到游戏目录
        *需要自己 copy 一个 xml 文件*
 
+## script 目录
+       乱七八糟写的脚本，用的是 python。准备整理下
+       
+## string-table
+       游戏中原始的文本，英文版本的
+       
+## translate_group_result
+       收集到的各位大神的翻译结果，包括3DM&游侠（排名不分先后）
+       但是因为不能配套最新的3.0，会有很多 missing xxx 出现，还需要省略号补丁
 ## 参考
 * 官方汉化工具说明页:http://forums.obsidian.net/topic/83837-update-104-last-chance/
 
