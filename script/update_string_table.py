@@ -51,6 +51,29 @@ translated_result_list = [
     # u"path": u"tw",
     # },
 ]
+def is_ascii(s):
+    return all(ord(c) < 128 for c in s)
+
+def add_space(text):
+    result = []
+
+    for index in range(len(text)-1):
+        first = text[index]
+        second = text[index + 1]
+
+        if not is_ascii(first) and first != u" " \
+            and not is_ascii(second) and second != u" ":
+            # 连续两个中文字符，并且中间没有空格
+            # 如果是英文空格，应该不是 is_ascii
+            result.append(first)
+            result.append(u" ")
+        else:
+            result.append(first)
+
+    result.append(text[-1])
+
+    return u"".join(result)
+
 
 translated_df_list = []
 
@@ -176,11 +199,11 @@ for dirpath, dirnames, filenames in os.walk(en_strtbl_path):
                         if default:
                             if u"nan" == unicode(default):
                                 continue
-                            default_text_item.text = u" ".join(c for c in unicode(default) if c!= u" ")
+                            default_text_item.text = add_space(unicode(default))
                             #if default_text_item.
                             female_text_item_text = translated_result[female_text_key]
                             if female_text_item_text:
-                                female_text_item.text = u" ".join(c for c in unicode(female_text_item_text) if c != u" ")
+                                female_text_item.text = add_space(unicode(female_text_item_text))
 
                             #print default
                             break
@@ -188,11 +211,11 @@ for dirpath, dirnames, filenames in os.walk(en_strtbl_path):
                         if default[1]:
                             if u"nan" == unicode(default[1]):
                                 continue
-                            default_text_item.text = u" ".join(c for c in unicode(default[1]) if c != u" ")
+                            default_text_item.text = add_space(unicode(default[1]))
                             if not translated_result[female_text_key].empty:
                                 female_text_item_text = translated_result[female_text_key][0]
                                 if female_text_item_text:
-                                    female_text_item.text = u" ".join(c for c in unicode(female_text_item_text) if c != u" ")
+                                    female_text_item.text = add_space(unicode(female_text_item_text))
                     else:
                         # mod = english
                         # mod_female = english_female

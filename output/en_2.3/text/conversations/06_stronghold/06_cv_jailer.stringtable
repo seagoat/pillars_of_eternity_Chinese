@@ -6,7 +6,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>「 你 好 ， 主 人 。 我 是 來 替 你 留 住 牢 房 的 。 如 果 你 在 旅 途 中 抓 住 囚 犯 ， 我 會 確 保 他 們 按 你 的 要 求 處 置 。 」</DefaultText>
-      <FemaleText>「 你 好 ， 夫 人 。 我 是 來 替 你 留 住 牢 房 的 。 如 果 你 在 旅 途 中 抓 住 囚 犯 ， 我 會 確 保 他 們 按 你 的 要 求 處 置 。 」</FemaleText>
+      <FemaleText>「 你 好 ， 夫 人 。 我 是 來 替 你 留 住 牢 房 的 。 如 果 你 在 旅 途 中 抓 住 囚 犯 ， 我 會 確 保 他 們 按 你 的 要 求 處 置 。 」 </FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -30,7 +30,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[ 離 開 ] 「 我 暫 時 沒 任 何 需 要 。 」</DefaultText>
+      <DefaultText>[離 開 ]「 我 暫 時 沒 任 何 需 要 。 」</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,17 +121,17 @@
     <Entry>
       <ID>25</ID>
       <DefaultText>「 很 好 ， 主 人 … 呃 ， 你 想 怎 麼 個 懲 罰 法 ？ 」</DefaultText>
-      <FemaleText>「 很 好 ， 夫 人 … 呃 ， 你 想 怎 麼 個 懲 罰 法 ？ 」</FemaleText>
+      <FemaleText>「 很 好 ， 夫 人 … 呃 ， 你 想 怎 麼 個 懲 罰 法 ？ 」 </FemaleText>
     </Entry>
     <Entry>
       <ID>26</ID>
       <DefaultText>「 你 好 ， 主 人 ！ 來 參 觀 地 牢 嗎 ？ 」</DefaultText>
-      <FemaleText>「 你 好 ， 夫 人 ！ 來 參 觀 地 牢 嗎 ？ 」</FemaleText>
+      <FemaleText>「 你 好 ， 夫 人 ！ 來 參 觀 地 牢 嗎 ？ 」 </FemaleText>
     </Entry>
     <Entry>
       <ID>27</ID>
       <DefaultText>「 主 人 ， 有 急 事 ！ 」</DefaultText>
-      <FemaleText>「 夫 人 ， 有 急 事 ！ 」</FemaleText>
+      <FemaleText>「 夫 人 ， 有 急 事 ！ 」 </FemaleText>
     </Entry>
     <Entry>
       <ID>28</ID>
@@ -181,12 +181,12 @@
     <Entry>
       <ID>38</ID>
       <DefaultText>「 如 你 所 願 ， 主 人 ！ 」</DefaultText>
-      <FemaleText>「 如 你 所 願 ， 夫 人 ！ 」</FemaleText>
+      <FemaleText>「 如 你 所 願 ， 夫 人 ！ 」 </FemaleText>
     </Entry>
     <Entry>
       <ID>39</ID>
       <DefaultText>「 就 照 你 說 的 ， 主 人 ！ 請 再 說 一 遍 ， 主 人 。 」</DefaultText>
-      <FemaleText>「 就 照 你 說 的 ， 夫 人 ！ 請 再 說 一 遍 ， 夫 人 。 」</FemaleText>
+      <FemaleText>「 就 照 你 說 的 ， 夫 人 ！ 請 再 說 一 遍 ， 夫 人 。 」 </FemaleText>
     </Entry>
     <Entry>
       <ID>40</ID>
@@ -196,7 +196,7 @@
     <Entry>
       <ID>41</ID>
       <DefaultText>「 沒 問 題 ， 主 人 。 」</DefaultText>
-      <FemaleText>「 沒 問 題 ， 夫 人 。 」</FemaleText>
+      <FemaleText>「 沒 問 題 ， 夫 人 。 」 </FemaleText>
     </Entry>
     <Entry>
       <ID>42</ID>
@@ -216,42 +216,42 @@
     <Entry>
       <ID>45</ID>
       <DefaultText>「 馬 上 ， 主 人 。 」</DefaultText>
-      <FemaleText>「 馬 上 ， 夫 人 。 」</FemaleText>
+      <FemaleText>「 馬 上 ， 夫 人 。 」 </FemaleText>
     </Entry>
     <Entry>
       <ID>46</ID>
       <DefaultText>「 馬 上 ， 主 人 。 」</DefaultText>
-      <FemaleText>「 馬 上 ， 夫 人 。 」</FemaleText>
+      <FemaleText>「 馬 上 ， 夫 人 。 」 </FemaleText>
     </Entry>
     <Entry>
       <ID>47</ID>
       <DefaultText>「 馬 上 ， 主 人 。 」</DefaultText>
-      <FemaleText>「 馬 上 ， 夫 人 。 」</FemaleText>
+      <FemaleText>「 馬 上 ， 夫 人 。 」 </FemaleText>
     </Entry>
     <Entry>
       <ID>48</ID>
       <DefaultText>「 如 果 … 如 果 你 確 定 ， 主 人 。 」</DefaultText>
-      <FemaleText>「 如 果 … 如 果 你 確 定 ， 夫 人 。 」</FemaleText>
+      <FemaleText>「 如 果 … 如 果 你 確 定 ， 夫 人 。 」 </FemaleText>
     </Entry>
     <Entry>
       <ID>49</ID>
       <DefaultText>「 馬 上 ， 主 人 。 」</DefaultText>
-      <FemaleText>「 馬 上 ， 夫 人 。 」</FemaleText>
+      <FemaleText>「 馬 上 ， 夫 人 。 」 </FemaleText>
     </Entry>
     <Entry>
       <ID>50</ID>
       <DefaultText>「 馬 上 ， 主 人 。 」</DefaultText>
-      <FemaleText>「 馬 上 ， 夫 人 。 」</FemaleText>
+      <FemaleText>「 馬 上 ， 夫 人 。 」 </FemaleText>
     </Entry>
     <Entry>
       <ID>51</ID>
       <DefaultText>「 馬 上 ， 主 人 。 」</DefaultText>
-      <FemaleText>「 馬 上 ， 夫 人 。 」</FemaleText>
+      <FemaleText>「 馬 上 ， 夫 人 。 」 </FemaleText>
     </Entry>
     <Entry>
       <ID>52</ID>
       <DefaultText>「 馬 上 ， 主 人 。 」</DefaultText>
-      <FemaleText>「 馬 上 ， 夫 人 。 」</FemaleText>
+      <FemaleText>「 馬 上 ， 夫 人 。 」 </FemaleText>
     </Entry>
     <Entry>
       <ID>54</ID>
@@ -260,9 +260,9 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>獄 卒 露 出 了 邪 惡 的 笑 容 。 「 我 喜 歡 有 人 陪 。 」 
- 
- 「 還 有 其 他 事 嗎 ？ 」</DefaultText>
+      <DefaultText>獄 卒 露 出 了 邪 惡 的 笑 容 。 「 我 喜 歡 有 人 陪 。 」
+
+「 還 有 其 他 事 嗎 ？ 」</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

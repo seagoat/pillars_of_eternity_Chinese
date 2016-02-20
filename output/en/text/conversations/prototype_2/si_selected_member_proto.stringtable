@@ -10,12 +10,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[ 推 動 牆 體 。 ]</DefaultText>
+      <DefaultText>[推 動 牆 體 。]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[ 離 開 。 ]</DefaultText>
+      <DefaultText>[離 開 。]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[ 使 用 錘 子 和 鑿 子 ， 鑿 開 松 動 的 牆 壁 ]</DefaultText>
+      <DefaultText>[使 用 錘 子 和 鑿 子 ， 鑿 開 松 動 的 牆 壁 ] </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -45,152 +45,152 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>[ S l o t 0 ]</DefaultText>
+      <DefaultText>[Slot 0]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>[ S l o t 1 ]</DefaultText>
+      <DefaultText>[Slot 1]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[ S l o t 2 ]</DefaultText>
+      <DefaultText>[Slot 2]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>[ S l o t 3 ]</DefaultText>
+      <DefaultText>[Slot 3]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[ S l o t 4 ]</DefaultText>
+      <DefaultText>[Slot 4]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>[ S l o t 5 ]</DefaultText>
+      <DefaultText>[Slot 5]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>[ S l o t 1 ] { i f M a l e &amp; M i g h t &gt; 1 6 } 用 盡 全 力 使 勁 兒 推 ， 裂 縫 就 會 擴 散 開 。 最 後 ， 牆 壁 嘩 啦 一 聲 坍 塌 下 來 。 一 個 陰 暗 的 圓 形 房 間 顯 露 出 來 。</DefaultText>
+      <DefaultText>[Slot 1] {if Male &amp; Might &gt; 16}用 盡 全 力 使 勁 兒 推 ， 裂 縫 就 會 擴 散 開 。 最 後 ， 牆 壁 嘩 啦 一 聲 坍 塌 下 來 。 一 個 陰 暗 的 圓 形 房 間 顯 露 出 來 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>[ S l o t 1 ] , { i f F e m a l e &amp; M i g h t &gt; 1 6 } 用 盡 全 力 使 勁 兒 推 ， 裂 縫 就 會 擴 散 開 。 最 後 ， 牆 壁 嘩 啦 一 聲 坍 塌 下 來 。 一 個 陰 暗 的 圓 形 房 間 顯 露 出 來 。</DefaultText>
+      <DefaultText>[Slot 1], {if Female &amp; Might &gt; 16}用 盡 全 力 使 勁 兒 推 ， 裂 縫 就 會 擴 散 開 。 最 後 ， 牆 壁 嘩 啦 一 聲 坍 塌 下 來 。 一 個 陰 暗 的 圓 形 房 間 顯 露 出 來 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[ S l o t 1 ] { i f M a l e &amp; M i g h t &lt; 1 6 } 用 盡 全 力 使 勁 兒 推 ， 但 牆 依 然 紋 絲 不 動 。</DefaultText>
+      <DefaultText>[Slot 1] {if Male &amp; Might &lt; 16}用 盡 全 力 使 勁 兒 推 ， 但 牆 依 然 紋 絲 不 動 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>[ S l o t 1 ] { i f F e m a l e &amp; M i g h t &lt; 1 6 } 用 盡 全 力 使 勁 兒 推 ， 但 牆 依 然 紋 絲 不 動 。</DefaultText>
+      <DefaultText>[Slot 1] {if Female &amp; Might &lt; 16}用 盡 全 力 使 勁 兒 推 ， 但 牆 依 然 紋 絲 不 動 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>[ S l o t 2 ] { i f M a l e &amp; M i g h t &gt; 1 6 } 用 盡 全 力 使 勁 兒 推 ， 裂 縫 就 會 擴 散 開 。 最 後 ， 牆 壁 嘩 啦 一 聲 坍 塌 下 來 。 一 個 陰 暗 的 圓 形 房 間 顯 露 出 來 。</DefaultText>
+      <DefaultText>[Slot 2] {if Male &amp; Might &gt; 16}用 盡 全 力 使 勁 兒 推 ， 裂 縫 就 會 擴 散 開 。 最 後 ， 牆 壁 嘩 啦 一 聲 坍 塌 下 來 。 一 個 陰 暗 的 圓 形 房 間 顯 露 出 來 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>[ S l o t 2 ] , { i f F e m a l e &amp; M i g h t &gt; 1 6 } 用 盡 全 力 使 勁 兒 推 ， 裂 縫 就 會 擴 散 開 。 最 後 ， 牆 壁 嘩 啦 一 聲 坍 塌 下 來 。 一 個 陰 暗 的 圓 形 房 間 顯 露 出 來 。</DefaultText>
+      <DefaultText>[Slot 2], {if Female &amp; Might &gt; 16}用 盡 全 力 使 勁 兒 推 ， 裂 縫 就 會 擴 散 開 。 最 後 ， 牆 壁 嘩 啦 一 聲 坍 塌 下 來 。 一 個 陰 暗 的 圓 形 房 間 顯 露 出 來 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>[ S l o t 2 ] { i f M a l e &amp; M i g h t &lt; 1 6 } 用 盡 全 力 使 勁 兒 推 ， 但 牆 依 然 紋 絲 不 動 。</DefaultText>
+      <DefaultText>[Slot 2] {if Male &amp; Might &lt; 16}用 盡 全 力 使 勁 兒 推 ， 但 牆 依 然 紋 絲 不 動 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>[ S l o t 2 ] { i f F e m a l e &amp; M i g h t &lt; 1 6 } 用 盡 全 力 使 勁 兒 推 ， 但 牆 依 然 紋 絲 不 動 。</DefaultText>
+      <DefaultText>[Slot 2] {if Female &amp; Might &lt; 16}用 盡 全 力 使 勁 兒 推 ， 但 牆 依 然 紋 絲 不 動 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>[ S l o t 3 ] { i f M a l e &amp; M i g h t &gt; 1 6 } 用 盡 全 力 使 勁 兒 推 ， 裂 縫 就 會 擴 散 開 。 最 後 ， 牆 壁 嘩 啦 一 聲 坍 塌 下 來 。 一 個 陰 暗 的 圓 形 房 間 顯 露 出 來 。</DefaultText>
+      <DefaultText>[Slot 3] {if Male &amp; Might &gt; 16}用 盡 全 力 使 勁 兒 推 ， 裂 縫 就 會 擴 散 開 。 最 後 ， 牆 壁 嘩 啦 一 聲 坍 塌 下 來 。 一 個 陰 暗 的 圓 形 房 間 顯 露 出 來 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>[ S l o t 3 ] , { i f F e m a l e &amp; M i g h t &gt; 1 6 } 用 盡 全 力 使 勁 兒 推 ， 裂 縫 就 會 擴 散 開 。 最 後 ， 牆 壁 嘩 啦 一 聲 坍 塌 下 來 。 一 個 陰 暗 的 圓 形 房 間 顯 露 出 來 。</DefaultText>
+      <DefaultText>[Slot 3], {if Female &amp; Might &gt; 16}用 盡 全 力 使 勁 兒 推 ， 裂 縫 就 會 擴 散 開 。 最 後 ， 牆 壁 嘩 啦 一 聲 坍 塌 下 來 。 一 個 陰 暗 的 圓 形 房 間 顯 露 出 來 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>[ S l o t 3 ] { i f M a l e &amp; M i g h t &lt; 1 6 } 用 盡 全 力 使 勁 兒 推 ， 但 牆 依 然 紋 絲 不 動 。</DefaultText>
+      <DefaultText>[Slot 3] {if Male &amp; Might &lt; 16} 用 盡 全 力 使 勁 兒 推 ， 但 牆 依 然 紋 絲 不 動 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>[ S l o t 3 ] { i f F e m a l e &amp; M i g h t &lt; 1 6 } 用 盡 全 力 使 勁 兒 推 ， 但 牆 依 然 紋 絲 不 動 。</DefaultText>
+      <DefaultText>[Slot 3] {if Female &amp; Might &lt; 16}用 盡 全 力 使 勁 兒 推 ， 但 牆 依 然 紋 絲 不 動 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>[ S l o t 4 ] { i f M a l e &amp; M i g h t &gt; 1 6 } 用 盡 全 力 使 勁 兒 推 ， 裂 縫 就 會 擴 散 開 。 最 後 ， 牆 壁 嘩 啦 一 聲 坍 塌 下 來 。 一 個 陰 暗 的 圓 形 房 間 顯 露 出 來 。</DefaultText>
+      <DefaultText>[Slot 4] {if Male &amp; Might &gt; 16}用 盡 全 力 使 勁 兒 推 ， 裂 縫 就 會 擴 散 開 。 最 後 ， 牆 壁 嘩 啦 一 聲 坍 塌 下 來 。 一 個 陰 暗 的 圓 形 房 間 顯 露 出 來 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>[ S l o t 4 ] , { i f F e m a l e &amp; M i g h t &gt; 1 6 } 用 盡 全 力 使 勁 兒 推 ， 裂 縫 就 會 擴 散 開 。 最 後 ， 牆 壁 嘩 啦 一 聲 坍 塌 下 來 。 一 個 陰 暗 的 圓 形 房 間 顯 露 出 來 。</DefaultText>
+      <DefaultText>[Slot 4], {if Female &amp; Might &gt; 16}用 盡 全 力 使 勁 兒 推 ， 裂 縫 就 會 擴 散 開 。 最 後 ， 牆 壁 嘩 啦 一 聲 坍 塌 下 來 。 一 個 陰 暗 的 圓 形 房 間 顯 露 出 來 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>[ S l o t 4 ] { i f M a l e &amp; M i g h t &lt; 1 6 } 用 盡 全 力 使 勁 兒 推 ， 但 牆 依 然 紋 絲 不 動 。</DefaultText>
+      <DefaultText>[Slot 4] {if Male &amp; Might &lt; 16} 用 盡 全 力 使 勁 兒 推 ， 但 牆 依 然 紋 絲 不 動 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>[ S l o t 4 ] { i f F e m a l e &amp; M i g h t &lt; 1 6 } 用 盡 全 力 使 勁 兒 推 ， 但 牆 依 然 紋 絲 不 動 。</DefaultText>
+      <DefaultText>[Slot 4] {if Female &amp; Might &lt; 16}用 盡 全 力 使 勁 兒 推 ， 但 牆 依 然 紋 絲 不 動 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>[ S l o t 5 ] { i f M a l e &amp; M i g h t &gt; 1 6 } 用 盡 全 力 使 勁 兒 推 ， 裂 縫 就 會 擴 散 開 。 最 後 ， 牆 壁 嘩 啦 一 聲 坍 塌 下 來 。 一 個 陰 暗 的 圓 形 房 間 顯 露 出 來 。</DefaultText>
+      <DefaultText>[Slot 5] {if Male &amp; Might &gt; 16}用 盡 全 力 使 勁 兒 推 ， 裂 縫 就 會 擴 散 開 。 最 後 ， 牆 壁 嘩 啦 一 聲 坍 塌 下 來 。 一 個 陰 暗 的 圓 形 房 間 顯 露 出 來 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>[ S l o t 5 ] , { i f F e m a l e &amp; M i g h t &gt; 1 6 } 用 盡 全 力 使 勁 兒 推 ， 裂 縫 就 會 擴 散 開 。 最 後 ， 牆 壁 嘩 啦 一 聲 坍 塌 下 來 。 一 個 陰 暗 的 圓 形 房 間 顯 露 出 來 。</DefaultText>
+      <DefaultText>[Slot 5], {if Female &amp; Might &gt; 16} 用 盡 全 力 使 勁 兒 推 ， 裂 縫 就 會 擴 散 開 。 最 後 ， 牆 壁 嘩 啦 一 聲 坍 塌 下 來 。 一 個 陰 暗 的 圓 形 房 間 顯 露 出 來 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>[ S l o t 5 ] { i f M a l e &amp; M i g h t &lt; 1 6 } 用 盡 全 力 使 勁 兒 推 ， 但 牆 依 然 紋 絲 不 動 。</DefaultText>
+      <DefaultText>[Slot 5] {if Male &amp; Might &lt; 16} 用 盡 全 力 使 勁 兒 推 ， 但 牆 依 然 紋 絲 不 動 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>[ S l o t 5 ] { i f F e m a l e &amp; M i g h t &lt; 1 6 } 用 盡 全 力 使 勁 兒 推 ， 但 牆 依 然 紋 絲 不 動 。</DefaultText>
+      <DefaultText>[Slot 5] {if Female &amp; Might &lt; 16} 用 盡 全 力 使 勁 兒 推 ， 但 牆 依 然 紋 絲 不 動 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>[ S l o t 0 ] { i f M a l e &amp; M i g h t &gt; 1 6 } 用 盡 全 力 使 勁 兒 推 ， 裂 縫 就 會 擴 散 開 。 最 後 ， 牆 壁 嘩 啦 一 聲 坍 塌 下 來 。 一 個 陰 暗 的 圓 形 房 間 顯 露 出 來 。</DefaultText>
+      <DefaultText>[Slot 0] {if Male &amp; Might &gt; 16}用 盡 全 力 使 勁 兒 推 ， 裂 縫 就 會 擴 散 開 。 最 後 ， 牆 壁 嘩 啦 一 聲 坍 塌 下 來 。 一 個 陰 暗 的 圓 形 房 間 顯 露 出 來 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>[ S l o t 0 ] , { i f F e m a l e &amp; M i g h t &gt; 1 6 } 用 盡 全 力 使 勁 兒 推 ， 裂 縫 就 會 擴 散 開 。 最 後 ， 牆 壁 嘩 啦 一 聲 坍 塌 下 來 。 一 個 陰 暗 的 圓 形 房 間 顯 露 出 來 。</DefaultText>
+      <DefaultText>[Slot 0], {if Female &amp; Might &gt; 16}用 盡 全 力 使 勁 兒 推 ， 裂 縫 就 會 擴 散 開 。 最 後 ， 牆 壁 嘩 啦 一 聲 坍 塌 下 來 。 一 個 陰 暗 的 圓 形 房 間 顯 露 出 來 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>[ S l o t 0 ] { i f M a l e &amp; M i g h t &lt; 1 6 } 用 盡 全 力 使 勁 兒 推 ， 但 牆 依 然 紋 絲 不 動 。</DefaultText>
+      <DefaultText>[Slot 0] {if Male &amp; Might &lt; 16}用 盡 全 力 使 勁 兒 推 ， 但 牆 依 然 紋 絲 不 動 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>[ S l o t 0 ] { i f F e m a l e &amp; M i g h t &lt; 1 6 } 用 盡 全 力 使 勁 兒 推 ， 但 牆 依 然 紋 絲 不 動 。</DefaultText>
+      <DefaultText>[Slot 0] {if Female &amp; Might &lt; 16} 用 盡 全 力 使 勁 兒 推 ， 但 牆 依 然 紋 絲 不 動 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
