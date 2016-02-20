@@ -72,6 +72,9 @@ for result in translated_result_list:
         for filename in filenames:
             if filename.startswith(("~", ".")):
                 continue
+            if not filename.endswith(".stringtable"):
+                continue
+
             full_filename = os.path.join(dirpath, filename)
             #print full_filename.encode('utf-8')
 
@@ -173,11 +176,11 @@ for dirpath, dirnames, filenames in os.walk(en_strtbl_path):
                         if default:
                             if u"nan" == unicode(default):
                                 continue
-                            default_text_item.text = unicode(default)
+                            default_text_item.text = u" ".join(c for c in unicode(default) if c!= u" ")
                             #if default_text_item.
                             female_text_item_text = translated_result[female_text_key]
                             if female_text_item_text:
-                                female_text_item.text = unicode(female_text_item_text)
+                                female_text_item.text = u" ".join(c for c in unicode(female_text_item_text) if c != u" ")
 
                             #print default
                             break
@@ -185,11 +188,11 @@ for dirpath, dirnames, filenames in os.walk(en_strtbl_path):
                         if default[1]:
                             if u"nan" == unicode(default[1]):
                                 continue
-                            default_text_item.text = unicode(default[1])
+                            default_text_item.text = u" ".join(c for c in unicode(default[1]) if c != u" ")
                             if not translated_result[female_text_key].empty:
                                 female_text_item_text = translated_result[female_text_key][0]
                                 if female_text_item_text:
-                                    female_text_item.text = unicode(female_text_item_text)
+                                    female_text_item.text = u" ".join(c for c in unicode(female_text_item_text) if c != u" ")
                     else:
                         # mod = english
                         # mod_female = english_female
