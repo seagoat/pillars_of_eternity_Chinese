@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_1\cp_qst_becoming_watcher</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Visions and Whispers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find the dwarf woman from the dream.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Seek help for your condition.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>After surviving an explosion outside of the ruins of Cilant Lîs, I experienced a vision. Since then, I have been hearing sounds with no source, and seeing things that aren't there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>In my dream, I heard a message from a woman - a dead woman, hanging from the tree that stands at the center of Gilded Vale. It may be nothing more than a dream, but there was a strange realism to it. I need to return there and see for myself whether there was anything to it. My condition has not lifted, and I am not sleeping well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>This is not the illness that struck me at the wagon. This is something new - an affliction of the mind, perhaps. With luck, someone in Gilded Vale will know what to do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>The magistrate advised me to get some rest while I wait for permanent accommodations. That may be the best thing to put an end to this illness as well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I have a word, now, for what I have become: a Watcher. It seems that if I am to learn more about this affliction, I must seek out a man called Maerwald, in the old keep of Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

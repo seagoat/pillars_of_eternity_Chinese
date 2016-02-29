@@ -1,0 +1,572 @@
+<StringTableFile>
+  <Name>conversations\companions\companion_cv_kana_rest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>111</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「 你 知 道 嗎 ， 我 拜 訪 過 不 少 通 魂 者 。 如 果 冒 險 生 活 不 適 合 你 ， 你 可 以 靠 解 讀 靈 魂 過 活 。 給 出 建 議 ， 告 訴 他 們 關 於 他 們 的 家 庭 ， 他 們 和 誰 是 親 戚 ， 還 有 誰 的 最 貴 他 們 ， 是 否 要 和 他 們 決 斗 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「 你 也 是 剛 剛 來 到 迪 伍 德 的 ，[Player Name] -你 對 這 裡 怎 麼 看 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「 有 點 讓 人 難 以 忍 受 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「 你 不 必 因 為 我 的 關 系 說 話 客 氣 。 我 們 會 讓 你 感 覺 更 好 的 ，[Player Name]。 我 向 你 保 證 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「 很 抱 歉 ， 對 你 是 通 魂 者 這 件 事 ， 我 之 前 有 點 不 禮 貌 。 我 不 知 道 這 意 味 著 什 麼 。 一 直 聽 到 靈 魂 的 聲 音 ， 會 很 累 麼 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「 我 會 記 住 的 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「 很 高 興 看 到 你 認 為 這 很 搞 笑 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「 我 也 許 能 說 服 人 們 相 信 任 何 事 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「 安 靜 ， 卡 納 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「 這 應 該 比 擊 退 野 獸 簡 單 。 」 卡 納 咯 咯 笑 著 。 「 而 且 你 一 樣 能 轟 轟 烈 烈 的 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「 抱 歉 。 看 起 來 我 不 太 擅 長 招 魂 亡 靈 。 」 卡 納 笑 笑 。 「 我 不 是 故 意 的 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「 好 吧 ， 這 並 非 … 我 想 好 的 策 略 。 但 是 千 真 萬 確 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「 我 沒 有 時 間 關 注 這 事 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「 這 些 家 伙 瘋 了 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「 你 怎 麼 看 出 我 不 是 本 地 人 的 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>卡 納 笑 了 。 「 你 的 一 舉 一 動 都 顯 示 自 己 是 個 拉 瓦 台 人 。 我 並 不 是 說 這 是 壞 事 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「 好 吧 。 我 來 到 這 邊 時 間 不 長 。 本 地 人 給 我 留 下 了 很 深 的 印 象 ， 還 有 ， 呃 ， 好 吧 ， 食 物 也 是 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「 … 只 是 我 的 直 覺 。 」 卡 納 嘴 唇 翹 起 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「 看 起 來 那 裡 會 制 造 麻 煩 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「 這 裡 的 人 看 起 來 很 友 好 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「 好 了 ， 沒 什 麼 不 好 意 思 的 。 我 很 擅 長 聽 口 音 ， 而 這 裡 的 人 的 口 音 比 較 ， 嗯 ， 豐 富 多 彩 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「 看 來 還 沒 人 叫 你 到 後 面 去 單 挑 過 。 」 卡 納 沖 你 一 笑 。 「 我 也 沒 有 過 。 迪 伍 德 人 的 暴 躁 是 出 了 名 的 ， 但 目 前 為 止 他 們 只 是 互 相 之 間 看 不 順 眼 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>「 你 這 麼 想 ？ 我 很 驚 訝 還 沒 人 叫 你 到 後 面 去 單 挑 過 。 沒 有 什 麼 比 對 付 鹿 叢 人 更 讓 迪 伍 德 人 高 興 的 了 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「 他 們 是 令 人 耳 目 一 新 的 一 群 人 ， 我 認 為 。 我 曾 花 數 小 時 在 酒 館 或 其 他 地 方 和 這 裡 的 普 通 人 談 話 ， 從 富 商 到 僕 人 ， 每 個 人 都 有 自 己 的 主 見 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「 所 以 你 已 經 和 本 地 人 打 過 交 道 了 ？ 」 卡 納 大 笑 。 「 我 不 清 楚 他 們 是 不 是 真 這 麼 糟 。 迪 伍 德 人 的 暴 躁 是 出 了 名 的 ， 但 目 前 為 止 他 們 只 是 互 相 之 間 看 不 順 眼 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「 看 上 去 一 直 如 此 。 他 們 要 不 是 和 格 蘭 方 瑟 人 有 沖 突 ， 就 是 自 己 人 之 間 看 不 順 眼 。 我 很 驚 訝 ， 一 群 被 強 敵 環 繞 的 人 居 然 自 己 之 間 還 打 得 你 死 我 活 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「 這 是 我 一 次 又 一 次 聽 到 他 們 的 水 手 唱 的 。 講 的 是 一 個 女 人 把 她 愛 著 的 船 員 的 名 字 收 集 起 來 ， 保 佑 水 手 們 在 海 上 平 安 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>「 通 靈 術 看 起 來 是 現 在 的 熱 點 話 題 。 關 於 靈 魂 你 知 道 得 比 我 多 ， 你 有 什 麼 看 法 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>「 作 為 學 者 我 必 須 肯 定 它 的 潛 力 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「 我 們 的 靈 魂 包 含 著 這 麼 大 的 力 量 ， 真 令 人 贊 歎 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「 你 對 這 個 話 題 不 感 興 趣 嗎 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「 我 覺 得 我 已 經 聽 膩 了 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「 當 然 。 」 卡 納 揮 了 揮 手 。 「 但 實 際 上 你 會 贊 成 嗎 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「 不 ， 我 覺 得 這 很 神 奇 。 我 認 為 你 不 去 鑽 研 現 在 通 靈 師 開 創 的 那 些 技 術 和 研 究 ， 是 沒 辦 法 真 正 把 英 格 維 斯 人 的 事 情 研 究 透 徹 的 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「 我 發 現 他 們 做 的 所 有 東 西 都 非 常 有 條 理 ， 無 論 是 劑 量 還 是 配 方 。 而 英 格 維 斯 人 ， 他 們 在 使 用 阿 德 拉 和 靈 魂 能 量 方 面 的 天 賦 就 好 比 … … 藝 術 。 一 個 就 像 是 星 空 圖 ， 而 另 一 個 就 像 是 孤 獨 的 領 航 員 吟 唱 的 歌 謠 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「 是 的 ， 揭 開 靈 魂 的 秘 密 ， 我 們 就 能 發 掘 自 己 體 內 的 所 有 潛 能 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「 確 實 是 呢 。 折 磨 靈 魂 ， 廢 掉 人 的 手 腳 … … 誰 知 道 呢 。 也 許 我 們 要 見 證 一 個 黃 金 時 代 的 謝 幕 了 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「 通 靈 師 不 斷 地 把 他 們 的 研 究 搞 砸 ， 而 每 次 都 是 無 辜 百 姓 為 此 遭 受 苦 難 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>「 當 然 這 也 有 幫 助 到 許 多 人 對 吧 ？ 那 些 遭 受 靈 魂 創 傷 ， 或 是 被 沖 動 念 頭 蒙 蔽 雙 眼 ， 甚 至 是 只 為 閱 悉 靈 魂 歸 屬 的 人 — — 他 們 最 終 都 對 自 己 生 命 的 意 義 有 了 更 好 的 理 解 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>「 我 寧 願 讓 過 去 的 事 情 就 好 好 地 留 在 過 去 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>「[Player Name]… … 你 覺 得 一 個 人 能 改 變 命 運 的 進 程 嗎 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>卡 納 歎 了 口 氣 。 「 包 括 你 在 內 有 黑 多 人 ， 他 們 似 乎 都 在 不 經 意 間 改 變 了 世 界 。 」
+
+「 然 後 就 有 人 蓄 謀 ， 暗 中 操 縱 ， 用 這 樣 的 方 法 來 推 翻 公 爵 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>「 你 就 是 要 問 些 難 以 回 答 的 問 題 ， 對 不 對 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>「 女 人 也 許 會 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>「 為 什 麼 要 問 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>「 我 不 相 信 宿 命 。 命 運 是 你 自 己 創 造 的 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>「 不 ， 世 上 的 一 切 都 是 神 在 安 排 。 我 們 無 從 改 變 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>「 只 有 人 有 改 變 的 意 志 和 方 法 就 可 以 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>「 但 是 … … 也 許 是 神 對 你 沒 有 辦 法 ？ 如 果 陶 斯 沒 有 殺 死 公 爵 ， 那 暴 動 就 永 遠 不 會 發 生 。 我 們 是 在 經 理 一 段 早 已 寫 好 的 劇 本 ， 還 是 被 神 無 情 地 牽 扯 進 宿 命 之 中 呢 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>「 等 等 ， 你 不 會 是 想 要 去 暗 殺 誰 吧 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>「 當 然 不 是 ！ 我 只 是 說 說 而 已 … … 我 在 想 我 是 不 是 一 直 做 錯 了 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>「 方 法 … … 這 個 才 是 關 鍵 ， 對 吧 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>「 是 時 候 要 采 取 更 主 動 一 點 的 方 法 。 我 們 要 殺 誰 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>「 你 在 問 我 是 不 是 已 經 失 敗 了 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>「 我 已 經 厭 倦 被 牽 扯 到 他 人 的 問 題 裡 了 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>「 事 實 上 很 有 用 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>「 抱 歉 。 我 們 換 個 話 題 … … 今 天 天 氣 真 好 ， 對 不 對 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>「 我 喜 歡 這 樣 的 討 論 。 這 些 話 題 值 得 深 入 考 慮 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>「 不 ， 我 覺 得 我 們 在 瞎 想 那 些 跟 我 們 無 關 的 事 情 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>「 唔 。 看 來 亞 洛 斯 也 不 同 意 ， 對 吧 ？ 」
+
+「 好 吧 ， 謝 謝 你 能 聽 我 說 完 。 我 很 期 待 事 情 是 如 何 發 展 的 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>「 我 想 有 些 東 西 也 有 它 的 神 秘 之 處 。 」
+
+「 好 吧 ， 謝 謝 你 能 聽 我 說 完 。 我 很 期 待 事 情 是 如 何 發 展 的 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>「 以 那 種 程 度 的 力 量 不 會 出 現 什 麼 好 事 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>「 我 寧 願 不 參 與 這 件 事 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>「 好 吧 。 我 們 換 個 話 題 … … 今 天 天 氣 真 好 ， 對 吧 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>「 我 不 確 定 我 是 怎 麼 想 的 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>「 那 就 是 我 們 倆 了 。 我 看 到 許 多 好 的 方 面 — — 治 愈 靈 魂 創 傷 ， 還 有 讓 人 閱 悉 靈 魂 歸 屬 … … 但 是 也 有 許 多 意 外 — — 比 如 貝 爾 裡 奇 事 件 ， 他 們 可 沒 在 迪 伍 德 留 下 什 麼 好 印 象 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>「 你 是 最 該 休 息 的 一 個 。 你 給 這 裡 的 人 帶 來 了 莫 大 的 幫 助 。 」 卡 納 歎 了 口 氣 。 「 我 們 會 找 到 辦 法 的 。 我 向 你 保 證 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>「 真 可 惜 ， 我 們 好 像 幫 了 他 們 很 大 的 忙 啊 。 」 卡 納 偷 偷 地 笑 了 笑 。 「 抱 歉 ， 不 管 怎 樣 ， 我 相 信 我 們 會 找 到 辦 法 的 。 我 會 一 直 幫 助 你 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>「 他 們 應 該 要 好 一 會 兒 以 後 才 會 注 意 到 了 。 」 卡 納 歎 了 口 氣 。 「 好 吧 ， 我 們 會 找 到 辦 法 的 。 我 會 一 直 幫 助 你 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>「 你 以 出 乎 意 料 的 平 靜 態 度 解 決 了 這 一 切 。 換 作 是 我 ， 我 真 不 確 定 自 己 能 否 做 得 到 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「 不 可 否 認 死 亡 經 常 地 提 供 了 絕 佳 的 情 報 … … 」 卡 納 咳 了 咳 。 「 抱 歉 。 不 管 怎 樣 ， 我 們 會 找 到 辦 法 的 。 我 會 一 直 幫 助 你 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「 不 ， 你 看 起 來 很 好 地 承 受 住 了 ， 面 對 困 難 你 總 能 一 笑 而 過 。 我 很 欣 賞 你 的 智 慧 — — 他 們 好 像 不 止 一 次 看 穿 了 我 們 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「 你 好 像 已 經 很 理 解 我 們 的 目 標 了 。 」 卡 納 笑 著 說 。 「 不 管 怎 樣 ， 我 們 都 會 梅 沃 德 的 詛 咒 降 臨 之 前 找 到 解 決 辦 法 。 我 向 你 保 證 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「 我 也 是 這 樣 想 。 那 些 死 者 吸 引 了 所 有 的 注 意 力 。 」 卡 納 咳 嗽 了 幾 聲 。 「 抱 歉 ， 不 管 怎 樣 ， 我 們 都 一 定 能 找 到 辦 法 。 你 可 以 相 信 我 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「 什 麼 ？ 不 ！ 呃 ， 不 不 不 ， 我 不 是 那 個 意 思 。 我 只 是 覺 得 我 一 直 以 來 都 做 錯 了 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「 為 什 麼 要 告 訴 我 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「 真 是 個 奇 怪 的 故 事 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「 要 只 是 說 個 名 字 這 麼 簡 單 的 事 情 就 好 了 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「 可 不 是 嗎 ？ 也 許 就 幾 個 詞 兒 — — 不 過 要 連 續 地 說 ， 而 通 常 最 後 你 會 說 成 一 段 咒 語 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>「 再 加 個 調 子 ， 呃 — — 男 人 不 也 喜 歡 唱 著 戰 歌 打 仗 嗎 ？ 」 卡 納 咯 咯 地 笑 著 。 「 不 管 怎 樣 ， 我 覺 得 你 的 名 字 依 舊 有 著 影 響 力 。 不 過 你 得 靠 自 己 去 組 織 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「 不 過 我 們 現 在 先 來 解 決 眼 前 的 事 情 吧 。 走 吧 ， 朋 友 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「 我 更 願 意 敞 開 思 想 對 待 整 件 事 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「 有 意 思 。 我 在 想 這 是 代 表 你 對 通 靈 術 的 想 法 還 是 契 思 人 的 。 哈 哈 ， 不 過 我 還 是 不 繼 續 說 這 事 兒 了 。 我 們 走 吧 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「 立 場 夠 公 平 。 好 吧 ， 我 相 信 迪 伍 德 是 不 會 接 受 謊 言 的 。 我 們 一 定 能 聽 到 真 相 。 走 吧 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「 是 這 麼 承 諾 的 … … 不 過 ， 誰 知 道 呢 ？ 我 們 也 許 要 見 證 一 個 黃 金 時 代 的 落 幕 ， 就 像 那 些 通 靈 師 預 言 的 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「 唔 ， 也 許 是 有 了 規 定 ？ 但 誰 又 知 道 怎 樣 的 限 制 才 是 適 當 的 呢 ？ 」
+
+「 好 吧 ， 謝 謝 你 能 傾 聽 。 我 很 期 待 事 情 發 展 成 什 麼 結 果 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「 好 吧 ， 謝 謝 你 能 傾 聽 。 我 很 期 待 事 情 發 展 成 什 麼 結 果 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>「 總 之 你 好 像 已 經 很 理 解 我 們 的 目 標 了 。 」 卡 納 笑 著 說 。 「 不 管 怎 樣 ， 我 們 都 會 梅 沃 德 的 詛 咒 降 臨 之 前 找 到 解 決 辦 法 。 我 向 你 保 證 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「 我 不 在 乎 你 那 些 愚 蠢 的 故 事 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>「 一 個 有 大 胃 口 的 女 人 ， 我 懂 了 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>「 噢 ， 閒 聊 而 已 。 不 過 也 是 因 為 我 一 直 在 想 名 字 的 影 響 力 的 事 情 。 這 個 你 一 直 在 找 的 人 ， 陶 斯 ， 他 用 了 一 個 英 格 維 斯 人 的 名 字 。 我 在 想 這 其 中 是 不 是 有 某 些 特 殊 的 意 義 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「 我 有 更 重 要 的 問 題 要 問 他 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「 也 許 我 們 可 以 問 他 什 麼 時 候 去 找 他 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「 我 只 想 得 到 治 愈 。 我 不 在 乎 他 是 誰 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>「 抱 歉 ， 我 不 是 故 意 要 … … 我 還 是 走 吧 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「 確 實 。 我 也 對 鉛 制 之 鑰 有 些 疑 問 。 噢 ， 不 過 你 當 然 可 以 第 一 個 上 。 優 先 權 嘛 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「 當 然 了 。 抱 歉 ， 我 不 是 故 意 要 輕 視 的 ， 絕 非 如 此 — — 也 許 如 果 我 們 能 更 了 解 敵 人 ， 我 們 就 能 更 快 找 到 他 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「 我 發 現 他 們 根 本 不 會 與 他 人 做 心 靈 交 流 。 」 卡 納 咳 了 咳 。 「 話 說 回 來 ， 我 一 直 在 思 考 名 字 的 影 響 力 這 件 事 。 你 們 在 找 的 這 個 陶 斯 ， 他 用 了 英 格 維 斯 人 的 名 字 。 我 在 想 這 其 中 是 不 是 有 某 些 特 殊 意 義 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「 大 部 分 海 邊 小 屋 都 有 中 陌 生 感 ， 對 嗎 ？ 不 過 我 提 到 這 個 還 是 因 為 我 一 直 在 思 考 名 字 的 影 響 力 這 件 事 情 。 你 們 在 找 的 這 個 陶 斯 ， 他 用 了 英 格 維 斯 人 的 名 字 。 我 在 想 這 其 中 是 不 是 有 某 些 特 殊 意 義 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「 韋 伯 女 士 確 實 說 過 他 是 個 長 壽 的 人 … … 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>「 哈 哈 ， 我 就 奇 怪 怎 麼 會 這 麼 簡 單 ， 也 許 就 是 個 象 征 性 的 東 西 。 就 像 為 了 紀 念 馬 格 蘭 而 給 一 把 刀 起 名 叫 『 烈 火 之 心 』 。 」
+
+「 不 過 我 也 不 是 故 意 要 跟 你 嘮 叨 這 麼 多 的 。 我 們 走 吧 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「 你 知 道 我 為 人 的 ， 總 是 要 去 深 究 那 些 有 的 沒 的 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>「 你 沒 辦 法 改 變 未 來 ， 為 什 麼 要 去 擔 心 呢 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「 制 造 混 亂 是 一 回 事 ， 而 引 起 永 恆 的 改 變 又 是 另 一 回 事 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>他 輕 輕 地 笑 著 說 ： 「 是 啊 ， 我 覺 得 她 也 許 會 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「 這 到 底 是 要 干 嘛 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「 我 盡 量 不 這 麼 做 。 但 我 發 現 很 難 。 」 卡 納 聳 了 聳 肩 。 「 但 我 確 實 覺 得 我 一 直 以 來 做 錯 了 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「 我 懷 疑 你 說 得 對 … … 這 樣 的 話 ， 時 間 會 告 訴 我 們 答 案 — — 我 們 要 看 看 挑 戰 港 會 從 那 場 磨 難 中 得 到 什 麼 教 訓 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「 我 在 想 一 直 以 來 我 是 不 是 做 得 對 。 呃 ， 不 算 殺 人 這 件 事 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>「 我 曾 想 帶 走 一 件 古 物 ， 讓 它 來 為 我 解 決 所 有 拉 瓦 台 的 問 題 … … 不 過 在 我 們 經 歷 了 這 麼 多 事 情 以 後 ， 我 知 道 我 必 須 親 自 去 說 服 他 們 ， 即 便 我 得 說 到 他 們 耳 朵 長 繭 子 為 止 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>「 我 曾 想 帶 走 一 件 古 物 ， 讓 它 來 為 我 解 決 所 有 拉 瓦 台 的 問 題 … … 不 過 在 我 們 經 歷 了 這 麼 多 事 情 以 後 ， 我 已 經 不 確 定 這 樣 做 會 不 會 有 幫 助 了 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

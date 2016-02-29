@@ -1,7 +1,7 @@
 <StringTableFile>
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2421</EntryCount>
+  <EntryCount>2423</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -11717,6 +11717,11 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2362</ID>
+      <DefaultText>Shrine of Magran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2363</ID>
       <DefaultText>Ionni Brathr Fragment</DefaultText>
       <FemaleText />
@@ -12150,6 +12155,11 @@
     <Entry>
       <ID>2452</ID>
       <DefaultText>dragons or drakes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2453</ID>
+      <DefaultText>checks Disposition</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

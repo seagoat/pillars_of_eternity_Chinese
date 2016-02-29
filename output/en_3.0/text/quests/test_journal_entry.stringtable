@@ -1,0 +1,17 @@
+<StringTableFile>
+  <Name>quests\test_journal_entry</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>這 是 個 測 試 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>這 是 個 測 試 。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

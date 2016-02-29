@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_perly</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Light blooms at the edges of your vision. You feel the sun at your back, and the weight of a bow in your hand. You know, suddenly, that you have come a long way from the Vale, hunting deer. Now, you are standing before a cavern, and the darkness extends far into its depths. Even so, your friend strides out before you, his red cloak flapping at his heels. You follow, heart hammering in your chest, as he leads you deeper into the cavern. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>There is a roar like thunder, echoing around you. Fear seizes you, casts you stumbling back towards the exit, towards light and escape. You see a glint of steel, and there is a sudden, terrible flash of agony behind your knee. You scream, stumble, fall. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>A figure drifts, suspended, in the musty air of the cavern. Its form and features blur and twist in cascading ripples of incandescence. You feel its energy eddying about your limbs, filling them with a heavy chill. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Reach out.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Move away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The spectral figure remains, moving in short, brief circles above the man's corpse as if tethered there by unseen threads.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You reach out a hand for the spirit. In the moment of contact you feel as if you have been struck a blow, head reeling as you tumble, helplessly, into a waiting darkness. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The vision recedes, and you are thrown back into your self with seemingly resentful force. 
+The corpse lies at your feet, and the spectre lingers. In the span of energy between you both, you feel a sense of questioning, of confusion. Of anger. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Your thoughts are chaos, lanced through with pain. But in a moment of terrible clarity you see your friend look back from the mouth of the cavern, his dagger daubed in crimson to match his cloak.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>And then there is a great, dark shape above you. And then there is more pain. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I met him on the road. Your friend." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"You were betrayed. Only a fool couldn't see it coming." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Your betrayer is slain. You are avenged." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Your betrayers are dead. Nonton and Ingroed both." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Confusion leaches from the spirit in waves. Then, you feel a sudden, powerful anger, mingled with triumph. The spirit seems to fade with the force of its own exultation, growing fainter and fainter, until you are alone once more within the cave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>A sudden, lashing anger emanates from the spirit. Rage and grief seem to pour from the gleaming figure like smoke. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I'll find him, and see that he answers for what he's done to you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"You're dead, spirit. There's nothing for you here." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I will find the man who did this to you, and see him brought to justice." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>For a moment the spirit seems to burn, bright, and your head fills with a sickly triumph. The spirit seems to weaken with the force of its own exultation, growing fainter and fainter, until you are alone once more. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The spirit roils with thwarted anger and grief. Sorrow seems to seep into the very air of the cavern. The spirit dims and fades, until you are alone once more. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Be at peace, spirit. May you be blessed with greater fortune in the next life." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The spirit roils with thwarted anger and grief. Sorrow seems to seep into the very air of the cavern. As you look on, the spirit dims and fades, until you are alone once more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"You were betrayed. Only a fool couldn't see it coming." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Trigger Conv Node 31</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"He's just as dead as you are." </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

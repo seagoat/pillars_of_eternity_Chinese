@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_visitor_cruel_lord</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>56</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I've heard a lot about you, Lord [Player Name]. You seem like a man who knows how to get results. I have a matter I'd like to discuss with you, if you'll hear me out."</DefaultText>
+      <FemaleText>"I've heard a lot about you, Lady [Player Name]. You seem like a woman who knows how to get results. I have a matter I'd like to discuss with you, if you'll hear me out."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"As the ruler of Caed Nua, I'm sure you've seen your share of trouble-makers. People determined to tear you down so you can share in their misery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Trigger Conv Node 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Very well. Let's hear it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You call your allies together, and motion for the petitioner to step forward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Things may get a little... messy. I thought it best to consult you on the matter first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"There is power in mercy, Lord Brynwigar. Treat the people fairly, and they'll be happy to work for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"In these matters, it's best to find middle ground. Grant them a few freedoms, so long as they continue to work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I'd like a moment to discuss this with my people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Of course, of course."
+
+Brynwigar steps away, out of earshot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Devil, get rid of this guy. Quietly." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"You advocate mercy? Your own lands crawl with brigands and outlaws. Perhaps if you ruled with a sterner hand, you would not be troubled by such things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Oh, the usual." Brynwigar folds his arms. 
+
+"That they don't enjoy the benefits of their labor. That they are treated too harshly. They're lazy, my Lord, that's all."</DefaultText>
+      <FemaleText>"Oh, the usual." Brynwigar folds his arms. 
+
+"That they don't enjoy the benefits of their labor. That they are treated too harshly. They're lazy, my Lady, that's all."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"My steward informed me you have quite the nasty reputation. That you're cruel and merciless." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Brynwigar stiffens. 
+
+"I simply know the value of efficiency. These peasants should know their place!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"You're nothing but a petty, cruel man with more power than he deserves!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"You'll hang all the same, Brynwigar. Guards, seize him!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Give 700cp.] "A show of force will knock some sense into them. Here. Hire some mercenaries."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"You dare insult me? You, the jumped-up ruler of an old ruin? You'll regret this!" 
+
+Face red with anger, Brynwigar storms from the hall. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Generous indeed! I'll put the coin to good use. Thank you, Lord [Player Name]! I knew I could count upon your good sense."</DefaultText>
+      <FemaleText>"Generous indeed! I'll put the coin to good use. Thank you, Lady [Player Name]! I knew I could count upon your good sense."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Have you come to any decision?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Lie] "I don't approve of your brutal tactics. But I'll turn a blind eye on this one occasion. Now leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Lie] "You have my full support. Go back and beat these trouble-makers into the dirt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Yes. I plan to kill you. I'll give you two hours' headstart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Hey, I gotta have a little fun." She clanks out of the hall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Motion for your guest to return.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Brynwigar stares, uncomprehending, until the guards step forward to grab him. He swears and struggles the full length of the hall as they drag him out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"It seems a soft approach." Brynwigar's nose wrinkles. "They'll think themselves victorious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"What exactly have these peasants been saying?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Script Node 31</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I cannot help you with this at the moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Script Node 33</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"It's widely known that you have quite the talent for negotiation. It was never my strong suit." Brynwigar sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Without people, you've nothing to rule over but rocks and trees. Try showing at least a little respect."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"If you're going to cast judgment on my keep, you can leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Consider it a test of your understanding. You'd do better to speak with your people than to react with violence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Brynwigar opens his mouth to protest, but thinks better of it. He bows curtly, then turns to leave, shaking his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I admit I was hoping for... resources, rather than permission. But I appreciate your support." 
+
+Brynwigar bows at the waist, evidently satisfied, and strides from the hall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Motion for your guest to return.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Aloth, I need you to travel to Brynwigar's keep. Warn the people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I shall act quickly." Aloth departs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"What?" Brynwigar takes a step back. "You.. you two-faced prick! You'll pay for this insult!" 
+
+He wastes no more time on words. Brynwigar turns and flees from the hall.</DefaultText>
+      <FemaleText>"What?" Brynwigar takes a step back. "You.. you two-faced she-wolf! You'll pay for this insult!" 
+
+He wastes no more time on words. Brynwigar turns and flees from the hall.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Well, that was quick. Have you come to a decision?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I have other questions." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Yes? Any advice at at all is welcome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"If you insist. My Lord." 
+
+Brynwiger bows stiffly, and turns on his heel. </DefaultText>
+      <FemaleText>"If you insist. My Lady." 
+
+Brynwiger bows stiffly, and turns on his heel. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText> "Yes, well, I do appreciate the time you've taken to speak with me, my Lord. I shall return home to think upon the matter." 
+
+He bows, and turns to stride from the hall.</DefaultText>
+      <FemaleText> "Yes, well, I do appreciate the time you've taken to speak with me, my Lady. I shall return home to think upon the matter." 
+
+He bows, and turns to stride from the hall.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I'll grant that there's some merit in what you say. Thank you, Lord [Player Name], for your time. I'll... consider your words while I journey home."</DefaultText>
+      <FemaleText>"I'll grant that there's some merit in what you say. Thank you, Lady [Player Name], for your time. I'll... consider your words while I journey home."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"I've had a few incidents on my land. Rabble-rousing peasants, you see. Shameful as it is, they've gotten somewhat out of hand. Refusing to work, threatening my guards, spouting this... nonsense about unfair treatment." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Hrm." Brynwigar sounds decidedly unconvinced.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Brynwigar frowns, but there's a thoughtful look in his eye. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"All the more reason to value your counsel. It seems a reasonable solution. Thank you, milord."</DefaultText>
+      <FemaleText>"All the more reason to value your counsel. It seems a reasonable solution. Thank you, milady."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"If I could have a moment of your time?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"It's not as if I don't pay them! In any case, I fear they won't back down. The situation will only get worse if I don't put an end to it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"I would urge caution, my Lord. Lord Byrnwigar has gained a reputation as a man of brutal temperament. Some would call him cruel."
+
+You hear the Steward's soft-spoken words within your head.</DefaultText>
+      <FemaleText>"I would urge caution, my Lady. Lord Byrnwigar has gained a reputation as a man of brutal temperament. Some would call him cruel."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

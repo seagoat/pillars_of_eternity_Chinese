@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_burial_isle\14_si_burial_isle_passage_upper</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>35</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Light filters through the collapsed ceiling. A wall of piled stones and rubble blocks the way ahead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Clear the rubble with a prybar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Pull the rubble loose.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>You wedge your prybar against a large stone and put all your weight into it. Your efforts dislodge the boulder, and it rolls free with a heavy groan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The rocks are heavy and appear to be wedged tightly together.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Other slabs and chunks of debris break away. The massive pile creaks and rumbles, finally tumbling harmlessly away from you down the passage. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Send [Slot 0].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Send [Slot 1].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Send [Slot 2].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Send [Slot 3].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Send [Slot 4].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Send [Slot 5].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Slot 0] grabs a large stone and starts heaving. Dirt spills from the cracks between the rocks. [Slot 0]'s efforts dislodge the boulder, and it rolls free with a heavy groan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Slot 0] heaves and tugs but cannot move the rubble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Leave the rubble alone.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>You step back and consider your options.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Slot 1] grabs a large stone and starts heaving. Dirt spills from the cracks between the rocks. [Slot 1]'s efforts dislodge the boulder, and it rolls free with a heavy groan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Slot 1] heaves and tugs but cannot move the rubble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Slot 2] grabs a large stone and starts heaving. Dirt spills from the cracks between the rocks. [Slot 2]'s efforts dislodge the boulder, and it rolls free with a heavy groan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Slot 2] heaves and tugs but cannot move the rubble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Slot 3] grabs a large stone and starts heaving. Dirt spills from the cracks between the rocks. [Slot 3]'s efforts dislodge the boulder, and it rolls free with a heavy groan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Slot 3] heaves and tugs but cannot move the rubble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Slot 4] grabs a large stone and starts heaving. Dirt spills from the cracks between the rocks. [Slot 4]'s efforts dislodge the boulder, and it rolls free with a heavy groan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Slot 4] heaves and tugs but cannot move the rubble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Slot 5] grabs a large stone and starts heaving. Dirt spills from the cracks between the rocks. [Slot 5]'s efforts dislodge the boulder, and it rolls free with a heavy groan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Slot 5] heaves and tugs but cannot move the rubble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You venture through the doorway and into a passage strewn with rubble. A spiraling staircase descends to a lower level where a damp sea breeze mingles with centuries of dust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Light breaks into the tunnel up ahead, growing brighter as you continue. Soon, the passage ends, opening up on the shores of the Burial Isle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Pull the rocks loose yourself.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>You grab a large stone and start heaving. Dirt spills from the cracks between the rocks. Your efforts dislodge the boulder, and it rolls free with a heavy groan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>You heave and tug but cannot move the rubble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>You venture through a doorway into a dim passage. The air is still and musty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Examine the pile of rubble.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>The mass of stone and debris looks unstable. The floor here slopes down the passage, however. Were you to loosen the pile, the debris would probably roll away from you.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

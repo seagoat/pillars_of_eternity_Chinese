@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\07_gilded_vale\07_qst_smiths_shipment</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Smith's Shipment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Travel to the Black Meadow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Track down the shipment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Return to Tuatanu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Tuatanu, Gilded Vale's smith, has been expecting a shipment of supplies for a long time. He worries that something has befallen the wagon, which was traveling along the eastern road towards Gilded Vale. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Tuatanu has asked me to seek out one of the Black Hammer Smithery's supply wagons, which was expected to arrive in Gilded Vale several days ago. He suggested I might find some trace of it within the Black Meadow, which lies to the southeast of Gilded Vale. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I have arrived in the Black Meadow. Tuatanu had much to say on the dangers of this place, which teems with animals and outlaws alike. Searching along the roads may provide some sign of the wagon's fate, or even the shipment itself. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Tuatanu's fears were well-founded. I found the Black Hammer's shipment in the possession of a group of bandits haunting the northern edge of the meadow. It seems likely that Tuatanu's workers have met an untimely end. All that remains is to return the shipment, and claim my reward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I have found an overturned cart in the Black Meadow. It may be the wagon Tuatanu spoke of, but it's been cleared of supplies. Perhaps I can find more clues nearby. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I came upon a group of bandits in the Black Meadow. They have been dealt with. Their camp is cluttered with stolen supplies. Perhaps I'll find Tuatanu's shipment in amongst the rest. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Someone critically important to this quest has died.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I brought Tuatanu his missing shipment. He was pleased to have it, though he regretted the loss of his workers. He has promised to give me access to better goods, now that he has the resources to make them.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

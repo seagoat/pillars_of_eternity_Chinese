@@ -1,0 +1,397 @@
+<StringTableFile>
+  <Name>conversations\prototype_2\p2_si_cliff</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>78</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>T懸 崖 表 面 像 蠟 燭 一 樣 變 黑 且 融 化 。 頭 頂 上 有 個 小 露 頭 ， 看 上 去 似 乎 是 天 然 的 巢 。 要 爬 上 去 貌 似 有 挑 戰 性 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[攀 登 懸 崖 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[朝 露 頭 猛 擲 抓 鉤 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[離 開 ]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Y你 又 看 了 眼 懸 崖 。 頂 端 似 乎 只 能 站 一 個 人 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Y你 將 抓 鉤 扔 過 壁 架 ， 單 手 握 住 綁 著 抓 鉤 的 繩 子 。 鉤 子 隨 即 發 出 一 聲 令 人 滿 意 的 鏗 鏘 聲 ， 最 後 你 用 力 一 拉 確 保 已 經 固 定 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[攀 爬 繩 子 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Slot 0] 開 始 攀 爬 光 滑 的 懸 崖 表 面 。 不 過 可 用 手 抓 住 的 地 方 不 多 ， 攀 爬 很 快 變 慢 了 速 度 。 差 點 踩 空 一 步 後 ，[Slot 0] 被 迫 回 到 懸 崖 的 底 部 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Slot 0] 緩 慢 攀 升 懸 崖 ， 充 分 利 用 巖 石 間 的 裂 縫 和 山 鼻 子 到 達 了 築 巢 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Slot 2] 緩 慢 攀 升 懸 崖 ， 充 分 利 用 巖 石 間 的 裂 縫 和 山 鼻 子 到 達 了 築 巢 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>T繩 子 促 進 了 攀 爬 速 度 。[Slot 2] 輕 松 地 爬 到 了 懸 崖 的 築 巢 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Slot 1] 開 始 攀 爬 光 滑 的 懸 崖 表 面 。 不 過 可 用 手 抓 住 的 地 方 不 多 ， 攀 爬 很 快 變 慢 了 速 度 。 差 點 踩 空 一 步 後 ，[Slot 1] 被 迫 回 到 懸 崖 的 底 部 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>T繩 子 促 進 了 攀 爬 速 度 。[Slot 1] 輕 松 地 爬 到 了 懸 崖 的 築 巢 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Slot 1] 緩 慢 攀 升 懸 崖 ， 充 分 利 用 巖 石 間 的 裂 縫 和 山 鼻 子 到 達 了 築 巢 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>T繩 子 促 進 了 攀 爬 速 度 。[Slot 0] 輕 松 地 爬 到 了 懸 崖 的 築 巢 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>B回 到 懸 崖 底 部 後 ， 融 化 的 巖 石 和 變 黑 的 壁 架 在 頭 頂 若 隱 若 現 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>T築 巢 被 灼 熱 的 灰 燼 團 團 圍 住 ， 區 域 內 遍 布 了 樹 枝 和 骨 頭 。 一 顆 小 桶 大 的 蛋 依 偎 在 碎 石 中 。 看 上 很 沉 重 ， 很 難 拿 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[向 下 爬 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Send [Slot 4].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[用 繩 子 捆 住 蛋 後 慢 慢 降 下 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[派 遣 [Slot 0]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Slot 5] 緩 慢 攀 升 懸 崖 ， 充 分 利 用 巖 石 間 的 裂 縫 和 山 鼻 子 到 達 了 築 巢 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>T懸 崖 向 下 和 向 上 都 同 樣 難 爬 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Slot 4] 緩 慢 攀 升 懸 崖 ， 充 分 利 用 巖 石 間 的 裂 縫 和 山 鼻 子 到 達 了 築 巢 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[拿 走 蛋 後 爬 下 懸 崖 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Slot 5] 用 繩 子 綁 住 了 蛋 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Slot 1] 慢 而 穩 地 降 下 蛋 。 在 戰 利 品 降 至 底 部 並 埋 進 土 裡 後 ，[Slot 1]安 全 地 爬 下 懸 崖 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Slot 0] 用 繩 子 綁 住 了 蛋 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Slot 0] 將 蛋 裹 在 腋 下 ， 展 露 出 令 人 驚 歎 的 韌 勁 和 技 巧 的 同 時 安 全 爬 到 了 地 面 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>繩 子 促 進 了 攀 爬 速 度 。[Slot 4] 輕 松 地 爬 到 了 懸 崖 的 築 巢 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[派 遣 [Slot 1]。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Send [Slot 2].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Slot 4] 開 始 攀 爬 光 滑 的 懸 崖 表 面 。 不 過 可 用 手 抓 住 的 地 方 不 多 ， 攀 爬 很 快 變 慢 了 速 度 。 差 點 踩 空 一 步 後 ，[Slot 4] 被 迫 回 到 懸 崖 的 底 部 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Send [Slot 3].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Slot 1] 用 繩 子 綁 住 了 蛋 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Slot 2] 用 繩 子 綁 住 了 蛋 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Slot 3] 用 繩 子 綁 住 了 蛋 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Slot 5] 開 始 攀 爬 光 滑 的 懸 崖 表 面 。 不 過 可 用 手 抓 住 的 地 方 不 多 ， 攀 爬 很 快 變 慢 了 速 度 。 差 點 踩 空 一 步 後 ，[Slot 5] 被 迫 回 到 懸 崖 的 底 部 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>T繩 子 促 進 了 攀 爬 速 度 。[Slot 3] 輕 松 地 爬 到 了 懸 崖 的 築 巢 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Slot 3] 緩 慢 攀 升 懸 崖 ， 充 分 利 用 巖 石 間 的 裂 縫 和 山 鼻 子 到 達 了 築 巢 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Slot 4] 用 繩 子 綁 住 了 蛋 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Slot 2] 開 始 攀 爬 光 滑 的 懸 崖 表 面 。 不 過 可 用 手 抓 住 的 地 方 不 多 ， 攀 爬 很 快 變 慢 了 速 度 。 差 點 踩 空 一 步 後 ，[Slot 2] 被 迫 回 到 懸 崖 的 底 部 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Slot 0] 慢 而 穩 地 降 下 蛋 。 一 旦 戰 利 品 降 至 底 部 並 埋 進 土 裡 ，[Slot 0]安 全 地 爬 下 懸 崖 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Slot 3] 開 始 攀 爬 光 滑 的 懸 崖 表 面 。 不 過 可 用 手 抓 住 的 地 方 不 多 ， 攀 爬 很 快 變 慢 了 速 度 。 差 點 踩 空 一 步 後 ，[Slot 3] 被 迫 回 到 懸 崖 的 底 部 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Send [Slot 5].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Slot 0] 將 蛋 裹 在 腋 下 ， 並 沿 繩 子 爬 到 了 安 全 處 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>T才 剛 開 始 往 下 爬 ，[Slot 0]的 手 滑 了 。 蛋 從 [Slot 0]的 手 掌 中 掉 落 ，[Slot 0]也 隨 即 跌 落 懸 崖 。 兩 者 皆 極 速 下 落 ， 但 蛋 先 落 到 地 面 ， 砰 的 一 聲 後 四 分 五 裂 。[Slot 0] 也 降 落 在 不 遠 處 ， 呻 吟 著 緩 慢 站 了 起 來 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>T繩 子 促 進 了 攀 爬 速 度 。[Slot 5] 輕 松 地 爬 到 了 懸 崖 的 築 巢 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Slot 2] 慢 而 穩 地 降 下 蛋 。 一 旦 戰 利 品 降 至 底 部 並 埋 進 土 裡 ，[Slot 2]安 全 地 爬 下 懸 崖 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Slot 3] 慢 而 穩 地 降 下 蛋 。 一 旦 戰 利 品 降 至 底 部 並 埋 進 土 裡 ，[Slot 3]安 全 地 爬 下 懸 崖 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Slot 4] 慢 而 穩 地 降 下 蛋 。 一 旦 戰 利 品 降 至 底 部 並 埋 進 土 裡 ，[Slot 4]安 全 地 爬 下 懸 崖 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Slot 5] 慢 而 穩 地 降 下 蛋 。 一 旦 戰 利 品 降 至 底 部 並 埋 進 土 裡 ，[Slot 5]安 全 地 爬 下 懸 崖 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Slot 1] 將 蛋 裹 在 腋 下 ， 展 露 出 令 人 驚 歎 的 韌 勁 和 技 巧 的 同 時 安 全 爬 到 了 地 面 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Slot 1] 將 蛋 裹 在 腋 下 ， 並 沿 繩 子 爬 到 了 安 全 處 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>T才 剛 開 始 往 下 爬 ，[Slot 0]的 手 滑 了 。 蛋 從 [Slot 0]的 手 掌 中 掉 落 ，[Slot 0]也 隨 即 跌 落 懸 崖 。 兩 者 皆 極 速 下 落 ， 但 蛋 先 落 到 地 面 ， 砰 的 一 聲 後 四 分 五 裂 。[Slot 0] 也 降 落 在 不 遠 處 ， 呻 吟 著 緩 慢 站 了 起 來 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Slot 2]腋 下 夾 著 鳥 蛋 ， 以 眼 花 繚 亂 的 技 巧 安 全 爬 到 地 面 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Slot 2]腋 下 夾 著 鳥 蛋 ， 沿 著 繩 子 向 下 爬 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>T剛 剛 開 始 往 下 降 ，[Slot 2]就 滑 了 。 鳥 蛋 掉 了 ，[Slot 2]也 從 懸 崖 上 摔 下 去 。 人 和 蛋 都 往 下 墜 落 ， 鳥 蛋 先 著 地 ， 啪 的 一 聲 碎 了 。[Slot 2]落 在 不 遠 處 ， 掙 扎 著 起 身 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Slot 3]腋 下 夾 著 鳥 蛋 ， 以 眼 花 繚 亂 的 技 巧 安 全 爬 到 地 面 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Slot 3]腋 下 夾 著 鳥 蛋 ， 沿 著 繩 子 向 下 爬 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>T剛 剛 開 始 往 下 降 ，[Slot 3]就 滑 了 。 鳥 蛋 掉 了 ，[Slot 3]也 從 懸 崖 上 摔 下 去 。 人 和 蛋 都 往 下 墜 落 ， 鳥 蛋 先 著 地 ， 啪 的 一 聲 碎 了 。[Slot 3]落 在 不 遠 處 ， 掙 扎 著 起 身 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Slot 4]腋 下 夾 著 鳥 蛋 ， 以 眼 花 繚 亂 的 技 巧 安 全 爬 到 地 面 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Slot 4]腋 下 夾 著 鳥 蛋 ， 沿 著 繩 子 向 下 爬 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>T剛 剛 開 始 往 下 降 ，[Slot 4]就 滑 了 。 鳥 蛋 掉 了 ，[Slot 4]也 從 懸 崖 上 摔 下 去 。 人 和 蛋 都 往 下 墜 落 ， 鳥 蛋 先 著 地 ， 啪 的 一 聲 碎 了 。[Slot 4]落 在 不 遠 處 ， 掙 扎 著 起 身 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Slot 5]腋 下 夾 著 鳥 蛋 ， 以 眼 花 繚 亂 的 技 巧 安 全 爬 到 地 面 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Slot 5]腋 下 夾 著 鳥 蛋 ， 沿 著 繩 子 向 下 爬 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>T剛 剛 開 始 往 下 降 ，[Slot 5]就 滑 了 。 鳥 蛋 掉 了 ，[Slot 5]也 從 懸 崖 上 摔 下 去 。 人 和 蛋 都 往 下 墜 落 ， 鳥 蛋 先 著 地 ， 啪 的 一 聲 碎 了 。[Slot 5]落 在 不 遠 處 ， 掙 扎 著 起 身 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[誰 也 不 派 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>你 後 退 並 重 新 評 估 計 劃 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[自 己 爬 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Y能 用 繩 子 快 速 爬 上 去 。 你 輕 松 爬 到 了 懸 崖 的 鳥 巢 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Y你 利 用 巖 石 上 的 縫 隙 和 凸 起 慢 慢 爬 上 懸 崖 ， 到 達 了 鳥 巢 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Y你 開 始 攀 爬 光 滑 的 懸 崖 。 不 過 能 握 住 的 地 方 很 少 ， 你 爬 的 很 艱 難 。 差 點 一 腳 踏 空 後 ， 你 被 迫 返 回 懸 崖 底 部 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Y你 在 鳥 蛋 上 綁 了 繩 子 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Y你 用 緩 慢 平 穩 的 動 作 放 下 鳥 蛋 。 鳥 蛋 到 達 底 部 落 入 泥 土 中 後 ， 你 安 全 得 爬 下 懸 崖 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Y你 腋 下 夾 著 鳥 蛋 ， 沿 著 繩 子 向 下 爬 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Y你 腋 下 夾 著 鳥 蛋 ， 以 眼 花 繚 亂 的 技 巧 安 全 爬 到 地 面 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>T剛 剛 開 始 往 下 降 ， 你 手 就 滑 了 。 鳥 蛋 掉 了 ， 你 也 從 懸 崖 上 摔 下 去 。 人 和 蛋 都 往 下 墜 落 ， 鳥 蛋 先 著 地 ， 啪 的 一 聲 碎 了 。 你 落 在 不 遠 處 ， 掙 扎 著 起 身 。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

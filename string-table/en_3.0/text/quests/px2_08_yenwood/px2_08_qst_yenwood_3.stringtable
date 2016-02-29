@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_08_yenwood\px2_08_qst_yenwood_3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Battle of Yenwood Field</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Help Marshal Forwyn raise an army at Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Meet your army at Yenwood Field and defeat Lord Gathbin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Defeat Lord Gathbin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Lord Gathbin is assembling an army of mercenaries in an attempt to wrest control of Caed Nua from me by force. I'll need to raise my own army to stop him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>To fight Lord Gathbin's forces, I'll need an army of my own. Marshal Forwyn will assist me in the logistics of it all, coordinating things at the Great Hall in Caed Nua. He'll wait there until I command my army to march to Yenwood Field.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Your army is marshaling at Yenwood Field. Meet them there to lead them against Lord Gathbin's forces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Lord Gathbin and his elite troops are coming for you directly. This is your opportunity to kill him and rout his army once and for all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>My allies in the Knights of the Crucible will send some of their veteran knights to aid my infantry - assuming I remain in their good favor until the battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>My allies in the Dozens will send some of their veteran arquebusiers to aid my archers - assuming I remain in their good favor until the battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>My allies in the Doemenels will send some of their assassins to aid my infantry - assuming I remain in their good favor until the battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Matron Beregan has promised to send some of her ogres my way to aid my infantry.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Adaryc will be sending a contigent of longbowmen to aid my archers in the battle against Lord Gathbin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Lord Gathbin is dead and his claim to Caed Nua is ended.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

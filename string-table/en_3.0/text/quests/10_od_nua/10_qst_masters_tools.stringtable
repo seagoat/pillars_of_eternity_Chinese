@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\10_od_nua\10_qst_masters_tools</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>The Master's Tools</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Descend further into the next level of the Endless Paths</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Search the ruins</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Return to Tcharek</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Vithrack have settled into a section of the caves beneath Caed Nua, traveling far from their home colony in search of new knowledge. They have a particular respect for the Master's apparent skill with adra, and wish to learn how to shape it towards their own purposes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The vithrack have asked me to help with their research by searching the ruins below their camp for materials. Their leader warned me that the area is guarded by fearsome constructs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>I have reached the ruins below the caves, and can begin my search. The Vithrack have asked me to acquire three items: A refined adra crystal, the armor of one of the adra-laced animats that roam the area, and a piece from one of the ancient Engwithan machines. This will hopefully provide the Vithrack with enough material to base their own experiments on. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>I have collected all the items the vithrack leader requested. Tcharek promised a reward if I returned them to the vithrack camp. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I have found a piece of adra-laced animat armor on one of the inactive guardians in the ruins. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I found a crystal of pure, refined adra in one of the laboratories in the ruins. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Examining one of the ancient machines in the ruins has yielded a strange mechanism, laced through with copper. It will likely be of interest to the Vithrack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>On my way back to the Vithrack camp, I was attacked by some scouts who wished to take credit for my discovery.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>On my way back to the Vithrack camp, I was confronted by some scouts who wished to take credit for my discovery. I was able to convince them to let me pass. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I attacked the Vithrack camp. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I brought back the items the Vithrack requested. It should provide them plenty of material for research, and hopefully give them something to take home with them.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

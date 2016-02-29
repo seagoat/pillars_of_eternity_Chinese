@@ -1,0 +1,17 @@
+<StringTableFile>
+  <Name>conversations\00_dyrwood\00_bs_guard_villager_argue_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「 你 肯 定 看 到 了 什 麼 東 西 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「 我 們 已 經 告 訴 你 我 們 沒 有 。 不 要 在 通 過 窗 戶 偷 看 我 們 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\companions\poi\poi_bs_ondra_docks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bank Node 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「 十 幾 艘 鹿 叢 船 只 在 反 抗 之 戰 中 因 這 些 堤 壩 而 粉 碎 。 最 好 聽 從 占 星 家 關 於 潮 汐 的 說 法 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「 所 有 正 確 的 地 方 會 讓 我 的 血 液 跳 動 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「 這 麼 多 靈 魂 ， 但 很 少 … 是 醒 著 的 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

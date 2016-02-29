@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_dyrwood\00_cv_korgrak</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>73</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As you advance into the darkness, the ground begins to tremble. You hear plodding footfalls, growling breaths, and bone-snapping crunches.
+
+An ogre steps out of the shadows, ten feet tall and bulging with muscle. He tears a mouthful from a hoofed, pink-fleshed limb and tosses it aside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Attack] "That's enough from you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I didn't mean to disturb you. I'll be leaving."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The ogre takes a thudding step toward you. "Too late."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I'm looking for a young elven noblewoman. She's gone missing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"A farmer from Dyrford claims you ate his pigs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Korgrak's snarl reveals a row of large, stained teeth. "I've done my best to avoid kith. Especially the kind that might give rise to search parties."
+
+He scratches his knuckles and eyes you. "She never came here. Of that I'm sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Attack] "First, I'm dealing with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"In that case, I should get going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>He rams a fist into the wall and roars. "Then I should have eaten the blazing farmer! I underestimated the love these villagers have for their swine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I notice you're favoring your leg. You're weakened."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Then I'll look elsewhere. First, I want to ask you something more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The ogre grimaces, baring his teeth at you. "And it won't stop me from braining you and any other raider foolish enough to pursue me here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>He grits his teeth and glares at you, his eyes hard and narrow with rage. Korgrak takes several heaving breaths, seemingly ready to charge at any second.
+
+Finally, he drops his club. 
+
+"That's what I was afraid of." He sighs, blasting you with his fetid breath. "Time to move on, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"We may have an understanding, but I promise nothing for anyone else who wanders in here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"What are you doing in this cave?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Hiding from your kind." He scratches a tusk, glaring at you. "Kith driven from their homes by strange storms. Bandits out for blood and coin. My kind is unsafe around kith at the best of times, but now? Tempers run hot, and ogre blood is valued among your alchemists."
+
+His fingers flex around his club. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I have a stronghold in Caed Nua. Help me defend it, and you can stay as long as you'd like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Sell my services for the shelter of a fortress? Sounds like another kind of trouble, but perhaps one I can handle."
+
+He begins shuffling back into the shadows. "If you need me, you know where to find me. I'll leave Dyrford alone for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"You've already eaten an entire herd of pigs. At that rate, you won't be able to hide out in here for long."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I know that!" He smashes his club into the ground and takes a long, bracing breath. "My chances are still better here, [Player Race]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>He watches you from under the thick ridge of his brows. "Too well-equipped to be a villager. A bandit from the road, then. Must be."
+
+The ogre snorts and tightens his grip around a club. "I've kept to myself. Killed no one but the fools reckless enough to chase me down here. Why have you come looking for me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Leave this village in peace. I won't tell you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Lie] "I hear there's another town further along the river with lots of pigs. And juicy villagers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"This place isn't safe. Even if you kill me, it's only a matter of time before someone else finds you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"The only reason you'd hole up in a spider-infested cave is if you really feared something out there..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"The Dyrwood is huge. Surely there's a better place for you to hide out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>He snarls, raising his club. "Good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>He clutches his club with both hands and draws it closer. "Not that this matters to you. Now that you've found me here, I can't let you leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Juicy villagers are dangerous in large numbers." His eyes narrow, and he raises his club. "You've said enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>He smashes his club into the ground. "You think I haven't looked? I've wandered the wood from the Isce Îen to here. A spider-filled cave is the best hiding spot I've found yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>He smashes his club into the ground. "I told you! The kith on the road these days hunger for anything they can eat or sell. I wouldn't last a week wandering the open. Not by myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"You're menacing the villagers. Find another lair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>He bares his teeth. "They're not my concern. Nor are they yours now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>His toothy frown deepens. "What?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Calm down. Perhaps you could tell me something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>He glares at a spot over your shoulder as if he expects to see someone lurking behind you. "Speak. Fast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Where will you go?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Well, good luck to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Twin Elms? That's as good a place as any."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>{CUT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Korgrak raises his club and charges.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Bank Node 62</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Funny you should ask - remember how I was mentioning Twin Elms when we first met? From what I've been told, a few ogres live there - and not as servants or slaves."
+
+Hiravias shrugs and smiles in Korgrak's direction. "I don't think the druids will take well to being eaten, but maybe Korgrak can play nice?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Heard once from a traveler that out in Twin Elms they had some ogres living peaceful next to kith.
+
+"They'd probably rather have this ogre in their town than they would another Dyrwoodan, I'll say that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"You know, the Glanfathans are a little more tolerant of ogres. I've heard of a few living among them in Twin Elms. If... this one can behave peacefully, he might do the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>He eyes you suspiciously. "I'll follow the river for now. At least there's good hunting that way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Get out of here. Or you'll have me to deal with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>He squeezes his club with a groaning crack. "Blazes, I don't need you to remind me how sorry my lot is!" He looks down at you as he lifts his club. "And if this is your way of chasing me out..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"You don't need to stay in this miserable cave. I'm sure a big, strong ogre like you would have no problem out in the wood..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"You don't have to leave. You just need to learn subtlety. Lie low for a while and let the villagers forget you're here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Dyrford could be safe for you again. You just need to take care of Rumbald, the farmer who's put a bounty on your head."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>A smile stretches to his tusks. "Quiet. Stealthy. I think I see what you mean."
+
+He begins shuffling back into the shadows. "I'll take your advice. Don't give them a reason to come looking for me, and I won't, either."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>A smile stretches to his tusks. "You think I should make an example and a meal out of him? The idea is not an unwelcome one."
+
+He swings his club over his shoulder and looks at the cave mouth, baring his teeth in a smile. "It will be good to get out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"If you've been minding your own business, how did all these bones get here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>He grinds his teeth with impatience. "Spiders got most of them. The rest blundered in here looking for trouble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Before you go, I need to ask you about a missing noblewoman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Good luck out there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"I've done my best to avoid kith. Especially the kind that might give rise to search parties.
+
+"No, I haven't seen her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Thanks for the information."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Before I go, I need to ask you about a missing noblewoman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>He begins shuffling back into the shadows. "I'll be on my way shortly. Until then, you may come and go as you wish. I won't trouble you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"On second thought, I've got a different idea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"What's that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"I take that back. Twin Elms sounds like it would suit you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"It's good to find a place that doesn't smell of pig bones and spider shit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"I'm glad you've got a proper kitchen. Had a few close calls with campfires here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Your orlan shopkeeper... she sells ogre blood?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Nice, strong walls here. Safer than any cave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"That warden's a fine hunting partner. Knows some campfire songs, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I like what you've done with your garden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>He clutches his club with both hands and draws it closer. "And you seem sensible enough to understand that now that you've found me here, I can't let you leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>His eyes narrow. "You're the newcomer, aren't you? Even I've heard talk of you on the outskirts of the village." 
+
+He clutches his club with both hands and draws it closer. "Now that you've found me here, I can't let you leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

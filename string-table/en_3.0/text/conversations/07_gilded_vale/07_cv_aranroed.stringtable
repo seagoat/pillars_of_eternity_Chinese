@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_aranroed</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"You there! Did Commander Clyver send you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The woman sizes you up, squinting against the glare from the water. "You've come from the Crucible Keep, I take it. I was told you'd have something for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Aranroed wipes her blade on the lining of her cape. "I'll take that as our cue to leave. With the Dozens growing so bold, there's no time to waste."
+
+She strides back toward the waiting boat. "Give my regards to the Commander. And watch your back out here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Give her Vianna's research.] "Here it is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Tell me about what's happening at Fleetbreaker Castle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"What's your role in this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Excellent. I should get this back to the High Justice before..."
+
+She looks over your shoulder at a sound of approaching footsteps. 
+
+"Too late. Get ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>She straightens. "We've got to build up strength to defend the Dyrwood as well as our position here. And with these forge knights at our disposal, we'll be unstoppable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I'm a commander stationed at Fleetbreaker Castle. I was sent to retrieve the research by the High Justice himself."
+
+She leans closer. "And since you know what this research is all about, you can imagine how eager I am to get it back to the castle quickly and quietly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The woman sizes you up, squinting in the darkness. "You've come from the Crucible Keep, I take it. I was told you'd have something for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Her eyes narrow, but she eventually shrugs. "You're obviously helping Commander Clyver, so I suppose I can tell you. 
+
+"The High Justice has been gathering forces there. This mess with the Legacy, the unrest, and the man-eating corpses all over the Dyrwood - it isn't going away any time soon. And the Dozens are using this as an opportunity for a power grab."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I need to head back to my ship."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

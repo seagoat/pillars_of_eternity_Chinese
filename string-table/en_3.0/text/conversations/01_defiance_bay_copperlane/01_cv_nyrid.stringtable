@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_nyrid</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>73</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The man before you flashes you a toothy and rather unpleasant grin. "Well, now. A new face. Welcome, friend. Name's Purnisc. And this..." He gestures to the room around you. "...is my humble abode, and place of business." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"How dare you hit your own fiancée! How can you live with yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Let me have a look at your stock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Leave] "That's all for now." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Now, is that all?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"She seemed to care for you. Why are you doing this?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Let's talk about something else." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Plenty of stars in the sky. Tell her to go set up in the Salty Mast if she's feeling lonely." Purnisc shrugs. "Me and her are done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Let's talk about Kaenra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"No wonder Kaenra's left you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Give him Kaenra's ring.] "Kaenra asked me to give you this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Purnisc takes the ring and turns it around in his fingers. "Nice. What's this for?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"You don't recognize the wedding band you gave Kaenra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Purnisc's eyes narrow. "Then you won't be leaving at all, friend. I was tired of wearing this face anyhow." He raises his voice. "Guards! To me!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Leave] "I'll be going now." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Purnisc grins. "You're back. Anything I can do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Seems a difficult thing to forget, giving your grandmother's ring to someone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I keep it simple. If you have the coin, I have the svef. You're free to make use of the premises, so long as you don't do anything stupid and you don't get to tangling with the other customers. Now." Purnisc claps his hands together. "What can I get you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Seems like a lot of guards for one man. You must be popular."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Hello again, friend. You know what you want?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"What is svef?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"You serious?" Purnisc eyes you with suspicion, then disbelief. "Svef's worth every pand, my friend. It's incredible. Lets you see your own soul. And you're looking at Defiance Bay's first and foremost svef merchant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Memory's going, huh? No matter. Svef's one of the finest substances to come out of the Dyrwood, my friend. Lets you see your own soul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"What is your business, exactly?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Purnisc raises a brow. "Sure, right. Very perceptive. This business attracts some less pleasant types. Sometimes the clientele get a little pushy. And every so often, someone even turns out to be snooping into things they shouldn't, and lessons have to be taught."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Something's not right here, and I don't plan on leaving until I find out what's going on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"She was asking for it," Purnisc growls. "Sort of like you, right now. Maybe you ought to quit digging around in affairs that don't concern you. Me, I've got business to get back to." He points. "Door's that way." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Purnisc laughs. "Oh, yeah, I see now. She's making a statement, is she? Good riddance to her, then. Sorry I ever spent the coin to begin with." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Purnisc rolls his eyes. "You really don't know when to drop the subject, do you? Fine. What about her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Purnisc nods. "Good. Back to business, yes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Purnisc nods. "Good. Now, would you like to buy something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I found the man you tied up upstairs... the one also claiming to be Purnisc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>The toothy smile falters. "That so?" He shakes his head. "Shame you had to go digging around, friend. Because now, I can't exactly let you leave, can I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Remain silent.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Purnisc shrugs. "Well, whatever this is about, it's a fine ring. Looks like it should sell for a pretty pand. Thanks, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"And I do hope you're in here to do some business." He glances at the nearby guard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"If you have to ask..." Purnisc smirks. "Let's be clear. You go running to the guards, you're going to regret stepping foot in this place. In fact, I'd put even odds on your regretting every decision you made in your life to leave you standing in front of me right now." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Maybe she's just not worth remembering, eh?" Purnisc snorts. "While you're playing lapdog for her and all, why don't you go back and tell her to keep clear of here." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>His face shivers with a quick, unreadable emotion.
+
+"But you stay smart, and I figure we can end up very good friends. You can ask my, ah, previous customers. They'll vouch for my supply." He grins. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>His face shivers with a quick, unreadable emotion.
+
+"I'm sure you're too smart to get wrapped up in all of that, of course." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Was getting tired of pretending to be that sad sack anyhow." His mouth curves into a snarl. "Guards!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"You can go peacefully into my dungeon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>He flinches, regret already building behind his eyes. "If that's my only choice..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Let me out!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Hold on. Maybe we can come to an arrangement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Attack] "It's your funeral."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"What do you propose?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"You give me a discount on svef and I won't interfere with your operations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Attack] "I've changed my mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Nyrid considers you for a moment. "All right, but first I need a sign of good faith from you. Kill Purnisc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Consider him dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"I already have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Nyrid nods. "Then it looks like we're open for business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Nyrid nods. "Once you're done, it's back to business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Nyrid grins. "My good friend [Player Name]. What can I do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Let me have a look at your stock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"I don't suppose an upstanding individual like yourself has come for business..." He glances at the nearby guard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>He grins. "Ever the negotiator. What do you propose?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"You mean you haven't put that together already?" Purnisc smirks. "Let's be clear. You go running to the guards, you're going to regret stepping foot in this place. In fact, I'd put even odds on your regretting every decision you made in your life to leave you standing in front of me right now." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Purnisc rolls his eyes. "Fine. Just spare me your theatrics. What about her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>DEBUG NODE</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Stop!" Nyrid staggers back, holding a bloody hand in front of him. "I give up! Just leave and I'll go peacefully, all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Too late."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Quite the cautious customer." Purnisc smirks. "Let's be clear. You go running to the guards, you're going to regret stepping foot in this place. In fact, I'd put even odds on your regretting every decision you made in your life to leave you standing in front of me right now." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>{DEBUG NODE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"I took care of Purnisc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Yes, we heard." He points at the ceiling. "That one didn't want to go quietly, did he?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

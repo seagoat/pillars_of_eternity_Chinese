@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1012_cv_vithrack_leader</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>88</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You feel a scratching sensation in your head, followed by a sudden high-pitched ringing. Scattered images flash within your mind's eye: You see a mass of nests, set against a cavern wall, stretching up into the darkness. A vast network of webs, somewhere far beneath the surface. You see, too, the sentries you have recently slain, their bodies lying crumpled on the cavern floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Tell me about the vithrack." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Is wanting to know of meat and bones? Or of cities, shining silver? Vithrack are people. Weavers of great things." The vithrack lets out a strange, hissing sound. "Vithrack are missing home. Without nest, vithrack are nothing." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The creature emits a high, piercing whistle of alarm, and rises ominously into the air. All around you, more creatures glide forward. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The vithrack tilts its head in greeting. "[Player Race]-animal returns. It must be cautious in the lower reaches. Many eyes still watching, there." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Tcharek greets you, [Player Race]-animal. It has been below? It has what we seek?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"[Player Race] animal returns." The vithrack regards you curiously. "What does it want?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Welcome, [Player Race]-animal. It is welcome here. Rest, if it likes." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Give Tcharek the items.] "I have all the adra samples." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Leave] "I'll return shortly." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"What will you do now?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Leave] "Farewell." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"We will study what the friend of the colony brought. Will find answers, soon. Take them home. Take the young, too. They... will be tall, when we reach Sstravek'narith." The vithrack makes a hollow, rattling noise. You think it might be laughing. "Tcharek will be old." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Leave] "Farewell." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Tcharek is giving this also. Found in tunnels, and does not suit vithrack. Keeps [Player Race] safe, yes? Will bring fortune." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"What are you doing here?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Master of this place..." The vithrack gestures at the walls around you. "Grew adra. Not cutting, breaking. Growing. Shaping. If vithrack could find secret..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Making great works. Statue. Machines. Vithrack could weave silk and adra both. Our nests become stronger. Colony becomes stronger. All of us, weaving great works." You feel a sudden melancholy from the vithrack. "We are close. Finding machines, crystals. But finding adra men, too, in place below. Have lost many. Too many." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"What exactly are you looking for?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I'll think about it. In the meantime, I had other questions." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Things for study. Things of adra. All in the ruins, below." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Must see how Od Nua makes adra men. Adra... shells, yes? Animal does not need to kill adra men. Just needs shell. Also needing part from machine. Part like a heart of the machine. Adra and shining metal." The vithrack thinks a moment. "Last piece is adra. Not the adra from walls. Is different. Pure. Hard to find. Tcharek is hoping there is some below."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"If [Player Race]-animal brings these things, vithrack owe animal great debt. Will help colony. Help us. Can go home, after so long waiting. For this great thing, Tcharek would reward animal." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I'll go see what I can find." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I don't want any part of this." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The vithrack makes a peculiar clacking sound, and in your mind you feel a hazy gratitude. "Then Tcharek is grateful. Way to ruins lies east. Scouts have carved through stone. Found stairs. Found more than stairs. They guard us, now, from what is beneath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Disappointment settles between you like a thin veil. "Tcharek understands." The vithrack's voice is quiet. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Placeholder node for OnAttack function script - Vithrack leader expresses dismay at being attacked and then attacks player in turn]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Glad to help, Tcharek." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Your scouts weren't so grateful. They tried to ambush me on the way back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Your scouts attacked me on the way here. I'm sorry, but I had to defend myself." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You feel a fading echo of loss run through your mind. "Tcharek sees. Is sorry for what Kestorik does. Is protecting nest, many years. From many things." The vithrack pauses. "[Player Race] is not being harmed, Tcharek hopes." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>You feel phantom fingers tracing your thoughts. "Tcharek sees... Is sorry for what Kestorik does. Tcharek speaks to scouts. Explains. Is not harming [Player Race]-animal. Here. Tcharek gives this. Is making peace, yes?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"That's all I get for helping your colony?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Vithrack remember. Long after sun falls into sea. This is... start of something. New turn of the wheel." Tcharek turns towards the nests lining the wall. "Young will live in better place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"[Player Race]-animal is not satisfied? ...Tcharek has gems. [Player Race]-animal having these. Put to better use." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Do you know anything about the master of this place? Od Nua?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Yes. Animal is not needing to fight." The creature spreads its arms. "Vithrack greet you. Welcome to nest. Animal is keeping peace." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Your scouts attacked me on the way back. Is that how Vithrack thank those who help them?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Leave] "I'll be on my way." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I've already been down there. I think I have some things that might interest you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>When the images fade, you see another of the spider-faced creatures standing before you. It raises its clawed hands. You feel another twinge inside your skull, and then words emerge within your mind, in a voice wholly alien to your thoughts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Orech! Duvathi na rot uvraec nat." The creature pauses, its fangs twitching. "...Caledina fosta agrengidare?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Sorry, but I do not understand." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Do you know any Aedyran?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Get out of my head, creature. We have nothing to talk about." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Attack before it can say more.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>The creature makes a strange, chittering noise. In your head, you hear: "Aedyre-tongue. Many turns of wheel since last given thought... Animal is trespassing. Nests are here. Risk much in defending. Protectors are dead - animal is sated? Animal listens, now?" The creature makes a clacking sound. "Not fighting?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"I am not an animal!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"I'll listen. There's no need for more fighting." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Those guards attacked me first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>The creature regards you silently for a moment. "[Player Race] animal," it corrects, simply.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"What languages were you speaking before?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>The vithrack makes a chittering sound, and does not answer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Guards have not survived attempt," the creature notes calmly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Attack] "I'll show you an animal, spider-face." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"I think your Aedyran needs some work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Many years, unspoken. Many... accents. Eld tonge frae ylfen laerds. Forgetting much." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"But animal jests. Speaks, yes? Not place for fighting. Nests must remain safe." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>The creature stares at you, unblinking, for a few long moments. "Good," you hear. "Then vithrack wish swift journey." It takes a step back, and the ringing in your head fades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>There's an audible growl from the creature before you. But the voice in your head is calm. "Aedyre-tongue. Animal is first in many years. Animal is trespassing." It points a claw towards the path behind you. "Killed defenders of nest. Animal is finished? ...Will speak?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>The creature makes a strange, chittering noise. In your head, you hear: "Aedyre-tongue. Many turns of wheel since last given thought... Animal is trespassing. Nests are here. Protectors are dead - animal is finished? Animal listens, now? Not fighting?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Fine, I'll listen. But you'd better not try anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"No trying," the creature agrees, pleased. "Vithrack greet you. Welcome to nest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>The vithrack runs a talon along one of its fangs, thinking. "Eret narek Od Nua... Name bleeds through walls, but vithrack do not know face, voice. Vithrack see great works. See... statue, yes?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Master of many things. Master of adra. Of many voices, trapped in stone." The vithrack points back towards the rest of the caverns. "Of things below." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Much to admire." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"As spoken." The vithrack's mouthparts twitch. "Master's name old when vithrack came. Only work remains. Great works." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>The vithrack looks at you for a moment, then down at itself. Back. "What is [Player Race] animal? Vithrack people... see what others do not. See light inside dull shell." It points at you. "See great and burning light." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Vithrack speak without voices, and in many. Hundreds of souls, in great city. Sstravek'narith - is colony. A great journey. Animal would walk long time, to reach it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"What's the colony like?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I had other questions." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"That is a very old dialect. Do you know any Aedyran?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Farewell." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>You feel another passing itch in your skull, and then a rippling echo of joy. "Then vithrack owe a great debt. With these, we study, learn Master's secrets. We make statues greater than old, dead master of hollow place. Sstravek'narith will gleam like the sea." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I'll be on my way, then." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Vithrack thank you. Is having coin. Is custom, yes? Vithrack have coins of many ages. Will give many." He thinks a moment. "If [Player Race]-animal goes still into the deep places, should talk to Krivi. Krivi has supplies. Will help." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>The vithrack only inclines its head slightly, as if to motion you on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"We are sensing change in air. Endless Paths quiet, now. [Player Race]-animal changes much. Tcharek gives respect." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Great light, in darkness." The vithrack's voice seems somber, for all its peculiarly ethereal quality. "Many hearts, lives, together. Building." The vithrack bows its head. "Some day, we return." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"After what I've seen, I don't know that you want to start bringing this stuff to your colony." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Not needing to worry. Master Od Nua is skilled, but... is not vithrack. Vithrack making all this, and better. Not needing very much more. Only few things, for studying." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Vithrack... searching. Seeking knowledge for home. For colony, Sstravek'narith. Far away. Long time, we have searched. We grew sick with... memory. Of home. Made nests. Made new home. And found what we seek." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>You can feel the vithrack's surprise like an echo of your own feeling. "[Player Race] speaks true? It brings fortune where it walks. Let Tcharek see..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>It regards you with sudden interest. "[Player Race]-animal is strong. Defeated other animals. Killed guards. Could help vithrack."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Animal must explain task, and Kestorik lets pass in peace." Tcharek pauses. "Kestorik is not kind. Animal is taking care." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Trigger Conv Node 108</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>The creature makes a strange, chittering noise. In your head, you hear: "Aedyre-tongue. Many turns of the wheel since last given thought... Animal is trespassing. Nests are here. Risk much in defending. Animal listens?" The creature makes a clacking sound. "Not fighting?" </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

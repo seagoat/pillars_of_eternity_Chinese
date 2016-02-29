@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_defiance_bay_first_fires\02_cv_nervous_initiate</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>52</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A lone figure paces back and forth, tapping his fingers at his sides, muttering to himself. He jumps when he sees you, his hands on his chest. "By the flame, you startled me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>He pauses and leans forward. "Where's your mask?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"That's it! I knew I'd left something at home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"It's too itchy. I'll put it back on for the meeting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"What mask?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>He cocks his head, as if to get a better look at you. "I don't think you're supposed to be here."
+
+He cups a hand to the front of his mask. "We have an intruder!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"You need something else? I'll be ready for the initiates' meeting soon. Honest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Well, don't let anyone inside see you without it. They're keen on anonymity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Tell me about the meeting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"What are you doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Can I borrow your hood?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>He resumes his pacing. "I've been practicing the passphrases. I know them backwards and forwards, but I get so nervous every time I think about repeating them to the Acolyte." He wrings his hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"You can practice on me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Why are you nervous?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>He stops in his tracks. "I've never seen the Acolyte's face, but I can't stop wondering what she looks like under that robe..." He twists his fingers together. "And when she peers into my mind, I'm afraid she'll catch me thinking about that."
+
+You hear him swallow. "Also, if I get the passphrases wrong, she'll kill me where I stand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"You should just stop thinking about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I know!" He grabs the sides of his robe. "But the more I tell myself to stop thinking about it, the more I think about it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Fifth question - And how is your oath guarded? Answer - It is sealed by the Leaden Key."
+
+He sighs with a nervous chuckle. "That wasn't so hard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Try it again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Sounds like you've got it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"This must be your first time. The Acolyte communicates with each of us individually to hear of our progress on old tasks and to assign us new ones."
+
+He shivers with a mixture of pleasure and dread. "It's a... unique process. She's a cipher, so she can speak to you without words. Fascinating, until you realize she can probably read your thoughts just as easily."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Of course not!" He clutches at the edges, as if you'd threatened to rip it off of him. "The Acolyte will kill me for sure if I approach her without it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"And I'll kill you if you don't give it to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I promise I'll bring it right back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Fine, take it! Just don't tell the Acolyte you got it from me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Goodbye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I do! I think..." He bites his lip. "I'm just going to practice a few more times by myself before my meeting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I just need to stay here and practice a few more times." He clears his throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"'...by the deeds of my tongue and-' oh, that's not it..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I guess there's no harm... Just don't tell anyone I gave it to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"We've been entrusted with important work. It's an honor, but not without its challenges."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Forget about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"The Acolyte is no one to be trifled with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"What do you know about these tasks?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>He laughs nervously. "Only what I absolutely need to. We protect the secrets of the gods, so discretion is essential." 
+
+He waves a hand between the two of you. "We receive our instructions from the Acolyte, just as she receives hers from someone else, and so on, right up to the Grandmaster. Our role is to obey, knowing as little about the overall plan - and each other - as possible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Tell me about these secrets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"How can you be confident you're doing the right thing when you know so little?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>He jumps back. "You shouldn't even be asking! Whatever they are, they're secrets for a reason. Our job is to guard them, not to know them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>He snorts. "That's easy. The Leaden Key has been around for ages by the blessing of the gods. You only have to look around to see the perils of trying to usurp divine power. Killing a god in the Saint's War has cursed us all, and the heresy of animancy has only worsened matters. Try to replace a soul, and you inevitably end up with a monster.
+
+"It's all been a warning. There are some powers we just shouldn't have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Shouldn't you be in the meeting, Attendant? The Acolyte's waiting for you." He clasps his hands, his thumbs twitching.
+
+"It's not time for the initiates' meeting, is it?" He twiddles his fingertips. "I'll be ready. Soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Okay." He ushers in a deep breath with fluttering hands. "Here goes.
+
+"First question - State your name and purpose. Answer - My name belongs to the gods and my hand to their service.
+
+"Second question - What company do you seek? Answer - I seek the company of shadows, that our labors may remain secret."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Third question - Tell me of your labors. Answer - To see that the craft of kith and wilder does not disturb what bones the gods have buried.
+
+"Fourth question - How do we know your purpose? Answer - You shall know it by the confession of my tongue, the deeds of my hand, and the oath on my soul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Here's your hood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Oh, thank you." He pulls it over his head. "I'm still not ready, though. Please, don't wait on me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Bank Node 48</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Hah! Then look beneath the robe, I say. Fail her test but succeed in the more important one. Once you have nothing to hide, a cipher's got no power over you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Bank Node 50</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Riddles upon riddles. 'What bones the gods have buried'. It's very dramatic, isn't it? ...Oh, I'm sorry, please continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Aloth leans toward you and mutters between clenched teeth. "You can't be serious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Heed his fears, Watcher. This place is filled with treacherous minds."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

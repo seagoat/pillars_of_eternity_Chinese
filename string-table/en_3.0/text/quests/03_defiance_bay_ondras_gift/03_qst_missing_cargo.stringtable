@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_defiance_bay_ondras_gift\03_qst_missing_cargo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>All Hands on Deck</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Find Marceno's missing crate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Return to Marceno.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Defeat Waldr and his band.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>While exploring Ondra's Gift, I've discovered that a sea chest has been stolen from one of the ships docked at the pier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Marceno, a young sailor, has confided in me that Captain Fortanero's sea chest was stolen whilst he was distracted. Fortunately for Marceno, his captain is enjoying himself on shore, and has yet to hear of the incident. Marceno has pleaded with me to find this chest before the captain returns. It is unlikely they've made it out of Ondra's Gift yet, I should start my search here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10028</ID>
+      <DefaultText>I located the chest that was stolen from Marceno's ship. He'll be happy to learn that I've located and dealt with the thieves who took it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10032</ID>
+      <DefaultText>The thieves who stole the chest Marceno was supposed to be looking after aren't going to give it up without a fight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>I appear to have located the thieves. I'll have to deal with them if I am to recover the chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I have opened the chest to find that Captain Fortanero's 'prized possessions' consist of his captain's hat and rapier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>With the thieves dead I can collect the chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Marceno was very happy to learn that I'd recovered the chest with its contents intact. I'm sure he'll keep a better eye on it from now on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I returned the stolen sea chest to a very grateful Marceno. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>I gave Marceno his chest back but kept the hat and sword inside it. His Captain will probably be very upset when he finds out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>I dealt with the thieves responsible for the theft of Fortanero's sea chest, and let Marceno know where it could be found. He was very grateful. Looks like things should work out for him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Marceno is dead and cannot reward me for finding the chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30010</ID>
+      <DefaultText>I told Marceno I was keeping the Captain's hat and rapier. He ran off to flee the Captain's vengeance, leaving me to enjoy my new hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30011</ID>
+      <DefaultText>Someone critically important to this quest has died.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,706 @@
+<StringTableFile>
+  <Name>conversations\companions\companion_cv_durance_v2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>129</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>石 像 旁 蹲 著 一 個 其 丑 無 比 的 男 子 ， 通 紅 的 面 頰 上 滿 是 傷 疤 ， 留 著 蓬 亂 的 胡 須 。 滿 身 大 汗 ， 像 是 發 燒 一 樣 ， 但 他 的 呼 吸 卻 又 很 均 勻 穩 重 … … 就 像 是 鐵 匠 低 沉 的 呼 吼 一 樣 ， 這 樣 比 喻 顯 然 很 怪 異 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>另 一 個 對 比 ， 由 他 半 露 的 牙 齒 而 起 ， 那 究 竟 是 陷 阱 … … 還 是 … … 不 知 從 何 處 彌 漫 起 來 的 煉 金 火 的 氣 味 … … 在 你 辨 認 出 那 氣 味 的 同 時 ， 又 消 散 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>問 號 已 經 淡 去 。 當 那 男 人 說 話 時 ， 從 石 像 發 出 一 股 微 紅 的 光 ， 仿 佛 是 拿 著 一 束 火 把 似 的 ， 逐 漸 變 為 一 團 閃 爍 的 火 焰 。 這 個 過 程 中 ， 男 子 都 沒 有 轉 身 過 去 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「 其 他 人 也 歡 迎 ， 只 是 你 我 最 好 單 獨 談 談  ， 你 的 隨 從 最 好 乖 乖 站 好 ， 交 出 他 們 的 武 器 — — 奧 術 和 刀 具 都 要 。 」
+
+他 鋼 鐵 般 的 胡 子 擋 住 了 他 的 笑 臉 ， 呼 之 欲 出 。 「 反 正 我 只 打 算 與 你 交 談 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「 自 己 走 吧 。 」 語 氣 十 分 明 確 。 「 我 們 最 好 能 談 談 ， 但 你 得 放 下 手 中 的 武 器 。 奧 術 和 刃 具 都 是 。 」
+
+他 的 表 情 很 放 松 ， 胡 子 中 露 出 的 笑 臉 淡 去 。 「 總 之 ， 我 只 打 算 與 你 一 人 交 談 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「 我 在 那 賤 人 面 前 發 誓 ， 在 她 的 庇 護 下 ， 馬 格 蘭 是 絕 不 會 傷 害 你 的 ， 如 果 你 覺 得 可 信 。 如 果 不 … … 」
+
+他 的 手 中 突 然 出 現 一 個 物 件 — — 前 一 秒 鍾 都 還 不 存 在 的 東 西 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「 那 婊 子 是 馬 格 蘭 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「 你 做 出 的 選 擇 — — 你 所 侮 辱 的 ， 正 是 我 的 信 仰 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「 奇 怪 的 選 擇 。 石 頭 似 乎 冰 冰 的 很 舒 服 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[檢 查 雕 像 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[打 量 這 男 人 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[仔 細 的 查 看 這 個 物 件 。]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「 我 並 不 認 識 你 — — 或 者 該 說 你 為 什 麼 想 和 我 說 話 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[離 開 ]「 我 不 需 要 和 你 交 談 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>石 像 發 出 的 搖 曳 的 火 光 並 沒 有 溫 度 ， 以 至 於 你 開 始 認 為 這 是 不 是 某 種 意 識 層 面 的 把 戲 … … 你 面 前 的 丑 陋 男 子 似 乎 並 沒 有 注 意 到 ， 或 者 感 覺 到 ， 雖 然 他 眉 毛 上 的 陰 影 還 在 ， 仿 佛 是 被 從 內 部 點 燃 一 樣 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>男 人 對 你 的 話 一 陣 嗤 笑 … … 然 後 點 了 點 頭 ， 他 的 眼 睛 始 終 注 視 著 你 。 「 我 能 做 的 更 好 。 只 是 路 更 加 的 … … 不 同 。 」 他 的 眼 睛 掃 視 著 你 的 全 身 ， 然 後 突 然 一 聲 嗤 笑 。 「 到 剛 才 為 止 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「 世 上 有 許 多 我 們 崇 拜 的 賤 貨 。 誠 心 誠 意 的 尊 敬 。 」
+
+「 我 猜 你 一 定 會 反 對 用 本 能 換 取 一 些 小 錢 … … 或 者 說 用 數 不 清 的 方 式 支 付 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>男 人 聳 聳 肩 ， 很 隨 意 的 在 輕 視 的 同 時 加 上 進 一 步 的 侮 辱 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「 要 是 我 有 任 何 冒 犯 … … 」 男 人 臉 上 掛 著 露 齒 的 笑 容 ， 簡 直 就 是 挑 撥 。 「 如 果 一 個 人 就 只 能 說 — — 那 麼 為 何 ， 在 迪 伍 德 的 那 麼 多 地 方 ， 他 卻 不 能 自 由 的 言 論 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>馬 格 蘭 石 像 的 火 焰 突 然 變 得 極 不 穩 定 ， 釋 放 出 更 多 的 光 照 在 他 的 五 官 上 。 男 人 的 長 袍 很 髒 ， 被 油 脂 和 路 上 其 他 污 漬 所 弄 髒 … …
+
+長 袍 的 邊 緣 ， 包 括 衣 袖 ， 的 邊 緣 都 有 燒 焦 的 痕 跡 ， 仿 佛 他 在 火 中 行 走 了 很 長 的 一 段 路 ， 然 後 用 手 伸 進 火 中 拿 出 某 物 似 的 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>雖 然 他 的 雙 手 厚 實 還 長 滿 老 繭 ， 但 都 沒 有 任 何 燒 傷 的 痕 跡 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>這 東 西 看 起 來 很 厚 ， 很 結 實 ， 表 面 被 大 火 燒 的 焦 黑 。 在 焦 黑 的 灰 的 下 層 ， 木 塊 上 的 線 條 像 是 某 種 紋 路 … … 可 以 確 信 的 是 這 物 體 曾 經 是 一 件 極 度 危 險 的 物 品 … … 曾 經 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>仔 細 研 究 後 ， 它 微 微 的 發 出 光 芒 ， 像 是 水 透 過 石 像 折 射 光 線 。 不 知 那 東 西 曾 經 蘊 藏 著 何 種 力 量 ， 完 全 不 使 這 東 西 — — 或 者 說 這 怪 異 東 西 的 — — 危 險 性 降 低 一 分 。
+
+你 抬 起 頭 看 著 盯 著 你 研 究 那 東 西 的 人 。 他 一 面 盯 著 你 ， 一 面 點 頭 ， 帶 著 一 幅 皮 笑 肉 不 笑 的 笑 容 。 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「 我 並 沒 有 交 出 那 個 。 」 那 人 喃 喃 自 語 。 「 也 許 你 也 和 我 一 樣 找 到 些 無 用 的 名 字 … … 」 他 握 緊 手 中 的 物 體 。
+
+「 這 些 名 字 就 像 是 饒 舌 的 廢 話 一 樣 擾 亂 著 世 界 ， 那 又 如 何 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「 皮 膚 之 下 ， 那 些 信 才 是 我 所 擔 心 的 ， 被 一 同 燒 毀 了 。 對 我 而 言 重 要 的 不 是 你 用 方 言 偽 裝 成 的 怪 異 的 王 子 什 麼 的 ， 而 是 你 是 通 魂 者 這 個 事 實 。 」
+
+「 以 你 的 行 動 為 豪 吧 ， 不 用 在 意 你 的 出 身 … … 」 男 人 手 中 的 物 體 一 霎 間 蹦 出 火 花 ， 然 後 余 燼 落 地 。 「 … … 這 是 那 些 撒 謊 者 隨 意 說 出 你 的 名 字 所 導 致 的 後 果 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「 如 果 你 需 要 一 個 符 合 身 份 的 大 義 名 分 ， 通 魂 者 ， 那 就 管 我 叫 杜 蘭 斯 。 你 負 責 觀 察 靈 魂 ， 而 我 來 測 試 他 們 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>「 你 是 怎 麼 知 道 我 是 通 魂 者 的 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>「 你 是 什 麼 意 思 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>「 你 是 怎 麼 來 的 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>「 我 想 我 們 已 經 談 的 足 夠 了 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>「 我 可 不 這 麼 覺 得 。 我 知 道 你 … … 而 你 也 該 了 解 了 解 我 ， 這 才 算 公 平 ， 要 是 你 還 沒 從 你 的 所 見 推 測 出 來 的 話 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>「 我 是 個 傳 教 士 。 我 來 到 這 個 病 態 的 國 度 ， 這 些 異 教 徒 ， 這 兒 的 人 是 如 此 的 不 關 心 他 人 和 自 己 的 精 神 。 通 魂 者 ， 也 是 一 樣 。 」
+
+「 是 的 ， 我 很 清 楚 你 是 什 麼 人 ， 但 我 對 你 的 名 號 並 不 感 興 趣 。 名 字 只 對 誠 實 的 人 有 意 義 ， 而 你 是 在 別 的 什 麼 地 方 … … 閃 耀 的 異 類 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>杜 蘭 斯 搖 搖 頭 ， 緊 緊 握 住 手 中 的 物 體 。 「 我 可 以 預 見 問 題 層 出 不 窮 。 來 把 它 們 燃 燒 殆 盡 ， 一 個 一 個 來 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>「 我 們 注 定 要 在 一 起 ， 你 和 我 。 我 從 火 焰 中 看 到 了 你 … … 雖 然 不 是 你 的 臉 龐 ， 但 卻 是 你 的 靈 魂 。 」 他 又 開 始 嘟 囔 ， 並 瞇 起 眼 。 「 一 切 都 緊 緊 綁 定 在 一 起 ， 就 像 獵 人 的 繩 結 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>「 你 在 火 焰 中 看 到 了 我 的 靈 魂 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>「 那 麼 你 覺 得 你 有 什 麼 可 給 我 的 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>「 我 不 想 與 你 為 伍 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>「 我 們 可 以 互 相 學 習 ， 要 是 你 有 任 何 問 題 需 要 答 案 的 話 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>「 若 不 是 你 ， 我 也 不 會 如 此 煞 費 口 舌 。 我 才 不 在 意 你 和 什 麼 人 一 路 ， 也 不 在 意 他 們 抱 著 什 麼 問 題 ， 有 什 麼 鬼 規 矩 … … 盡 管 我 沒 有 保 住 那 團 火 ， 這 世 上 已 經 有 太 多 嚎 叫 。 」
+
+「 我 不 需 要 你 的 補 給 ， 路 上 也 不 需 要 多 少 。 我 會 照 顧 好 我 自 己 … … 」 他 深 呼 吸 一 口 ， 又 再 一 次 讓 你 感 受 到 鐵 匠 般 的 低 吼 ， 他 笑 著 ， 充 滿 自 豪 的 說 。 「 這 真 的 值 得 考 慮 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>「 許 多 人 都 會 來 阻 止 你 的 。 」 他 盯 著 你 看 了 一 會 兒 ， 皺 起 眉 頭 。 「 他 們 也 許 已 經 出 現 了 ， 依 我 看 … … 他 們 留 下 的 記 號 ， 似 乎 ， 像 是 一 股 線 索 ， 通 向 你 的 線 索 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>「 什 麼 記 號 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>「 一 路 上 最 好 能 有 個 照 應 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>「 如 果 你 古 板 的 情 婦 認 同 的 話 ， 那 就 來 吧 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>「 我 不 需 要 你 的 幫 忙 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>他 盯 著 你 的 臉 ， 然 後 看 向 你 的 眼 睛 — — 期 初 感 覺 很 無 力 ， 而 後 逐 漸 集 中 起 來 。 「 疾 病 ？Spirit wind？ 」 他 聳 聳 肩 。 「 你 很 有 可 能 都 接 觸 過 ， 而 現 在 你 還 能 站 著 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>「 對 於 疾 病 … … 」 他 扣 破 臉 上 的 皰 疹 。 「 當 皰 疹 來 襲 的 時 候 ， 並 不 是 所 有 人 都 在 水 邊 ， 但 我 已 經 好 了 。 雖 然 還 是 留 下 了 疤 痕 。 」
+
+「 就 像 火 焰 ， 皰 疹 只 會 發 一 次 ， 若 是 染 上 的 話 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>「 你 覺 得 我 是 個 包 袱 ？ 」 杜 蘭 斯 的 表 情 扭 曲 為 嘲 諷 狀 。 「 我 可 是 來 幫 你 的 ， 通 魂 者 。 而 你 能 幫 我 的 最 多 也 就 只 能 同 意 我 和 你 一 同 前 行 。 」
+
+「 戰 斗 方 面 我 在 行 ， 要 是 你 擔 憂 戰 力 問 題 的 話 。 如 果 你 需 要 ， 我 還 能 治 療 傷 口 ， 並 提 出 意 見 … … 只 要 你 開 口 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>「 我 之 前 也 說 過 ， 我 不 需 要 你 的 幫 忙 。 再 見 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>「 她 ？ 」 杜 蘭 斯 瞥 了 一 眼 石 像 ， 然 後 小 聲 嗤 笑 。 「 不 要 畏 懼 她 的 嫉 妒 。 」 接 著 嗤 笑 變 為 完 全 的 大 笑 ， 發 自 內 心 的 笑 。 「 讓 我 們 看 看 這 路 上 還 有 什 麼 吧 ， 通 魂 者 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>杜 蘭 斯 裂 開 笑 容 。 「 一 起 走 吧 ， 通 魂 者 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>杜 蘭 斯 臉 一 崩 ， 握 緊 手 中 的 東 西 。
+
+看 來 似 乎 欲 言 卻 止 ， 然 後 釋 懷 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>「 通 魂 者 。 」 杜 蘭 斯 把 帶 有 皰 疹 傷 疤 的 臉 湊 到 你 的 面 前 ， 雙 眼 放 光 ， 急 切 的 說 。 「 我 以 為 你 也 許 會 有 不 同 的 看 法 。 再 次 的 ， 我 們 三 人 — — 你 ， 我 ， 還 有 那 個 賤 貨 。 你 有 沒 有 改 變 主 意 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>「 就 感 覺 你 在 看 我 。 現 在 直 接 說 出 來 了 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>「 那 你 現 在 怎 麼 說 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>「 有 什 麼 困 擾 你 的 嗎 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>「 你 的 臉 上 寫 滿 了 需 求 。 」 杜 蘭 斯 輕 輕 嗤 鼻 。 「 你 不 說 出 來 的 話 總 有 一 天 會 全 部 爆 發 出 來 的 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>「 我 本 有 一 些 問 題 想 要 問 你 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>「 你 給 我 走 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>「 讓 我 們 再 一 起 行 動 吧 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>「 別 介 意 。 走 吧 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>杜 蘭 斯 似 乎 一 時 間 沒 有 認 出 你 ， 眨 巴 眨 巴 眼 ， 皺 著 眉 頭 ， 問 道 。 「 怎 麼 了 ， 通 魂 者 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>「 你 已 經 摒 棄 了 我 的 名 字 。 我 怎 麼 的 你 了 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>「 你 沒 事 吧 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>「 我 們 了 解 的 有 關 沃 伊 迪 卡 的 事 困 擾 你 了 嗎 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>「 這 … … 這 是 沃 伊 迪 卡 的 陰 謀 。 」 一 滴 汗 珠 順 著 杜 蘭 斯 的 前 額 流 下 來 ， 沿 著 臉 頰 往 下 流 ， 流 過 他 的 皰 疹 疤 痕 。 「 你 信 不 信 我 的 話 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>「 是 的 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>「 我 不 知 道 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>「 我 不 信 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>「 她 簡 直 糟 透 了 … … 這 是 正 義 … … 但 是 … … 如 果 她 的 最 終 目 的 是 … … 」 他 的 臉 被 憤 怒 所 扭 曲 。 「 一 想 到 馬 格 蘭 要 成 為 這 樣 謊 言 的 犧 牲 品 … … 」
+
+「 至 於 伊 奧 薩 斯 … … 懷 德 溫 總 是 在 說 要 侵 入 迪 伍 德 釋 放 它 。 萬 一 是 真 的 呢 ？ 萬 一 他 真 的 在 開 始 之 前 就 來 阻 止 沃 伊 迪 卡 呢 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>「 的 確 ， 伊 奧 薩 斯 在 Godhammer Citadel犧 牲 了 ， 但 不 是 因 為 那 些 原 因 … … 不 是 為 了 讓 他 閉 嘴 。 」
+
+「 要 是 在 這 場 混 沌 中 孕 育 出 了 那 樣 的 東 西 … … 」 杜 蘭 斯 斜 著 腦 袋 ， 仿 佛 是 在 傾 聽 著 什 麼 一 樣 … … 他 皺 起 眉 頭 ， 說 話 的 同 時 ， 眉 間 鎖 的 也 越 緊 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>杜 蘭 斯 一 臉 憤 怒 ， 他 的 身 體 顫 抖 著 。 說 。 「 我 們 注 定 只 能 是 諸 神 的 工 具 嗎 ？ ！ 如 果 沃 伊 迪 卡 … … 和 馬 格 蘭 … … 如 果 他 們 就 是 這 一 切 的 元 凶 … … 空 心 種 … … 如 果 從 一 開 始 就 不 需 要 什 麼 淨 化 … … 如 果 伊 奧 薩 斯 進 行 反 擊 的 話 … … 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>「 而 你 … … 『 神 錘 』 沒 能 拯 救 迪 伍 德 。 一 切 都 是 注 定 的 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>「 必 須 有 人 阻 止 伊 奧 薩 斯 。 沃 伊 迪 卡 也 是 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>「 無 論 什 麼 起 因 ， 伊 奧 薩 斯 依 然 試 圖 抹 殺 其 他 人 ， 將 他 的 意 願 強 加 給 別 人 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>「 空 心 種 是 另 一 位 神 的 罪 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>「 淨 化 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>「 備 份 了 知 識 ， 這 樣 真 的 好 嗎 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>「 要 吸 納 的 有 很 多 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>「 太 多 的 謊 言 … … 」 杜 蘭 斯 的 身 體 持 續 發 抖 ， 他 的 雙 手 緊 捏 成 拳 。 汗 水 從 臉 的 一 側 流 下 來 。 「 … … 然 後 沃 伊 迪 卡 … … 也 許 她 就 是 下 一 個 倒 在 神 錘 之 手 的 神 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>杜 蘭 斯 僵 住 了 ， 他 深 深 的 ， 慢 慢 的 吸 了 一 大 口 氣 ， 以 使 自 己 回 復 平 靜 。
+
+「 我 知 道 。 」 杜 蘭 斯 好 像 … … 雖 然 只 有 一 小 段 時 間 ， 變 得 萎 靡 不 振 。 「 必 須 完 成 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>杜 蘭 斯 僵 住 了 ， 他 深 深 的 ， 慢 慢 的 吸 了 一 大 口 氣 ， 以 使 自 己 回 復 平 靜 。
+
+「 我 知 道 。 」 杜 蘭 斯 歎 了 口 氣 。 「 必 須 完 成 它 … … 還 … … 中 間 有 幾 次 差 點 就 放 棄 了 。 」
+
+他 的 臉 一 沉 。 「 沃 伊 迪 卡 … … 她 必 須 為 她 自 己 的 正 義 給 出 答 案 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>「 不 … … 」 杜 蘭 斯 冰 冷 的 說 。 「 這 … … 很 高 興 能 與 你 一 起 共 同 前 進 至 今 ， 知 曉 真 相 … … 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>「 … … 或 許 ， 我 是 命 中 注 定 要 看 到 這 一 幕 。 」 他 瞥 了 你 一 眼 ， 警 覺 的 說 。 「 通 過 通 魂 者 之 眼 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>「 一 切 的 言 語 和 陰 謀 … … 人 造 的 機 械 ， 扭 曲 了 … … 奪 取 孩 子 的 靈 魂 。 在 神 的 旨 意 下 。 正 義 的 女 神 。 」
+
+「 如 果 我 能 像 終 結 伊 奧 薩 斯 那 樣 了 結 掉 她 … … 我 … … 」 他 深 呼 吸 ， 瞇 起 眼 。 「 馬 格 蘭 曾 經 一 度 燒 毀 了 她 。 那 就 能 燒 第 二 次 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>他 臉 色 一 沉 。 「 沃 伊 迪 卡 … … 她 必 須 為 她 的 正 義 而 給 出 答 案 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>「 正 義 ？ 還 是 復 仇 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>「 這 些 行 徑 … … 與 沃 伊 迪 卡 如 出 一 轍 ， 她 真 正 的 目 的 — — 或 者 該 說 斯 坎 的 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>「 不 … … 」 杜 蘭 斯 冰 冷 的 說 。 「 不 ， 不 是 的 。 這 … … 很 高 興 能 與 你 一 起 共 同 前 進 至 今 ， 知 曉 真 相 … … 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>「 攜 有 精 神 碎 片 的 人 都 在 尋 求 著 正 義 和 懲 罰 ， 它 在 每 個 人 的 心 中 灼 燒 。 」 杜 蘭 斯 皺 著 眉 頭 ， 緊 握 雙 拳 。 「 都 在 尋 求 這 個 。 」
+
+「 如 果 這 個 世 界 並 不 平 衡 ， 我 們 就 將 在 沉 溺 在 大 海 中 … … 而 眾 神 也 不 會 介 意 絲 毫 。 」
+
+「 馬 格 蘭 — — 她 必 須 得 到 救 贖 ， 並 懲 罰 沃 伊 迪 卡 … … 一 切 就 都 成 了 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>「 馬 格 蘭 並 不 是 很 合 作 呢 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>「 馬 格 蘭 和 沃 伊 迪 卡 是 一 伙 的 。 她 試 圖 殺 死 所 有 神 錘 的 創 造 者 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>杜 蘭 斯 看 向 你 ， 然 後 他 縮 回 雙 唇 ， 發 出 嗤 笑 。 「 這 是 在 和 我 開 什 麼 終 極 玩 笑 嗎 ？ 是 想 要 測 試 我 的 信 念 ？ 」 他 笑 著 ， 粗 狂 且 大 聲 。 「 你 為 什 麼 那 樣 想 ？ 通 魂 者 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>「 我 也 不 確 定 — — 這 只 是 我 的 感 覺 罷 了 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>「 因 為 她 不 想 任 何 人 知 道 制 作 神 錘 的 經 過 。 沒 有 人 知 道 具 體 的 制 作 工 序 ， 除 了 少 數 馬 格 蘭 的 人 … … 比 如 你 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>「 當 你 前 往 Halgot Citadel攻 打 伊 奧 薩 斯 時 ， 途 中 沒 人 認 出 你 ， 對 嗎 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>「 為 什 麼 一 個 女 神 在 離 開 她 的 居 城 Ashfall時 會 要 隱 藏 她 的 士 兵 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>「 你 說 你 沒 有 告 訴 任 何 人 ， 就 離 開 了 Ashfall？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>「 其 他 制 造 神 錘 的 人 。 都 死 了 ， 不 是 嗎 ？ 所 以 我 才 從 你 的 東 西 上 看 到 他 們 的 符 號 變 淡 了 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>杜 蘭 斯 又 笑 起 來 。 「 這 就 是 你 的 全 部 ？ 感 覺 ？ 」 他 咆 哮 著 說 。 「 憑 感 覺 我 就 能 把 所 想 的 統 統 說 出 來 … … 」 他 搖 搖 頭 。 「 消 失 吧 ， 我 想 靜 靜 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>杜 蘭 斯 皺 著 眉 — — 盯 著 你 ， 慢 慢 淡 去 了 臉 上 的 笑 容 。 「 如 果 你 就 只 會 一 味 的 提 問 ， 那 我 就 受 夠 你 了 。 她 就 是 諸 神 之 中 的 賤 貨 … … 但 就 算 是 婊 子 也 是 神 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>杜 蘭 斯 沉 默 了 ， 當 他 再 度 發 聲 時 ， 聲 音 極 為 的 低 沉 和 緩 慢 ， 謹 慎 萬 分 地 。 「 你 用 一 個 問 題 來 回 答 被 問 到 的 問 題 。 」 他 皺 著 眉 。 「 為 什 麼 我 覺 得 她 在 Halgot很 失 望 ？ 我 們 出 錯 了 嗎 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>「 我 想 大 概 是 因 為 她 打 算 在 那 殺 死 你 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>杜 蘭 斯 用 看 瘋 子 的 眼 神 看 著 你 ， 然 後 又 嘲 諷 的 說 。 「 殺 我 ？ 」 他 笑 出 來 ， 大 聲 的 笑 。
+
+「 她 可 是 女 神 。 我 現 在 還 從 她 那 火 熱 的 大 胸 吮 吸 乳 汁 呢 ， 通 魂 者 。 」 他 的 臉 紅 透 了 ， 緊 緊 捏 住 手 中 的 東 西 。 「 如 果 她 想 要 我 死 ， 她 大 可 追 溯 回 我 的 起 源 殺 死 我 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>「 在 神 錘 的 夢 中 ， 你 的 精 神 看 起 來 … … 渾 濁 不 清 ， 難 以 辨 認 好 像 已 經 從 你 的 身 體 被 割 裂 下 來 一 樣 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>杜 蘭 斯 盯 著 你 ， 他 的 表 情 凝 住 了 — — 但 他 靜 靜 的 ， 靜 靜 的 聽 著 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>「 當 我 們 請 求 她 的 時 候 ， 她 根 本 沒 認 出 你 — — 你 知 道 的 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>「 要 是 你 真 如 我 在 神 錘 視 角 看 到 的 那 樣 受 傷 的 話 ， 那 麼 也 許 她 無 法 看 到 你 曾 經 的 樣 子 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>杜 蘭 斯 轉 過 背 去 。 他 若 有 所 思 的 扭 曲 了 面 龐 ， 他 的 面 部 充 滿 了 矛 盾 。
+
+最 終 ， 他 轉 向 你 ， 表 情 穩 定 很 多 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>「 如 果 你 不 相 信 我 ， 那 你 該 相 信 你 手 中 的 東 西 。 接 受 其 它 神 錘 創 造 者 已 死 的 現 實 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>杜 蘭 斯 看 著 手 中 的 東 西 ， 過 了 一 會 兒 ， 你 看 到 他 的 眼 睛 燒 了 起 來 ， 攝 入 了 木 頭 的 邊 緣 ， 標 識 就 嵌 在 那 兒 … … 十 一 個 淡 化 的 圓 環 … …</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>但 你 的 視 線 恢 復 過 來 ， 你 看 到 杜 蘭 斯 ， 他 的 手 中 握 著 那 東 西 ， 雙 眼 發 亮 ， 火 燒 一 樣 的 紅 。 在 那 東 西 的 頂 部 ， 火 焰 清 晰 ， 鮮 明 的 燃 燒 著 。 他 看 向 火 焰 ， 後 猛 的 移 開 視 線 並 嚎 叫 起 來 ， 撕 心 裂 肺 的 嚎 叫 ， 像 是 一 只 受 傷 的 野 獸 ， 淋 漓 的 大 汗 從 眉 間 滴 下 來 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>他 仔 細 的 研 究 了 那 東 西 ， 你 感 受 到 一 股 熱 浪 ， 熱 浪 中 蘊 藏 著 一 股 可 怕 的 能 量 ， 力 量 之 大 ， 好 似 手 中 的 神 錘 是 活 物 一 般 … … 之 後 ， 你 聽 到 一 聲 哭 喊 ， 像 是 一 個 新 生 的 嬰 兒 ， 你 的 眼 睛 感 到 一 陣 白 色 的 閃 光 ， 循 環 的 流 入 一 個 漩 渦 ， 那 之 下 ， 有 石 頭 ， 巖 石 和 金 屬 所 制 成 的 機 器 發 出 刺 耳 的 聲 音 … … 刺 耳 ， 並 不 停 的 旋 轉 ， 一 直 到 你 周 圍 的 一 切 都 燃 燒 起 來 ， 沉 入 大 地 的 陰 影 之 中 … … 在 地 下 ， 是 精 神 唯 一 的 避 難 所 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>「 杜 蘭 斯 ， 我 們 能 修 正 這 一 切 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>「 我 們 能 看 到 正 義 已 經 得 到 執 行 — — 她 和 沃 伊 迪 卡 都 是 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>「 還 沒 結 束 。 我 們 還 有 許 多 要 做 的 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>「 想 到 … … 我 曾 為 她 服 務 。 曾 追 隨 過 她 。 」 杜 蘭 斯 的 臉 陷 入 咆 哮 的 混 亂 。 「 現 在 ， 我 不 再 為 任 何 人 所 用 。 沃 伊 迪 卡 的 謊 言 必 須 得 到 回 答 … … 看 來 ， 我 得 向 女 神 所 犯 的 錯 而 繼 續 戰 斗 下 去 。 」
+
+他 的 表 情 無 比 堅 定 ， 眼 睛 依 然 在 燃 燒 ， 饑 渴 的 說 。 「 如 今 我 依 舊 從 她 那 裡 獲 取 力 量 … … 直 到 這 一 切 停 止 為 止 。 」 杜 蘭 斯 咆 哮 著 說 。 「 我 在 吸 干 她 之 前 是 不 會 讓 她 走 的 … … 就 像 她 曾 今 對 我 那 樣 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>「 我 從 『 忠 誠 』 中 學 到 的 一 課 就 是 — — 忠 誠 也 許 對 一 個 女 神 的 傷 害 時 最 大 的 — — 淨 化 即 將 來 臨 ， 而 這 火 焰 則 能 將 他 們 都 吸 收 殆 盡 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>「 我 們 繼 續 吧 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Trigger Conv Node 165</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Trigger Conv Node 166</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>「 他 們 死 於 爆 炸 中 ， 沒 錯 。 剩 下 的 十 一 人 。 我 是 唯 一 幸 存 下 來 的 。 我 想 … … 我 們 冤 枉 了 我 們 的 女 神 … … 所 以 這 是 我 的 試 煉 ， 如 果 ， 如 果 我 能 證 明 自 己 的 價 值 … … 對 她 的 價 值 ！ 」
+
+「 我 早 該 知 道 的 。 只 有 唯 一 的 一 位 救 贖 之 神 ， 我 見 證 了 他 的 最 後 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>「 沒 有 證 據 ， 通 魂 者 。 指 望 你 能 夠 幫 我 看 的 更 遠 的 我 真 是 個 傻 瓜 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>「 那 麼 … … 我 打 算 留 在 這 裡 ， 通 魂 者 。 如 果 你 看 的 不 同 了 ， 再 來 找 我 吧 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>「 我 們 還 是 迎 來 了 路 的 終 點 。 你 做 的 很 好 ， 通 魂 者 。 」 他 瞇 起 眼 睛 。 「 你 比 任 何 通 魂 者 都 有 這 個 權 利 。 」
+
+「 看 來 你 需 要 火 焰 淨 化 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>「 我 自 己 的 試 煉 導 致 了 現 在 的 結 果 。 這 次 我 已 經 脫 離 了 領 域 ， 但 你 還 在 裡 面 ， 而 我 是 黑 暗 。 既 不 是 杜 蘭 斯 也 不 是 馬 格 蘭 的 教 訓 。 」
+
+「 當 一 個 試 煉 完 成 後 ， 又 將 迎 來 新 的 試 煉 。 來 自 神 的 試 煉 。 到 時 我 會 公 正 無 私 的 坐 處 判 決 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>「 當 一 個 試 煉 完 成 後 ， 又 將 迎 來 新 的 試 煉 。 來 自 神 的 試 煉 。 到 時 我 會 公 正 無 私 的 坐 處 判 決 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Trigger Conv Node 182</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>「 在 火 焰 中 看 到 了 你 … … 」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

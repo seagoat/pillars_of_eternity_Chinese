@@ -1,0 +1,42 @@
+<StringTableFile>
+  <Name>quests\06_stronghold\06_tsk_boss_priest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>懸 賞 ： 索 爾 法 恩 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>殺 死 索 爾 法 恩 ， 把 他 的 頭 帶 回 來 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>把 索 爾 法 恩 的 頭 交 給 塞 德 努 亞 的 費 爾 根 典 獄 長 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>伊 歐 薩 斯 的 祭 司 索 爾 法 恩 一 直 在 伊 斯 特 伍 德 制 造 麻 煩 ， 並 為 自 己 贏 來 了 一 份 懸 賞 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>伊 歐 薩 斯 的 高 階 牧 師 索 爾 法 恩 被 指 控 玷 污 了 墓 碑 ， 然 後 殺 死 了 前 往 阻 止 他 的 煉 獄 騎 士 。 他 是 個 懸 賞 的 對 象 ， 我 可 以 前 往 伊 斯 特 伍 德 制 止 他 的 罪 行 來 拿 到 賞 金 。 我 需 要 帶 回 他 的 頭 作 為 他 的 死 亡 證 明 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>索 爾 法 恩 已 經 死 了 ， 我 可 以 將 他 的 頭 帶 給 費 爾 根 典 獄 長 並 得 到 承 諾 的 獎 勵 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我 拿 到 了 高 階 牧 師 索 爾 法 恩 的 賞 金 。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

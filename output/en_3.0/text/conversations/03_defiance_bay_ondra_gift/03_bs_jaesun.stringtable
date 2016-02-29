@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\03_defiance_bay_ondra_gift\03_bs_jaesun</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>你 在 這 裡 維 持 秩 序 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>第 一 次 來 優 雅 高 貴 紳 士 俱 樂 部 ， 先 生 ？</DefaultText>
+      <FemaleText>"Your first time at the Club for Refined and Prestigious Gentlemen, madam?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>我 們 的 成 員 欣 賞 成 熟 的 ， 有 文 化 的 演 講 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>最 好 寂 滅 金 刃 破 損 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

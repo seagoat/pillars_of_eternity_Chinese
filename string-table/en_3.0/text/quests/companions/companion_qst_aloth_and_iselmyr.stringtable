@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_aloth_and_iselmyr</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Two-Sided</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Find an expert on Awakenings somewhere in Defiance Bay.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Aloth revealed that an Awakened soul, Iselmyr, dwells within him. He's asked for help in finding an expert who understands his predicament.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Aloth mentioned that Defiance Bay has an entire institution devoted to the study of illnesses of the soul. This must be the same place that I saw in the Acolyte's vision.
+
+I may be able to find someone there who knows something about Awakened souls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>I've been told to look for someone named Bellasege. She works on the lower floor of the sanitarium.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>It appears that Brackenbury Sanitarium is our best hope of finding help for Aloth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>I'm ready to attend the duc's animancy hearing. If I'm going to help Aloth deal with Iselmyr, I should probably take him to find this expert at the sanitarium first. It's unclear how these hearings will affect the practice of animancy in Defiance Bay.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>After hearing about how Iselmyr stood up to Aloth's abusive father, I suggested that she may be more helpful than Aloth realizes. He acted skeptical, but I believe he's giving the matter some thought.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>After hearing about how Iselmyr takes control during delicate situations, I advised Aloth to be wary of her. He shouldn't give control to anyone else, not even a part of his soul. He seemed to agree.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>It seems that Iselmyr can be a source of both help and harm to Aloth. On the one hand, she steps in when he's under pressure, but on the other hand, she doesn't always resolve situations the way he'd like.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>We didn't find an animancer with the expertise Aloth needed. He'll just have to deal with this on his own.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

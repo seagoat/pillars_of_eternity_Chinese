@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_cv_abrecan_doemenel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>171</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A young man leans against an expensive-looking gal glas cabinet. He holds a jewel-studded goblet in one hand and an ornate pistol in the other. He grins with wine-stained lips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Give letter.] "I found a note that may interest you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"You'd better explain yourself. And quickly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I was attacked in a house in Copperlane. I found this letter after I finished my assailants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Wine splatters the mirror-smooth tiles as Abrecan hurls the goblet. He smashes the carved handle of his pistol into the antique cabinet next to him. The men standing nearest look from Abrecan back to you, their hands ready over their weapons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Certainly. Why didn't you mention you were hiring?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"No. I'm no thief."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"My man here tells me you were involved in the skirmish at the Goose and Fox. The one that claimed the life of my sister."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Abrecan folds his arms and swirls his wine. "You have something for me, I hope?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The guard standing behind Abrecan whispers in his ear. The young noble's dark eyes narrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Then I have no use for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Not yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Give jewel.] "Here it is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Tell the guards you're a distant cousin." He winks. "They'll understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"This should keep the Knights and the Dozens in their place." He pulls out a bag of coin. "Take this for your troubles, and consider your debt paid. I'll call on you if I have need of your services again." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Then why are you here? Return when you have the jewel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"You're trying my patience. Get to the point or get out of my sight." He takes a draught from his goblet. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Abrecan twirls his pistol and sips his wine. "Have you procured the letter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ah, my resourceful ally. Do you have the jewel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Give jewel.] "Yes, here it is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Not yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>He bares his teeth. "This should keep the Knights and the Dozens in their place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Abrecan snatches the jewel and examines it. "Already? And without so much as a sneeze from the guards next door? Very discreet, indeed." He nods at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Abrecan takes the large gemstone in both hands. "I heard a bit of commotion next door. Let's hope Lord Reymont doesn't get the wrong idea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>He takes the gem. "I understand Reymont is looking for new guards to replace the ones who got in your way. We'll have to lie low, but this stone is worth the trouble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Then return when you have it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>He twirls the pistol around a finger. "Our doorman seemed to think it important that you meet with me. Speak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Abrecan's eyes widen, and he pushes away from the cabinetry. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Give jewel.] "As you wish."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Perhaps I should keep it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Abrecan raises his goblet. "I'll let you know when I have more work for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>The young noble squints at the gem and holds it to candlelight. As pinpricks of light play across his face, his expression changes, and he hurls the stone at you. It shatters against the cabinetry behind you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>He runs his fingers through his hair, regaining his composure. "Consider yourself fortunate that Reymont hasn't sold the real gem yet. Bring me the genuine Heart of White March, and don't come back until you have it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"You have tested my patience for the last time." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Yes, here is the real Heart of White March."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Abrecan thumbs the hammer on his pistol and sets his wine on the cabinet. "I could have forgiven your foolishness in killing my hired men. But not this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>He raises his pistol. "Kill him."</DefaultText>
+      <FemaleText>He raises his pistol. "Kill her."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"It was an accident."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"She got in my way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Your man is mistaken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"You are if you believe I can be fooled so easily."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Abrecan rubs his hands over his face. "You've killed my men and cost me. But I'll give you one chance to make up the loss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"You'll finish the job I gave my men. This should be no problem for someone of your... reputation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Finish it yourself, whoreson."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Abrecan laughs. "I like your spirit. A pity I can't use you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>His smile is dangerously thin. "This is a command, not a commission. Do this, and I'll overlook your blunder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Lord Reymont has a gem the size of an aumaua's testicles. It's called the Heart of White March. One of my contacts will leave the second-story window open. I want you to sneak inside and find the gem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Show him the Heart of White March.] "Is this what you're looking for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>He holds out his hand. The many rings on his fingers are dwarfed by the gem between yours. "Nicely done. Now, give it to me, and I'll see that you're duly compensated."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>He turns his gloating gaze on you. "My father, Gedmar, will be pleased to learn that I've acquired such a gem... and an ally. Go and speak with him upstairs. He's been looking for someone with your skill."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Is there no honor among thieves? This was my heist to begin with. House Doemenel pays its allies well, and I guarantee you won't find a better price fencing it yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"I'm keeping it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Abrecan sighs and drops his hand. "Not for much longer, I'm afraid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"My man here tells me that you aided my sister at the Goose and Fox. Apparently, Danna's spoken highly of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"For her sake, I'll give you the chance to make up for my loss. You'll finish the job you thwarted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Danna said you might have work for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>He takes a sip of wine. "As it happens, I do have a matter that needs resolving."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"I recently learned of a rather lucrative opportunity. Unfortunately, I entrusted it to the wrong people. Let's hope you're the right sort, yes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"One of my men planned a heist, and he passed the instructions to the thieves using my personal letterhead." His face freezes in a scowl. "Bearing my initials."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>He breaks into a smile again, but his grip has tightened around his pistol. "I need that letter. The thieves are holed up in a house in Copperlane. Fetch the missive, and we'll see about finding you a place in House Doemenel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"I'm still looking for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Then what are you bothering me for? Don't come back until you've found it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Give letter.]"Here it is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>He snatches the letter. After examining it, he folds it into a tiny square and tucks it into his doublet. "Nicely done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Abrecan smooths his pocket. He eyes you over his goblet. "And now, I have another job, as you know after reading the letter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"The contents were not my concern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Oh, a conscientious thief? Well, allow me to enlighten you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Lord Reymont is sitting on a gem the size of an aumaua's testicles. It's called the Heart of White March."
+
+His crooked grin widens. "It's also the subject of a bidding war between the Knights of the Crucible and the Dozens. They're fighting for the honor of returning it to its original dwarven owners... who would make powerful allies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Of course, House Doemenel would like to see that neither the Knights nor the Dozens make friends with the dwarves of White March. Such an imbalance of power would not be in our best interest." He takes another gulp of wine.
+
+"Our contact in Reymont's estate will leave a window open. Sneak into the upper level of Reymont's manor and find the jewel. Then, bring it to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"I'll return with your gem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Not interested."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Then let me give you some background."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Excellent. Remember, stealth is key. The last thing my fa-, I mean, that I want is a bloody feud with the neighbors." He clears his throat.
+
+"Come back when you have the Heart of White March. Don't fail me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Abrecan takes the jewel between thumb and forefinger and turns it in the light. "A rare prize, indeed. Take this, you've earned it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"I have questions about the letter you want me to find."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Abrecan yawns. "Make them quick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Where can I find these thieves?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Why haven't you already tasked one of your men to take care of this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"What do you want me to do with the thieves?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Color rises in his face. "I just needed someone... external to the situation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Didn't want daddy to find out about your little slip-up, did you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Leave them in peace, of course. They're still my men."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Abrecan chokes on his wine. "What?!" He slams the goblet down and brandishes his pistol. "Is this your idea of a joke?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Yes, and it was a bad one. I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"You're the joke here, Abrecan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"As I said, they're in Copperlane. Their house is on the east end, near the expedition hall." He waves a hand heavy with rings. "Just follow the stink of unwashed adventurers and the weeping of ruined speculators."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>He pick up his goblet and holds it close to his chest. "Indeed." He swirls his wine and takes a long drink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"This is obviously a bad time. I'll show myself out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"What were they stealing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Abrecan grins slyly. "You take care of this job, and then perhaps I'll tell you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"You'll finish the job I gave my men."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Very well. I don't have a choice, do I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Abrecan claps you on the back. "Look at this as an opportunity. If you perform well, you may yet profit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Is there no honor among thieves? This was my heist to begin with. House Doemenel pays its allies well, and I guarantee you won't find a better price fencing it yourself." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>He gives you an appraising look. "You have quite the... reputation. But I have a house full of loyal retainers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Tell me more about the Reymont job."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"What do you want to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Tell me about Lord Reymont."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"What do you know about the Heart of White March?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Any advice on stealing the gem?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Only that it's one of the most coveted gems in the Dyrwood, and when you see it, you'll understand why. It glows from within - a rare feature of jewels from the White March mountains.
+
+"Seizing that gem from Reymont will net us a fine profit and diminish the status of our rivals in the Knights and the Dozens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Abrecan makes a guttural noise of disgust. "He's a pompous, uptight bastard who's still living in the days of Duc Hadret. He's also one of the richest men in Brackenbury."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Not that I hold that against him. But, really, what's the point of moving so many pands if you're just going to stash them in a secret room somewhere?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Don't let his guards see you upstairs. Get in through the window if you can, and be prepared to move quietly. Reymont may be an enemy, but he's also a neighbor, and I don't want to stir up trouble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Whatever you do, do not alert Reymont's guards. The last thing I want is a blood feud with my neighbor. I trust we are crystal clear on that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"That's a fake, you fool! I should cram that worthless piece of glass down your throat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>He squints at the letter. "Is this... blood? These were my men, you fool!" He runs his finger along the barrel of his pistol. "I'll give you one chance to fix this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>He takes the gem. "I understand Reymont is looking for a replacement for one of his guards. We'll have to lie low, but this stone is worth the trouble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"I need an invitation to the meeting at the ducal palace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>He sneers. "And you want to worm your way into House Doemenel's good graces to get one, is that it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Pretty much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"House Doemenel would make a better ally than anyone else in Defiance Bay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"I could just worm my way into the good graces of your enemies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>He smiles coldly. "True, but the real question is whether you would be a useful ally to us. Let's put you to the test."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>His eyes harden. "Only someone very stupid or very brave would make that kind of threat in this house. I'm curious to find out which one you are." He smiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>He snorts. "Your brazen attitude could take you far in our House if it doesn't get you killed first. Very well - let's see how you handle a simple task."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"My father would be the one to talk to about that." He gestures with his goblet. "Upstairs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>He regards you with an icy stare. "You ask a favor of House Doemenel when you still haven't completed the task I set you on? Get out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"About that invitation to the ducal palace..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"I need an invitation to the meeting at the ducal palace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"I have some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"And I have no answers. If there's nothing else, be on your way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Abrecan sidles up to you as you come down the stairs. "I heard about your new assignment. I also heard that my father asked you to make sure the Dozens take the fall. Don't.
+
+"My father's a shrewd businessman, but he's too cautious. Defiance Bay used to respect us. House Doemenel needs that respect again if we're going to survive the coming changes. Don't plant the token."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"What is this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"You are standing in the Doemenel ancestral manor. You're either very lost or wasting my time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Unless you have business with my family, get out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"My sister has spoken highly of you - no small praise, coming from her. We could use someone like you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"That's all I wanted to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>He takes another sip of wine. "If there's nothing else, be on your way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"That's all I wanted to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Bank Node 209</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Sagani snaps her head over to you. "You've got a real way with words, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"That's all right, I was getting tired of feeling safe in Defiance Bay, anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"The sting of embarrassment hurts that much more when it's inflicted by one's superiors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Well if your plan is to get him to throw the first punch..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>Aloth's eyes go wide as he looks at you. "Manners..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Kana smothers a chuckle with a cough. "I see we're intent on making friends wherever we go." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Bank Node 209</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Sagani scratches her chin. "I've hunted on more than a few private estates since coming north... so I guess this isn't technically all that different."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Stealth is key, huh? I'll just put on my quiet suit of armor, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"If we run afoul of the Knights or the Dozens because of this, it could be disastrous. We must take care in how we proceed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Assisting in old men fighting over shiny rocks?" Hiravias shrugs. "At least it's not loitering in Engwithan ruins. So if it'll keep you out of worse trouble, I suppose it's not the worst idea..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Stealing jewels while the Dyrwood falls apart. It's good to see we've got our priorities in order."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"I've avoided my share of Glanfathan scouts - mostly by, erm, running - but searching a heavily guarded estate is not quite like combing through an empty tomb." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Edér whispers to you. "Maybe you should pay him a compliment to help patch things up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Bank Node 225</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Criminal, indeed. No one should waste a good red like that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Then you're a fool who knows too much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"I hear the mob tore down that eyesore, the sanitarium. Not that I've been out to see, mind you. All in all, the view's much nicer in here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Speaking of, I don't suppose the mess outside gave you a chance to grab that jewel..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Unfortunately, an ill-fated venture has us at odds with our neighbor, Reymont." He grimaces. "I'm afraid we have to keep a low profile for the time being."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Normally, I'd have a favor to ask in exchange.
+
+"Unfortunately, an ill-fated venture has us at odds with our neighbor, Reymont." He grimaces. "I'm afraid we have to keep a low profile for the time being."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Unfortunately, it's simply too risky for us to embark on any... business together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"You may have to overcome certain... compunctions, but you'll finish the job I gave my men."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"A profitable relationship could benefit us both."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>He smiles coldly. "So it would. First, let's see how you can be of use to us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"What interest does House Doemenel have in the duc's animancy hearings?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Balance. The duc's stuck between ignorant fanatics and power-hungry soldiers. But that's the way of things in Defiance Bay. We're just trying to see that neither group gains undue influence."
+
+He rubs his fingers together. "And it doesn't hurt that there's profit to be made in discord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"What is House Doemenel's position on animancy?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Can you tell me about the hearings?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>He laughs. "We don't have one. The Dozens say they're against it, but that doesn't stop them from looting the ruins and selling runes and contraptions to the sanitarium. The Knights say they're for progress, but whose progress are they talking about? They're eying purse strings and positions here in Brackenbury. And word has it they've got a few pet animancy projects of their own.
+
+"You can see why we're content to stay out of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Fortunately, I haven't had to sit through them myself. I'm told they're much like any other meeting - plenty of yelling and posturing but little accomplished. 
+
+"And while the Knights and the Dozens argue over something neither understands, they lose sight of the real problems - Glanfathans stirring at our borders, the ever-present refugee crisis, and the Vailians ready to leave us to our fate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"That's all I wanted to ask about the hearings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>He takes a deep draught of wine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>As Abrecan reads the letter, his curious smile fades, and the page crumples in his grip. His twisted lips are as cold and dark as the amethysts lining his cup.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>He twirls the pistol around a finger and looks you up and down. "You seem lost."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_visitor_dignitary</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Greetings, Lord [Player Name]. My name is Berolt. If you have the time, I have an urgent matter I'd like to discuss."</DefaultText>
+      <FemaleText>"Greetings, Lady [Player Name]. My name is Berolt. If you have the time, I have an urgent matter I'd like to discuss."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"It is much appreciated, all the same." Berolt eyes you expectantly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Not that I have any doubt of your considerable resources, but... how, my Lord?"</DefaultText>
+      <FemaleText>"Not that I have any doubt of your considerable resources, but... how, my Lady?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Oh? With whom will I be traveling?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Very well. Let's hear it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You call for your allies, and prepare to hear the petition.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I have been tasked with meeting with representatives from the Fisher Crane tribe, near Thein Bog. It is my hope to come to peaceful terms."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"You yourself, I hear, have had some dealings with the Glanfathans. I would welcome any assistance or advice you may offer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Script Node 10</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Trigger Conv Node 11</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I can't spare any resources, but I do have some traveling advice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I'll see to it you have safe passage through Eir Glanfath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I'll have someone escort you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Give 2000 cp.] "Coin, to purchase guides and bribes where necessary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"My name carries weight in Twin Elms. I'll see you're given a writ of passage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I'll insist that you're given a writ of passage. I doubt they'll argue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Hiravias is Glanfathan. His knowledge of the region should be helpful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Sagani. Her experience as a hunter and traveler should serve you both well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Stick to the trade routes. Better to arrive quickly and openly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Best to stay out of Eir Glanfath as much as possible. I would suggest cutting through the Vailian Republics."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Well, if you feel that's sufficient, then I will trust you in your judgmenet. Thank you. I will do as you suggest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"It will be a very long detour... but I can see the wisdom in it. Better to arrive in one piece, after all. Thank you. I will do as you suggest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"That is very generous, my Lord! Thank you. I will put this to good use."</DefaultText>
+      <FemaleText>"That is very generous, my Lady! Thank you. I will put this to good use."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Thank you, My Lord! We'll set out right away."</DefaultText>
+      <FemaleText>"Thank you, My Lady! We'll set out right away."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"My warden. He and a group of guides will help you avoid the major Glanfathan settlements."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I cannot help you with this at the moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Script Node 33</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"On second thought, perhaps not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I see... Is there any assistance you can give, my Lord? My mission is of utmost importance."</DefaultText>
+      <FemaleText>"I see... Is there any assistance you can give, my Lady? My mission is of utmost importance."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Unfortunately, I haven't had much practice with the Glanfathan language, and the Fisher Crane are, by nature, very reclusive. I fear that the circumstances are ripe for a misunderstanding."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Greetings, Lord [Player Name]! Might we speak?"</DefaultText>
+      <FemaleText>"Greetings, Lady [Player Name]! Might we speak?"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

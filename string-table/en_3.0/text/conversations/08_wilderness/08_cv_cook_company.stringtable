@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_wilderness\08_cv_cook_company</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Byne eyes you with amusement, but his voice carries menace. "You must be lost, pup. The Giantslayers don't share bounties."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Wenan sent me to help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wenan thinks you're taking too long."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>He stops leaning against his sword and grips the pommel. "Wenan sent you..." A knot forms at his jaw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The well-groomed man leans in, swaying as if drunk. "You think you can get the weapons? You've got two problems, rookie - a flooded entrance for one, and Crucible patrols for another. We've seen more Knights than face-painters out here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Why are the Knights of the Crucible here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Damned if I know. They're glorified thugs in armor and usually prefer their feathered beds to camp cots. I'd gut one in an instant, but I can't collect bounties as a wanted man."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Tell me about the flooded entrance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"What do you know about these weapons?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Must be the rains." He shrugs. "We found this in the water, though." He holds up a flat, circular piece of adra and drops it into a pouch on his belt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Wenan's paying good coin for them. That's all I need to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"So, what now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"That's an interesting question. You see, we never, ever, shares bounties." His companions move to stand in line with him, hands on their weapons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"You and I have no quarrel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"That's Wenan's problem, not mine. You should talk to your employer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I was sent to talk to you, that's all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I'm not here for the bounty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Not much natural adra around here. Might be a key of some kind. Couldn't experiment much with the damn Knights prowling around."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Attack] "Neither do I."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>He steps in close, his breath hot on your face. "You made one by coming here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I'll have words with Wenan, don't worry about that." He steps forward, his weapon now in hand. "You still shouldn't have come."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"And now we're talking, pup." He moves forward, his face mere inches away from yours. "Choose your words carefully."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I didn't expect to find the great Giantslayers lying down on the job."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Of course you aren't. You traveled all the way here just to keep us company." He walks up to you, his face flushing with anger. "Don't lie to me again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Pickpocket adra stone.] "You're right. We'll head back and tell Wenan we're done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"If you don't get your face out of mine, I'll have to split it open."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Can't we work together on this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>He looks at you, dumbfounded, for a moment before bursting into incredulous laughter. "I don't know where Wenan finds the likes of you."
+
+"Sure, pup, we'll work together." He nods at his companions. "Just hold still and you can help my friends with target practice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Be seeing you." He turns to his partners and nods, and they follow his lead down the hill.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Byne locks eyes with you for an uncomfortably long time. He eventually breaks the stare, spitting a dark stream into the grass. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"You've got stones, I'll give you that... and you've caught me on a good day." He tosses you the adra disc. "Let's see you figure it out, then." 
+
+He whistles. "Come on, hot meals for us tonight. We'll deal with these upstarts later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Byne looks pleased, and his face is flushed with wine. He doesn't notice your hand snaking into his belt pouch as he steps away.
+
+"Then we're done. I'm sure Wenan has other tasks better suited for one of your... mettle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Byne's face flushes bright red. His hand inches toward his axe, but it finds the adra disc instead. He hurls it at your feet. "Then let's see you do better. Unless you're all talk, that is."
+
+He turns to his companions. "Come on, hot meals for us tonight. We'll deal with these upstarts later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>His smug expression fades in an instant. "And he had the gall to send you?" His hand moves to his hilt. "I should just ki-" He stops himself, gritting his teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Attack] "Then have it your way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Admit it. You have no idea what to do next or you wouldn't be sitting around out here."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,42 @@
+<StringTableFile>
+  <Name>quests\06_stronghold\06_tsk_boss_troll</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>懸 賞 ： 格 拉 斯 戴 爾 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>殺 死 格 拉 斯 戴 爾 ， 把 它 的 頭 帶 回 來 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>把 格 拉 斯 戴 爾 的 頭 交 給 塞 德 努 亞 的 費 爾 根 典 獄 長 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>廣 為 人 知 的 「 綠 色 死 神 」 巨 魔 格 拉 斯 戴 爾 ， 一 直 徘 徊 在 風 暴 牆 大 峽 谷 的 樓 叢 廢 墟 中 。 一 個 煉 金 術 士 提 供 高 額 賞 金 來 換 取 它 的 頭 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>如 果 我 能 跟 蹤 並 打 敗 出 現 在 樓 叢 廢 墟 中 的 巨 魔 格 拉 斯 戴 爾 ， 我 就 可 以 帶 回 它 的 頭 並 拿 到 賞 金 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>格 拉 斯 戴 爾 已 經 死 了 。 我 只 需 要 把 他 的 頭 帶 給 費 爾 根 典 獄 長 換 取 賞 金 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我 拿 到 了 格 拉 斯 戴 爾 的 賞 金 。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

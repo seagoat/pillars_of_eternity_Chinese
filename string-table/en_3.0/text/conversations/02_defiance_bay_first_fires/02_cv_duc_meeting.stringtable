@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_defiance_bay_first_fires\02_cv_duc_meeting</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>163</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The room below is animated amidst a heated debate. All the representative groups are easily discerned in the crowd. Crucible Knights, stiff in their noisy armor, sit in one section. In another are well-dressed members of House Doemenel, casual, watching with a predator's interest. Still elsewhere are the ramshackle Dozens, who have made no special effort to dress up for their liege lord. Interspersed are animancers in their academic's robes with expressions either sour or concerned.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"As I've said, it isn't about progress, it's about potential."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"So you admit, Master Barrasc, that animancy is no closer to stopping the Legacy than it ever was."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"No! We have had many promising experiments. Caedman Azo has shown- "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Caedman Azo murdered a child! For a complete failure! We should be hanging him right now for what he done! The Dozens won't stand for it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"The experiment failed, yes, but his work- "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"There is no need. Master Azo recently passed the Shroud. And while the experiment failed, his work- "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"His work was sabotaged."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>All at once, the attendees turn their faces toward you, a mishmash of judgment and incredulity. Only the duc, a wild-looking man with a scraggly beard, seems unfazed by your interruption. "Ah, our new delegate from the Dozens. What makes you say sabotage?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>All at once, the attendees turn their faces toward you, a mishmash of judgment and incredulity. Only the duc, a wild-looking man with a scraggly beard, seems unfazed by your interruption. "Ah, our new delegate from the Knights of the Crucible. What makes you say sabotage?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>All at once, the attendees turn their faces toward you, a mishmash of judgment and incredulity. Only the duc, a wild-looking man with a scraggly beard, seems unfazed by your interruption. "Ah, our new delegate from House Doemenel. What makes you say sabotage?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>All at once, the attendees turn their faces toward you, a mishmash of judgment and incredulity. Only the duc, a wild-looking man with a scraggly beard, seems unfazed by your interruption. "Ah, our new one-man delegation. What makes you say sabotage?"</DefaultText>
+      <FemaleText>"Ah, our new one-woman delegation. What makes you say sabotage?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I met a false patient in Brackenbury Sanitarium who had tampered with Azo's machinery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Lie] "A rival animancer confessed it to me during an investigation I conducted there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"The fuck's that even matter? These are people who would toy with the lives of our children!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"There! These are the people we're supposed to pin our hopes to! Saboteurs and crackpots!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Indeed. Even assuming there WAS sabotage, is this animancer Azo not still accountable here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"This is not the Baelreach Incident. This is a responsible scientist who was manipulated."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Those who know me around here know me to be fair in judgment. Caedman Azo should be held innocent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Those who know me around here know me to be fair in judgment. Caedman Azo should be held guilty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"No, he isn't. This was a responsible scientist who was manipulated."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Yes, he is. Caedman Azo's ambitions exceeded his ethics."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Horseshit! These animancers can't be trusted! Look at what happened in Heritage Hill! Our supposed 'protectors' from Crucible Keep can't even clean up the messes animancy leaves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Exactly! Look at what happened in Heritage Hill! Our supposed 'protectors' from Crucible Keep can't even clean up the messes animancy leaves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Are you sure this is YOUR delegate, Eadric?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"He won't be for long, making claims like that."</DefaultText>
+      <FemaleText>"She won't be for long, making claims like that."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Your Grace, we'd have a much easier time of it if our Knights weren't so occupied trying to keep THEIR ORGANIZATION from igniting a revolution on our very doorstep!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Heritage Hill is blood on YOUR HANDS, Justiciar. You turn a blind eye and look what happens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I have been to Heritage Hill since the quarantine. Though the Knights were unable to control the damage, it was not animancy, but an ancient machine that caused it. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"The Crucible Knights are blameless here. This was not the workings of animancy but an ancient device in Teir Nowneth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"You've some strange taste in travels, friend. The height of your tales expands with every breath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"You think some rotting corpse or volunteer guard could stand in my way? I earned my answers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Look me in the eye and tell me I'm a liar, Your Grace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"My word is my oath. I challenge anyone here to find someone who knows different."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ask around. When I see problems I take matters into my own hands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I ask only that you listen to what I have to say. Make your own judgment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>The duc cracks half a smile. "I'll grant that you look the part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>The duc stares hard into your eyes for what feels like ages. "I cannot. Not without risk of making a liar of myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I had heard whispers of a new delegate set to attend today's hearing. I admit that your candor was mentioned more than once."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I had heard whispers of a new delegate set to attend today's hearing. I was told to expect threats and intimidation. Which is nothing new here, as you can see.
+
+"Very well, perhaps you are the sort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Very well. Tell us what you claim to have seen in Heritage Hill."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Tell us what you saw in Heritage Hill."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Teir Nowneth houses an Engwithan machine that holds dominion over the flow of souls. It was this machine that made the district undead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"My house would agree, Your Grace. We see great potential in its future."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"And I suppose your blazing profits during the Legacy don't have nothing to do with that, do they, Doemenel? You can't have it both ways no more! Animancy goes, or this country goes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Even if it is as you say, we have testimony that a group of animancers had been spending time there. Surely their tinkering had something to do with this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Their presence doesn't prove cause. This testimony is not evidence, it is a guess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I have reason to believe there were others at the tower who might have done this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"There is no denying that they were studying dangerous machinery they did not understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"They followed ambition blindly, taking few precautions and allowing personal feelings to get in the way of solving the problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Animancy has many enemies. You need only look around this room to see it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"You're just- you're missing the point! Everywhere there's animancers, there's disaster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"But- but the very purpose of these experiments is to understand! So these dangerous things can be used responsibly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"THIS is what it comes down to, Your Grace! Whatever their 'intentions,' animancy's a pox. It makes a fucking wreck of everything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"We all know what Waidwen's Legacy's really about. And it ain't about some sparkling saint from Creed-ceras who's mad because he took a stroll down the wrong bridge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Is it, though? Should we not take the time to reach a clear conclusion? I mean, what proof do we have?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"My son and daughter are BURIED beneath the floor of my house. We don't own no land, so that's where we lay them. My son, my wife let him slip when she was bathing him, got water in his lungs he couldn't cough up. My daughter, we put her to bed one night and the next morning she wasn't breathing. 
+
+"This Hollowborn thing, it ain't ending. And it ain't ending 'cause we still let these charlatans play god. THERE'S your proof, you damned copperfucker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Enough, Eadric. Lady Doemenel makes a point. If it's animancy, then why do the other states that permit the practice not suffer the same fate? Who among us can say he truly understands why the Legacy has taken hold here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>The crowd begins to mutter, the sound taking a doubtful character.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Waidwen's Legacy is the creation of the Leaden Key. Caedman Azo's downfall was their work. As was the tower in Heritage Hill. They want you to do this. They want animancy to fall."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>The dull muttering expands into a din of skepticism that fills the hall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I have seen them in the ruins of Eir Glanfath, operating machines that disrupt and redirect the flow of souls, near towns like Gilded Vale and Dyrford where the Legacy is universal. As a Watcher I have heard their dead confess their plot. They are stealing the souls of the unborn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Beasts, another lunatic at the hearing. Did you remember to lock your sanitarium before you left, Master Barrasc?"
+
+The room laughs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Please, I want only to help Dyrwood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"You want to see crazy, make one more smart comment, just like that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Birth invalids until your womb dries, for all I care. The rest of these people will hear the truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"You shame your order by dismissing the truth before hearing it, madam. I expected better from a Knight of the Crucible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"If he did, for your husband's sake I hope he at least left a brothel unlocked."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>A bigger laugh resounds through the hall. Taragyth's cheeks flush, but she says nothing in rejoinder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"If, as the duc says, no theory has more proof than any other, what is the harm in hearing one more?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Your quips cannot change the truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>The duc leans forward in his throne, a trace of curiosity in his eyes. "You must know, friend, that the Leaden Key is a mantle for small-time ruffians and children at play.
+
+"I'm not saying you're a liar - not yet. But you'd better start making sense of all this. Help us believe you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"What's more likely? That the gods are destroying Dyrwood for a science practiced in many parts of the world? Or that a group of people hates animancy and wants it suppressed?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"The Leaden Key is very real. They are foreigners from Aedyr and Readceras who hate Dyrwood and want to see us suffer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Let's say a lord is cuckolded by his wife. If he tells her to stop, she'll only want her lover more. But if he spreads a rumor that her lover has just visited a brothel and acquired a pox on his loins, she'll end it on her own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"We all want the same thing here. We want Waidwen's Legacy to end. If we work together instead of arguing, we can stop the people who are doing this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Another guess! Throw him out on his ass, Your Grace. He's wasting our time."</DefaultText>
+      <FemaleText>"Another guess! Throw her out on her ass, Your Grace. She's wasting our time."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"I have seen these machines with my own eyes and they operate by mechanisms only someone with ancient knowledge would understand. No group but the Leaden Key traces back that far."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Shall I tell you then of the robes these people wore? Of the runes inscribed in a dead language swearing an oath to Woedica to seal knowledge with a key of lead? Sound like children to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"This is no guess. I have seen these people carrying out their missions in the ruins of Eir Glanfath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Now that's the first thing you've said that makes some sense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Please, this is pandering."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Is it so hard to believe our historical enemies would conspire against us? The Legacy started on the heels of the Saint's War. And Aedyr has been trying to reclaim us since Admeth Hadret's days."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"You would suggest that the sacrifices of the people of Dyrwood were insufficient to gain us bitter enemies? How dare you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Call it what you want, but there are people out to get Dyrwood. They are to blame here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I don't see what some rich lord's got to do with any of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Think of it this way then. It's like a bard at an inn, playing his favorite song night after night. If you tell him you don't like the song, he'll play it louder. But if you pay the patrons to leave, he'll think the song is to blame and stop playing it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"It's no different than Thorne's farce 'The Doughty Burglar,' where the burglar has to get Aedeldred to leave his wife by making him think it was his own idea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Look, the wife is Dyrwood. The lord is the Leaden Key. The affair is animancy. Get it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"You're saying they don't like animancy so they're trying to trick us into banning it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"That play was commissioned by my grandfather. You mean to say that we are all Aedeldred, and that some 'burglar' seeks to change our opinions without us realizing it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"No self-respecting member of the Dozens is gonna let these animancers keep casting their black magics in the same districts where there's children being born."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"I swear to you that no animancer has anything to do with your children's tragic fate. The Legacy continues until we stop the right people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"If any animancer so much as breathes within a league of an unborn child, they'll have me to answer to. But right now we need to focus on the Leaden Key."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"You need to get over that. Animancers have nothing to do with this. The Leaden Key is your enemy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"I don't know about all this..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"I think I can tell my friends from my enemies on my own. You better watch which side you fall on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"You're making less sense now than you was when you started. You done talking yet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"I- that wasn't what I meant. He twists my words."</DefaultText>
+      <FemaleText>"I- that wasn't what I meant. She twists my words."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Outrageous! My ancestors didn't give their lives in Dyrwood's name so some knight-for-a-day could question their sacrifice!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"We been saying they couldn't be trusted. No one listened. Now look where we are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"I see no gain in trading an enemy we know for one we don't. This is an enemy of straw you take aim at."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"If you know anything about me, you know this - I have been called many things, but never a liar. An honest witness is the best piece of evidence you have in this matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"The only piece of evidence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"The only piece of evidence that doesn't send your kind to the gallows, you mean."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"The justiciar's right, this is sanitarium talk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"You've made an... unexpected case, friend. I'll say that much. It seems we have a new possibility to consider, at the very least.
+
+"How was it you came to learn all this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"The Knights of the Crucible were instrumental in aiding my investigation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"House Doemenel provided me with the resources I needed. We owe them a great debt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"The martyrs of the Dozens supported my search for answers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"I took a personal interest in the matter, and tried to learn what I could."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"But these hearings are about more than Waidwen's Legacy, even though that is our most pressing concern.
+
+"Let's say for the moment that I were to take you at your word that our friends in Brackenbury Sanitarium and their peers bear no responsibility for this curse upon my country.
+
+"I'm curious, what would you do if you were in my position?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"I see. I am impressed the Knights seized such an unlikely opportunity to find an end to all of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Though it would seem that not all of them were in on your investigation." He flicks his eyes toward Eadric.
+
+"Nevertheless, I am pleasantly surprised by their open-mindedness here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"It is very good to see House Doemenel putting their considerable resources to use in solving this matter in which we all have a stake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>The duc raises his eyebrows. "Indeed? This land is foreign to you, unless I miss my guess. Your efforts on its behalf are to be commended."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"I would allow animancers to continue their work. They explore questions we all wish to understand. If we'd known more, perhaps this crisis could've been averted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Animancy should be studied in Dyrwood. If you don't, someone else will, and they will wield great power over you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"The animancers of Dyrwood have been given too long a leash. The practice should be restricted and controlled."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Animancy is too dangerous. We were not meant to use it, and we have proven why we are unworthy of it. It should be outlawed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"In truth I'm not completely confident animancy doesn't have something to do with Waidwen's Legacy. It would be wise to ban the practice, at least for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Very well. That is all I wished to hear. Not just from you, but from everyone. Many days we've been at this. It is time we put it to rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"I want to thank the delegations for helping me to collect my thoughts. In particular I want to thank our new delegate, who has given me much to think about, and who alerted me to a new enemy I had failed to see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"I want to thank the delegations for helping me to collect my thoughts. And our new delegate, who has warned us of a new possibility that must be looked into."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"I want to thank the delegations for helping me to collect my thoughts. And our new delegate, who, if nothing else, has made this final day a little more interesting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Pallegina leans in for a whisper. "Ramir di Barrasc is originally from Palminia. He's one of the finest minds in animancy to come out of the Vailian Republics. He left for Defiance Bay five years ago because he believed this was the true heart of animancy research."
+
+In Pallegina's words and the way she looks at her countryman, you sense both pride and a mild sense of frustration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Aloth whispers between gritted teeth. "What Azo did to Gram was not the work of a responsible scientist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Aloth whispers between gritted teeth. "After the farce we saw at the sanitarium, I couldn't agree more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Bank Node 141</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Bank Node 143</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Bank Node 145</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Her face still, Pallegina looks your way and subtly nods in approval.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Aloth shakes his head. "Animancers serve their own ambitions and their own purses. Giving them this power is like setting a child loose in an armory."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"I do not trust these animancers... seeking first after gain and glory. But if they can heal our children, I would not hinder them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Pallegina shoots a glance your way, her eyebrows furrowing in annoyance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"And just who would regulate it? Charlatans like Azo? Or fools like Ethelmoer, clueless as to what goes on within their own walls?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Pallegina blurts out in surprise, "Di verus?" Disappointed, she shakes her feathered head from side to side while muttering, "Gliente igniare... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Aloth gives you a small nod. "Well said."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Durance chuckles. "You've learned the way to the people's hearts on our travels, I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Right idea, Watcher, taking this hearing by the curly ones. Don't waste your chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Hah! Wrong bridge indeed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"It's about a bunch of so-called intellectuals fucking with the natural order while the rest of us gotta suffer for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>At the back of the chamber sits the duc, sprawled in his throne, worn down but alert and feisty nonetheless.
+
+"...well then answer me this, Master Barrasc. If you animancers represent our best hope to cure the Legacy, what progress can you demonstrate?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Do you think that was the machine's purpose? Or just a dire side effect?" Kana shudders. "But then, why would the Engwithans build such a machine at all?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>You open your eyes to the beamed ceiling of the palace's grand entry hall. The clangs of metal striking metal waft in from outside alongside the cries of the injured as you stagger to your feet.
+
+Thaos is gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Bank Node 170</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Edér leans in, his head upside-down in your sight as he peers down at you from above. "Hey, you're alive!"
+
+He looks you over, frowning. "Can you move? We shouldn't stick around. When Dyrwoodans get stirred up they like to start burning things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Durance taps you with the end of his staff. "Get up, already!"
+
+He shakes his head. "I don't see how you plan to survive your trial, Watcher, if the very sight of your enemy makes you faint like a priest in a whorehouse.
+
+"Let's be out of this place before something else goes wrong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Aloth hovers over you, worry etched on his face. "[Player Name], we've got to get out of here. Fast." His eyes dart to the hall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"[Player Name]!" Kana Rua moves to your side, looking around anxiously. "I hope you're fit to walk, because we can't stay here any longer." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Sagani is patting your cheek with a firm but gentle hand. "Get up. Trouble's already found us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Pallegina is standing over you, her eyes darting around the room before looking down and thrusting her hand out to grab yours.
+
+Her eyes glow with an inner light, her voice taking on an otherworldly timbre.
+
+"Get up! NOW!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>The Grieving Mother hovers over you with wide, fearful eyes. "We are surrounded by spirits of rage and fear. We must flee."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"[Player Name], we need to get moving!" Hiravias hovers next to you, his head scanning about with nervous energy while he pulls on your clothing. "Come on, no sense in standing around!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Off to one side you can hear the clinking rustle of chainmail, and you look over to see a wounded guard slumped against the wall. He is trying to say something, seemingly directed at you, but at first it is too faint to hear. He gathers his breath and manages to rasp out a few words.
+
+"Lady Webb. She's the only- she must be told. She'll know what to do. Please... find her. Tell her everything." The guard passes out and slides to the floor, still.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"The delegate's testimony was both enlightening and just, and the Crucible Knights wish to formally thank him for that."</DefaultText>
+      <FemaleText>"The delegate's testimony was both enlightening and just, and the Crucible Knights wish to formally thank her for that."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Smartest person in the room, I thought."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Wise words were spoken by our new delegate. I hope you will take them to heart, Your Grace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Aloth whispers between gritted teeth. "How can you call him responsible? You saw the state of the sanitarium."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>The Grieving Mother reaches toward your mind with hers. "Bring order to the chaos here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"You speak truth, Watcher. Unfortunately, I fear it falls on deaf ears in this place..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"The time has come to choose a direction for the Dyrwood. I am ready to make my pronouncement."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

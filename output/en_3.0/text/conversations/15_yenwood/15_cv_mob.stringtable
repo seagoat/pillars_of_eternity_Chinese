@@ -1,0 +1,167 @@
+<StringTableFile>
+  <Name>conversations\15_yenwood\15_cv_mob</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I wouldn't pay, so they set my crops on fire. When my boy tried to stop 'em, they knocked him over the head. He's alive, but he can't think straight no more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Your boy got lucky. My guards - good men both - got put to the sword after they'd surrendered. I paid those thugs what they wanted, but they still took everything I had!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"There he is!" A woman points at you, and all eyes in the crowd turn their hostile gazes upon you.</DefaultText>
+      <FemaleText>"There she is!" A woman points at you, and all eyes in the crowd turn their hostile gazes upon you.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"What's going on here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Can I help you people with something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"We want justice! You've been terrorizing us, and we won't stand for it any longer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"We don't need help, we just want you to leave us alone! We want justice!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"You sent your men to my farm to collect a 'crop tax', saying we was overdue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"For me, it was a road toll. I've been traveling up and down this way for years, and this was the first I've heard of such a thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"What makes you think I sent these men?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Other people in the crowd chime in with similar stories.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Those weren't my men."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"They said they were acting on orders from the lord of Caed Nua. That's you!"</DefaultText>
+      <FemaleText>"They said they were acting on orders from the lady of Caed Nua. That's you!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Then who were they? They weren't no common bandits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Give 500 cp.] "Here, for all of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"If this happens again, it's not on my orders. You heard it directly from me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Say we believe you - what about what we've lost? What about my crops?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"And my goods? And the families of my guards?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Give 100 cp.] "Take this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Thank you, milord." The coins are quickly distributed among the villagers. The villagers bow to you, then disperse.</DefaultText>
+      <FemaleText>"Thank you, milady." The coins are quickly distributed among the villagers. The villagers bow to you, then disperse.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Give 1000 cp.] "Share this amongst yourselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Leave before I hang the lot of you from Caed Nua's walls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I'll make these men face justice - you can count on it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The crowd mutters but avoids meeting your eyes as they disperse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I don't care about your idiot son or your trade goods. Get out of my keep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Most generous of you, milord." The villagers nod and smile at you, uttering thanks as they distribute the coins between them.</DefaultText>
+      <FemaleText>"Most generous of you, milady." The villagers nod and smile at you, uttering thanks as they distribute the coins between them.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Walk away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>He looks like he's about to say something, but thinks better of it and settles for a curt bow instead. The coins are quickly distributed among the crowd and they disperse without another word.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"We appreciate that, but... can you offer us any compensation? Just a little to help us get by, of course." He clears his throat and looks at you expectantly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Choose your next words carefully."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The group eyes you warily. After a few moments one man in the group elbows another. The second man takes a deep breath and straightens his stance before speaking.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

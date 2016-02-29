@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_lilith_sailor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>在 船 塢 附 近 小 心 點 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>我 能 幫 你 什 麼 忙 ？</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>我 有 一 個 來 自 莉 莉 絲 的 消 息 。 她 在 燈 塔 那 裡 等 你 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>謝 謝 ！ 我 得 趕 緊 去 見 她 ！</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

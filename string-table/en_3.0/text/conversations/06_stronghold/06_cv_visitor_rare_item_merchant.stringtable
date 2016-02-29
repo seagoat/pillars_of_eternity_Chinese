@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_visitor_rare_item_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Good tidings, my Lord! I am Azzuro, famed merchant. Purveyor of many valuable and, dare I say, rare objects."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"It's these bandits, my Lord. The roads are absolutely crawling with them, and they have the local merchants in a fright."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Trigger Conv Node 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Very well. Let's hear it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Leave] "Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You call your allies together, and motion for the petitioner to step forward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"If I have no goods to sell, I cannot make a living. Nor can I offer you the many special items normally at my disposal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I'll put an end to this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Bandits will be the least of their worries if those merchants don't open up the supply lines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I'll have one of my allies assist you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I cannot help you with this at the moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Script Node 12</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Script Node 13</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Yes, my Lord? What is it you have planned?"
+
+Azzuro watches you curiously, his hands folded eagerly in front of him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I-I'm, ah, certain they'll come around, my Lord! Thank you for stepping in! Once everything is in order, I'm sure I'll have more goods to offer you!"</DefaultText>
+      <FemaleText>"I-I'm, ah, certain they'll come around, my Lady! Thank you for stepping in! Once everything is in order, I'm sure I'll have more goods to offer you!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Marvelous! I'd welcome such assistance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Just a moment of your time, my Lord!"</DefaultText>
+      <FemaleText>"Just a moment of your time, my Lady!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Edér will travel with you, and keep your caravans safe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Pallegina can guard your caravans. She'll keep you safe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Sagani will accompany you. She can scout ahead and keep an eye out for trouble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"On second thought, perhaps not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I see. Another idea, perhaps?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Better me than [Player Name]. He's not what you'd call a good luck charm for caravans."</DefaultText>
+      <FemaleText>"Better me than [Player Name]. She's not what you'd call a good luck charm for caravans."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Another illustrious entry in my growing memoirs on watching over Vailian merchants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"We'll keep our ears to the ground, won't we, Itumaak?" She scratches the fox's head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Thank you both! I'll tell the others at once. Such a fine guard should ease everyone's fears."
+
+Azzuro gives a polite bow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Give 5,000cp] "My name has worth in these parts. I'll personally insure the delivery, and cover all losses that occur. That should allay any fears."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Quite! A more generous offer these suppliers have never heard, I'll warrant. Thank you! I'll have more goods to offer you in short order, I'm sure of it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"And so I would like to remain! I have an urgent matter to discuss with you. Something you'll want resolved as quickly as I, I'm certain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I'm having trouble filling out my stock. My suppliers say the risk is too great. Nobody wants to hear that the fineries sent out for delivery have been stolen by unwashed brigands."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

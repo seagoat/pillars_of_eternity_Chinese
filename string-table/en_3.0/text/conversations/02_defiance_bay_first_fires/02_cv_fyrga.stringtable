@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_defiance_bay_first_fires\02_cv_fyrga</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>91</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The woman's head is bowed as her lips move in prayer. Just as you approach, you catch her glimpsing at the statue near her. 
+
+She notices you and forces a smile. "Praise be to Magran, and welcome to her temple. How may I be of service?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Her lips form a rigid grin. "What brings you back to the temple?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Fyrga nods. "May you be guided and tempered by the Flame."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Thanks to you, the sacred fires continue to burn around the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Even though I'll be abdicating my role soon, there's plenty of work to do. Finding a successor is no small task."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"You seem upset. What's wrong?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Temple? I thought this was a palace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Goodbye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>DEBUG: Set Conditions for Quest Resolution = True.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Her shoulders slump. "This is about the fires, isn't it?" She puts a hand on your shoulder. "They're just symbols. You can't put your faith in them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"The fires?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"It's both, really. It's the palace from which Duc Aevar governs, but it's also a place of honor and worship for Magran, the goddess who led us to independence and who has always watched over our city..." Her smile falters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Present the burning stone.] "I journeyed to Searing Falls myself. This is what I found there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Most bright Magran, transform us with your flame..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I've kept them burning steadily for fifteen years, but I haven't been able to conjure them for months now. And people need to see them more than ever these days."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"This will likely sound so far-fetched to someone like you..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"There are some things you can know without quite understanding them. If I'm not mistaken, you seem to know what I mean."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Slow down and tell me what this is about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Only symbols? Is that why you're so distressed?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>She sighs. "The sacred pyres all around town. You must have seen the statues of the goddess around the city, holding up empty braziers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"No! I just-" She sighs with a hiss like a release of steam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"What does that mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"So go light them again. I see plenty of flames here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Shrug.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"They don't work that way. They're holy fires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"It's my devotions and prayers that keep them lit. But lately, when I try to pray, all I can think about are the Hollowborn all over the city. The grieving families. The refugees."
+
+She shakes her head. "How could Magran allow us to suffer like this? What strength do we gain from a soulless child?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"And this has shaken your faith?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Take heart, and don't abandon your faith too easily."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>She nods, running her hands through her hair. "But I believe Magran may be speaking to me again." She frowns and casts a quick glance in your direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"You don't seem like the type who has much use for the mysteries of faith, but I can't think of any other way to explain this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"You're also devout, aren't you? Surely you can understand what I'm about to tell you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Lately, I've been seeing visions. A place in the wilderness with pools filled with sunbursts of color. Strange falls that seem to rise to the heavens even while they splash into the earth."
+
+She raises her hands as if framing an image of her vision. "And behind the falls is a cave. Filled with fire and heat and danger... and some token of my goddess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Well, I can't afford to be so nonchalant. But I believe Magran may be speaking to me again." She frowns and casts a quick glance in your direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>She nods hopefully, her hands clasped together. "You're right. And, fortunately, I believe Magran's been speaking to me again." She casts a quick glance in your direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I'd like to know more about the temple here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Magran is the most revered goddess among us Dyrwoodans, so it's no surprise that her temple is part of the ducal palace. Her fires symbolize trials, revolutions, and the blazing of new paths, all of which are important to us."
+
+She gestures to the statue. "This is the first of the sacred pyres. When this is lit, so are the rest around the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"What's the significance of the sacred pyres?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"They symbolize Magran's power and guidance. And right now, the people of Defiance Bay need to be assured of her presence." She crosses her arms, staring at the statue.
+
+"Our neighbors in the Vailian Republics see us as superstitious, but we're just sensitive to the signs and warnings of the gods."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"They symbolize Magran's power and guidance. And right now, the people of Defiance Bay need to be assured of her presence." She crosses her arms, staring at the statue.
+
+"You Vailians see us as superstitious, but we're just sensitive to the signs and warnings of the gods."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Something else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Are you still having the visions of the falls?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Her voice is low and quiet. "Yes, and of the cave and... something within. Some small, bright ember of faith guarded by a terrible danger. I only wish I could go myself." She turns a guilty gaze on the statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>She takes the stone in her hands and gasps. "By the Flame! Do you know what this is?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"It's a fragment of the Godhammer bomb."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Whatever it is, it sounds like I should have kept it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>She turns it in her hands. "This is a piece of the Godhammer bomb. The very weapon that Magran herself helped us build to defeat Waidwen in the Saint's War."
+
+She turns the stone in her hands, gazing into its bright glow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Yes." She turns it in her hands. "The very weapon that Magran herself helped us build to defeat Waidwen in the Saint's War."
+
+She turns the stone in her hands, gazing into its bright glow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Yet her mouth twists into a frown, and the orange light carves deep shadows across her face. "So why don't I feel any differently? What good does this do?"
+
+Her knuckles whiten as she tightens her fingers around the stone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"You hold part of a weapon designed by a god. The very existence of such a thing should fill you with awe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Magran is the goddess of trials, and yet you sent me to pursue the vision she gave to you. You proved yourself faithless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"I don't know what to tell you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Her face relaxes, and her eyes drink in the glowing thing in her hands. "So it does. It's not an answer... but it has meaning." She closes her hands around the stone and tucks it away. "I'd forgotten how important that is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"She entrusted the Godhammer to her followers. Perhaps she's trusting them again to end the Legacy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Transformation through trial." She turns the stone in her hands. "It isn't an easy answer. But I would expect no less from my goddess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Her expression cracks in anguish. "Was it a test? Or just evidence of what Magran already knew?" She tucks the rock away. "I think I suspected... but I kept hoping for a different answer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Perhaps there are no answers. None for us mortals, anyhow." She closes her fingers around the stone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>She looks sadly at the empty-handed statue. "This is the true burden of faith. Not a goddess' challenge, but her absence. Her silence. Or the answer that reveals your own hollow conviction."
+
+She folds her hands in front of her. "It will take weeks still to appoint a suitable successor. In the meantime, I'll serve the people as best I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>As she looks at the statue, a flame springs from its raised hand. "One of the things I have always loved about Magran is her affinity for fire. How it grows and spreads." You feel the warmth from the fire rippling across the room.
+
+"You've given me what I need. I'll make sure to give the people of Defiance Bay the support they need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Bank Node 67</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Durance grunts with disdain. "What strength do we gain from adversity? From trial and test?
+
+"The fires don't wither because she lacks in faith, they wither because she does not understand how to be faithful to a whore.
+
+"A whore wants neither praise nor devotion. A whore wants to be compensated for her services, and Magran is paid and pleasured in sweat and struggle and pain. This... mewling imbecile is unworthy of Magran's womanly heat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Bank Node 69</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Hnh. Worthless, like so many of Magran's flock. Afraid of her god's tests. If Magran speaks to her, it is to hasten an end to a hypocrite's life, and this vision is surely a deathtrap for the weak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Not sure how fulfilling it'd be for her if someone else follows her dreams. But the roads aren't safe for anyone these days. Maybe it's better if we do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Sagani's painted brow furrows. "An uncertain mission with no clear outcome. I can understand her confusion. Still, it seems odd that she would send us when the vision is clearly hers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I place no great faith in visions, I'll admit, but this one intrigues me." Kana bares his teeth in a wide grin. "Perhaps we can find this boon. I'm sure Fyrga would be pleased, and perhaps Magran will look favorably upon our own trials." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Bank Node 74</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"It's weird, seeing it right in front of you like that. Before it was... just stories. Never seemed real."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"The work of gods and kith, both. " Kana regards the stone thoughtfully. "No meager relic." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Bank Node 77</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"It's weird, seeing it right in front of you like that. Before it was... just stories. Never seemed real."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"In Rauatai we have cannon, explosives, bombs... but this is a work of a different kind." Kana regards the stone thoughtfully. "A piece of history. Is this not the sign you sought?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Bank Node 80</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Hnh. Meaning. She has no idea what it means. What it represents. What went into it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Bank Node 82</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Everyone's trial comes. There is no avoiding it. To avoid it is to fail it. Her weakness shows plain as the relic's glow. She may have worn the robes of Magran, but she never followed her.
+
+"Lost in the darkness, this one. Do not forget what it looks like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Bank Node 84</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"This woman hasn't been tried at all! Would that we were alone, I would take it upon myself to instill REAL transformation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Bank Node 86</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"None for those who do not freely submit to the trial, nor have the good fortune to have it forced upon them.
+
+"She is an empty mantle, rejected by a god that DEMANDS of her followers. If Magran has any pity she will put this one down like a frothing mongrel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Now, let me give you something you might need." She disappears, returning quickly with something in her hands. "A weapon worthy of the goddess herself. Please accept it as thanks for your service to Magran. And to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>She sighs again. "Wait here a moment." She disappears and quickly returns with something in her hands. "I'm no longer fit to wield this, but perhaps it can serve you. Besides, I do owe you some thanks for the service you've performed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Thankfully, no. Now that my faith has been restored, my dreams have been peaceful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"I've thought about it often and wondered at the things I should have done differently. But no, I fear Magran has stopped speaking to me all together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Thank you. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I know there's something there. But where it is, or how I'd get there..." She shakes her head.
+
+"I've been meaning to ask around at the expedition hall to see if anyone recognizes the description. To be honest, though, I don't know what I'd do even if I found the place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"I place no great faith in visions, but... Perhaps we could help her, [Player Name]. I would give much to have an answer to my own doubts." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Her hair is unkempt, and her eyes are hollow with sleeplessness. "I'm afraid we're out of bandages and ointments, but the doors will remain open for any who seek guidance or sanctuary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>She gives you a hollow laugh. "Where should I begin? Rioters nearly burn down the city, and now people turn to me for answers. As if I know anything about politics. Or enforcing the peace. Just because there were fires..."
+
+She shakes her head. "And on top of that, the sacred fires are still out. I try to tell people they're just a symbol, but that hardly seems to make a difference."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Transformation through trial." She turns the stone in her hands. "We've certainly seen the beginnings of that in recent days."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"You follow the deeper mysteries of the world, don't you? Perhaps you can understand what I'm about to tell you."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

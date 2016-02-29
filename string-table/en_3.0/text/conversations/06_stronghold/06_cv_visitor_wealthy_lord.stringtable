@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_visitor_wealthy_lord</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>50</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ah, it's good you're here. I simply must speak with you, my Lord."</DefaultText>
+      <FemaleText>"Ah, it's good you're here. I simply must speak with you, my Lady."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"As I'm sure you are well aware, wealth has a way of birthing enemies. My fortress is beset by thieves! I'm sure one of the lesser nobles is after my treasury. This has the stink of jealousy upon it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Trigger Conv Node 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Script Node 4</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Very well. Let's hear it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Leave] "Not right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You call for your allies, and stride towards your throne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"And so I turn to you, My Lord. Is there anything you can do?" </DefaultText>
+      <FemaleText>"And so I turn to you, My Lady. Is there anything you can do?" </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Make a stand. Defend your keep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I'll see that these jealous rivals are dealt with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I'd like a moment to discuss this with my people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I cannot help you with this at the moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I-I don't have the resources, my Lord. My forces are spread thin. I'd need an army."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Marvelous! May I, ah, inquire as to your intentions?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Certainly."
+
+With a respectful bow, Sidroc steps back out of earshot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I'm sure the Doemenels can keep Sidroc safe. They'll keep his money even safer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Here's our chance, Devil. Get him feeling safe, then clear out that vault."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"They'll heed my warning or be destroyed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"It's not a question of numbers. I'll show you how to put the men you have to good use, and where to place them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"You'll have support from the Crucible Knights. That should be more than enough to fend off these thieves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I'll have missives sent to every noble in my lands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I'm sure Aloth can handle them. Discreetly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Tactics from the Lord of Caed Nua himself! Do go on, please. I'm listening."
+
+True to his word, Sidroc gives you his full attention.</DefaultText>
+      <FemaleText>"Tactics from the Lady of Caed Nua herself! Do go on, please. I'm listening."
+
+True to his word, Sidroc gives you his full attention.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Thank you, Lord [Player Name]! That's bound to do the trick. I can't wait to see those ruffians scatter!"
+
+Sidroc bows low.</DefaultText>
+      <FemaleText>"Thank you, Lady [Player Name]! That's bound to do the trick. I can't wait to see those ruffians scatter!"
+
+Sidroc bows low.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Letters, my Lord? Do you think that's sufficient?"</DefaultText>
+      <FemaleText>"Letters, my Lady? Do you think that's sufficient?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Thank you, my Lord. It is an enormous relief to have this burden off my shoulders. Bless you."</DefaultText>
+      <FemaleText>"Thank you, my Lady. It is an enormous relief to have this burden off my shoulders. Bless you."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Oh, sire. You'll make few friends robbing your own subjects, you know."
+
+The steward sighs softly.</DefaultText>
+      <FemaleText>"Really, my Lady, you'll make few friends robbing your own subjects, you know."
+
+The steward sighs softly.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Why don't we just knife him now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Of course. Forgive me for ever doubting you! We are blessed to have someone sensible ruling at Caed Nua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"On second thought, perhaps not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Is there any assistance you can give?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Probably."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Nod.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Well, I am grateful for the assistance and support, of course." 
+
+Though apprehensive, Sidroc bows gracefully and steps away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Motion for your guest to return.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I trust you had a fruitful discussion?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Lie] "I have contacts within the Doemenels. Who better to safeguard your holdings against thieves?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Lie] "The Devil of Caroc herself will guard your fortress for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Thank you, my Lord! That's bound to do the trick. I can't wait to see those ruffians scatter!"
+
+Sidroc bows low.</DefaultText>
+      <FemaleText>"Thank you, my Lady! That's bound to do the trick. I can't wait to see those ruffians scatter!"
+
+Sidroc bows low.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Yes. I've decided to kill you and take your fortune for myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"W-what?! This is- are you mad!? If this is some kind of jest, it is in very poor taste!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Motion for your guest to return.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Guards, string him up outside the walls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"You beast! You won't get away with this!"
+
+Sidroc turns to flee, but your guards seize him about the arms before he gets very far. They drag him away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Script Node 45</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"It will be weeks before I can secure my holdings, and by then it will be too late. And I haven't the... connections to hire mercenaries on short notice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Actually, let me think a moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Of course..."
+
+Sidroc looks a little puzzled.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Please, I have an urgent matter to discuss." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"We can't afford to be at each other's throats. I'm sure these nobles will see reason."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

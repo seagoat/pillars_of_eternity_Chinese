@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_cv_bellasege</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>132</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A woman paces back and forth, her feet crunching on the soft red carpet. She gestures and mumbles to herself, shaking her head as she pores over pages of notes. 
+
+She almost walks into you. "Eccosi! Here I am, looking so hard for answers in my research that I do not see the kith standing in front of me. What can I do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"According to my research grant, I study Awakenings. Sublimating pre-Awakened souls has been one of animancy's greatest successes, and I am working on a method to replicate the process on Awakened souls." She gnaws at her lip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I'm looking for an expert on Awakenings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"What do you do here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>She laughs bitterly. "Ac, that would be me. Though the lack of research subjects has made me more of an expert in counting floorboards.
+
+"I would like to transfer animancy's success in buttressing pre-Awakened souls to soothing those whose souls have already Awakened. But I need subjects, and most of the patients here are too broken to produce reliable results. It is a tragedy, to have come so far for nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"You're in luck. I have a volunteer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Aloth's lips curl into a frown. "I don't know about this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>She grins more broadly still. "Don't be silly. The process is perfectly harmless. All you must do is stand in that cage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I may know someone. I'll return when I have him with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>She claps her hands together. "Di verus? Please, bring him as soon as you can. My door is always open."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I beg your pardon?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I jest! You Aedyrans are so uptight. I do not even know what the thing is used for. It belonged to the last occupant of this office, I think. Now, they upgrade him to a cell.
+
+"Again. I jest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>She rubs her hands together, getting down to business. "So. I need you to sit here..." She takes Aloth by the shoulders and steers him to the couch. "And try to relax. But don't try too hard. Then you will not be relaxing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Indeed." His eyes are humorless. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"And you must also wear these. A little cold, but the copper will help conduct your essence." The animancer fastens thick copper bands to Aloth's forehead and wrists. As she ratchets them tighter, his face twitches with suppressed irritation. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Now. I will examine your soul through my scope." She reaches into her desk and produces a long, chambered tube. Knobs, dials, and small, toothed wheels run along the side of the device. "It is fitted with adra lenses cut to different thicknesses and concavities. By manipulating them, I find the angles and densities that will allow me to track the anomalies in your soul." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>She raises a finger. "But first, we must find this cunning interloper! You will answer some personal questions while I make adjustments."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Aloth squirms on the couch. "Very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>She holds the scope to her eye and flicks a knob. "To begin. Tell me something personal. Something from a time before your Awakening."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"There's nothing to tell. I was just a normal child living in the Cythwood." He looks to you. His face is set in a frown, but the rigid edges of apprehension show through nevertheless.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Talk about your parents."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"What do you remember about your home?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>He closes his eyes. "Mother is away most of the time. With the thayn's family. But I always know when she is coming home. Father's bottles accumulate like storm clouds on the horizon. His fits of temper become swifter and more violent. It still shames him, knowing that her haemneg to another man supports us better than his labors as a steward."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"This is good. I am starting to see... something. Continue. Tell us about the time you Awakened." She bites her tongue as she twists one of the dials.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I am in my fifth year of training. Mother is home. I can let my guard down a little because when she is around, he is usually only angry with her. But he has heard that I have had trouble casting missiles. That my flame shields are unstable. He is furious that I have failed, and Mother's presence reminds him that he has failed, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"It will be good to return to Revua. I trust Fentre Aloth and his... companion are well?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I'm Awakened. I've been recalling flashes of a past life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>She scratches her chin. "Most interesting, but not the kind of Awakening I can study, I'm afraid. I need someone whose Awakened soul can be triggered with predictable stimuli. Souls such as these tend to manifest as alternate personas in the host."
+
+She gives you a broad, if strained, smile. "But I thank you for the offer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Are you the animancer who's been buying relics from Imatl?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"From what? I do not know this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Something else you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I'd like to know more about animancy in the Vailian Republics."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Goodbye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"It is a dynamic and respected field. Even the Baelreach Incident did little to slow it." She shrugs. "People in the Republics are more accepting of risk. Less superstitious. Ready to try anything that shows promise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"It's a shame that so many here are so hostile toward animancy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"But animancy also has the potential to do great harm. I'm not sure whether the benefits outweigh the dangers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"People should turn to the gods for answers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"It is, but such is the way of the Dyrwood. The people here are fierce about their sovereignty, but they are not so independent from their Aedyran brothers and their Glanfathan neighbors as they would like to think. They rely too much on the mysterious workings of the gods and fear the very advances they need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"This is true of any great technology. You cut a man open to remove sick flesh, and there is a chance you kill him. Build a boat to explore a new land, and perhaps it sinks with you aboard. But surely these things make us better off, even though they sometimes fail."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"The gods help those who help themselves. Otherwise, we would all pray for our coppers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>As you speak to Aloth, you feel your voice like a bell in your chest. It tolls softly, luring him into the mists of his own memory. Bellasege doesn't seem to notice anything, but you feel as if your words are smoothing his essence, untangling its many threads.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"The first blow takes me by surprise. One moment I am sweeping the kitchen, the next I am sprawled on the ground, stupidly looking at flecks of my blood on the tile. His boots, glistening with fresh polish, thud across the floor. He kicks me in the stomach, and I curl up to shield my vitals. But it's pointless. Protecting one thing only leaves something else exposed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Still huddled on the ground, I retreat as fast as I can. I retreat until the vision of the kitchen and my own trembling knees is nothing but a pinprick against a field of black."
+
+His jaw locks and his eyes twitch beneath their lids.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Madiccho!" Bellasege furiously cranks the knobs along her scope. "He's hypnotized himself with this old memory. You've got to bring him out of it. Quickly, I almost have it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Slap Aloth.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Shake him by the shoulders.] "Aloth! You've got to wake up!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"This is just a memory. It isn't real."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Squeeze Aloth's hand.] "You're safe. Everything's fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Your flattened palm is inches from his cheek when his hand shoots up and grabs your wrist. Aloth's eyes snap open, but the expression you see in them isn't his.
+
+"Try it again and I'll take it off before I gie it back to ye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Aloth's eyes snap open, but the expression you see in them isn't his.
+
+"And whit about those raddles ye see in the space twixt your ears? They real enow for ye?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Aloth's eyes snap open, but the expression you see in them isn't his.
+
+"He's nere safe when I hap upon him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Aloth's eyes snap open, but the expression you see in them isn't his.
+
+"Ye've scuttled him off. A wilting daisy, that one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Bellasege sucks a deep breath through her teeth. "That's it! I'm seeing a shift in his essence. Something spreading and congealing." She glances at you over her scope. "Keep talking. He seems to respond to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"What brought you here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Kraking bones and voices high in ire. That warm molasses feeling that crips down your gut when crisis is nigh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Belfetto! We have flares of a totally distinct essence." She jots shorthand notes onto the pages next to her and turns one clicking knob of her scope. "Now, try to get the two of them talking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Aloth, ask Iselmyr what she's doing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Iselmyr, tell Aloth why you've Awakened."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Fye, he's the one needed me! Hiding in his own bonebag like a turtle in its shell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Aloth's face twists in fury. "Sticking weed. Worming parasite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Aloth's face twists in fury. "I never turned it over to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Good, yes, very good!" She rests from her scribbling only to make another adjustment to her scope. "I can now see two separate patterns of essence. Where he ebbs, the other flows. It's as if the Awakened soul fills the spaces that he leaves empty."
+
+She prompts you with a circling of her wrist, quill still in hand. "Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>He bursts into sudden laughter. "Ye'd say the same to your own kindled twig when it betrays ye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>He grits his teeth painfully. "I've given her nothing. She usurps me in my own body."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Aloth, what's this about ceding space to Iselmyr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Iselmyr, what exactly are you taking from him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>As you speak to Aloth, you feel your voice like a bell in your chest. It tolls softly, luring him into the mists of his own memory. Bellasege doesn't seem to notice anything, but you feel as if your words are smoothing his essence, untangling its many threads.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Nye more than I'm giving. Ye should ask whit I did that auld man of his. How the last time he laid a hand on us, I brek it in three places."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Aye, and I lend him a pair, too. Ye should ask whit I did that auld man of his. How the last time he laid a hand on us, I brek it in three places."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Aloth's head jerks to the side. "That wasn't your decision. It's never been your decision."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ac, very good!" She lowers her scope and consults her notes. "I think I've finally got something we can work with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Nye was Awakening. But now I'm stuck with ye, and damned if I let your ninnying drag us both through the scupper."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Aloth blinks back at you, and in the midst of his perturbation, you're not quite sure who's looking out of his eyes. "That's utter horseshit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>She glares at him. "Yes, never mind my years of training. I suppose you have a better explanation?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Iselmyr manifests when Aloth is in danger or under pressure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"You're close. I think Iselmyr's appearances are related to potential sources of trouble for Aloth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Aloth's right. That's absurd. Iselmyr obviously shows up when he feels threatened."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Bellasege carefully scratches her jaw, her gaze darting between you and Aloth. "I... suppose that could be true." She jots another note. "I'll have to check this against other research."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>He removes the copper bands. "Well and good for you, but what does this mean for me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Bellasege frowns at her notes, tapping her cheek with a quill and making a grand show of concentration. However, you catch her stealing a glance at you over the pages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Iselmyr tries to take control from you when she thinks you can't face a problem on your own. You can't let her make these decisions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"She did you a favor by dealing with your father, didn't she? I think she's trying to help you stand up for yourself. You may not like her methods, but you should hear her out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"It seems that Iselmyr steps in when she determines that you're in danger. It's not clear yet whether this is a help or hindrance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"My thoughts exactly. I'll have to be more careful about her from now on.
+
+"I've got a lot to process. Regardless, thank you for your help, [Player Name]." He does not look at Bellasege.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"If you had to listen to her half as much as I do, you wouldn't say that." He scowls, but you notice something thoughtful in his frown.
+
+"I've got a lot to process. Regardless, thank you for your help, [Player Name]." He does not look at Bellasege.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"From my position, I'd say it's pretty clearly a hindrance.
+
+"I've got a lot to process. Regardless, thank you for your help, [Player Name]." He does not look at Bellasege.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>As you turn to leave, you catch a darting movement out of the corner of your eye. Bellasege is humming to herself, still occupied with her scope, but Aloth is holding her notes. He's just about to tuck them into his cloak when he catches you watching.
+
+He holds a finger to his lips, his eyes wide and imploring. "Please. I don't want my personal information published like this. Especially not after her nonsense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>She sets her notes on her desk and returns to her scope. "Well, I hope this has been as useful to you as it has been to me. I finally have material worth publishing. You'll be the toast of Revua, Fentre Aloth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>His grimace melts into a crooked smile. "Aye, advancing the rightwise principles of animancy. Just what ye've always wanted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"No. You get your explanation and she gets her research. That was the deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Leave me out of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Fair enough. But do it quietly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I can't let you do that. Not after hearing how much this means to her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>He slides the papers back onto the desk, giving you a rueful look. "I'm nye gonnae help ye explain this one, scholar boy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>He hides the papers in his cloak. "Nye to worry. We'll see to this on our own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Sientere, but I am busy. I seem to have misplaced my notes..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>He closes his eyes. "Comfortable. Modest. Quiet when Mother is away, which is most of the time. Quiet enough to hear the clink of glass on wood. This is when I know to be most careful. 
+
+"Father is good about hiding the bottles. Mother, when she is home, is good at pretending not to notice them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>She springs to the balls of her feet, beaming. "Gellarde! Who is it?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"I've tracked Iselmyr's essence throughout the exchange. She had a particularly high density index during the most heated portions of their argument, and her essence seemed to localize most clearly in the lower portion of the subject's left ribcage. 
+
+"That's right around the spleen, which, of course, means that she is triggered by black bile. No doubt the subject's characteristic melancholy is to blame."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"If you're right, then removing Aloth's spleen should cure him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Her eyes brighten. "Now, that may be worth a try..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Absolutely not!" He jumps up from the couch. "It's obvious enough." He bites his lip. "Iselmyr appears when one of us perceives a threat. That's why she's always just in time to make a bad situation worse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Have you noticed anything unusual or suspicious here lately?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"It is rare for me to notice things that do not relate to my work, even when they are in front of me. Sientere aimico, but I am not the best choice to help you with that."</DefaultText>
+      <FemaleText>"It is rare for me to notice things that do not relate to my work, even when they are in front of me. Sientere aimica, but I am not the best choice to help you with that."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"But the truth is that I find few suitable subjects here. Waidwen's Legacy has left plenty of Awakened souls, but most are too broken for study."
+
+She sighs. "I fear I will return to Revua with nothing to show for my efforts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Bank Node 110</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"How exciting! I've never seen this sort of thing performed." Kana peers at the device with interest. "It seems suitably complicated." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Does this mean we'll get to talk to Iselmyr more? I like that lady."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Bank Node 115</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Good luck. You'd have an easier time getting straight answers out of a drunk priest of Wael."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Sagani pats his arm. "Don't worry, I'm sure we won't hear any of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Hey, there she is! How've you been, Iselmyr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"That's different."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Bank Node 120</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Heh. I think she has the advantage of you there, Aloth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Edér grins. "Must be hard to avoid knowing there's a lady in your body the whole time judging you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Bank Node 123</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Black bile, is it? They've certainly spat their share." Kana studies Aloth dubiously. "It is a simpler explanation than I expected, all things considered." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"How gracious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Sagani's eyes are wide an innocent. "It does seem as though she got one thing right..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Bank Node 127</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"If it doesn't work you can always put it back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Kana looks to the ceiling. "Gods and physickers preserve us." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Uh... maybe something less... permanent, first?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"I think the fiery one would take your hand off first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Spleen removal? Really? Would you treat a headache with decapitation?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Verus, though much of the research is performed only for wealthy clients. Defiance Bay's community focuses more on the public good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Or they're a little too selective with their blessings. Either way, pinning your fortunes on the gods doesn't seem to work out for most people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"The Eastern Reach is the land of the risk-takers. We are pioneers and children of pioneers. Some of us will stumble, but we are capable of reaching great heights."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"In all fairness, they've also suffered from animancy. It doesn't excuse their behavior, but it's easy to understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Bank Node 137</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"His mind is full of hesitations... angles upon angles. Drawing him out of his own fears will be difficult."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

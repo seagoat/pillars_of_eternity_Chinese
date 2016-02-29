@@ -1,0 +1,42 @@
+<StringTableFile>
+  <Name>quests\06_stronghold\06_tsk_boss_fampyr</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>悬 赏 ： 达 罗 斯 · 格 里 玛 特</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>杀 死 达 罗 斯 · 格 里 玛 特 ， 把 他 的 头 带 回 来 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>把 达 罗 斯 · 格 里 玛 特 的 头 交 给 塞 德 努 亚 的 费 尔 根 典 狱 长 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>近 亡 者 达 罗 斯 · 格 里 玛 特 一 直 盘 踞 在 铜 径 墓 穴 场 中 。 公 爵 殿 希 望 有 人 解 决 掉 他 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>达 罗 斯 · 格 里 玛 特 历 经 近 乎 死 亡 的 折 磨 ， 并 且 继 续 带 领 某 种 邪 教 深 藏 于 反 抗 湾 铜 径 地 区 的 地 下 墓 穴 中 。 我 需 要 再 杀 他 一 次 — — 这 一 次 带 回 他 的 头 作 为 证 据 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>达 罗 斯 · 格 里 玛 特 已 经 死 亡 。 如 果 我 给 费 尔 根 典 狱 长 带 回 他 的 头 ， 我 可 以 要 求 我 的 奖 励 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>我 拿 到 了 达 罗 斯 · 格 里 玛 特 的 赏 金 。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

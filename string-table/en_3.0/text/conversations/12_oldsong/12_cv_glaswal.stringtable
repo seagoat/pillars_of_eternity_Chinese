@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_oldsong\12_cv_glaswal</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>60</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As you near the platform, the temperature drops sharply. Something saps every last bit of warmth from the air, leaving the breath of your lungs cold as it escapes your lips. 
+
+You see a doorway filled in with glowing ice. Silhouetted against it is an elven man, his arms outstretched.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Glasvahl darts toward the Frost-Hewn Breach, suddenly enlivened by the dulling of the ice. "No! What have you done?"
+
+He turns to you, a snarl on his white lips. "We'll make you suffer for this, [Player Race]. And we've got nothing to fear from death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"May the gods that govern your course grant you peace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"May the gods that govern your course grant you peace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Rymrgand sent me to close the Frost-Hewn Breach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"The White Void?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Attack] "You're leaving this place for good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>His red eyes widen. "And trap us here another hundred lifetimes?"
+
+He shakes his head, weariness creeping back into his eyes. "We can't continue like this. We've got to find a way into the White Void."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Give him the glowing ice crystal.] "I have something that may get you through the Breach. It's yours if you release Alwah."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Give him the glowing ice crystal.] "Rymrgand gave me this ice shard to close the Breach. Perhaps it will let you through."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>He glances at the ice-filled doorway. "The Frost-Hewn Breach is a weak spot in the barrier between us and the White Void. Thin ice on a frozen lake.
+
+"We've come from the White that Wends to find it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"And you want to open the Breach?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"So that we can die. Permanently. We've lived more lifetimes than any mortal should."
+
+He shakes his head. "We've been faithful followers of Rymrgand since our earliest incarnations. He's the god of entropy. Why would he force us to be reborn again and again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Tell me about you and your people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"We call ourselves Glamfellen. Most here know us as pale elves. We hail from the White that Wends, a glacial continent at the southernmost edge of Eora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"You can't oppose the will of a god."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Attack] "Fine. You want to die? I can help with that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"We bear her no ill will. Once we're free of this place, she can go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>He laughs, but his eyes do not. "You think that because Rymrgand spoke to you in a dream, you can march in here and tell us about his will? We've followed him - and suffered by him - for almost as long as this temple has stood. Now, we seek the very end that he promises. Do not lecture me about my duties to my god."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"If Rymrgand wished for your souls to enter the White Void, wouldn't he make it so? I don't pretend to understand his will, and neither should you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>The pale elf turns to look at you, exhaustion written on his elegant face. He rubs one red eye with the heel of his hand, and you notice that his little finger has shriveled to a blackened nub.
+
+"Gods, it's gotten hard to concentrate." He sighs. "You shouldn't be here, traveler, and the others of my clan won't be so lenient if they find you sneaking around."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Bank Node 35</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Sagani nods. "They're nomads. Hardy lot. Some of the tribes occasionally spend a season in southern Naasitaq."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"We received a Watcher in our lands a season ago and paid her to tell us of the origins of our souls. We wanted to contemplate the essence that fills us and consider how Rymrgand might shatter and sow us once our days are spent."
+
+He bows his head and presses his bloodless lips together. "We were not prepared for what we learned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Our island cousins trade with the pale elves from time to time. For twelve thousand years, they've inhabited those frozen wastes. Not very fond of change, I suppose." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I don't think the Watcher was, either. She explained that every one of us had been reborn whole into the clan over centuries. Generations spanning back to the first days our people set foot on the White that Wends. We had all been cut off from the mercy our god promises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"We want to die. We want Rymrgand to scatter our souls into the ether, that their million fragments might join with the White Void."
+
+He looks at his hands and the single frostbitten finger. "My magic hasn't found a way through the Frost-Hewn Breach yet, but there must be one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Bank Node 41</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Aloth's lips are pressed together, thin and bloodless. A dark expression hangs in his eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"How did he conclude those lives were pointless?" Hiravias ponders aloud behind you.
+
+"Maybe Rymrgand showed them exactly what they asked and they can't see the answer in front of them! I suppose when one seeks when they ought to listen, a leap of reasoning is to be expected."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Glasvahl reaches toward the ice-filled passage, letting the waves of cold wash over him. "But if anything could pass through the Frost-Hewn Breach, it would enter directly into the White Void. This death is overdue for us. We just have to find a way through."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Bank Node 45</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Hiravias looks at Glasvahl solemnly, and then looks to you. "That rage sounds painfully familiar - why did the god of seekers punish me for asking a question?"
+
+"Still... I wish I could give him the peace Wael has shown me. The gods act in ways that are unknowable to us - to ascribe them motivations is to assume them to be folk, not gods. Better to accept and advance than to lament and stay stuck in one place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"What's going on here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I'll go, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"We're reaching out to Rymrgand. The last way we know how." He turns back to the frozen arch. "Please. I must concentrate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Glasvahl cups his hands around the shard, his face lit by its frozen glow. "A token from the Beast of Winter himself."
+
+He closes his hands around the frozen crystal. "You've given us a gift that's been denied to us for centuries. Thank you."
+
+He summons the rest of the pale elves, and they gather around the Frost-Hewn Breach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"So we should live another hundred lifetimes of toil? In devotion to a god who will not even deign to give us a reason?"
+
+He heaves a sigh, clouding the air between you. "We've been faithful to Rymrgand all these generations, and even now, it's his mercy we seek. And these centuries are but the blink of an eye to one who is eternal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>He looks at the drawn, haggard faces of his people. "If it's Rymrgand's will, we'll go back to the White that Wends. Perhaps one day he'll reward our endurance."
+
+They turn to leave, shuffling through Noonfrost's ice-slick halls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>He runs a hand over his neat beard, the frostbitten finger black against his pale hair. "Again? I must focus. Please leave. Quietly, if you don't mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"We've come a long way to be here, and many of my clan won't be kind if they catch you here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"That night, we began Awakening. Experiencing fragments of our past lives - old hatreds, dead passions, tangled memories. It illuminated nothing but the realization that we're doomed to live a thousand pointless lives, never closer to Rymrgand's salvation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Rymrgand's domain. A place where all things are mingled like snowflakes in a blizzard. It's a vortex of such chaos that even the Beast of Winter himself could not calculate the trajectory of the infinite particles of essence there.
+
+"As souls are broken down over successive reincarnations, they become part of the White Void. It is a place where all things find perfect unity and freedom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Rymrgand, open your way to us..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>The pale elf turns to you, exhaustion written on his elegant face. He rubs one red eye with the heel of his hand, and you notice that his little finger has shriveled to a blackened nub.
+
+"Gods, it's gotten so hard to concentrate." He blinks. "You... you're not one of us. The others won't be fooled if they find you sneaking around."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Release your captive, Alwah."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Glasvahl tugs on his beard. "She would bring the Fangs down upon us. She can't leave. Not until our business here is done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"As a Shieldbearer of St. Elcga, I've sworn an oath to prevent conflict, not start it. Alwah must know by now that killing you will solve nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"You couldn't have traveled this far without the aid of the Kind Wayfarers. Repay the deed and let me escort her to safety."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Then go. Please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"She's not equipped to handle this cold like you and I. She'll die here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Trust me, they'll certainly come if you keep her here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>The pale elf sorcerer stares at you without blinking. "I see your point. I'll see that the rest of my clan lets you - and the Glanfathan - leave in peace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>The pale elf turns to look at you, exhaustion written on his elegant face. He rubs one red eye with the heel of his hand, and you notice that his little finger has shriveled to a blackened nub.
+
+His eyes rise to the carnage around you. "What have you done? This useless slaughter, I..." He looks back at the wall of ice. "Please, just let me finish what we came here to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>The pale elf turns to look at you, exhaustion written on his elegant face. He rubs one red eye with the heel of his hand, and you notice that his little finger has shriveled to a blackened nub. "What are you doing here? You're not..."
+
+His eyes rise to the carnage around you. "What have you done? This useless slaughter, I..." He looks back at the wall of ice. "Please, just let me finish what we came here to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>His red eyes widen. "You are a man of compassion. Would you trap us here another hundred lifetimes?"
+
+He shakes his head, weariness creeping back into his eyes. "We can't continue like this. We've got to find a way into the White Void."</DefaultText>
+      <FemaleText>His red eyes widen. "You are a woman of compassion. Would you trap us here another hundred lifetimes?"
+
+He shakes his head, weariness creeping back into his eyes. "We can't continue like this. We've got to find a way into the White Void."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>His red eyes widen. "Even one as pitiless as you would not trap us here another hundred lifetimes."
+
+He shakes his head, weariness creeping back into his eyes. "We can't continue like this. We've got to find a way into the White Void."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>His red eyes widen. "And trap us here another hundred lifetimes? Even one as impassive as you must see the agony in this existence."
+
+He shakes his head, weariness creeping back into his eyes. "We can't continue like this. We've got to find a way into the White Void."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>He laughs, but his eyes do not. "You think that because Rymrgand spoke to you in a dream, you can march in here and tell us about his will? Or that your elegant words will direct our faith? We've followed him - and suffered by him - for almost as long as this temple has stood. Now, we seek the very end that he promises. Do not lecture me about my duties to my god."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

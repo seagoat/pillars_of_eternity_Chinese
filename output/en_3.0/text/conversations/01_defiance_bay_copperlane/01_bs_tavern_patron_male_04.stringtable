@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\01_defiance_bay_copperlane\01_bs_tavern_patron_male_04</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>我 希 望 ， 你 是 來 說 服 這 個 家 伙 ？</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>這 是 拓 荒 者 和 農 民 的 國 家 。 我 們 不 像 共 和 國 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>迪 伍 德 的 實 力 總 是 來 自 強 健 的 ， 獨 立 的 類 型 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>把 我 們 塞 進 城 市 ， 我 們 會 處 在 對 方 的 喉 嚨 上 。</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

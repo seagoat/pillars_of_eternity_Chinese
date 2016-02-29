@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\15_yenwood\15_qst_yenwood_2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>A Return to Court</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Speak to the palace messenger at Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Meet Chancellor Warrin at the Charred Barrel in Brackenbury.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Defeat Emery.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Return to Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Speak to the mob in front of your Great Hall at Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Meet Marshal Forwyn at your Great Hall in Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Another messenger from the ducal palace has arrived in Caed Nua. Chancellor Warrin said he'd send another messenger if anything new regarding my disputed ownership of Caed Nua came up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Chancellor Warrins seems to have sent another messenger from the ducal palace in Defiance Bay. The messenger is awaiting me in the Great Hall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Chancellor Warrin has requested another meeting with me. This time, he wants to speak with me at the Charred Barrel in the Brackenbury District of Defiance Bay.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>The meeting with Chancellor Warrin was a trap laid by Lord Gathin. He sent a group of his men-at-arms, led by Captain Emery, to assassinate me. Obviously, that's not going to happen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>A mob of common folk have gathered in front of the Great Hall of Caed Nua. They seem incredibly angry about something - Lord Gathbin's doing, no doubt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>The false meeting with Chancellor Warrin and the attack by Captain Emery were both distractions to keep me away from Caed Nua for a time. I need to return there to find out what's been going on in my absence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>A mob of common folk have gathered in front of the Great Hall of Caed Nua. They seem incredibly angry about something - Lord Gathbin's doing, no doubt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Marshal Forwyn says he has news about Lord Gathbin's activities. He wishes to speak with me in my Great Hall at Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Lord Gathbin hasn't given up on taking Caed Nua from me. He's tried to have me killed, stirred up trouble in the land around Caed Nua, and now he's raising an army against me. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

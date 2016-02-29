@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_burial_isle\14_cv_machine_ending</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>With your companions bearing witness, you step up to the place where Thaos once stood before his people long ago. The great machine lies in front of you, idle, ready. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>You have seen this machine and others like it in operation. You understand how it works. It is a device for directing souls. 
+
+As a Watcher it would be a simple matter to influence that direction, though as big as the machine is, it may be the last thing you ever do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You step up to the place where Thaos once stood before his people long ago. The great machine lies in front of you, dormant, ready. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Speak the command to activate the machine.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Not yet.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You stand once again before the great Engwithan machine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>There is a shrieking of stone grinding against stone as old cogs loosen and begin to turn. 
+
+You have only moments before the souls will be sent into the adra vein. This will be your only chance at redirecting them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Send the souls back into the reincarnation cycle.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Return the souls to the bodies they were intended for.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Entropically disintegrate the souls, ending their existence.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Distribute the essence to existing souls in Dyrwood to strengthen them.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Allow the souls to pass through the vein to Woedica.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Disperse the souls to an unknown location.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>You close your eyes and expand your perception outward, taking in the immense totality of the tens of thousands of souls orbiting the chamber. Your grasp on the souls is tenuous. You find yourself fighting to keep them all within your influence, and you can feel them slipping away from you as the machine gains speed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>A brief moment comes when it feels as though you hold all of them at once, and their force is so great it feels as though they will tear you apart.
+
+In that moment you dedicate your entire being to bending their orbit, channeling their flow in a new direction...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Trigger Conv Node 17</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

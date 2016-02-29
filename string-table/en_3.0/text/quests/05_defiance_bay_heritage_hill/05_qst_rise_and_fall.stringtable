@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_defiance_bay_heritage_hill\05_qst_rise_and_fall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Rise and Fall</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Search Heritage Hill for Icantha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Return to Teir Nowneth with the command words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Find a sacrifice for Aldhelm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>End Teir Nowneth's curse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Lure Saeda out of the Valtas Manor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Obtain a Fragment of the Godhammer bomb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Put the Fragment of Magran's Eternal Stone into Teir Nowneth's Soul Machine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Take Saeda to Aldhelm inside Teir Nowneth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Operate the ancient machine atop Teir Nowneth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Unravel the mystery of Heritage Hill's curse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Escape from Teir Nowneth's Explosion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>An ancient Engwithan tower in Heritage Hill has wreaked havoc on the district, transforming its residents into bloodthirsty monsters. I may be able to restore the district to normal, but I'll have to get help from someone who's familiar with the tower and the ancient processes that govern it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Icantha seems to have known about both the tower and the Engwithan language. Perhaps I can convince her to tell me how to disrupt the tower's magic.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Now that I understand the Engwithan language and the ancient words that command Teir Nowneth, I can return and see about ending the curse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>The animancer has degenerated further. If I want him to retain his abilities long enough to help me with Teir Nowneth, I'll have to sacrifice a victim to his unnatural hunger. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Aldhelm Graeg is dead. I'll have to find a way to end the curse without his help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I met a young girl named Saeda Valtas. If I could find a way to get her out of her family's house, I could probably feed her to Aldhelm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Icantha explained that an artifact containing massive amounts of essence could destroy the tower, preventing someone from triggering the curse in the future.
+
+She told me that the Temple of Magran in Defiance Bay has a fragment of the Godhammer bomb, the weapon that ended the Saint's War.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>The tower itself is a giant machine built to re-animate ancient Engwithans into eternal warriors. I can disrupt this power's hold on Heritage Hill by placing a fragment of Magran's Eternal Stone at the altar atop Teir Nowneth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Saeda's with me now. If I sacrifice her to Aldhelm, he should be able to help me control Teir Nowneth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Aldhelm has recovered enough to help me control the tower's machinery.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>It seems an explanation for the curse - and how to stop it - may lie with an animancer named Icantha. She's somewhere in Heritage Hill.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>The fragment of Magran's Eternal Stone reacted with the immense soul energy accumulated at the top of Teir Nowneth - an explosion is imminent. I must get to safety before the blast destroys everything around me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>I used the machines atop Teir Nowneth to dispel the magic binding the souls to the district. Heritage Hill is now freed from the curse of the undead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>I used the fragment of the Godhammer bomb to destroy Teir Nowneth. The curse of Heritage Hill is now lifted, and I've ensured that no one else can abuse the tower's magic ever again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>I used the machines atop Teir Nowneth to channel the magic of the ancient Engwithan tower to Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

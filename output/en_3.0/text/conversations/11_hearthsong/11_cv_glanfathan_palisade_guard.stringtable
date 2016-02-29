@@ -1,0 +1,171 @@
+<StringTableFile>
+  <Name>conversations\11_hearthsong\11_cv_glanfathan_palisade_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>戰 士 漫 步 過 來 ， 塗 料 的 條 痕 下 是 懷 疑 的 冷 笑 。 在 盯 著 你 之 前 他 掃 了 掃 你 的 裝 備 。
+
+「 又 是 從 燃 燒 的 城 市 來 的 逃 亡 者 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「 艾 爾 · 格 蘭 法 斯 的 六 大 部 落 歡 迎 你 來 到 雙 榆 城 。 你 前 面 的 是 爐 火 樂 曲 區 。 你 可 以 自 由 探 索 那 裡 ， 但 不 要 前 往 其 它 區 域 。 那 些 區 域 禁 止 外 邦 人 前 往 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「 關 於 雙 榆 城 你 能 告 訴 我 什 麼 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「 為 什 麼 禁 止 前 往 雙 榆 城 剩 下 的 區 域 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「 我 會 牢 記 你 的 話 的 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「 還 是 外 邦 人 ！ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>「 神 聖 城 市 分 為 四 個 區 域 ， 爐 火 樂 曲 區 ， 普 通 區 域 ， 古 老 樂 曲 區 ， 聖 廟 ， 榆 樹 領 域 ， 德 魯 伊 和 delemgan的 老 家 ， 以 及 安 息 島 ， 那 是 城 市 裡 最 神 聖 的 地 方 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>「 雙 榆 城 是 個 聖 城 ， 在 護 石 者 和 創 建 者 遇 見 的 地 方 建 造 。 它 存 在 在 建 造 者 的 作 品 旁 ， 它 也 是 艾 爾 · 格 蘭 法 斯 唯 一 一 處 可 以 涉 足 的 地 方 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>「 我 沒 聽 說 過 護 石 者 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>「 誰 是 建 造 者 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>「 六 大 部 落 中 最 古 老 的 。 」 他 用 劍 尖 指 向 身 後 一 處 長 屋 。 「 走 上 樓 梯 ， 進 入 六 者 長 廊 。 貝 蘇 爾 ， 指 引 羅 盤 之 阿 納 姆 法 斯 ， 可 以 告 訴 你 更 多 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>「 你 認 為 他 們 是 因 格 維 斯 。 對 我 們 來 說 ， 他 們 是 建 造 者 ， 我 們 今 日 守 護 著 的 聖 地 的 建 造 者 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>「 我 想 了 解 爐 火 樂 曲 區 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>「 古 老 樂 曲 區 裡 有 什 麼 神 廟 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>「 給 我 講 講 榆 樹 領 域 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>「 你 知 道 安 息 島 嗎 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>「 這 是 爐 火 樂 曲 區 。 這 兒 是 格 蘭 法 斯 人 和 外 邦 人 可 以 聚 集 的 地 方 。 六 者 長 廊 同 樣 在 這 裡 ， 那 兒 是 我 們 部 落 的 首 領 們  - 阿 納 姆 法 斯  - 碰 面 的 地 方 。 」
+
+他 指 向 區 域 另 一 端 的 巨 大 圓 形 建 築 。 「 那 兒 是 市 場 。 在 那 兒 看 好 錢 包  - 討 價 還 價 沒 人 比 得 過 格 蘭 法 斯 。 如 果 你 需 要 找 地 方 住 宿 ， 順 著 圍 牆 向 東 走 。 在 那 兒 ， 你 可 以 找 到 天 堂 苗 林 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>「 那 兒 是 我 們 的 阿 納 姆 法 斯 在 建 造 者 放 置 的 石 頭 之 間 休 息 的 地 方 。 有 人 說 一 些 阿 納 姆 法 斯 的 靈 魂 還 在 那 兒 徘 徊 。 」
+
+「 這 條 路 通 過 古 老 樂 曲 區 。 那 兒 是 雙 榆 城 裡 最 神 聖 的 地 方 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>「 對 於 這 城 市 我 就 想 知 道 這 麼 多 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>「 那 兒 是 冰 封 穹 頂 ， 侍 奉 著 災 瘟 之 神 裡 姆 甘 德 。 一 群 不 久 前 從 冰 封 南 方 之 地 來 的 蒼 白 的 精 靈 看 管 著 那 裡 。 」
+
+「 那 還 有 神 聖 之 巢 ， 一 座 赫 麗 雅 神 廟 ， 和 加 拉 維 恩 之 深 淵 ， 侍 奉 著 獵 捕 之 神 的 野 獸 巢 穴 。 通 往 安 息 島 的 路 也 在 那 裡 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>「 那 兒 是 泰 爾 · 埃 夫 隆 ， 建 造 者 的 塔 裡 面 唯 一 完 整 無 損 的 。 兩 棵 偉 大 榆 樹 在 它 周 圍 纏 繞 著  - 連 神 們 最 偉 大 作 品 都 在 保 護 建 造 者 的 作 品 。 兩 個 delemgan姐 妹 住 在 那 裡 。 」
+
+「 戰 士 會 堂 在 這 個 區 域 的 另 一 端 。 有 謠 言 說 三 牙 劍 獅 虎 的 阿 納 姆 法 斯 Simoc還 在 那 裡 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>「 還 有 什 麼 你 想 聽 的 嗎 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>「 外 邦 人 ， 然 而 ， 對 這 裡 的 石 頭 沒 有 應 有 的 尊 重 。 」
+
+他 的 話 觸 動 了 你 記 憶 的 某 處 。 你 看 見 了 一 個 阿 德 拉 完 美 立 方 的 圖 像 。 很 快 的 ， 圖 像 消 失 了 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Bank Node 24</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>「 我 的 通 魂 者 朋 友 ， 」 希 拉 維 在 你 身 後 大 聲 說 道 ， 「 陪 伴 你 到 榆 樹 領 域 和 那 些 德 魯 伊 人 見 面 是 我 的 榮 幸  - 盡 管 我 對 任 何 有 殘 忍 供 奉 名 聲 的 圈 子 都 很 小 心 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>「 你 對 雙 榆 城 還 有 其 它 問 題 嗎 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>「 任 何 部 落 的 首 領 都 可 以 給 你 城 市 的 許 可 。 今 天 在 六 者 走 廊 的 只 有 阿 納 姆 法 斯 貝 蘇 爾 ， 她 也 有 自 己 的 麻 煩 。 」 他 扭 頭 看 向 區 域 中 心 的 長 屋 。</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>「 榆 樹 領 域 也 是 德 魯 伊 人 保 存 大 廳 的 地 方 。 那 兒 有 金 色 樹 林 的 Ovates和 血 色 沙 地 的 Ethik Nol。 很 多 人 對 Ethik Nol殘 忍 的 供 奉 不 以 為 然 ， 但 崇 高 的 Ovate Erona自 有 她 的 強 大 之 處 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>「 對 於 所 有 格 蘭 法 斯 這 個 城 市 都 是 神 聖 的 ， 因 為 這 兒 是 我 們 祖 先 第 一 次 遇 見 建 造 者 的 地 方 。 那 場 宿 命 的 會 面 使 我 們 人 民 從 世 代 的 流 浪 變 成 在 建 造 者 遺 跡 上 永 遠 地 安 家 。 」
+
+「 當 建 造 者 命 令 我 們 在 這 兒 定 居 ， 他 們 給 予 我 們 在 這 兒 住 在 他 們 建 造 裡 的 特 權 。 在 艾 爾 · 格 蘭 法 斯 這 裡 是 唯 一 允 許 的 地 方 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>「 你 們 的 拜 訪 最 好 別 太 長 。 我 們 聽 說 暴 動 已 經 結 束 了 ， 反 抗 灣 的 大 門 再 次 打 開 了 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

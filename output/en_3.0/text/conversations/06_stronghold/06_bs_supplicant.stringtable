@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\06_stronghold\06_bs_supplicant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「 主 人 ， 我 有 件 重 要 的 事 需 要 你 引 起 注 意 … 」</DefaultText>
+      <FemaleText>「 夫 人 ， 我 有 件 重 要 的 事 需 要 你 引 起 注 意 … 」</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「 我 相 信 已 經 取 得 進 展 了 ， 主 人 ？ 」</DefaultText>
+      <FemaleText>「 我 相 信 已 經 取 得 進 展 了 ， 夫 人 ？ 」 </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「 我 不 是 想 給 你 壓 力 ， 主 人 ， 但 … 時 間 至 關 重 要 。 」</DefaultText>
+      <FemaleText>「 我 不 是 想 給 你 壓 力 ， 夫 人 ， 但 … 時 間 至 關 重 要 。 」 </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「 你 好 ， 主 人 。 我 們 之 前 討 論 的 事 有 消 息 嗎 ？ 」</DefaultText>
+      <FemaleText>「 你 好 ， 夫 人 。 我 們 之 前 討 論 的 事 有 消 息 嗎 ？ 」</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

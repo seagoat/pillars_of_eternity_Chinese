@@ -1,0 +1,37 @@
+<StringTableFile>
+  <Name>conversations\companions\poi\poi_bs_temple_entrance</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bank Node 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「 你 先 請 。 我 堅 持 如 此 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「 你 認 為 這 會 通 向 哪 裡 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「 啊 哈 ！ 就 是 這 樣 。 現 在 我 們 只 需 要 沿 著 這 些 危 險 的 台 階 走 進 模 糊 的 黑 暗 中 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「 這 裡 有 野 獸 … 他 們 是 人 類 形 態 的 禽 獸 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>「 空 氣 有 血 液 和 懦 弱 的 厭 惡 的 味 道 。 如 果 這 不 是 沉 默 奴 隸 的 害 蟲 巢 穴 ， 我 就 去 做 雕 像 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

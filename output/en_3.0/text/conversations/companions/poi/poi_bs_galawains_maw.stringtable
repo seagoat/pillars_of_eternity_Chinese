@@ -1,0 +1,32 @@
+<StringTableFile>
+  <Name>conversations\companions\poi\poi_bs_galawains_maw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bank Node 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「 不 錯 。 很 狡 猾 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「 我 認 為 我 岳 母 的 房 子 很 不 祥 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「 很 高 興 我 們 不 用 走 後 門 進 入 這 個 地 方 … … 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>「 一 群 忠 犬 。 不 會 思 考 只 懂 得 愚 忠 ， 一 點 恩 惠 就 讓 他 們 搖 尾 乞 憐 。 還 有 什 麼 更 適 合 形 容 加 拉 維 恩 呢 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

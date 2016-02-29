@@ -1,0 +1,27 @@
+<StringTableFile>
+  <Name>conversations\04_defiance_bay_brackenbury\04_bs_doemenel_gossip</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>「 我 跟 你 說 的 就 是 他 。 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>「 殺 死 艾 德 裡 德 · 溫 菲 爾 德 的 那 刺 客 ？ 」</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>「 別 那 麼 大 聲 ， 他 會 聽 到 的 ！ 」</DefaultText>
+      <FemaleText>"Not so loud, she'll hear you!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>「 他 如 果 想 對 隊 長 動 手 的 話 ， 他 可 能 早 動 了 。 」</DefaultText>
+      <FemaleText>"If she snuck up on the captain, she probably already did."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_dyrwood\00_si_skaen_temple_bridge_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Two posts stand firmly in the stonework with broken ropes falling into the dark chasm of a large cavern. On the other side, there is a slight opening of where a bridge may have led.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Inspect the area.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Toss your rope and grappling hook across the chasm.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Leave.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The darkness below continues as far as you can see. Broken stone pillars, remnants of the missing bridge, rise from the abyss.
+
+Across the gap, you see the mouth of a tunnel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Wooden beams protrude from the stones on either side of the chasm. Despite their age, they look sturdy enough to hold a grappling hook and rope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You aim for the beams on the opposite side of the chasm and hurl your grappling hook across the gap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>It snags on one of the beams, digging into the wood as you pull. With a couple firm tugs, you determine that the connection is secure. You tie the free end of the rope to one of the beams next to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The sound of labored breathing echoes across the chasm. Everyone but [SkillCheck 0] is tiring.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Shimmy across the chasm.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>You reach the other side without incident. The rope still feels taut and secure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The rope remains taut under your weight, but you feel the tension and vibration of every movement as you shimmy across. The groans and creaks of the wooden beams echo in the abyss.
+
+You keep your progress slow and steady.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>The path ends in a precipice. The remains of a ruined bridge lie on the other side of the chasm.
+
+Your rope stretches across the gap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>The sound of labored breathing echoes across the chasm. Everyone is tiring.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>You reach the other side, safe but exhausted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>The sound of labored breathing echoes across the chasm. [SkillCheck 0], [SkillCheck 1], [SkillCheck 2], and [SkillCheck 3] are tiring.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The sound of labored breathing echoes across the chasm. [SkillCheck 0], [SkillCheck 1], and [SkillCheck 2] are tiring.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>The sound of labored breathing echoes across the chasm. [SkillCheck 0] and [SkillCheck 1] are tiring.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>The sound of labored breathing echoes across the chasm. [SkillCheck 0] is tiring.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Sweat on your palms loosens your grip, and when you are partway across the chasm, your hands slip, leaving you dangling by your ankles.
+
+With all your strength, you manage to heave yourself back up to the rope and catch it, but the episode has left you exhausted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>The sound of labored breathing echoes across the chasm. Some of your party is tiring.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
