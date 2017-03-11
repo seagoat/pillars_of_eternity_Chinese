@@ -27,29 +27,40 @@ TAG_STRING_TABLE_FEMALE_TEXT = u"FemaleText"
 # read translated result from each group
 translated_result_list = [
     {
-        u"group_name": u"3dm4.0+ali1.5",
-        u"path": u"3DMv4.0+ALI213v1.5-Pillars.of.Eternity.CHT.v1.6",
-    },
-    {
-        u"group_name": u"ali3.5",
-        u"path": u"cn_ali_3.5",
-    },
-    {
-        u"group_name": u"3dm5.0",
-        u"path": u"3dm_5.0",
+        u"group_name": u"ali_4.0",
+        u"path": u"ali_4.0",
     },
     # {
-    # u"group_name": u"cht_1.06",
-    # u"path": u"2015-07-07_Pillars of Eternity_CHT_v1.0_(For 1.06.0617)",
+    #     u"group_name": u"亚米蝶巨蟹3.01",
+    #     u"path": u"亚米蝶巨蟹_3.01",
     # },
     # {
-    # u"group_name": u"1.5v2",
-    # u"path": u"汉化版1.5正式版2",
+    #     u"group_name": u"3dm5.0",
+    #     u"path": u"3dm_5.0",
     # },
     # {
-    # u"group_name": u"tw",
-    # u"path": u"tw",
+    #     u"group_name": u"ali3.5",
+    #     u"path": u"cn_ali_3.5",
     # },
+    # {
+    #     u"group_name": u"tw",
+    #     u"path": u"tw",
+    # },
+    # {
+    #     u"group_name": u"cht_1.06",
+    #     u"path": u"2015-07-07_Pillars of Eternity_CHT_v1.0_(For 1.06.0617)",
+    # },
+    # {
+    #     u"group_name": u"1.5v2",
+    #     u"path": u"汉化版1.5正式版2",
+    # },
+    #
+    # {
+    #     u"group_name": u"3dm4.0+ali1.5",
+    #     u"path": u"3DMv4.0+ALI213v1.5-Pillars.of.Eternity.CHT.v1.6",
+    # },
+
+
 ]
 def is_ascii(s):
     return all(ord(c) < 128 for c in s)
