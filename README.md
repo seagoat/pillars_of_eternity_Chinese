@@ -5,9 +5,17 @@ Pillars of Eternity Chinese translation pack | 永恒之柱中文汉化包
 release 中按照主程序版本打包好了压缩包。包含 language.xml 文件
 ### 使用方法
 * 选择对应自己版本的 release（或者直接下载最新的 mod.7z)
-* 下载 mod.7z
-* 解压缩到游戏的 data\localized 目录下
-* 进入游戏，选择语言
+* 从整合汉化包中下载 汉化包文件
+* 解压缩到游戏的主目录下(应该有 data\data_expansion1\data_expansion2三个子目录)
+* 进入游戏，选择语言(为了不跟其他各位大神的冲突,我起名叫 seagoat 大杂烩)
+
+## 20170312
+> 按照以下的优先级进行整合
+        * trow
+        * 3dm
+        * ali
+        * 其他
+> 处理过的文件放在 整合汉化包 目录
 
 ## 20160229
 > 对应 v3.01 string table 更新
