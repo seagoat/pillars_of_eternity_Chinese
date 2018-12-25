@@ -1,6 +1,12 @@
 # pillars_of_eternity_Chinese
 Pillars of Eternity Chinese translation pack | 永恒之柱中文汉化包
 
+## some comment
+本人这个游戏其实很久没玩了，这个游戏后续更新了太多版本和 DLC
+所以发布的包都太老了，估计无法运行
+脚本其实也是随手写的，比较乱,本人懒癌发作，是在不想重构
+大家关注之前，请先知晓
+
 ## 如何使用
 release 中按照主程序版本打包好了压缩包。包含 language.xml 文件
 ### 使用方法
